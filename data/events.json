@@ -43437,16 +43437,21 @@
       "category": "live",
       "title": "CHAGE SUMMER CONCERT in OISO",
       "status": "recorded",
-      "verification": "primary",
-      "note": "2008大磯なぎさの祭典",
+      "verification": "secondary",
+      "note": "2008大磯なぎさの祭典。会場は当時の公演案内（二次資料）で照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "参考資料（非公式・公演記録）",
+          "url": "https://mixi.jp/view_bbs.pl?comm_id=2049233&from=cross_search&id=33145052"
         }
       ],
       "country": "日本",
-      "prefecture": "神奈川県"
+      "prefecture": "神奈川県",
+      "venue": "大磯港内県営駐車場 特設ステージ"
     },
     {
       "id": "live-aska-scene-2008-004",
@@ -43943,14 +43948,20 @@
       "title": "ライブW 木枯らしのコンチェルト",
       "status": "recorded",
       "verification": "primary",
-      "note": "WOWOW主催ライブ",
+      "note": "WOWOW主催ライブ。会場は当時の公演取材記事で確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "当時の公演取材記事",
+          "url": "https://news.mynavi.jp/article/20081128-kogarashi/"
         }
       ],
-      "country": "日本"
+      "country": "日本",
+      "venue": "東京国際フォーラム",
+      "prefecture": "東京都"
     },
     {
       "id": "live-chage-aishiteru-2008-010",
@@ -44009,7 +44020,7 @@
         }
       ],
       "country": "日本",
-      "venue": "沖縄コンベンションセンター",
+      "venue": "沖縄コンベンションセンター 展示棟",
       "prefecture": "沖縄県"
     },
     {
@@ -44019,16 +44030,21 @@
       "category": "live",
       "title": "AIR-G’ FM北海道 GOTCHA! presents CHAGE Acoustic Xmas Night",
       "status": "recorded",
-      "verification": "primary",
-      "note": "",
+      "verification": "secondary",
+      "note": "会場は公演記録の二次資料で照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "参考資料（非公式・公演記録）",
+          "url": "https://www.livefans.jp/events/14643"
         }
       ],
       "country": "日本",
-      "prefecture": "北海道"
+      "prefecture": "北海道",
+      "venue": "Zepp Sapporo"
     },
     {
       "id": "milestone-2009-hiatus",
@@ -70083,5 +70099,5 @@
       ]
     }
   ],
-  "siteVersion": "1.8.2-14"
+  "siteVersion": "1.8.2-15"
 }
