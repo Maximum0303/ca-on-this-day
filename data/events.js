@@ -59798,7 +59798,7 @@ window.CA_EVENT_DATA = {
       "title": "equal大感謝祭「Chage Christmas Party 2020」をChageと一緒にDuooooo!!!",
       "status": "recorded",
       "verification": "primary",
-      "note": "生配信ファンクラブイベント",
+      "note": "生配信ファンクラブイベント 【2021〜2022年公式点検】2020年の公演を題材とした2021年2月の生配信企画。2020年12月の有観客公演とは別。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -59864,7 +59864,7 @@ window.CA_EVENT_DATA = {
       "title": "僕らのポプコンエイジ・オンライン2021",
       "status": "recorded",
       "verification": "primary",
-      "note": "配信ライブ出演",
+      "note": "配信ライブ出演 【2021〜2022年公式点検】生配信コンサート出演。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -59881,8 +59881,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA配信ライブ「すべての事には理由がある」",
       "status": "recorded",
       "verification": "primary",
-      "note": "ASKA初の配信ライブ。有観客で収録・配信。配信開始時刻は資料に揺れがあるため未掲載",
+      "note": "ASKA初の配信ライブ。有観客で収録・配信。配信開始時刻は資料に揺れがあるため未掲載 【2021〜2022年公式点検】2021年6月23日に初配信。アーカイブ配信日と開催日を混同しない。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        },
         {
           "label": "オリコン現地取材・主催の配信記録",
           "url": "https://www.oricon.co.jp/news/2197745/full/"
@@ -59946,8 +59950,12 @@ window.CA_EVENT_DATA = {
       "title": "シングル「笑って歩こうよ」CD発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【2021〜2022年公式点検】発売日を発売報道で確認。",
       "sources": [
+        {
+          "label": "公演情報（二次資料）",
+          "url": "https://www.oricon.co.jp/news/2200139/full/"
+        },
         {
           "label": "Billboard JAPAN｜CD商品情報",
           "url": "https://www.billboard-japan.com/goods/detail/676003"
@@ -59962,7 +59970,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Live Tour 2021 ～Boot up!!～",
       "status": "recorded",
       "verification": "primary",
-      "note": "福岡初日を除き同日2回公演。公式の時刻に基づき区別",
+      "note": "福岡初日を除き同日2回公演。公式の時刻に基づき区別 【2021〜2022年公式点検】開演18:30。公式ツアー日程で照合。",
       "sources": [
         {
           "label": "Chage公式｜開演時刻付き全公演日程",
@@ -60176,7 +60184,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
       "status": "postponed",
       "verification": "primary",
-      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年1月7日に振替開催",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年1月7日に振替開催 【2021〜2022年公式点検】2021年の当初公演日。主催者の公演履歴では2022-01-07へ延期。開催済み公演ではない。",
       "sources": [
         {
           "label": "主催者公開の振替対応表",
@@ -60197,7 +60205,7 @@ window.CA_EVENT_DATA = {
       "title": "シングル「PRIDE」CD発売",
       "status": "released",
       "verification": "primary",
-      "note": "CHAGE and ASKAの1989年作をASKAソロで新録した2021年盤",
+      "note": "CHAGE and ASKAの1989年作をASKAソロで新録した2021年盤 【2021〜2022年公式点検】新録シングルCDの発売。C&A原曲リリースと区別。",
       "sources": [
         {
           "label": "ORICON NEWS｜商品情報",
@@ -60213,7 +60221,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
       "status": "postponed",
       "verification": "primary",
-      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月16日に振替開催",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月16日に振替開催 【2021〜2022年公式点検】2021年の当初公演日。主催者の公演履歴では2022-02-16へ延期。開催済み公演ではない。",
       "sources": [
         {
           "label": "主催者公開の振替対応表",
@@ -60270,7 +60278,7 @@ window.CA_EVENT_DATA = {
       "title": "WOWOWプラス「Chage Live Tour 2021 ～Boot up!!～」放送",
       "status": "recorded",
       "verification": "primary",
-      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録 【2021〜2022年公式点検】9月の公演日ではなく、放送日を登録。",
       "sources": [
         {
           "label": "Chage公式Biography（放送日・出演日）",
@@ -60286,7 +60294,7 @@ window.CA_EVENT_DATA = {
       "title": "LIVE from “Great Studio” 2021 ～島田昌典 あざみ野サウンドの世界～",
       "status": "recorded",
       "verification": "primary",
-      "note": "ゲスト出演",
+      "note": "ゲスト出演 【2021〜2022年公式点検】イベントゲスト出演。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -60305,7 +60313,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
       "status": "postponed",
       "verification": "primary",
-      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月18日に振替開催",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月18日に振替開催 【2021〜2022年公式点検】2021年の当初公演日。主催者の公演履歴では2022-02-18へ延期。開催済み公演ではない。",
       "sources": [
         {
           "label": "主催者公開の振替対応表",
@@ -60342,7 +60350,7 @@ window.CA_EVENT_DATA = {
       "title": "AMAZONS 35th Anniversary Live Bunkamura",
       "status": "recorded",
       "verification": "primary",
-      "note": "ゲスト出演",
+      "note": "ゲスト出演 【2021〜2022年公式点検】周年記念公演へ参加。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -60425,8 +60433,12 @@ window.CA_EVENT_DATA = {
       "title": "『Chage’s Christmas ～チャゲクリ～』発売",
       "status": "released",
       "verification": "primary",
-      "note": "CD+DVD／CD+Blu-rayを同一作品として登録",
+      "note": "CD+DVD／CD+Blu-rayを同一作品として登録 【2021〜2022年公式点検】Chage公式年譜による発売日。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/biography/2021.php"
+        },
         {
           "label": "Chage公式Discography",
           "url": "https://chage.jp/discography/chage/single/016.php"
@@ -60441,7 +60453,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
       "status": "postponed",
       "verification": "primary",
-      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年4月13日に振替開催",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年4月13日に振替開催 【2021〜2022年公式点検】2021年の当初公演日。主催者の公演履歴では2022-04-13へ延期。開催済み公演ではない。",
       "sources": [
         {
           "label": "主催者公開の振替対応表",
@@ -60526,7 +60538,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
       "status": "postponed",
       "verification": "primary",
-      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月5日に振替開催",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月5日に振替開催 【2021〜2022年公式点検】2021年の当初公演日。主催者の公演履歴では2022-02-05へ延期。開催済み公演ではない。",
       "sources": [
         {
           "label": "主催者公開の振替対応表",
@@ -60554,6 +60566,23 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2021.php"
         }
       ]
+    },
+    {
+      "id": "v18222-2021-12-02-aska-002",
+      "date": "2021-12-02",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "オンラインライブ「ASKA グラミー賞ノミネート希望 Acoustic Live」",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "12月2日配信。12月1日の収録日とは区別する。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "venue": "オンライン配信"
     },
     {
       "id": "v14-media-ch21-018",
@@ -60723,7 +60752,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
       "status": "postponed",
       "verification": "primary",
-      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年3月24日に振替開催",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年3月24日に振替開催 【2021〜2022年公式点検】2021年の当初公演日。主催者の公演履歴では2022-03-24へ延期。開催済み公演ではない。",
       "sources": [
         {
           "label": "主催者公開の振替対応表",
@@ -60744,7 +60773,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2021〜2022年公式点検】開演18:30。公式スケジュールに基づく。",
       "sources": [
         {
           "label": "Chage公式｜2021年冬イベント全公演日程",
@@ -60766,7 +60795,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2021〜2022年公式点検】開演18:30。公式スケジュールに基づく。",
       "sources": [
         {
           "label": "Chage公式｜2021年冬イベント全公演日程",
@@ -60932,7 +60961,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
       "status": "postponed",
       "verification": "primary",
-      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年1月10日に振替開催",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年1月10日に振替開催 【2021〜2022年公式点検】2021年の当初公演日。主催者の公演履歴では2022-01-10へ延期。開催済み公演ではない。",
       "sources": [
         {
           "label": "主催者公開の振替対応表",
@@ -60953,7 +60982,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
       "status": "recorded",
       "verification": "primary",
-      "note": "1st公演",
+      "note": "1st公演 【2021〜2022年公式点検】開演15:30。公式スケジュールに基づく。",
       "sources": [
         {
           "label": "Chage公式｜2021年冬イベント全公演日程",
@@ -60975,7 +61004,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
       "status": "recorded",
       "verification": "primary",
-      "note": "2nd公演",
+      "note": "2nd公演 【2021〜2022年公式点検】開演18:30。公式スケジュールに基づく。",
       "sources": [
         {
           "label": "Chage公式｜2021年冬イベント全公演日程",
@@ -61045,7 +61074,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
       "status": "recorded",
       "verification": "primary",
-      "note": "1st公演",
+      "note": "1st公演 【2021〜2022年公式点検】開演13:30。公式スケジュールに基づく。",
       "sources": [
         {
           "label": "Chage公式｜2021年冬イベント全公演日程",
@@ -61067,7 +61096,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
       "status": "recorded",
       "verification": "primary",
-      "note": "2nd公演",
+      "note": "2nd公演 【2021〜2022年公式点検】開演16:30。公式スケジュールに基づく。",
       "sources": [
         {
           "label": "Chage公式｜2021年冬イベント全公演日程",
@@ -61153,7 +61182,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
       "status": "recorded",
       "verification": "primary",
-      "note": "1st公演",
+      "note": "1st公演 【2021〜2022年公式点検】開演15:30。公式スケジュールに基づく。",
       "sources": [
         {
           "label": "Chage公式｜2021年冬イベント全公演日程",
@@ -61175,7 +61204,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
       "status": "recorded",
       "verification": "primary",
-      "note": "2nd公演",
+      "note": "2nd公演 【2021〜2022年公式点検】開演18:30。公式スケジュールに基づく。",
       "sources": [
         {
           "label": "Chage公式｜2021年冬イベント全公演日程",
@@ -61213,7 +61242,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
       "status": "postponed",
       "verification": "primary",
-      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月11日に振替開催",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月11日に振替開催 【2021〜2022年公式点検】2021年の当初公演日。主催者の公演履歴では2022-02-11へ延期。開催済み公演ではない。",
       "sources": [
         {
           "label": "主催者公開の振替対応表",
@@ -61234,7 +61263,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
       "status": "recorded",
       "verification": "primary",
-      "note": "1st公演",
+      "note": "1st公演 【2021〜2022年公式点検】開演15:30。公式スケジュールに基づく。",
       "sources": [
         {
           "label": "Chage公式｜2021年冬イベント全公演日程",
@@ -61256,7 +61285,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
       "status": "recorded",
       "verification": "primary",
-      "note": "2nd公演",
+      "note": "2nd公演 【2021〜2022年公式点検】開演18:30。公式スケジュールに基づく。",
       "sources": [
         {
           "label": "Chage公式｜2021年冬イベント全公演日程",
@@ -61422,7 +61451,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2021〜2022年公式点検】開演15:30。公式スケジュールに基づく。",
       "sources": [
         {
           "label": "Chage公式｜2021年冬イベント全公演日程",
@@ -61476,7 +61505,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2021〜2022年公式点検】開演15:30。公式スケジュールに基づく。",
       "sources": [
         {
           "label": "Chage公式｜2021年冬イベント全公演日程",
@@ -61514,7 +61543,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
       "status": "postponed",
       "verification": "primary",
-      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月14日に振替開催",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月14日に振替開催 【2021〜2022年公式点検】2021年の当初公演日。主催者の公演履歴では2022-02-14へ延期。開催済み公演ではない。",
       "sources": [
         {
           "label": "主催者公開の振替対応表",
@@ -61535,7 +61564,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催済み。2021年の延期前予定日は別記録／2021/10/9の延期分",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/10/9の延期分 【2021〜2022年公式点検】2021-10-09公演の振替日。2022年全国13公演の実施日。",
       "sources": [
         {
           "label": "Get The Classics主催公式｜2022年全13公演",
@@ -61557,7 +61586,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催済み。2021年の延期前予定日は別記録／2021/12/17の延期分",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/12/17の延期分 【2021〜2022年公式点検】2021-12-17公演の振替日。2022年全国13公演の実施日。",
       "sources": [
         {
           "label": "Get The Classics主催公式｜2022年全13公演",
@@ -61588,6 +61617,23 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v18222-2022-01-14-chage-088",
+      "date": "2022-01-14",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage オンラインファンミーティング2022～めぐり合った奇跡は素敵！～ 初回",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2022年の毎月開催シリーズ。初回日付のみ確認済み。未照合の各回を月初の日付などで推測しない。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ],
+      "venue": "オンライン"
+    },
+    {
       "id": "v14-aska-2022-encore-003",
       "date": "2022-01-30",
       "artist": "ASKA",
@@ -61595,7 +61641,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催済み。2021年の延期前予定日は別記録／新規公演",
+      "note": "開催済み。2021年の延期前予定日は別記録／新規公演 【2021〜2022年公式点検】新規公演。2022年全国13公演の実施日。",
       "sources": [
         {
           "label": "Get The Classics主催公式｜2022年全13公演",
@@ -61617,7 +61663,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催済み。2021年の延期前予定日は別記録／2021/11/30の延期分",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/11/30の延期分 【2021〜2022年公式点検】2021-11-30公演の振替日。2022年全国13公演の実施日。",
       "sources": [
         {
           "label": "Get The Classics主催公式｜2022年全13公演",
@@ -61639,7 +61685,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催済み。2021年の延期前予定日は別記録／2021/12/22の延期分",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/12/22の延期分 【2021〜2022年公式点検】2021-12-22公演の振替日。2022年全国13公演の実施日。",
       "sources": [
         {
           "label": "Get The Classics主催公式｜2022年全13公演",
@@ -61661,7 +61707,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催済み。2021年の延期前予定日は別記録／2021/12/28の延期分",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/12/28の延期分 【2021〜2022年公式点検】2021-12-28公演の振替日。2022年全国13公演の実施日。",
       "sources": [
         {
           "label": "Get The Classics主催公式｜2022年全13公演",
@@ -61683,7 +61729,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催済み。2021年の延期前予定日は別記録／2021/10/16の延期分",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/10/16の延期分 【2021〜2022年公式点検】2021-10-16公演の振替日。2022年全国13公演の実施日。",
       "sources": [
         {
           "label": "Get The Classics主催公式｜2022年全13公演",
@@ -61705,7 +61751,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催済み。2021年の延期前予定日は別記録／2021/11/6の延期分",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/11/6の延期分 【2021〜2022年公式点検】2021-11-06公演の振替日。2022年全国13公演の実施日。",
       "sources": [
         {
           "label": "Get The Classics主催公式｜2022年全13公演",
@@ -61720,6 +61766,24 @@ window.CA_EVENT_DATA = {
       "startTime": "18:30"
     },
     {
+      "id": "v18222-2022-02-20-aska-054",
+      "date": "2022-02-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "AUBADE SYMPHONIC WAVE 2022 出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ASKA出演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "venue": "オーバード・ホール",
+      "prefecture": "富山県"
+    },
+    {
       "id": "v14-aska-2022-encore-009",
       "date": "2022-02-23",
       "artist": "ASKA",
@@ -61727,7 +61791,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催済み。2021年の延期前予定日は別記録／新規公演",
+      "note": "開催済み。2021年の延期前予定日は別記録／新規公演 【2021〜2022年公式点検】新規公演。2022年全国13公演の実施日。",
       "sources": [
         {
           "label": "Get The Classics主催公式｜2022年全13公演",
@@ -61749,7 +61813,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催済み。2021年の延期前予定日は別記録／ASKA誕生日・特別公演",
+      "note": "開催済み。2021年の延期前予定日は別記録／ASKA誕生日・特別公演 【2021〜2022年公式点検】新規公演。同公演はVR生配信も実施。配信を別公演として二重計上しない。2022年全国13公演の実施日。",
       "sources": [
         {
           "label": "Get The Classics主催公式｜2022年全13公演",
@@ -61787,7 +61851,7 @@ window.CA_EVENT_DATA = {
       "title": "川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～ 振替公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "ゲスト出演。会場詳細未確認",
+      "note": "ゲスト出演。会場詳細未確認 【2021〜2022年公式点検】2020年企画からの振替ゲスト出演。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -61803,7 +61867,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催済み。2021年の延期前予定日は別記録／2021/12/9の延期分",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/12/9の延期分 【2021〜2022年公式点検】2021-12-09公演の振替日。2022年全国13公演の実施日。",
       "sources": [
         {
           "label": "Get The Classics主催公式｜2022年全13公演",
@@ -61841,7 +61905,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催済み。2021年の延期前予定日は別記録／新規公演",
+      "note": "開催済み。2021年の延期前予定日は別記録／新規公演 【2021〜2022年公式点検】新規公演。2022年全国13公演の実施日。",
       "sources": [
         {
           "label": "Get The Classics主催公式｜2022年全13公演",
@@ -61882,7 +61946,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA premium concert tour -higher ground- アンコール公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催済み。2021年の延期前予定日は別記録／ツアー最終日。2021/11/26の延期分",
+      "note": "開催済み。2021年の延期前予定日は別記録／ツアー最終日。2021/11/26の延期分 【2021〜2022年公式点検】2021-11-26公演の振替日。2022年全国13公演の実施日。",
       "sources": [
         {
           "label": "Get The Classics主催公式｜2022年全13公演",
@@ -61895,6 +61959,23 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都",
       "venue": "東京国際フォーラム ホールA",
       "startTime": "18:30"
+    },
+    {
+      "id": "v18222-2022-04-21-aska-055",
+      "date": "2022-04-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "TOKYO SYMPHONIC WAVE 2022 チャリティーコンサート出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ASKA出演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "prefecture": "東京都"
     },
     {
       "id": "v14-chage2022-beatles-talk",
@@ -61929,6 +62010,23 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v18222-2022-06-05-aska-056",
+      "date": "2022-06-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "葉加瀬太郎音楽祭2022 出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ASKA出演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
       "id": "v14-release-020",
       "date": "2022-07-06",
       "artist": "Chage",
@@ -61936,13 +62034,35 @@ window.CA_EVENT_DATA = {
       "title": "「そういうひと」配信開始",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【2021〜2022年公式点検】公式作品情報による発売・配信開始日。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/biography/2022.php"
+        },
         {
           "label": "Chage公式Discography",
           "url": "https://chage.jp/discography/"
         }
       ]
+    },
+    {
+      "id": "v18222-2022-07-06-aska-066",
+      "date": "2022-07-06",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA＆九州スペシャルオーケストラ公演【当初予定・延期】",
+      "status": "postponed",
+      "verification": "secondary",
+      "note": "2022-09-10公演への振替。7月には実施されていない。",
+      "sources": [
+        {
+          "label": "公演情報（二次資料）",
+          "url": "https://lp.p.pia.jp/event/music/250559/index.html"
+        }
+      ],
+      "venue": "キャナルシティ劇場",
+      "prefecture": "福岡県"
     },
     {
       "id": "v14-chage2022-youtube",
@@ -61961,6 +62081,24 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v18222-2022-07-07-aska-067",
+      "date": "2022-07-07",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA＆九州スペシャルオーケストラ公演【当初予定・延期】",
+      "status": "postponed",
+      "verification": "secondary",
+      "note": "2022-09-11公演への振替。7月には実施されていない。",
+      "sources": [
+        {
+          "label": "公演情報（二次資料）",
+          "url": "https://lp.p.pia.jp/event/music/250559/index.html"
+        }
+      ],
+      "venue": "キャナルシティ劇場",
+      "prefecture": "福岡県"
+    },
+    {
       "id": "v14-chage-2022-hosomichi-001",
       "date": "2022-07-09",
       "artist": "Chage",
@@ -61968,7 +62106,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道",
       "status": "recorded",
       "verification": "primary",
-      "note": "実施済み。時刻が公式に残る回のみ掲載",
+      "note": "実施済み。時刻が公式に残る回のみ掲載 【2021〜2022年公式点検】開演17:30。",
       "sources": [
         {
           "label": "Chage公式｜ずっと細道 公演アーカイブ",
@@ -62066,13 +62204,70 @@ window.CA_EVENT_DATA = {
       "title": "『Chage 08-11 Live ～Selected 21 Songs～』発売",
       "status": "released",
       "verification": "primary",
-      "note": "2008〜2011年のライブから選曲した映像・音源作品",
+      "note": "2008〜2011年のライブから選曲した映像・音源作品 【2021〜2022年公式点検】公式作品情報による発売・配信開始日。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/biography/2022.php"
+        },
         {
           "label": "Chage公式Discography",
           "url": "https://chage.jp/discography/chage/bd/015.php"
         }
       ]
+    },
+    {
+      "id": "v18222-2022-08-06-aska-057",
+      "date": "2022-08-06",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "GET THE CLASSICS ASKA Premium Symphonic Concert 2022",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ASKA出演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://toshioyanagisawa.com/concert-20220806/"
+        }
+      ],
+      "venue": "愛知県芸術劇場 コンサートホール",
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "v18222-2022-08-11-aska-058",
+      "date": "2022-08-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "GET THE CLASSICS ASKA Premium Symphonic Concert 2022",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ASKA出演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://toshioyanagisawa.com/concert-20220811/"
+        }
+      ],
+      "venue": "兵庫県立芸術文化センター 大ホール",
+      "prefecture": "兵庫県"
+    },
+    {
+      "id": "v18222-2022-08-26-aska-059",
+      "date": "2022-08-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA The Eternal Hour / A Symphonic Evening Vol.1",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ASKA出演。オーケストラとの共演、ゲスト出演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://ppt.or.jp/concerts/aska-the-eternal-hour/"
+        }
+      ],
+      "prefecture": "東京都"
     },
     {
       "id": "v14-media-ch22-005",
@@ -62098,8 +62293,12 @@ window.CA_EVENT_DATA = {
       "title": "「POP」配信開始",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【2021〜2022年公式点検】公式作品情報による発売・配信開始日。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/biography/2022.php"
+        },
         {
           "label": "Chage公式Discography",
           "url": "https://chage.jp/discography/"
@@ -62139,6 +62338,42 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v18222-2022-09-10-aska-060",
+      "date": "2022-09-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA＆九州スペシャルオーケストラ公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ASKA出演。7月6日公演からの振替。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.canalcitygekijo.com/25672"
+        }
+      ],
+      "venue": "キャナルシティ劇場",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "v18222-2022-09-11-aska-061",
+      "date": "2022-09-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA＆九州スペシャルオーケストラ公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ASKA出演。7月7日公演からの振替。同公演を配信、配信日と公演日を二重計上しない。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.canalcitygekijo.com/25672"
+        }
+      ],
+      "venue": "キャナルシティ劇場",
+      "prefecture": "福岡県"
+    },
+    {
       "id": "v14-media-ch22-008",
       "date": "2022-09-15",
       "artist": "Chage",
@@ -62169,6 +62404,23 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2022.php"
         }
       ]
+    },
+    {
+      "id": "v18222-2022-09-18-aska-062",
+      "date": "2022-09-18",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "SOUND ALIVE presents 横浜合同演奏会 出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ASKA出演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "prefecture": "神奈川県"
     },
     {
       "id": "v14-media-ch22-010",
@@ -62203,6 +62455,39 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v18222-2022-10-05-aska-093",
+      "date": "2022-10-05",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "Blu-ray＋Live CD『ASKA premium concert tour -higher ground-アンコール公演2022』発売",
+      "status": "released",
+      "verification": "secondary",
+      "note": "4月13日収録公演の映像・音源作品発売。ツアー公演日とは別記録。",
+      "sources": [
+        {
+          "label": "公演情報（二次資料）",
+          "url": "https://e.usen.com/interview/interview-original/aska-aska-premium-concert.html"
+        }
+      ]
+    },
+    {
+      "id": "v18222-2022-10-09-aska-063",
+      "date": "2022-10-09",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "長岡 米百俵フェス2022 出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ASKA出演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "prefecture": "新潟県"
+    },
+    {
       "id": "v14-chage2022-phil",
       "date": "2022-10-17",
       "artist": "Chage",
@@ -62220,6 +62505,24 @@ window.CA_EVENT_DATA = {
       "venue": "東京芸術劇場 大ホール",
       "prefecture": "東京都",
       "country": "日本"
+    },
+    {
+      "id": "v18222-2022-10-17-chage-087",
+      "date": "2022-10-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "PREMIUM PHILHARMONIC ORCHESTRA feat. Chage、川島ケイジ 出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "管弦楽団との共演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ],
+      "venue": "東京芸術劇場 コンサートホール",
+      "prefecture": "東京都"
     },
     {
       "id": "v14-media-ch22-012",
@@ -62277,7 +62580,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道",
       "status": "recorded",
       "verification": "primary",
-      "note": "実施済み。時刻が公式に残る回のみ掲載",
+      "note": "実施済み。時刻が公式に残る回のみ掲載 【2021〜2022年公式点検】開演18:30。",
       "sources": [
         {
           "label": "Chage公式｜ずっと細道 公演アーカイブ",
@@ -62292,6 +62595,24 @@ window.CA_EVENT_DATA = {
       "startTime": "18:30"
     },
     {
+      "id": "v18222-2022-10-29-aska-064",
+      "date": "2022-10-29",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Premium Symphonic Concert 2022 -TOKYO-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ASKA出演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20221029Fr-H202210019"
+        }
+      ],
+      "venue": "東京国際フォーラム ホールA",
+      "prefecture": "東京都"
+    },
+    {
       "id": "v14-release-023",
       "date": "2022-11-02",
       "artist": "Chage",
@@ -62299,7 +62620,7 @@ window.CA_EVENT_DATA = {
       "title": "『YOU’RE THE ONE』発売",
       "status": "released",
       "verification": "primary",
-      "note": "CD＋DVD／CD＋Blu-rayは同一作品として登録",
+      "note": "CD＋DVD／CD＋Blu-rayは同一作品として登録 【2021〜2022年公式点検】公式作品情報による発売・配信開始日。",
       "sources": [
         {
           "label": "Chage公式Discography",
@@ -62315,7 +62636,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道",
       "status": "recorded",
       "verification": "primary",
-      "note": "実施済み。時刻が公式に残る回のみ掲載",
+      "note": "実施済み。時刻が公式に残る回のみ掲載 【2021〜2022年公式点検】開演17:00。",
       "sources": [
         {
           "label": "Chage公式｜ずっと細道 公演アーカイブ",
@@ -62368,7 +62689,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道",
       "status": "recorded",
       "verification": "primary",
-      "note": "実施済み。時刻が公式に残る回のみ掲載",
+      "note": "実施済み。時刻が公式に残る回のみ掲載 【2021〜2022年公式点検】開演17:00。",
       "sources": [
         {
           "label": "Chage公式｜ずっと細道 公演アーカイブ",
@@ -62430,6 +62751,76 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v18222-2022-11-25-aska-094",
+      "date": "2022-11-25",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "アルバム『Wonderful world』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "ASKA公式年譜による発売日。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ]
+    },
+    {
+      "id": "v18222-2022-12-05-aska-068",
+      "date": "2022-12-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Premium Dinner Show 2022（1st公演）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1st公演。各部の開始時刻は未照合。4都市8公演のうちの1公演。",
+      "sources": [
+        {
+          "label": "公演情報（二次資料）",
+          "url": "https://e.usen.com/interview/interview-original/aska-aska-premium-concert.html"
+        }
+      ],
+      "venue": "グランドハイアット福岡",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "v18222-2022-12-05-aska-069",
+      "date": "2022-12-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Premium Dinner Show 2022（2nd公演）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2nd公演。各部の開始時刻は未照合。4都市8公演のうちの1公演。",
+      "sources": [
+        {
+          "label": "公演情報（二次資料）",
+          "url": "https://e.usen.com/interview/interview-original/aska-aska-premium-concert.html"
+        }
+      ],
+      "venue": "グランドハイアット福岡",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "v18222-2022-12-10-aska-065",
+      "date": "2022-12-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "UHBライブ2022 〜ユーの年忘れ音楽祭〜 出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ASKA出演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.sapporo-community-plaza.jp/event.php?num=2746"
+        }
+      ],
+      "venue": "札幌文化芸術劇場 hitaru",
+      "prefecture": "北海道"
+    },
+    {
       "id": "v14-media-ch22-020",
       "date": "2022-12-12",
       "artist": "Chage",
@@ -62453,8 +62844,12 @@ window.CA_EVENT_DATA = {
       "title": "Chage Billboard Live “64 to 65”",
       "status": "recorded",
       "verification": "primary",
-      "note": "2023年1月6日の東京公演は次版に収録予定／1st Stage",
+      "note": "2023年1月6日の東京公演は次版に収録予定／1st Stage 【2021〜2022年公式点検】開演16:30。年またぎツアーのうち2022年分。東京公演は2023年1月6日で、今回の対象外。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.billboard-live.com/en/osaka/show?date=2022-12-18&event_id=ev-13701"
+        },
         {
           "label": "ビルボードライブ公式｜横浜・大阪各公演",
           "url": "https://www.billboard-live.com/yokohama/show?event_id=ev-13702"
@@ -62475,8 +62870,12 @@ window.CA_EVENT_DATA = {
       "title": "Chage Billboard Live “64 to 65”",
       "status": "recorded",
       "verification": "primary",
-      "note": "2023年1月6日の東京公演は次版に収録予定／2nd Stage",
+      "note": "2023年1月6日の東京公演は次版に収録予定／2nd Stage 【2021〜2022年公式点検】開演19:30。年またぎツアーのうち2022年分。東京公演は2023年1月6日で、今回の対象外。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.billboard-live.com/en/osaka/show?date=2022-12-18&event_id=ev-13701"
+        },
         {
           "label": "ビルボードライブ公式｜横浜・大阪各公演",
           "url": "https://www.billboard-live.com/yokohama/show?event_id=ev-13702"
@@ -62490,6 +62889,42 @@ window.CA_EVENT_DATA = {
       "startTime": "19:30"
     },
     {
+      "id": "v18222-2022-12-20-aska-070",
+      "date": "2022-12-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Premium Dinner Show 2022（1st公演）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1st公演。各部の開始時刻は未照合。4都市8公演のうちの1公演。",
+      "sources": [
+        {
+          "label": "公演情報（二次資料）",
+          "url": "https://e.usen.com/interview/interview-original/aska-aska-premium-concert.html"
+        }
+      ],
+      "venue": "ザ・プリンス パークタワー東京",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v18222-2022-12-20-aska-071",
+      "date": "2022-12-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Premium Dinner Show 2022（2nd公演）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2nd公演。各部の開始時刻は未照合。4都市8公演のうちの1公演。",
+      "sources": [
+        {
+          "label": "公演情報（二次資料）",
+          "url": "https://e.usen.com/interview/interview-original/aska-aska-premium-concert.html"
+        }
+      ],
+      "venue": "ザ・プリンス パークタワー東京",
+      "prefecture": "東京都"
+    },
+    {
       "id": "v14-chage-2022-billboard-003",
       "date": "2022-12-21",
       "artist": "Chage",
@@ -62497,7 +62932,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Billboard Live “64 to 65”",
       "status": "recorded",
       "verification": "primary",
-      "note": "2023年1月6日の東京公演は次版に収録予定／1st Stage",
+      "note": "2023年1月6日の東京公演は次版に収録予定／1st Stage 【2021〜2022年公式点検】開演17:30。年またぎツアーのうち2022年分。東京公演は2023年1月6日で、今回の対象外。",
       "sources": [
         {
           "label": "ビルボードライブ公式｜横浜・大阪各公演",
@@ -62519,7 +62954,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Billboard Live “64 to 65”",
       "status": "recorded",
       "verification": "primary",
-      "note": "2023年1月6日の東京公演は次版に収録予定／2nd Stage",
+      "note": "2023年1月6日の東京公演は次版に収録予定／2nd Stage 【2021〜2022年公式点検】開演20:30。年またぎツアーのうち2022年分。東京公演は2023年1月6日で、今回の対象外。",
       "sources": [
         {
           "label": "ビルボードライブ公式｜横浜・大阪各公演",
@@ -62532,6 +62967,94 @@ window.CA_EVENT_DATA = {
       "prefecture": "神奈川県",
       "venue": "ビルボードライブ横浜",
       "startTime": "20:30"
+    },
+    {
+      "id": "v18222-2022-12-22-aska-072",
+      "date": "2022-12-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Premium Dinner Show 2022（1st公演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1st公演。ショー開始16:45。4都市8公演のうちの1公演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://prtimes.jp/main/html/rd/p/000001248.000016682.html"
+        }
+      ],
+      "venue": "リーガロイヤルホテル広島",
+      "prefecture": "広島県"
+    },
+    {
+      "id": "v18222-2022-12-22-aska-073",
+      "date": "2022-12-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Premium Dinner Show 2022（2nd公演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2nd公演。ショー開始20:15。4都市8公演のうちの1公演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://prtimes.jp/main/html/rd/p/000001248.000016682.html"
+        }
+      ],
+      "venue": "リーガロイヤルホテル広島",
+      "prefecture": "広島県"
+    },
+    {
+      "id": "v18222-2022-12-25-aska-095",
+      "date": "2022-12-25",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビTWO「ASKA Premium Symphonic Concert 2022 -TOKYO-」放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "10月29日開催の東京公演のテレビ放送日。開催日とは区別する。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ]
+    },
+    {
+      "id": "v18222-2022-12-26-aska-074",
+      "date": "2022-12-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Premium Dinner Show 2022（1st公演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1st公演。ショー開始14:00。4都市8公演のうちの1公演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://prtimes.jp/main/html/rd/p/000001269.000016682.html"
+        }
+      ],
+      "venue": "リーガロイヤルホテル大阪",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "v18222-2022-12-26-aska-075",
+      "date": "2022-12-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Premium Dinner Show 2022（2nd公演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2nd公演。ショー開始20:00。4都市8公演のうちの1公演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://prtimes.jp/main/html/rd/p/000001269.000016682.html"
+        }
+      ],
+      "venue": "リーガロイヤルホテル大阪",
+      "prefecture": "大阪府"
     },
     {
       "id": "v15-0052",
@@ -71421,5 +71944,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-21"
+  "siteVersion": "1.8.2-22"
 };
