@@ -50215,6 +50215,25 @@ window.CA_EVENT_DATA = {
       "prefecture": "神奈川県"
     },
     {
+      "id": "media-v18230-2012-09-08-chage-001",
+      "date": "2012-09-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「KIRIN BEER GoodLuck LIVE」公開生放送出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：JFN系 / TOKYO FM。出演形態：公開生放送出演。公式年譜には公開生放送と明記。ライブイベントの実施日と、放送記録を区別する。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2012.php"
+        }
+      ],
+      "broadcastStation": "JFN系 / TOKYO FM"
+    },
+    {
       "id": "v11-goodluck-2012",
       "date": "2012-09-08",
       "artist": "Chage",
@@ -52716,6 +52735,25 @@ window.CA_EVENT_DATA = {
       "tourId": "chage-fanmeeting-2015"
     },
     {
+      "id": "media-v18230-2015-06-26-chage-001",
+      "date": "2015-06-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「音楽の日2015」生出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：TBS。出演形態：生出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
       "id": "v12-ongakuno-hi15",
       "date": "2015-06-27",
       "artist": "Chage",
@@ -53629,6 +53667,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18230-2016-07-13-chage-001",
+      "date": "2016-07-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「FNSうたの夏まつり」生出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：生出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
       "id": "v12-acoustic16",
       "date": "2016-07-16",
       "artist": "Chage",
@@ -53942,6 +53999,25 @@ window.CA_EVENT_DATA = {
       "venue": "ニトリ文化ホール",
       "country": "日本",
       "prefecture": "北海道"
+    },
+    {
+      "id": "media-v18230-2016-09-21-chage-001",
+      "date": "2016-09-21",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「大感謝祭 2016 〜NEW LIFESTYLE〜」公開生放送出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：東海ラジオ。出演形態：公開生放送出演。会場は名古屋栄オアシス21。開催日と放送日が同日との年譜記載。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "broadcastStation": "東海ラジオ"
     },
     {
       "id": "v12-tokairadio16",
@@ -55024,6 +55100,101 @@ window.CA_EVENT_DATA = {
       "prefecture": "大阪府"
     },
     {
+      "id": "media-v18230-2017-06-12-chage-001",
+      "date": "2017-06-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「上柳昌彦 あさぼらけ」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ニッポン放送。出演形態：ゲスト出演。公式年譜の6/12〜16を各日候補に展開。毎回の実放送・出演形態を確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "ニッポン放送"
+    },
+    {
+      "id": "media-v18230-2017-06-13-chage-001",
+      "date": "2017-06-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「上柳昌彦 あさぼらけ」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ニッポン放送。出演形態：ゲスト出演。公式年譜の6/12〜16を各日候補に展開。毎回の実放送・出演形態を確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "ニッポン放送"
+    },
+    {
+      "id": "media-v18230-2017-06-14-chage-001",
+      "date": "2017-06-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「上柳昌彦 あさぼらけ」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ニッポン放送。出演形態：ゲスト出演。公式年譜の6/12〜16を各日候補に展開。毎回の実放送・出演形態を確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "ニッポン放送"
+    },
+    {
+      "id": "media-v18230-2017-06-15-chage-001",
+      "date": "2017-06-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「上柳昌彦 あさぼらけ」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ニッポン放送。出演形態：ゲスト出演。公式年譜の6/12〜16を各日候補に展開。毎回の実放送・出演形態を確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "ニッポン放送"
+    },
+    {
+      "id": "media-v18230-2017-06-16-chage-001",
+      "date": "2017-06-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「上柳昌彦 あさぼらけ」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ニッポン放送。出演形態：ゲスト出演。公式年譜の6/12〜16を各日候補に展開。毎回の実放送・出演形態を確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "ニッポン放送"
+    },
+    {
       "id": "milestone-v18220-008",
       "date": "2017-07-01",
       "artist": "CHAGE and ASKA",
@@ -55038,6 +55209,44 @@ window.CA_EVENT_DATA = {
           "url": "https://www.yamahamusic.co.jp/s/ymc/news/detail/842"
         }
       ]
+    },
+    {
+      "id": "media-v18230-2017-07-10-chage-001",
+      "date": "2017-07-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「オールナイトニッポンMUSIC10 中村雅俊 出逢いに感謝」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ニッポン放送。出演形態：ゲスト出演。公式年譜の7/10〜13を各日候補に展開。局別の放送日を確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "ニッポン放送"
+    },
+    {
+      "id": "media-v18230-2017-07-11-chage-001",
+      "date": "2017-07-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「オールナイトニッポンMUSIC10 中村雅俊 出逢いに感謝」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ニッポン放送。出演形態：ゲスト出演。公式年譜の7/10〜13を各日候補に展開。局別の放送日を確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "ニッポン放送"
     },
     {
       "id": "media-v18220-009",
@@ -55056,6 +55265,44 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18230-2017-07-13-chage-001",
+      "date": "2017-07-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「オールナイトニッポンMUSIC10 中村雅俊 出逢いに感謝」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ニッポン放送。出演形態：ゲスト出演。公式年譜の7/10〜13を各日候補に展開。局別の放送日を確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "ニッポン放送"
+    },
+    {
+      "id": "media-v18230-2017-07-24-chage-001",
+      "date": "2017-07-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Radio Freaks」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：@FM。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "@FM"
+    },
+    {
       "id": "v13-media-008",
       "date": "2017-07-28",
       "artist": "Chage",
@@ -55070,6 +55317,25 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2017.php"
         }
       ]
+    },
+    {
+      "id": "media-v18230-2017-08-12-chage-001",
+      "date": "2017-08-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「上からも下からもねね！」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：東海ラジオ。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "東海ラジオ"
     },
     {
       "id": "v13-ch17-landscape-001",
@@ -55177,6 +55443,82 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都"
     },
     {
+      "id": "media-v18230-2017-09-13-chage-001",
+      "date": "2017-09-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「しゃべくりDJ ミュージックアワー！ 総集編#1」放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：歌謡ポップスチャンネル。出演形態：放送。初回と再放送の別を確認する。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "歌謡ポップスチャンネル"
+    },
+    {
+      "id": "media-v18230-2017-09-17-chage-001",
+      "date": "2017-09-17",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「しゃべくりDJ ミュージックアワー！ 総集編#1」放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：歌謡ポップスチャンネル。出演形態：放送。初回と再放送の別を確認する。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "歌謡ポップスチャンネル"
+    },
+    {
+      "id": "media-v18230-2017-09-18-chage-001",
+      "date": "2017-09-18",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「しゃべくりDJ ミュージックアワー！ 総集編#1」放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：歌謡ポップスチャンネル。出演形態：放送。初回と再放送の別を確認する。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "歌謡ポップスチャンネル"
+    },
+    {
+      "id": "media-v18230-2017-09-20-chage-001",
+      "date": "2017-09-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「しゃべくりDJ ミュージックアワー！ 総集編#1」放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：歌謡ポップスチャンネル。出演形態：放送。初回と再放送の別を確認する。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "歌謡ポップスチャンネル"
+    },
+    {
       "id": "v13-ch17-hieizan",
       "date": "2017-09-23",
       "artist": "Chage",
@@ -55194,6 +55536,63 @@ window.CA_EVENT_DATA = {
       "venue": "比叡山延暦寺 大講堂",
       "prefecture": "滋賀県",
       "country": "日本"
+    },
+    {
+      "id": "media-v18230-2017-09-24-chage-001",
+      "date": "2017-09-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「しゃべくりDJ ミュージックアワー！ 総集編#1」放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：歌謡ポップスチャンネル。出演形態：放送。初回と再放送の別を確認する。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "歌謡ポップスチャンネル"
+    },
+    {
+      "id": "media-v18230-2017-09-25-chage-001",
+      "date": "2017-09-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「しゃべくりDJ ミュージックアワー！ 総集編#1」放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：歌謡ポップスチャンネル。出演形態：放送。初回と再放送の別を確認する。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "歌謡ポップスチャンネル"
+    },
+    {
+      "id": "media-v18230-2017-09-27-chage-001",
+      "date": "2017-09-27",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「しゃべくりDJ ミュージックアワー！ 総集編#2」放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：歌謡ポップスチャンネル。出演形態：放送",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "歌謡ポップスチャンネル"
     },
     {
       "id": "v13-ch17-hattori",
@@ -55247,6 +55646,44 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18230-2017-10-15-chage-001",
+      "date": "2017-10-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「前野健太のラジオ100年後」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ラジオ日本。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "ラジオ日本"
+    },
+    {
+      "id": "media-v18230-2017-10-22-chage-001",
+      "date": "2017-10-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「前野健太のラジオ100年後」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ラジオ日本。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "ラジオ日本"
+    },
+    {
       "id": "v13-release-005",
       "date": "2017-10-25",
       "artist": "ASKA",
@@ -55261,6 +55698,25 @@ window.CA_EVENT_DATA = {
           "url": "https://anysee.jp/ec/feature/aska/"
         }
       ]
+    },
+    {
+      "id": "media-v18230-2017-10-29-chage-001",
+      "date": "2017-10-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「前野健太のラジオ100年後」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ラジオ日本。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "ラジオ日本"
     },
     {
       "id": "v13-media-010",
@@ -55339,6 +55795,44 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18230-2017-12-02-chage-001",
+      "date": "2017-12-02",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「SEIKO ASTRON Presents World Cruise」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：TOKYO FM。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "TOKYO FM"
+    },
+    {
+      "id": "media-v18230-2017-12-09-chage-001",
+      "date": "2017-12-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「SEIKO ASTRON Presents World Cruise」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：TOKYO FM。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "TOKYO FM"
+    },
+    {
       "id": "v13-release-006",
       "date": "2017-12-13",
       "artist": "Chage",
@@ -55353,6 +55847,25 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2017.php"
         }
       ]
+    },
+    {
+      "id": "media-v18230-2017-12-16-chage-001",
+      "date": "2017-12-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「SEIKO ASTRON Presents World Cruise」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：TOKYO FM。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "TOKYO FM"
     },
     {
       "id": "v13-ch17-heavy",
@@ -55436,6 +55949,25 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都"
     },
     {
+      "id": "media-v18230-2017-12-23-chage-001",
+      "date": "2017-12-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「SEIKO ASTRON Presents World Cruise」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：TOKYO FM。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "TOKYO FM"
+    },
+    {
       "id": "v13-ch17-xmas-003",
       "date": "2017-12-25",
       "artist": "Chage",
@@ -55455,6 +55987,25 @@ window.CA_EVENT_DATA = {
       "performanceNo": 3,
       "tourId": "ch17-xmas",
       "prefecture": "大阪府"
+    },
+    {
+      "id": "media-v18230-2017-12-30-chage-001",
+      "date": "2017-12-30",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「SEIKO ASTRON Presents World Cruise」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：TOKYO FM。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "broadcastStation": "TOKYO FM"
     },
     {
       "id": "v13-release-007",
@@ -55487,6 +56038,25 @@ window.CA_EVENT_DATA = {
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
         }
       ]
+    },
+    {
+      "id": "other-v18230-2018-01-20-chage-001",
+      "date": "2018-01-20",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chageの音道 放送400回＆Happy 60th Birthday記念スペシャル録音",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "出演形態：公開収録。公開収録日。放送日と混同しない。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "JFN"
     },
     {
       "id": "v13-ch18-radio",
@@ -55865,6 +56435,25 @@ window.CA_EVENT_DATA = {
       "country": "日本"
     },
     {
+      "id": "media-v18230-2018-05-14-chage-001",
+      "date": "2018-05-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Radio Freaks」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM AICHI。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "FM AICHI"
+    },
+    {
       "id": "v13-release-015",
       "date": "2018-05-16",
       "artist": "Chage",
@@ -55961,6 +56550,44 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18230-2018-05-27-chage-001",
+      "date": "2018-05-27",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「NO-FO-FON TIME」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：InterFM897。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "InterFM897"
+    },
+    {
+      "id": "media-v18230-2018-05-28-chage-001",
+      "date": "2018-05-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「プレミアMelodiX!」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：テレビ東京ほか。出演形態：出演。年譜記載の5/28・6/10を別候補にした。6/10の放送局や再放送の別は要確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "テレビ東京ほか"
+    },
+    {
       "id": "v13-media-014",
       "date": "2018-05-29",
       "artist": "Chage",
@@ -56041,6 +56668,63 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18230-2018-06-05-chage-001",
+      "date": "2018-06-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "配信番組「坂本美雨の裏FRIENDS 第9回」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：WIZ RADIO。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "WIZ RADIO"
+    },
+    {
+      "id": "media-v18230-2018-06-08-chage-001",
+      "date": "2018-06-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「金曜ブラボー」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ニッポン放送。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "ニッポン放送"
+    },
+    {
+      "id": "media-v18230-2018-06-10-chage-001",
+      "date": "2018-06-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「プレミアMelodiX!」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：テレビ東京ほか。出演形態：出演。年譜記載の5/28・6/10を別候補にした。6/10の放送局や再放送の別は要確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "テレビ東京ほか"
+    },
+    {
       "id": "v13-release-017",
       "date": "2018-06-12",
       "artist": "ASKA",
@@ -56057,6 +56741,44 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18230-2018-06-20-chage-001",
+      "date": "2018-06-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「GOOD DAY 内Colorful Hunter」コーナー出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM FUJI。出演形態：コーナー出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "FM FUJI"
+    },
+    {
+      "id": "media-v18230-2018-06-21-chage-001",
+      "date": "2018-06-21",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「伊津野亮＆鈴木あきえのThe BAY☆LINE」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：bayfm78。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "bayfm78"
+    },
+    {
       "id": "media-v18220-020",
       "date": "2018-06-22",
       "artist": "Chage",
@@ -56071,6 +56793,25 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2018.php"
         }
       ]
+    },
+    {
+      "id": "media-v18230-2018-06-23-chage-001",
+      "date": "2018-06-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「デモテープ〜福岡音楽時代〜」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：RKBラジオ。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "RKBラジオ"
     },
     {
       "id": "v13-release-018",
@@ -56103,6 +56844,44 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
         }
       ]
+    },
+    {
+      "id": "media-v18230-2018-07-12-chage-001",
+      "date": "2018-07-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Blue Ocean」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：TOKYO FM。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "TOKYO FM"
+    },
+    {
+      "id": "media-v18230-2018-07-14-chage-001",
+      "date": "2018-07-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「SOUND PUREDIO Presents 音解」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM山口／FM福岡。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "FM山口／FM福岡"
     },
     {
       "id": "v13-media-018",
@@ -56169,6 +56948,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18230-2018-07-29-chage-001",
+      "date": "2018-07-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「SUPER J-HITS RADIO」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM COCOLO。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "FM COCOLO"
+    },
+    {
       "id": "v13-ch18-imperial-osaka",
       "date": "2018-08-12",
       "artist": "Chage",
@@ -56188,6 +56986,63 @@ window.CA_EVENT_DATA = {
       "country": "日本"
     },
     {
+      "id": "media-v18230-2018-08-13-chage-001",
+      "date": "2018-08-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「あなたにハッピー・メロディ」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：JFN28局ネット。出演形態：ゲスト出演。年譜の8/13〜17を各日候補に展開。局ごとの実放送日を必ず確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "JFN28局ネット"
+    },
+    {
+      "id": "media-v18230-2018-08-14-chage-001",
+      "date": "2018-08-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「あなたにハッピー・メロディ」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：JFN28局ネット。出演形態：ゲスト出演。年譜の8/13〜17を各日候補に展開。局ごとの実放送日を必ず確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "JFN28局ネット"
+    },
+    {
+      "id": "media-v18230-2018-08-15-chage-001",
+      "date": "2018-08-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「あなたにハッピー・メロディ」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：JFN28局ネット。出演形態：ゲスト出演。年譜の8/13〜17を各日候補に展開。局ごとの実放送日を必ず確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "JFN28局ネット"
+    },
+    {
       "id": "v13-ch18-imperial-tokyo",
       "date": "2018-08-15",
       "artist": "Chage",
@@ -56205,6 +57060,44 @@ window.CA_EVENT_DATA = {
       "venue": "帝国ホテル東京",
       "prefecture": "東京都",
       "country": "日本"
+    },
+    {
+      "id": "media-v18230-2018-08-16-chage-001",
+      "date": "2018-08-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「あなたにハッピー・メロディ」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：JFN28局ネット。出演形態：ゲスト出演。年譜の8/13〜17を各日候補に展開。局ごとの実放送日を必ず確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "JFN28局ネット"
+    },
+    {
+      "id": "media-v18230-2018-08-17-chage-001",
+      "date": "2018-08-17",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「あなたにハッピー・メロディ」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：JFN28局ネット。出演形態：ゲスト出演。年譜の8/13〜17を各日候補に展開。局ごとの実放送日を必ず確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "JFN28局ネット"
     },
     {
       "id": "other-v18220-021",
@@ -56992,6 +57885,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18230-2018-12-31-chage-001",
+      "date": "2018-12-31",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「きくちから」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：フジテレビNEXT。出演形態：出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "broadcastStation": "フジテレビNEXT"
+    },
+    {
       "id": "v13-media-025",
       "date": "2019-01-14",
       "artist": "Chage",
@@ -57106,6 +58018,25 @@ window.CA_EVENT_DATA = {
       "tourId": "aska-made-in-2019",
       "prefecture": "神奈川県",
       "startTime": "18:30"
+    },
+    {
+      "id": "media-v18230-2019-02-11-chage-001",
+      "date": "2019-02-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Radio Freaks」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：@FM。出演形態：出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "broadcastStation": "@FM"
     },
     {
       "id": "v13-aska19-made-in-003",
@@ -57935,6 +58866,25 @@ window.CA_EVENT_DATA = {
       "country": "日本"
     },
     {
+      "id": "media-v18230-2019-08-03-chage-001",
+      "date": "2019-08-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「KONISHIKIのLEALEA SATURDAY」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：NACK5。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "broadcastStation": "NACK5"
+    },
+    {
       "id": "v13-release-032",
       "date": "2019-08-07",
       "artist": "Chage",
@@ -57953,6 +58903,44 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/discography/chage/album.php"
         }
       ]
+    },
+    {
+      "id": "media-v18230-2019-08-10-chage-001",
+      "date": "2019-08-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「KONISHIKIのLEALEA SATURDAY」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：NACK5。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "broadcastStation": "NACK5"
+    },
+    {
+      "id": "media-v18230-2019-08-11-chage-001",
+      "date": "2019-08-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「渋谷で２時〜Shibuya Rainbow〜」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：CROSS FM。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "broadcastStation": "CROSS FM"
     },
     {
       "id": "v13-media-029",
@@ -58001,6 +58989,25 @@ window.CA_EVENT_DATA = {
           "url": "https://cosmos.ladomi.net/archives/index_arch_2019"
         }
       ]
+    },
+    {
+      "id": "media-v18230-2019-08-22-chage-001",
+      "date": "2019-08-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「The BAY☆LINE」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：bayfm78。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "broadcastStation": "bayfm78"
     },
     {
       "id": "v13-media-031",
@@ -58224,6 +59231,25 @@ window.CA_EVENT_DATA = {
           "url": "https://cosmos.ladomi.net/archives/index_arch_2019"
         }
       ]
+    },
+    {
+      "id": "media-v18230-2019-10-08-chage-001",
+      "date": "2019-10-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「坂本美雨のディア フレンズ」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：TOKYO FM。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "broadcastStation": "TOKYO FM"
     },
     {
       "id": "v13-media-033",
@@ -61625,6 +62651,25 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2021.php"
         }
       ]
+    },
+    {
+      "id": "media-v18230-2021-12-28-chage-001",
+      "date": "2021-12-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「マイタウンRADIO」出演情報掲載",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ラジオ3。出演形態：出演情報掲載。公式年譜の放送日一覧から抽出。出演形態（生出演・録音・コメント）は番組の一次資料で要確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ],
+      "broadcastStation": "ラジオ3"
     },
     {
       "id": "v14-aska-2021-encore-plan-009",
@@ -73983,5 +75028,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-29"
+  "siteVersion": "1.8.2-30"
 };
