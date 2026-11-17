@@ -1,7 +1,7 @@
-/* 公開用データ：events.jsonと同じ内容を保持 */
+/* 公開用データ。events.jsonと同じ内容を保持 */
 window.CA_EVENT_DATA = {
   "schemaVersion": 1,
-  "notice": "部分収録：1043件（ライブ関連954・作品発売88・その他1）。延期公演は実施済みとは区別。公式History・ladomi・Wiki等で照合。未網羅・一部要確認。",
+  "notice": "1979〜2001年の一部公演・作品を試験収録。1998〜2001年の主要ツアーとイベント、2001年のNOT AT ALL日程を追加。2002年の続きは次回以降。未登録日は出来事がなかったことを意味しません。一次資料と二次資料の確認状況を区別しています。",
   "lastUpdated": "2026-11-17",
   "events": [
     {
@@ -22155,6 +22155,3561 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "北海道"
+    },
+    {
+      "id": "release-v07-001",
+      "date": "1998-03-11",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『Girl』発売",
+      "releaseTitle": "Girl",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-002",
+      "date": "1998-03-25",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『kicks』発売",
+      "releaseTitle": "kicks",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-kicks-1998-001",
+      "date": "1998-04-30",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "浜松アリーナ",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "静岡県"
+    },
+    {
+      "id": "live-v07-kicks-1998-002",
+      "date": "1998-05-01",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "浜松アリーナ",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "静岡県"
+    },
+    {
+      "id": "live-v07-kicks-1998-003",
+      "date": "1998-05-06",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-kicks-1998-004",
+      "date": "1998-05-07",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-kicks-1998-005",
+      "date": "1998-05-09",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-kicks-1998-006",
+      "date": "1998-05-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-chage-shanghai-1998-001",
+      "date": "1998-05-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE 上海之行演唱会",
+      "tourId": "chage-shanghai-1998",
+      "venue": "上海体育館",
+      "country": "中国",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-chage-shanghai-1998-002",
+      "date": "1998-05-16",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE 上海之行演唱会",
+      "tourId": "chage-shanghai-1998",
+      "venue": "上海体育館",
+      "country": "中国",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-kicks-1998-007",
+      "date": "1998-05-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "群馬県民会館",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "群馬県"
+    },
+    {
+      "id": "live-v07-kicks-1998-008",
+      "date": "1998-05-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "群馬県民会館",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "群馬県"
+    },
+    {
+      "id": "live-v07-kicks-1998-009",
+      "date": "1998-05-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "真駒内アイスアリーナ",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-v07-kicks-1998-010",
+      "date": "1998-05-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "真駒内アイスアリーナ",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-v07-kicks-1998-011",
+      "date": "1998-05-29",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "宮城総合運動公園体育館",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-v07-kicks-1998-012",
+      "date": "1998-05-30",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "宮城総合運動公園体育館",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-v07-kicks-1998-013",
+      "date": "1998-06-02",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "新潟県民会館",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "新潟県"
+    },
+    {
+      "id": "live-v07-kicks-1998-014",
+      "date": "1998-06-03",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "新潟県民会館",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "新潟県"
+    },
+    {
+      "id": "live-v07-kicks-1998-015",
+      "date": "1998-06-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "release-v07-003",
+      "date": "1998-06-10",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『PROLOGUE』発売",
+      "releaseTitle": "PROLOGUE",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：ベストアルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-kicks-1998-016",
+      "date": "1998-06-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-kicks-1998-017",
+      "date": "1998-06-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-kicks-1998-018",
+      "date": "1998-06-14",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-kicks-1998-019",
+      "date": "1998-06-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "広島グリーンアリーナ",
+      "country": "日本",
+      "performanceNo": 19,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-v07-kicks-1998-020",
+      "date": "1998-06-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "広島グリーンアリーナ",
+      "country": "日本",
+      "performanceNo": 20,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-v07-chage-budokan-1998-001",
+      "date": "1998-06-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE“大いに唄う”in 武道館",
+      "tourId": "chage-budokan-1998",
+      "venue": "日本武道館",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-kicks-1998-021",
+      "date": "1998-06-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "マリンメッセ福岡",
+      "country": "日本",
+      "performanceNo": 21,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-v07-kicks-1998-022",
+      "date": "1998-06-24",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "マリンメッセ福岡",
+      "country": "日本",
+      "performanceNo": 22,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-v07-kicks-1998-023",
+      "date": "1998-06-27",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "神戸ワールド記念ホール",
+      "country": "日本",
+      "performanceNo": 23,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "兵庫県"
+    },
+    {
+      "id": "live-v07-kicks-1998-024",
+      "date": "1998-06-28",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "神戸ワールド記念ホール",
+      "country": "日本",
+      "performanceNo": 24,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "兵庫県"
+    },
+    {
+      "id": "live-v07-kicks-1998-025",
+      "date": "1998-07-01",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "愛媛県民文化会館",
+      "country": "日本",
+      "performanceNo": 25,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛媛県"
+    },
+    {
+      "id": "live-v07-kicks-1998-026",
+      "date": "1998-07-02",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "愛媛県民文化会館",
+      "country": "日本",
+      "performanceNo": 26,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛媛県"
+    },
+    {
+      "id": "live-v07-kicks-1998-027",
+      "date": "1998-07-08",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 27,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-kicks-1998-028",
+      "date": "1998-07-09",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 28,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-kicks-1998-029",
+      "date": "1998-07-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 29,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-kicks-1998-030",
+      "date": "1998-07-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 30,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-kicks-1998-031",
+      "date": "1998-07-18",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "横浜アリーナ",
+      "country": "日本",
+      "performanceNo": 31,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-v07-kicks-1998-032",
+      "date": "1998-07-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR kicks",
+      "tourId": "kicks-1998",
+      "venue": "横浜アリーナ",
+      "country": "日本",
+      "performanceNo": 32,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-v07-mtv-summit-taiwan-1998",
+      "date": "1998-08-30",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "MTV Music Summit’98",
+      "country": "台湾",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "台湾で出演。具体的な会場は公式Historyに記載なし",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1998年8月30日",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-004",
+      "date": "1998-09-30",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『トウキョータワー』発売",
+      "releaseTitle": "トウキョータワー",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-005",
+      "date": "1998-09-30",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA concert tour kicks』発売",
+      "releaseTitle": "ASKA concert tour kicks",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：ライブビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-006",
+      "date": "1998-10-21",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『2nd』発売",
+      "releaseTitle": "2nd",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-007",
+      "date": "1998-11-11",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『CHAGE“大いに唄う”in 武道館』発売",
+      "releaseTitle": "CHAGE“大いに唄う”in 武道館",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：ライブビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-feeling-place-1998-001",
+      "date": "1998-11-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR Feeling Place",
+      "tourId": "feeling-place-1998",
+      "venue": "名古屋市民会館",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-feeling-place-1998-002",
+      "date": "1998-11-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR Feeling Place",
+      "tourId": "feeling-place-1998",
+      "venue": "名古屋市民会館",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-feeling-place-1998-003",
+      "date": "1998-11-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR Feeling Place",
+      "tourId": "feeling-place-1998",
+      "venue": "神奈川県民ホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-v07-feeling-place-1998-004",
+      "date": "1998-11-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR Feeling Place",
+      "tourId": "feeling-place-1998",
+      "venue": "大宮ソニックシティ",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "埼玉県"
+    },
+    {
+      "id": "live-v07-feeling-place-1998-005",
+      "date": "1998-12-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR Feeling Place",
+      "tourId": "feeling-place-1998",
+      "venue": "札幌市民会館",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-v07-feeling-place-1998-006",
+      "date": "1998-12-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR Feeling Place",
+      "tourId": "feeling-place-1998",
+      "venue": "仙台サンプラザ",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-v07-feeling-place-1998-007",
+      "date": "1998-12-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR Feeling Place",
+      "tourId": "feeling-place-1998",
+      "venue": "大阪フェスティバルホール",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-feeling-place-1998-008",
+      "date": "1998-12-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR Feeling Place",
+      "tourId": "feeling-place-1998",
+      "venue": "大阪フェスティバルホール",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-feeling-place-1998-009",
+      "date": "1998-12-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR Feeling Place",
+      "tourId": "feeling-place-1998",
+      "venue": "福岡サンパレス",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-v07-feeling-place-1998-010",
+      "date": "1998-12-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR Feeling Place",
+      "tourId": "feeling-place-1998",
+      "venue": "広島アステールプラザ",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-v07-feeling-place-1998-011",
+      "date": "1998-12-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR Feeling Place",
+      "tourId": "feeling-place-1998",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-feeling-place-1998-012",
+      "date": "1998-12-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR Feeling Place",
+      "tourId": "feeling-place-1998",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-feeling-place-1998-013",
+      "date": "1998-12-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR Feeling Place",
+      "tourId": "feeling-place-1998",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-chage-countdown-1998-001",
+      "date": "1998-12-31",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE 1998 FINAL COUNT DOWN",
+      "tourId": "chage-countdown-1998",
+      "venue": "渋谷公会堂",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "release-v07-008",
+      "date": "1999-03-10",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『この愛のために/VISION』発売",
+      "releaseTitle": "この愛のために/VISION",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-009",
+      "date": "1999-03-31",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA the BEST』発売",
+      "releaseTitle": "ASKA the BEST",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：ベストアルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-010",
+      "date": "1999-03-31",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『CHAGE CONCERT TOUR Feeling Place』発売",
+      "releaseTitle": "CHAGE CONCERT TOUR Feeling Place",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：FC販売ライブビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-011",
+      "date": "1999-04-30",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『ONE×ONE』発売",
+      "releaseTitle": "ONE×ONE",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：FC販売ビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-mtv-program-1999-001",
+      "date": "1999-05-31",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "赤坂BLITZ special MTV PROGRAM LIVE",
+      "tourId": "mtv-program-1999",
+      "venue": "赤坂BLITZ",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-mtv-program-1999-002",
+      "date": "1999-06-01",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "赤坂BLITZ special MTV PROGRAM LIVE",
+      "tourId": "mtv-program-1999",
+      "venue": "赤坂BLITZ",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-anniversary-premium-1999-001",
+      "date": "1999-06-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA 20th Anniversary Premium Live",
+      "tourId": "anniversary-premium-1999",
+      "venue": "日本武道館",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "release-v07-012",
+      "date": "1999-06-09",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『群れ』発売",
+      "releaseTitle": "群れ",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-anniversary-premium-1999-002",
+      "date": "1999-06-10",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA 20th Anniversary Premium Live",
+      "tourId": "anniversary-premium-1999",
+      "venue": "日本武道館",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "同日2公演（第1公演。開演時間は未確認）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-anniversary-premium-1999-003",
+      "date": "1999-06-10",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA 20th Anniversary Premium Live",
+      "tourId": "anniversary-premium-1999",
+      "venue": "日本武道館",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "同日2公演（第2公演。開演時間は未確認）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-anniversary-premium-1999-004",
+      "date": "1999-06-12",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA 20th Anniversary Premium Live",
+      "tourId": "anniversary-premium-1999",
+      "venue": "大阪市中央体育館",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-anniversary-premium-1999-005",
+      "date": "1999-06-13",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA 20th Anniversary Premium Live",
+      "tourId": "anniversary-premium-1999",
+      "venue": "大阪市中央体育館",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "同日2公演（第1公演。開演時間は未確認）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-anniversary-premium-1999-006",
+      "date": "1999-06-13",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA 20th Anniversary Premium Live",
+      "tourId": "anniversary-premium-1999",
+      "venue": "大阪市中央体育館",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "同日2公演（第2公演。開演時間は未確認）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "release-v07-013",
+      "date": "1999-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『NO DOUBT』発売",
+      "releaseTitle": "NO DOUBT",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-014",
+      "date": "1999-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA 20th Anniversary Premium Live』発売",
+      "releaseTitle": "CHAGE and ASKA 20th Anniversary Premium Live",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：FC販売ビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-tour-preview-1999-001",
+      "date": "1999-08-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1999 TUG OF C&A PRESENTS PREVIEW",
+      "tourId": "tour-preview-1999",
+      "venue": "幕張メッセイベントホール",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "千葉県"
+    },
+    {
+      "id": "live-v07-tour-preview-1999-002",
+      "date": "1999-08-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1999 TUG OF C&A PRESENTS PREVIEW",
+      "tourId": "tour-preview-1999",
+      "venue": "幕張メッセイベントホール",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "千葉県"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-001",
+      "date": "1999-09-03",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "マリンメッセ福岡",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-002",
+      "date": "1999-09-04",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "マリンメッセ福岡",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-003",
+      "date": "1999-09-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "広島グリーンアリーナ",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-004",
+      "date": "1999-09-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "広島グリーンアリーナ",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-005",
+      "date": "1999-09-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "仙台市体育館",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-006",
+      "date": "1999-09-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "仙台市体育館",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-007",
+      "date": "1999-10-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "真駒内アイスアリーナ",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-008",
+      "date": "1999-10-03",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "真駒内アイスアリーナ",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-009",
+      "date": "1999-10-10",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-010",
+      "date": "1999-10-11",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-011",
+      "date": "1999-10-13",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-012",
+      "date": "1999-10-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-013",
+      "date": "1999-10-16",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-014",
+      "date": "1999-10-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-015",
+      "date": "1999-10-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-016",
+      "date": "1999-10-30",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-017",
+      "date": "1999-10-31",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-018",
+      "date": "1999-11-04",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-019",
+      "date": "1999-11-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 19,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-020",
+      "date": "1999-11-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 20,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-denko-sekka-1999-021",
+      "date": "1999-11-10",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 電光石火",
+      "tourId": "denko-sekka-1999",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 21,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-asian-no-doubt-1999-001",
+      "date": "1999-11-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA ASIAN TOUR NO DOUBT",
+      "tourId": "asian-no-doubt-1999",
+      "venue": "北京 首都体育館",
+      "country": "中国",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-asian-no-doubt-1999-002",
+      "date": "1999-11-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA ASIAN TOUR NO DOUBT",
+      "tourId": "asian-no-doubt-1999",
+      "venue": "北京 首都体育館",
+      "country": "中国",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-asian-no-doubt-1999-003",
+      "date": "1999-11-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA ASIAN TOUR NO DOUBT",
+      "tourId": "asian-no-doubt-1999",
+      "venue": "上海体育館",
+      "country": "中国",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-asian-no-doubt-1999-004",
+      "date": "1999-11-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA ASIAN TOUR NO DOUBT",
+      "tourId": "asian-no-doubt-1999",
+      "venue": "上海体育館",
+      "country": "中国",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-015",
+      "date": "1999-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA VERY BEST ROLL OVER 20TH』発売",
+      "releaseTitle": "CHAGE and ASKA VERY BEST ROLL OVER 20TH",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：ベストアルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-016",
+      "date": "1999-12-16",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『CHAGE TREASURE BOX Vol.1』発売",
+      "releaseTitle": "CHAGE TREASURE BOX Vol.1",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：セレクトアルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-017",
+      "date": "1999-12-20",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『夢の番人 SPECIAL EVENT 1993 GUYS』発売",
+      "releaseTitle": "夢の番人 SPECIAL EVENT 1993 GUYS",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：FC販売ビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-018",
+      "date": "1999-12-20",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『史上最大の作戦 THE LONGEST TOUR 1993-1994』発売",
+      "releaseTitle": "史上最大の作戦 THE LONGEST TOUR 1993-1994",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：FC販売ビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-sennen-ya-1999-001",
+      "date": "1999-12-31",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "千年夜一夜ライブ ～福岡ドーム 僕らがホーム～",
+      "tourId": "sennen-ya-1999",
+      "venue": "福岡ドーム",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "release-v07-019",
+      "date": "1999-12-31",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA LIVE BEST 1995-1999』発売",
+      "releaseTitle": "CHAGE and ASKA LIVE BEST 1995-1999",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：ライブDVD",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-020",
+      "date": "2000-06-15",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『千年夜一夜ライブ ～福岡ドーム 僕らがホーム～』発売",
+      "releaseTitle": "千年夜一夜ライブ ～福岡ドーム 僕らがホーム～",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：FC販売VHS",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-021",
+      "date": "2000-07-12",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『good time』発売",
+      "releaseTitle": "good time",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-022",
+      "date": "2000-07-12",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『千年夜一夜ライブ ～福岡ドーム 僕らがホーム～』発売",
+      "releaseTitle": "千年夜一夜ライブ ～福岡ドーム 僕らがホーム～",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：ライブDVD",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-korea-2000-001",
+      "date": "2000-08-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA LIVE IN KOREA",
+      "tourId": "korea-2000",
+      "venue": "ソウルオリンピック公園蚕室体操競技場",
+      "country": "韓国",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-korea-2000-002",
+      "date": "2000-08-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA LIVE IN KOREA",
+      "tourId": "korea-2000",
+      "venue": "ソウルオリンピック公園蚕室体操競技場",
+      "country": "韓国",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-good-time-2000-001",
+      "date": "2000-10-07",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "真駒内アイスアリーナ",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-v07-good-time-2000-002",
+      "date": "2000-10-08",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "真駒内アイスアリーナ",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-v07-good-time-2000-003",
+      "date": "2000-10-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-good-time-2000-004",
+      "date": "2000-10-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-good-time-2000-005",
+      "date": "2000-10-18",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-good-time-2000-006",
+      "date": "2000-10-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-good-time-2000-007",
+      "date": "2000-10-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-good-time-2000-008",
+      "date": "2000-10-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-good-time-2000-009",
+      "date": "2000-10-28",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-good-time-2000-010",
+      "date": "2000-10-29",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-good-time-2000-011",
+      "date": "2000-11-02",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "広島サンプラザ",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-v07-good-time-2000-012",
+      "date": "2000-11-03",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "広島サンプラザ",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-v07-good-time-2000-013",
+      "date": "2000-11-07",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-good-time-2000-014",
+      "date": "2000-11-08",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-good-time-2000-015",
+      "date": "2000-11-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-good-time-2000-016",
+      "date": "2000-11-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-good-time-2000-017",
+      "date": "2000-11-14",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "マリンメッセ福岡",
+      "country": "日本",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-v07-good-time-2000-018",
+      "date": "2000-11-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "マリンメッセ福岡",
+      "country": "日本",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-v07-pre-final-2000-001",
+      "date": "2000-11-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA PRE-FINAL at The Garden Hall",
+      "tourId": "pre-final-2000",
+      "venue": "恵比寿ガーデンホール",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-v07-good-time-2000-019",
+      "date": "2000-11-30",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "仙台市体育館",
+      "country": "日本",
+      "performanceNo": 19,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-v07-good-time-2000-020",
+      "date": "2000-12-01",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR GOOD TIME",
+      "tourId": "good-time-2000",
+      "venue": "仙台市体育館",
+      "country": "日本",
+      "performanceNo": 20,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー・公演シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "release-v07-023",
+      "date": "2001-01-01",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE & ASKA ASIAN TOUR IN TAIPEI』発売",
+      "releaseTitle": "CHAGE & ASKA ASIAN TOUR IN TAIPEI",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：5.1chライブDVD",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-024",
+      "date": "2001-01-01",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE & ASKA MTV UNPLUGGED LIVE』発売",
+      "releaseTitle": "CHAGE & ASKA MTV UNPLUGGED LIVE",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：5.1chライブDVD",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-025",
+      "date": "2001-01-01",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA 共謀者』発売",
+      "releaseTitle": "ASKA 共謀者",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：5.1chライブDVD（FC販売）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-026",
+      "date": "2001-01-01",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『CHAGE Feeling Place』発売",
+      "releaseTitle": "CHAGE Feeling Place",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：5.1chライブDVD（FC販売）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-027",
+      "date": "2001-04-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『ロケットの樹の下で』発売",
+      "releaseTitle": "ロケットの樹の下で",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-028",
+      "date": "2001-08-08",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『パラシュートの部屋で』発売",
+      "releaseTitle": "パラシュートの部屋で",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-festival-2001-01",
+      "date": "2001-08-11",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "KOIWAI ROCK FARM2001",
+      "tourId": "outdoor-festivals-2001",
+      "venue": "小岩井農場",
+      "prefecture": "岩手県",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "野外イベント出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜2001年",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-festival-2001-02",
+      "date": "2001-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SOUND CONIFER 229",
+      "tourId": "outdoor-festivals-2001",
+      "venue": "富士急ハイランド・コニファーフォレスト",
+      "prefecture": "山梨県",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "野外イベント出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜2001年",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-festival-2001-03",
+      "date": "2001-08-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SOUND MARINA 2001",
+      "tourId": "outdoor-festivals-2001",
+      "venue": "広島・観音マリーナ",
+      "prefecture": "広島県",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "野外イベント出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜2001年",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-festival-2001-04",
+      "date": "2001-09-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "TREASURE MAP 052 FINAL IN TOKAIGAUEN UNIV",
+      "tourId": "outdoor-festivals-2001",
+      "venue": "東海学園三好キャンパス",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "野外イベント出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜2001年",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-festival-2001-05",
+      "date": "2001-09-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "MIRACLE MUSIC FESTIVAL 2001",
+      "tourId": "outdoor-festivals-2001",
+      "venue": "大阪南港WTCオープンエアスタジアム",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "野外イベント出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜2001年",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v07-029",
+      "date": "2001-09-19",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『C-46』発売",
+      "releaseTitle": "C-46",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-not-at-all-2001-001",
+      "date": "2001-10-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "さいたま市文化センター",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "埼玉県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-002",
+      "date": "2001-10-08",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "秋田県民会館",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "秋田県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-003",
+      "date": "2001-10-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "岩手県民会館",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "岩手県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-004",
+      "date": "2001-10-17",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "帯広市民文化ホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-005",
+      "date": "2001-10-18",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "旭川市民文化会館",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-006",
+      "date": "2001-10-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "北海道厚生年金会館",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-007",
+      "date": "2001-10-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "北海道厚生年金会館",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-008",
+      "date": "2001-10-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "函館市民会館",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-009",
+      "date": "2001-10-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "アクトシティ浜松",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "静岡県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-010",
+      "date": "2001-10-30",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "アクトシティ浜松",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "静岡県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-011",
+      "date": "2001-11-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "四日市市文化会館",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "三重県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-012",
+      "date": "2001-11-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "半田市福祉文化会館",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-013",
+      "date": "2001-11-12",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "倉敷市民会館",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "岡山県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-014",
+      "date": "2001-11-13",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "鳥取県立県民文化会館",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "鳥取県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-015",
+      "date": "2001-11-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "ふくやまリーデンローズ",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-016",
+      "date": "2001-11-17",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "徳山市文化会館",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "山口県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-017",
+      "date": "2001-11-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "名古屋国際会議場センチュリーホール",
+      "country": "日本",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-018",
+      "date": "2001-11-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "名古屋国際会議場センチュリーホール",
+      "country": "日本",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-019",
+      "date": "2001-11-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "青森文化会館",
+      "country": "日本",
+      "performanceNo": 19,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "青森県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-020",
+      "date": "2001-11-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "郡山市民文化センター",
+      "country": "日本",
+      "performanceNo": 20,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "福島県"
+    },
+    {
+      "id": "release-v07-030",
+      "date": "2001-11-28",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『夢の飛礫』発売",
+      "releaseTitle": "夢の飛礫",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-v07-not-at-all-2001-021",
+      "date": "2001-12-01",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "桐生市市民文化会館",
+      "country": "日本",
+      "performanceNo": 21,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "群馬県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-022",
+      "date": "2001-12-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "茨城県立県民文化センター",
+      "country": "日本",
+      "performanceNo": 22,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "茨城県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-023",
+      "date": "2001-12-11",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "長野県県民文化会館",
+      "country": "日本",
+      "performanceNo": 23,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "長野県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-024",
+      "date": "2001-12-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "神奈川県民ホール",
+      "country": "日本",
+      "performanceNo": 24,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-025",
+      "date": "2001-12-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "神奈川県民ホール",
+      "country": "日本",
+      "performanceNo": 25,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-026",
+      "date": "2001-12-18",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "神戸国際会館",
+      "country": "日本",
+      "performanceNo": 26,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "兵庫県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-027",
+      "date": "2001-12-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "神戸国際会館",
+      "country": "日本",
+      "performanceNo": 27,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "兵庫県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-028",
+      "date": "2001-12-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "大阪フェスティバルホール",
+      "country": "日本",
+      "performanceNo": 28,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-029",
+      "date": "2001-12-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "大阪フェスティバルホール",
+      "country": "日本",
+      "performanceNo": 29,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-030",
+      "date": "2001-12-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "石川厚生年金会館",
+      "country": "日本",
+      "performanceNo": 30,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "石川県"
+    },
+    {
+      "id": "live-v07-not-at-all-2001-031",
+      "date": "2001-12-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "tourId": "not-at-all-2001",
+      "venue": "新潟県民会館",
+      "country": "日本",
+      "performanceNo": 31,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年も継続するツアー（2001年の公演日程を収録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "新潟県"
+    },
+    {
+      "id": "release-v07-031",
+      "date": "2001-12-27",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『NOT AT ALL』発売",
+      "releaseTitle": "NOT AT ALL",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
     }
   ]
 };
