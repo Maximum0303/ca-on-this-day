@@ -2808,127 +2808,137 @@ v13-media-024,2018-12-29,ASKA,media,フジテレビTWO「ASKA PREMIUM SYMPHONIC 
 v13-media-025,2019-01-14,Chage,media,フジテレビNEXT「Chage＆坂崎幸之助へきくちから」放送,,,,テレビ・ラジオの放送日。ライブ実施日とは別に登録,secondary,https://w.atwiki.jp/cavc/pages/343.html
 v13-media-026,2019-01-17,ASKA,media,フジテレビ「直撃！シンソウ坂上」出演,,,,テレビ・ラジオの放送日。ライブ実施日とは別に登録,secondary,https://w.atwiki.jp/cavc/pages/343.html
 v13-media-027,2019-02-05,ASKA,media,TTV「超級巨星紅白藝能大賞」放送,,,,テレビ・ラジオの放送日。ライブ実施日とは別に登録,secondary,https://w.atwiki.jp/cavc/pages/343.html
-v13-aska19-made-in-001,2019-02-06,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,東京都,オリンパスホール八王子,1,,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-aska19-made-in-001,2019-02-06,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,東京都,オリンパスホール八王子,1,【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
 v13-release-029,2019-02-06,ASKA,release,映像『ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-』DVD/Blu-ray発売,,,,,secondary,https://billboard-cc.com/aska2018
-v13-aska19-made-in-002,2019-02-08,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,神奈川県,神奈川県民ホール,2,,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
-v13-aska19-made-in-003,2019-02-15,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,埼玉県,大宮ソニックシティ 大ホール,3,,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
-v13-aska19-made-in-004,2019-02-19,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,福岡県,福岡サンパレス ホテル＆ホール,4,,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
-v13-aska19-made-in-005,2019-02-21,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,広島県,広島文化学園HBGホール,5,,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
-v13-aska19-made-in-006,2019-02-22,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,香川県,サンポートホール高松,6,,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
-v13-aska19-made-in-007,2019-02-26,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,愛知県,名古屋国際会議場 センチュリーホール,7,,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
-v13-aska19-made-in-008,2019-03-01,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,静岡県,静岡市民文化会館,8,,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
-v13-ch19-dearbeatles,2019-03-10,Chage,live,Dear BEATLES 2019,,,,出演。会場詳細要確認,primary,https://chage.jp/biography/2019.php
-v13-aska19-made-in-009,2019-03-12,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,大阪府,グランキューブ大阪 メインホール,9,,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
-v13-aska19-made-in-010,2019-03-13,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,兵庫県,神戸国際会館 こくさいホール,10,,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
-v13-aska19-made-in-011,2019-03-20,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,新潟県,新潟県民会館,11,,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-aska19-made-in-002,2019-02-08,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,神奈川県,神奈川県民ホール,2,【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-aska19-made-in-003,2019-02-15,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,埼玉県,大宮ソニックシティ 大ホール,3,【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-aska19-made-in-004,2019-02-19,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,福岡県,福岡サンパレス ホテル＆ホール,4,【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-aska19-made-in-005,2019-02-21,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,広島県,広島文化学園HBGホール,5,【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-aska19-made-in-006,2019-02-22,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,香川県,サンポートホール高松,6,【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-aska19-made-in-007,2019-02-26,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,愛知県,名古屋国際会議場 センチュリーホール,7,【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-aska19-made-in-008,2019-03-01,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,静岡県,静岡市民文化会館,8,【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-ch19-dearbeatles,2019-03-10,Chage,live,Dear BEATLES 2019,,,,出演。会場詳細要確認 【2019〜2020年公式点検】Chage公式年譜による公演・出演記録。,primary,https://chage.jp/biography/2019.php
+v13-aska19-made-in-009,2019-03-12,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,大阪府,グランキューブ大阪 メインホール,9,【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-aska19-made-in-010,2019-03-13,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,兵庫県,神戸国際会館 こくさいホール,10,【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-aska19-made-in-011,2019-03-20,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,新潟県,新潟県民会館,11,【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
 v13-release-030,2019-03-22,ASKA,release,書籍『ASKA 書きおろし詩集』発売,,,,,secondary,https://cosmos.ladomi.net/archives/index_arch_2019
-v13-aska19-made-in-012,2019-03-23,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,栃木県,宇都宮市文化会館,12,,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
-v13-aska19-made-in-013,2019-03-24,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,宮城県,仙台サンプラザホール,13,,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
-v13-aska19-made-in-014,2019-04-12,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,東京都,東京国際フォーラム ホールA,14,,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
-v13-ch19-fan-001,2019-04-16,Chage,live,Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫,宮城県,Rensa,1,,primary,https://fanclub.chage.jp/sitenews_det.php?id=7203
+v13-aska19-made-in-012,2019-03-23,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,栃木県,宇都宮市文化会館,12,【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-aska19-made-in-013,2019-03-24,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,宮城県,仙台サンプラザホール,13,【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-aska19-made-in-014,2019-04-12,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,東京都,東京国際フォーラム ホールA,14,【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-ch19-fan-001,2019-04-16,Chage,live,Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫,宮城県,Rensa,1,【2019〜2020年公式点検】FC会員限定。開演17:30。全国6会場・7日程・計11公演。,primary,https://fanclub.chage.jp/sitenews_det.php?id=7203
 v13-ch19-fan-002,2019-04-18,Chage,live,Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫,愛知県,ダイアモンドホール,2,／第1回,primary,https://fanclub.chage.jp/sitenews_det.php?id=7203
 v13-ch19-fan-003,2019-04-18,Chage,live,Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫,愛知県,ダイアモンドホール,3,／第2回,primary,https://fanclub.chage.jp/sitenews_det.php?id=7203
 v13-ch19-fan-004,2019-04-20,Chage,live,Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫,大阪府,松下IMPホール,4,／第1回,primary,https://fanclub.chage.jp/sitenews_det.php?id=7203
 v13-ch19-fan-005,2019-04-20,Chage,live,Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫,大阪府,松下IMPホール,5,／第2回,primary,https://fanclub.chage.jp/sitenews_det.php?id=7203
-v13-ch19-fan-006,2019-04-22,Chage,live,Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫,広島県,広島クラブクアトロ,6,,primary,https://fanclub.chage.jp/sitenews_det.php?id=7203
-v13-aska19-made-in-015,2019-04-23,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,東京都,日本武道館,15,／追加公演,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
-v13-ch19-fan-007,2019-04-23,Chage,live,Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫,福岡県,イムズホール,7,,primary,https://fanclub.chage.jp/sitenews_det.php?id=7203
-v13-aska19-made-in-016,2019-04-25,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,大阪府,フェスティバルホール,16,／追加公演,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-ch19-fan-006,2019-04-22,Chage,live,Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫,広島県,広島クラブクアトロ,6,【2019〜2020年公式点検】FC会員限定。開演18:30。全国6会場・7日程・計11公演。,primary,https://fanclub.chage.jp/sitenews_det.php?id=7203
+v13-aska19-made-in-015,2019-04-23,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,東京都,日本武道館,15,／追加公演 【2019〜2020年公式点検】追加公演。国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-ch19-fan-007,2019-04-23,Chage,live,Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫,福岡県,イムズホール,7,【2019〜2020年公式点検】FC会員限定。開演15:30。全国6会場・7日程・計11公演。,primary,https://fanclub.chage.jp/sitenews_det.php?id=7203
+v13-aska19-made-in-016,2019-04-25,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,大阪府,フェスティバルホール,16,／追加公演 【2019〜2020年公式点検】追加公演。国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
 v13-ch19-fan-008,2019-04-27,Chage,live,Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫,東京都,品川インターシティホール,8,／第1回,primary,https://fanclub.chage.jp/sitenews_det.php?id=7203
 v13-ch19-fan-009,2019-04-27,Chage,live,Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫,東京都,品川インターシティホール,9,／第2回,primary,https://fanclub.chage.jp/sitenews_det.php?id=7203
 v13-ch19-fan-010,2019-04-28,Chage,live,Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫,東京都,品川インターシティホール,10,／第1回,primary,https://fanclub.chage.jp/sitenews_det.php?id=7203
 v13-ch19-fan-011,2019-04-28,Chage,live,Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫,東京都,品川インターシティホール,11,／第2回,primary,https://fanclub.chage.jp/sitenews_det.php?id=7203
-v13-aska19-made-in-017,2019-04-30,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,愛知県,愛知県芸術劇場 大ホール,17,／追加公演,primary,https://www.youtube.com/watch?v=83qeVFoUN5k
-v13-ch19-popcon-tokyo,2019-05-18,Chage,live,"僕らのポプコンエイジ2019 ～Forever Friends, Forever Cocky Pop～",東京都,昭和女子大学人見記念講堂,,出演,primary,https://chage.jp/biography/2019.php
+v13-aska19-made-in-017,2019-04-30,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-,愛知県,愛知県芸術劇場 大ホール,17,／追加公演 【2019〜2020年公式点検】追加公演。国内本編の実施公演。公表された全17公演のうちの1公演。,primary,https://www.billboard-japan.com/d_news/detail/72402/2; https://www.youtube.com/watch?v=83qeVFoUN5k
+v13-ch19-popcon-tokyo,2019-05-18,Chage,live,"僕らのポプコンエイジ2019 ～Forever Friends, Forever Cocky Pop～",東京都,昭和女子大学人見記念講堂,,出演 【2019〜2020年公式点検】Chage公式年譜による公演・出演記録。,primary,https://chage.jp/biography/2019.php
 v13-media-028,2019-05-31,ASKA,media,フジテレビTWO「ASKA CONCERT TOUR 2019 Made in ASKA in 日本武道館」放送,,,,テレビ・ラジオの放送日。ライブ実施日とは別に登録,secondary,https://w.atwiki.jp/cavc/pages/343.html
-v13-ch19-popcon-osaka,2019-06-02,Chage,live,"僕らのポプコンエイジ2019 ～Forever Friends, Forever Cocky Pop～",大阪府,岸和田市立浪切ホール 大ホール,,出演,primary,https://chage.jp/biography/2019.php
+v13-ch19-popcon-osaka,2019-06-02,Chage,live,"僕らのポプコンエイジ2019 ～Forever Friends, Forever Cocky Pop～",大阪府,岸和田市立浪切ホール 大ホール,,出演 【2019〜2020年公式点検】Chage公式年譜による公演・出演記録。,primary,https://chage.jp/biography/2019.php
 v13-aska19-asia-taipei,2019-06-09,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- TAIPEI,,台大體育館,1,台湾公演（国内17公演には含まない）,secondary,https://w.atwiki.jp/canda/pages/267.html
-v13-aska19-asia-hongkong,2019-06-16,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- HONG KONG,,MacPherson Stadium,2,香港公演（6月16日終演）。会場は二次資料も照合,primary,https://archive.fellows.tokyo/blog/?id=1486
+v18221-2019-06-09-aska-018,2019-06-09,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- 台北公演,台湾,国立台湾大学総合体育館,,国内本編17公演とは別のアジアツアー。,secondary,https://www.mirrormedia.mg/story/20190308ent004
+v13-aska19-asia-hongkong,2019-06-16,ASKA,live,ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- HONG KONG,,MacPherson Stadium,2,香港公演（6月16日終演）。会場は二次資料も照合 【2019〜2020年公式点検】国内本編17公演とは別のアジアツアー。,primary,https://archive.fellows.tokyo/blog/?id=1486
 v13-release-031,2019-07-17,ASKA,release,ライブCD『Made in ASKA -40年のありったけ- in 日本武道館』発売,,,,,secondary,https://www.suruga-ya.com/ja/product/220251565
-v13-ch19-nayoro,2019-07-28,Chage,live,てっし名寄まつり,北海道,,,出演。会場詳細要確認,primary,https://chage.jp/biography/2019.php
-v13-release-032,2019-08-07,Chage,release,アルバム『feedback』発売,,,,,primary,https://chage.jp/discography/chage/album.php
+v13-ch19-nayoro,2019-07-28,Chage,live,てっし名寄まつり,北海道,,,出演。会場詳細要確認 【2019〜2020年公式点検】Chage公式年譜による公演・出演記録。,primary,https://chage.jp/biography/2019.php
+v13-release-032,2019-08-07,Chage,release,アルバム『feedback』発売,,,,【2019〜2020年公式点検】Chage公式年譜による発売日。,primary,https://chage.jp/biography/2019.php; https://chage.jp/discography/chage/album.php
 v13-media-029,2019-08-17,Chage,media,フジテレビ「ENGEIグランドスラム」水谷千重子と出演,,,,テレビ・ラジオの放送日。ライブ実施日とは別に登録,primary,https://chage.jp/biography/2019.php
 v13-media-030,2019-08-21,Chage,media,BS朝日「春風亭昇太の少年時代工房」出演,,,,テレビ・ラジオの放送日。ライブ実施日とは別に登録,primary,https://chage.jp/biography/2019.php
 v13-release-033,2019-08-21,ASKA,release,映像『Made in ASKA -40年のありったけ- in 日本武道館』DVD/Blu-ray発売,,,,,secondary,https://cosmos.ladomi.net/archives/index_arch_2019
 v13-media-031,2019-08-24,Chage,media,TBS「COUNT DOWN TV」出演,,,,テレビ・ラジオの放送日。ライブ実施日とは別に登録,primary,https://chage.jp/biography/2019.php
 v13-milestone-004,2019-08-25,CHAGE and ASKA,milestone,CHAGE and ASKA デビュー40周年,,,,1979年8月25日デビューから40周年,primary,https://www.chage-aska.net/history/
 v13-milestone-005,2019-08-25,ASKA,milestone,ASKAがCHAGE and ASKAからの脱退を表明,,,,本人の公式ブログで表明。以降のグループ活動状況と混同しない,primary,https://archive.fellows.tokyo/blog/?id=1619
-v13-ch19-feedback-001,2019-08-31,Chage,live,Chage Live Tour 2019 feedback,愛知県,Zepp Nagoya,1,,primary,https://chage.jp/biography/2019.php
-v13-ch19-feedback-002,2019-09-07,Chage,live,Chage Live Tour 2019 feedback,東京都,豊洲PIT,2,,primary,https://chage.jp/biography/2019.php
-v13-ch19-feedback-003,2019-09-08,Chage,live,Chage Live Tour 2019 feedback,東京都,豊洲PIT,3,,primary,https://chage.jp/biography/2019.php
+v13-ch19-feedback-001,2019-08-31,Chage,live,Chage Live Tour 2019 feedback,愛知県,Zepp Nagoya,1,【2019〜2020年公式点検】全国4会場・5公演の実施公演。,primary,https://chage.jp/biography/2019.php
+v13-ch19-feedback-002,2019-09-07,Chage,live,Chage Live Tour 2019 feedback,東京都,豊洲PIT,2,【2019〜2020年公式点検】全国4会場・5公演の実施公演。,primary,https://chage.jp/biography/2019.php
+v13-ch19-feedback-003,2019-09-08,Chage,live,Chage Live Tour 2019 feedback,東京都,豊洲PIT,3,【2019〜2020年公式点検】全国4会場・5公演の実施公演。,primary,https://chage.jp/biography/2019.php
 v13-media-032,2019-09-11,Chage,media,日本テレビ「のどじまん THEワールド！～令和 元年～」出演,,,,テレビ・ラジオの放送日。ライブ実施日とは別に登録,primary,https://chage.jp/biography/2019.php
-v13-ch19-feedback-004,2019-09-13,Chage,live,Chage Live Tour 2019 feedback,福岡県,Zepp Fukuoka,4,,primary,https://chage.jp/biography/2019.php
-v13-ch19-feedback-005,2019-09-15,Chage,live,Chage Live Tour 2019 feedback,大阪府,Zepp Osaka Bayside,5,,primary,https://chage.jp/biography/2019.php
+v13-ch19-feedback-004,2019-09-13,Chage,live,Chage Live Tour 2019 feedback,福岡県,Zepp Fukuoka,4,【2019〜2020年公式点検】全国4会場・5公演の実施公演。,primary,https://chage.jp/biography/2019.php
+v13-ch19-feedback-005,2019-09-15,Chage,live,Chage Live Tour 2019 feedback,大阪府,Zepp Osaka Bayside,5,【2019〜2020年公式点検】全国4会場・5公演の実施公演。,primary,https://chage.jp/biography/2019.php
 v13-aska19-yokohama,2019-09-16,ASKA,live,SOUND ALIVE presents 横浜合同演奏会,神奈川県,パシフィコ横浜 国立大ホール,,スペシャルゲスト・合同出演,primary,https://yokooto.jp/program/19164/
 v13-aska19-sapporo,2019-09-23,ASKA,live,札幌限定！みんなのプレミアム熟成ライブ,北海道,札幌文化芸術劇場 hitaru,,スペシャルゲスト・合同出演,primary,https://www.kimurakan.com/livedata/2014.php
 v13-release-034,2019-09-26,ASKA,release,電子書籍『ASKA 書きおろし詩集』配信開始,,,,,secondary,https://cosmos.ladomi.net/archives/index_arch_2019
 v13-media-033,2019-10-13,Chage,media,TBS「UTAGE!」出演,,,,テレビ・ラジオの放送日。ライブ実施日とは別に登録,primary,https://chage.jp/biography/2019.php
 v13-release-035,2019-11-06,ASKA,release,シングル「歌になりたい / Breath of Bless」先行配信開始,,,,,primary,https://archive.fellows.tokyo/blog/?id=1741
-v13-ch19-shanghai,2019-11-17,Chage,live,2019 Chage 上海演唱会,,,,中国・上海公演。会場確認待ち,primary,https://chage.jp/biography/2019.php
+v13-ch19-shanghai,2019-11-17,Chage,live,2019 Chage 上海演唱会,,,,中国・上海公演。会場確認待ち 【2019〜2020年公式点検】Chage公式年譜による公演・出演記録。,primary,https://chage.jp/biography/2019.php
 v13-release-036,2019-11-20,ASKA,release,シングル『歌になりたい / Breath of Bless』CD発売,,,,,secondary,https://www.billboard-japan.com/d_news/detail/80958/2
-v13-aska19-higher-001,2019-12-10,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,京都府,京都コンサートホール 大ホール,1,2019年分のみ。2020年分は次版で追加予定,primary,https://billboard-cc.com/aska2019
-v13-aska19-higher-002,2019-12-11,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,愛知県,愛知県芸術劇場 大ホール,2,2019年分のみ。2020年分は次版で追加予定,primary,https://billboard-cc.com/aska2019
-v13-aska19-higher-003,2019-12-20,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,兵庫県,兵庫県立芸術文化センター KOBELCO大ホール,3,2019年分のみ。2020年分は次版で追加予定,primary,https://billboard-cc.com/aska2019
-v13-ch19-xmas,2019-12-20,Chage,live,Chage Christmas Dinner Show 2019,東京都,グランドプリンスホテル新高輪,,,primary,https://chage.jp/biography/2019.php
-v13-aska19-higher-004,2019-12-27,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,宮城県,東京エレクトロンホール宮城 大ホール,4,2019年分のみ。2020年分は次版で追加予定,primary,https://billboard-cc.com/aska2019
+v13-aska19-higher-001,2019-12-10,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,京都府,京都コンサートホール 大ホール,1,2019年分のみ。2020年分は次版で追加予定 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。,primary,https://billboard-cc.com/aska2019
+v13-aska19-higher-002,2019-12-11,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,愛知県,愛知県芸術劇場 大ホール,2,2019年分のみ。2020年分は次版で追加予定 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。,primary,https://billboard-cc.com/aska2019
+v13-aska19-higher-003,2019-12-20,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,兵庫県,兵庫県立芸術文化センター KOBELCO大ホール,3,2019年分のみ。2020年分は次版で追加予定 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。,primary,https://billboard-cc.com/aska2019
+v13-ch19-xmas,2019-12-20,Chage,live,Chage Christmas Dinner Show 2019,東京都,グランドプリンスホテル新高輪,,【2019〜2020年公式点検】Chage公式年譜による公演・出演記録。,primary,https://chage.jp/biography/2019.php
+v13-aska19-higher-004,2019-12-27,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,宮城県,東京エレクトロンホール宮城 大ホール,4,2019年分のみ。2020年分は次版で追加予定 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。,primary,https://billboard-cc.com/aska2019
 v14-media-ch20-001,2020-01-02,Chage,media,NACK5「J-POP TALKIN’」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
-v14-aska-higher-2020-done-001,2020-01-03,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,福岡県,福岡サンパレスホテル&ホール,1,実施済み（2019年分4公演は登録済み）,secondary,https://w.atwiki.jp/canda/pages/263.html
+v14-aska-higher-2020-done-001,2020-01-03,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,福岡県,福岡サンパレスホテル&ホール,1,実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。,primary,https://billboard-cc.com/aska2019; https://w.atwiki.jp/canda/pages/263.html
 v14-media-ch20-002,2020-01-03,Chage,media,ABCテレビ「山里亮太のクイズ！？まさかのバーサーカー2」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
-v14-aska-higher-2020-planned-001,2020-01-06,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）,大阪府,フェスティバルホール,1,開催されていない予定。開催済み公演数に含めない／ASKA急性咽頭炎で延期、後に振替も中止,secondary,https://w.atwiki.jp/canda/pages/263.html
-v14-chage-2020-newyear-001,2020-01-06,Chage,live,Chage NewYear Party 2020,愛知県,名古屋ブルーノート,1,開催日記録。同日の開催回数は未確認,primary,https://chage.jp/biography/2020.php
-v14-chage-2020-newyear-002,2020-01-07,Chage,live,Chage NewYear Party 2020,大阪府,ビルボードライブ大阪,2,開催日記録。同日の開催回数は未確認,primary,https://chage.jp/biography/2020.php
+v14-aska-higher-2020-planned-001,2020-01-06,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）,大阪府,フェスティバルホール,1,開催されていない予定。開催済み公演数に含めない／ASKA急性咽頭炎で延期、後に振替も中止 【2019〜2020年公式点検】急性咽頭炎による延期。振替日3月13日→4月22日→6月19日も実施されず、後に中止決定。,primary,https://billboard-cc.com/aska2019; https://w.atwiki.jp/canda/pages/263.html
+v14-chage-2020-newyear-001,2020-01-06,Chage,live,Chage NewYear Party 2020,愛知県,名古屋ブルーノート,1,開催日記録。同日の開催回数は未確認 【2019〜2020年公式点検】Chage公式年譜に掲載された実施公演。,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-newyear-002,2020-01-07,Chage,live,Chage NewYear Party 2020,大阪府,ビルボードライブ大阪,2,開催日記録。同日の開催回数は未確認 【2019〜2020年公式点検】Chage公式年譜に掲載された実施公演。,primary,https://chage.jp/biography/2020.php
 v14-media-ch20-003,2020-01-08,Chage,media,NACK5「K’s TRANSMISSION」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
-v14-aska-higher-2020-done-002,2020-01-09,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,東京都,東京国際フォーラム ホールA,2,実施済み（2019年分4公演は登録済み）,secondary,https://w.atwiki.jp/canda/pages/263.html
+v14-aska-higher-2020-done-002,2020-01-09,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,東京都,東京国際フォーラム ホールA,2,実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。,primary,https://billboard-cc.com/aska2019; https://w.atwiki.jp/canda/pages/263.html
 v14-media-ch20-004,2020-01-09,Chage,media,NACK5「J-POP TALKIN’」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
-v14-aska-higher-2020-done-003,2020-01-11,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,北海道,札幌文化芸術劇場 hitaru,3,実施済み（2019年分4公演は登録済み）,secondary,https://w.atwiki.jp/canda/pages/263.html
-v14-aska-higher-2020-done-004,2020-01-15,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,東京都,LINE CUBE SHIBUYA,4,実施済み（2019年分4公演は登録済み）,secondary,https://w.atwiki.jp/canda/pages/263.html
+v14-aska-higher-2020-done-003,2020-01-11,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,北海道,札幌文化芸術劇場 hitaru,3,実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。,primary,https://billboard-cc.com/aska2019; https://w.atwiki.jp/canda/pages/263.html
+v14-aska-higher-2020-done-004,2020-01-15,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,東京都,LINE CUBE SHIBUYA,4,実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。,primary,https://billboard-cc.com/aska2019; https://w.atwiki.jp/canda/pages/263.html
 v14-aska-higher-2020-done-005,2020-01-18,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,新潟県,りゅーとぴあ コンサートホール,5,実施済み（2019年分4公演は登録済み）,secondary,https://w.atwiki.jp/canda/pages/263.html
-v14-aska-higher-2020-done-006,2020-02-02,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,群馬県,高崎芸術劇場 大劇場,6,実施済み（2019年分4公演は登録済み）,secondary,https://w.atwiki.jp/canda/pages/263.html
-v14-chage2020-shimokita,2020-02-02,Chage,live,FC限定公演「下北沢の柴田さん」,東京都,duo MUSIC EXCHANGE,,,primary,https://chage.jp/biography/2020.php
-v14-aska-higher-2020-done-007,2020-02-09,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,神奈川県,神奈川県民ホール 大ホール,7,実施済み（2019年分4公演は登録済み）,secondary,https://w.atwiki.jp/canda/pages/263.html
-v14-aska-higher-2020-done-008,2020-02-11,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,東京都,東京文化会館 大ホール,8,実施済み（2019年分4公演は登録済み）／追加公演,secondary,https://w.atwiki.jp/canda/pages/263.html
-v14-chage2020-seo,2020-02-16,Chage,other,瀬尾一三『音楽と契約した男 瀬尾一三』出版記念トークイベント出演,東京都,代官山 蔦屋書店,,,primary,https://chage.jp/biography/2020.php
+v18221-2020-01-18-aska-028,2020-01-18,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,新潟県,りゅーとぴあ 新潟市民芸術文化会館 コンサートホール,,実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。,primary,https://billboard-cc.com/aska2019
+v14-aska-higher-2020-done-006,2020-02-02,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,群馬県,高崎芸術劇場 大劇場,6,実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。,primary,https://billboard-cc.com/aska2019; https://w.atwiki.jp/canda/pages/263.html
+v14-chage2020-shimokita,2020-02-02,Chage,live,FC限定公演「下北沢の柴田さん」,東京都,duo MUSIC EXCHANGE,,【2019〜2020年公式点検】Chage公式年譜による開催日。,primary,https://chage.jp/biography/2020.php
+v14-aska-higher-2020-done-007,2020-02-09,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,神奈川県,神奈川県民ホール 大ホール,7,実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。,primary,https://billboard-cc.com/aska2019; https://w.atwiki.jp/canda/pages/263.html
+v14-aska-higher-2020-done-008,2020-02-11,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,東京都,東京文化会館 大ホール,8,実施済み（2019年分4公演は登録済み）／追加公演 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。,primary,https://billboard-cc.com/aska2019; https://w.atwiki.jp/canda/pages/263.html
+v14-chage2020-seo,2020-02-16,Chage,other,瀬尾一三『音楽と契約した男 瀬尾一三』出版記念トークイベント出演,東京都,代官山 蔦屋書店,,【2019〜2020年公式点検】音楽関連トークイベント。通常のライブ公演とは区別。,primary,https://chage.jp/biography/2020.php
 v14-release-001,2020-02-22,Chage,release,『都はるみを好きになった人 ～tribute to HARUMI MIYAKO～』発売（Chage参加）,,,,水谷千重子＆Chage「浪花恋しぐれ」参加のコンピレーション作品,primary,https://chage.jp/biography/2020.php
-v14-aska-higher-2020-planned-002,2020-03-13,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）,大阪府,フェスティバルホール,2,開催されていない予定。開催済み公演数に含めない／1月6日の振替予定。感染症の影響で中止,secondary,https://w.atwiki.jp/canda/pages/263.html
-v14-aska-higher-2020-planned-003,2020-03-20,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）,熊本県,熊本城ホール メインホール,3,開催されていない予定。開催済み公演数に含めない／特別公演予定。感染症の影響で中止,secondary,https://w.atwiki.jp/canda/pages/263.html
+v14-aska-higher-2020-planned-002,2020-03-13,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）,大阪府,フェスティバルホール,2,開催されていない予定。開催済み公演数に含めない／1月6日の振替予定。感染症の影響で中止 【2019〜2020年公式点検】1月6日公演の振替予定日。再延期し、実施されず。,primary,https://billboard-cc.com/aska2019; https://w.atwiki.jp/canda/pages/263.html
+v14-aska-higher-2020-planned-003,2020-03-20,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）,熊本県,熊本城ホール メインホール,3,開催されていない予定。開催済み公演数に含めない／特別公演予定。感染症の影響で中止 【2019〜2020年公式点検】特別公演の当初予定日。4月27日→6月23日に延期、後に中止決定。,primary,https://billboard-cc.com/aska2019; https://w.atwiki.jp/canda/pages/263.html
 v14-release-002,2020-03-20,ASKA,release,『Breath of Bless』CDアルバム発売,,,,2020年3月6日の先行配信とは別のCD発売日,primary,https://www.oricon.co.jp/prof/245800/products/1347552/1/
 v14-media-ch20-005,2020-04-05,Chage,media,BS12「ザ・カセットテープミュージック」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
-v14-chage-2020-fm-cancel-001,2020-04-10,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,宮城県,仙台 Rensa,1,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定,primary,https://chage.jp/biography/2020.php
-v14-chage-2020-fm-cancel-002,2020-04-12,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,大阪府,松下IMPホール,2,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-fm-cancel-001,2020-04-10,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,宮城県,仙台 Rensa,1,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定 【2019〜2020年公式点検】全11公演が感染症拡大の影響で中止。公式年譜は計7日程を掲載しており、各日程の昼夜別内訳はこの資料だけでは確定できない。,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-fm-cancel-002,2020-04-12,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,大阪府,松下IMPホール,2,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定 【2019〜2020年公式点検】全11公演が感染症拡大の影響で中止。公式年譜は計7日程を掲載しており、各日程の昼夜別内訳はこの資料だけでは確定できない。,primary,https://chage.jp/biography/2020.php
 v14-ca-youtube-01,2020-04-17,CHAGE and ASKA,media,C&A公式YouTubeライブ映像公開 第1弾（1980年代）,,,,YouTube公開日。過去映像の元ライブ公演日とは区別,primary,https://www.chage-aska.net/information/2020041701.php
-v14-chage-2020-fm-cancel-003,2020-04-17,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,愛知県,名古屋 ダイアモンドホール,3,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定,primary,https://chage.jp/biography/2020.php
-v14-chage-2020-fm-cancel-004,2020-04-18,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,広島県,広島クラブクアトロ,4,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定,primary,https://chage.jp/biography/2020.php
-v14-chage-2020-fm-cancel-005,2020-04-19,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,福岡県,福岡 イムズホール,5,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-fm-cancel-003,2020-04-17,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,愛知県,名古屋 ダイアモンドホール,3,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定 【2019〜2020年公式点検】全11公演が感染症拡大の影響で中止。公式年譜は計7日程を掲載しており、各日程の昼夜別内訳はこの資料だけでは確定できない。,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-fm-cancel-004,2020-04-18,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,広島県,広島クラブクアトロ,4,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定 【2019〜2020年公式点検】全11公演が感染症拡大の影響で中止。公式年譜は計7日程を掲載しており、各日程の昼夜別内訳はこの資料だけでは確定できない。,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-fm-cancel-005,2020-04-19,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,福岡県,福岡 イムズホール,5,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定 【2019〜2020年公式点検】全11公演が感染症拡大の影響で中止。公式年譜は計7日程を掲載しており、各日程の昼夜別内訳はこの資料だけでは確定できない。,primary,https://chage.jp/biography/2020.php
+v18221-2020-04-22-aska-035,2020-04-22,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-【延期予定日】,大阪府,フェスティバルホール,,大阪公演の再振替予定日。6月19日に延期、実施されず。,primary,https://billboard-cc.com/aska2019
 v14-ca-youtube-02,2020-04-24,CHAGE and ASKA,media,C&A公式YouTubeライブ映像公開 第2弾（1990年代）,,,,YouTube公開日。過去映像の元ライブ公演日とは区別,primary,https://www.chage-aska.net/information/2020041701.php
-v14-chage-2020-fm-cancel-006,2020-04-25,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,東京都,品川インターシティホール,6,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定,primary,https://chage.jp/biography/2020.php
-v14-chage-2020-fm-cancel-007,2020-04-26,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,東京都,品川インターシティホール,7,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-fm-cancel-006,2020-04-25,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,東京都,品川インターシティホール,6,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定 【2019〜2020年公式点検】全11公演が感染症拡大の影響で中止。公式年譜は計7日程を掲載しており、各日程の昼夜別内訳はこの資料だけでは確定できない。,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-fm-cancel-007,2020-04-26,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,東京都,品川インターシティホール,7,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定 【2019〜2020年公式点検】全11公演が感染症拡大の影響で中止。公式年譜は計7日程を掲載しており、各日程の昼夜別内訳はこの資料だけでは確定できない。,primary,https://chage.jp/biography/2020.php
+v18221-2020-04-27-aska-036,2020-04-27,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-【延期予定日】,熊本県,熊本城ホール メインホール,,熊本公演の振替予定日。6月23日に延期、実施されず。,primary,https://billboard-cc.com/aska2019
 v14-ca-youtube-03,2020-05-01,CHAGE and ASKA,media,C&A公式YouTubeライブ映像公開 第3弾（2000年代）,,,,YouTube公開日。過去映像の元ライブ公演日とは区別,primary,https://www.chage-aska.net/information/2020041701.php
 v14-release-003,2020-05-27,CHAGE and ASKA,release,映像作品『WALK』DVD再発売,,,,1989年作品のDVD化。オリジナル作品初発売日ではない,primary,https://www.chage-aska.net/information/2020051301.php
 v14-release-004,2020-05-27,CHAGE and ASKA,release,映像作品『SEE YA』DVD再発売,,,,1990年作品のDVD化,primary,https://www.chage-aska.net/information/2020051301.php
 v14-chage2020-keiji06,2020-06-16,Chage,live,配信LIVE「川島ケイジの君のために歌いマホ」Vol.4 ゲスト出演,,オンライン配信,,,primary,https://chage.jp/biography/2020.php
+v18221-2020-06-16-chage-078,2020-06-16,Chage,live,配信ライブ「川島ケイジの君のために歌いマホ」Vol.4 ゲスト出演,,オンライン配信,,Chage公式年譜によるゲスト配信出演。,primary,https://chage.jp/biography/2020.php
+v18221-2020-06-19-aska-037,2020-06-19,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-【最終的に中止】,大阪府,フェスティバルホール,,大阪公演の最終振替予定日。実施されず、その後主催者が中止・振替なしと発表。,primary,https://billboard-cc.com/aska2019
+v18221-2020-06-23-aska-038,2020-06-23,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-【最終的に中止】,熊本県,熊本城ホール メインホール,,熊本公演の最終振替予定日。実施されず、その後主催者が中止・振替なしと発表。,primary,https://billboard-cc.com/aska2019
 v14-chage2020-keiji07,2020-07-14,Chage,live,配信LIVE「川島ケイジの君のために歌いマホ」Vol.5 ゲスト出演,,オンライン配信,,,primary,https://chage.jp/biography/2020.php
+v18221-2020-07-14-chage-079,2020-07-14,Chage,live,配信ライブ「川島ケイジの君のために歌いマホ」Vol.5 ゲスト出演,,オンライン配信,,Chage公式年譜によるゲスト配信出演。,primary,https://chage.jp/biography/2020.php
 v14-release-005,2020-08-05,CHAGE and ASKA,release,映像作品『TREE』DVD再発売,,,,1991年作品のDVD化,primary,https://www.chage-aska.net/information/2020072201.php
 v14-release-006,2020-08-05,CHAGE and ASKA,release,映像作品『Go to Eleven ～GUYS～』DVD再発売,,,,1992年作品のDVD化,primary,https://www.chage-aska.net/information/2020072201.php
 v14-media-ch20-006,2020-08-20,Chage,media,TBSラジオ「コシノジュンコ MASACA」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
 v14-media-ch20-007,2020-08-21,Chage,media,FM FUKUOKA「BUTCH COUNTDOWN RADIO」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
 v14-media-ch20-008,2020-08-30,Chage,media,TBSラジオ「コシノジュンコ MASACA」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
-v14-chage-2020-tour-cancel-001,2020-09-05,Chage,live,Chage Live Tour 2020（全公演中止）,愛知県,Zepp Nagoya,1,感染症の影響による開催中止。開催済み公演数には含めない,primary,https://chage.jp/biography/2020.php
-v14-chage2020-online,2020-09-05,Chage,live,Chage Online Live 2020 ～君に逢いたいだけ～,,オンライン配信,,配信ライブ。元々同日に予定されていたZepp Nagoya公演（中止）とは別イベント,primary,https://chage.jp/information/live/detail-404.php
+v14-chage-2020-tour-cancel-001,2020-09-05,Chage,live,Chage Live Tour 2020（全公演中止）,愛知県,Zepp Nagoya,1,感染症の影響による開催中止。開催済み公演数には含めない 【2019〜2020年公式点検】感染症拡大の影響で全5公演中止。配信ライブとは別記録。,primary,https://chage.jp/biography/2020.php
+v14-chage2020-online,2020-09-05,Chage,live,Chage Online Live 2020 ～君に逢いたいだけ～,,オンライン配信,,配信ライブ。元々同日に予定されていたZepp Nagoya公演（中止）とは別イベント 【2019〜2020年公式点検】同日予定のZepp Nagoya公演は中止。本件は実施されたオンラインライブ。,primary,https://chage.jp/biography/2020.php; https://chage.jp/information/live/detail-404.php
 v14-release-007,2020-09-11,ASKA,release,「幸せの黄色い風船」配信開始,,,,2020年3週連続配信第1弾,primary,https://lp.p.pia.jp/article/news/135452/index.html
 v14-release-008,2020-09-18,ASKA,release,「自分じゃないか」配信開始,,,,2020年3週連続配信第2弾,primary,https://lp.p.pia.jp/article/news/135452/index.html
-v14-chage-2020-tour-cancel-002,2020-09-19,Chage,live,Chage Live Tour 2020（全公演中止）,東京都,豊洲PIT,2,感染症の影響による開催中止。開催済み公演数には含めない,primary,https://chage.jp/biography/2020.php
-v14-chage-2020-tour-cancel-003,2020-09-20,Chage,live,Chage Live Tour 2020（全公演中止）,東京都,豊洲PIT,3,感染症の影響による開催中止。開催済み公演数には含めない,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-tour-cancel-002,2020-09-19,Chage,live,Chage Live Tour 2020（全公演中止）,東京都,豊洲PIT,2,感染症の影響による開催中止。開催済み公演数には含めない 【2019〜2020年公式点検】感染症拡大の影響で全5公演中止。配信ライブとは別記録。,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-tour-cancel-003,2020-09-20,Chage,live,Chage Live Tour 2020（全公演中止）,東京都,豊洲PIT,3,感染症の影響による開催中止。開催済み公演数には含めない 【2019〜2020年公式点検】感染症拡大の影響で全5公演中止。配信ライブとは別記録。,primary,https://chage.jp/biography/2020.php
 v14-release-009,2020-09-25,ASKA,release,「僕のwonderful world」配信開始,,,,2020年3週連続配信第3弾,primary,https://lp.p.pia.jp/article/news/135452/index.html
-v14-chage-2020-tour-cancel-004,2020-09-26,Chage,live,Chage Live Tour 2020（全公演中止）,大阪府,Zepp Osaka Bayside,4,感染症の影響による開催中止。開催済み公演数には含めない,primary,https://chage.jp/biography/2020.php
-v14-chage-2020-tour-cancel-005,2020-09-28,Chage,live,Chage Live Tour 2020（全公演中止）,福岡県,Zepp Fukuoka,5,感染症の影響による開催中止。開催済み公演数には含めない,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-tour-cancel-004,2020-09-26,Chage,live,Chage Live Tour 2020（全公演中止）,大阪府,Zepp Osaka Bayside,4,感染症の影響による開催中止。開催済み公演数には含めない 【2019〜2020年公式点検】感染症拡大の影響で全5公演中止。配信ライブとは別記録。,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-tour-cancel-005,2020-09-28,Chage,live,Chage Live Tour 2020（全公演中止）,福岡県,Zepp Fukuoka,5,感染症の影響による開催中止。開催済み公演数には含めない 【2019〜2020年公式点検】感染症拡大の影響で全5公演中止。配信ライブとは別記録。,primary,https://chage.jp/biography/2020.php
 v14-media-ch20-009,2020-10-06,Chage,media,ニッポン放送「あさぼらけ」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
 v14-media-ch20-010,2020-10-07,Chage,media,ニッポン放送「あさぼらけ」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
 v14-release-010,2020-10-07,Chage,release,「君に逢いたいだけ」配信開始,,,,,primary,https://chage.jp/discography/
-v14-chage2020-popcon,2020-10-18,Chage,live,配信LIVE「僕らのポプコンエイジ・オンライン2020」出演,,オンライン配信,,,primary,https://chage.jp/biography/2020.php
+v18221-2020-10-07-chage-088,2020-10-07,Chage,release,配信シングル『君に逢いたいだけ』リリース,,,,Chage公式年譜による配信開始日。,primary,https://chage.jp/biography/2020.php
+v18221-2020-10-11-aska-090,2020-10-11,ASKA,other,「ASKA VR 2020」MV撮影のVR生配信,北海道,北海道・支笏湖,,14時開始。通常の観客入りコンサートではなく、MV撮影をオンラインでVR生配信した企画。,primary,https://vrmode.jp/news/detail/37
+v14-chage2020-popcon,2020-10-18,Chage,live,配信LIVE「僕らのポプコンエイジ・オンライン2020」出演,,オンライン配信,,【2019〜2020年公式点検】オンライン開催のイベント出演。,primary,https://chage.jp/biography/2020.php
 v14-release-011,2020-10-21,ASKA,release,ライブ映像『ASKA premium ensemble concert -higher ground- 2019>>2020』発売,,,,ツアー映像作品。公演日とは別,primary,https://lp.p.pia.jp/article/news/135452/index.html
 v14-release-012,2020-11-11,CHAGE and ASKA,release,映像作品『RED HILL』DVD再発売,,,,1994年作品のDVD化,primary,https://www.chage-aska.net/information/2020102101.php
 v14-release-013,2020-11-11,CHAGE and ASKA,release,映像作品『On Your Mark』DVD再発売,,,,1994年作品のDVD化,primary,https://www.chage-aska.net/information/2020102101.php
-v14-release-014,2020-12-09,Chage,release,アルバム『Boot up!!』発売,,,,初回限定盤・通常盤を1作品として登録,primary,https://chage.jp/discography/chage/album/013.php
+v14-release-014,2020-12-09,Chage,release,アルバム『Boot up!!』発売,,,,初回限定盤・通常盤を1作品として登録 【2019〜2020年公式点検】Chage公式年譜による発売日。,primary,https://chage.jp/biography/2020.php; https://chage.jp/discography/chage/album/013.php
 v14-chage-2020-christmas-001,2020-12-19,Chage,live,Chage Christmas Party 2020,神奈川県,ビルボードライブ横浜,1,感染症対策で客席収容率を制限して開催／1st Stage,primary,https://www.billboard-live.com/tokyo/show?event_id=ev-12391
 v14-chage-2020-christmas-002,2020-12-19,Chage,live,Chage Christmas Party 2020,神奈川県,ビルボードライブ横浜,2,感染症対策で客席収容率を制限して開催／2nd Stage,primary,https://www.billboard-live.com/tokyo/show?event_id=ev-12391
 v14-chage-2020-christmas-003,2020-12-22,Chage,live,Chage Christmas Party 2020,東京都,ビルボードライブ東京,3,感染症対策で客席収容率を制限して開催／1st Stage,primary,https://www.billboard-live.com/tokyo/show?event_id=ev-12391

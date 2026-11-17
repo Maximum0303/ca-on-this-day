@@ -56974,8 +56974,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57012,8 +57016,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57034,8 +57042,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57056,8 +57068,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57078,8 +57094,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57100,8 +57120,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57122,8 +57146,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57144,8 +57172,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57166,7 +57198,7 @@ window.CA_EVENT_DATA = {
       "title": "Dear BEATLES 2019",
       "status": "recorded",
       "verification": "primary",
-      "note": "出演。会場詳細要確認",
+      "note": "出演。会場詳細要確認 【2019〜2020年公式点検】Chage公式年譜による公演・出演記録。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -57183,8 +57215,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57205,8 +57241,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57227,8 +57267,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57265,8 +57309,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57287,8 +57335,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57309,8 +57361,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57331,7 +57387,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】FC会員限定。開演17:30。全国6会場・7日程・計11公演。",
       "sources": [
         {
           "label": "Chage公式ファンクラブ公演詳細",
@@ -57441,7 +57497,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】FC会員限定。開演18:30。全国6会場・7日程・計11公演。",
       "sources": [
         {
           "label": "Chage公式ファンクラブ公演詳細",
@@ -57463,8 +57519,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "／追加公演",
+      "note": "／追加公演 【2019〜2020年公式点検】追加公演。国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57485,7 +57545,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】FC会員限定。開演15:30。全国6会場・7日程・計11公演。",
       "sources": [
         {
           "label": "Chage公式ファンクラブ公演詳細",
@@ -57507,8 +57567,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "／追加公演",
+      "note": "／追加公演 【2019〜2020年公式点検】追加公演。国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57617,8 +57681,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
       "status": "recorded",
       "verification": "primary",
-      "note": "／追加公演",
+      "note": "／追加公演 【2019〜2020年公式点検】追加公演。国内本編の実施公演。公表された全17公演のうちの1公演。",
       "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.billboard-japan.com/d_news/detail/72402/2"
+        },
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
@@ -57639,7 +57707,7 @@ window.CA_EVENT_DATA = {
       "title": "僕らのポプコンエイジ2019 ～Forever Friends, Forever Cocky Pop～",
       "status": "recorded",
       "verification": "primary",
-      "note": "出演",
+      "note": "出演 【2019〜2020年公式点検】Chage公式年譜による公演・出演記録。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -57674,7 +57742,7 @@ window.CA_EVENT_DATA = {
       "title": "僕らのポプコンエイジ2019 ～Forever Friends, Forever Cocky Pop～",
       "status": "recorded",
       "verification": "primary",
-      "note": "出演",
+      "note": "出演 【2019〜2020年公式点検】Chage公式年譜による公演・出演記録。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -57706,6 +57774,24 @@ window.CA_EVENT_DATA = {
       "performanceNo": 1
     },
     {
+      "id": "v18221-2019-06-09-aska-018",
+      "date": "2019-06-09",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- 台北公演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "国内本編17公演とは別のアジアツアー。",
+      "sources": [
+        {
+          "label": "公演発表資料",
+          "url": "https://www.mirrormedia.mg/story/20190308ent004"
+        }
+      ],
+      "venue": "国立台湾大学総合体育館",
+      "prefecture": "台湾"
+    },
+    {
       "id": "v13-aska19-asia-hongkong",
       "date": "2019-06-16",
       "artist": "ASKA",
@@ -57713,7 +57799,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- HONG KONG",
       "status": "recorded",
       "verification": "primary",
-      "note": "香港公演（6月16日終演）。会場は二次資料も照合",
+      "note": "香港公演（6月16日終演）。会場は二次資料も照合 【2019〜2020年公式点検】国内本編17公演とは別のアジアツアー。",
       "sources": [
         {
           "label": "ASKA公式ブログ",
@@ -57749,7 +57835,7 @@ window.CA_EVENT_DATA = {
       "title": "てっし名寄まつり",
       "status": "recorded",
       "verification": "primary",
-      "note": "出演。会場詳細要確認",
+      "note": "出演。会場詳細要確認 【2019〜2020年公式点検】Chage公式年譜による公演・出演記録。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -57767,8 +57853,12 @@ window.CA_EVENT_DATA = {
       "title": "アルバム『feedback』発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】Chage公式年譜による発売日。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/biography/2019.php"
+        },
         {
           "label": "Chage公式Discography",
           "url": "https://chage.jp/discography/chage/album.php"
@@ -57879,7 +57969,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Live Tour 2019 feedback",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】全国4会場・5公演の実施公演。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -57900,7 +57990,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Live Tour 2019 feedback",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】全国4会場・5公演の実施公演。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -57921,7 +58011,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Live Tour 2019 feedback",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】全国4会場・5公演の実施公演。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -57958,7 +58048,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Live Tour 2019 feedback",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】全国4会場・5公演の実施公演。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -57979,7 +58069,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Live Tour 2019 feedback",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】全国4会場・5公演の実施公演。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -58086,7 +58176,7 @@ window.CA_EVENT_DATA = {
       "title": "2019 Chage 上海演唱会",
       "status": "recorded",
       "verification": "primary",
-      "note": "中国・上海公演。会場確認待ち",
+      "note": "中国・上海公演。会場確認待ち 【2019〜2020年公式点検】Chage公式年譜による公演・出演記録。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -58119,7 +58209,7 @@ window.CA_EVENT_DATA = {
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
       "verification": "primary",
-      "note": "2019年分のみ。2020年分は次版で追加予定",
+      "note": "2019年分のみ。2020年分は次版で追加予定 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
       "sources": [
         {
           "label": "ビルボードクラシックス公式・終了記録",
@@ -58141,7 +58231,7 @@ window.CA_EVENT_DATA = {
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
       "verification": "primary",
-      "note": "2019年分のみ。2020年分は次版で追加予定",
+      "note": "2019年分のみ。2020年分は次版で追加予定 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
       "sources": [
         {
           "label": "ビルボードクラシックス公式・終了記録",
@@ -58163,7 +58253,7 @@ window.CA_EVENT_DATA = {
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
       "verification": "primary",
-      "note": "2019年分のみ。2020年分は次版で追加予定",
+      "note": "2019年分のみ。2020年分は次版で追加予定 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
       "sources": [
         {
           "label": "ビルボードクラシックス公式・終了記録",
@@ -58185,7 +58275,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Christmas Dinner Show 2019",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】Chage公式年譜による公演・出演記録。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -58204,7 +58294,7 @@ window.CA_EVENT_DATA = {
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
       "verification": "primary",
-      "note": "2019年分のみ。2020年分は次版で追加予定",
+      "note": "2019年分のみ。2020年分は次版で追加予定 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
       "sources": [
         {
           "label": "ビルボードクラシックス公式・終了記録",
@@ -58241,9 +58331,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "実施済み（2019年分4公演は登録済み）",
+      "verification": "primary",
+      "note": "実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://billboard-cc.com/aska2019"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
@@ -58278,9 +58372,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）",
       "status": "canceled",
-      "verification": "secondary",
-      "note": "開催されていない予定。開催済み公演数に含めない／ASKA急性咽頭炎で延期、後に振替も中止",
+      "verification": "primary",
+      "note": "開催されていない予定。開催済み公演数に含めない／ASKA急性咽頭炎で延期、後に振替も中止 【2019〜2020年公式点検】急性咽頭炎による延期。振替日3月13日→4月22日→6月19日も実施されず、後に中止決定。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://billboard-cc.com/aska2019"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
@@ -58300,7 +58398,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage NewYear Party 2020",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催日記録。同日の開催回数は未確認",
+      "note": "開催日記録。同日の開催回数は未確認 【2019〜2020年公式点検】Chage公式年譜に掲載された実施公演。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -58321,7 +58419,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage NewYear Party 2020",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催日記録。同日の開催回数は未確認",
+      "note": "開催日記録。同日の開催回数は未確認 【2019〜2020年公式点検】Chage公式年譜に掲載された実施公演。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -58357,9 +58455,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "実施済み（2019年分4公演は登録済み）",
+      "verification": "primary",
+      "note": "実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://billboard-cc.com/aska2019"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
@@ -58394,9 +58496,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "実施済み（2019年分4公演は登録済み）",
+      "verification": "primary",
+      "note": "実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://billboard-cc.com/aska2019"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
@@ -58415,9 +58521,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "実施済み（2019年分4公演は登録済み）",
+      "verification": "primary",
+      "note": "実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://billboard-cc.com/aska2019"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
@@ -58451,15 +58561,37 @@ window.CA_EVENT_DATA = {
       "venue": "りゅーとぴあ コンサートホール"
     },
     {
+      "id": "v18221-2020-01-18-aska-028",
+      "date": "2020-01-18",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://billboard-cc.com/aska2019"
+        }
+      ],
+      "venue": "りゅーとぴあ 新潟市民芸術文化会館 コンサートホール",
+      "prefecture": "新潟県"
+    },
+    {
       "id": "v14-aska-higher-2020-done-006",
       "date": "2020-02-02",
       "artist": "ASKA",
       "category": "live",
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "実施済み（2019年分4公演は登録済み）",
+      "verification": "primary",
+      "note": "実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://billboard-cc.com/aska2019"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
@@ -58479,7 +58611,7 @@ window.CA_EVENT_DATA = {
       "title": "FC限定公演「下北沢の柴田さん」",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】Chage公式年譜による開催日。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -58497,9 +58629,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "実施済み（2019年分4公演は登録済み）",
+      "verification": "primary",
+      "note": "実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://billboard-cc.com/aska2019"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
@@ -58518,9 +58654,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "実施済み（2019年分4公演は登録済み）／追加公演",
+      "verification": "primary",
+      "note": "実施済み（2019年分4公演は登録済み）／追加公演 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://billboard-cc.com/aska2019"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
@@ -58540,7 +58680,7 @@ window.CA_EVENT_DATA = {
       "title": "瀬尾一三『音楽と契約した男 瀬尾一三』出版記念トークイベント出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】音楽関連トークイベント。通常のライブ公演とは区別。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -58574,9 +58714,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）",
       "status": "canceled",
-      "verification": "secondary",
-      "note": "開催されていない予定。開催済み公演数に含めない／1月6日の振替予定。感染症の影響で中止",
+      "verification": "primary",
+      "note": "開催されていない予定。開催済み公演数に含めない／1月6日の振替予定。感染症の影響で中止 【2019〜2020年公式点検】1月6日公演の振替予定日。再延期し、実施されず。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://billboard-cc.com/aska2019"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
@@ -58595,9 +58739,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）",
       "status": "canceled",
-      "verification": "secondary",
-      "note": "開催されていない予定。開催済み公演数に含めない／特別公演予定。感染症の影響で中止",
+      "verification": "primary",
+      "note": "開催されていない予定。開催済み公演数に含めない／特別公演予定。感染症の影響で中止 【2019〜2020年公式点検】特別公演の当初予定日。4月27日→6月23日に延期、後に中止決定。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://billboard-cc.com/aska2019"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
@@ -58649,7 +58797,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）",
       "status": "canceled",
       "verification": "primary",
-      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定",
+      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定 【2019〜2020年公式点検】全11公演が感染症拡大の影響で中止。公式年譜は計7日程を掲載しており、各日程の昼夜別内訳はこの資料だけでは確定できない。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -58670,7 +58818,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）",
       "status": "canceled",
       "verification": "primary",
-      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定",
+      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定 【2019〜2020年公式点検】全11公演が感染症拡大の影響で中止。公式年譜は計7日程を掲載しており、各日程の昼夜別内訳はこの資料だけでは確定できない。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -58707,7 +58855,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）",
       "status": "canceled",
       "verification": "primary",
-      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定",
+      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定 【2019〜2020年公式点検】全11公演が感染症拡大の影響で中止。公式年譜は計7日程を掲載しており、各日程の昼夜別内訳はこの資料だけでは確定できない。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -58728,7 +58876,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）",
       "status": "canceled",
       "verification": "primary",
-      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定",
+      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定 【2019〜2020年公式点検】全11公演が感染症拡大の影響で中止。公式年譜は計7日程を掲載しており、各日程の昼夜別内訳はこの資料だけでは確定できない。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -58749,7 +58897,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）",
       "status": "canceled",
       "verification": "primary",
-      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定",
+      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定 【2019〜2020年公式点検】全11公演が感染症拡大の影響で中止。公式年譜は計7日程を掲載しており、各日程の昼夜別内訳はこの資料だけでは確定できない。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -58761,6 +58909,24 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "prefecture": "福岡県",
       "venue": "福岡 イムズホール"
+    },
+    {
+      "id": "v18221-2020-04-22-aska-035",
+      "date": "2020-04-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-【延期予定日】",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "大阪公演の再振替予定日。6月19日に延期、実施されず。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://billboard-cc.com/aska2019"
+        }
+      ],
+      "venue": "フェスティバルホール",
+      "prefecture": "大阪府"
     },
     {
       "id": "v14-ca-youtube-02",
@@ -58786,7 +58952,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）",
       "status": "canceled",
       "verification": "primary",
-      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定",
+      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定 【2019〜2020年公式点検】全11公演が感染症拡大の影響で中止。公式年譜は計7日程を掲載しており、各日程の昼夜別内訳はこの資料だけでは確定できない。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -58807,7 +58973,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）",
       "status": "canceled",
       "verification": "primary",
-      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定",
+      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定 【2019〜2020年公式点検】全11公演が感染症拡大の影響で中止。公式年譜は計7日程を掲載しており、各日程の昼夜別内訳はこの資料だけでは確定できない。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -58819,6 +58985,24 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "prefecture": "東京都",
       "venue": "品川インターシティホール"
+    },
+    {
+      "id": "v18221-2020-04-27-aska-036",
+      "date": "2020-04-27",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-【延期予定日】",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "熊本公演の振替予定日。6月23日に延期、実施されず。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://billboard-cc.com/aska2019"
+        }
+      ],
+      "venue": "熊本城ホール メインホール",
+      "prefecture": "熊本県"
     },
     {
       "id": "v14-ca-youtube-03",
@@ -58886,6 +59070,59 @@ window.CA_EVENT_DATA = {
       "venue": "オンライン配信"
     },
     {
+      "id": "v18221-2020-06-16-chage-078",
+      "date": "2020-06-16",
+      "artist": "Chage",
+      "category": "live",
+      "title": "配信ライブ「川島ケイジの君のために歌いマホ」Vol.4 ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式年譜によるゲスト配信出演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "venue": "オンライン配信"
+    },
+    {
+      "id": "v18221-2020-06-19-aska-037",
+      "date": "2020-06-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-【最終的に中止】",
+      "status": "canceled",
+      "verification": "primary",
+      "note": "大阪公演の最終振替予定日。実施されず、その後主催者が中止・振替なしと発表。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://billboard-cc.com/aska2019"
+        }
+      ],
+      "venue": "フェスティバルホール",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "v18221-2020-06-23-aska-038",
+      "date": "2020-06-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-【最終的に中止】",
+      "status": "canceled",
+      "verification": "primary",
+      "note": "熊本公演の最終振替予定日。実施されず、その後主催者が中止・振替なしと発表。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://billboard-cc.com/aska2019"
+        }
+      ],
+      "venue": "熊本城ホール メインホール",
+      "prefecture": "熊本県"
+    },
+    {
       "id": "v14-chage2020-keiji07",
       "date": "2020-07-14",
       "artist": "Chage",
@@ -58897,6 +59134,23 @@ window.CA_EVENT_DATA = {
       "sources": [
         {
           "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "venue": "オンライン配信"
+    },
+    {
+      "id": "v18221-2020-07-14-chage-079",
+      "date": "2020-07-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "配信ライブ「川島ケイジの君のために歌いマホ」Vol.5 ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式年譜によるゲスト配信出演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
           "url": "https://chage.jp/biography/2020.php"
         }
       ],
@@ -58990,7 +59244,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Live Tour 2020（全公演中止）",
       "status": "canceled",
       "verification": "primary",
-      "note": "感染症の影響による開催中止。開催済み公演数には含めない",
+      "note": "感染症の影響による開催中止。開催済み公演数には含めない 【2019〜2020年公式点検】感染症拡大の影響で全5公演中止。配信ライブとは別記録。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -59011,8 +59265,12 @@ window.CA_EVENT_DATA = {
       "title": "Chage Online Live 2020 ～君に逢いたいだけ～",
       "status": "recorded",
       "verification": "primary",
-      "note": "配信ライブ。元々同日に予定されていたZepp Nagoya公演（中止）とは別イベント",
+      "note": "配信ライブ。元々同日に予定されていたZepp Nagoya公演（中止）とは別イベント 【2019〜2020年公式点検】同日予定のZepp Nagoya公演は中止。本件は実施されたオンラインライブ。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/biography/2020.php"
+        },
         {
           "label": "Chage公式Biography・配信公演情報",
           "url": "https://chage.jp/information/live/detail-404.php"
@@ -59061,7 +59319,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Live Tour 2020（全公演中止）",
       "status": "canceled",
       "verification": "primary",
-      "note": "感染症の影響による開催中止。開催済み公演数には含めない",
+      "note": "感染症の影響による開催中止。開催済み公演数には含めない 【2019〜2020年公式点検】感染症拡大の影響で全5公演中止。配信ライブとは別記録。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -59082,7 +59340,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Live Tour 2020（全公演中止）",
       "status": "canceled",
       "verification": "primary",
-      "note": "感染症の影響による開催中止。開催済み公演数には含めない",
+      "note": "感染症の影響による開催中止。開催済み公演数には含めない 【2019〜2020年公式点検】感染症拡大の影響で全5公演中止。配信ライブとは別記録。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -59119,7 +59377,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Live Tour 2020（全公演中止）",
       "status": "canceled",
       "verification": "primary",
-      "note": "感染症の影響による開催中止。開催済み公演数には含めない",
+      "note": "感染症の影響による開催中止。開催済み公演数には含めない 【2019〜2020年公式点検】感染症拡大の影響で全5公演中止。配信ライブとは別記録。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -59140,7 +59398,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Live Tour 2020（全公演中止）",
       "status": "canceled",
       "verification": "primary",
-      "note": "感染症の影響による開催中止。開催済み公演数には含めない",
+      "note": "感染症の影響による開催中止。開催済み公演数には含めない 【2019〜2020年公式点検】感染症拡大の影響で全5公演中止。配信ライブとは別記録。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -59202,6 +59460,40 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v18221-2020-10-07-chage-088",
+      "date": "2020-10-07",
+      "artist": "Chage",
+      "category": "release",
+      "title": "配信シングル『君に逢いたいだけ』リリース",
+      "status": "released",
+      "verification": "primary",
+      "note": "Chage公式年譜による配信開始日。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ]
+    },
+    {
+      "id": "v18221-2020-10-11-aska-090",
+      "date": "2020-10-11",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "「ASKA VR 2020」MV撮影のVR生配信",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "14時開始。通常の観客入りコンサートではなく、MV撮影をオンラインでVR生配信した企画。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://vrmode.jp/news/detail/37"
+        }
+      ],
+      "venue": "北海道・支笏湖",
+      "prefecture": "北海道"
+    },
+    {
       "id": "v14-chage2020-popcon",
       "date": "2020-10-18",
       "artist": "Chage",
@@ -59209,7 +59501,7 @@ window.CA_EVENT_DATA = {
       "title": "配信LIVE「僕らのポプコンエイジ・オンライン2020」出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2019〜2020年公式点検】オンライン開催のイベント出演。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -59274,8 +59566,12 @@ window.CA_EVENT_DATA = {
       "title": "アルバム『Boot up!!』発売",
       "status": "released",
       "verification": "primary",
-      "note": "初回限定盤・通常盤を1作品として登録",
+      "note": "初回限定盤・通常盤を1作品として登録 【2019〜2020年公式点検】Chage公式年譜による発売日。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/biography/2020.php"
+        },
         {
           "label": "Chage公式Discography",
           "url": "https://chage.jp/discography/chage/album/013.php"
@@ -71125,5 +71421,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-20"
+  "siteVersion": "1.8.2-21"
 };
