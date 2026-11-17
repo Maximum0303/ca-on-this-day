@@ -1,46 +1,48 @@
-# 今日はC&Aの何の日？ — Ver.1.3 データ更新
+# 今日はC&Aの何の日？ — Ver.1.4 データ更新
 
-## 収録件数
+CHAGE and ASKA・Chage・ASKA・MULTI MAXの歴史カレンダー。
 
-- **総件数：2,279件**（Ver.1.2の既存 **2,086件** + 新規 **193件**）
-- ライブ関連：**1,936件**、作品発売：**257件**、放送・メディア：**61件**、記念日：**15件**、その他：**10件**
-- 今回追加：ライブ **118件**、作品発売 **36件**、放送・メディア **34件**、記念日 **5件**
-- 年別追加：2017年 **54件**、2018年 **73件**、2019年 **66件**
-- 既存IDと内容は維持。重複IDなし。日本語文字と日付形式を検証済み。
+## 登録件数（2026年11月17日）
 
-## 収録した主要公演
+- **総数：2,499件**（Ver.1.3の既存 **2,279件** を保持し **220件**を追加）
+- ライブ関連 **2,035件**、作品発売・配信 **280件**、メディア **153件**、記念日 **18件**、その他 **13件**
+- 今回追加：ライブ関連 **99件**、作品 **23件**、メディア **92件**、記念日 **3件**、その他 **3件**
+- 年別：2020年 **64件**、2021年 **102件**、2022年 **54件**
+- 今回のライブ関連には **中止予定16件、延期前の予定9件** が含まれ、実際に開催された公演数とは一致しません。
 
-- Chage 2017「Have a Dream！」10公演、「遠景/landscape」5公演、クリスマスディナーショー3公演、ファンミーティング11公演、ポプコンエイジ4公演、単発ゲスト出演
-- Chage 2018「CRIMSON」5公演、記念ライブ1件、ディナーショー1件、単発出演。**ファンミーティングは7開催日分だけ**収録（別資料の総数11回との差4回の開催日への配分は未確定）
-- Chage 2019「feedback」5公演、ファンミーティング11公演（**公式ファンクラブの開演時刻に基づき各回を個別記録**）、上海公演、ディナーショー、イベント出演
-- ASKA 2018「THE PRIDE」本編10公演＋静岡追加1公演
-- ASKA 2019「Made in ASKA」国内17公演、台湾・香港2公演、「higher ground」2019年分4公演、特別ライブ出演2件
+## 主な収録内容
 
-## 記録方針と未解決事項
+- **ASKA 2020**：「higher ground」の2020年実施8公演と、開催に至らなかった大阪（当初・振替）・熊本の予定3件を区別。
+- **Chage 2020**：ニューイヤーパーティー2開催日、FC限定ライブ、オンラインライブ、全中止となったファンミーティングの7開催日／公式11公演、同じく全中止のライブツアー5公演、クリスマス3会場×2ステージ＝6公演。
+- **Chage 2021**：「Boot up!!」9公演、「Winter Event」12公演（いずれも公式開演時刻を記載）、配信イベント、特別ゲスト出演。
+- **ASKA 2021**：6月23日の初配信ライブ、翌2022年に延期されたアンコール公演の旧日程9件、静岡中止公演1件。**旧ツアーの15公演すべてを確定したという意味ではありません**。
+- **ASKA 2022**：「higher ground」アンコール全国13公演（主催者公式の日付・会場・開演時刻）。2021年の延期前日程を別々に保持。
+- **Chage 2022**：「ずっと細道」2022年分6公演、「Billboard Live 64 to 65」2022年分4公演、単独ゲスト出演、配信ファンミーティング開始記録。
+- **作品発売・配信**：C&Aの旧映像DVD復刻6作品とTUG DVDセット、ASKAの『Breath of Bless』『笑って歩こうよ』『PRIDE』など、Chage『Boot up!!』『チャゲクリ』『YOU’RE THE ONE』ほか。CD発売と先行配信、初出と再発売を区別。
+- **放送**：Chage公式Biographyの放送日が明記されたテレビ・ラジオ出演を中心に収録。毎週のレギュラー放送全回を網羅するデータではありません。
 
-- 2017年Chageファンミーティングは**7開催日・11回**。同日2回開催の内訳は当時の公開案内で照合。**開演時刻が不明な同日2回は第1回・第2回とだけ記述し、時刻を作らない**。
-- 2018年Chageファンミーティングは**7開催日**を記録。資料の11公演という総数との差分について、開催日への割り当ては未照合。開催日単位の記録を個々の開催済み公演数と誤認しないこと。
-- 2019年Chageファンミーティングは公式FC公開案内により11公演の回ごとに正確な開演時刻を付記。
-- ASKA「higher ground」は2020年にも続く。**2019年内の4公演だけ**を先行登録。2020年の延期・中止は次版で別記録とする。
-- 2019年8月25日のASKA脱退表明は本人ブログの当日付で登録。CHAGE and ASKAの周年記念とは別の出来事。
-- チャートやウェブ配信、映像作品の発売・再発売は区別。テレビ番組の**放送日**をライブの**開催日**に読み替えない。
-- テレビ・ラジオの補助照合として https://w.atwiki.jp/cavc/ を使用。公式発表があるものは公式を優先する。
-- 資料不足の日時・会場は推測せず空欄とする。ライブ関連の集計にはファンミーティングの開催日単位記録も含む。
+## 特に注意すべき未確定事項
 
-## 主な資料
+1. 2020年Chageファンミーティングは公式の「11公演・7開催日」を、**7件の開催日単位記録**として登録しました。中止された同日複数公演の回数は推測していません。
+2. 2021年ASKAのアンコールツアーは公式「予定15公演」ですが、2022年の振替先を確認できた旧日程9件と、中止告知がある静岡1件のみ登録しています。差分は継続調査します。
+3. 2020年1月6日のASKA大阪公演は咽頭炎で延期され、3月13日の振替も中止です。両日を開催実績には加えません。
+4. Chageオンラインファンミーティング2021/2022はシリーズ開始記録のみ。全開催日を確証なく月ごとに生成していません。
+5. `category=live` の件数は **実施済みのライブ回数ではありません**。`status=canceled`／`status=postponed` を区別しています。`status=recorded` でも開催日単位の記録を含む場合があります。
+6. 個別の出典URLと `verification` を残しました。追加件数は当該3年間の完全網羅を保証するものではありません。
 
-- Chage公式Biography（2017〜2019）：https://chage.jp/biography/2017.php / https://chage.jp/biography/2018.php / https://chage.jp/biography/2019.php
-- Chage公式FC公演情報：https://fanclub.chage.jp/sitenews_det.php?id=7203
-- ASKA公式ブログ：https://archive.fellows.tokyo/blog/?id=1619
-- ASKA公式チャンネル・公演告知：https://www.youtube.com/watch?v=83qeVFoUN5k
-- ビルボードクラシックス：https://billboard-cc.com/aska2018 / https://billboard-cc.com/aska2019
-- CHAGE and ASKA archives wiki：https://w.atwiki.jp/canda/
-- CHAGE and ASKA 映像情報メディア管理センター：https://w.atwiki.jp/cavc/
-- ASKA活動履歴：https://cosmos.ladomi.net/archives/index_arch_2018 / https://cosmos.ladomi.net/archives/index_arch_2019
+## 主な出典
 
-## GitHubへの反映
+- [Chage公式Biography 2020](https://chage.jp/biography/2020.php)、[2021](https://chage.jp/biography/2021.php)、[2022](https://chage.jp/biography/2022.php)
+- [Chage公式「Boot up!!」日程](https://chage.jp/livetour2021/)
+- [Chage公式「Winter Event」日程](https://chage.jp/2021winterevent/)
+- [Chage公式「ずっと細道」過去日程](https://chage.jp/hosomichi/schedule/archive.php)
+- [ASKA 2022主催者の公式日程・旧日程対応](https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/)
+- [CHAGE and ASKA公式Information](https://www.chage-aska.net/information/)（DVD復刻の各回発売日）
+- [CHAGE and ASKA archives wiki](https://w.atwiki.jp/canda/)（ASKA 2019–2020の実施/中止状況など）
+- [映像情報メディア管理センター](https://w.atwiki.jp/cavc/)（補助照合用）
 
-1. ZIPを展開し、リポジトリの `data/events.js`、`data/events.json`、`data/events.csv` を上書き。
-2. トップの `README.md` を上書き。
-3. Commit changes を実行。`index.html`、`app.js`、`styles.css` は変更不要。
-4. 公開ページの更新には数分かかる場合があります。旧表示が残る場合は再読み込みしてください。
+## 反映方法
+
+1. ZIPを展開し、`data/events.js`、`data/events.json`、`data/events.csv` をGitHubリポジトリ内の同じパスへ上書き。
+2. リポジトリ直下の `README.md` を上書きし、Commit changes を実行。
+3. `index.html` / `app.js` / `styles.css` の更新は不要。
