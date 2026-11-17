@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "notice": "公演当日の実施記録と、延期・中止によって開催されなかった当初予定をstatusとnoteで区別しています。ファンクラブイベントでは開催日数と公演回数が一致しない場合があります。出典未確認の回数・時刻は作らず保留します。資料未収録のライブ・番組がある可能性があります。",
+  "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2026年11月17日時点の開催予定は備考に【開催予定】と表示し、延期・中止の予定を実施済みと混同しないでください。",
   "lastUpdated": "2026-11-17",
   "events": [
     {
@@ -57950,6 +57950,2790 @@
         {
           "label": "ASKA公式：2025 FNS歌謡祭出演",
           "url": "https://www.fellows.tokyo/news/detail/588"
+        }
+      ]
+    },
+    {
+      "id": "v16-0001",
+      "date": "2026-09-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "J:COMホール八王子",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 1,
+      "startTime": "17:00",
+      "note": "2026年公演初日",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0002",
+      "date": "2026-09-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "栃木県総合文化センター メインホール",
+      "prefecture": "栃木県",
+      "country": "日本",
+      "performanceNo": 2,
+      "startTime": "17:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0003",
+      "date": "2026-09-27",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "大宮ソニックシティ 大ホール",
+      "prefecture": "埼玉県",
+      "country": "日本",
+      "performanceNo": 3,
+      "startTime": "17:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0004",
+      "date": "2026-10-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "長良川国際会議場 メインホール",
+      "prefecture": "岐阜県",
+      "country": "日本",
+      "performanceNo": 4,
+      "startTime": "17:30",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0005",
+      "date": "2026-10-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "四日市市文化会館 第一ホール",
+      "prefecture": "三重県",
+      "country": "日本",
+      "performanceNo": 5,
+      "startTime": "17:30",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0006",
+      "date": "2026-10-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "倉敷市民会館",
+      "prefecture": "岡山県",
+      "country": "日本",
+      "performanceNo": 6,
+      "startTime": "18:30",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0007",
+      "date": "2026-10-18",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "米子コンベンションセンター BIG SHIP",
+      "prefecture": "鳥取県",
+      "country": "日本",
+      "performanceNo": 7,
+      "startTime": "17:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0008",
+      "date": "2026-10-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "フェスティバルホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 8,
+      "startTime": "18:30",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0009",
+      "date": "2026-10-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "フェスティバルホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 9,
+      "startTime": "18:30",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0010",
+      "date": "2026-10-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "神戸国際会館 こくさいホール",
+      "prefecture": "兵庫県",
+      "country": "日本",
+      "performanceNo": 10,
+      "startTime": "17:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0011",
+      "date": "2026-10-31",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "リンクステーションホール青森（青森市文化会館）",
+      "prefecture": "青森県",
+      "country": "日本",
+      "performanceNo": 11,
+      "startTime": "17:30",
+      "note": "青森公演",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0012",
+      "date": "2026-11-02",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "あきた芸術劇場ミルハス 大ホール",
+      "prefecture": "秋田県",
+      "country": "日本",
+      "performanceNo": 12,
+      "startTime": "18:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0013",
+      "date": "2026-11-14",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "ロームシアター京都 メインホール",
+      "prefecture": "京都府",
+      "country": "日本",
+      "performanceNo": 13,
+      "startTime": "17:30",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0014",
+      "date": "2026-11-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "ロームシアター京都 メインホール",
+      "prefecture": "京都府",
+      "country": "日本",
+      "performanceNo": 14,
+      "startTime": "17:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0015",
+      "date": "2026-11-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "松山市民会館 大ホール",
+      "prefecture": "愛媛県",
+      "country": "日本",
+      "performanceNo": 15,
+      "startTime": "17:30",
+      "note": "【開催予定・2026年11月17日時点】",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0016",
+      "date": "2026-11-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "レクザムホール 大ホール",
+      "prefecture": "香川県",
+      "country": "日本",
+      "performanceNo": 16,
+      "startTime": "17:00",
+      "note": "【開催予定・2026年11月17日時点】",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0017",
+      "date": "2026-11-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "刈谷市総合文化センター 大ホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 17,
+      "startTime": "18:30",
+      "note": "【開催予定・2026年11月17日時点】",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0018",
+      "date": "2026-11-28",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "アクリエひめじ 大ホール",
+      "prefecture": "兵庫県",
+      "country": "日本",
+      "performanceNo": 18,
+      "startTime": "17:00",
+      "note": "【開催予定・2026年11月17日時点】",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0019",
+      "date": "2026-11-29",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "なら100年会館 大ホール",
+      "prefecture": "奈良県",
+      "country": "日本",
+      "performanceNo": 19,
+      "startTime": "17:00",
+      "note": "【開催予定・2026年11月17日時点】",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0020",
+      "date": "2026-12-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "本多の森 北電ホール",
+      "prefecture": "石川県",
+      "country": "日本",
+      "performanceNo": 20,
+      "startTime": "18:30",
+      "note": "【開催予定・2026年11月17日時点】",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0021",
+      "date": "2026-12-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "ホクト文化ホール 大ホール",
+      "prefecture": "長野県",
+      "country": "日本",
+      "performanceNo": 21,
+      "startTime": "17:30",
+      "note": "【開催予定・2026年11月17日時点】",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0022",
+      "date": "2026-12-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "水戸市民会館 グロービスホール",
+      "prefecture": "茨城県",
+      "country": "日本",
+      "performanceNo": 22,
+      "startTime": "18:00",
+      "note": "【開催予定・2026年11月17日時点】",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0023",
+      "date": "2026-12-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "會津風雅堂",
+      "prefecture": "福島県",
+      "country": "日本",
+      "performanceNo": 23,
+      "startTime": "18:00",
+      "note": "【開催予定・2026年11月17日時点】",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0024",
+      "date": "2026-12-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "やまぎん県民ホール（山形県総合文化芸術館）",
+      "prefecture": "山形県",
+      "country": "日本",
+      "performanceNo": 24,
+      "startTime": "17:00",
+      "note": "【開催予定・2026年11月17日時点】",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0025",
+      "date": "2026-12-18",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "守山市民ホール 大ホール",
+      "prefecture": "滋賀県",
+      "country": "日本",
+      "performanceNo": 25,
+      "startTime": "18:30",
+      "note": "【開催予定・2026年11月17日時点】",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0026",
+      "date": "2026-12-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "和歌山県民文化会館 大ホール",
+      "prefecture": "和歌山県",
+      "country": "日本",
+      "performanceNo": 26,
+      "startTime": "17:00",
+      "note": "【開催予定・2026年11月17日時点】",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0027",
+      "date": "2026-12-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "ベネックス長崎ブリックホール",
+      "prefecture": "長崎県",
+      "country": "日本",
+      "performanceNo": 27,
+      "startTime": "18:30",
+      "note": "【開催予定・2026年11月17日時点】",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0028",
+      "date": "2026-12-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "福岡サンパレスホテル＆ホール",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 28,
+      "startTime": "18:30",
+      "note": "【開催予定・2026年11月17日時点】",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0029",
+      "date": "2026-12-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "熊本城ホール メインホール",
+      "prefecture": "熊本県",
+      "country": "日本",
+      "performanceNo": 29,
+      "startTime": "18:00",
+      "note": "【開催予定・2026年11月17日時点】",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0030",
+      "date": "2026-02-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-showa-christmas-2026",
+      "venue": "東京国際フォーラム ホールA",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 1,
+      "startTime": "18:30",
+      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
+      "sources": [
+        {
+          "label": "ASKA公式：公演概要",
+          "url": "https://www.fellows.tokyo/news/detail/488"
+        }
+      ]
+    },
+    {
+      "id": "v16-0031",
+      "date": "2026-02-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-showa-christmas-2026",
+      "venue": "東京国際フォーラム ホールA",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 2,
+      "startTime": "18:30",
+      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
+      "sources": [
+        {
+          "label": "ASKA公式：公演概要",
+          "url": "https://www.fellows.tokyo/news/detail/488"
+        }
+      ]
+    },
+    {
+      "id": "v16-0032",
+      "date": "2026-02-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-showa-christmas-2026",
+      "venue": "グランキューブ大阪（大阪国際会議場）",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 3,
+      "startTime": "18:30",
+      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
+      "sources": [
+        {
+          "label": "ASKA公式：公演概要",
+          "url": "https://www.fellows.tokyo/news/detail/488"
+        }
+      ]
+    },
+    {
+      "id": "v16-0033",
+      "date": "2026-02-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-showa-christmas-2026",
+      "venue": "グランキューブ大阪（大阪国際会議場）",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 4,
+      "startTime": "18:30",
+      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
+      "sources": [
+        {
+          "label": "ASKA公式：公演概要",
+          "url": "https://www.fellows.tokyo/news/detail/488"
+        }
+      ]
+    },
+    {
+      "id": "v16-0034",
+      "date": "2026-01-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-billboard-67-68-2026",
+      "venue": "ビルボードライブ大阪",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "1st Stage",
+      "sources": [
+        {
+          "label": "Billboard Live公式：公演概要",
+          "url": "https://www.billboard-live.com/osaka/show?event_id=ev-20848"
+        }
+      ]
+    },
+    {
+      "id": "v16-0035",
+      "date": "2026-01-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-billboard-67-68-2026",
+      "venue": "ビルボードライブ大阪",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "startTime": "20:00",
+      "note": "2nd Stage",
+      "sources": [
+        {
+          "label": "Billboard Live公式：公演概要",
+          "url": "https://www.billboard-live.com/osaka/show?event_id=ev-20848"
+        }
+      ]
+    },
+    {
+      "id": "v16-0036",
+      "date": "2026-01-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-billboard-67-68-2026",
+      "venue": "ビルボードライブ東京",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "1st Stage",
+      "sources": [
+        {
+          "label": "Billboard Live公式：公演概要",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-20849"
+        }
+      ]
+    },
+    {
+      "id": "v16-0037",
+      "date": "2026-01-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-billboard-67-68-2026",
+      "venue": "ビルボードライブ東京",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "20:00",
+      "note": "2nd Stage",
+      "sources": [
+        {
+          "label": "Billboard Live公式：公演概要",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-20849"
+        }
+      ]
+    },
+    {
+      "id": "v16-0038",
+      "date": "2026-01-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "CLUB-G",
+      "prefecture": "岐阜県",
+      "country": "日本",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0039",
+      "date": "2026-01-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "愛知県芸術劇場 小ホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0040",
+      "date": "2026-01-31",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "EVANS CASTLE HALL",
+      "prefecture": "奈良県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0041",
+      "date": "2026-02-01",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "SHELTER",
+      "prefecture": "和歌山県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0042",
+      "date": "2026-02-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "Club SWINDLE",
+      "prefecture": "秋田県",
+      "country": "日本",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0043",
+      "date": "2026-02-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "新横浜NEW SIDE BEACH!!",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0044",
+      "date": "2026-02-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "柏PALOOZA",
+      "prefecture": "千葉県",
+      "country": "日本",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0045",
+      "date": "2026-03-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "渋谷CLUB QUATTRO",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=017857"
+        }
+      ]
+    },
+    {
+      "id": "v16-0046",
+      "date": "2026-03-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "渋谷CLUB QUATTRO",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "19:00",
+      "note": "同日追加公演・ライブ音源収録予定として告知",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-804.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0047",
+      "date": "2026-04-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "仙台Rensa",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "startTime": "18:30",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-795.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0048",
+      "date": "2026-04-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "ミュージック昭和 Session",
+      "prefecture": "山形県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-795.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0049",
+      "date": "2026-04-29",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "八木橋百貨店8階 カトレアホール",
+      "prefecture": "埼玉県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-804.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0050",
+      "date": "2026-05-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "BIGCAT",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "startTime": "18:30",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-795.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0051",
+      "date": "2026-05-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "能楽堂ホールtenjin9",
+      "prefecture": "岡山県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-795.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0052",
+      "date": "2026-06-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "神戸チキンジョージ",
+      "prefecture": "兵庫県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-795.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0053",
+      "date": "2026-06-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "滋賀B-FLAT",
+      "prefecture": "滋賀県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-795.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0054",
+      "date": "2026-07-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "水戸club SONIC mito",
+      "prefecture": "茨城県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-795.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0055",
+      "date": "2026-08-01",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "postponed",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "鹿児島CAPARVO HALL",
+      "prefecture": "鹿児島県",
+      "country": "日本",
+      "startTime": "15:00",
+      "note": "【延期前の予定】地震の影響で開催見送り。振替は2027年1月29日（本データは2026年のみ収録）",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-857.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0056",
+      "date": "2026-08-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "小倉昭和館",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/hosomichi/schedule/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0057",
+      "date": "2026-11-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "東京キネマ倶楽部",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "15:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-868.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0058",
+      "date": "2026-11-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "ライブハウスモッズ",
+      "prefecture": "沖縄県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-868.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0059",
+      "date": "2026-11-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "桜座",
+      "prefecture": "山梨県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "【開催予定・2026年11月17日時点】 11月17日時点の発表日程",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-868.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0060",
+      "date": "2026-09-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2026 One Love",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-one-love-2026",
+      "venue": "Zepp Nagoya",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "startTime": "18:00",
+      "note": "スペシャルゲスト：吉田山田",
+      "sources": [
+        {
+          "label": "Chage公式：公演・ゲスト一覧",
+          "url": "https://chage.jp/information/live/detail-817.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0061",
+      "date": "2026-09-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2026 One Love",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-one-love-2026",
+      "venue": "Zepp Namba",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "スペシャルゲスト：シシド・カフカ",
+      "sources": [
+        {
+          "label": "Chage公式：公演・ゲスト一覧",
+          "url": "https://chage.jp/information/live/detail-817.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0062",
+      "date": "2026-10-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2026 One Love",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-one-love-2026",
+      "venue": "Zepp DiverCity TOKYO",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "スペシャルゲスト：早見優",
+      "sources": [
+        {
+          "label": "Chage公式：公演・ゲスト一覧",
+          "url": "https://chage.jp/information/live/detail-817.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0063",
+      "date": "2026-10-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2026 One Love",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-one-love-2026",
+      "venue": "電気ビル みらいホール",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "startTime": "18:00",
+      "note": "スペシャルゲスト：theSoul",
+      "sources": [
+        {
+          "label": "Chage公式：公演・ゲスト一覧",
+          "url": "https://chage.jp/information/live/detail-817.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0064",
+      "date": "2026-04-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage’s1/6 Mr.November: One More Time",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "KT Zepp Yokohama",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "startTime": "19:00",
+      "note": "一夜限りの再演",
+      "sources": [
+        {
+          "label": "Chage公式：公演案内",
+          "url": "https://chage.jp/information/live/detail-785.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0065",
+      "date": "2026-06-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "吉田山田 SUPER FAMILY CONCERT（Chageゲスト出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "名古屋ダイアモンドホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式：ゲスト出演告知",
+          "url": "https://chage.jp/information/live/detail-816.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0066",
+      "date": "2026-07-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "西新宿ゴールデンナイトショー（シシド・チャゲ）",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "新宿ReNY",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "16:30",
+      "note": "シシド・カフカとの共演",
+      "sources": [
+        {
+          "label": "Chage公式：出演告知",
+          "url": "https://chage.jp/information/news/detail-815.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0067",
+      "date": "2026-08-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "吉田山田祭り2026（吉田山田柴田 出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "上野水上野外音楽堂",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "吉田山田柴田として出演",
+      "sources": [
+        {
+          "label": "Chage公式：出演告知",
+          "url": "https://chage.jp/information/live/detail-858.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0068",
+      "date": "2026-10-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "高崎音楽祭 シシド・カフカ Presents 高崎ゴールデンナイトショー",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "高崎芸術劇場 スタジオシアター",
+      "prefecture": "群馬県",
+      "country": "日本",
+      "startTime": "19:00",
+      "note": "Chageゲスト出演",
+      "sources": [
+        {
+          "label": "高崎音楽祭公式：日程",
+          "url": "https://www.takasakiongakusai.jp/concert/shishido/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0069",
+      "date": "2026-10-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ニクオン町田BASE 2026（吉田山田柴田 出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "町田シバヒロ",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "15:30",
+      "note": "吉田山田柴田として出演／時間は主催者のタイムテーブルで照合",
+      "sources": [
+        {
+          "label": "Chage公式：イベント出演日",
+          "url": "https://chage.jp/information/live/detail-856.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0070",
+      "date": "2026-11-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "PM AGENCY 40th ANNIVERSARY LIVE スーパー大感謝祭",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "沖縄コンベンションセンター 展示棟",
+      "prefecture": "沖縄県",
+      "country": "日本",
+      "startTime": "15:00",
+      "note": "スターダスト☆レビューほか出演のイベント",
+      "sources": [
+        {
+          "label": "Chage公式：ゲスト出演案内",
+          "url": "https://chage.jp/information/live/detail-825.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0071",
+      "date": "2026-12-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 68 to 69",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "chage-billboard-68-69-2026",
+      "venue": "ビルボードライブ横浜",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "【開催予定・2026年11月17日時点】 1st Stage",
+      "sources": [
+        {
+          "label": "Billboard Live公式：横浜公演",
+          "url": "https://www.billboard-live.com/yokohama/show?event_id=ev-21745"
+        }
+      ]
+    },
+    {
+      "id": "v16-0072",
+      "date": "2026-12-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 68 to 69",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "chage-billboard-68-69-2026",
+      "venue": "ビルボードライブ横浜",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "startTime": "20:00",
+      "note": "【開催予定・2026年11月17日時点】 2nd Stage",
+      "sources": [
+        {
+          "label": "Billboard Live公式：横浜公演",
+          "url": "https://www.billboard-live.com/yokohama/show?event_id=ev-21745"
+        }
+      ]
+    },
+    {
+      "id": "v16-0073",
+      "date": "2026-01-20",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "『ASKA CONCERT TOUR 2024>>2025 -Who is ASKA !?-』ドキュメンタリーブック追加公演版 発売",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "書籍の発売日。音源・映像ではなく出版物",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://www.fellows.tokyo/news/list/1/7/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0074",
+      "date": "2026-01-31",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『FIRST SAIL “COMTEC PORTBASE OPENING CEREMONY” ～ ASKA Live Docking ～』配信リリース",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "FIRST SAIL “COMTEC PORTBASE OPENING CEREMONY” ～ ASKA Live Docking ～",
+      "note": "2025年4月16日公演の収録映像配信。cavcによる補助確認",
+      "sources": [
+        {
+          "label": "公式発売案内・cavc補助",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0075",
+      "date": "2026-03-25",
+      "artist": "Chage",
+      "category": "release",
+      "title": "デジタルライブアルバム『ChageLiveTour2025 Mr.November』配信開始",
+      "status": "released",
+      "verification": "primary",
+      "releaseTitle": "ChageLiveTour2025 Mr.November",
+      "note": "デジタルライブアルバム",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://chage.jp/information/release/detail-800.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0076",
+      "date": "2026-04-22",
+      "artist": "Chage",
+      "category": "release",
+      "title": "Blu-ray『ChageLiveTour2025 Mr.November』発売",
+      "status": "released",
+      "verification": "primary",
+      "releaseTitle": "ChageLiveTour2025 Mr.November",
+      "note": "ライブ映像作品",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://chage.jp/discography/chage/bd/018.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0077",
+      "date": "2026-05-29",
+      "artist": "Chage",
+      "category": "release",
+      "title": "吉田山田柴田「晴れ晴れ（ハレバレ）」配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "Chageと吉田山田によるユニット",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://chage.jp/information/release/detail-819.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0078",
+      "date": "2026-06-30",
+      "artist": "Chage",
+      "category": "release",
+      "title": "シシド・チャゲ「Magic Knight（魔法夜曲）」配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "Chageとシシド・カフカによるユニット",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://fanclub.chage.jp/sitenews.php?category=1&id=X%2FwV6tgdssIGbVcGCV7Qrg%3D%3D"
+        }
+      ]
+    },
+    {
+      "id": "v16-0079",
+      "date": "2026-09-09",
+      "artist": "Chage",
+      "category": "release",
+      "title": "アルバム『Ko』発売",
+      "status": "released",
+      "verification": "primary",
+      "releaseTitle": "Ko",
+      "note": "CDアルバム",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://www.universal-music.co.jp/chage/products/uicz-4711/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0080",
+      "date": "2026-09-09",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "玉置浩二・ASKA「音銀河」先行配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "コラボ作品の先行配信日。9月16日のCD発売とは別",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://www.fellows.tokyo/news/list/1/7/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0081",
+      "date": "2026-09-16",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "玉置浩二・ASKA CDシングル『音銀河／命の宿り』発売",
+      "status": "released",
+      "verification": "primary",
+      "releaseTitle": "音銀河／命の宿り",
+      "note": "発売日および全曲配信開始日",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://www.fellows.tokyo/news/detail/740"
+        }
+      ]
+    },
+    {
+      "id": "v16-0082",
+      "date": "2026-09-23",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA CONCERT 2026 昭和が見ていたクリスマス!?』Blu-ray＋Live CD発売",
+      "status": "released",
+      "verification": "primary",
+      "releaseTitle": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
+      "note": "映像作品とライブCDのセット",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://www.fellows.tokyo/news/list/1/7/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0083",
+      "date": "2026-10-10",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「One Love～二人だけの軌跡～」Music Video Full Ver.公開",
+      "status": "released",
+      "verification": "primary",
+      "note": "MV公開日。新曲の音源発売日とは区別",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://chage.jp/information/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0084",
+      "date": "2026-10-14",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "玉置浩二・ASKA「音銀河」「命の宿り」MV同時公開",
+      "status": "released",
+      "verification": "primary",
+      "note": "映像の公開日。音源の発売日とは区別",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://www.fellows.tokyo/news/detail/779"
+        }
+      ]
+    },
+    {
+      "id": "v16-0085",
+      "date": "2026-01-17",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "WOWOW「氣志團万博2025 ～関東爆音パビリオン～」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2025年出演映像の放送",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0086",
+      "date": "2026-03-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10「Chageのずっと細道～東西南北～」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "密着ドキュメンタリー",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0087",
+      "date": "2026-03-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Chage Billboard Live 67 to 68」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1月公演収録映像の放送",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0088",
+      "date": "2026-03-17",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "NHK BSP4K「玉置浩二ショー」出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "玉置浩二と共演。放送日に登録",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0089",
+      "date": "2026-05-02",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "Travel TV「ROOTS」第1回 配信",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送・配信日",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0090",
+      "date": "2026-05-09",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "Travel TV「ROOTS」第2回 配信",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送・配信日",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0091",
+      "date": "2026-05-16",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "Travel TV「ROOTS」第3回 配信",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送・配信日",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0092",
+      "date": "2026-05-23",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "Travel TV「ROOTS」第4回 配信",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送・配信日",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0093",
+      "date": "2026-07-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「ノンストップ！」でChage出演ライブの模様を放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chage出演VTR",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0094",
+      "date": "2026-09-03",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TOKYO FM「Skyrocket Company」にゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "本人ブログで出演後を確認",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://www.fellows.tokyo/blog/detail/1433/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0095",
+      "date": "2026-09-21",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM福岡「FM SOUND FILE SHINE」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0096",
+      "date": "2026-09-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TOKYO FM「TOKYO SPEAKEASY」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0097",
+      "date": "2026-09-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBSラジオ「えんがわ」生ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0098",
+      "date": "2026-09-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM福岡「カムカムFM FUKUOKA」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0099",
+      "date": "2026-10-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKBラジオ「白岳KAORU研究所」出演（第1回）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0100",
+      "date": "2026-10-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "K-MIX「CHIHIROPE SUNDAY LOUNGE」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-886.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0101",
+      "date": "2026-10-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKBラジオ「白岳KAORU研究所」出演（第2回）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0102",
+      "date": "2026-10-18",
+      "artist": "Chage",
+      "category": "media",
+      "title": "K-MIX「CHIHIROPE SUNDAY LOUNGE」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-886.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0103",
+      "date": "2026-10-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKBラジオ「白岳KAORU研究所」出演（第3回）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0104",
+      "date": "2026-10-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKBラジオ「白岳KAORU研究所」出演（第4回）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0105",
+      "date": "2026-10-10",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "YouTubeラジオ「ASKA Lock-on Radio」初回配信",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式スタッフブログの開始記録",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://www.fellows.tokyo/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0106",
+      "date": "2026-11-12",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "YouTubeラジオ「ASKA Lock-on Radio」第2回配信",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式告知にて確認",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://www.fellows.tokyo/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0107",
+      "date": "2026-11-16",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "Kiss FM KOBE「BEAT IT」生ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式スケジュール告知",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://www.fellows.tokyo/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0108",
+      "date": "2026-08-12",
+      "artist": "Chage",
+      "category": "other",
+      "title": "アート展「Chage Presents One Love ～夏ノ余白～」開幕",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "世田谷美術館 区民ギャラリー",
+      "prefecture": "東京都",
+      "country": "日本",
+      "note": "会期8月12～16日。ライブではなく展示会。開始日の1件として登録",
+      "sources": [
+        {
+          "label": "Chage公式：アート展示会告知",
+          "url": "https://chage.jp/information/news/detail-832.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0109",
+      "date": "2026-12-19",
+      "artist": "Chage",
+      "category": "other",
+      "title": "FAN MEETING 2026「Chappyと冬ノ余白 2026年のありがとう」開始",
+      "status": "scheduled",
+      "verification": "primary",
+      "venue": "琵琶湖グランドホテル",
+      "prefecture": "滋賀県",
+      "country": "日本",
+      "note": "【開催予定・2026年11月17日時点】 12月19～20日の2日間開催。公演数ではなくイベント開始日として1件登録",
+      "sources": [
+        {
+          "label": "Chage公式：ファンミーティング告知",
+          "url": "https://chage.jp/information/fanclub/detail-880.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0110",
+      "date": "2026-09-18",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "ASKAライブ映像配信サービス「ASKA GARAGE」開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "定額動画配信サービス開始記録",
+      "sources": [
+        {
+          "label": "ASKA公式：サービス開始告知",
+          "url": "https://www.fellows.tokyo/news/detail/762"
+        }
+      ]
+    },
+    {
+      "id": "v16-0111",
+      "date": "2026-09-01",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "『ASKA CONCERT 2026 昭和が見ていたクリスマス!?』劇場先行上映開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "9月1～10日は13劇場、9月11～17日は6劇場で上映。生演奏のライブではなく映画館上映／開始日で1件のみ登録",
+      "sources": [
+        {
+          "label": "ASKA公式：上映館・期間発表",
+          "url": "https://www.fellows.tokyo/news/detail/737"
+        }
+      ]
+    },
+    {
+      "id": "v16-0112",
+      "date": "2026-09-05",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "『昭和が見ていたクリスマス!?』先行上映 お台場舞台挨拶",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "ユナイテッド・シネマ アクアシティお台場",
+      "prefecture": "東京都",
+      "country": "日本",
+      "note": "ASKA本人と出演メンバーが舞台挨拶。劇場上映イベントでありコンサート公演ではない",
+      "sources": [
+        {
+          "label": "ASKA本人ブログ：当日の実施報告",
+          "url": "https://www.fellows.tokyo/blog/detail/1436/?page=2"
+        }
+      ]
+    },
+    {
+      "id": "v16-0113",
+      "date": "2026-09-13",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "『昭和が見ていたクリスマス!?』先行上映 札幌舞台挨拶",
+      "status": "recorded",
+      "verification": "secondary",
+      "venue": "ローソン・ユナイテッドシネマ札幌",
+      "prefecture": "北海道",
+      "country": "日本",
+      "note": "9月13日13:00の舞台挨拶予定を公式告知と補助公演記録で照合。開催後の一次報告は未確認／生演奏ライブではない",
+      "sources": [
+        {
+          "label": "ASKA公式：舞台挨拶予告",
+          "url": "https://www.fellows.tokyo/blog/detail/1436/?page=2"
+        }
+      ]
+    },
+    {
+      "id": "v16-0114",
+      "date": "2026-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA デビュー47周年",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1979年8月25日デビューから47周年",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0115",
+      "date": "2026-01-14",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0116",
+      "date": "2026-01-14",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0117",
+      "date": "2026-02-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0118",
+      "date": "2026-02-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0119",
+      "date": "2026-03-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0120",
+      "date": "2026-03-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0121",
+      "date": "2026-04-15",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0122",
+      "date": "2026-04-15",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0123",
+      "date": "2026-05-13",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0124",
+      "date": "2026-05-13",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0125",
+      "date": "2026-06-10",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0126",
+      "date": "2026-06-10",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0127",
+      "date": "2026-07-08",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0128",
+      "date": "2026-07-08",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0129",
+      "date": "2026-08-19",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0130",
+      "date": "2026-08-19",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0131",
+      "date": "2026-09-09",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0132",
+      "date": "2026-09-09",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0133",
+      "date": "2026-10-21",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0134",
+      "date": "2026-10-21",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0135",
+      "date": "2026-11-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "scheduled",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "【開催予定・2026年11月17日時点】 Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0136",
+      "date": "2026-11-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "scheduled",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "【開催予定・2026年11月17日時点】 Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0137",
+      "date": "2026-12-30",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "scheduled",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "【開催予定・2026年11月17日時点】 Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0138",
+      "date": "2026-12-30",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "scheduled",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "【開催予定・2026年11月17日時点】 Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0139",
+      "date": "2026-03-15",
+      "artist": "Chage",
+      "category": "other",
+      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "小倉昭和館",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
+      "sources": [
+        {
+          "label": "Chage公式：上映会日程",
+          "url": "https://chage.jp/information/release/detail-800.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0140",
+      "date": "2026-04-03",
+      "artist": "Chage",
+      "category": "other",
+      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "109シネマズプレミアム新宿",
+      "prefecture": "東京都",
+      "country": "日本",
+      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
+      "sources": [
+        {
+          "label": "Chage公式：上映会日程",
+          "url": "https://chage.jp/information/release/detail-800.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0141",
+      "date": "2026-04-04",
+      "artist": "Chage",
+      "category": "other",
+      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "109シネマズプレミアム新宿",
+      "prefecture": "東京都",
+      "country": "日本",
+      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
+      "sources": [
+        {
+          "label": "Chage公式：上映会日程",
+          "url": "https://chage.jp/information/release/detail-800.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0142",
+      "date": "2026-04-04",
+      "artist": "Chage",
+      "category": "other",
+      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "109シネマズ名古屋",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
+      "sources": [
+        {
+          "label": "Chage公式：上映会日程",
+          "url": "https://chage.jp/information/release/detail-800.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0143",
+      "date": "2026-04-05",
+      "artist": "Chage",
+      "category": "other",
+      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "109シネマズプレミアム新宿",
+      "prefecture": "東京都",
+      "country": "日本",
+      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
+      "sources": [
+        {
+          "label": "Chage公式：上映会日程",
+          "url": "https://chage.jp/information/release/detail-800.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0144",
+      "date": "2026-04-05",
+      "artist": "Chage",
+      "category": "other",
+      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "109シネマズ箕面",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
+      "sources": [
+        {
+          "label": "Chage公式：上映会日程",
+          "url": "https://chage.jp/information/release/detail-800.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0145",
+      "date": "2026-05-30",
+      "artist": "Chage",
+      "category": "other",
+      "title": "FAN MEETING 2026 @Spa Resort Hawaiians 開始",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "スパリゾートハワイアンズ",
+      "prefecture": "福島県",
+      "country": "日本",
+      "note": "5月30～31日の2日間。イベント開始日のみ登録／公演回数は未確認",
+      "sources": [
+        {
+          "label": "Chage公式：ファンミーティング日程",
+          "url": "https://chage.jp/information/fanclub/detail-807.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0146",
+      "date": "2026-08-01",
+      "artist": "Chage",
+      "category": "other",
+      "title": "「Chageのずっとリアルファンミ」鹿児島公演分 延期前予定",
+      "status": "postponed",
+      "verification": "primary",
+      "venue": "鹿児島CAPARVO HALL",
+      "prefecture": "鹿児島県",
+      "country": "日本",
+      "note": "【延期前の予定】地震の影響で開催見送り。振替は2027年1月29日（開催済みとして数えない）",
+      "sources": [
+        {
+          "label": "Chage公式：鹿児島イベント延期",
+          "url": "https://chage.jp/information/live/detail-857.php"
         }
       ]
     }
