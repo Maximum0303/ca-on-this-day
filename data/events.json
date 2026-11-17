@@ -2689,16 +2689,12 @@
       "country": "日本",
       "performanceNo": 1,
       "status": "recorded",
-      "verification": "secondary",
-      "note": "【会場要照合】公式HISTORYは埼玉会館、別資料は神奈川県立青少年センターと記載",
+      "verification": "primary",
+      "note": "ツアー・公演初日",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
           "url": "https://www.chage-aska.net/history/"
-        },
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
         }
       ]
     },
@@ -2709,86 +2705,23 @@
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "千葉市民会館",
+      "venue": "柏市文化会館",
       "prefecture": "千葉県",
       "country": "日本",
       "performanceNo": 2,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
       "id": "live-goiken-1982-003",
-      "date": "1982-07-05",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "水戸市民会館",
-      "prefecture": "茨城県",
-      "country": "日本",
-      "performanceNo": 3,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-004",
-      "date": "1982-07-06",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "宇都宮市文化会館",
-      "prefecture": "栃木県",
-      "country": "日本",
-      "performanceNo": 4,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-005",
       "date": "1982-07-08",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "大宮市民会館",
-      "prefecture": "埼玉県",
-      "country": "日本",
-      "performanceNo": 5,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-006",
-      "date": "1982-07-09",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
@@ -2796,83 +2729,293 @@
       "venue": "群馬県民会館",
       "prefecture": "群馬県",
       "country": "日本",
-      "performanceNo": 6,
+      "performanceNo": 3,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
-      "id": "live-goiken-1982-007",
-      "date": "1982-07-12",
+      "id": "live-goiken-1982-004",
+      "date": "1982-07-10",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "山梨県民会館",
-      "prefecture": "山梨県",
+      "venue": "熊谷市民会館",
+      "prefecture": "埼玉県",
       "country": "日本",
-      "performanceNo": 7,
+      "performanceNo": 4,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
-      "id": "live-goiken-1982-008",
+      "id": "live-goiken-1982-005",
       "date": "1982-07-14",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "長野市民会館",
-      "prefecture": "長野県",
+      "venue": "宮崎市民会館",
+      "prefecture": "宮崎県",
       "country": "日本",
-      "performanceNo": 8,
+      "performanceNo": 5,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
-      "id": "live-goiken-1982-009",
+      "id": "live-goiken-1982-006",
       "date": "1982-07-15",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "松本市民会館",
-      "prefecture": "長野県",
+      "venue": "鹿児島文化センター",
+      "prefecture": "鹿児島県",
       "country": "日本",
-      "performanceNo": 9,
+      "performanceNo": 6,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-007",
+      "date": "1982-07-16",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "大分文化会館",
+      "prefecture": "大分県",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-008",
+      "date": "1982-07-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "郡山市民会館",
+      "prefecture": "福島県",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-009",
+      "date": "1982-07-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "岩手県民会館",
+      "prefecture": "岩手県",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
       "id": "live-goiken-1982-010",
-      "date": "1982-07-17",
+      "date": "1982-08-18",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "秋田県民会館",
+      "prefecture": "秋田県",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-011",
+      "date": "1982-08-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "青森市民会館",
+      "prefecture": "青森県",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-012",
+      "date": "1982-08-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "弘前市民会館",
+      "prefecture": "青森県",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-013",
+      "date": "1982-08-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "八戸市公会堂",
+      "prefecture": "青森県",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-014",
+      "date": "1982-08-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "福島県文化センター",
+      "prefecture": "福島県",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-015",
+      "date": "1982-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "宮城県民会館",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-016",
+      "date": "1982-08-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "会津若松市民会館",
+      "prefecture": "福島県",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-017",
+      "date": "1982-08-31",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
@@ -2880,203 +3023,56 @@
       "venue": "新潟県民会館",
       "prefecture": "新潟県",
       "country": "日本",
-      "performanceNo": 10,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-011",
-      "date": "1982-07-18",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "富山県民会館",
-      "prefecture": "富山県",
-      "country": "日本",
-      "performanceNo": 11,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-012",
-      "date": "1982-07-19",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "金沢市観光会館",
-      "prefecture": "石川県",
-      "country": "日本",
-      "performanceNo": 12,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-013",
-      "date": "1982-07-21",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "福井市民会館",
-      "prefecture": "福井県",
-      "country": "日本",
-      "performanceNo": 13,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-014",
-      "date": "1982-07-23",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "京都会館 第一ホール",
-      "prefecture": "京都府",
-      "country": "日本",
-      "performanceNo": 14,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-015",
-      "date": "1982-07-24",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "神戸文化ホール",
-      "prefecture": "兵庫県",
-      "country": "日本",
-      "performanceNo": 15,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-016",
-      "date": "1982-07-26",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "大阪厚生年金会館",
-      "prefecture": "大阪府",
-      "country": "日本",
-      "performanceNo": 16,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-017",
-      "date": "1982-07-27",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "大阪厚生年金会館",
-      "prefecture": "大阪府",
-      "country": "日本",
       "performanceNo": 17,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
       "id": "live-goiken-1982-018",
-      "date": "1982-07-29",
+      "date": "1982-09-02",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "岡山市民会館",
-      "prefecture": "岡山県",
+      "venue": "長野市民会館",
+      "prefecture": "長野県",
       "country": "日本",
       "performanceNo": 18,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
       "id": "live-goiken-1982-019",
-      "date": "1982-07-30",
+      "date": "1982-09-03",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "広島郵便貯金ホール",
-      "prefecture": "広島県",
+      "venue": "富山市公会堂",
+      "prefecture": "富山県",
       "country": "日本",
       "performanceNo": 19,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -3145,532 +3141,49 @@
     },
     {
       "id": "live-goiken-1982-020",
-      "date": "1982-08-16",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "福岡市民会館",
-      "prefecture": "福岡県",
-      "country": "日本",
-      "performanceNo": 20,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-021",
-      "date": "1982-08-17",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "福岡市民会館",
-      "prefecture": "福岡県",
-      "country": "日本",
-      "performanceNo": 21,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-022",
-      "date": "1982-08-19",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "佐賀市民会館",
-      "prefecture": "佐賀県",
-      "country": "日本",
-      "performanceNo": 22,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-023",
-      "date": "1982-08-20",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "長崎市公会堂",
-      "prefecture": "長崎県",
-      "country": "日本",
-      "performanceNo": 23,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-024",
-      "date": "1982-08-22",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "熊本市民会館",
-      "prefecture": "熊本県",
-      "country": "日本",
-      "performanceNo": 24,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-025",
-      "date": "1982-08-23",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "大分県立芸術会館",
-      "prefecture": "大分県",
-      "country": "日本",
-      "performanceNo": 25,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-026",
-      "date": "1982-08-25",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "宮崎市民会館",
-      "prefecture": "宮崎県",
-      "country": "日本",
-      "performanceNo": 26,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-027",
-      "date": "1982-08-26",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "鹿児島文化センター",
-      "prefecture": "鹿児島県",
-      "country": "日本",
-      "performanceNo": 27,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-028",
-      "date": "1982-09-02",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "静岡市民文化会館",
-      "prefecture": "静岡県",
-      "country": "日本",
-      "performanceNo": 28,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-029",
-      "date": "1982-09-03",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "浜松市民会館",
-      "prefecture": "静岡県",
-      "country": "日本",
-      "performanceNo": 29,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-030",
-      "date": "1982-09-05",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "岐阜市民会館",
-      "prefecture": "岐阜県",
-      "country": "日本",
-      "performanceNo": 30,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-031",
-      "date": "1982-09-06",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "四日市市民会館",
-      "prefecture": "三重県",
-      "country": "日本",
-      "performanceNo": 31,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-032",
-      "date": "1982-09-08",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "愛知勤労会館",
-      "prefecture": "愛知県",
-      "country": "日本",
-      "performanceNo": 32,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-033",
-      "date": "1982-09-09",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "愛知勤労会館",
-      "prefecture": "愛知県",
-      "country": "日本",
-      "performanceNo": 33,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-034",
-      "date": "1982-09-13",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "山口市民会館",
-      "prefecture": "山口県",
-      "country": "日本",
-      "performanceNo": 34,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-035",
       "date": "1982-09-14",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "島根県民会館",
-      "prefecture": "島根県",
+      "venue": "札幌厚生年金会館",
+      "prefecture": "北海道",
       "country": "日本",
-      "performanceNo": 35,
+      "performanceNo": 20,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
-      "id": "live-goiken-1982-036",
-      "date": "1982-09-16",
+      "id": "live-goiken-1982-021",
+      "date": "1982-09-15",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "鳥取市民会館",
-      "prefecture": "鳥取県",
+      "venue": "室蘭市文化センター",
+      "prefecture": "北海道",
       "country": "日本",
-      "performanceNo": 36,
+      "performanceNo": 21,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
-      "id": "live-goiken-1982-037",
+      "id": "live-goiken-1982-022",
       "date": "1982-09-17",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "倉敷市民会館",
-      "prefecture": "岡山県",
-      "country": "日本",
-      "performanceNo": 37,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-038",
-      "date": "1982-09-21",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "高知県民文化ホール",
-      "prefecture": "高知県",
-      "country": "日本",
-      "performanceNo": 38,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-039",
-      "date": "1982-09-22",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "松山市民会館",
-      "prefecture": "愛媛県",
-      "country": "日本",
-      "performanceNo": 39,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-040",
-      "date": "1982-09-24",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "高松市民会館",
-      "prefecture": "香川県",
-      "country": "日本",
-      "performanceNo": 40,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-041",
-      "date": "1982-10-01",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "北海道厚生年金会館",
-      "prefecture": "北海道",
-      "country": "日本",
-      "performanceNo": 41,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-042",
-      "date": "1982-10-02",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "北海道厚生年金会館",
-      "prefecture": "北海道",
-      "country": "日本",
-      "performanceNo": 42,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-043",
-      "date": "1982-10-04",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "旭川市民文化会館",
-      "prefecture": "北海道",
-      "country": "日本",
-      "performanceNo": 43,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-044",
-      "date": "1982-10-05",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "帯広市民会館",
-      "prefecture": "北海道",
-      "country": "日本",
-      "performanceNo": 44,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-045",
-      "date": "1982-10-07",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
@@ -3678,161 +3191,644 @@
       "venue": "釧路市民文化会館",
       "prefecture": "北海道",
       "country": "日本",
-      "performanceNo": 45,
+      "performanceNo": 22,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
-      "id": "live-goiken-1982-046",
-      "date": "1982-10-12",
+      "id": "live-goiken-1982-023",
+      "date": "1982-09-25",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "青森市民会館",
-      "prefecture": "青森県",
+      "venue": "那覇市労働福祉会館",
+      "prefecture": "沖縄県",
       "country": "日本",
-      "performanceNo": 46,
+      "performanceNo": 23,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
-      "id": "live-goiken-1982-047",
-      "date": "1982-10-13",
+      "id": "live-goiken-1982-024",
+      "date": "1982-09-29",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "八戸市公会堂",
-      "prefecture": "青森県",
+      "venue": "中津市文化会館",
+      "prefecture": "大分県",
       "country": "日本",
-      "performanceNo": 47,
+      "performanceNo": 24,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
-      "id": "live-goiken-1982-048",
+      "id": "live-goiken-1982-025",
+      "date": "1982-09-30",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "福岡市民会館",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 25,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-026",
+      "date": "1982-10-03",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "長浜市民会館",
+      "prefecture": "滋賀県",
+      "country": "日本",
+      "performanceNo": 26,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-027",
+      "date": "1982-10-04",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "京都会館第一ホール",
+      "prefecture": "京都府",
+      "country": "日本",
+      "performanceNo": 27,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-028",
+      "date": "1982-10-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "宇都宮市文化会館",
+      "prefecture": "栃木県",
+      "country": "日本",
+      "performanceNo": 28,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-029",
+      "date": "1982-10-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "茨城県民文化センター",
+      "prefecture": "茨城県",
+      "country": "日本",
+      "performanceNo": 29,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-030",
+      "date": "1982-10-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "千葉県文化会館",
+      "prefecture": "千葉県",
+      "country": "日本",
+      "performanceNo": 30,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-031",
+      "date": "1982-10-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "松山市民会館",
+      "prefecture": "愛媛県",
+      "country": "日本",
+      "performanceNo": 31,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-032",
       "date": "1982-10-15",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "秋田県民会館",
-      "prefecture": "秋田県",
+      "venue": "高松市民会館",
+      "prefecture": "香川県",
       "country": "日本",
-      "performanceNo": 48,
+      "performanceNo": 32,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
-      "id": "live-goiken-1982-049",
+      "id": "live-goiken-1982-033",
       "date": "1982-10-16",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "岩手県民会館",
-      "prefecture": "岩手県",
+      "venue": "高知県民文化ホール",
+      "prefecture": "高知県",
       "country": "日本",
-      "performanceNo": 49,
+      "performanceNo": 33,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
-      "id": "live-goiken-1982-050",
+      "id": "live-goiken-1982-034",
       "date": "1982-10-18",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "宮城県民会館",
-      "prefecture": "宮城県",
+      "venue": "徳島文化センター",
+      "prefecture": "徳島県",
       "country": "日本",
-      "performanceNo": 50,
+      "performanceNo": 34,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
-      "id": "live-goiken-1982-051",
-      "date": "1982-10-20",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "御意見無用'82",
-      "tourId": "goiken-1982",
-      "venue": "山形市民会館",
-      "prefecture": "山形県",
-      "country": "日本",
-      "performanceNo": 51,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
-        }
-      ]
-    },
-    {
-      "id": "live-goiken-1982-052",
+      "id": "live-goiken-1982-035",
       "date": "1982-10-21",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "郡山市民会館",
-      "prefecture": "福島県",
+      "venue": "都城市民会館",
+      "prefecture": "宮崎県",
       "country": "日本",
-      "performanceNo": 52,
+      "performanceNo": 35,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-036",
+      "date": "1982-10-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "佐賀市民会館",
+      "prefecture": "佐賀県",
+      "country": "日本",
+      "performanceNo": 36,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-037",
+      "date": "1982-10-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "枕崎市民会館",
+      "prefecture": "鹿児島県",
+      "country": "日本",
+      "performanceNo": 37,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-038",
+      "date": "1982-10-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "田川市文化センター",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 38,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-039",
+      "date": "1982-10-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "大村市民会館",
+      "prefecture": "長崎県",
+      "country": "日本",
+      "performanceNo": 39,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-040",
+      "date": "1982-10-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "島原文化会館",
+      "prefecture": "長崎県",
+      "country": "日本",
+      "performanceNo": 40,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-041",
+      "date": "1982-11-01",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "武生市民会館",
+      "prefecture": "福井県",
+      "country": "日本",
+      "performanceNo": 41,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-042",
+      "date": "1982-11-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "大津市民会館",
+      "prefecture": "滋賀県",
+      "country": "日本",
+      "performanceNo": 42,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-043",
+      "date": "1982-11-04",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "名古屋市民会館",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 43,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-044",
+      "date": "1982-11-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "豊橋勤労福祉会館",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 44,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-045",
+      "date": "1982-11-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "伊勢観光会館",
+      "prefecture": "三重県",
+      "country": "日本",
+      "performanceNo": 45,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-046",
+      "date": "1982-11-08",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "大阪フェスティバルホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 46,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-047",
+      "date": "1982-11-13",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "平塚市民センター",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 47,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-048",
+      "date": "1982-11-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "防府市公会堂",
+      "prefecture": "山口県",
+      "country": "日本",
+      "performanceNo": 48,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-049",
+      "date": "1982-11-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "出雲市民会館",
+      "prefecture": "島根県",
+      "country": "日本",
+      "performanceNo": 49,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-050",
+      "date": "1982-11-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "福山市民会館",
+      "prefecture": "広島県",
+      "country": "日本",
+      "performanceNo": 50,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-051",
+      "date": "1982-11-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "広島郵便貯金ホール",
+      "prefecture": "広島県",
+      "country": "日本",
+      "performanceNo": 51,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-goiken-1982-052",
+      "date": "1982-11-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "御意見無用'82",
+      "tourId": "goiken-1982",
+      "venue": "岡山市民会館",
+      "prefecture": "岡山県",
+      "country": "日本",
+      "performanceNo": 52,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -3855,190 +3851,190 @@
     },
     {
       "id": "live-goiken-1982-053",
-      "date": "1982-11-04",
+      "date": "1982-11-30",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "市川市文化会館",
-      "prefecture": "千葉県",
+      "venue": "神奈川県民大ホール",
+      "prefecture": "神奈川県",
       "country": "日本",
       "performanceNo": 53,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
       "id": "live-goiken-1982-054",
-      "date": "1982-11-05",
+      "date": "1982-12-06",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "川崎市産業文化会館",
-      "prefecture": "神奈川県",
+      "venue": "高槻市民会館",
+      "prefecture": "大阪府",
       "country": "日本",
       "performanceNo": 54,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
       "id": "live-goiken-1982-055",
-      "date": "1982-11-08",
+      "date": "1982-12-07",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "熊谷会館",
-      "prefecture": "埼玉県",
+      "venue": "和歌山市民会館",
+      "prefecture": "和歌山県",
       "country": "日本",
       "performanceNo": 55,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
       "id": "live-goiken-1982-056",
-      "date": "1982-11-10",
+      "date": "1982-12-08",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "相模原市民会館",
-      "prefecture": "神奈川県",
+      "venue": "神戸国際会館",
+      "prefecture": "兵庫県",
       "country": "日本",
       "performanceNo": 56,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
       "id": "live-goiken-1982-057",
-      "date": "1982-11-12",
+      "date": "1982-12-10",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "横須賀市文化会館",
-      "prefecture": "神奈川県",
+      "venue": "奈良県文化会館",
+      "prefecture": "奈良県",
       "country": "日本",
       "performanceNo": 57,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
       "id": "live-goiken-1982-058",
-      "date": "1982-11-15",
+      "date": "1982-12-12",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "渋谷公会堂",
-      "prefecture": "東京都",
+      "venue": "長崎市公会堂",
+      "prefecture": "長崎県",
       "country": "日本",
       "performanceNo": 58,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
       "id": "live-goiken-1982-059",
-      "date": "1982-11-16",
+      "date": "1982-12-14",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "渋谷公会堂",
-      "prefecture": "東京都",
+      "venue": "熊本市民会館",
+      "prefecture": "熊本県",
       "country": "日本",
       "performanceNo": 59,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
       "id": "live-goiken-1982-060",
-      "date": "1982-11-19",
+      "date": "1982-12-15",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "藤沢市民会館",
-      "prefecture": "神奈川県",
+      "venue": "小倉市民会館",
+      "prefecture": "福岡県",
       "country": "日本",
       "performanceNo": 60,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
     {
       "id": "live-goiken-1982-061",
-      "date": "1982-11-22",
+      "date": "1982-12-16",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "御意見無用'82",
       "tourId": "goiken-1982",
-      "venue": "茨城県立県民文化センター",
-      "prefecture": "茨城県",
+      "venue": "福岡サンパレス",
+      "prefecture": "福岡県",
       "country": "日本",
       "performanceNo": 61,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4054,12 +4050,12 @@
       "country": "日本",
       "performanceNo": 62,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4075,12 +4071,12 @@
       "country": "日本",
       "performanceNo": 63,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4096,12 +4092,12 @@
       "country": "日本",
       "performanceNo": 64,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "ツアー・公演最終日",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/370.html"
+          "label": "CHAGE and ASKA公式HISTORY｜御意見無用’82 開催地詳細",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
