@@ -1,31 +1,44 @@
-# 今日はC&Aの何の日？ — Ver.0.9 データ更新
+# 今日はC&Aの何の日？ — Ver.1.0 データ更新
 
-Ver.0.8の既存1,451件を保持し、2005〜2007年の公演・音源映像作品・出来事を124件追加しました。
+既存 **1,575件（Ver.0.9）** を保持し、2008〜2010年の公式記録を **220件** 追加しました。
 
-## 収録件数
+## 今回の収録件数
 
-- **総登録：1,575件**（ライブ関連1,417、作品発売149、その他分類9）。
-- 今回追加：ライブ関連110件（ASKA「My Game is ASKA」34、公演「DOUBLE」51、「alive in live」11、CHAGE博6、イベント・単独公演8）、作品発売11件、メディア1件、FCイベント開始記録2件。
-- **注記**：ライブ関連には既存の延期予定記録も含まれ、すべて開催済み公演を意味しません。
-- 2007年12月15日の「alive in live」札幌公演は昼14時と夜18時の**2公演**を別IDで記録（公式History掲載は日付1行）。
-- 2005年Guam FCイベントは日程開始を記録。ミニライブの実施日が未確定につきライブ件数には含めていません。
-- 2007年12月6日 FUYUON! 2007の会場詳細は照合待ち。
-- 出典付きとはいえ全アーカイブの原本確認・完全網羅は未了です。
+- 総登録：**1,795件**
+- ライブ関連：**1,611件**（延期予定を含む分類数であり、全件が実施済みではありません）
+- 作品発売：**168件**
+- その他・記念日・メディア：**16件**
+- 新規：**220件**（ライブ 194件／発売 19件／その他 7件）
+- 既存IDの改変・削除なし。ID重複なし。
 
-## 主な出典
+## 2008〜2010年に追加した主要ツアー
 
-- 公式HISTORY: https://www.chage-aska.net/history/2000.php
-- ASKA My Game is ASKA: https://w.atwiki.jp/cavc/pages/95.html
-- CHAGE博2005: https://w.atwiki.jp/canda/pages/383.html
-- alive in live: https://w.atwiki.jp/cavc/pages/434.html
-- Short Shorts Film Festival 2005: https://www.shortshorts.org/ja/about/2005.php
-- Point Green Live 2006: https://w.atwiki.jp/cavc/pages/453.html
-- 服部良一100周年出演: https://tower.jp/article/news/2007/08/22/100010666
+- 2008 ASKA SYMPHONIC CONCERT TOUR “SCENE”：15公演
+- 2008 CHAGE CONCERT TOUR アイシテル：10公演
+- 2009 ASKA CONCERT TOUR WALK：国内35公演（通常公演34公演＋6/28 SHOOTING LIVE 1公演）、台湾公演1
+- 2009 Chage「茶会」：10公演（4/22のビデオシューティングライブは別公演と確認できないため重複計上せず）
+- 2009 Chageの細道：35公演
+- 2009 ASKA 昭和が見ていたクリスマス：4公演
+- 2010 ASKA 10DAYS SPECIAL：10公演
+- 2010 Chage「渋茶会」：7公演
+- 2010 Chageの細道：14公演
+- 2010 ASKA FACES：2010年分18公演（2011年分未収録）
+- 2010 Chage まわせ大きな地球儀：2010年分6公演（2011年分未収録）
+- 2010年7月4日「Chageの寄り道 渚編」は公式の「1日2公演」に基づき、同日2件で登録。開始時刻は未確認。
 
-## GitHub Pagesへの反映
+## 出典と確認方針
 
-1. `data/events.js`, `data/events.json`, `data/events.csv` を既存の同名ファイルと置き換える。
-2. ルートの `README.md` を置き換える。`index.html` とその他プログラムは変更しない。
-3. GitHubでコミット後、サイトの絞り込みに2005〜2007年の記録が増えたことを確認する。
+- 2008〜2009年：CHAGE and ASKA公式 HISTORY <https://www.chage-aska.net/history/2000.php>
+- 2010年：CHAGE and ASKA公式 HISTORY <https://www.chage-aska.net/history/2010.php>
+- 事実確認済み：上記公式年表・日程表に載った日付および基本情報。ただし公式掲載のみで、当時のチケット・会報等で全件を再検証したわけではありません。
+- 会場が公式本文に無い出演は空欄にしています。開催地も推測で追加しません。
+- 今回の収録は **2008〜2010年の全出来事を網羅したことを意味しません**。限定イベント・再発・映像商品などは今後の調査対象です。
 
-**重要**：`build_sample_data.py` は古い初期73件を再生成するものです。追加後に実行すると最新データが上書きされるため使用しないでください。
+## GitHub Pages更新方法
+
+1. ZIPを展開して、リポジトリ `data` フォルダーの `events.js` / `events.json` / `events.csv` を上書き。
+2. リポジトリのトップ階層に `README.md` を上書き。
+3. Commit changes して公開データを確認。
+4. 画面が旧件数なら `Ctrl + F5` で再読み込み。
+
+`index.html` / `app.js` / `styles.css` は変更不要です。
