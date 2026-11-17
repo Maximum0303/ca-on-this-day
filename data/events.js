@@ -1,4 +1,4 @@
-/* 公開用データ。events.jsonと同じ内容を保持 */
+/* 公開用データ：events.jsonと同一内容 */
 window.CA_EVENT_DATA = {
   "schemaVersion": 1,
   "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2026年11月17日時点の開催予定は備考に【開催予定】と表示し、延期・中止の予定を実施済みと混同しないでください。",
@@ -324,6 +324,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/439.html"
+        },
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.chage-aska.net/discography/album/kazemai.php"
         }
       ]
     },
@@ -2633,6 +2637,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/364.html"
+        },
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.city.hagi.lg.jp/"
         }
       ]
     },
@@ -2787,6 +2795,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/364.html"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%E4%B8%80%E8%A6%A7"
         }
       ]
     },
@@ -6807,6 +6819,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/374.html"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%E4%B8%80%E8%A6%A7"
         }
       ]
     },
@@ -6836,6 +6852,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/374.html"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%E4%B8%80%E8%A6%A7"
         }
       ]
     },
@@ -7007,6 +7027,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/376.html"
+        },
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.chage-aska.net/discography/album/inside.php"
         }
       ]
     },
@@ -8939,6 +8963,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/377.html"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%E4%B8%80%E8%A6%A7"
         }
       ]
     },
@@ -10782,6 +10810,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        },
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.chage-aska.net/discography/single/morning_moon.php"
         }
       ]
     },
@@ -10948,6 +10980,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        },
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.chage-aska.net/discography/album/turning_point.php"
         }
       ]
     },
@@ -11197,6 +11233,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        },
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.chage-aska.net/discography/single/tasogare_wo_matazuni.php"
         }
       ]
     },
@@ -11719,7 +11759,7 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "Summer Explosion Series",
       "tourId": "summer-explosion-1986",
-      "venue": "飛鳥村歴史公園",
+      "venue": "国営飛鳥歴史公園",
       "prefecture": "奈良県",
       "country": "日本",
       "performanceNo": 1,
@@ -12476,6 +12516,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        },
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.chage-aska.net/discography/single/sailor_man.php"
         }
       ]
     },
@@ -12782,6 +12826,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        },
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.chage-aska.net/discography/album/mr_asia.php"
         }
       ]
     },
@@ -30655,6 +30703,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%E4%B8%80%E8%A6%A7"
         }
       ],
       "prefecture": "東京都"
@@ -30734,6 +30786,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%E4%B8%80%E8%A6%A7"
         }
       ],
       "prefecture": "大阪府"
@@ -47047,6 +47103,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E4%B8%BB%E3%81%AA%E5%87%BA%E6%BC%94%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "country": "日本",
@@ -53340,6 +53400,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Staff memo｜公演日時",
           "url": "https://chage.jp/staffmemo/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%83%85%E5%A0%B1-5/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "venue": "ダイアモンドホール",
@@ -53386,6 +53450,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Staff memo｜公演日時",
           "url": "https://chage.jp/staffmemo/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%83%85%E5%A0%B1-5/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "venue": "松下IMPホール",
@@ -53476,6 +53544,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Staff memo｜公演日時",
           "url": "https://chage.jp/staffmemo/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%83%85%E5%A0%B1-5/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "venue": "品川インターシティホール",
@@ -53522,6 +53594,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Staff memo｜公演日時",
           "url": "https://chage.jp/staffmemo/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%83%85%E5%A0%B1-5/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "venue": "品川インターシティホール",
@@ -54328,6 +54404,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "venue": "松下IMPホール",
@@ -54378,6 +54458,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "venue": "ダイアモンドホール",
@@ -54489,6 +54573,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "venue": "品川インターシティホール",
@@ -54555,6 +54643,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "venue": "品川インターシティホール",
@@ -57414,6 +57506,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式ファンクラブ公演詳細",
           "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "venue": "ダイアモンドホール",
@@ -57458,6 +57554,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式ファンクラブ公演詳細",
           "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "venue": "松下IMPホール",
@@ -57598,6 +57698,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式ファンクラブ公演詳細",
           "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "venue": "品川インターシティホール",
@@ -57642,6 +57746,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式ファンクラブ公演詳細",
           "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "venue": "品川インターシティホール",
@@ -58552,13 +58660,17 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
+        },
+        {
+          "label": "公式・主催者発表",
+          "url": "https://billboard-cc.com/aska2019"
         }
       ],
       "performanceNo": 5,
       "tourId": "aska-higher-ground-2019-2020",
       "country": "日本",
       "prefecture": "新潟県",
-      "venue": "りゅーとぴあ コンサートホール"
+      "venue": "りゅーとぴあ 新潟市民芸術文化会館 コンサートホール"
     },
     {
       "id": "v18221-2020-01-18-aska-028",
@@ -59997,6 +60109,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式｜開演時刻付き全公演日程",
           "url": "https://chage.jp/livetour2021/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "performanceNo": 2,
@@ -60041,6 +60157,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式｜開演時刻付き全公演日程",
           "url": "https://chage.jp/livetour2021/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "performanceNo": 4,
@@ -60085,6 +60205,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式｜開演時刻付き全公演日程",
           "url": "https://chage.jp/livetour2021/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "performanceNo": 6,
@@ -60129,6 +60253,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式｜開演時刻付き全公演日程",
           "url": "https://chage.jp/livetour2021/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "performanceNo": 8,
@@ -62133,6 +62261,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式｜ずっと細道 公演アーカイブ",
           "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "performanceNo": 2,
@@ -63069,6 +63201,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Discography",
           "url": "https://chage.jp/discography/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "country": "日本",
@@ -63666,6 +63802,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography（2023）",
           "url": "https://chage.jp/biography/2023.php"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "country": "日本",
@@ -64606,6 +64746,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式Dinner Show 2023",
           "url": "https://archive.fellows.tokyo/special/dinnershow_2023/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/ASKA#%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "country": "日本",
@@ -64671,6 +64815,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式Dinner Show 2023",
           "url": "https://archive.fellows.tokyo/special/dinnershow_2023/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/ASKA#%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "country": "日本",
@@ -64715,6 +64863,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式Dinner Show 2023",
           "url": "https://archive.fellows.tokyo/special/dinnershow_2023/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/ASKA#%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "country": "日本",
@@ -64759,6 +64911,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式Dinner Show 2023",
           "url": "https://archive.fellows.tokyo/special/dinnershow_2023/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/ASKA#%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "country": "日本",
@@ -64803,6 +64959,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "country": "日本",
@@ -64847,6 +65007,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "country": "日本",
@@ -64891,6 +65055,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "country": "日本",
@@ -66718,6 +66886,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography（2024）",
           "url": "https://chage.jp/biography/2024.php"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "country": "日本",
@@ -66828,6 +67000,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography（2024）",
           "url": "https://chage.jp/biography/2024.php"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "country": "日本",
@@ -66872,6 +67048,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography（2025）",
           "url": "https://chage.jp/biography/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "country": "日本",
@@ -66938,6 +67118,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography（2025）",
           "url": "https://chage.jp/biography/"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "country": "日本",
@@ -70148,6 +70332,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式／公演会場公式",
           "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=017857"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ]
     },
@@ -72448,5 +72636,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-24"
+  "siteVersion": "1.8.2-26"
 };
