@@ -54111,6 +54111,22 @@
       ]
     },
     {
+      "id": "media-v18220-001",
+      "date": "2017-02-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM愛知「Radio Freaks」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biographyに記載された放送日。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ]
+    },
+    {
       "id": "v13-media-003",
       "date": "2017-02-15",
       "artist": "ASKA",
@@ -54123,6 +54139,22 @@
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/341.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18220-002",
+      "date": "2017-02-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TOKYO FM／FM OSAKA「LOVE CONNECTION」LISTEN! MY PLAYLIST 出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "番組内コーナーに出演。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
         }
       ]
     },
@@ -54171,6 +54203,22 @@
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/341.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18220-003",
+      "date": "2017-03-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS日テレ「地球劇場」音の葉紀行・山口萩編 ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "第36回特別編の放送。2018年の出演とは別。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
         }
       ]
     },
@@ -54245,6 +54293,22 @@
       "performanceNo": 1,
       "tourId": "chage-fm-2017",
       "prefecture": "宮城県"
+    },
+    {
+      "id": "media-v18220-004",
+      "date": "2017-03-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "東海テレビ「音市音座2017」出演・放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2017年3月20日の音市音座ライブ公演と、3月29日のテレビ放送を分けて登録。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ]
     },
     {
       "id": "v13-ch17-fan-002",
@@ -54669,6 +54733,22 @@
       "prefecture": "兵庫県"
     },
     {
+      "id": "media-v18220-005",
+      "date": "2017-05-17",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKBラジオ「午後のブルドッグ」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "「午後のワンワンルーム」コーナー出演。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ]
+    },
+    {
       "id": "v13-ch17-have-a-dream-004",
       "date": "2017-05-18",
       "artist": "Chage",
@@ -54733,6 +54813,22 @@
       "prefecture": "宮城県"
     },
     {
+      "id": "media-v18220-006",
+      "date": "2017-05-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "JFN「要のある音楽」1000回記念 ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biographyに記載。5月24日と31日を放送日別に登録。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ]
+    },
+    {
       "id": "v13-ch17-have-a-dream-006",
       "date": "2017-05-25",
       "artist": "Chage",
@@ -54773,6 +54869,22 @@
       "performanceNo": 7,
       "tourId": "chage-have-a-dream-2017",
       "prefecture": "千葉県"
+    },
+    {
+      "id": "media-v18220-007",
+      "date": "2017-05-31",
+      "artist": "Chage",
+      "category": "media",
+      "title": "JFN「要のある音楽」1000回記念 ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biographyに記載。5月24日と31日を放送日別に登録。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ]
     },
     {
       "id": "v13-ch17-have-a-dream-008",
@@ -54836,6 +54948,38 @@
       "performanceNo": 10,
       "tourId": "chage-have-a-dream-2017",
       "prefecture": "大阪府"
+    },
+    {
+      "id": "milestone-v18220-008",
+      "date": "2017-07-01",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "ベスト盤『CHAGE&ASKA VERY BEST ROLL OVER 20TH』音楽配信再開",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "旧作の配信販売を再開した日。2001年のオリジナル発売とは区別し、新作アルバムの発売として扱わない。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/news/detail/842"
+        }
+      ]
+    },
+    {
+      "id": "media-v18220-009",
+      "date": "2017-07-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TOKYO FM／FM OH!「LOVE CONNECTION」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biography記載の放送日。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ]
     },
     {
       "id": "v13-media-008",
@@ -55061,6 +55205,66 @@
       ]
     },
     {
+      "id": "media-v18220-010",
+      "date": "2017-11-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ東京「博多華丸のもらい酒みなと旅2」ゲスト出演・放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biographyに掲載された出演放送（対象日1/4）。他の日付の同番組出演と区別。深夜番組は番組表上の日付に準拠。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        },
+        {
+          "label": "テレビ東京公式番組情報",
+          "url": "https://www.tv-tokyo.co.jp/minatotabi/"
+        }
+      ]
+    },
+    {
+      "id": "media-v18220-011",
+      "date": "2017-11-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ東京「博多華丸のもらい酒みなと旅2」ゲスト出演・放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biographyに掲載された出演放送（対象日2/4）。他の日付の同番組出演と区別。深夜番組は番組表上の日付に準拠。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        },
+        {
+          "label": "テレビ東京公式番組情報",
+          "url": "https://www.tv-tokyo.co.jp/minatotabi/"
+        }
+      ]
+    },
+    {
+      "id": "media-v18220-012",
+      "date": "2017-11-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ東京「博多華丸のもらい酒みなと旅2」ゲスト出演・放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biographyに掲載された出演放送（対象日3/4）。他の日付の同番組出演と区別。深夜番組は番組表上の日付に準拠。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        },
+        {
+          "label": "テレビ東京公式番組情報",
+          "url": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/201711/23812_201711262605.html"
+        }
+      ]
+    },
+    {
       "id": "v13-release-006",
       "date": "2017-12-13",
       "artist": "Chage",
@@ -55094,6 +55298,26 @@
       "venue": "福岡サンパレス ホテル＆ホール",
       "prefecture": "福岡県",
       "country": "日本"
+    },
+    {
+      "id": "media-v18220-013",
+      "date": "2017-12-17",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ東京「博多華丸のもらい酒みなと旅2」ゲスト出演・放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biographyに掲載された出演放送（対象日4/4）。他の日付の同番組出演と区別。深夜番組は番組表上の日付に準拠。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2017.php"
+        },
+        {
+          "label": "テレビ東京公式番組情報",
+          "url": "https://www.tv-tokyo.co.jp/minatotabi/"
+        }
+      ]
     },
     {
       "id": "v13-ch17-xmas-001",
@@ -55219,6 +55443,22 @@
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18220-014",
+      "date": "2018-02-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM愛知「Radio Freaks」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biography記載の放送日。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
         }
       ]
     },
@@ -55567,6 +55807,38 @@
       ]
     },
     {
+      "id": "media-v18220-015",
+      "date": "2018-05-18",
+      "artist": "Chage",
+      "category": "media",
+      "title": "InterFM「Happy Hour!」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biography記載の放送日。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18220-016",
+      "date": "2018-05-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "CBCラジオ「小堀勝啓の新栄トークジャンボリー」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biography記載の放送日。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ]
+    },
+    {
       "id": "v13-media-013",
       "date": "2018-05-24",
       "artist": "Chage",
@@ -55599,6 +55871,22 @@
       ]
     },
     {
+      "id": "media-v18220-017",
+      "date": "2018-05-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "J-WAVE「SAPPORO BEER OTOAJITO」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biography記載の放送日。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ]
+    },
+    {
       "id": "v13-media-014",
       "date": "2018-05-29",
       "artist": "Chage",
@@ -55611,6 +55899,38 @@
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18220-018",
+      "date": "2018-05-31",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TOKYO FM「ディア・フレンズ」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biography記載の放送日。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18220-019",
+      "date": "2018-06-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "KBCラジオ「PAO〜N」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biography記載の放送日。既存の「ももち浜ストア」「めんたいワイド」とは別のラジオ出演。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
         }
       ]
     },
@@ -55659,6 +55979,22 @@
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        }
+      ]
+    },
+    {
+      "id": "media-v18220-020",
+      "date": "2018-06-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "日本テレビ「超問クイズ！真実か？ウソか？」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biography記載の放送日。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
         }
       ]
     },
@@ -55797,6 +56133,22 @@
       "country": "日本"
     },
     {
+      "id": "other-v18220-021",
+      "date": "2018-08-17",
+      "artist": "Chage",
+      "category": "other",
+      "title": "「ビートルズの世界 Around The Beatles」トークイベント第4弾 出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "藤本国彦プロデュース、UPLINK渋谷でのトークイベント。ライブ公演数には算入しない。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ]
+    },
+    {
       "id": "v13-milestone-003",
       "date": "2018-08-24",
       "artist": "ASKA",
@@ -55858,11 +56210,15 @@
       "title": "Chage Live Tour 2018 ◆CRIMSON◆",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "2018年11月28日発売のDVD/Blu-ray『Chage Live Tour 2018 ◆CRIMSON◆』の収録公演。",
       "sources": [
         {
           "label": "ユニバーサルミュージック公式公演案内",
           "url": "https://www.universal-music.co.jp/chage/news/2018-05-01-live/"
+        },
+        {
+          "label": "Chage公式映像作品情報",
+          "url": "https://chage.jp/discography/chage/bd/014.php"
         }
       ],
       "venue": "豊洲PIT",
@@ -56032,18 +56388,23 @@
       "date": "2018-10-20",
       "artist": "Chage",
       "category": "live",
-      "title": "2018秋 平安京天平祭 FM OH! Dramatic Live",
+      "title": "2018秋 平城京天平祭 みつきうまし祭り「FM OH! Dramatic Live」出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "出演。会場詳細未確認",
+      "note": "奈良市平城宮跡で開催。Chage・小柳ゆき・矢井田瞳出演。催事全体は13時開演（Chage単独の出演時刻ではない）。",
       "sources": [
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2018.php"
+        },
+        {
+          "label": "Chage公式イベント告知",
+          "url": "https://chage.jp/information/live/detail-306.php"
         }
       ],
       "prefecture": "奈良県",
-      "country": "日本"
+      "country": "日本",
+      "venue": "奈良市平城宮跡"
     },
     {
       "id": "v13-aska18-pride-001",
@@ -56053,7 +56414,7 @@
       "title": "billboard classics ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "2019年2月6日発売の『ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-』映像作品の収録公演。",
       "sources": [
         {
           "label": "ビルボードクラシックス公演公式",
@@ -56096,6 +56457,42 @@
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18220-023",
+      "date": "2018-11-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ニッポン放送「MGMリゾーツ presents Entertainment NEXT!」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biography記載の放送日。11月11日と18日を別記録とする。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v18220-022",
+      "date": "2018-11-11",
+      "artist": "Chage",
+      "category": "release",
+      "title": "公式写真集『Chage 20th Anniversary Live Photo Book』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "ソロ活動20周年記念ライブ写真集。公式Biographyの発売日で登録。CD・映像作品とは別の書籍。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        },
+        {
+          "label": "公式発売情報",
+          "url": "https://chage.jp/information/release/?year=2018"
         }
       ]
     },
@@ -56170,6 +56567,22 @@
       ]
     },
     {
+      "id": "media-v18220-024",
+      "date": "2018-11-18",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ニッポン放送「MGMリゾーツ presents Entertainment NEXT!」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式Biography記載の放送日。11月11日と18日を別記録とする。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ]
+    },
+    {
       "id": "v13-release-026",
       "date": "2018-11-21",
       "artist": "ASKA",
@@ -56202,17 +56615,17 @@
       ]
     },
     {
-      "id": "v13-release-028",
+      "id": "media-v18220-025",
       "date": "2018-11-22",
       "artist": "Chage",
-      "category": "release",
-      "title": "映像『Chage Live Tour 2018 ◆CRIMSON◆』Blu-ray/DVD発売",
-      "status": "released",
+      "category": "media",
+      "title": "bayfm「The BAY☆LINE」DJ出演",
+      "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "Chage公式Biography記載の出演日。映像ソフトの発売日ではない。",
       "sources": [
         {
-          "label": "Chage公式Biography",
+          "label": "公式資料",
           "url": "https://chage.jp/biography/2018.php"
         }
       ]
@@ -56240,14 +56653,34 @@
       "startTime": "19:00"
     },
     {
-      "id": "v13-ch18-kawashima",
+      "id": "v13-release-028",
       "date": "2018-11-28",
+      "artist": "Chage",
+      "category": "release",
+      "title": "映像『Chage Live Tour 2018 ◆CRIMSON◆』Blu-ray/DVD発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "発売元・Chage公式ディスコグラフィーにより、発売日を2018年11月28日に訂正。2018年8月26日豊洲PIT公演を収録。",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        },
+        {
+          "label": "Chage公式ディスコグラフィー",
+          "url": "https://chage.jp/discography/chage/bd/014.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch18-kawashima",
+      "date": "2018-11-30",
       "artist": "Chage",
       "category": "live",
       "title": "川島ケイジ＆ソノダオーケストラ Holiday Concert 2018 The Sacred Moment",
       "status": "recorded",
       "verification": "primary",
-      "note": "スペシャルゲスト出演",
+      "note": "スペシャルゲスト出演。2018年11月30日開催。Chage公式Biographyに基づき日付訂正。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -70691,5 +71124,5 @@
       ]
     }
   ],
-  "siteVersion": "1.8.2-19"
+  "siteVersion": "1.8.2-20"
 }
