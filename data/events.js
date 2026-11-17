@@ -60737,6 +60737,2202 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-857.php"
         }
       ]
+    },
+    {
+      "id": "media-v17-1978-001",
+      "date": "1978-10-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。第16回ポピュラーソングコンテストつま恋本選会の模様。「流恋情歌」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1978年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/68.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1978-002",
+      "date": "1978-11-11",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「第16回ポピュラーソングコンテストつま恋本選会」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「流恋情歌」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1978年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/68.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-001",
+      "date": "1979-01-28",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。九州出身アーティスト特集。「流恋情歌」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-002",
+      "date": "1979-04-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ポピュラーソングコンテスト九州大会」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "FBS福岡放送。第17回ポプコン九州大会の模様。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-003",
+      "date": "1979-05-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「ひとり咲き」、ポプコン本選会の紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-004",
+      "date": "1979-08-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。デビュー直前の出演。「ひとり咲き」ほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-005",
+      "date": "1979-09-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ポピュラーソングコンテスト九州大会」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "FBS福岡放送。ゲスト出演。「ひとり咲き」ほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-006",
+      "date": "1979-11-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。放送記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-007",
+      "date": "1979-11-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。初出演。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-008",
+      "date": "1979-12-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-009",
+      "date": "1979-12-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ニュー・ウェーブ・コンサート」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-001",
+      "date": "1980-01-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「ニューイヤーライブコンサート」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-FM。1979年12月のNHKホール公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-002",
+      "date": "1980-01-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング―郁恵＆陽介ジョイント・ショー―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-003",
+      "date": "1980-01-14",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-004",
+      "date": "1980-02-18",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-005",
+      "date": "1980-02-24",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「ひとり咲き」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-006",
+      "date": "1980-03-16",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング―'79リクエスト・ショー―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-007",
+      "date": "1980-05-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。4月20日NEMU SPRING FESTIVAL '80の模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-008",
+      "date": "1980-05-18",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。放送記録。詳細は要確認。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-009",
+      "date": "1980-05-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'80」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。番組初出演。「流恋情歌」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-010",
+      "date": "1980-07-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「わが旅わが心 チャゲ&飛鳥のヤァヤァヤァ 西九州～壱岐の旅」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。西九州・壱岐の旅番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-011",
+      "date": "1980-07-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。アルバム「風舞」特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-012",
+      "date": "1980-08-24",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「幻夜」「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-013",
+      "date": "1980-09-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-014",
+      "date": "1980-11-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-015",
+      "date": "1980-11-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'80」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-016",
+      "date": "1980-11-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「アップルハウス」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。番組出演記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-017",
+      "date": "1980-11-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「サウンドメッセージ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。学園祭の様子を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-018",
+      "date": "1980-11-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「万里の河」、スポットライトで紹介（20位）。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-019",
+      "date": "1980-12-18",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「万里の河」、ベストテン初ランクイン（8位）。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-001",
+      "date": "1981-01-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「チャゲ&飛鳥 ライヴ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-FM。スタジオライブ特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-002",
+      "date": "1981-01-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-003",
+      "date": "1981-01-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「600 こちら情報部」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「時代が求める音楽 チャゲ&飛鳥」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-004",
+      "date": "1981-01-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「万里の河」第4位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-005",
+      "date": "1981-01-11",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。放送記録。詳細は要確認。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-006",
+      "date": "1981-01-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「万里の河」第6位。東北新幹線小山駅付近から出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-007",
+      "date": "1981-02-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「万里の河」第6位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-008",
+      "date": "1981-02-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「万里の河」第6位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-009",
+      "date": "1981-02-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「荒野」「翼」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-010",
+      "date": "1981-02-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「翼」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-011",
+      "date": "1981-02-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ヤングおー!おー!」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "MBS。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-012",
+      "date": "1981-02-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「万里の河」第10位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-013",
+      "date": "1981-03-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。チャゲ&飛鳥特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-014",
+      "date": "1981-05-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「Lo-D ライブコンサート」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "東京FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-015",
+      "date": "1981-05-16",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「第21回ポピュラーソングコンテスト関東甲信越大会」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。石川優子とナビゲーターとして出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-016",
+      "date": "1981-05-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。NEMU SPRING FESTIVAL '81の模様。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-017",
+      "date": "1981-06-01",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「放浪人(TABIBITO)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-018",
+      "date": "1981-06-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'81」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「放浪人(TABIBITO)」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-019",
+      "date": "1981-06-28",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。クリスタルキングと出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-020",
+      "date": "1981-07-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「放浪人(TABIBITO)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-021",
+      "date": "1981-08-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「チャゲ&飛鳥 ザ・夏まつり」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "東京FM。8月1日田園コロシアム公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-022",
+      "date": "1981-08-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ヤングおー!おー!」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "MBS。「真夏の国境」「放浪人(TABIBITO)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-023",
+      "date": "1981-10-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-024",
+      "date": "1981-10-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「第22回ポピュラーソングコンテストつま恋本選会」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。放送記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-025",
+      "date": "1981-11-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「第12回 世界歌謡祭」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。歌謡祭のショータイムを放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-026",
+      "date": "1981-11-14",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。世界歌謡祭の模様。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-027",
+      "date": "1981-11-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-028",
+      "date": "1981-11-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-029",
+      "date": "1981-11-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ヤングおー!おー!」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "MBS。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-030",
+      "date": "1981-12-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「サンデー・ジャンボ・スペシャル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "STVラジオ。ゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-031",
+      "date": "1981-12-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップスペシャル チャゲ&飛鳥 全国縦断コンサート」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。学園祭ツアーの模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-032",
+      "date": "1981-12-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング―リクエストショー―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「男と女」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1982-001",
+      "date": "1982-01-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「放浪人(TABIBITO)」「男と女」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/20.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1982-002",
+      "date": "1982-02-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。チャゲ&飛鳥特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/20.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1982-003",
+      "date": "1982-04-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「熱い想い」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/20.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1982-004",
+      "date": "1982-05-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。NEMU SPRING FESTIVAL '82の模様。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/20.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1982-005",
+      "date": "1982-05-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。チャゲ&飛鳥特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/20.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1982-006",
+      "date": "1982-05-30",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「ニュー・ミュージック・ナウ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。4月25日のNEMU SPRING FESTIVAL '82を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/20.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1982-007",
+      "date": "1982-11-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「北風物語」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/20.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-001",
+      "date": "1983-02-01",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「笑っていいとも！」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。テレフォンショッキング。坂崎幸之助から紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-002",
+      "date": "1983-02-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「突然ガバチョ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "MBS。出演記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-003",
+      "date": "1983-03-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「NHK-FM LIVEスペシャル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-FM。NHKホール公演の生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-004",
+      "date": "1983-03-30",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「貴方にお手上げ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ニッポン放送。最終回。ミニコンサート。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-005",
+      "date": "1983-04-09",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「オールナイトフジ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-006",
+      "date": "1983-05-17",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「突然ガバチョ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "MBS。ASKAが「あんたのバラード」を歌唱。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-007",
+      "date": "1983-05-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「マリオネット」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-008",
+      "date": "1983-05-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「突然ガバチョ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "MBS。出演記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-009",
+      "date": "1983-06-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング―ファッション満載！パンチで勝負―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「マリオネット」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-010",
+      "date": "1983-06-07",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストヒット'83」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。「マリオネット」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-011",
+      "date": "1983-08-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ふりーばる'83 ザ・夏」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「Fifty-Fifty」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-012",
+      "date": "1983-09-07",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「悪友親友」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。長渕剛を交えてトーク。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-013",
+      "date": "1983-09-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「悪友親友」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。長江健次を交えてトーク。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-014",
+      "date": "1983-10-16",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング―スパーク！ヤングパワー―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「華やかに傷ついて」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-015",
+      "date": "1983-12-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「MBSヤングタウン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "毎日放送。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-001",
+      "date": "1984-02-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「昼の歌謡曲」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局未記載。ラジオ出演記録。放送局は要照合。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-002",
+      "date": "1984-03-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「MOON LIGHT BLUES」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-003",
+      "date": "1984-04-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「歌謡ドッキリ大放送!!」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。「MOON LIGHT BLUES」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-004",
+      "date": "1984-04-30",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。石川優子との共演。「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-005",
+      "date": "1984-05-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「クイズ 地球どんぶり」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-006",
+      "date": "1984-05-19",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「ニュー・サウンズ・スペシャル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局未記載。ラジオ出演記録。放送局は要照合。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-007",
+      "date": "1984-05-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。TBS公式番組案内で出演が確認できた放送日。",
+      "sources": [
+        {
+          "label": "TBSチャンネル公式｜ザ・ベストテン1984年5月24日放送",
+          "url": "https://www.tbs.co.jp/tbs-ch/special/the_bestten/"
+        },
+        {
+          "label": "cavc｜1984年 TV・ラジオ出演記録",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-008",
+      "date": "1984-06-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。スポットライト。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-009",
+      "date": "1984-06-09",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「アイドル歌手大集合」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「華やかに傷ついて」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-010",
+      "date": "1984-06-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」第7位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-011",
+      "date": "1984-06-21",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「ふたりの愛ランド」。二元中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-012",
+      "date": "1984-06-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「FM LIVE 音楽って何だ！」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。石川優子と共演したライブを放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-013",
+      "date": "1984-06-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。石川優子との共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-014",
+      "date": "1984-06-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子との共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-015",
+      "date": "1984-06-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「MBSヤングタウン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "毎日放送。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-016",
+      "date": "1984-06-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-017",
+      "date": "1984-07-02",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子との共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-018",
+      "date": "1984-07-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-019",
+      "date": "1984-07-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子との共演。名古屋球場から中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-020",
+      "date": "1984-07-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-021",
+      "date": "1984-07-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-022",
+      "date": "1984-07-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。松山市民会館から中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-023",
+      "date": "1984-07-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「Do Up歌謡テレビ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。石川優子と「渚の誓い」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-024",
+      "date": "1984-07-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」第2位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-025",
+      "date": "1984-07-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング―ビッグ！チャゲ＆飛鳥―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「MOON LIGHT BLUES」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-026",
+      "date": "1984-07-30",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-027",
+      "date": "1984-08-02",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-028",
+      "date": "1984-08-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-029",
+      "date": "1984-08-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」第2位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-030",
+      "date": "1984-08-14",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「チャゲ&飛鳥 武道館愛ランド」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。8月8・9日のSUPER EVENT INSIDEの模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-031",
+      "date": "1984-08-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-032",
+      "date": "1984-08-19",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「南こうせつ サマーピクニック恋の浦」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。8月4〜5日のイベントの模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-033",
+      "date": "1984-08-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-034",
+      "date": "1984-08-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-035",
+      "date": "1984-10-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-036",
+      "date": "1984-11-07",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「友よ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。テレビドラマ出演。cavcはASKAのドラマ初出演と記載。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-037",
+      "date": "1984-11-11",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「Do Up 歌謡テレビ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-038",
+      "date": "1984-11-19",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-039",
+      "date": "1984-12-09",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング―フレッシュ―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-040",
+      "date": "1984-12-27",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン(豪華版)」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-001",
+      "date": "1985-02-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「Do Up 歌謡テレビ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。「誘惑のベルが鳴る」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-002",
+      "date": "1985-02-24",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「Do Up 歌謡テレビ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。「オンリー・ロンリー」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-003",
+      "date": "1985-03-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「LIVE G」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。憂歌団と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-004",
+      "date": "1985-06-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「さんまのまんま」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。トーク出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-005",
+      "date": "1985-07-10",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ヤンヤン歌うスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ東京。放送記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-006",
+      "date": "1985-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「アイドル歌手大集合―第３編―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "アナログ衛星第１。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-007",
+      "date": "1985-11-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「ボヘミアン」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-008",
+      "date": "1985-12-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「NEW AGE MUSIC」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ東京。「誘惑のベルが鳴る」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-009",
+      "date": "1985-12-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「NEW AGE MUSIC」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ東京。「東京CARRY ON」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-010",
+      "date": "1985-12-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「大晦日チャリティースペシャル 世界紅白歌合戦」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「ボヘミアン」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-011",
+      "date": "1985-04-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「ニュー・サウンズ・スペシャル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-FM。スタジオライブ音源。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-012",
+      "date": "1985-06-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「Lo-D LIVE CONCERT」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-013",
+      "date": "1985-07-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「チャゲ&飛鳥 THE夏祭り'85 小戸 TWILIGHT ZONE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "FM福岡。7月27日小戸公園公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
     }
   ]
 };
