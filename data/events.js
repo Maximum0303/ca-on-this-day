@@ -29042,22 +29042,6 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
-      "id": "v18210-1998-0406-chage-treasure-box-start",
-      "date": "1998-04-06",
-      "artist": "Chage",
-      "category": "media",
-      "title": "ラジオ「TREASURE BOX」放送開始",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "TOKYO FM系でのCHAGEレギュラー番組。公式HISTORYでは2000年12月25日までの放送と記載。開始日と終了日を混同しない。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
-          "url": "https://www.chage-aska.net/history/1990.php"
-        }
-      ]
-    },
-    {
       "id": "v18210-1998-0406-chage-p-stock-start",
       "date": "1998-04-06",
       "artist": "Chage",
@@ -29066,6 +29050,22 @@ window.CA_EVENT_DATA = {
       "status": "recorded",
       "verification": "primary",
       "note": "フジテレビ。CHAGEにとって初のテレビレギュラー番組。公式HISTORYによる番組開始記録。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "v18210-1998-0406-chage-treasure-box-start",
+      "date": "1998-04-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「TREASURE BOX」放送開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "TOKYO FM系でのCHAGEレギュラー番組。公式HISTORYでは2000年12月25日までの放送と記載。開始日と終了日を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
@@ -31640,23 +31640,6 @@ window.CA_EVENT_DATA = {
       "prefecture": "福岡県"
     },
     {
-      "id": "release-v07-019",
-      "date": "1999-12-31",
-      "artist": "CHAGE and ASKA",
-      "category": "release",
-      "title": "『CHAGE and ASKA LIVE BEST 1995-1999』発売",
-      "releaseTitle": "CHAGE and ASKA LIVE BEST 1995-1999",
-      "status": "released",
-      "verification": "primary",
-      "note": "作品種別：ライブDVD",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
-          "url": "https://www.chage-aska.net/history/1990.php"
-        }
-      ]
-    },
-    {
       "id": "media-v18211-1999-030",
       "date": "1999-12-31",
       "artist": "CHAGE and ASKA",
@@ -31690,6 +31673,23 @@ window.CA_EVENT_DATA = {
       "venue": "博多シーホーク",
       "prefecture": "福岡県",
       "country": "日本"
+    },
+    {
+      "id": "release-v07-019",
+      "date": "1999-12-31",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA LIVE BEST 1995-1999』発売",
+      "releaseTitle": "CHAGE and ASKA LIVE BEST 1995-1999",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品種別：ライブDVD",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
     },
     {
       "id": "media-v18211-2000-001",
@@ -32766,6 +32766,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18212-2001-012",
+      "date": "2001-08-08",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「笑っていいとも！」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ASKAがテレフォンショッキングに出演。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/69.html"
+        }
+      ]
+    },
+    {
       "id": "release-v07-028",
       "date": "2001-08-08",
       "artist": "CHAGE and ASKA",
@@ -32779,22 +32795,6 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ]
-    },
-    {
-      "id": "media-v18212-2001-012",
-      "date": "2001-08-08",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ「笑っていいとも！」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ASKAがテレフォンショッキングに出演。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
-      "sources": [
-        {
-          "label": "参考資料（非公式・放送記録）",
-          "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
     },
@@ -33972,6 +33972,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "新潟県"
     },
     {
+      "id": "media-v18212-2001-037",
+      "date": "2001-12-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ぜっぴんTV」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ東京。時代劇「壬生義士伝」関連番宣・C&Aインタビュー。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/69.html"
+        }
+      ]
+    },
+    {
       "id": "release-v07-031",
       "date": "2001-12-27",
       "artist": "CHAGE and ASKA",
@@ -33985,22 +34001,6 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ]
-    },
-    {
-      "id": "media-v18212-2001-037",
-      "date": "2001-12-27",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ぜっぴんTV」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ東京。時代劇「壬生義士伝」関連番宣・C&Aインタビュー。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
-      "sources": [
-        {
-          "label": "参考資料（非公式・放送記録）",
-          "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
     },
@@ -35228,22 +35228,6 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
-      "id": "media-v18212-2002-009",
-      "date": "2002-04-22",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "インターネット「COSMO EARTH CONSCIOUS ACT」ライブ中継",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "インターネット放送 iiV。同日日本武道館公演のインターネット生中継。公演と放送は区別。（二次資料非公式記録。放送局の一次資料は未照合。）",
-      "sources": [
-        {
-          "label": "参考資料（非公式・放送記録）",
-          "url": "https://w.atwiki.jp/cavc/pages/70.html"
-        }
-      ]
-    },
-    {
       "id": "live-v18212-2002-0422-earth-conscious",
       "date": "2002-04-22",
       "artist": "CHAGE and ASKA",
@@ -35269,6 +35253,22 @@ window.CA_EVENT_DATA = {
       "venue": "日本武道館",
       "prefecture": "東京都",
       "country": "日本"
+    },
+    {
+      "id": "media-v18212-2002-009",
+      "date": "2002-04-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "インターネット「COSMO EARTH CONSCIOUS ACT」ライブ中継",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "インターネット放送 iiV。同日日本武道館公演のインターネット生中継。公演と放送は区別。（二次資料非公式記録。放送局の一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/70.html"
+        }
+      ]
     },
     {
       "id": "media-v18212-2002-0422-earth-radio",
@@ -36899,6 +36899,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18213-2003-003",
+      "date": "2003-03-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「おんがく」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。Zepp Tokyoでの学生限定ライブを収録した番組。公開録画の実施日は資料から確定できないため、放送日だけを登録。（二次資料の記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
+        }
+      ]
+    },
+    {
       "id": "release-v08-003",
       "date": "2003-03-12",
       "artist": "CHAGE and ASKA",
@@ -36912,22 +36928,6 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ]
-    },
-    {
-      "id": "media-v18213-2003-003",
-      "date": "2003-03-12",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「おんがく」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。Zepp Tokyoでの学生限定ライブを収録した番組。公開録画の実施日は資料から確定できないため、放送日だけを登録。（二次資料の記録、放送局一次資料は未照合。）",
-      "sources": [
-        {
-          "label": "参考資料（非公式・放送記録）",
-          "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
     },
@@ -37775,6 +37775,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18213-2003-012",
+      "date": "2003-09-10",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「F2」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。根本要とともにゲスト出演。スターダスト・レビューとのコラボについて。（二次資料の記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
+        }
+      ]
+    },
+    {
       "id": "release-v08-005",
       "date": "2003-09-10",
       "artist": "CHAGE and ASKA",
@@ -37788,22 +37804,6 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ]
-    },
-    {
-      "id": "media-v18213-2003-012",
-      "date": "2003-09-10",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「F2」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。根本要とともにゲスト出演。スターダスト・レビューとのコラボについて。（二次資料の記録、放送局一次資料は未照合。）",
-      "sources": [
-        {
-          "label": "参考資料（非公式・放送記録）",
-          "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
     },
@@ -44048,6 +44048,22 @@ window.CA_EVENT_DATA = {
       "venue": "Zepp Sapporo"
     },
     {
+      "id": "media-v18216-2009-001",
+      "date": "2009-01-18",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBSチャンネル。2008年10月15日の名古屋公演を収録した番組の放送記録。放送局の一次資料は未照合。公演日ではなく放送日。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        }
+      ]
+    },
+    {
       "id": "milestone-2009-hiatus",
       "date": "2009-01-30",
       "artist": "CHAGE and ASKA",
@@ -44367,6 +44383,24 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "愛知県"
+    },
+    {
+      "id": "other-v18216-2009-001",
+      "date": "2009-04-12",
+      "artist": "Chage",
+      "category": "other",
+      "title": "写真集『歌写』発売記念サイン会",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "紀伊國屋書店新宿南店で開催。4月10日の写真集発売とは別の出来事。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2009.php"
+        }
+      ],
+      "prefecture": "東京都",
+      "venue": "紀伊國屋書店新宿南店"
     },
     {
       "id": "live-aska-walk-2009-008",
@@ -45471,15 +45505,20 @@ window.CA_EVENT_DATA = {
       "title": "紋別 アコースティック・パーティー2009 produced by 吉川忠英",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "会場は当時の公演案内（二次資料）で確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "公演当時の案内",
+          "url": "https://mixi.jp/view_bbs.pl?comm_id=2669280&from=cross_search&id=39301047"
         }
       ],
       "country": "日本",
-      "prefecture": "北海道"
+      "prefecture": "北海道",
+      "venue": "紋別市民会館大ホール"
     },
     {
       "id": "live-chage-hosomichi-2009-011",
@@ -45637,6 +45676,22 @@ window.CA_EVENT_DATA = {
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v18216-2009-001",
+      "date": "2009-08-26",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "初期アルバム5作品・紙ジャケット再発",
+      "status": "released",
+      "verification": "primary",
+      "note": "『風舞』『熱風』『黄昏の騎士』『熱い想い』『CHAGE & ASKA Ⅳ-21世紀-』の5作品。2009年の再発日を記録。",
+      "sources": [
+        {
+          "label": "公式資料",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ]
@@ -45810,6 +45865,54 @@ window.CA_EVENT_DATA = {
       "prefecture": "長崎県"
     },
     {
+      "id": "release-v18216-2009-002",
+      "date": "2009-09-23",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA LIVE DVD BOX 2』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "ライブ映像作品のDVD BOX第2弾。第3弾とは別作品。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v18216-2009-003",
+      "date": "2009-09-23",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA LIVE DVD BOX 3』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "ライブ映像作品のDVD BOX第3弾。第2弾とは別作品。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v18216-2009-004",
+      "date": "2009-09-23",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "アルバム6作品・紙ジャケット再発",
+      "status": "released",
+      "verification": "primary",
+      "note": "『LIVE IN YOYOGI STADIUM』『INSIDE』『Z=One』『Standing Ovation』『TURNING POINT』『MIX BLOOD』の6作品。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
       "id": "live-chage-hosomichi-2009-024",
       "date": "2009-09-25",
       "artist": "Chage",
@@ -45894,6 +45997,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "千葉県"
     },
     {
+      "id": "release-v18216-2009-005",
+      "date": "2009-10-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "紙ジャケット再発（公式年表では7作品と表記）",
+      "status": "released",
+      "verification": "primary",
+      "note": "『Mr. ASIA』『RHAPSODY』『ENERGY』『PRIDE』『TREE』『ライブ・イン・田園コロシアム～The夏祭り’81』の6タイトルが公式年表で列挙される一方、「7作品」と記載されている。7作目は未特定のため断定しない。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
       "id": "live-chage-hosomichi-2009-028",
       "date": "2009-10-24",
       "artist": "Chage",
@@ -45955,6 +46074,40 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-v18216-2009-001",
+      "date": "2009-11-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "秋の佐賀城本丸御殿・エフエム佐賀ラジオ祭り",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chageゲスト出演。会場の詳細は一次資料では未確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2009.php"
+        }
+      ],
+      "prefecture": "佐賀県",
+      "country": "日本"
+    },
+    {
+      "id": "release-v18216-2009-006",
+      "date": "2009-11-11",
+      "artist": "Chage",
+      "category": "release",
+      "title": "服部克久50周年記念アルバム『服部克久』発売（Chage参加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "服部克久名義のアルバム（UMCK-1335）。Chageは「紫野’09」を歌唱。Chage自身のソロアルバムとは区別。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://katsuhisa-hattori.com/works/anniversary/50anniversary-katsuhisa-hattori.html"
+        }
+      ]
     },
     {
       "id": "live-chage-hosomichi-2009-031",
@@ -46052,6 +46205,23 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ]
+    },
+    {
+      "id": "release-v18216-2009-007",
+      "date": "2009-11-25",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『STANDARD』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "ASKAミニアルバム。2009年発売の『WALK』ライブDVDとは別作品。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "releaseTitle": "STANDARD"
     },
     {
       "id": "live-chage-hosomichi-2009-034",
@@ -46187,15 +46357,20 @@ window.CA_EVENT_DATA = {
       "title": "浪切ニューイヤーポップス2010 服部隆之 with 大阪シンフォニカー交響楽団",
       "status": "recorded",
       "verification": "primary",
-      "note": "ゲスト出演",
+      "note": "ゲスト出演。会場は当時の公演案内（二次資料）で確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "公演当時の案内",
+          "url": "https://plaza.rakuten.co.jp/okuiyoca/diary/200912050001/"
         }
       ],
       "country": "日本",
-      "prefecture": "大阪府"
+      "prefecture": "大阪府",
+      "venue": "浪切ホール"
     },
     {
       "id": "live-aska-10days-2010-001",
@@ -46394,11 +46569,15 @@ window.CA_EVENT_DATA = {
       "performanceNo": 9,
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "映像収録公演。収録日は2024年発売の公式Blu-ray作品案内で確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "公式資料",
+          "url": "https://www.fellows.tokyo/feature/10days_special_release"
         }
       ],
       "prefecture": "東京都"
@@ -46438,6 +46617,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18216-2010-001",
+      "date": "2010-03-22",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「ASKA 10DAYS SPECIAL LIVE」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBSチャンネル。2月25日の東京厚生年金会館公演の映像を放送した記録。放送局の一次資料は未照合。公演日とは別登録。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
         }
       ]
     },
@@ -46969,15 +47164,21 @@ window.CA_EVENT_DATA = {
       "title": "日本製紙Presents 札響ポップスコンサート vol.8",
       "status": "recorded",
       "verification": "primary",
-      "note": "ゲスト出演",
+      "note": "ゲスト出演。会場・開演時刻は当時の公演案内（二次資料）で確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "公演当時の案内",
+          "url": "https://plaza.rakuten.co.jp/okuiyoca/diary/ctgylist/?ctgy=11"
         }
       ],
       "country": "日本",
-      "prefecture": "北海道"
+      "prefecture": "北海道",
+      "venue": "札幌コンサートホールKitara",
+      "startTime": "19:00"
     },
     {
       "id": "live-chage-hosomichi-2010-011",
@@ -70100,5 +70301,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-15"
+  "siteVersion": "1.8.2-16"
 };
