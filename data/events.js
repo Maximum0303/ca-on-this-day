@@ -12,10 +12,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。第16回ポピュラーソングコンテストつま恋本選会の模様。「流恋情歌」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。第16回ポピュラーソングコンテストつま恋本選会の模様。「流恋情歌」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1978年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/68.html"
         }
       ]
@@ -28,10 +28,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「第16回ポピュラーソングコンテストつま恋本選会」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「流恋情歌」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。「流恋情歌」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1978年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/68.html"
         }
       ]
@@ -44,10 +44,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。九州出身アーティスト特集。「流恋情歌」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。九州出身アーティスト特集。「流恋情歌」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/17.html"
         }
       ]
@@ -60,10 +60,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ポピュラーソングコンテスト九州大会」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "FBS福岡放送。第17回ポプコン九州大会の模様。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "FBS福岡放送。第17回ポプコン九州大会の模様。「ひとり咲き」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/17.html"
         }
       ]
@@ -76,10 +76,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。「ひとり咲き」、ポプコン本選会の紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。「ひとり咲き」、ポプコン本選会の紹介。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/17.html"
         }
       ]
@@ -92,10 +92,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。デビュー直前の出演。「ひとり咲き」ほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。デビュー直前の出演。「ひとり咲き」ほか。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/17.html"
         }
       ]
@@ -125,10 +125,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ポピュラーソングコンテスト九州大会」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "FBS福岡放送。ゲスト出演。「ひとり咲き」ほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "FBS福岡放送。ゲスト出演。「ひとり咲き」ほか。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/17.html"
         }
       ]
@@ -141,10 +141,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。放送記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。放送記録。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/17.html"
         }
       ]
@@ -157,10 +157,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。初出演。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。初出演。「ひとり咲き」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/17.html"
         }
       ]
@@ -173,10 +173,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。「ひとり咲き」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/17.html"
         }
       ]
@@ -189,10 +189,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ニュー・ウェーブ・コンサート」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。「ひとり咲き」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/17.html"
         }
       ]
@@ -205,10 +205,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「ニューイヤーライブコンサート」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK-FM。1979年12月のNHKホール公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK-FM。1979年12月のNHKホール公演を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -221,10 +221,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「レッツゴーヤング―郁恵＆陽介ジョイント・ショー―」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。「ひとり咲き」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -237,10 +237,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。「ひとり咲き」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -253,10 +253,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。「ひとり咲き」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -269,10 +269,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。「ひとり咲き」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。「ひとり咲き」など。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -302,10 +302,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「レッツゴーヤング―'79リクエスト・ショー―」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。「ひとり咲き」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -322,7 +322,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜該当年の作品",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/439.html"
         }
       ]
@@ -335,10 +335,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。4月20日NEMU SPRING FESTIVAL '80の模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。4月20日NEMU SPRING FESTIVAL '80の模様を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -351,10 +351,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。放送記録。詳細は要確認。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。放送記録。詳細は要確認。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -367,10 +367,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア'80」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。番組初出演。「流恋情歌」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。番組初出演。「流恋情歌」など。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -446,10 +446,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「わが旅わが心 チャゲ&飛鳥のヤァヤァヤァ 西九州～壱岐の旅」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。西九州・壱岐の旅番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。西九州・壱岐の旅番組。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -483,10 +483,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。アルバム「風舞」特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。アルバム「風舞」特集。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -625,10 +625,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。「幻夜」「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。「幻夜」「万里の河」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -700,10 +700,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。「万里の河」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -863,10 +863,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「レッツゴーヤング」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。「万里の河」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -900,10 +900,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア'80」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。「万里の河」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -1000,10 +1000,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「アップルハウス」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。番組出演記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。番組出演記録。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -1058,10 +1058,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「サウンドメッセージ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。学園祭の様子を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。学園祭の様子を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -1095,10 +1095,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。「万里の河」、スポットライトで紹介（20位）。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。「万里の河」、スポットライトで紹介（20位）。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -1132,10 +1132,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。「万里の河」、ベストテン初ランクイン（8位）。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。「万里の河」、ベストテン初ランクイン（8位）。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
@@ -1148,10 +1148,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「チャゲ&飛鳥 ライヴ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK-FM。スタジオライブ特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK-FM。スタジオライブ特別番組。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -1164,10 +1164,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。「万里の河」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -1180,10 +1180,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「600 こちら情報部」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「時代が求める音楽 チャゲ&飛鳥」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。「時代が求める音楽 チャゲ&飛鳥」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -1196,10 +1196,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。「万里の河」第4位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。「万里の河」第4位。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -1212,10 +1212,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。放送記録。詳細は要確認。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。放送記録。詳細は要確認。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -1228,10 +1228,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。「万里の河」第6位。東北新幹線小山駅付近から出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。「万里の河」第6位。東北新幹線小山駅付近から出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -1244,10 +1244,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。「万里の河」第6位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。「万里の河」第6位。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -1260,10 +1260,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。「万里の河」第6位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。「万里の河」第6位。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -1276,10 +1276,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。「荒野」「翼」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。「荒野」「翼」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -1292,10 +1292,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「レッツゴーヤング」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「翼」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。「翼」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -1308,10 +1308,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ヤングおー!おー!」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "MBS。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "MBS。「万里の河」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -1341,10 +1341,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。「万里の河」第10位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。「万里の河」第10位。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -1441,10 +1441,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。チャゲ&飛鳥特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。チャゲ&飛鳥特集。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -1772,10 +1772,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「Lo-D ライブコンサート」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "東京FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "東京FM。スタジオライブ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -1872,10 +1872,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「第21回ポピュラーソングコンテスト関東甲信越大会」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。石川優子とナビゲーターとして出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。石川優子とナビゲーターとして出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -1888,10 +1888,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。NEMU SPRING FESTIVAL '81の模様。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。NEMU SPRING FESTIVAL '81の模様。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -2047,10 +2047,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「放浪人(TABIBITO)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。「放浪人(TABIBITO)」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -2294,10 +2294,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア'81」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「放浪人(TABIBITO)」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。「放浪人(TABIBITO)」など。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -2352,10 +2352,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。クリスタルキングと出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。クリスタルキングと出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -2515,10 +2515,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「放浪人(TABIBITO)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。「放浪人(TABIBITO)」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -2631,7 +2631,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/364.html"
         }
       ]
@@ -2652,7 +2652,7 @@ window.CA_EVENT_DATA = {
       "note": "ツアー・公演初日／単独野外コンサート／ツアー・公演最終日",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/365.html"
         }
       ]
@@ -2686,10 +2686,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「チャゲ&飛鳥 ザ・夏まつり」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "東京FM。8月1日田園コロシアム公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "東京FM。8月1日田園コロシアム公演を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -2785,7 +2785,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/364.html"
         }
       ]
@@ -2798,10 +2798,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ヤングおー!おー!」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "MBS。「真夏の国境」「放浪人(TABIBITO)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "MBS。「真夏の国境」「放浪人(TABIBITO)」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -2831,10 +2831,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。「男と女」など。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -3023,7 +3023,7 @@ window.CA_EVENT_DATA = {
       "note": "ツアー・公演初日",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/367.html"
         }
       ]
@@ -3044,7 +3044,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/367.html"
         }
       ]
@@ -3065,7 +3065,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/367.html"
         }
       ]
@@ -3078,10 +3078,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「第22回ポピュラーソングコンテストつま恋本選会」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。放送記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。放送記録。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -3115,10 +3115,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「第12回 世界歌謡祭」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。歌謡祭のショータイムを放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。歌謡祭のショータイムを放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -3173,10 +3173,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。世界歌謡祭の模様。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。世界歌謡祭の模様。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -3273,10 +3273,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。「男と女」など。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -3289,10 +3289,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「レッツゴーヤング」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。「男と女」など。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -3326,10 +3326,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ヤングおー!おー!」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "MBS。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "MBS。「男と女」など。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -3350,7 +3350,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/367.html"
         }
       ]
@@ -3371,7 +3371,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/367.html"
         }
       ]
@@ -3392,7 +3392,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/367.html"
         }
       ]
@@ -3405,10 +3405,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「サンデー・ジャンボ・スペシャル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "STVラジオ。ゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "STVラジオ。ゲスト出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -3429,7 +3429,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/367.html"
         }
       ]
@@ -3450,7 +3450,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/367.html"
         }
       ]
@@ -3471,7 +3471,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/367.html"
         }
       ]
@@ -3492,7 +3492,7 @@ window.CA_EVENT_DATA = {
       "note": "ツアー・公演最終日",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/367.html"
         }
       ]
@@ -3513,7 +3513,7 @@ window.CA_EVENT_DATA = {
       "note": "ツアー・公演初日／特別公演／ツアー・公演最終日",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/368.html"
         }
       ]
@@ -3526,10 +3526,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップスペシャル チャゲ&飛鳥 全国縦断コンサート」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。学園祭ツアーの模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。学園祭ツアーの模様を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -3542,10 +3542,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「レッツゴーヤング―リクエストショー―」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「男と女」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。「男と女」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
@@ -3558,10 +3558,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。「放浪人(TABIBITO)」「男と女」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。「放浪人(TABIBITO)」「男と女」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/20.html"
         }
       ]
@@ -3574,10 +3574,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。チャゲ&飛鳥特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。チャゲ&飛鳥特集。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/20.html"
         }
       ]
@@ -3602,7 +3602,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -3644,7 +3644,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -3669,7 +3669,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -3694,7 +3694,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -3719,7 +3719,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -3744,7 +3744,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -3769,7 +3769,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -3794,7 +3794,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -3819,7 +3819,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -3844,7 +3844,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -3869,7 +3869,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -3894,7 +3894,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -3919,7 +3919,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -3944,7 +3944,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -3969,7 +3969,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -3994,7 +3994,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -4019,7 +4019,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
@@ -4032,10 +4032,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。「熱い想い」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。「熱い想い」など。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/20.html"
         }
       ]
@@ -4065,10 +4065,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。NEMU SPRING FESTIVAL '82の模様。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。NEMU SPRING FESTIVAL '82の模様。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/20.html"
         }
       ]
@@ -4098,10 +4098,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。チャゲ&飛鳥特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。チャゲ&飛鳥特集。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/20.html"
         }
       ]
@@ -4114,10 +4114,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「ニュー・ミュージック・ナウ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO-FM。4月25日のNEMU SPRING FESTIVAL '82を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TOKYO-FM。4月25日のNEMU SPRING FESTIVAL '82を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/20.html"
         }
       ]
@@ -5197,10 +5197,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「北風物語」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。「北風物語」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/20.html"
         }
       ]
@@ -5570,10 +5570,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「笑っていいとも！」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。テレフォンショッキング。坂崎幸之助から紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。テレフォンショッキング。坂崎幸之助から紹介。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
@@ -5586,10 +5586,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「突然ガバチョ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "MBS。出演記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "MBS。出演記録。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
@@ -5623,10 +5623,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「NHK-FM LIVEスペシャル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK-FM。NHKホール公演の生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK-FM。NHKホール公演の生中継。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
@@ -5639,10 +5639,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「貴方にお手上げ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "ニッポン放送。最終回。ミニコンサート。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "ニッポン放送。最終回。ミニコンサート。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
@@ -5655,10 +5655,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「オールナイトフジ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ゲスト出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
@@ -5776,10 +5776,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「突然ガバチョ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "MBS。ASKAが「あんたのバラード」を歌唱。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "MBS。ASKAが「あんたのバラード」を歌唱。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
@@ -5813,10 +5813,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・トップテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。「マリオネット」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。「マリオネット」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
@@ -5871,10 +5871,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「突然ガバチョ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "MBS。出演記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "MBS。出演記録。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
@@ -5887,10 +5887,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「レッツゴーヤング―ファッション満載！パンチで勝負―」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「マリオネット」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。「マリオネット」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
@@ -5903,10 +5903,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストヒット'83」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。「マリオネット」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。「マリオネット」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
@@ -5978,10 +5978,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ふりーばる'83 ザ・夏」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「Fifty-Fifty」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。「Fifty-Fifty」など。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
@@ -6229,10 +6229,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「悪友親友」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。長渕剛を交えてトーク。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。長渕剛を交えてトーク。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
@@ -6266,10 +6266,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「悪友親友」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。長江健次を交えてトーク。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。長江健次を交えてトーク。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
@@ -6425,10 +6425,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「レッツゴーヤング―スパーク！ヤングパワー―」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「華やかに傷ついて」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。「華やかに傷ついて」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
@@ -6668,10 +6668,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「MBSヤングタウン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "毎日放送。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "毎日放送。スタジオライブ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
@@ -6794,18 +6794,18 @@ window.CA_EVENT_DATA = {
       "performanceNo": 36,
       "status": "recorded",
       "verification": "secondary",
-      "note": "Xmas SPECIAL。【公式日程欄要照合】公式の開催地一覧では1984年7月22・23日と表記されるが、公式本文は1983年12月23日終了。ladomi・cavcでも1983年12月22・23日。",
+      "note": "Xmas SPECIAL。【公式日程欄要照合】公式の開催地一覧では1984年7月22・23日と表記されるが、公式本文は1983年12月23日終了。複数の二次資料でも1983年12月22・23日。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY（本文・日程欄相違）",
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "ladomi 公演記録",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ca.ladomi.net/live_ca"
         },
         {
-          "label": "cavc 当該ツアー記録",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/374.html"
         }
       ]
@@ -6823,18 +6823,18 @@ window.CA_EVENT_DATA = {
       "performanceNo": 37,
       "status": "recorded",
       "verification": "secondary",
-      "note": "Xmas SPECIAL／ツアー最終日。【公式日程欄要照合】公式の開催地一覧では1984年7月22・23日と表記されるが、公式本文は1983年12月23日終了。ladomi・cavcでも1983年12月22・23日。",
+      "note": "Xmas SPECIAL／ツアー最終日。【公式日程欄要照合】公式の開催地一覧では1984年7月22・23日と表記されるが、公式本文は1983年12月23日終了。複数の二次資料でも1983年12月22・23日。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY（本文・日程欄相違）",
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "ladomi 公演記録",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ca.ladomi.net/live_ca"
         },
         {
-          "label": "cavc 当該ツアー記録",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/374.html"
         }
       ]
@@ -6847,10 +6847,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「昼の歌謡曲」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "放送局未記載。ラジオ出演記録。放送局は要照合。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "放送局未記載。ラジオ出演記録。放送局は要照合。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -6880,10 +6880,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「MOON LIGHT BLUES」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。「MOON LIGHT BLUES」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -7005,7 +7005,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA関連資料｜作品発売",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/376.html"
         }
       ]
@@ -7144,10 +7144,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「歌謡ドッキリ大放送!!」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。「MOON LIGHT BLUES」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。「MOON LIGHT BLUES」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -7320,10 +7320,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。石川優子との共演。「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。石川優子との共演。「ふたりの愛ランド」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -7420,10 +7420,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「クイズ 地球どんぶり」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。石川優子と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -7520,10 +7520,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「ニュー・サウンズ・スペシャル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "放送局未記載。ラジオ出演記録。放送局は要照合。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "放送局未記載。ラジオ出演記録。放送局は要照合。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -7585,7 +7585,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.tbs.co.jp/tbs-ch/special/the_bestten/"
         },
         {
-          "label": "cavc｜1984年 TV・ラジオ出演記録",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -7724,10 +7724,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。スポットライト。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。スポットライト。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -7761,10 +7761,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「アイドル歌手大集合」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「華やかに傷ついて」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。「華やかに傷ついて」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -7819,10 +7819,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」第7位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。石川優子と「ふたりの愛ランド」第7位。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -7940,10 +7940,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。「ふたりの愛ランド」。二元中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。「ふたりの愛ランド」。二元中継。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -7956,10 +7956,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「FM LIVE 音楽って何だ！」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO-FM。石川優子と共演したライブを放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TOKYO-FM。石川優子と共演したライブを放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -7993,10 +7993,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。石川優子との共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。石川優子との共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8009,10 +8009,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・トップテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。石川優子との共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。石川優子との共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8025,10 +8025,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「MBSヤングタウン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "毎日放送。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "毎日放送。スタジオライブ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8062,10 +8062,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8141,10 +8141,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・トップテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。石川優子との共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。石川優子との共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8178,10 +8178,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8236,10 +8236,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・トップテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。石川優子との共演。名古屋球場から中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。石川優子との共演。名古屋球場から中継。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8252,10 +8252,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8268,10 +8268,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・トップテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。石川優子と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8347,10 +8347,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。松山市民会館から中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。松山市民会館から中継。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8384,10 +8384,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「Do Up歌謡テレビ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。石川優子と「渚の誓い」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。石川優子と「渚の誓い」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8421,10 +8421,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」第2位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。石川優子と「ふたりの愛ランド」第2位。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8458,10 +8458,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「レッツゴーヤング―ビッグ！チャゲ＆飛鳥―」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「MOON LIGHT BLUES」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。「MOON LIGHT BLUES」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8495,10 +8495,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・トップテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。石川優子と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8511,10 +8511,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8527,10 +8527,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・トップテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。石川優子と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8585,10 +8585,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」第2位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。石川優子と「ふたりの愛ランド」第2位。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8643,10 +8643,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「チャゲ&飛鳥 武道館愛ランド」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO-FM。8月8・9日のSUPER EVENT INSIDEの模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TOKYO-FM。8月8・9日のSUPER EVENT INSIDEの模様を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8680,10 +8680,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。石川優子と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8717,10 +8717,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「南こうせつ サマーピクニック恋の浦」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO-FM。8月4〜5日のイベントの模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TOKYO-FM。8月4〜5日のイベントの模様を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8733,10 +8733,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・トップテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。石川優子と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8770,10 +8770,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8807,10 +8807,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・トップテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。石川優子と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8840,10 +8840,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「友よ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。テレビドラマ出演。cavcはASKAのドラマ初出演と記載。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。テレビドラマ出演。二次資料はASKAのドラマ初出演と記載。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8856,10 +8856,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「Do Up 歌謡テレビ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。「標的(ターゲット)」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8872,10 +8872,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・トップテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。「標的(ターゲット)」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8888,10 +8888,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「レッツゴーヤング―フレッシュ―」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。「標的(ターゲット)」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -8930,14 +8930,14 @@ window.CA_EVENT_DATA = {
       "performanceNo": 2,
       "status": "recorded",
       "verification": "secondary",
-      "note": "【公式日程欄の重複要照合】公式HISTORYには12月17日が2回記載。cavcでは12月17日・18日と記載。日付は1984年12月18日のまま保留。",
+      "note": "【公式日程欄の重複要照合】公式HISTORYには12月17日が2回記載。二次資料では12月17日・18日と記載。日付は1984年12月18日のまま保留。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY（日程重複）",
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "cavc｜SUPER DREAMIN’",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/377.html"
         }
       ]
@@ -8950,10 +8950,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン(豪華版)」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
@@ -9004,10 +9004,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「Do Up 歌謡テレビ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。「誘惑のベルが鳴る」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。「誘惑のベルが鳴る」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
@@ -9020,10 +9020,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「Do Up 歌謡テレビ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。「オンリー・ロンリー」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。「オンリー・ロンリー」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
@@ -9091,10 +9091,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「LIVE G」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。憂歌団と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。憂歌団と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
@@ -9170,10 +9170,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「ニュー・サウンズ・スペシャル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK-FM。スタジオライブ音源。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK-FM。スタジオライブ音源。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
@@ -9627,10 +9627,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「Lo-D LIVE CONCERT」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO-FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TOKYO-FM。スタジオライブ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
@@ -9664,10 +9664,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「さんまのまんま」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。トーク出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。トーク出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
@@ -9869,10 +9869,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ヤンヤン歌うスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ東京。放送記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ東京。放送記録。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
@@ -10053,10 +10053,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「チャゲ&飛鳥 THE夏祭り'85 小戸 TWILIGHT ZONE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "FM福岡。7月27日小戸公園公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "FM福岡。7月27日小戸公園公演を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
@@ -10111,10 +10111,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「アイドル歌手大集合―第３編―」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "アナログ衛星第１。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "アナログ衛星第１。「標的(ターゲット)」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
@@ -10395,10 +10395,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「ボヘミアン」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。「ボヘミアン」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
@@ -10617,10 +10617,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「NEW AGE MUSIC」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ東京。「誘惑のベルが鳴る」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ東京。「誘惑のベルが鳴る」など。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
@@ -10633,10 +10633,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「NEW AGE MUSIC」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ東京。「東京CARRY ON」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ東京。「東京CARRY ON」など。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
@@ -10649,10 +10649,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「大晦日チャリティースペシャル 世界紅白歌合戦」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「ボヘミアン」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。「ボヘミアン」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
@@ -10728,10 +10728,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「スーパーチャンネル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TNC。福岡サンパレス公演の映像を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TNC。福岡サンパレス公演の映像を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -10744,10 +10744,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「チャゲ&飛鳥 NEW YEARコンサート'86」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TNC。1986年1月4日・福岡サンパレスの公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TNC。1986年1月4日・福岡サンパレスの公演を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -10760,10 +10760,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。モーニングムーン。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -10780,7 +10780,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜該当年の作品",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/379.html"
         }
       ]
@@ -10793,10 +10793,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「合言葉は音楽気分」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。ポプコン同窓会。共演：石川優子ほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。ポプコン同窓会。共演：石川優子ほか。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -10809,10 +10809,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。モーニングムーン。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -10825,10 +10825,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ヤンヤン歌うスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ東京。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ東京。モーニングムーン。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -10841,10 +10841,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。モーニングムーン。第9位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。モーニングムーン。第9位。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -10857,10 +10857,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・トップテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。モーニングムーン。第9位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。モーニングムーン。第9位。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -10873,10 +10873,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。モーニングムーン。第10位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。モーニングムーン。第10位。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -10889,10 +10889,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。モーニングムーン。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -10926,10 +10926,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。モーニングムーン。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -10946,7 +10946,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜該当年の作品",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/379.html"
         }
       ]
@@ -10959,10 +10959,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「YOU 今，若者は音楽専科」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。笑福亭鶴瓶・三枝成章出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。笑福亭鶴瓶・三枝成章出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -10975,10 +10975,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ヤングスタジオ101」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。モーニングムーン。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -10991,10 +10991,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「オールナイトフジ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。モーニングムーンほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。モーニングムーンほか。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11112,10 +11112,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。黄昏を待たずに。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。黄昏を待たずに。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11195,7 +11195,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜該当年の作品",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/379.html"
         }
       ]
@@ -11229,10 +11229,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「TORO AND UNI」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "毎日放送。円広志司会のゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "毎日放送。円広志司会のゲスト出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11245,10 +11245,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「ニュー・サウンズ・スペシャル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK-FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK-FM。スタジオライブ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11303,10 +11303,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックショットガン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "RSKテレビ。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "RSKテレビ。番組出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11361,10 +11361,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ヤングスタジオ101」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。黄昏を待たずに。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。黄昏を待たずに。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11377,10 +11377,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ロッテ歌のアルバムNOW」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。黄昏を待たずに。TBSスタジオから生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。黄昏を待たずに。TBSスタジオから生中継。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11477,10 +11477,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「笑っていいとも！」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキングにASKA単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。テレホンショッキングにASKA単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11577,10 +11577,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。黄昏を待たずに。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。黄昏を待たずに。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11593,10 +11593,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「Music Tomato Japan CHAGE&ASUKA SPECIAL」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TVK。番組特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TVK。番組特集。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11609,10 +11609,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「Lo-D LIVE CONCERT」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO-FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TOKYO-FM。スタジオライブ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11625,10 +11625,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ヤンヤン歌うスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ東京。Count Down。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ東京。Count Down。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11662,10 +11662,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「オールナイトニッポン スペシャル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "ニッポン放送。ゲストを交えたトーク・スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "ニッポン放送。ゲストを交えたトーク・スタジオライブ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11725,14 +11725,14 @@ window.CA_EVENT_DATA = {
       "performanceNo": 1,
       "status": "recorded",
       "verification": "secondary",
-      "note": "【会場表記要照合】公式日程欄は「飛鳥村歴史公園」、公式本文は「明日香村歴史公園」、LiveFansでは「国営飛鳥歴史公園」。同一会場を指すか含めて表記要照合。／旧備考：イベント初日／ラジオ中継",
+      "note": "【会場表記要照合】公式日程欄は「飛鳥村歴史公園」、公式本文は「明日香村歴史公園」、公演情報の二次資料では「国営飛鳥歴史公園」。同一会場を指すか含めて表記要照合。／旧備考：イベント初日／ラジオ中継",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY（会場表記相違）",
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "LiveFans｜1986年7月27日",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://www.livefans.jp/events/329167"
         }
       ]
@@ -11766,10 +11766,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。Count Down。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。Count Down。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11803,10 +11803,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「チャゲ＆飛鳥 LIVE IN 飛鳥記念公園」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "放送局未記載。1986年7月27日・明日香村歴史公園公演の模様。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "放送局未記載。1986年7月27日・明日香村歴史公園公演の模様。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11857,10 +11857,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ヤングスタジオ101 ―チャゲ＆飛鳥サウンドの魅力を探る―」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。番組特集・未収録曲披露の記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。番組特集・未収録曲披露の記録。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11873,10 +11873,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「NEW AGE MUSIC」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ東京。1986年5月29日渋谷公会堂公演から。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ東京。1986年5月29日渋谷公会堂公演から。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11889,10 +11889,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。Count Down。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。Count Down。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11922,10 +11922,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ヤングスタジオ101「マッチ・天宮“青春”をうたう」」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。Count Down。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。Count Down。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11938,10 +11938,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックトマトジャパン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TVK。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TVK。番組出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -11971,10 +11971,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。指環が泣いた。ばんばひろふみとの共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。指環が泣いた。ばんばひろふみとの共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -12113,10 +12113,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。指環が泣いた。cavcは初出場と記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。指環が泣いた。二次資料は初出場と記録。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -12146,10 +12146,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ヤンヤン歌うスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ東京。指環が泣いた。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ東京。指環が泣いた。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -12162,10 +12162,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。指環が泣いた。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。指環が泣いた。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -12178,10 +12178,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックトマトジャパン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ神奈川。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ神奈川。番組出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -12358,10 +12358,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「世界紅白歌合戦（夜のヒットスタジオ）」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ロンドンから中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ロンドンから中継。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
@@ -12374,10 +12374,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「さんまのまんま」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。VTR年賀状出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。VTR年賀状出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -12390,10 +12390,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。TURNING POINT。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。TURNING POINT。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -12406,10 +12406,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。指環が泣いた。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。指環が泣いた。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -12422,10 +12422,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・サンデー」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。指環が泣いた。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。指環が泣いた。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -12438,10 +12438,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア'87」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。サーカス・荻野目洋子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。サーカス・荻野目洋子と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -12454,10 +12454,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。TURNING POINT。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。TURNING POINT。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -12474,7 +12474,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜該当年の作品",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/382.html"
         }
       ]
@@ -12550,10 +12550,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「Endless Night」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "ABC。生出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "ABC。生出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -12780,7 +12780,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜該当年の作品",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/382.html"
         }
       ]
@@ -12898,10 +12898,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「歌のトップテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。SAILOR MAN。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。SAILOR MAN。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -12914,10 +12914,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。SAILOR MAN。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。SAILOR MAN。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -12951,10 +12951,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。SAILOR MAN。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。SAILOR MAN。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13072,10 +13072,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「パワーステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO-FM。1987年6月13・14日国立代々木競技場第一体育館公演の放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TOKYO-FM。1987年6月13・14日国立代々木競技場第一体育館公演の放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13508,10 +13508,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASUKA CONCERT TOUR '87 WE SHALL RETURN」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。1987年6月14日・国立代々木競技場第一体育館公演の映像。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。1987年6月14日・国立代々木競技場第一体育館公演の映像。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13545,10 +13545,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「NTTサウンドスペシャル 雅俊・チャゲ&飛鳥 IN ASPECTA」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。1987年7月25日・南阿蘇ASPECTAでの公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。1987年7月25日・南阿蘇ASPECTAでの公演を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13561,10 +13561,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「CHAGE&ASUKA LIVE IN EXPO」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "ラジオ大阪。1987年8月8日大阪万博記念陸上競技場のライブ録音。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "ラジオ大阪。1987年8月8日大阪万博記念陸上競技場のライブ録音。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13577,10 +13577,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ロマンシングヤード。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ロマンシングヤード。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13593,10 +13593,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「これが新選組だ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。MY Mr.LONELY HEART。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。MY Mr.LONELY HEART。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13609,10 +13609,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。MY Mr.LONELY HEART。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。MY Mr.LONELY HEART。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13625,10 +13625,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「翔べ！飛べ！少年隊SP」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。ロマンシングヤードほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。ロマンシングヤードほか。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13641,10 +13641,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「TV時代劇スペシャル 新選組 第一部」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。若い伊藤博文役で出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。若い伊藤博文役で出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13657,10 +13657,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。ロマンシングヤード。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。ロマンシングヤード。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13673,10 +13673,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「オールナイトフジ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。MY Mr.LONELY HEARTなど。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。MY Mr.LONELY HEARTなど。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13689,10 +13689,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「TV時代劇スペシャル 新選組 第二部」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。若い伊藤博文役で出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。若い伊藤博文役で出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13705,10 +13705,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「FM音楽共和国 Sound Community 10.10」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO-FM。FM東京ホールでの同日ライブ生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TOKYO-FM。FM東京ホールでの同日ライブ生中継。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13721,10 +13721,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「オージー・ボウル'87」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ゲスト出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13737,10 +13737,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「いきなりフライデーナイト」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ゲスト出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13753,10 +13753,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ニュースステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。ASKAゲスト。MY Mr.LONELY HEART紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。ASKAゲスト。MY Mr.LONELY HEART紹介。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13811,10 +13811,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。MY Mr.LONELY HEART。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。MY Mr.LONELY HEART。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13932,10 +13932,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「笑っていいとも！」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキング出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。テレホンショッキング出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13948,10 +13948,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「笑っていいとも！増刊号」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。未公開場面を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。未公開場面を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -13964,10 +13964,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックスクエア」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ愛知。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ愛知。番組出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
@@ -14230,10 +14230,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。恋人はワイン色。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。恋人はワイン色。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14246,10 +14246,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「桃色学園都市宣言!!」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。あきらめのBlue Day。2月度オープニング。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。あきらめのBlue Day。2月度オープニング。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14262,10 +14262,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ニュースステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。CHAGE出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。CHAGE出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14278,10 +14278,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。恋人はワイン色。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。恋人はワイン色。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14294,10 +14294,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。恋人はワイン色。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。恋人はワイン色。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14310,10 +14310,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。恋人はワイン色。今週のスポットライト。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。恋人はワイン色。今週のスポットライト。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14326,10 +14326,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「オールナイトフジ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ミッドナイトコンサート生放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ミッドナイトコンサート生放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14342,10 +14342,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。恋人はワイン色。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。恋人はワイン色。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14358,10 +14358,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「ニューサウンズスペシャル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK-FM。1988年3月4日NHKスタジオのライブを放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK-FM。1988年3月4日NHKスタジオのライブを放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14374,10 +14374,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。ラプソディ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。ラプソディ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14390,10 +14390,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「電影館」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。CHAGE出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。CHAGE出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14447,10 +14447,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア'88」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。五輪真弓と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。五輪真弓と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14463,10 +14463,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ラプソディ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ラプソディ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14500,10 +14500,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。ラプソディ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。ラプソディ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14516,10 +14516,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ジャストポップアップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。番組出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14595,10 +14595,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「サウンドスコール」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。番組出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -14695,10 +14695,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「HITACHI FAN! FUN! TODAY」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "ニッポン放送。ライブ音源を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "ニッポン放送。ライブ音源を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -15110,10 +15110,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。ASKAソロ出演。夢はるか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。ASKAソロ出演。夢はるか。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -15189,10 +15189,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「男2」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。CHAGE単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。CHAGE単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -15268,10 +15268,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「男2」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ASKA単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ASKA単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -15284,10 +15284,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「笑っていいとも！」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキングにASKA単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。テレホンショッキングにASKA単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -15300,10 +15300,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「笑っていいとも！」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキングにCHAGE単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。テレホンショッキングにCHAGE単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -15316,10 +15316,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ASKAソロ。MIDNIGHT 2 CALL。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ASKAソロ。MIDNIGHT 2 CALL。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -15332,10 +15332,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「オシャレ30・30」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。番組出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -15348,10 +15348,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。ASKAソロ。蘇州夜曲。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。ASKAソロ。蘇州夜曲。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -15364,10 +15364,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「サウンドスコール」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ASKAソロ。MIDNIGHT 2 CALL。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ASKAソロ。MIDNIGHT 2 CALL。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -15380,10 +15380,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ジャストポップアップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。番組出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -15396,10 +15396,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。Trip。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。Trip。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -15517,10 +15517,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。Trip。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。Trip。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -15659,10 +15659,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。Trip。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。Trip。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -15881,10 +15881,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。Love Affair。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。Love Affair。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -15918,10 +15918,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア'88」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。本田美奈子・岩崎宏美と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。本田美奈子・岩崎宏美と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ]
@@ -16249,10 +16249,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「CHAGE&ASUKA 武道館 ENERGY LIVE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO-FM。CONCERT TOUR'88 X'mas Specialの日本武道館公演の放送。cavc備考の収録日表記に矛盾あり、一次資料要照合。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TOKYO-FM。CONCERT TOUR'88 X'mas Specialの日本武道館公演の放送。二次資料の備考の収録日表記に矛盾あり、一次資料要照合。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -16265,10 +16265,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。Love Affair。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。Love Affair。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -16281,10 +16281,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。WALK。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。WALK。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -16297,10 +16297,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。WALK。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。WALK。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -16313,10 +16313,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。特集メドレー。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。特集メドレー。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -16336,7 +16336,7 @@ window.CA_EVENT_DATA = {
       "note": "ツアー初日",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16357,7 +16357,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16378,7 +16378,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16399,7 +16399,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16420,7 +16420,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16441,7 +16441,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16462,7 +16462,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16483,7 +16483,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16504,7 +16504,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16525,7 +16525,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16546,7 +16546,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16567,7 +16567,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16588,7 +16588,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16609,7 +16609,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16630,7 +16630,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16651,7 +16651,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16672,7 +16672,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16693,7 +16693,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16714,7 +16714,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16735,7 +16735,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16756,7 +16756,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16777,7 +16777,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16798,7 +16798,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16819,7 +16819,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16840,7 +16840,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16861,7 +16861,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16882,7 +16882,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16903,7 +16903,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16917,10 +16917,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。LOVE SONG。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。LOVE SONG。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -16950,10 +16950,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。LOVE SONG。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。LOVE SONG。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -16973,7 +16973,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -16994,7 +16994,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17015,7 +17015,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17036,7 +17036,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17057,7 +17057,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17078,7 +17078,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17099,7 +17099,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17120,7 +17120,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17141,7 +17141,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17162,7 +17162,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17183,7 +17183,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17204,7 +17204,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17225,7 +17225,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17246,7 +17246,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17260,10 +17260,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "放送局要照合。札幌厚生年金会館より中継。cavcの放送局欄に資料上の疑義あり。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "放送局要照合。札幌厚生年金会館より中継。二次資料の放送局欄に資料上の疑義あり。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17283,7 +17283,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17304,7 +17304,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17325,7 +17325,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17339,10 +17339,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア'89」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。徳永英明と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。徳永英明と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17362,7 +17362,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17383,7 +17383,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17404,7 +17404,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17425,7 +17425,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17446,7 +17446,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17467,7 +17467,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17488,7 +17488,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17509,7 +17509,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17523,10 +17523,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「笑っていいとも！」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキングにCHAGE単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。テレホンショッキングにCHAGE単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17539,10 +17539,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。HOTEL。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。HOTEL。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17562,7 +17562,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17583,7 +17583,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17604,7 +17604,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17625,7 +17625,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17639,10 +17639,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。PRIDE。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。PRIDE。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17655,10 +17655,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「のるそるサマースペシャル 10 years after」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO-FM。1989年8月19日新宿厚生年金会館の音源など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TOKYO-FM。1989年8月19日新宿厚生年金会館の音源など。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17688,10 +17688,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「Lo-D LIVE CONCERT」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO-FM。FM東京レコーディングスタジオより生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TOKYO-FM。FM東京レコーディングスタジオより生中継。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17704,10 +17704,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ひとり咲き・モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ひとり咲き・モーニングムーン。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17720,10 +17720,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ジャストポップアップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。スタジオライブ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17743,7 +17743,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17757,10 +17757,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。C&Aスペシャルメドレー。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。C&Aスペシャルメドレー。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17780,7 +17780,7 @@ window.CA_EVENT_DATA = {
       "note": "ツアー最終日",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/420.html"
         }
       ],
@@ -17794,10 +17794,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「野口英世記念医療センター設立キャンペーン チャゲ&飛鳥熱狂ライブ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。郡山文化センターの10周年ライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。郡山文化センターの10周年ライブ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17810,10 +17810,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ASKAソロ・CHAGEソロの披露を含む。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ASKAソロ・CHAGEソロの披露を含む。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17826,10 +17826,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。スタジオライブ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17842,10 +17842,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「さよならザ・ベストテン」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。VTRを見返す特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。VTRを見返す特別番組。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17858,10 +17858,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ヒットスタジオR&N」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。MULTI MAXとして初出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。MULTI MAXとして初出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17874,10 +17874,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「バブル＆リカコ SOUL天国」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ東京。バブルガム・ブラザーズと共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ東京。バブルガム・ブラザーズと共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17890,10 +17890,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「Lo-D LIVE CONCERT」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO-FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TOKYO-FM。スタジオライブ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -17927,10 +17927,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。MULTI MAXのテーマ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。MULTI MAXのテーマ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -18006,10 +18006,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「バブル＆リカコ SOUL天国」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ東京。CHAGEと宇崎竜童の共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ東京。CHAGEと宇崎竜童の共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
@@ -18022,10 +18022,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオSUPER」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。MULTI MAXのテーマ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。MULTI MAXのテーマ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18055,10 +18055,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア'90」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。アン・ルイスと共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。アン・ルイスと共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18088,10 +18088,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MULTI MAX コンサート」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK-BS2。1989年12月13日日本武道館公演を放送。ASKAゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK-BS2。1989年12月13日日本武道館公演を放送。ASKAゲスト出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18104,10 +18104,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「SOUND GIG」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ東京。トーク出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ東京。トーク出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18120,10 +18120,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオSUPER」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。DO YA DO。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。DO YA DO。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18153,10 +18153,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオSUPER」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。CHAGE&ASKA表記での初出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。CHAGE&ASKA表記での初出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18169,10 +18169,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。DO YA DO。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。DO YA DO。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18185,10 +18185,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア'90」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。石川優子と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18201,10 +18201,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「南こうせつサマーピクニック FINAL」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK-BS2。サマーピクニックの模様を生放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK-BS2。サマーピクニックの模様を生放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18229,7 +18229,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18242,10 +18242,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオSUPER」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。太陽と埃の中で。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。太陽と埃の中で。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18270,7 +18270,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18295,7 +18295,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18327,10 +18327,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA IN LONDON」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK-BS2。ロンドンでの教会ライブ・ドキュメント。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK-BS2。ロンドンでの教会ライブ・ドキュメント。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18372,7 +18372,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18397,7 +18397,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18410,10 +18410,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MOGITATE!バナナ大使」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。DO YA DO。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。DO YA DO。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18438,7 +18438,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18463,7 +18463,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18488,7 +18488,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18513,7 +18513,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18526,10 +18526,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MOGITATE!バナナ大使」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。恋人はワイン色。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。恋人はワイン色。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18554,7 +18554,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18579,7 +18579,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18604,7 +18604,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18617,10 +18617,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MOGITATE!バナナ大使」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。YELLOW MEN。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。YELLOW MEN。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18645,7 +18645,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18670,7 +18670,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18695,7 +18695,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18708,10 +18708,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MOGITATE!バナナ大使」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。太陽と埃の中で。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。太陽と埃の中で。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18753,7 +18753,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18778,7 +18778,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18803,7 +18803,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18828,7 +18828,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18853,7 +18853,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18866,10 +18866,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ありがとう&さよなら夜のヒットスタジオ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。特別番組。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -18894,7 +18894,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18919,7 +18919,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18944,7 +18944,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18969,7 +18969,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -18994,7 +18994,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19019,7 +19019,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19044,7 +19044,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19069,7 +19069,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19094,7 +19094,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19119,7 +19119,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19144,7 +19144,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19169,7 +19169,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19194,7 +19194,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19219,7 +19219,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19244,7 +19244,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19269,7 +19269,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19294,7 +19294,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19319,7 +19319,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19344,7 +19344,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19369,7 +19369,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19394,7 +19394,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19419,7 +19419,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19463,7 +19463,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19488,7 +19488,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19513,7 +19513,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19538,7 +19538,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19563,7 +19563,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19588,7 +19588,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19613,7 +19613,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19638,7 +19638,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19663,7 +19663,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19688,7 +19688,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19701,10 +19701,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA Special ロンドンから横浜アリーナ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "SBS静岡放送。ロンドンレコーディングからSEE YAツアーまでの特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "SBS静岡放送。ロンドンレコーディングからSEE YAツアーまでの特別番組。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
@@ -19729,7 +19729,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19754,7 +19754,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19779,7 +19779,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19804,7 +19804,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19829,7 +19829,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19873,7 +19873,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19886,10 +19886,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「CHAGE&ASKA STORY～太陽と埃の中で～」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO-FM。1990年9月15日横浜アリーナ収録音源を交える。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TOKYO-FM。1990年9月15日横浜アリーナ収録音源を交える。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -19914,7 +19914,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19939,7 +19939,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -19981,7 +19981,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
         }
       ]
@@ -20013,10 +20013,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「NOW ARTIST」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。トークとスタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。トークとスタジオライブ。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -20029,10 +20029,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MTV JAPAN」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。インタビュー出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。インタビュー出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -20081,10 +20081,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア'91」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。中村雅俊と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。中村雅俊と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -20131,10 +20131,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「SOUND GIG」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。MULTI MAX出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。MULTI MAX出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -20147,10 +20147,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夜のヒットスタジオ大感謝祭スペシャルII『青春時代編』」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ASKAソロ・MULTI MAXでも出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ASKAソロ・MULTI MAXでも出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -20163,10 +20163,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ナリキーばんど講座」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。うじきつよし司会。ビートルズ特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。うじきつよし司会。ビートルズ特集。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -20213,10 +20213,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「LIVE LIVE LIVE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO-FM。MULTI MAXスタジオより生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TOKYO-FM。MULTI MAXスタジオより生中継。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -20271,10 +20271,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「特別企画!!CHAGE&ASKA」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "北海道文化放送。トークと映像紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "北海道文化放送。トークと映像紹介。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -20392,10 +20392,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。ASKAソロ。はじまりはいつも雨。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。ASKAソロ。はじまりはいつも雨。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -20513,10 +20513,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「笑っていいとも！」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキングにCHAGE単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。テレホンショッキングにCHAGE単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -20529,10 +20529,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「笑っていいとも！」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキングにASKA単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。テレホンショッキングにASKA単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -20562,10 +20562,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「島原救済緊急特別番組・夜のヒットスタジオスペシャル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。SAY YES。渋谷エピキュラスから生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。SAY YES。渋谷エピキュラスから生中継。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -20595,10 +20595,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア'91」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。BBクィーンズと共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。BBクィーンズと共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -20611,10 +20611,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア'91」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。益田宏美（岩崎宏美）と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。益田宏美（岩崎宏美）と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -20639,7 +20639,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -20664,7 +20664,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -20689,7 +20689,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -20714,7 +20714,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -20739,7 +20739,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -20764,7 +20764,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -20789,7 +20789,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -20848,7 +20848,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -20873,7 +20873,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -20898,7 +20898,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -20923,7 +20923,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -20948,7 +20948,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -20973,7 +20973,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -20998,7 +20998,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21023,7 +21023,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21048,7 +21048,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21073,7 +21073,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21098,7 +21098,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21140,7 +21140,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21165,7 +21165,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21190,7 +21190,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21215,7 +21215,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21240,7 +21240,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21265,7 +21265,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21290,7 +21290,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21315,7 +21315,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21357,7 +21357,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21382,7 +21382,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21407,7 +21407,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21432,7 +21432,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21457,7 +21457,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21482,7 +21482,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21507,7 +21507,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21520,10 +21520,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「第20回FNS歌謡祭'91」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。SAY YES・僕はこの瞳で嘘をつく。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。SAY YES・僕はこの瞳で嘘をつく。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -21548,7 +21548,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21573,7 +21573,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21632,7 +21632,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21657,7 +21657,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21682,7 +21682,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21707,7 +21707,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21732,7 +21732,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21757,7 +21757,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21782,7 +21782,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21807,7 +21807,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21832,7 +21832,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21845,10 +21845,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA HISTORY '79-'90」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK-BS。デビュー期から1990年までの特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK-BS。デビュー期から1990年までの特別番組。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -21861,10 +21861,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA DOCUMENT '91」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK-BS。ロンドンレコーディングからSAY YESツアーのドキュメント。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK-BS。ロンドンレコーディングからSAY YESツアーのドキュメント。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -21877,10 +21877,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA 1991 LIVE SPECIAL SAY YES」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK-BS2。SAY YESツアー公演の放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK-BS2。SAY YESツアー公演の放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
@@ -21905,7 +21905,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21930,7 +21930,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21955,7 +21955,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -21975,7 +21975,7 @@ window.CA_EVENT_DATA = {
       "note": "延期・当日開催なし。振替公演：1992-05-14。当初日程は会報情報を引用した二次資料による。",
       "sources": [
         {
-          "label": "公演延期記録（会報2000年12月号の二次引用）",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://mixi.jp/view_bbs.pl?comm_id=2049233&from=cross_search&id=17520547"
         },
         {
@@ -21999,7 +21999,7 @@ window.CA_EVENT_DATA = {
       "note": "延期・当日開催なし。振替公演：1992-05-15。当初日程は会報情報を引用した二次資料による。",
       "sources": [
         {
-          "label": "公演延期記録（会報2000年12月号の二次引用）",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://mixi.jp/view_bbs.pl?comm_id=2049233&from=cross_search&id=17520547"
         },
         {
@@ -22028,7 +22028,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -22053,7 +22053,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -22078,7 +22078,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -22103,7 +22103,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -22128,7 +22128,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         },
         {
@@ -22157,7 +22157,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -22170,10 +22170,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE with FRIENDS CHAGE CHAGE CHAGE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "SBS静岡放送。CHAGEが司会。アーティストのPV紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "SBS静岡放送。CHAGEが司会。アーティストのPV紹介。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
@@ -22198,7 +22198,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -22223,7 +22223,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -22248,7 +22248,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -22273,7 +22273,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22298,7 +22298,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22323,7 +22323,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22348,7 +22348,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22373,7 +22373,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22398,7 +22398,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22423,7 +22423,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22448,7 +22448,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22507,7 +22507,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22532,7 +22532,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22557,7 +22557,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22582,7 +22582,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22607,7 +22607,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22632,7 +22632,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22645,10 +22645,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「第6回 日本ゴールドディスク大賞」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。6部門7受賞と記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK。6部門7受賞と記録。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
@@ -22673,7 +22673,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22698,7 +22698,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22711,10 +22711,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。LOVE SONG・WALK。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。LOVE SONG・WALK。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
@@ -22739,7 +22739,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22764,7 +22764,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22777,10 +22777,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「SOUND ARENA」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。SAY YES・LOVE SONG。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。SAY YES・LOVE SONG。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
@@ -22805,7 +22805,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22830,7 +22830,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22855,7 +22855,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22880,7 +22880,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22905,7 +22905,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22930,7 +22930,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -22943,10 +22943,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。遠い街から。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "テレビ朝日。遠い街から。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
@@ -22988,7 +22988,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -23013,7 +23013,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -23038,7 +23038,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -23063,7 +23063,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -23088,7 +23088,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -23113,7 +23113,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ]
@@ -23138,7 +23138,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -23163,7 +23163,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
         }
       ]
@@ -23176,10 +23176,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「日本のビッグシンガー」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK-BS2。BIG TREEツアーの日本武道館公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK-BS2。BIG TREEツアーの日本武道館公演を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
@@ -23192,10 +23192,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「SOUND ARENA」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。遠い街から。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。遠い街から。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
@@ -23225,10 +23225,10 @@ window.CA_EVENT_DATA = {
       "title": "ラジオ「SUBARU SOUND SPECIAL Part3 BIG TREE TOUR FINAL」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO-FM。BIG TREEツアー最終日の模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "TOKYO-FM。BIG TREEツアー最終日の模様を放送。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
@@ -23241,10 +23241,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ウッチャンナンチャンのやるならやらねば!」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。チャケ&矢飛鳥の企画に本人が登場。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。チャケ&矢飛鳥の企画に本人が登場。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
@@ -23257,10 +23257,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア'92」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。工藤静香と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。工藤静香と共演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
@@ -23307,10 +23307,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MJ -MUSIC JOURNAL-」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。CHAGE＆ASKA特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。CHAGE＆ASKA特集。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
@@ -23323,10 +23323,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MUSIC QUEST '92」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。CHAGEゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。CHAGEゲスト出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
@@ -23377,10 +23377,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「FNS歌謡祭'92」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ロンドンより中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ロンドンより中継。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
@@ -23494,10 +23494,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「SUBARU X'mas Presents Chage & Aska 世界にMERRY X'MAS」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ロンドンレコーディングの様子や番組用の演奏。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ロンドンレコーディングの様子や番組用の演奏。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
@@ -23565,10 +23565,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「流行歌最前線」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK-BS2。世界にMerry X'mas。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "note": "NHK-BS2。世界にMerry X'mas。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
@@ -24032,7 +24032,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24049,7 +24049,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜ツアー概要・備考",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24074,7 +24074,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24099,7 +24099,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24124,7 +24124,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24149,7 +24149,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24174,7 +24174,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24199,7 +24199,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24224,7 +24224,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24249,7 +24249,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24274,7 +24274,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24299,7 +24299,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24324,7 +24324,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24349,7 +24349,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24374,7 +24374,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24399,7 +24399,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24424,7 +24424,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24441,7 +24441,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜ツアー概要・備考",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24458,7 +24458,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜ツアー概要・備考",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24483,7 +24483,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24508,7 +24508,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24533,7 +24533,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24558,7 +24558,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24583,7 +24583,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24608,7 +24608,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24633,7 +24633,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24658,7 +24658,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24683,7 +24683,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24708,7 +24708,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24733,7 +24733,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24758,7 +24758,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24783,7 +24783,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24808,7 +24808,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24875,7 +24875,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24900,7 +24900,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24925,7 +24925,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24950,7 +24950,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -24975,7 +24975,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25000,7 +25000,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25025,7 +25025,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25050,7 +25050,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25075,7 +25075,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25100,7 +25100,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25125,7 +25125,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25150,7 +25150,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25175,7 +25175,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25200,7 +25200,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25225,7 +25225,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25250,7 +25250,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25275,7 +25275,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25300,7 +25300,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25325,7 +25325,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25350,7 +25350,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25375,7 +25375,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25400,7 +25400,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25425,7 +25425,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25450,7 +25450,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25475,7 +25475,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25500,7 +25500,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25525,7 +25525,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25550,7 +25550,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25575,7 +25575,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25600,7 +25600,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25625,7 +25625,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25650,7 +25650,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25675,7 +25675,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25700,7 +25700,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25725,7 +25725,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25750,7 +25750,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25775,7 +25775,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25800,7 +25800,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25825,7 +25825,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25850,7 +25850,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
@@ -25927,19 +25927,19 @@ window.CA_EVENT_DATA = {
       "performanceNo": 4,
       "status": "recorded",
       "verification": "secondary",
-      "note": "公式本文は全5公演、個別日程欄では5/8が欠落。ladomi／公演資料で日付を補完（要原典照合）",
+      "note": "公式本文は全5公演、個別日程欄では5/8が欠落。二次資料／公演資料で日付を補完（要原典照合）",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜公演日程",
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "ladomi.net｜1994年アジアツアー公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ca.ladomi.net/live_ca",
           "verification": "secondary"
         },
         {
-          "label": "CHAGE and ASKA関連Wiki｜1994年",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/83.html"
         }
       ]
@@ -27567,14 +27567,14 @@ window.CA_EVENT_DATA = {
       "performanceNo": 48,
       "status": "recorded",
       "verification": "secondary",
-      "note": "公式Historyの個別日程表では1/6の記載が欠落。ただしツアー全60公演との記載およびWiki等の公演日程と一致（原典照合待ち）",
+      "note": "公式Historyの個別日程表では1/6の記載が欠落。ただしツアー全60公演との記載および二次資料の公演日程と一致（原典照合待ち）",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜公演日程",
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "C&A関連Wiki｜1996年1月6日公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/404.html",
           "verification": "secondary"
         }
@@ -27905,18 +27905,18 @@ window.CA_EVENT_DATA = {
       "performanceNo": 3,
       "status": "recorded",
       "verification": "secondary",
-      "note": "【日付要原典照合】公式HISTORYの公演日程欄は1996/3/22、同本文は1996/3/30と記載。ladomi等の公演一覧は3/22。未確認の3/30公演は追加しない。",
+      "note": "【日付要原典照合】公式HISTORYの公演日程欄は1996/3/22、同本文は1996/3/30と記載。二次資料等の公演一覧は3/22。未確認の3/30公演は追加しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜公演日程",
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "公演日程の二次照合｜ladomi",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ca.ladomi.net/live_ca"
         },
         {
-          "label": "C&A関連公演記録｜ASIAN TOUR II",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/405.html"
         }
       ]
@@ -27960,7 +27960,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         },
         {
-          "label": "C&A関連公演記録｜ASIAN TOUR II",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/405.html"
         }
       ]
@@ -30226,10 +30226,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ワイド! スクランブル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。20年間の活動を振り返る特集。本人の新規出演の有無は未確認。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "テレビ朝日。20年間の活動を振り返る特集。本人の新規出演の有無は未確認。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30242,10 +30242,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA 20TH FILE 第1回」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "スペースシャワーTV。20周年の特集番組。初回は再始動・活動史。本人の新規出演は最終回に記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "スペースシャワーTV。20周年の特集番組。初回は再始動・活動史。本人の新規出演は最終回に記録。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30258,10 +30258,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「情熱大陸」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。C&A密着ドキュメンタリー。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "TBS。C&A密着ドキュメンタリー。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30274,10 +30274,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA 20TH FILE 第2回」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "スペースシャワーTV。20周年の連続特集第2回。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "スペースシャワーTV。20周年の連続特集第2回。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30307,10 +30307,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。「この愛のために」の出演記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "テレビ朝日。「この愛のために」の出演記録。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30323,10 +30323,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA 20TH FILE 第3回」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "スペースシャワーTV。20周年の連続特集第3回。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "スペースシャワーTV。20周年の連続特集第3回。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30339,10 +30339,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「FUN Special」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。「はじまりはいつも雨」「この愛のために」「VISION」の出演記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "日本テレビ。「はじまりはいつも雨」「この愛のために」「VISION」の出演記録。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30355,10 +30355,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA 20TH FILE 第4回」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "スペースシャワーTV。20周年の連続特集第4回。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "スペースシャワーTV。20周年の連続特集第4回。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30371,10 +30371,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA 20TH FILE 第5回」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "スペースシャワーTV。20周年の連続特集第5回。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "スペースシャワーTV。20周年の連続特集第5回。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30421,10 +30421,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。「この愛のために」「VISION」「止まった時計」の出演記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "テレビ朝日。「この愛のために」「VISION」「止まった時計」の出演記録。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30437,10 +30437,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA再始動～IS BACK～」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "WOWOW。個別インタビューとレコーディング・PV撮影映像を含む特別番組。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "WOWOW。個別インタビューとレコーディング・PV撮影映像を含む特別番組。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30453,10 +30453,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA 20TH FILE 第6回」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "スペースシャワーTV。20周年の連続特集第6回。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "スペースシャワーTV。20周年の連続特集第6回。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30469,10 +30469,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA 20TH FILE 第7回」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "スペースシャワーTV。20周年の連続特集第7回。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "スペースシャワーTV。20周年の連続特集第7回。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30485,10 +30485,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA 20TH FILE 第8回」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "スペースシャワーTV。20周年の連続特集第8回。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "スペースシャワーTV。20周年の連続特集第8回。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30501,10 +30501,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA 20TH FILE 最終回」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "スペースシャワーTV。20周年の連続特集第9回。C&Aのロングインタビューを放送。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "スペースシャワーTV。20周年の連続特集第9回。C&Aのロングインタビューを放送。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30576,10 +30576,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「BS10周年企画・AROUND THE WORLD～日本のうた世界のうた～」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK BS2。赤坂BLITZライブ後のインタビュー生中継。歌唱シーンは同ライブの収録映像。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "NHK BS2。赤坂BLITZライブ後のインタビュー生中継。歌唱シーンは同ライブの収録映像。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30592,10 +30592,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ワイド! スクランブル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。約3年ぶりのライブについてのインタビューと過去映像。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "テレビ朝日。約3年ぶりのライブについてのインタビューと過去映像。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30688,10 +30688,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。「群れ」の出演記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "テレビ朝日。「群れ」の出演記録。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30767,10 +30767,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア'99」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。アンプラグド形式で複数曲を披露。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "フジテレビ。アンプラグド形式で複数曲を披露。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30783,10 +30783,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「甲斐よしひろ SPIRITS 25-終わらない歓声-」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK BS2。CHAGEがコメント出演。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "NHK BS2。CHAGEがコメント出演。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30799,10 +30799,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「LOVE LOVE あいしてる」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「全部抱きしめて」「また逢う日まで」「太陽と埃の中で」を披露した記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "フジテレビ。「全部抱きしめて」「また逢う日まで」「太陽と埃の中で」を披露した記録。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30849,10 +30849,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「FUN」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。20周年期の出演とライブパフォーマンス。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "日本テレビ。20周年期の出演とライブパフォーマンス。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30886,10 +30886,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「王様のブランチ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。20周年インタビュー。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "TBS。20周年インタビュー。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30902,10 +30902,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ポップジャム」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「群れ」「no doubt」を披露した記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "NHK。「群れ」「no doubt」を披露した記録。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30939,10 +30939,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「SMAP×SMAP」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。SMAPとのジョイントライブを放送。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "フジテレビ。SMAPとのジョイントライブを放送。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -30976,10 +30976,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ジャスト」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。「電光石火」幕張プレビュー公演の舞台裏・インタビュー。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "TBS。「電光石火」幕張プレビュー公演の舞台裏・インタビュー。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -31244,10 +31244,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA「福岡ドーム、僕らがホーム」」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "RKB毎日放送。九州地区で放送された特別番組。内容の詳細は未照合。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "RKB毎日放送。九州地区で放送された特別番組。内容の詳細は未照合。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -31260,10 +31260,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「HEY!HEY!HEY! MUSIC CHAMP」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「WALK」「no doubt」などを披露した記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "フジテレビ。「WALK」「no doubt」などを披露した記録。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -31524,10 +31524,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ハートエイド・台湾」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TOKYO MX。台湾大地震の救済チャリティー公演の放送。公演実施日とは区別。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "TOKYO MX。台湾大地震の救済チャリティー公演の放送。公演実施日とは区別。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -31543,7 +31543,7 @@ window.CA_EVENT_DATA = {
       "note": "台北市立体育場で予定されていたが、1999年の台湾大地震の影響で中止。これは公演「実施」記録ではない。非公式ページの一部には開催とする矛盾した記述もあるため、当時の公式告知の原本による照合は保留。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式）",
           "url": "https://w.atwiki.jp/cavc/pages/419.html"
         }
       ],
@@ -31664,10 +31664,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA 千年夜一夜ライブ～福岡ドーム、僕らがホーム～」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "CHAGE&ASKA TV（ディレクTV）。福岡ドームのカウントダウン公演の中継記録。ライブ開催そのものは既存別レコード。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "note": "CHAGE&ASKA TV（ディレクTV）。福岡ドームのカウントダウン公演の中継記録。ライブ開催そのものは既存別レコード。二次資料非公式記録に基づくため放送局の一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
@@ -31699,10 +31699,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション ミレニアムSP」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。「男と女」の出演記録。cavc非公式記録に基づくため一次資料は未照合。",
+      "note": "テレビ朝日。「男と女」の出演記録。二次資料非公式記録に基づくため一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/67.html"
         }
       ]
@@ -31715,10 +31715,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「BSスペシャル スーパーライブ CHAGE&ASKA 1999～2000」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK BS2。1999年のアジア公演・ライブ映像などをまとめた番組。実施公演と別の放送日として記録。cavc非公式記録に基づくため一次資料は未照合。",
+      "note": "NHK BS2。1999年のアジア公演・ライブ映像などをまとめた番組。実施公演と別の放送日として記録。二次資料非公式記録に基づくため一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/67.html"
         }
       ]
@@ -31817,10 +31817,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「FBS MUSIC CLUB」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "FBS福岡放送。九州地方の番組へのASKA出演記録。cavc非公式記録に基づくため一次資料は未照合。",
+      "note": "FBS福岡放送。九州地方の番組へのASKA出演記録。二次資料非公式記録に基づくため一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/67.html"
         }
       ]
@@ -31873,10 +31873,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「スーパーナイト」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。韓国公演を終えたC&Aが生出演。cavc非公式記録に基づくため一次資料は未照合。",
+      "note": "フジテレビ。韓国公演を終えたC&Aが生出演。二次資料非公式記録に基づくため一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/67.html"
         }
       ]
@@ -31889,10 +31889,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。「good time」の出演記録。cavc非公式記録に基づくため一次資料は未照合。",
+      "note": "テレビ朝日。「good time」の出演記録。二次資料非公式記録に基づくため一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/67.html"
         }
       ]
@@ -31905,10 +31905,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ワイドコロシアム」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。韓国公演についてのインタビュー記録。cavc非公式記録に基づくため一次資料は未照合。",
+      "note": "テレビ朝日。韓国公演についてのインタビュー記録。二次資料非公式記録に基づくため一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/67.html"
         }
       ]
@@ -31921,10 +31921,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MY GAME IS ASKA～GOOD TIME～」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "名古屋テレビ。ASKAのインタビュー特番。cavc非公式記録に基づくため一次資料は未照合。",
+      "note": "名古屋テレビ。ASKAのインタビュー特番。二次資料非公式記録に基づくため一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/67.html"
         }
       ]
@@ -31937,10 +31937,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「P:S」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ新広島。ASKAゲスト出演。cavc非公式記録に基づくため一次資料は未照合。",
+      "note": "テレビ新広島。ASKAゲスト出演。二次資料非公式記録に基づくため一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/67.html"
         }
       ]
@@ -31972,10 +31972,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「壷」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "RCCテレビ。ASKA出演記録。cavc非公式記録に基づくため一次資料は未照合。",
+      "note": "RCCテレビ。ASKA出演記録。二次資料非公式記録に基づくため一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/67.html"
         }
       ]
@@ -32114,10 +32114,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「知ってるつもり!?」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。ASKAのインタビュー。cavc非公式記録に基づくため一次資料は未照合。",
+      "note": "日本テレビ。ASKAのインタビュー。二次資料非公式記録に基づくため一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/67.html"
         }
       ]
@@ -32130,10 +32130,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE&ASKA LIVE IN KOREA」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ721。同年8月26〜27日のソウル公演を放送。公演実施日とは別日。cavc非公式記録に基づくため一次資料は未照合。",
+      "note": "フジテレビ721。同年8月26〜27日のソウル公演を放送。公演実施日とは別日。二次資料非公式記録に基づくため一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/67.html"
         }
       ]
@@ -32233,7 +32233,7 @@ window.CA_EVENT_DATA = {
       "note": "東京国際フォーラムで開催された松任谷由実のトリビュート公演にゲスト参加。「春よ、来い」の歌唱場面が同年12月1日にBS放送されたとの非公式記録。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/67.html"
         }
       ],
@@ -32480,10 +32480,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「松任谷由実ワンナイトコンサート BROTHERS&SISTERS」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "民放BS各5局。11月1日東京国際フォーラム公演でASKAが「春よ、来い」に参加した映像。cavc非公式記録に基づくため一次資料は未照合。",
+      "note": "民放BS各5局。11月1日東京国際フォーラム公演でASKAが「春よ、来い」に参加した映像。二次資料非公式記録に基づくため一次資料は未照合。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/67.html"
         }
       ]
@@ -32580,10 +32580,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ASKA CONCERT TOUR GOOD TIME」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "WOWOW。2000年ツアー大阪城ホール公演の放送。インタビューと恵比寿ガーデンホールの映像も含む。公演日とは別。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "WOWOW。2000年ツアー大阪城ホール公演の放送。インタビューと恵比寿ガーデンホールの映像も含む。公演日とは別。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32596,10 +32596,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「SMAP×SMAP 2001 今夜は生スペシャル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ビストロSMAPとライブ企画。「ロケットの樹の下で」「らいおんハート」。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "フジテレビ。ビストロSMAPとライブ企画。「ロケットの樹の下で」「らいおんハート」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32612,10 +32612,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「王様のブランチ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。C&Aゲスト出演。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "TBS。C&Aゲスト出演。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32628,10 +32628,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「スーパーニュース」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。C&A関連出演。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "フジテレビ。C&A関連出演。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32644,10 +32644,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「めざましテレビ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。C&Aインタビュー。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "フジテレビ。C&Aインタビュー。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32677,10 +32677,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「うたばん」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。C&Aとして初出演の記録。「ロケットの樹の下で」。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "TBS。C&Aとして初出演の記録。「ロケットの樹の下で」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32693,10 +32693,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。「ロケットの樹の下で」。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "テレビ朝日。「ロケットの樹の下で」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32709,10 +32709,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「HEY!HEY!HEY! MUSIC CHAMP」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「ロケットの樹の下で」。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "フジテレビ。「ロケットの樹の下で」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32725,10 +32725,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「FUN」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。「ロケットの樹の下で」。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "日本テレビ。「ロケットの樹の下で」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32741,10 +32741,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ヤマタノオロチ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。C&Aゲスト出演。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "日本テレビ。C&Aゲスト出演。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32757,10 +32757,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「JAPAN 2001 日英友好400年への期待」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK BSハイビジョン。C&Aインタビュー。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "NHK BSハイビジョン。C&Aインタビュー。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32790,10 +32790,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「笑っていいとも！」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ASKAがテレフォンショッキングに出演。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "フジテレビ。ASKAがテレフォンショッキングに出演。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32806,10 +32806,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。「パラシュートの部屋で」。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "テレビ朝日。「パラシュートの部屋で」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32842,10 +32842,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「笑っていいとも！増刊号」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。8月8日のASKAテレフォンショッキングの未公開場面とされる放送。生出演の重複ではない。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "フジテレビ。8月8日のASKAテレフォンショッキングの未公開場面とされる放送。生出演の重複ではない。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32858,10 +32858,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「おしゃれカンケイ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。C&A出演。「YAH YAH YAH」制作秘話。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "日本テレビ。C&A出演。「YAH YAH YAH」制作秘話。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32874,10 +32874,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「堂本兄弟」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。C&A「心のベスト5」企画。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "フジテレビ。C&A「心のベスト5」企画。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32910,10 +32910,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ポップジャム サマースペシャル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「パラシュートの部屋で」。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "NHK。「パラシュートの部屋で」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32946,10 +32946,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「HEY!HEY!HEY! MUSIC CHAMP」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「パラシュートの部屋で」。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "フジテレビ。「パラシュートの部屋で」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -32982,10 +32982,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ZAP」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ新広島。8月26日「SOUND MARINA 2001」の模様。元資料の「SOUND NARINA」はイベント名の誤記として補正。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "テレビ新広島。8月26日「SOUND MARINA 2001」の模様。元資料の「SOUND NARINA」はイベント名の誤記として補正。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33018,10 +33018,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「壷」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "RCCテレビ。8月26日「SOUND MARINA 2001」の模様、インタビュー。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "RCCテレビ。8月26日「SOUND MARINA 2001」の模様、インタビュー。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33034,10 +33034,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「壷」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "RCCテレビ。8月26日「SOUND MARINA 2001」の模様。「太陽と埃の中で」。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "RCCテレビ。8月26日「SOUND MARINA 2001」の模様。「太陽と埃の中で」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33067,10 +33067,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「うたばん」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。「C-46」、卓球対決。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "TBS。「C-46」、卓球対決。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33083,10 +33083,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「おしゃれカンケイ 総集編2001」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。未公開シーン。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "日本テレビ。未公開シーン。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33099,10 +33099,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション15周年記念スペシャル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。「C-46」。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "テレビ朝日。「C-46」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33115,10 +33115,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「体感！怒涛の音楽祭」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "毎日放送。9月9日「MIRACLE MUSIC FESTIVAL 2001」の模様。ライブ開催日と別。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "毎日放送。9月9日「MIRACLE MUSIC FESTIVAL 2001」の模様。ライブ開催日と別。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33173,10 +33173,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「レッツ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「NOT AT ALL」ツアー初日の模様。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "フジテレビ。「NOT AT ALL」ツアー初日の模様。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33189,10 +33189,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ジャスト」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。「NOT AT ALL」ツアー初日の模様。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "TBS。「NOT AT ALL」ツアー初日の模様。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33268,10 +33268,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「うたばん寸前」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。9月20日の未公開場面。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "TBS。9月20日の未公開場面。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33284,10 +33284,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「GET01」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "毎日放送。C&Aゲスト出演。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "毎日放送。C&Aゲスト出演。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33363,10 +33363,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「BSスペシャル スーパーライブ CHAGE&ASKA ～KEEP ON RUNNING～」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK BS2。スタジオライブとトーク。実際のツアー日程とは別に放送記録として登録。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "NHK BS2。スタジオライブとトーク。実際のツアー日程とは別に放送記録として登録。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33400,10 +33400,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「エクスプレス」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。C&Aインタビュー。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "TBS。C&Aインタビュー。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33521,10 +33521,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ハイビジョンスペシャル CHAGE&ASKA LIVE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK BSハイビジョン。10月25日のスタジオライブ放送の短縮版。別公演ではない。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "NHK BSハイビジョン。10月25日のスタジオライブ放送の短縮版。別公演ではない。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33579,10 +33579,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MIRACLE MUSIC FESTIVAL 2001」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "BS-i。9月9日に出演した野外イベントの模様を放送。別公演ではない。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "BS-i。9月9日に出演した野外イベントの模様を放送。別公演ではない。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33864,10 +33864,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「めざましテレビ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。C&A出演記録。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "フジテレビ。C&A出演記録。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33901,10 +33901,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「クリスマスの約束…きっと君は来ない」関連放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。小田和正の番組。C&Aは番組関係者の資料で「共演」欄に記録されているが、当日のスタジオ出演・新規歌唱は未確認。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "TBS。小田和正の番組。C&Aは番組関係者の資料で「共演」欄に記録されているが、当日のスタジオ出演・新規歌唱は未確認。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         },
         {
@@ -33942,10 +33942,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「エクスプレス」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。「NOT AT ALL」ツアー密着・インタビュー。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "TBS。「NOT AT ALL」ツアー密着・インタビュー。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -33996,10 +33996,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ぜっぴんTV」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ東京。時代劇「壬生義士伝」関連番宣・C&Aインタビュー。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "テレビ東京。時代劇「壬生義士伝」関連番宣・C&Aインタビュー。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -34012,10 +34012,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「タモリ倶楽部 空耳アワード2001」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。CHAGEゲスト出演。（cavc非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
+      "note": "テレビ朝日。CHAGEゲスト出演。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
         }
       ]
@@ -34040,7 +34040,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34065,7 +34065,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34090,7 +34090,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34115,7 +34115,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34140,7 +34140,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34153,10 +34153,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「週刊ワンダフル」関連放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。10分でわかるC&Aという特集。本人の新規出演は未確認。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "TBS。10分でわかるC&Aという特集。本人の新規出演は未確認。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -34169,10 +34169,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。「not at all」。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "テレビ朝日。「not at all」。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -34197,7 +34197,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34222,7 +34222,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34247,7 +34247,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34272,7 +34272,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34297,7 +34297,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34322,7 +34322,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34335,14 +34335,14 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア21」出演・放送",
       "status": "recorded",
       "verification": "primary",
-      "note": "フジテレビ。フジテレビ公式バックナンバーでも出演日を確認。cavcの放送局欄「ANB」は誤記（正しくはフジテレビ）。「めぐり逢い」等を披露。歌唱曲の詳細はcavcの記録に基づく。",
+      "note": "フジテレビ。フジテレビ公式バックナンバーでも出演日を確認。二次資料の放送局欄「ANB」は誤記（正しくはフジテレビ）。「めぐり逢い」等を披露。歌唱曲の詳細は二次資料の記録に基づく。",
       "sources": [
         {
           "label": "公式資料",
           "url": "https://www.fujitv.co.jp/MUSICFAIR/bn201603/backnumber.html"
         },
         {
-          "label": "cavc：曲目・番組記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -34367,7 +34367,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34392,7 +34392,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34405,10 +34405,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「マニアマニエラ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ西日本。記録あり。出演内容の詳細は要確認。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "テレビ西日本。記録あり。出演内容の詳細は要確認。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -34433,7 +34433,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34458,7 +34458,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34483,7 +34483,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34508,7 +34508,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34533,7 +34533,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34558,7 +34558,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34583,7 +34583,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34608,7 +34608,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34633,7 +34633,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34658,7 +34658,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34671,10 +34671,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「エクスプレス」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。福岡サンパレスの「1001回目」コンサートに密着したとされる番組。回数は一次資料未照合。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "TBS。福岡サンパレスの「1001回目」コンサートに密着したとされる番組。回数は一次資料未照合。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -34699,7 +34699,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34724,7 +34724,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34749,7 +34749,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34774,7 +34774,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34787,10 +34787,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「GET01」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "毎日放送。出演記録あり。内容詳細未確認。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "毎日放送。出演記録あり。内容詳細未確認。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -34815,7 +34815,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34840,7 +34840,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34853,10 +34853,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MUSIC TRIBE 2002」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "WOWOW。C&Aインタビュー。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "WOWOW。C&Aインタビュー。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -34881,7 +34881,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34906,7 +34906,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34931,7 +34931,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34956,7 +34956,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -34981,7 +34981,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -35006,7 +35006,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -35031,7 +35031,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -35044,10 +35044,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「KYTニュースプラス1」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "鹿児島読売テレビ。C&Aインタビュー。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "鹿児島読売テレビ。C&Aインタビュー。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -35072,7 +35072,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -35097,7 +35097,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -35122,7 +35122,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -35147,7 +35147,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -35172,7 +35172,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -35197,7 +35197,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -35222,7 +35222,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ]
@@ -35235,10 +35235,10 @@ window.CA_EVENT_DATA = {
       "title": "インターネット「COSMO EARTH CONSCIOUS ACT」ライブ中継",
       "status": "recorded",
       "verification": "secondary",
-      "note": "インターネット放送 iiV。同日日本武道館公演のインターネット生中継。公演と放送は区別。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "インターネット放送 iiV。同日日本武道館公演のインターネット生中継。公演と放送は区別。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -35262,7 +35262,7 @@ window.CA_EVENT_DATA = {
           "url": "https://barks.jp/news/557897/"
         },
         {
-          "label": "参加者による開催記録（非公式）",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://plaza.rakuten.co.jp/notatall1227/15001/"
         }
       ],
@@ -35327,7 +35327,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/428.html"
         }
       ]
@@ -35352,7 +35352,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/428.html"
         }
       ]
@@ -35365,10 +35365,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ721。「NOT AT ALL」ツアーの中継・収録番組。インタビューとリハーサル場面を含む。公演開催日ではない。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "フジテレビ721。「NOT AT ALL」ツアーの中継・収録番組。インタビューとリハーサル場面を含む。公演開催日ではない。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -35393,7 +35393,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/428.html"
         }
       ]
@@ -35418,7 +35418,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/428.html"
         }
       ]
@@ -35431,10 +35431,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「真夜中の王国」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK BS2。放送の詳細は未確認。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "NHK BS2。放送の詳細は未確認。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -35459,7 +35459,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/428.html"
         }
       ]
@@ -35484,7 +35484,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/428.html"
         }
       ]
@@ -35509,7 +35509,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/428.html"
         }
       ]
@@ -35534,7 +35534,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/428.html"
         }
       ]
@@ -35547,10 +35547,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コスモ アースコンシャスアクト」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ721。4月22日の日本武道館公演の放送。BoA・倖田來未・INSPiらと同イベント出演。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "フジテレビ721。4月22日の日本武道館公演の放送。BoA・倖田來未・INSPiらと同イベント出演。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -35575,7 +35575,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/428.html"
         }
       ]
@@ -35600,7 +35600,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/428.html"
         }
       ]
@@ -35630,10 +35630,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「STAR STOCK’02」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "KBCテレビ。ゲスト出演記録。野外イベント本番は8月17日であり、6月29日はテレビの放送日。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "KBCテレビ。ゲスト出演記録。野外イベント本番は8月17日であり、6月29日はテレビの放送日。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -35646,10 +35646,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「DUOMO」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "KBCテレビ。C&Aと根本要へのインタビュー。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "KBCテレビ。C&Aと根本要へのインタビュー。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -35712,7 +35712,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -35737,7 +35737,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -35767,10 +35767,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「うたばん」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。「YAH YAH YAH」。企画により照明なしの舞台とする演出。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "TBS。「YAH YAH YAH」。企画により照明なしの舞台とする演出。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -35795,7 +35795,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -35808,10 +35808,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックカクテル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。「YAH YAH YAH」「太陽と埃の中で」「終章（エピローグ）」「WALK」など。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "NHK。「YAH YAH YAH」「太陽と埃の中で」「終章（エピローグ）」「WALK」など。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -35836,7 +35836,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -35849,10 +35849,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「Mの黙示録」関連放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。C&A関連の音楽評論・特集。本人の新規出演は未確認。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "テレビ朝日。C&A関連の音楽評論・特集。本人の新規出演は未確認。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -35877,7 +35877,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -35890,10 +35890,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。「太陽と埃の中で」。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "テレビ朝日。「太陽と埃の中で」。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -35918,7 +35918,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -35943,7 +35943,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -35956,10 +35956,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「HEY!HEY!HEY! MUSIC CHAMP」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「太陽と埃の中で」。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "フジテレビ。「太陽と埃の中で」。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -35984,7 +35984,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -35997,10 +35997,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「FUN」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。「YAH YAH YAH」「太陽と埃の中で」。通販企画も紹介。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "日本テレビ。「YAH YAH YAH」「太陽と埃の中で」。通販企画も紹介。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -36025,7 +36025,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36050,7 +36050,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36063,10 +36063,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE and ASKA 学園祭ライブ～21年目の真実」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK BSハイビジョン。11月1日に開催された青山学院大学学園祭前夜祭ライブの模様と舞台裏。（cavc非公式記録。放送局の一次資料は未照合。）",
+      "note": "NHK BSハイビジョン。11月1日に開催された青山学院大学学園祭前夜祭ライブの模様と舞台裏。（二次資料非公式記録。放送局の一次資料は未照合。）",
       "sources": [
         {
-          "label": "照合資料（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -36091,7 +36091,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36116,7 +36116,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36141,7 +36141,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36166,7 +36166,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36191,7 +36191,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36216,7 +36216,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36241,7 +36241,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36254,14 +36254,14 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ミュージックフェア21」出演・放送",
       "status": "recorded",
       "verification": "primary",
-      "note": "フジテレビ。公式バックナンバーにも出演日が掲載。アルバム「STAMP」制作の話。歌唱曲の詳細はcavcの記録に基づく。",
+      "note": "フジテレビ。公式バックナンバーにも出演日が掲載。アルバム「STAMP」制作の話。歌唱曲の詳細は二次資料の記録に基づく。",
       "sources": [
         {
           "label": "公式資料",
           "url": "https://www.fujitv.co.jp/MUSICFAIR/bn201603/backnumber.html"
         },
         {
-          "label": "cavc：曲目・番組記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
         }
       ]
@@ -36286,7 +36286,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36311,7 +36311,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36336,7 +36336,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36361,7 +36361,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36386,7 +36386,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36411,7 +36411,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36436,7 +36436,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36461,7 +36461,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36474,10 +36474,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MUSIC RA・TE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "中京テレビ。ゲスト出演。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "中京テレビ。ゲスト出演。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -36502,7 +36502,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36527,7 +36527,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36552,7 +36552,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36577,7 +36577,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36602,7 +36602,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36627,7 +36627,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36652,7 +36652,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36677,7 +36677,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36702,7 +36702,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36727,7 +36727,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36752,7 +36752,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36777,7 +36777,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36790,10 +36790,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ザ・ビートファイルJAPAN #43」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "WOWOW。プロモーションビデオの紹介と本人インタビュー。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "WOWOW。プロモーションビデオの紹介と本人インタビュー。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -36818,7 +36818,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36843,7 +36843,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36868,7 +36868,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36893,7 +36893,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36923,10 +36923,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「おんがく」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。Zepp Tokyoでの学生限定ライブを収録した番組。公開録画の実施日は資料から確定できないため、放送日だけを登録。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "TBS。Zepp Tokyoでの学生限定ライブを収録した番組。公開録画の実施日は資料から確定できないため、放送日だけを登録。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -36951,7 +36951,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -36976,7 +36976,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37001,7 +37001,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37026,7 +37026,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37051,7 +37051,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37076,7 +37076,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37101,7 +37101,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37126,7 +37126,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37151,7 +37151,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37176,7 +37176,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37201,7 +37201,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37226,7 +37226,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37251,7 +37251,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37276,7 +37276,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37301,7 +37301,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37326,7 +37326,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37351,7 +37351,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37376,7 +37376,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37401,7 +37401,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37426,7 +37426,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37451,7 +37451,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37476,7 +37476,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37501,7 +37501,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37526,7 +37526,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37551,7 +37551,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
@@ -37564,10 +37564,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "WOWOW。ツアー映像とインタビュー。cavc備考には日本武道館「3月23日」収録と記載があるが、公式公演一覧に当日の武道館公演はない（4月23〜27日）。収録公演日は未確定。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "WOWOW。ツアー映像とインタビュー。二次資料の備考には日本武道館「3月23日」収録と記載があるが、公式公演一覧に当日の武道館公演はない（4月23〜27日）。収録公演日は未確定。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -37580,10 +37580,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「そして音楽が始まる」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ東京系。「ひとり咲き」の誕生に関するインタビュー・ドキュメンタリー。映像の収録公演日については一次資料未照合。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "テレビ東京系。「ひとり咲き」の誕生に関するインタビュー・ドキュメンタリー。映像の収録公演日については一次資料未照合。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -37612,10 +37612,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「めざましテレビ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ゲスト出演の記録。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "フジテレビ。ゲスト出演の記録。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -37647,10 +37647,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MEET THE WORLD BEAT 2003」ライブ中継・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "スペースシャワーTV。同日に万博記念公園で開催された野外イベントをCSで生中継。実際の野外公演とは別の放送記録。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "スペースシャワーTV。同日に万博記念公園で開催された野外イベントをCSで生中継。実際の野外公演とは別の放送記録。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -37718,10 +37718,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「LIVEやろうぜ!」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "RKB。根本要とともにゲスト出演。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "RKB。根本要とともにゲスト出演。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -37734,10 +37734,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ズームイン!! SUPER」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。根本要とともに登場。スターダスト・レビューとの共同楽曲の制作秘話。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "日本テレビ。根本要とともに登場。スターダスト・レビューとの共同楽曲の制作秘話。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -37750,10 +37750,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「LIVEやろうぜ!」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "RKB。9月2日とは別の放送日。根本要とともにゲスト出演。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "RKB。9月2日とは別の放送日。根本要とともにゲスト出演。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -37766,10 +37766,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ワイド!スクランブル」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ朝日。ゲスト出演の記録。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "テレビ朝日。ゲスト出演の記録。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -37799,10 +37799,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「F2」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。根本要とともにゲスト出演。スターダスト・レビューとのコラボについて。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "フジテレビ。根本要とともにゲスト出演。スターダスト・レビューとのコラボについて。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -37815,10 +37815,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「めざましテレビ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ASKAのコメントが放送された記録。本人のスタジオ生出演とは区別。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "フジテレビ。ASKAのコメントが放送された記録。本人のスタジオ生出演とは区別。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -37831,10 +37831,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「筑紫哲也 NEWS23」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。スターダスト・レビューと共演。共同楽曲「デェラ・シエラ・ム」などが放送された記録。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "TBS。スターダスト・レビューと共演。共同楽曲「デェラ・シエラ・ム」などが放送された記録。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -37866,10 +37866,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「RISING SUN ROCK FESTIVAL 2003 in EZO #2」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ721。8月の野外イベント映像を放送。本番の2003年8月16日とは別日。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "フジテレビ721。8月の野外イベント映像を放送。本番の2003年8月16日とは別日。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -37940,7 +37940,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fujitv.co.jp/MUSICFAIR/bn201603/backnumber.html"
         },
         {
-          "label": "cavc｜番組内容（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
@@ -38189,10 +38189,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「スーパーライブ CHAGE and ASKA COUNTDOWN LIVE in SAPPORO DOME」映像放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK BSハイビジョン。2003年12月31日札幌ドームのカウントダウン公演とインタビュー、公開リハーサルの模様。公演開催日とは別。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "NHK BSハイビジョン。2003年12月31日札幌ドームのカウントダウン公演とインタビュー、公開リハーサルの模様。公演開催日とは別。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/73.html"
         }
       ]
@@ -38208,7 +38208,7 @@ window.CA_EVENT_DATA = {
       "note": "東京国際フォーラムで行われた公開収録への出演。観覧者の当日レポートにより日時・会場・出演を確認。一般ツアーとは別のテレビ番組公開収録であり、3月6日放送分と重複しない。公式の当日収録記録は未確認。",
       "sources": [
         {
-          "label": "観覧者による当日の記録（非公式）",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://song2.sakura.ne.jp/liverepo/liverepo_20040226_musicfair.html"
         }
       ],
@@ -38224,10 +38224,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MUSIC FAIR 21 2000回記念 #1」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。2000回記念公開収録の第一夜。2月26日の公開収録実施日とは別。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "フジテレビ。2000回記念公開収録の第一夜。2月26日の公開収録実施日とは別。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/73.html"
         }
       ]
@@ -38240,10 +38240,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「夢・音楽館」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "NHK。ASKAソロ出演。桃井かおりとのトークや歌唱。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "NHK。ASKAソロ出演。桃井かおりとのトークや歌唱。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/73.html"
         }
       ]
@@ -38256,10 +38256,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「スターダスト・レビュー ライブ～LIVE ENTERTAINMENT TOUR “Heaven”～」映像放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "WOWOW。スターダスト・レビューのコンサートからC&Aとの共演場面を放送。C&A単独ライブの開催日ではない。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "WOWOW。スターダスト・レビューのコンサートからC&Aとの共演場面を放送。C&A単独ライブの開催日ではない。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/73.html"
         }
       ]
@@ -38334,7 +38334,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38359,7 +38359,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38372,10 +38372,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「めざましテレビ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「two-five」ツアーのライブ映像が紹介された記録。生出演と断定しない。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "フジテレビ。「two-five」ツアーのライブ映像が紹介された記録。生出演と断定しない。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/73.html"
         }
       ]
@@ -38400,7 +38400,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38425,7 +38425,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38450,7 +38450,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38475,7 +38475,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38500,7 +38500,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38525,7 +38525,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38550,7 +38550,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38575,7 +38575,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38600,7 +38600,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38625,7 +38625,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38650,7 +38650,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38675,7 +38675,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38700,7 +38700,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38725,7 +38725,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38750,7 +38750,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38775,7 +38775,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38800,7 +38800,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38825,7 +38825,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38850,7 +38850,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38875,7 +38875,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38900,7 +38900,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38925,7 +38925,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38950,7 +38950,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -38975,7 +38975,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39000,7 +39000,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39025,7 +39025,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39067,7 +39067,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39092,7 +39092,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39117,7 +39117,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39142,7 +39142,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39167,7 +39167,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39192,7 +39192,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39217,7 +39217,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39242,7 +39242,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39284,7 +39284,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39309,7 +39309,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39329,7 +39329,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fujitv.co.jp/MUSICFAIR/bn201603/backnumber.html"
         },
         {
-          "label": "cavc｜番組内容（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/73.html"
         }
       ]
@@ -39395,10 +39395,10 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「HEY!HEY!HEY! MUSIC CHAMP」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。「36度線-1995夏-」を披露したとされる記録。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "フジテレビ。「36度線-1995夏-」を披露したとされる記録。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/73.html"
         }
       ]
@@ -39423,7 +39423,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39448,7 +39448,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39473,7 +39473,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39498,7 +39498,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39523,7 +39523,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39548,7 +39548,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39573,7 +39573,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39598,7 +39598,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39623,7 +39623,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39648,7 +39648,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39673,7 +39673,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39715,7 +39715,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39740,7 +39740,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39765,7 +39765,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39790,7 +39790,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39815,7 +39815,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39840,7 +39840,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39865,7 +39865,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39890,7 +39890,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39915,7 +39915,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39940,7 +39940,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39965,7 +39965,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -39990,7 +39990,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -40015,7 +40015,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -40093,7 +40093,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -40118,7 +40118,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -40143,7 +40143,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -40168,7 +40168,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -40193,7 +40193,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -40235,7 +40235,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -40260,7 +40260,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -40285,7 +40285,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -40310,7 +40310,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
@@ -40323,11 +40323,27 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「CHAGE and ASKA SPECIAL “two-five”」映像放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "WOWOW。「two-five」ツアー映像とインタビューを放送。2004年の実演日とは区別。（非公式cavc記録、放送局一次資料は未照合。）",
+      "note": "WOWOW。「two-five」ツアー映像とインタビューを放送。2004年の実演日とは区別。（二次資料の記録、放送局一次資料は未照合。）",
       "sources": [
         {
-          "label": "放送記録（非公式）",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/73.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18214-2005-001",
+      "date": "2005-01-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE and ASKA CONCERT TOUR 2004 two-five」ライブ映像放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "WOWOW。2004年ツアーの公演映像を放送した記録。公演日ではなく放送日を登録。放送局の一次記録は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/74.html"
         }
       ]
     },
@@ -40381,6 +40397,22 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "CHAGE and ASKA 25th Anniversary Special チャゲ&飛鳥 熱風コンサート"
     },
     {
+      "id": "media-v18214-2005-002",
+      "date": "2005-08-02",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「めざましテレビ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。Chageの短編映画制作に関する紹介・本人出演の記録。放送局の一次記録は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/74.html"
+        }
+      ]
+    },
+    {
       "id": "release-2005-08-25-chage-and-aska-concert-tour-2004-two-five",
       "date": "2005-08-25",
       "artist": "CHAGE and ASKA",
@@ -40388,7 +40420,7 @@ window.CA_EVENT_DATA = {
       "title": "『CHAGE and ASKA CONCERT TOUR 2004 two-five』発売",
       "status": "released",
       "verification": "primary",
-      "note": "形態：ファンクラブ限定DVD",
+      "note": "形態：ファンクラブ限定DVD。一般発売は2006年2月1日（別レコード）",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -40417,6 +40449,38 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18214-2005-003",
+      "date": "2005-09-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「晴れ・どきドキ晴れ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "CBCテレビ。Chageゲスト出演の記録。放送局の一次記録は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/74.html"
+        }
+      ]
+    },
+    {
+      "id": "other-v18214-2005-001",
+      "date": "2005-09-10",
+      "artist": "Chage",
+      "category": "other",
+      "title": "短編映画『missing pages』招待上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "愛・地球博の短編映画祭でChageが制作した作品を上映。既存の同日ミニライブはライブ記録として別に維持。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
       "id": "live-chagehaku-2005-001",
       "date": "2005-10-21",
       "artist": "Chage",
@@ -40432,7 +40496,7 @@ window.CA_EVENT_DATA = {
       "note": "ファンクラブ会員イベント・初日",
       "sources": [
         {
-          "label": "参考公演資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/383.html"
         }
       ]
@@ -40453,7 +40517,7 @@ window.CA_EVENT_DATA = {
       "note": "ファンクラブ会員イベント",
       "sources": [
         {
-          "label": "参考公演資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/383.html"
         }
       ]
@@ -40474,7 +40538,7 @@ window.CA_EVENT_DATA = {
       "note": "ファンクラブ会員イベント",
       "sources": [
         {
-          "label": "参考公演資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/383.html"
         }
       ]
@@ -40495,7 +40559,7 @@ window.CA_EVENT_DATA = {
       "note": "ファンクラブ会員イベント",
       "sources": [
         {
-          "label": "参考公演資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/383.html"
         }
       ]
@@ -40516,7 +40580,7 @@ window.CA_EVENT_DATA = {
       "note": "ファンクラブ会員イベント",
       "sources": [
         {
-          "label": "参考公演資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/383.html"
         }
       ]
@@ -40535,7 +40599,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考公演資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -40556,7 +40620,7 @@ window.CA_EVENT_DATA = {
       "note": "ファンクラブ会員イベント・最終公演",
       "sources": [
         {
-          "label": "参考公演資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/383.html"
         }
       ]
@@ -40634,6 +40698,42 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "SCENE III"
     },
     {
+      "id": "media-v18214-2005-004",
+      "date": "2005-11-26",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「MUSIC FAIR 21」出演・放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "フジテレビ。スティーヴィー・ワンダーとともに出演。2005年11月26日放送を番組公式バックナンバーで確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://www.fujitv.co.jp/MUSICFAIR/bn201603/backnumber.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18214-2005-005",
+      "date": "2005-12-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「TALK Asia」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "CNNj。CHAGE and ASKAのインタビュー番組が12月2日から放送された当時の記録。12月3・4日の再放送と区別し初回日で登録。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/74.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://chageandaska825.seesaa.net/article/10202250.html"
+        }
+      ]
+    },
+    {
       "id": "release-2005-12-07-missing-pages",
       "date": "2005-12-07",
       "artist": "Chage",
@@ -40662,15 +40762,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 1,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "ツアー初日",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -40687,15 +40787,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 2,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -40712,15 +40812,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 3,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -40737,15 +40837,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 4,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -40762,15 +40862,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 5,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -40787,15 +40887,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 6,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -40812,15 +40912,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 7,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -40837,15 +40937,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 8,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -40862,15 +40962,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 9,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -40887,15 +40987,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 10,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -40912,16 +41012,32 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 11,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18214-2006-001",
+      "date": "2006-01-16",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "ラジオ「PRIME HITZ 802」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "FM802。ASKAが出演した特集放送について、当日の記録が残る。番組の一次記録は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://chageandaska825.seesaa.net/article/11783266.html"
         }
       ]
     },
@@ -40937,15 +41053,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 12,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -40962,16 +41078,65 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 13,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
+        }
+      ]
+    },
+    {
+      "id": "release-v18214-2006-001",
+      "date": "2006-01-18",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『SCENE of SCENE ～selected 6 songs from SCENE I,II,III～』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "企画アルバム。初回限定盤（DVD付）と期間限定盤を同じ発売記録にまとめる。レーベル公式による確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://www.universal-music.co.jp/p/umck-9140/"
+        }
+      ],
+      "releaseTitle": "SCENE of SCENE ～selected 6 songs from SCENE I,II,III～"
+    },
+    {
+      "id": "media-v18214-2006-002",
+      "date": "2006-01-19",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "ラジオ「MUSIC SOLEIL LUNCHTIME SATELLITE」コメント出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "広島FM。ASKAのコメント出演の記録。スタジオ生出演とは区別。放送局の一次記録は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://chageandaska825.seesaa.net/article/11932767.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18214-2006-005",
+      "date": "2006-01-20",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "ラジオ「MORNING ALIVE」コメント出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "広島FM。ASKAのコメント出演について当日の記録を確認。放送局の一次記録は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://chageandaska825.seesaa.net/article/11980013.html"
         }
       ]
     },
@@ -40987,15 +41152,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 14,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41012,15 +41177,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 15,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41037,15 +41202,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 16,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41062,15 +41227,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 17,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41087,18 +41252,35 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 18,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
+    },
+    {
+      "id": "release-v18214-2006-002",
+      "date": "2006-02-01",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA CONCERT TOUR 2004 two-five』一般発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "ライブDVDの一般発売。2005年8月25日のファンクラブ限定版とは発売形態・発売日が異なるため別記録。公式ディスコグラフィー確認済み。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://www.universal-music.co.jp/p/UMBK-1094/"
+        }
+      ],
+      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 2004 two-five"
     },
     {
       "id": "live-my-game-is-aska-2005-2006-019",
@@ -41112,15 +41294,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 19,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41137,15 +41319,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 20,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41162,15 +41344,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 21,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41187,15 +41369,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 22,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41212,15 +41394,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 23,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41237,15 +41419,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 24,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41262,15 +41444,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 25,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41287,15 +41469,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 26,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41312,15 +41494,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 27,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41337,15 +41519,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 28,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41362,15 +41544,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 29,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41387,15 +41569,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 30,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41412,15 +41594,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 31,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41437,15 +41619,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 32,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41462,15 +41644,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 33,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
         }
       ]
@@ -41487,16 +41669,32 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 34,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "ツアー最終日",
       "sources": [
         {
-          "label": "CHAGE and ASKA公式HISTORY",
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18214-2006-003",
+      "date": "2006-05-19",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「ASKA CONCERT TOUR 05>>06 My Game is ASKA」ライブ放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "WOWOW。コンサート映像を放送。実際の公演日とは区別。放送日を当時の視聴記録と照合し、放送局の一次記録は未確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://ca-treasurebox.seesaa.net/category/1111123-3.html"
         }
       ]
     },
@@ -41550,8 +41748,28 @@ window.CA_EVENT_DATA = {
       "note": "イベント出演",
       "sources": [
         {
-          "label": "参考公演資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/453.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18214-2006-004",
+      "date": "2006-12-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「SUPER J-HITS RADIO CHAGE and ASKA SPECIAL」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "FM802。CHAGE and ASKA特集（19〜21時）。当時の放送告知に加え、翌日の視聴記録を照合。放送局の一次記録は未確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://rockdom.seesaa.net/article/29640411.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://rockdom.seesaa.net/category/1179385-1.html"
         }
       ]
     },
@@ -42766,7 +42984,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ]
@@ -42792,7 +43010,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ]
@@ -42818,7 +43036,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ]
@@ -42844,7 +43062,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ]
@@ -42887,7 +43105,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ]
@@ -42913,7 +43131,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ]
@@ -42939,7 +43157,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ]
@@ -42965,7 +43183,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ]
@@ -42991,7 +43209,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ]
@@ -43017,7 +43235,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ]
@@ -43043,7 +43261,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "補助資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ]
@@ -47504,7 +47722,7 @@ window.CA_EVENT_DATA = {
       "note": "【延期・当日公演なし】2011年2月14日に振替開催",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/458.html"
         }
       ],
@@ -47539,7 +47757,7 @@ window.CA_EVENT_DATA = {
       "note": "【延期・当日公演なし】2011年3月1日に振替開催",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/458.html"
         }
       ],
@@ -47558,7 +47776,7 @@ window.CA_EVENT_DATA = {
       "note": "【延期・当日公演なし】2011年3月2日に振替開催",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/458.html"
         }
       ],
@@ -50401,7 +50619,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2010.php"
         },
         {
-          "label": "参考資料",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ca-treasurebox.seesaa.net/article/480177905.html"
         }
       ],
@@ -50636,7 +50854,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -50662,7 +50880,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -50688,7 +50906,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -50714,7 +50932,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -50782,7 +51000,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -50808,7 +51026,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -50834,7 +51052,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -50860,7 +51078,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -50928,7 +51146,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -50954,7 +51172,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -51022,7 +51240,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -51048,7 +51266,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -51095,7 +51313,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -51121,7 +51339,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -51147,7 +51365,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -51173,7 +51391,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -51199,7 +51417,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -51225,7 +51443,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -51272,7 +51490,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -51298,7 +51516,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2014.php"
         },
         {
-          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://ja.wikipedia.org/wiki/Chage"
         }
       ],
@@ -53264,7 +53482,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/341.html"
         }
       ]
@@ -53280,7 +53498,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/341.html"
         }
       ]
@@ -53296,7 +53514,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/341.html"
         }
       ]
@@ -53312,7 +53530,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/341.html"
         }
       ]
@@ -53344,7 +53562,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/341.html"
         }
       ]
@@ -53360,7 +53578,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "ASKA活動履歴",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2017"
         }
       ]
@@ -53395,7 +53613,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/341.html"
         }
       ]
@@ -53411,7 +53629,7 @@ window.CA_EVENT_DATA = {
       "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認",
       "sources": [
         {
-          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         }
       ],
@@ -53432,11 +53650,11 @@ window.CA_EVENT_DATA = {
       "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）",
       "sources": [
         {
-          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         },
         {
-          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
@@ -53457,11 +53675,11 @@ window.CA_EVENT_DATA = {
       "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）",
       "sources": [
         {
-          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         },
         {
-          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
@@ -53482,11 +53700,11 @@ window.CA_EVENT_DATA = {
       "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）",
       "sources": [
         {
-          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         },
         {
-          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
@@ -53507,11 +53725,11 @@ window.CA_EVENT_DATA = {
       "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）",
       "sources": [
         {
-          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         },
         {
-          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
@@ -53532,7 +53750,7 @@ window.CA_EVENT_DATA = {
       "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認",
       "sources": [
         {
-          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         }
       ],
@@ -53553,7 +53771,7 @@ window.CA_EVENT_DATA = {
       "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認",
       "sources": [
         {
-          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         }
       ],
@@ -53593,11 +53811,11 @@ window.CA_EVENT_DATA = {
       "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）",
       "sources": [
         {
-          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         },
         {
-          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
@@ -53618,11 +53836,11 @@ window.CA_EVENT_DATA = {
       "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）",
       "sources": [
         {
-          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         },
         {
-          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
@@ -53659,11 +53877,11 @@ window.CA_EVENT_DATA = {
       "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）",
       "sources": [
         {
-          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         },
         {
-          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
@@ -53684,11 +53902,11 @@ window.CA_EVENT_DATA = {
       "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）",
       "sources": [
         {
-          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         },
         {
-          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
@@ -54344,7 +54562,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "ASKA活動履歴",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
         }
       ]
@@ -54360,7 +54578,7 @@ window.CA_EVENT_DATA = {
       "note": "ファンクラブではなくオフィシャルサイト開設日",
       "sources": [
         {
-          "label": "公式本人発信・年表",
+          "label": "参考資料（非公式）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
         }
       ]
@@ -54392,7 +54610,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
         }
       ]
@@ -54408,7 +54626,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "ASKA活動履歴",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
         }
       ]
@@ -54424,7 +54642,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "ASKA活動履歴",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
         }
       ]
@@ -54456,7 +54674,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
         }
       ]
@@ -54491,7 +54709,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "ASKA活動履歴",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
         }
       ]
@@ -54549,7 +54767,7 @@ window.CA_EVENT_DATA = {
       "note": "公式サイト開設日（1月19日）と区別",
       "sources": [
         {
-          "label": "公式本人発信・年表",
+          "label": "参考資料（非公式）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
         }
       ]
@@ -54644,7 +54862,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "ASKA活動履歴",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
         }
       ]
@@ -54752,7 +54970,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
         }
       ]
@@ -54768,7 +54986,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "ASKA活動履歴",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
         }
       ]
@@ -54784,7 +55002,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
         }
       ]
@@ -54800,7 +55018,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
         }
       ]
@@ -54816,7 +55034,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
         }
       ]
@@ -54832,7 +55050,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "ASKA活動履歴",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
         }
       ]
@@ -54848,7 +55066,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "ASKA活動履歴",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
         }
       ]
@@ -54864,7 +55082,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
         }
       ]
@@ -54880,7 +55098,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
         }
       ]
@@ -54896,7 +55114,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "ASKA活動履歴",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
         }
       ]
@@ -54928,7 +55146,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
         }
       ]
@@ -54982,7 +55200,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "公式本人発信・年表",
+          "label": "参考資料（非公式）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
         }
       ]
@@ -55020,7 +55238,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "ASKA活動履歴",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
         }
       ]
@@ -55253,7 +55471,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "ASKA活動履歴",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
         }
       ]
@@ -55269,7 +55487,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
         }
       ]
@@ -55301,7 +55519,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
         }
       ]
@@ -55339,7 +55557,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
         }
       ]
@@ -55488,7 +55706,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
         }
       ]
@@ -55654,7 +55872,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
         }
       ]
@@ -55670,7 +55888,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/343.html"
         }
       ]
@@ -55686,7 +55904,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/343.html"
         }
       ]
@@ -55702,7 +55920,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/343.html"
         }
       ]
@@ -55993,7 +56211,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "ASKA活動履歴",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2019"
         }
       ]
@@ -56402,7 +56620,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
       "sources": [
         {
-          "label": "映像情報メディア管理センター",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/343.html"
         }
       ]
@@ -56437,7 +56655,7 @@ window.CA_EVENT_DATA = {
       "note": "台湾公演（国内17公演には含まない）",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/267.html"
         }
       ],
@@ -56454,7 +56672,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- HONG KONG",
       "status": "recorded",
       "verification": "primary",
-      "note": "香港公演（6月16日終演）。会場はarchives wikiも照合",
+      "note": "香港公演（6月16日終演）。会場は二次資料も照合",
       "sources": [
         {
           "label": "ASKA公式ブログ",
@@ -56559,7 +56777,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "ASKA活動履歴",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2019"
         }
       ]
@@ -56782,7 +57000,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "ASKA活動履歴",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2019"
         }
       ]
@@ -56986,7 +57204,7 @@ window.CA_EVENT_DATA = {
       "note": "実施済み（2019年分4公演は登録済み）",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
@@ -57023,7 +57241,7 @@ window.CA_EVENT_DATA = {
       "note": "開催されていない予定。開催済み公演数に含めない／ASKA急性咽頭炎で延期、後に振替も中止",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演変更履歴",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
@@ -57102,7 +57320,7 @@ window.CA_EVENT_DATA = {
       "note": "実施済み（2019年分4公演は登録済み）",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
@@ -57139,7 +57357,7 @@ window.CA_EVENT_DATA = {
       "note": "実施済み（2019年分4公演は登録済み）",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
@@ -57160,7 +57378,7 @@ window.CA_EVENT_DATA = {
       "note": "実施済み（2019年分4公演は登録済み）",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
@@ -57181,7 +57399,7 @@ window.CA_EVENT_DATA = {
       "note": "実施済み（2019年分4公演は登録済み）",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
@@ -57202,7 +57420,7 @@ window.CA_EVENT_DATA = {
       "note": "実施済み（2019年分4公演は登録済み）",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
@@ -57242,7 +57460,7 @@ window.CA_EVENT_DATA = {
       "note": "実施済み（2019年分4公演は登録済み）",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
@@ -57263,7 +57481,7 @@ window.CA_EVENT_DATA = {
       "note": "実施済み（2019年分4公演は登録済み）／追加公演",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
@@ -57319,7 +57537,7 @@ window.CA_EVENT_DATA = {
       "note": "開催されていない予定。開催済み公演数に含めない／1月6日の振替予定。感染症の影響で中止",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演変更履歴",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
@@ -57340,7 +57558,7 @@ window.CA_EVENT_DATA = {
       "note": "開催されていない予定。開催済み公演数に含めない／特別公演予定。感染症の影響で中止",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演変更履歴",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
@@ -58608,7 +58826,7 @@ window.CA_EVENT_DATA = {
       "note": "テレビ特番の放送日",
       "sources": [
         {
-          "label": "ASKA活動履歴・番組記録",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://cosmos.ladomi.net/interview"
         }
       ]
@@ -61188,7 +61406,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61209,7 +61427,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61267,7 +61485,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61327,7 +61545,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61348,7 +61566,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61369,7 +61587,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61390,7 +61608,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61411,7 +61629,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61432,7 +61650,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61453,7 +61671,7 @@ window.CA_EVENT_DATA = {
       "note": "追加公演・映像収録",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61573,7 +61791,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61594,7 +61812,7 @@ window.CA_EVENT_DATA = {
       "note": "追加公演",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61615,7 +61833,7 @@ window.CA_EVENT_DATA = {
       "note": "追加公演",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61636,7 +61854,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61707,7 +61925,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61728,7 +61946,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -61797,7 +62015,7 @@ window.CA_EVENT_DATA = {
       "note": "追加公演・ツアーファイナル",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
         }
       ],
@@ -62565,7 +62783,7 @@ window.CA_EVENT_DATA = {
       "note": "1日2ステージ",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         }
       ],
@@ -62587,7 +62805,7 @@ window.CA_EVENT_DATA = {
       "note": "1日2ステージ",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         }
       ],
@@ -62609,7 +62827,7 @@ window.CA_EVENT_DATA = {
       "note": "1日2ステージ",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         }
       ],
@@ -62631,7 +62849,7 @@ window.CA_EVENT_DATA = {
       "note": "1日2ステージ",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         }
       ],
@@ -62653,7 +62871,7 @@ window.CA_EVENT_DATA = {
       "note": "1日2ステージ",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         }
       ],
@@ -62675,7 +62893,7 @@ window.CA_EVENT_DATA = {
       "note": "1日2ステージ",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
         }
       ],
@@ -65042,7 +65260,7 @@ window.CA_EVENT_DATA = {
       "note": "【延期前の予定日・開催なし】後日8月23日に設定されたが中止。公演総数から除外",
       "sources": [
         {
-          "label": "アジア公演延期・中止履歴",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/268.html"
         }
       ],
@@ -65115,7 +65333,7 @@ window.CA_EVENT_DATA = {
       "note": "【延期発表】当日未開催。実施公演ではない",
       "sources": [
         {
-          "label": "アジア公演延期・中止履歴",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/268.html"
         }
       ],
@@ -65154,7 +65372,7 @@ window.CA_EVENT_DATA = {
       "note": "【延期発表】当日未開催。実施公演ではない",
       "sources": [
         {
-          "label": "アジア公演延期・中止履歴",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/268.html"
         }
       ],
@@ -65849,7 +66067,7 @@ window.CA_EVENT_DATA = {
       "note": "【中止】3月開催予定の振替日。実施公演ではない",
       "sources": [
         {
-          "label": "アジア公演延期・中止履歴",
+          "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/268.html"
         }
       ],
@@ -67210,7 +67428,7 @@ window.CA_EVENT_DATA = {
       "note": "2025年出演映像の放送",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
         }
       ]
@@ -67301,10 +67519,10 @@ window.CA_EVENT_DATA = {
       "status": "released",
       "verification": "secondary",
       "releaseTitle": "FIRST SAIL “COMTEC PORTBASE OPENING CEREMONY” ～ ASKA Live Docking ～",
-      "note": "2025年4月16日公演の収録映像配信。cavcによる補助確認",
+      "note": "2025年4月16日公演の収録映像配信。二次資料による補助確認",
       "sources": [
         {
-          "label": "公式発売案内・cavc補助",
+          "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
         }
       ]
@@ -67524,7 +67742,7 @@ window.CA_EVENT_DATA = {
       "note": "密着ドキュメンタリー",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
         }
       ]
@@ -67540,7 +67758,7 @@ window.CA_EVENT_DATA = {
       "note": "1月公演収録映像の放送",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
         }
       ]
@@ -67575,7 +67793,7 @@ window.CA_EVENT_DATA = {
       "note": "玉置浩二と共演。放送日に登録",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
         }
       ]
@@ -67913,7 +68131,7 @@ window.CA_EVENT_DATA = {
       "note": "放送・配信日",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
         }
       ]
@@ -67929,7 +68147,7 @@ window.CA_EVENT_DATA = {
       "note": "放送・配信日",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
         }
       ]
@@ -67979,7 +68197,7 @@ window.CA_EVENT_DATA = {
       "note": "放送・配信日",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
         }
       ]
@@ -68016,7 +68234,7 @@ window.CA_EVENT_DATA = {
       "note": "放送・配信日",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
         }
       ]
@@ -68275,7 +68493,7 @@ window.CA_EVENT_DATA = {
       "note": "Chage出演VTR",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
         }
       ]
@@ -68457,7 +68675,7 @@ window.CA_EVENT_DATA = {
       "note": "本人ブログで出演後を確認",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（確認元）",
           "url": "https://www.fellows.tokyo/blog/detail/1433/"
         }
       ]
@@ -68654,7 +68872,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（確認元）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ]
@@ -68708,7 +68926,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（確認元）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ]
@@ -68724,7 +68942,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（確認元）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ]
@@ -68762,7 +68980,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（確認元）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ]
@@ -68821,7 +69039,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（確認元）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ]
@@ -68873,7 +69091,7 @@ window.CA_EVENT_DATA = {
       "note": "公式スタッフブログの開始記録",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（確認元）",
           "url": "https://www.fellows.tokyo/"
         }
       ]
@@ -68911,7 +69129,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（確認元）",
           "url": "https://chage.jp/information/media/detail-886.php"
         }
       ]
@@ -68970,7 +69188,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（確認元）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ]
@@ -69046,7 +69264,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（確認元）",
           "url": "https://chage.jp/information/media/detail-886.php"
         }
       ]
@@ -69062,7 +69280,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（確認元）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ]
@@ -69198,7 +69416,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（確認元）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ]
@@ -69258,7 +69476,7 @@ window.CA_EVENT_DATA = {
       "note": "公式告知にて確認",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（確認元）",
           "url": "https://www.fellows.tokyo/"
         }
       ]
@@ -69380,7 +69598,7 @@ window.CA_EVENT_DATA = {
       "note": "公式スケジュール告知",
       "sources": [
         {
-          "label": "公式・cavcメディア記録",
+          "label": "参考資料（確認元）",
           "url": "https://www.fellows.tokyo/"
         }
       ]
@@ -69866,5 +70084,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-13"
+  "siteVersion": "1.8.2-14"
 };
