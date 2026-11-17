@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "notice": "1990～1992年のC&A・MULTI MAX公演日程、ファンイベント、作品発売記録を追加。公式Historyの公演数表記と日程掲載行数に相違（SEE YA!!：57公演/61行、SAY YES：54公演/58行）があるため、掲載日程は保持し要照合。サイト全体は未網羅。",
+  "notice": "部分収録：1043件（ライブ関連954・作品発売88・その他1）。延期公演は実施済みとは区別。公式History・ladomi・Wiki等で照合。未網羅・一部要確認。",
   "lastUpdated": "2026-11-17",
   "events": [
     {
@@ -16391,6 +16391,54 @@
       ]
     },
     {
+      "id": "live-say-yes-1992-postponed-1992-01-10",
+      "date": "1992-01-10",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "鹿児島市民文化ホール",
+      "prefecture": "鹿児島県",
+      "country": "日本",
+      "status": "postponed",
+      "verification": "secondary",
+      "note": "延期・当日開催なし。振替公演：1992-05-14。当初日程は会報情報を引用した二次資料による。",
+      "sources": [
+        {
+          "label": "公演延期記録（会報2000年12月号の二次引用）",
+          "url": "https://mixi.jp/view_bbs.pl?comm_id=2049233&from=cross_search&id=17520547"
+        },
+        {
+          "label": "CHAGE and ASKA公式History｜振替公演",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1992-postponed-1992-01-11",
+      "date": "1992-01-11",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "鹿児島市民文化ホール",
+      "prefecture": "鹿児島県",
+      "country": "日本",
+      "status": "postponed",
+      "verification": "secondary",
+      "note": "延期・当日開催なし。振替公演：1992-05-15。当初日程は会報情報を引用した二次資料による。",
+      "sources": [
+        {
+          "label": "公演延期記録（会報2000年12月号の二次引用）",
+          "url": "https://mixi.jp/view_bbs.pl?comm_id=2049233&from=cross_search&id=17520547"
+        },
+        {
+          "label": "CHAGE and ASKA公式History｜振替公演",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
       "id": "live-say-yes-1991-1992-048",
       "date": "1992-01-14",
       "artist": "CHAGE and ASKA",
@@ -17429,7 +17477,7 @@
       "performanceNo": 57,
       "status": "recorded",
       "verification": "primary",
-      "note": "振替公演。公式History日程表には掲載、ツアー終了日・公演数表記との関係は確認待ち",
+      "note": "振替公演（当初予定：1992-01-10）。公式Historyに振替日程として掲載。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
@@ -17454,7 +17502,7 @@
       "performanceNo": 58,
       "status": "recorded",
       "verification": "primary",
-      "note": "振替公演。公式History日程表には掲載、ツアー終了日・公演数表記との関係は確認待ち",
+      "note": "振替公演（当初予定：1992-01-11）。公式Historyに振替日程として掲載。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
@@ -18393,6 +18441,48 @@
       ]
     },
     {
+      "id": "live-save-children-fc-1993-001",
+      "date": "1993-12-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SAVE THE CHILDREN WITH CHAGE and ASKA FC SPECIAL EVENT",
+      "tourId": "save-children-fc-1993",
+      "venue": "日本武道館",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-save-children-fc-1993-002",
+      "date": "1993-12-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SAVE THE CHILDREN WITH CHAGE and ASKA FC SPECIAL EVENT",
+      "tourId": "save-children-fc-1993",
+      "venue": "日本武道館",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
       "id": "live-longest-tour-1993-1994-031",
       "date": "1994-01-07",
       "artist": "CHAGE and ASKA",
@@ -19231,6 +19321,2839 @@
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
+    },
+    {
+      "id": "live-asian-tour-1994-001",
+      "date": "1994-04-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ASIAN TOUR 1994",
+      "tourId": "asian-tour-1994",
+      "venue": "香港コロシアム",
+      "country": "香港",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-asian-tour-1994-002",
+      "date": "1994-04-30",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ASIAN TOUR 1994",
+      "tourId": "asian-tour-1994",
+      "venue": "香港コロシアム",
+      "country": "香港",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-asian-tour-1994-003",
+      "date": "1994-05-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ASIAN TOUR 1994",
+      "tourId": "asian-tour-1994",
+      "venue": "シンガポール・インドアスタジアム",
+      "country": "シンガポール",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-asian-tour-1994-004",
+      "date": "1994-05-08",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ASIAN TOUR 1994",
+      "tourId": "asian-tour-1994",
+      "venue": "シンガポール・インドアスタジアム",
+      "country": "シンガポール",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "公式本文は全5公演、個別日程欄では5/8が欠落。ladomi／公演資料で日付を補完（要原典照合）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ladomi.net｜1994年アジアツアー公演日程",
+          "url": "https://ca.ladomi.net/live_ca",
+          "verification": "secondary"
+        },
+        {
+          "label": "CHAGE and ASKA関連Wiki｜1994年",
+          "url": "https://w.atwiki.jp/cavc/pages/83.html"
+        }
+      ]
+    },
+    {
+      "id": "live-asian-tour-1994-005",
+      "date": "1994-05-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ASIAN TOUR 1994",
+      "tourId": "asian-tour-1994",
+      "venue": "台北市立体育場",
+      "country": "台湾",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v06-1994-08-03-125",
+      "date": "1994-08-03",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『HEART/NATURAL/On Your Mark』発売",
+      "releaseTitle": "HEART/NATURAL/On Your Mark",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v06-1994-08-25-126",
+      "date": "1994-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Yin & Yang』発売",
+      "releaseTitle": "Yin & Yang",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v06-1994-10-05-127",
+      "date": "1994-10-05",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『愛の空で』発売",
+      "releaseTitle": "愛の空で",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v06-1994-11-16-128",
+      "date": "1994-11-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『めぐり逢い』発売",
+      "releaseTitle": "めぐり逢い",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v06-1994-11-16-129",
+      "date": "1994-11-16",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『Well, Well, Well』発売",
+      "releaseTitle": "Well, Well, Well",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-001",
+      "date": "1994-11-22",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "新宿パワーステーション",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-002",
+      "date": "1994-11-25",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "クラブチッタ川崎",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-003",
+      "date": "1994-12-02",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "大阪フェスティバルホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-004",
+      "date": "1994-12-03",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "大阪ウォーホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-005",
+      "date": "1994-12-06",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "札幌市民会館",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-006",
+      "date": "1994-12-08",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "仙台イズミティ21",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-007",
+      "date": "1994-12-10",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "千葉県文化会館",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "千葉県"
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-008",
+      "date": "1994-12-12",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "大宮ソニックシティ",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "埼玉県"
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-009",
+      "date": "1994-12-14",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "神戸文化ホール（大）",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "兵庫県"
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-010",
+      "date": "1994-12-15",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "広島アステールプラザ（大）",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "release-v06-1994-12-16-130",
+      "date": "1994-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SUPER BEST BOX SINGLE HISTORY 1979-1994 AND Snow Mail』発売",
+      "releaseTitle": "SUPER BEST BOX SINGLE HISTORY 1979-1994 AND Snow Mail",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-011",
+      "date": "1994-12-17",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "福岡サンパレス",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-012",
+      "date": "1994-12-19",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-013",
+      "date": "1994-12-20",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-014",
+      "date": "1994-12-23",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "名古屋ボトムライン",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-015",
+      "date": "1994-12-24",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "名古屋国際会議場センチュリーホール",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-multi-max-well-well-well-1994-016",
+      "date": "1994-12-26",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
+      "tourId": "multi-max-well-well-well-1994",
+      "venue": "日本武道館",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "release-v06-1995-01-01-131",
+      "date": "1995-01-01",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『晴天を誉めるなら夕暮れを待て』発売",
+      "releaseTitle": "晴天を誉めるなら夕暮れを待て",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v06-1995-02-27-132",
+      "date": "1995-02-27",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『NEVER END』発売",
+      "releaseTitle": "NEVER END",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v06-1995-05-10-133",
+      "date": "1995-05-10",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Something There』発売",
+      "releaseTitle": "Something There",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v06-1995-06-28-134",
+      "date": "1995-06-28",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Code Name.1 Brother Sun』発売",
+      "releaseTitle": "Code Name.1 Brother Sun",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-mission-impossible-preview-1995-001",
+      "date": "1995-06-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE “PREVIEW”",
+      "tourId": "mission-impossible-preview-1995",
+      "venue": "幕張メッセイベントホール",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ファンクラブ会員限定プレビュー公演。全国ツアー60公演とは別枠",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "千葉県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-001",
+      "date": "1995-07-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "仙台市体育館",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-002",
+      "date": "1995-07-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "仙台市体育館",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-003",
+      "date": "1995-07-08",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "仙台市体育館",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-004",
+      "date": "1995-07-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "仙台市体育館",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-005",
+      "date": "1995-07-11",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "仙台市体育館",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-006",
+      "date": "1995-07-12",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "仙台市体育館",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-007",
+      "date": "1995-07-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "真駒内アイスアリーナ",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-008",
+      "date": "1995-07-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "真駒内アイスアリーナ",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-009",
+      "date": "1995-07-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "真駒内アイスアリーナ",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-010",
+      "date": "1995-07-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "真駒内アイスアリーナ",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-011",
+      "date": "1995-07-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "真駒内アイスアリーナ",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-012",
+      "date": "1995-08-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-013",
+      "date": "1995-08-10",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-014",
+      "date": "1995-08-12",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-015",
+      "date": "1995-08-13",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-016",
+      "date": "1995-08-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-017",
+      "date": "1995-08-16",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-018",
+      "date": "1995-08-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "横浜アリーナ",
+      "country": "日本",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-019",
+      "date": "1995-08-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "横浜アリーナ",
+      "country": "日本",
+      "performanceNo": 19,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-020",
+      "date": "1995-08-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "横浜アリーナ",
+      "country": "日本",
+      "performanceNo": 20,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-021",
+      "date": "1995-08-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "横浜アリーナ",
+      "country": "日本",
+      "performanceNo": 21,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-022",
+      "date": "1995-09-13",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "広島グリーンアリーナ",
+      "country": "日本",
+      "performanceNo": 22,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-023",
+      "date": "1995-09-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "広島グリーンアリーナ",
+      "country": "日本",
+      "performanceNo": 23,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-024",
+      "date": "1995-09-16",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "広島グリーンアリーナ",
+      "country": "日本",
+      "performanceNo": 24,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-025",
+      "date": "1995-09-17",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "広島グリーンアリーナ",
+      "country": "日本",
+      "performanceNo": 25,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-026",
+      "date": "1995-09-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 26,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-027",
+      "date": "1995-09-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 27,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-028",
+      "date": "1995-09-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 28,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-029",
+      "date": "1995-10-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 29,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-030",
+      "date": "1995-10-03",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 30,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-031",
+      "date": "1995-10-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 31,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-asian-mission-impossible-1995-1996-001",
+      "date": "1995-11-11",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ASIAN TOUR II MISSION IMPOSSIBLE",
+      "tourId": "asian-mission-impossible-1995-1996",
+      "venue": "台北市立体育場",
+      "country": "台湾",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "公式History本文に同日の上海イベント出演記事もあり、要日程照合",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式History本文に同日別イベントの記載あり",
+          "url": "https://www.chage-aska.net/history/1990.php",
+          "verification": "secondary"
+        }
+      ]
+    },
+    {
+      "id": "live-asian-mission-impossible-1995-1996-002",
+      "date": "1995-11-12",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ASIAN TOUR II MISSION IMPOSSIBLE",
+      "tourId": "asian-mission-impossible-1995-1996",
+      "venue": "台北市立体育場",
+      "country": "台湾",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-032",
+      "date": "1995-11-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 32,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-033",
+      "date": "1995-11-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 33,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-034",
+      "date": "1995-11-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 34,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-035",
+      "date": "1995-11-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 35,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-036",
+      "date": "1995-12-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 36,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-037",
+      "date": "1995-12-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 37,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-038",
+      "date": "1995-12-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 38,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-039",
+      "date": "1995-12-10",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 39,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-040",
+      "date": "1995-12-13",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "横浜アリーナ",
+      "country": "日本",
+      "performanceNo": 40,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-041",
+      "date": "1995-12-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "横浜アリーナ",
+      "country": "日本",
+      "performanceNo": 41,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-042",
+      "date": "1995-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "横浜アリーナ",
+      "country": "日本",
+      "performanceNo": 42,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-043",
+      "date": "1995-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "横浜アリーナ",
+      "country": "日本",
+      "performanceNo": 43,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-044",
+      "date": "1995-12-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 44,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-045",
+      "date": "1995-12-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 45,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-046",
+      "date": "1995-12-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 46,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-047",
+      "date": "1995-12-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 47,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-048",
+      "date": "1996-01-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 48,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "公式Historyの個別日程表では1/6の記載が欠落。ただしツアー全60公演との記載およびWiki等の公演日程と一致（原典照合待ち）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "C&A関連Wiki｜1996年1月6日公演",
+          "url": "https://w.atwiki.jp/cavc/pages/404.html",
+          "verification": "secondary"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-049",
+      "date": "1996-01-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 49,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-050",
+      "date": "1996-01-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 50,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-051",
+      "date": "1996-01-10",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 51,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-052",
+      "date": "1996-01-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "マリンメッセ福岡",
+      "country": "日本",
+      "performanceNo": 52,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-053",
+      "date": "1996-01-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "マリンメッセ福岡",
+      "country": "日本",
+      "performanceNo": 53,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-054",
+      "date": "1996-01-18",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "マリンメッセ福岡",
+      "country": "日本",
+      "performanceNo": 54,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-055",
+      "date": "1996-01-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "マリンメッセ福岡",
+      "country": "日本",
+      "performanceNo": 55,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-056",
+      "date": "1996-01-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "マリンメッセ福岡",
+      "country": "日本",
+      "performanceNo": 56,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-057",
+      "date": "1996-01-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "沖縄コンベンションセンター",
+      "country": "日本",
+      "performanceNo": 57,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "沖縄県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-058",
+      "date": "1996-01-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "沖縄コンベンションセンター",
+      "country": "日本",
+      "performanceNo": 58,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "沖縄県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-059",
+      "date": "1996-01-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "沖縄コンベンションセンター",
+      "country": "日本",
+      "performanceNo": 59,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "沖縄県"
+    },
+    {
+      "id": "live-mission-impossible-1995-1996-060",
+      "date": "1996-01-30",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’95–’96 SUPER BEST 3 MISSION IMPOSSIBLE",
+      "tourId": "mission-impossible-1995-1996",
+      "venue": "沖縄コンベンションセンター",
+      "country": "日本",
+      "performanceNo": 60,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "沖縄県"
+    },
+    {
+      "id": "release-v06-1996-02-19-135",
+      "date": "1996-02-19",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『river』発売",
+      "releaseTitle": "river",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-asian-mission-impossible-1995-1996-003",
+      "date": "1996-03-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ASIAN TOUR II MISSION IMPOSSIBLE",
+      "tourId": "asian-mission-impossible-1995-1996",
+      "venue": "シンガポール・インドアスタジアム",
+      "country": "シンガポール",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-asian-mission-impossible-1995-1996-004",
+      "date": "1996-04-03",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ASIAN TOUR II MISSION IMPOSSIBLE",
+      "tourId": "asian-mission-impossible-1995-1996",
+      "venue": "香港コロシアム",
+      "country": "香港",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-asian-mission-impossible-1995-1996-005",
+      "date": "1996-04-04",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ASIAN TOUR II MISSION IMPOSSIBLE",
+      "tourId": "asian-mission-impossible-1995-1996",
+      "venue": "香港コロシアム",
+      "country": "香港",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v06-1996-11-07-136",
+      "date": "1996-11-07",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『どうだい』発売",
+      "releaseTitle": "どうだい",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v06-1996-12-04-137",
+      "date": "1996-12-04",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『Oki doki!』発売",
+      "releaseTitle": "Oki doki!",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-okidoki-1996-1997-001",
+      "date": "1996-12-06",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1996–1997 “Oki doki!”",
+      "tourId": "multi-max-okidoki-1996-1997",
+      "venue": "市川市文化会館",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "千葉県"
+    },
+    {
+      "id": "live-multi-max-okidoki-1996-1997-002",
+      "date": "1996-12-11",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1996–1997 “Oki doki!”",
+      "tourId": "multi-max-okidoki-1996-1997",
+      "venue": "大阪フェスティバルホール",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-multi-max-okidoki-1996-1997-003",
+      "date": "1996-12-12",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1996–1997 “Oki doki!”",
+      "tourId": "multi-max-okidoki-1996-1997",
+      "venue": "大阪フェスティバルホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-multi-max-okidoki-1996-1997-004",
+      "date": "1996-12-15",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1996–1997 “Oki doki!”",
+      "tourId": "multi-max-okidoki-1996-1997",
+      "venue": "名古屋国際会議場センチュリーホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-multi-max-okidoki-1996-1997-005",
+      "date": "1996-12-17",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1996–1997 “Oki doki!”",
+      "tourId": "multi-max-okidoki-1996-1997",
+      "venue": "神奈川県民ホール",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-multi-max-okidoki-1996-1997-006",
+      "date": "1996-12-21",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1996–1997 “Oki doki!”",
+      "tourId": "multi-max-okidoki-1996-1997",
+      "venue": "アクトシティ浜松",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "静岡県"
+    },
+    {
+      "id": "release-v06-1996-12-21-138",
+      "date": "1996-12-21",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『Oki doki!（アナログ盤）』発売",
+      "releaseTitle": "Oki doki!（アナログ盤）",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-okidoki-1996-1997-007",
+      "date": "1996-12-23",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1996–1997 “Oki doki!”",
+      "tourId": "multi-max-okidoki-1996-1997",
+      "venue": "広島アステールプラザ",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-multi-max-okidoki-1996-1997-008",
+      "date": "1996-12-24",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1996–1997 “Oki doki!”",
+      "tourId": "multi-max-okidoki-1996-1997",
+      "venue": "福岡サンパレス",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-multi-max-okidoki-1996-1997-009",
+      "date": "1997-01-06",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1996–1997 “Oki doki!”",
+      "tourId": "multi-max-okidoki-1996-1997",
+      "venue": "赤坂BLITZ",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-multi-max-okidoki-1996-1997-010",
+      "date": "1997-01-07",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1996–1997 “Oki doki!”",
+      "tourId": "multi-max-okidoki-1996-1997",
+      "venue": "赤坂BLITZ",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-multi-max-okidoki-1996-1997-011",
+      "date": "1997-01-10",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1996–1997 “Oki doki!”",
+      "tourId": "multi-max-okidoki-1996-1997",
+      "venue": "NHKホール",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "release-v06-1997-01-22-139",
+      "date": "1997-01-22",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『Every Day Of Your Life（RICHARD MARX with ASKA）』発売",
+      "releaseTitle": "Every Day Of Your Life（RICHARD MARX with ASKA）",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v06-1997-02-05-140",
+      "date": "1997-02-05",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ID』発売",
+      "releaseTitle": "ID",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-v06-1997-03-12-141",
+      "date": "1997-03-12",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ONE』発売",
+      "releaseTitle": "ONE",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-id-1997-001",
+      "date": "1997-03-30",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "横浜アリーナ",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-aska-id-1997-002",
+      "date": "1997-04-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-aska-id-1997-003",
+      "date": "1997-04-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-aska-id-1997-004",
+      "date": "1997-04-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-aska-id-1997-005",
+      "date": "1997-04-14",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-aska-id-1997-006",
+      "date": "1997-04-18",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-aska-id-1997-007",
+      "date": "1997-04-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-aska-id-1997-008",
+      "date": "1997-04-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-aska-id-1997-009",
+      "date": "1997-04-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-aska-id-1997-010",
+      "date": "1997-04-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "マリンメッセ福岡",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-aska-id-1997-011",
+      "date": "1997-04-27",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "マリンメッセ福岡",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "release-v06-1997-04-28-142",
+      "date": "1997-04-28",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ONE（シングル）』発売",
+      "releaseTitle": "ONE（シングル）",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式Historyに記載された発売日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-id-1997-012",
+      "date": "1997-05-01",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-id-1997-013",
+      "date": "1997-05-02",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-id-1997-014",
+      "date": "1997-05-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-id-1997-015",
+      "date": "1997-05-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-id-1997-016",
+      "date": "1997-05-07",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "国立代々木競技場第一体育館",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-id-1997-017",
+      "date": "1997-05-30",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "上海体育館",
+      "country": "中国",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-id-1997-018",
+      "date": "1997-05-31",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "上海体育館",
+      "country": "中国",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-id-1997-019",
+      "date": "1997-06-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "横浜アリーナ",
+      "country": "日本",
+      "performanceNo": 19,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "追加公演（横浜）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-aska-id-1997-020",
+      "date": "1997-06-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "横浜アリーナ",
+      "country": "日本",
+      "performanceNo": 20,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "追加公演（横浜）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-aska-id-1997-021",
+      "date": "1997-06-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "真駒内アイスアリーナ",
+      "country": "日本",
+      "performanceNo": 21,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "追加公演（札幌）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-aska-id-1997-022",
+      "date": "1997-06-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR ID",
+      "tourId": "aska-id-1997",
+      "venue": "真駒内アイスアリーナ",
+      "country": "日本",
+      "performanceNo": 22,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "追加公演（札幌・追加公演最終日）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "prefecture": "北海道"
     }
   ]
 }
