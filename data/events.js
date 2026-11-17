@@ -17899,6 +17899,27 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "live-multi-max-1989-001",
+      "date": "1989-12-13",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "CHAGE’S SUPER BAND MULTI MAX '89",
+      "tourId": "multi-max-1989",
+      "venue": "日本武道館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜MULTI MAX 1989公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
       "id": "media-v18-1989-022",
       "date": "1989-12-15",
       "artist": "MULTI MAX",
@@ -17911,6 +17932,69 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-1989-002",
+      "date": "1989-12-18",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "CHAGE’S SUPER BAND MULTI MAX '89",
+      "tourId": "multi-max-1989",
+      "venue": "福岡市民会館",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜MULTI MAX 1989公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-1989-003",
+      "date": "1989-12-19",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "CHAGE’S SUPER BAND MULTI MAX '89",
+      "tourId": "multi-max-1989",
+      "venue": "大阪厚生年金会館",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜MULTI MAX 1989公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-1989-004",
+      "date": "1989-12-21",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "CHAGE’S SUPER BAND MULTI MAX '89",
+      "tourId": "multi-max-1989",
+      "venue": "名古屋市民会館",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜MULTI MAX 1989公演日程",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -18138,7 +18222,7 @@ window.CA_EVENT_DATA = {
       "performanceNo": 1,
       "status": "recorded",
       "verification": "primary",
-      "note": "ツアー初日",
+      "note": "ツアー初日／【公演数の公式資料内不一致】公式HISTORY本文は57公演、同ページの開催地詳細は61公演を掲載。日付・会場は詳細一覧を採用。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
@@ -18220,14 +18304,14 @@ window.CA_EVENT_DATA = {
       "id": "live-special-1990-08-26-169",
       "date": "1990-08-26",
       "artist": "CHAGE and ASKA",
-      "category": "live",
+      "category": "other",
       "title": "OKINAWA TOUR '90",
       "venue": "残波岬ロイヤルホテル",
       "prefecture": "沖縄県",
       "country": "日本",
       "status": "recorded",
       "verification": "primary",
-      "note": "ファンの集い。通常のコンサートとは区別して表示",
+      "note": "ファンの集い。通常のコンサートとは区別して表示／【分類確認】公式HISTORYはファンの集い・パーティーとして記載。歌唱を伴うコンサートとは確認できないため「その他」に分類。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
@@ -19351,7 +19435,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "status": "recorded",
       "verification": "primary",
-      "note": "関西合同大学祭主催イベント。12月4日はSEE YA!!にも掲載があり二重計上回避のため個別登録保留",
+      "note": "関西合同大学祭主催イベント。12月4日はSEE YA!!にも掲載があり二重計上回避のため個別登録保留／【公式記述の相違】公式本文では12月2日・4日をLIVE COMMUNICATIONとして記すが、開催地詳細は12月2日のみ。12月4日大阪城ホールは別公演SEE YA!!として登録済み。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
@@ -66464,5 +66548,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-5"
+  "siteVersion": "1.8.2-6"
 };
