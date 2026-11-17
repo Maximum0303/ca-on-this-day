@@ -30218,6 +30218,70 @@
       "prefecture": "東京都"
     },
     {
+      "id": "media-v18211-1999-001",
+      "date": "1999-01-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ワイド! スクランブル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。20年間の活動を振り返る特集。本人の新規出演の有無は未確認。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-002",
+      "date": "1999-03-01",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA 20TH FILE 第1回」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "スペースシャワーTV。20周年の特集番組。初回は再始動・活動史。本人の新規出演は最終回に記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-003",
+      "date": "1999-03-07",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「情熱大陸」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。C&A密着ドキュメンタリー。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-004",
+      "date": "1999-03-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA 20TH FILE 第2回」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "スペースシャワーTV。20周年の連続特集第2回。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
       "id": "release-v07-008",
       "date": "1999-03-10",
       "artist": "CHAGE and ASKA",
@@ -30231,6 +30295,86 @@
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-005",
+      "date": "1999-03-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。「この愛のために」の出演記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-006",
+      "date": "1999-03-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA 20TH FILE 第3回」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "スペースシャワーTV。20周年の連続特集第3回。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-007",
+      "date": "1999-03-19",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「FUN Special」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「はじまりはいつも雨」「この愛のために」「VISION」の出演記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-008",
+      "date": "1999-03-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA 20TH FILE 第4回」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "スペースシャワーTV。20周年の連続特集第4回。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-009",
+      "date": "1999-03-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA 20TH FILE 第5回」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "スペースシャワーTV。20周年の連続特集第5回。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
     },
@@ -30265,6 +30409,102 @@
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-010",
+      "date": "1999-04-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。「この愛のために」「VISION」「止まった時計」の出演記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-011",
+      "date": "1999-04-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA再始動～IS BACK～」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "WOWOW。個別インタビューとレコーディング・PV撮影映像を含む特別番組。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-012",
+      "date": "1999-04-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA 20TH FILE 第6回」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "スペースシャワーTV。20周年の連続特集第6回。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-013",
+      "date": "1999-04-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA 20TH FILE 第7回」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "スペースシャワーTV。20周年の連続特集第7回。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-014",
+      "date": "1999-04-19",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA 20TH FILE 第8回」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "スペースシャワーTV。20周年の連続特集第8回。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-015",
+      "date": "1999-04-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA 20TH FILE 最終回」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "スペースシャワーTV。20周年の連続特集第9回。C&Aのロングインタビューを放送。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
         }
       ]
     },
@@ -30326,6 +30566,38 @@
         }
       ],
       "prefecture": "東京都"
+    },
+    {
+      "id": "media-v18211-1999-016",
+      "date": "1999-06-01",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「BS10周年企画・AROUND THE WORLD～日本のうた世界のうた～」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK BS2。赤坂BLITZライブ後のインタビュー生中継。歌唱シーンは同ライブの収録映像。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-017",
+      "date": "1999-06-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ワイド! スクランブル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。約3年ぶりのライブについてのインタビューと過去映像。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
     },
     {
       "id": "live-v07-anniversary-premium-1999-001",
@@ -30408,6 +30680,22 @@
       "prefecture": "東京都"
     },
     {
+      "id": "media-v18211-1999-018",
+      "date": "1999-06-11",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。「群れ」の出演記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
       "id": "live-v07-anniversary-premium-1999-004",
       "date": "1999-06-12",
       "artist": "CHAGE and ASKA",
@@ -30471,6 +30759,54 @@
       "prefecture": "大阪府"
     },
     {
+      "id": "media-v18211-1999-019",
+      "date": "1999-07-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'99」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。アンプラグド形式で複数曲を披露。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-020",
+      "date": "1999-08-17",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「甲斐よしひろ SPIRITS 25-終わらない歓声-」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK BS2。CHAGEがコメント出演。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-021",
+      "date": "1999-08-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「LOVE LOVE あいしてる」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「全部抱きしめて」「また逢う日まで」「太陽と埃の中で」を披露した記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
       "id": "release-v07-013",
       "date": "1999-08-25",
       "artist": "CHAGE and ASKA",
@@ -30505,6 +30841,22 @@
       ]
     },
     {
+      "id": "media-v18211-1999-022",
+      "date": "1999-08-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「FUN」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。20周年期の出演とライブパフォーマンス。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
       "id": "live-v07-tour-preview-1999-001",
       "date": "1999-08-28",
       "artist": "CHAGE and ASKA",
@@ -30524,6 +30876,38 @@
         }
       ],
       "prefecture": "千葉県"
+    },
+    {
+      "id": "media-v18211-1999-023",
+      "date": "1999-08-28",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「王様のブランチ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。20周年インタビュー。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-024",
+      "date": "1999-08-28",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ポップジャム」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「群れ」「no doubt」を披露した記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
     },
     {
       "id": "live-v07-tour-preview-1999-002",
@@ -30547,6 +30931,22 @@
       "prefecture": "千葉県"
     },
     {
+      "id": "media-v18211-1999-025",
+      "date": "1999-08-30",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「SMAP×SMAP」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。SMAPとのジョイントライブを放送。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
       "id": "live-v07-denko-sekka-1999-001",
       "date": "1999-09-03",
       "artist": "CHAGE and ASKA",
@@ -30566,6 +30966,22 @@
         }
       ],
       "prefecture": "福岡県"
+    },
+    {
+      "id": "media-v18211-1999-026",
+      "date": "1999-09-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ジャスト」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「電光石火」幕張プレビュー公演の舞台裏・インタビュー。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
     },
     {
       "id": "live-v07-denko-sekka-1999-002",
@@ -30820,6 +31236,38 @@
       "prefecture": "東京都"
     },
     {
+      "id": "media-v18211-1999-027",
+      "date": "1999-10-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA「福岡ドーム、僕らがホーム」」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "RKB毎日放送。九州地区で放送された特別番組。内容の詳細は未照合。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-1999-028",
+      "date": "1999-10-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「HEY!HEY!HEY! MUSIC CHAMP」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「WALK」「no doubt」などを披露した記録。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
       "id": "live-v07-denko-sekka-1999-014",
       "date": "1999-10-27",
       "artist": "CHAGE and ASKA",
@@ -31068,6 +31516,40 @@
       ]
     },
     {
+      "id": "media-v18211-1999-029",
+      "date": "1999-12-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ハートエイド・台湾」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO MX。台湾大地震の救済チャリティー公演の放送。公演実施日とは区別。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "other-v18211-1999-1211-taipei-cancel",
+      "date": "1999-12-11",
+      "artist": "CHAGE and ASKA",
+      "category": "other",
+      "title": "ASIAN TOUR NO DOUBT 台北公演中止（開催予定日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "台北市立体育場で予定されていたが、1999年の台湾大地震の影響で中止。これは公演「実施」記録ではない。非公式ページの一部には開催とする矛盾した記述もあるため、当時の公式告知の原本による照合は保留。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/419.html"
+        }
+      ],
+      "venue": "台北市立体育場",
+      "country": "台湾"
+    },
+    {
       "id": "release-v07-015",
       "date": "1999-12-16",
       "artist": "CHAGE and ASKA",
@@ -31147,7 +31629,7 @@
       "performanceNo": 1,
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "公式HISTORY：CHAGE、ASKA、CHAGE and ASKAの3部構成で実施。同時開催の「千年夜一夜祭」（博多シーホーク）は別イベント。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程",
@@ -31174,6 +31656,89 @@
       ]
     },
     {
+      "id": "media-v18211-1999-030",
+      "date": "1999-12-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA 千年夜一夜ライブ～福岡ドーム、僕らがホーム～」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "CHAGE&ASKA TV（ディレクTV）。福岡ドームのカウントダウン公演の中継記録。ライブ開催そのものは既存別レコード。cavc非公式記録に基づくため放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ]
+    },
+    {
+      "id": "other-v18211-1999-1231-sennen-festival",
+      "date": "1999-12-31",
+      "artist": "CHAGE and ASKA",
+      "category": "other",
+      "title": "「千年夜一夜祭 ～博多シーホーク みんなでスパーク～」開催",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "福岡ドームのカウントダウン公演と同時開催された関連イベント。C&A本人が博多シーホークでライブをしたという意味ではない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "venue": "博多シーホーク",
+      "prefecture": "福岡県",
+      "country": "日本"
+    },
+    {
+      "id": "media-v18211-2000-001",
+      "date": "2000-01-01",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション ミレニアムSP」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。「男と女」の出演記録。cavc非公式記録に基づくため一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/67.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-2000-002",
+      "date": "2000-04-07",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「BSスペシャル スーパーライブ CHAGE&ASKA 1999～2000」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK BS2。1999年のアジア公演・ライブ映像などをまとめた番組。実施公演と別の放送日として記録。cavc非公式記録に基づくため一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/67.html"
+        }
+      ]
+    },
+    {
+      "id": "other-v18211-2000-0501-ymc",
+      "date": "2000-05-01",
+      "artist": "CHAGE and ASKA",
+      "category": "other",
+      "title": "ヤマハミュージックコミュニケーションズへ移籍",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "レコード会社の移籍に関する公式HISTORYの記録。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
       "id": "release-v07-020",
       "date": "2000-06-15",
       "artist": "CHAGE and ASKA",
@@ -31189,6 +31754,25 @@
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ]
+    },
+    {
+      "id": "other-v18211-2000-0624-surround-start",
+      "date": "2000-06-24",
+      "artist": "Chage",
+      "category": "other",
+      "title": "「千年夜一夜ライブ 5.1chデジタルサラウンド体感イベント Featuring CHAGE」開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ファンクラブ限定の上映・トーク等のイベント。静岡県コンベンションアーツセンターから開始。開催回数について公式HISTORYの冒頭「9会場24公演」と終盤「7カ所27公演」に不一致があるため確定数として登録しない。実演ライブ公演とは区別。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "venue": "静岡県コンベンションアーツセンター",
+      "prefecture": "静岡県",
+      "country": "日本"
     },
     {
       "id": "release-v07-021",
@@ -31221,6 +31805,22 @@
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-2000-003",
+      "date": "2000-08-17",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「FBS MUSIC CLUB」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "FBS福岡放送。九州地方の番組へのASKA出演記録。cavc非公式記録に基づくため一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/67.html"
         }
       ]
     },
@@ -31261,6 +31861,121 @@
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-2000-004",
+      "date": "2000-08-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「スーパーナイト」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。韓国公演を終えたC&Aが生出演。cavc非公式記録に基づくため一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/67.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-2000-005",
+      "date": "2000-09-01",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。「good time」の出演記録。cavc非公式記録に基づくため一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/67.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-2000-006",
+      "date": "2000-09-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ワイドコロシアム」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。韓国公演についてのインタビュー記録。cavc非公式記録に基づくため一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/67.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-2000-007",
+      "date": "2000-09-03",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「MY GAME IS ASKA～GOOD TIME～」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "名古屋テレビ。ASKAのインタビュー特番。cavc非公式記録に基づくため一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/67.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-2000-008",
+      "date": "2000-09-06",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「P:S」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ新広島。ASKAゲスト出演。cavc非公式記録に基づくため一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/67.html"
+        }
+      ]
+    },
+    {
+      "id": "other-v18211-2000-0909-surround-end",
+      "date": "2000-09-09",
+      "artist": "Chage",
+      "category": "other",
+      "title": "「千年夜一夜ライブ 5.1chデジタルサラウンド体感イベント Featuring CHAGE」終了",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Zepp Sendaiでの最終日。開催数は公式内で「9会場24公演」と「7カ所27公演」が併記され整合しない。二次資料には「27回予定・うち2回中止／25回開催」とあるが一次資料で個別公演未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "venue": "Zepp Sendai",
+      "prefecture": "宮城県",
+      "country": "日本"
+    },
+    {
+      "id": "media-v18211-2000-009",
+      "date": "2000-09-25",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「壷」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "RCCテレビ。ASKA出演記録。cavc非公式記録に基づくため一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/67.html"
         }
       ]
     },
@@ -31391,6 +32106,38 @@
       "prefecture": "愛知県"
     },
     {
+      "id": "media-v18211-2000-010",
+      "date": "2000-10-22",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「知ってるつもり!?」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。ASKAのインタビュー。cavc非公式記録に基づくため一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/67.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-2000-011",
+      "date": "2000-10-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA LIVE IN KOREA」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ721。同年8月26〜27日のソウル公演を放送。公演実施日とは別日。cavc非公式記録に基づくため一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/67.html"
+        }
+      ]
+    },
+    {
       "id": "live-v07-good-time-2000-007",
       "date": "2000-10-25",
       "artist": "ASKA",
@@ -31473,6 +32220,25 @@
         }
       ],
       "prefecture": "東京都"
+    },
+    {
+      "id": "live-v18211-2000-1101-aska-yuming",
+      "date": "2000-11-01",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "松任谷由実ワンナイトコンサート「BROTHERS&SISTERS」にASKAが出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "東京国際フォーラムで開催された松任谷由実のトリビュート公演にゲスト参加。「春よ、来い」の歌唱場面が同年12月1日にBS放送されたとの非公式記録。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/67.html"
+        }
+      ],
+      "venue": "東京国際フォーラム",
+      "prefecture": "東京都",
+      "country": "日本"
     },
     {
       "id": "live-v07-good-time-2000-011",
@@ -31654,7 +32420,7 @@
       "performanceNo": 1,
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "公式HISTORY：アンコールでCHAGEが登場し「no no darlin’」を共演。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程",
@@ -31704,6 +32470,38 @@
         }
       ],
       "prefecture": "宮城県"
+    },
+    {
+      "id": "media-v18211-2000-012",
+      "date": "2000-12-01",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「松任谷由実ワンナイトコンサート BROTHERS&SISTERS」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "民放BS各5局。11月1日東京国際フォーラム公演でASKAが「春よ、来い」に参加した映像。cavc非公式記録に基づくため一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター／二次資料",
+          "url": "https://w.atwiki.jp/cavc/pages/67.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18211-2000-1225-treasure-box-end",
+      "date": "2000-12-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「CHAGEのTREASURE BOX」放送終了",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "TOKYO FM系レギュラー番組の最終回。1998年4月6日の放送開始とは別の出来事。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
     },
     {
       "id": "release-v07-023",
@@ -67637,5 +68435,5 @@
       ]
     }
   ],
-  "siteVersion": "1.8.2-10"
+  "siteVersion": "1.8.2-11"
 }
