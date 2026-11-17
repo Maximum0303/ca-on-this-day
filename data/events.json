@@ -28432,6 +28432,22 @@
       ]
     },
     {
+      "id": "v18210-1997-0319-multimax-bootleg",
+      "date": "1997-03-19",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "ライブ映像『DOCUMENT&LIVE 1996-1997 Oki Doki! BOOTLEG』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式HISTORY記載のビデオ発売日。1996〜1997年のOki doki!ツアー実施日とは別の作品発売記録。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
       "id": "live-aska-id-1997-001",
       "date": "1997-03-30",
       "artist": "ASKA",
@@ -28909,6 +28925,88 @@
       "prefecture": "北海道"
     },
     {
+      "id": "v18210-1997-0725-onyourmark-video",
+      "date": "1997-07-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "ジブリ実験劇場『On Your Mark』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "宮崎駿監督の映像作品。1995年発売シングル「HEART／NATURAL／On Your Mark」とは別の映像作品発売記録。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "v18210-1997-0807-aska-conspirators-video",
+      "date": "1997-08-07",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "ASKAビデオ『共謀者』ファンクラブ限定販売",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式HISTORYに記載のファンクラブオリジナル映像作品。一般店頭での通常販売とは区別。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "v18210-1997-0807-three-aska-book",
+      "date": "1997-08-07",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "ASKA単行本『三人のASKA』ファンクラブ限定販売",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式HISTORYに記載の書籍。映像作品『共謀者』とは別アイテム。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "v18210-1997-1009-chage-kai-guest",
+      "date": "1997-10-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "甲斐よしひろコンサートにCHAGEがゲスト出演",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式HISTORYではCHAGEの飛び入り出演と「BLUE」歌唱を記録。具体的な会場は記載がないため未登録。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "v18210-1997-1115-aska-shanghai-festival",
+      "date": "1997-11-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "第6回上海インターナショナルラジオミュージックフェスティバル出演",
+      "country": "中国",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上海でのイベント出演。公式HISTORYに「晴天を誉めるなら夕暮れを待て」「着地点」「月が近づけば少しはましだろう」の歌唱記録あり。会場名は確認できず未登録。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
       "id": "release-v07-001",
       "date": "1998-03-11",
       "artist": "ASKA",
@@ -28938,6 +29036,38 @@
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "v18210-1998-0406-chage-treasure-box-start",
+      "date": "1998-04-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「TREASURE BOX」放送開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "TOKYO FM系でのCHAGEレギュラー番組。公式HISTORYでは2000年12月25日までの放送と記載。開始日と終了日を混同しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "v18210-1998-0406-chage-p-stock-start",
+      "date": "1998-04-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「P-STOCK」レギュラー放送開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "フジテレビ。CHAGEにとって初のテレビレギュラー番組。公式HISTORYによる番組開始記録。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ]
@@ -29431,7 +29561,7 @@
       "performanceNo": 1,
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "公式HISTORY：アンコールにASKAが登場し「終章」を共演。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程",
@@ -29683,7 +29813,7 @@
       "performanceNo": 32,
       "status": "recorded",
       "verification": "primary",
-      "note": "ツアー・公演シリーズ最終日",
+      "note": "ツアー・公演シリーズ最終日／公式HISTORY：最終公演のアンコールでCHAGEが登場し「終章」を共演。翌1999年にC&Aとして活動する意向を伝えた。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程",
@@ -29705,6 +29835,22 @@
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1998年8月30日",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "v18210-1998-0925-chage-p-stock-end",
+      "date": "1998-09-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「P-STOCK」レギュラー放送終了",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "フジテレビ。公式HISTORYに記載された1998年9月25日の番組終了日。4月6日の放送開始とは別の出来事。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ]
@@ -67491,5 +67637,5 @@
       ]
     }
   ],
-  "siteVersion": "1.8.2-9"
+  "siteVersion": "1.8.2-10"
 }
