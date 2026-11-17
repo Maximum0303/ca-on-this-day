@@ -1,7 +1,7 @@
-/* 公開用データ。events.jsonと同内容。 */
+/* 公開用データ。events.jsonと同じ内容を保持 */
 window.CA_EVENT_DATA = {
   "schemaVersion": 1,
-  "notice": "1979年〜2007年の一部公演・発売日を試験収録。1,575件。2005〜2007年のASKA My Game is ASKA、C&A DOUBLE・alive in liveなどの通常公演を追加。未収録年・未確認行程があるため、全公演・全作品を網羅したものではありません。",
+  "notice": "Ver.1.0：2008〜2010年の主要公演日程・作品発売・関連出来事を追加。1979〜2010年までの部分収録であり、すべてのライブ・メディア・作品を網羅していません。2010年末開始のツアーは2011年分未収録。日付・会場は公式Historyに基づき、他資料の照合は今後追加します。",
   "lastUpdated": "2026-11-17",
   "events": [
     {
@@ -33920,6 +33920,4430 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ]
+    },
+    {
+      "id": "live-extra-2008-popular-week-01",
+      "date": "2008-03-01",
+      "artist": "Chage",
+      "category": "live",
+      "title": "大友直人PRODUCE POPULAR WEEK ～CHAGE～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "東京文化会館・小ホール",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "media-2008-collabo-labo",
+      "date": "2008-04-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房」ナビゲーター開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-extra-2008-scene-preview-01",
+      "date": "2008-04-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT “SCENE” Premium Preview",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "FC会員限定プレビュー",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "Bunkamuraオーチャードホール",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-scene-2008-001",
+      "date": "2008-04-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "tourId": "aska-scene-2008",
+      "venue": "Esplanade Concert Hall",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "シンガポール"
+    },
+    {
+      "id": "live-aska-scene-2008-002",
+      "date": "2008-04-27",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "tourId": "aska-scene-2008",
+      "venue": "Esplanade Concert Hall",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "シンガポール"
+    },
+    {
+      "id": "release-2008-alive-in-live-dvd",
+      "date": "2008-05-07",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA Concert 2007 alive in live』発売",
+      "releaseTitle": "CHAGE and ASKA Concert 2007 alive in live",
+      "status": "released",
+      "verification": "primary",
+      "note": "ライブDVD",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-scene-2008-003",
+      "date": "2008-06-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "tourId": "aska-scene-2008",
+      "venue": "Thailand Cultural Centre（バンコク）",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "タイ"
+    },
+    {
+      "id": "live-extra-2008-ap-bank-fes-01",
+      "date": "2008-07-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ap bank fes ’08",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "フェス出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本"
+    },
+    {
+      "id": "live-extra-2008-yuzawa-music-01",
+      "date": "2008-07-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "第6回湯沢フィールド音楽祭",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "イベント出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本"
+    },
+    {
+      "id": "live-extra-2008-oiso-01",
+      "date": "2008-07-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE SUMMER CONCERT in OISO",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2008大磯なぎさの祭典",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-aska-scene-2008-004",
+      "date": "2008-08-01",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "tourId": "aska-scene-2008",
+      "venue": "上海東方芸術中心",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "中国"
+    },
+    {
+      "id": "live-aska-scene-2008-005",
+      "date": "2008-08-02",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "tourId": "aska-scene-2008",
+      "venue": "上海東方芸術中心",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "中国"
+    },
+    {
+      "id": "release-2008-waltz",
+      "date": "2008-09-10",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『waltz』発売",
+      "releaseTitle": "waltz",
+      "status": "released",
+      "verification": "primary",
+      "note": "シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-scene-2008-006",
+      "date": "2008-09-30",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "tourId": "aska-scene-2008",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-aska-scene-2008-007",
+      "date": "2008-10-01",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "tourId": "aska-scene-2008",
+      "venue": "大阪城ホール",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "release-2008-uni-verse",
+      "date": "2008-10-01",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『UNI-VERSE』発売",
+      "releaseTitle": "UNI-VERSE",
+      "status": "released",
+      "verification": "primary",
+      "note": "シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-scene-2008-008",
+      "date": "2008-10-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "tourId": "aska-scene-2008",
+      "venue": "マリンメッセ福岡",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "release-2008-aishiteru",
+      "date": "2008-10-08",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『アイシテル』発売",
+      "releaseTitle": "アイシテル",
+      "status": "released",
+      "verification": "primary",
+      "note": "アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-scene-2008-009",
+      "date": "2008-10-09",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "tourId": "aska-scene-2008",
+      "venue": "日本武道館",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-scene-2008-010",
+      "date": "2008-10-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "tourId": "aska-scene-2008",
+      "venue": "日本武道館",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-scene-2008-011",
+      "date": "2008-10-14",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "tourId": "aska-scene-2008",
+      "venue": "日本ガイシホール",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-aska-scene-2008-012",
+      "date": "2008-10-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "tourId": "aska-scene-2008",
+      "venue": "日本ガイシホール",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-aska-scene-2008-013",
+      "date": "2008-10-18",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "tourId": "aska-scene-2008",
+      "venue": "真駒内セキスイハイムアイスアリーナ",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-chage-aishiteru-2008-001",
+      "date": "2008-11-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR 2008 アイシテル",
+      "tourId": "chage-aishiteru-2008",
+      "venue": "DRUM LOGOS",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-chage-aishiteru-2008-002",
+      "date": "2008-11-03",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR 2008 アイシテル",
+      "tourId": "chage-aishiteru-2008",
+      "venue": "DRUM LOGOS",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-chage-aishiteru-2008-003",
+      "date": "2008-11-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR 2008 アイシテル",
+      "tourId": "chage-aishiteru-2008",
+      "venue": "なんばHatch",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-chage-aishiteru-2008-004",
+      "date": "2008-11-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR 2008 アイシテル",
+      "tourId": "chage-aishiteru-2008",
+      "venue": "なんばHatch",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-chage-aishiteru-2008-005",
+      "date": "2008-11-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR 2008 アイシテル",
+      "tourId": "chage-aishiteru-2008",
+      "venue": "SHIBUYA-AX",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-aishiteru-2008-006",
+      "date": "2008-11-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR 2008 アイシテル",
+      "tourId": "chage-aishiteru-2008",
+      "venue": "SHIBUYA-AX",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-aishiteru-2008-007",
+      "date": "2008-11-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR 2008 アイシテル",
+      "tourId": "chage-aishiteru-2008",
+      "venue": "Zepp名古屋",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-chage-aishiteru-2008-008",
+      "date": "2008-11-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR 2008 アイシテル",
+      "tourId": "chage-aishiteru-2008",
+      "venue": "Zepp名古屋",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-extra-2008-osaka-asia-01",
+      "date": "2008-11-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "音楽でつなぐアジアの絆 大阪アジア音楽祭",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-chage-aishiteru-2008-009",
+      "date": "2008-11-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR 2008 アイシテル",
+      "tourId": "chage-aishiteru-2008",
+      "venue": "なんばHatch",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-aska-scene-2008-014",
+      "date": "2008-11-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "tourId": "aska-scene-2008",
+      "venue": "マリンメッセ福岡",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "再演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-extra-2008-kogarashi-01",
+      "date": "2008-11-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ライブW 木枯らしのコンチェルト",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "WOWOW主催ライブ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本"
+    },
+    {
+      "id": "live-chage-aishiteru-2008-010",
+      "date": "2008-11-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "CHAGE CONCERT TOUR 2008 アイシテル",
+      "tourId": "chage-aishiteru-2008",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-scene-2008-015",
+      "date": "2008-12-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "tourId": "aska-scene-2008",
+      "venue": "Hong Kong Cultural Centre",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "香港"
+    },
+    {
+      "id": "live-extra-2008-okinawa-premium-01",
+      "date": "2008-12-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKAシンフォニックコンサート “PREMIUM” in 琉球",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "沖縄コンベンションセンター",
+      "prefecture": "沖縄県"
+    },
+    {
+      "id": "live-extra-2008-acoustic-xmas-01",
+      "date": "2008-12-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "AIR-G’ FM北海道 GOTCHA! presents CHAGE Acoustic Xmas Night",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道"
+    },
+    {
+      "id": "milestone-2009-hiatus",
+      "date": "2009-01-30",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA 活動休止・ソロ活動継続を発表",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-extra-2009-popular-week-01",
+      "date": "2009-02-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "東京文化会館 ポピュラーウィーク2009 Produced by 大友直人",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "東京文化会館",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "release-2009-nothing-but-ca",
+      "date": "2009-02-04",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA VERY BEST NOTHING BUT C&A』発売",
+      "releaseTitle": "CHAGE and ASKA VERY BEST NOTHING BUT C&A",
+      "status": "released",
+      "verification": "primary",
+      "note": "ベストアルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "release-2009-anatagа-naku-koto-wa-nai",
+      "date": "2009-02-25",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『あなたが泣くことはない』発売",
+      "releaseTitle": "あなたが泣くことはない",
+      "status": "released",
+      "verification": "primary",
+      "note": "シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "release-2009-scene-dvd",
+      "date": "2009-02-25",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”』発売",
+      "releaseTitle": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "status": "released",
+      "verification": "primary",
+      "note": "ライブDVD",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-extra-2009-super-generation-01",
+      "date": "2009-03-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Super Generation 2009 ～服部良一・克久・隆之 三代コンサート～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "都城総合文化ホール大ホール",
+      "prefecture": "宮崎県"
+    },
+    {
+      "id": "other-2009-blog-open",
+      "date": "2009-03-19",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage公式ブログ「Many Many Happy Returns」開設",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-walk-2009-001",
+      "date": "2009-03-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "よこすか芸術劇場",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "release-2009-many-happy-returns",
+      "date": "2009-03-25",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『Many Happy Returns』発売",
+      "releaseTitle": "Many Happy Returns",
+      "status": "released",
+      "verification": "primary",
+      "note": "アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-walk-2009-002",
+      "date": "2009-03-28",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "千葉県文化会館・大ホール",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "千葉県"
+    },
+    {
+      "id": "live-extra-2009-midtown-01",
+      "date": "2009-03-29",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Midtown Blossom ASKA Premium Live",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "完全招待制",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "東京ミッドタウン",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-walk-2009-003",
+      "date": "2009-04-03",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "大宮ソニックシティ・大ホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "埼玉県"
+    },
+    {
+      "id": "live-aska-walk-2009-004",
+      "date": "2009-04-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "宇都宮市文化会館・大ホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "栃木県"
+    },
+    {
+      "id": "live-aska-walk-2009-005",
+      "date": "2009-04-09",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "神奈川県立県民ホール・大ホール",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "release-2009-kasha-photobook",
+      "date": "2009-04-10",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『歌写（かしゃッ）！♪ ～写真で綴る幸せな音符～』発売",
+      "releaseTitle": "歌写（かしゃッ）！♪ ～写真で綴る幸せな音符～",
+      "status": "released",
+      "verification": "primary",
+      "note": "写真集",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-walk-2009-006",
+      "date": "2009-04-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "名古屋国際会議場センチュリーホール",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-aska-walk-2009-007",
+      "date": "2009-04-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "名古屋国際会議場センチュリーホール",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-aska-walk-2009-008",
+      "date": "2009-04-14",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "三重県文化会館・大ホール",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "三重県"
+    },
+    {
+      "id": "live-chage-tea-2009-001",
+      "date": "2009-04-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "唱う門には“Chage”来る！「茶会」Special Live 10days at Sogetsu Hall",
+      "tourId": "chage-tea-2009",
+      "venue": "草月ホール",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-tea-2009-002",
+      "date": "2009-04-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "唱う門には“Chage”来る！「茶会」Special Live 10days at Sogetsu Hall",
+      "tourId": "chage-tea-2009",
+      "venue": "草月ホール",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト：ウクレレえいじ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-tea-2009-003",
+      "date": "2009-04-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "唱う門には“Chage”来る！「茶会」Special Live 10days at Sogetsu Hall",
+      "tourId": "chage-tea-2009",
+      "venue": "草月ホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト：夏川りみ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-walk-2009-009",
+      "date": "2009-04-18",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "びわ湖ホール・大ホール",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "滋賀県"
+    },
+    {
+      "id": "live-chage-tea-2009-004",
+      "date": "2009-04-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "唱う門には“Chage”来る！「茶会」Special Live 10days at Sogetsu Hall",
+      "tourId": "chage-tea-2009",
+      "venue": "草月ホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-walk-2009-010",
+      "date": "2009-04-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "神戸国際会館・こくさいホール",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "兵庫県"
+    },
+    {
+      "id": "live-chage-tea-2009-005",
+      "date": "2009-04-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "唱う門には“Chage”来る！「茶会」Special Live 10days at Sogetsu Hall",
+      "tourId": "chage-tea-2009",
+      "venue": "草月ホール",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト：根本要",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-walk-2009-011",
+      "date": "2009-04-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "大阪厚生年金会館・大ホール",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-chage-tea-2009-006",
+      "date": "2009-04-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "唱う門には“Chage”来る！「茶会」Special Live 10days at Sogetsu Hall",
+      "tourId": "chage-tea-2009",
+      "venue": "草月ホール",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト：谷村新司",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-walk-2009-012",
+      "date": "2009-04-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "大阪厚生年金会館・大ホール",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-chage-tea-2009-007",
+      "date": "2009-04-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "唱う門には“Chage”来る！「茶会」Special Live 10days at Sogetsu Hall",
+      "tourId": "chage-tea-2009",
+      "venue": "草月ホール",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式Historyに同日のビデオシューティングライブ記録あり（別公演かは未確認）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-tea-2009-008",
+      "date": "2009-04-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "唱う門には“Chage”来る！「茶会」Special Live 10days at Sogetsu Hall",
+      "tourId": "chage-tea-2009",
+      "venue": "草月ホール",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト：キマグレン",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-tea-2009-009",
+      "date": "2009-04-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "唱う門には“Chage”来る！「茶会」Special Live 10days at Sogetsu Hall",
+      "tourId": "chage-tea-2009",
+      "venue": "草月ホール",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-tea-2009-010",
+      "date": "2009-04-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "唱う門には“Chage”来る！「茶会」Special Live 10days at Sogetsu Hall",
+      "tourId": "chage-tea-2009",
+      "venue": "草月ホール",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト：村上啓介／ツアー最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "media-2009-m-live",
+      "date": "2009-04-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBS「Chage Presents Mライブ」放送開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-walk-2009-013",
+      "date": "2009-05-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "広島厚生年金会館",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-aska-walk-2009-014",
+      "date": "2009-05-06",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "広島厚生年金会館",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-aska-walk-2009-015",
+      "date": "2009-05-08",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "米子コンベンションセンター（BiG SHiP）",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "鳥取県"
+    },
+    {
+      "id": "live-aska-walk-2009-016",
+      "date": "2009-05-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "石川厚生年金会館",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "石川県"
+    },
+    {
+      "id": "live-aska-walk-2009-017",
+      "date": "2009-05-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "新潟県民会館・大ホール",
+      "country": "日本",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "新潟県"
+    },
+    {
+      "id": "live-aska-walk-2009-018",
+      "date": "2009-05-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "ホクト文化ホール",
+      "country": "日本",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "長野県"
+    },
+    {
+      "id": "live-aska-walk-2009-019",
+      "date": "2009-05-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "福岡サンパレスホテル&ホール",
+      "country": "日本",
+      "performanceNo": 19,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "release-2009-aishiteru-dvd",
+      "date": "2009-05-20",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『CHAGE CONCERT TOUR 2008 アイシテル』発売",
+      "releaseTitle": "CHAGE CONCERT TOUR 2008 アイシテル",
+      "status": "released",
+      "verification": "primary",
+      "note": "ライブDVD",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-walk-2009-020",
+      "date": "2009-05-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "福岡サンパレスホテル&ホール",
+      "country": "日本",
+      "performanceNo": 20,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-aska-walk-2009-021",
+      "date": "2009-05-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "仙台サンプラザホール",
+      "country": "日本",
+      "performanceNo": 21,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-001",
+      "date": "2009-05-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "武蔵村山市民会館さくらホール",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-walk-2009-022",
+      "date": "2009-05-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "仙台サンプラザホール",
+      "country": "日本",
+      "performanceNo": 22,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-aska-walk-2009-023",
+      "date": "2009-05-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "岩手県民会館・大ホール",
+      "country": "日本",
+      "performanceNo": 23,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "岩手県"
+    },
+    {
+      "id": "live-aska-walk-2009-024",
+      "date": "2009-05-30",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "グランキューブ大阪",
+      "country": "日本",
+      "performanceNo": 24,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-aska-walk-2009-025",
+      "date": "2009-05-31",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "グランキューブ大阪",
+      "country": "日本",
+      "performanceNo": 25,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-aska-walk-2009-026",
+      "date": "2009-06-02",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "アクトシティ浜松・大ホール",
+      "country": "日本",
+      "performanceNo": 26,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "静岡県"
+    },
+    {
+      "id": "live-aska-walk-2009-027",
+      "date": "2009-06-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "アルファあなぶきホール・大ホール",
+      "country": "日本",
+      "performanceNo": 27,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "香川県"
+    },
+    {
+      "id": "live-aska-walk-2009-028",
+      "date": "2009-06-06",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "松山市民会館・大ホール",
+      "country": "日本",
+      "performanceNo": 28,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛媛県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-002",
+      "date": "2009-06-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "栗東芸術文化会館さきら大ホール",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "滋賀県"
+    },
+    {
+      "id": "live-aska-walk-2009-029",
+      "date": "2009-06-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "名古屋国際会議場センチュリーホール",
+      "country": "日本",
+      "performanceNo": 29,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-aska-walk-2009-030",
+      "date": "2009-06-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "静岡市民文化会館・大ホール",
+      "country": "日本",
+      "performanceNo": 30,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "静岡県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-003",
+      "date": "2009-06-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "明石市立市民会館アワーズホール大ホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "兵庫県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-004",
+      "date": "2009-06-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "大和高田さざんかホール大ホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "奈良県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-005",
+      "date": "2009-06-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "つくばノバホール",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "茨城県"
+    },
+    {
+      "id": "live-aska-walk-2009-031",
+      "date": "2009-06-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "北海道厚生年金会館",
+      "country": "日本",
+      "performanceNo": 31,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-aska-walk-2009-032",
+      "date": "2009-06-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "北海道厚生年金会館",
+      "country": "日本",
+      "performanceNo": 32,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-aska-walk-2009-033",
+      "date": "2009-06-24",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "NHKホール",
+      "country": "日本",
+      "performanceNo": 33,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-walk-2009-034",
+      "date": "2009-06-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK",
+      "tourId": "aska-walk-2009",
+      "venue": "NHKホール",
+      "country": "日本",
+      "performanceNo": 34,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-006",
+      "date": "2009-06-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "高崎市文化会館",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "群馬県"
+    },
+    {
+      "id": "live-extra-2009-walk-shooting-01",
+      "date": "2009-06-28",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK SHOOTING LIVE",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "本編34公演＋シューティングライブ1公演＝国内計35公演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "NHKホール",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-007",
+      "date": "2009-07-03",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "仙台電力ホール",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-008",
+      "date": "2009-07-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "秋田県児童会館",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "秋田県"
+    },
+    {
+      "id": "live-extra-2009-walk-taipei-01",
+      "date": "2009-07-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2009 WALK 台北公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "台湾",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "台湾",
+      "venue": "台大綜合體育館（NTU Sports Center）"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-009",
+      "date": "2009-07-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "アルファあなぶきホール小ホール",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "香川県"
+    },
+    {
+      "id": "live-extra-2009-30th-acoustic-01",
+      "date": "2009-07-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "DEBUT 30TH ANNIVERSARY Chage ACOUSTIC LIVE 2009",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "ミリカローデン那珂川",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-extra-2009-summer-greeting-01",
+      "date": "2009-07-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Summer Greeting Live Chage In 安曇野",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "穂高ビューホテル",
+      "prefecture": "長野県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-010",
+      "date": "2009-07-29",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "旭川市大雪クリスタルホール",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-extra-2009-monbetsu-party-01",
+      "date": "2009-07-31",
+      "artist": "Chage",
+      "category": "live",
+      "title": "紋別 アコースティック・パーティー2009 produced by 吉川忠英",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-011",
+      "date": "2009-08-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "帯広とかちプラザ・レインボーホール",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-012",
+      "date": "2009-08-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "小樽市民センター・マリンホール",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-013",
+      "date": "2009-08-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "三重県文化会館中ホール",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "三重県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-014",
+      "date": "2009-08-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "山梨県立県民文化ホール 小ホール",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "山梨県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-015",
+      "date": "2009-08-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "志木市民会館パルシティ",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "埼玉県"
+    },
+    {
+      "id": "live-extra-2009-otodama-01",
+      "date": "2009-08-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "音霊 OTODAMA SEA STUDIO 2009 ～Chageの寄り道 渚編 チャゲゾンズ～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "音霊 OTODAMA SEA STUDIO",
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-extra-2009-otodama-02",
+      "date": "2009-08-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "音霊 OTODAMA SEA STUDIO 2009 ～Chageの寄り道 渚編 チャゲゾンズ～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト：キマグレン",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "音霊 OTODAMA SEA STUDIO",
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "release-2009-live-dvd-box-1",
+      "date": "2009-08-26",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA LIVE DVD BOX 1』発売",
+      "releaseTitle": "CHAGE and ASKA LIVE DVD BOX 1",
+      "status": "released",
+      "verification": "primary",
+      "note": "ライブDVD BOX",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-chage-hosomichi-2009-016",
+      "date": "2009-08-29",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "倉敷市芸文館",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "岡山県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-017",
+      "date": "2009-08-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "はつかいち文化ホールさくらぴあ 大ホール",
+      "country": "日本",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-018",
+      "date": "2009-09-01",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "スターピアくだまつ大ホール",
+      "country": "日本",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "山口県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-019",
+      "date": "2009-09-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "熊谷文化創造館（さくらめいと）太陽のホール",
+      "country": "日本",
+      "performanceNo": 19,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "埼玉県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-020",
+      "date": "2009-09-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "千葉県東総文化会館",
+      "country": "日本",
+      "performanceNo": 20,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "千葉県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-021",
+      "date": "2009-09-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "関内ホール 大ホール",
+      "country": "日本",
+      "performanceNo": 21,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-022",
+      "date": "2009-09-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "村上市民ふれあいセンター",
+      "country": "日本",
+      "performanceNo": 22,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "新潟県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-023",
+      "date": "2009-09-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "福江文化会館",
+      "country": "日本",
+      "performanceNo": 23,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "長崎県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-024",
+      "date": "2009-09-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "長崎市民会館",
+      "country": "日本",
+      "performanceNo": 24,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "長崎県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-025",
+      "date": "2009-09-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "サザンクス筑後 大ホール",
+      "country": "日本",
+      "performanceNo": 25,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-026",
+      "date": "2009-09-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "鹿児島市民文化ホール第2ホール",
+      "country": "日本",
+      "performanceNo": 26,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "鹿児島県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-027",
+      "date": "2009-10-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "千葉市民会館 大ホール",
+      "country": "日本",
+      "performanceNo": 27,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "千葉県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-028",
+      "date": "2009-10-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "アートピアホール",
+      "country": "日本",
+      "performanceNo": 28,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-029",
+      "date": "2009-10-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "アートピアホール",
+      "country": "日本",
+      "performanceNo": 29,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-030",
+      "date": "2009-10-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "鎌倉芸術館 小ホール",
+      "country": "日本",
+      "performanceNo": 30,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-031",
+      "date": "2009-11-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "静岡市民文化会館中ホール",
+      "country": "日本",
+      "performanceNo": 31,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "静岡県"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-032",
+      "date": "2009-11-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "サンケイホールブリーゼ",
+      "country": "日本",
+      "performanceNo": 32,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-033",
+      "date": "2009-11-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "サンケイホールブリーゼ",
+      "country": "日本",
+      "performanceNo": 33,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "release-2009-paper-sleeve-seven",
+      "date": "2009-11-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『紙ジャケット再発7作品（GUYS / RED HILL ほか）』発売",
+      "releaseTitle": "紙ジャケット再発7作品（GUYS / RED HILL ほか）",
+      "status": "released",
+      "verification": "primary",
+      "note": "アルバム再発／GUYS、RED HILL、CODE NAME.1 BROTHER SUN、CODE NAME.2 SISTER MOON、MTV UNPLUGGED LIVE、NO DOUBT、Snow Mailの7作品",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "release-2009-walk-dvd",
+      "date": "2009-11-25",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA CONCERT TOUR 2009 WALK』発売",
+      "releaseTitle": "ASKA CONCERT TOUR 2009 WALK",
+      "status": "released",
+      "verification": "primary",
+      "note": "ライブDVD",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "live-chage-hosomichi-2009-034",
+      "date": "2009-11-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "ゆうぽうと",
+      "country": "日本",
+      "performanceNo": 34,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト：松浦亜弥",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-hosomichi-2009-035",
+      "date": "2009-11-29",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2009",
+      "tourId": "chage-hosomichi-2009",
+      "venue": "ゆうぽうと",
+      "country": "日本",
+      "performanceNo": 35,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-xmas-2009-001",
+      "date": "2009-12-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス",
+      "tourId": "aska-xmas-2009",
+      "venue": "名古屋国際会議場センチュリーホール",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-aska-xmas-2009-002",
+      "date": "2009-12-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス",
+      "tourId": "aska-xmas-2009",
+      "venue": "東京国際フォーラム ホールA",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-xmas-2009-003",
+      "date": "2009-12-18",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス",
+      "tourId": "aska-xmas-2009",
+      "venue": "東京国際フォーラム ホールA",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト：岩崎宏美",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-xmas-2009-004",
+      "date": "2009-12-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス",
+      "tourId": "aska-xmas-2009",
+      "venue": "グランキューブ大阪 メインホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-extra-2010-new-year-pops-01",
+      "date": "2010-01-09",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "浪切ニューイヤーポップス2010 服部隆之 with 大阪シンフォニカー交響楽団",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-aska-10days-2010-001",
+      "date": "2010-02-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA 10DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 ～ここにあなたの足跡を～",
+      "tourId": "aska-10days-2010",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "release-2010-12",
+      "date": "2010-02-10",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『12』発売",
+      "releaseTitle": "12",
+      "status": "released",
+      "verification": "primary",
+      "note": "ベストアルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-10days-2010-002",
+      "date": "2010-02-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA 10DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 ～ここにあなたの足跡を～",
+      "tourId": "aska-10days-2010",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-10days-2010-003",
+      "date": "2010-02-14",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA 10DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 ～ここにあなたの足跡を～",
+      "tourId": "aska-10days-2010",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-10days-2010-004",
+      "date": "2010-02-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA 10DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 ～ここにあなたの足跡を～",
+      "tourId": "aska-10days-2010",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-10days-2010-005",
+      "date": "2010-02-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA 10DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 ～ここにあなたの足跡を～",
+      "tourId": "aska-10days-2010",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-10days-2010-006",
+      "date": "2010-02-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA 10DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 ～ここにあなたの足跡を～",
+      "tourId": "aska-10days-2010",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-10days-2010-007",
+      "date": "2010-02-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA 10DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 ～ここにあなたの足跡を～",
+      "tourId": "aska-10days-2010",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-10days-2010-008",
+      "date": "2010-02-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA 10DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 ～ここにあなたの足跡を～",
+      "tourId": "aska-10days-2010",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-10days-2010-009",
+      "date": "2010-02-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA 10DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 ～ここにあなたの足跡を～",
+      "tourId": "aska-10days-2010",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-aska-10days-2010-010",
+      "date": "2010-02-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA 10DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 ～ここにあなたの足跡を～",
+      "tourId": "aska-10days-2010",
+      "venue": "東京厚生年金会館",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "release-2010-hibisokuzeku",
+      "date": "2010-03-18",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『Chageドキュメント2009～日々即是空～』発売",
+      "releaseTitle": "Chageドキュメント2009～日々即是空～",
+      "status": "released",
+      "verification": "primary",
+      "note": "DVD",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ]
+    },
+    {
+      "id": "release-2010-showa-christmas",
+      "date": "2010-03-24",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス』発売",
+      "releaseTitle": "ASKA THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス",
+      "status": "released",
+      "verification": "primary",
+      "note": "ライブDVD",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ]
+    },
+    {
+      "id": "live-chage-shibucha-2010-001",
+      "date": "2010-03-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの坂道 “渋茶会”",
+      "tourId": "chage-shibucha-2010",
+      "venue": "SHIBUYA ENTERTAINMENT THEATER PLEASURE PLEASURE",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-shibucha-2010-002",
+      "date": "2010-03-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの坂道 “渋茶会”",
+      "tourId": "chage-shibucha-2010",
+      "venue": "SHIBUYA ENTERTAINMENT THEATER PLEASURE PLEASURE",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-shibucha-2010-003",
+      "date": "2010-03-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの坂道 “渋茶会”",
+      "tourId": "chage-shibucha-2010",
+      "venue": "SHIBUYA ENTERTAINMENT THEATER PLEASURE PLEASURE",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-shibucha-2010-004",
+      "date": "2010-03-31",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの坂道 “渋茶会”",
+      "tourId": "chage-shibucha-2010",
+      "venue": "SHIBUYA ENTERTAINMENT THEATER PLEASURE PLEASURE",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-shibucha-2010-005",
+      "date": "2010-04-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの坂道 “渋茶会”",
+      "tourId": "chage-shibucha-2010",
+      "venue": "SHIBUYA ENTERTAINMENT THEATER PLEASURE PLEASURE",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-shibucha-2010-006",
+      "date": "2010-04-03",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの坂道 “渋茶会”",
+      "tourId": "chage-shibucha-2010",
+      "venue": "SHIBUYA ENTERTAINMENT THEATER PLEASURE PLEASURE",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-shibucha-2010-007",
+      "date": "2010-04-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの坂道 “渋茶会”",
+      "tourId": "chage-shibucha-2010",
+      "venue": "SHIBUYA ENTERTAINMENT THEATER PLEASURE PLEASURE",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "media-2010-chage-otomichi",
+      "date": "2010-04-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "JFN系ラジオ「Chageの音道」放送開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ]
+    },
+    {
+      "id": "live-extra-2010-kan-guests-01",
+      "date": "2010-04-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "KAN「ルックスだけでひっぱって」広島公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-extra-2010-kan-guests-02",
+      "date": "2010-04-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "KAN「ルックスだけでひっぱって」福岡公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-extra-2010-kan-guests-03",
+      "date": "2010-04-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "KAN「ルックスだけでひっぱって」大阪公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-extra-2010-astra-national-anthem-01",
+      "date": "2010-04-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "吉田秀彦引退興行 ASTRA 国歌独唱",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "日本武道館",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-extra-2010-fm-osaka-01",
+      "date": "2010-05-29",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "FM OSAKA開局40周年記念プレミアム E∞Tracks Live",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ビッグバンドナイト出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-chage-hosomichi-2010-001",
+      "date": "2010-06-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2010",
+      "tourId": "chage-hosomichi-2010",
+      "venue": "戸田市文化会館",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "埼玉県"
+    },
+    {
+      "id": "live-chage-hosomichi-2010-002",
+      "date": "2010-06-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2010",
+      "tourId": "chage-hosomichi-2010",
+      "venue": "八王子市芸術文化会館いちょうホール",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-hosomichi-2010-003",
+      "date": "2010-06-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2010",
+      "tourId": "chage-hosomichi-2010",
+      "venue": "響の森 桶川市民ホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "埼玉県"
+    },
+    {
+      "id": "live-chage-hosomichi-2010-004",
+      "date": "2010-06-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2010",
+      "tourId": "chage-hosomichi-2010",
+      "venue": "浜松市勤労会館Uホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "静岡県"
+    },
+    {
+      "id": "live-chage-hosomichi-2010-005",
+      "date": "2010-06-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2010",
+      "tourId": "chage-hosomichi-2010",
+      "venue": "鈴鹿市文化会館 けやきホール",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "三重県"
+    },
+    {
+      "id": "live-chage-hosomichi-2010-006",
+      "date": "2010-07-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2010",
+      "tourId": "chage-hosomichi-2010",
+      "venue": "神奈川県立音楽堂",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-extra-2010-otodama-first-01",
+      "date": "2010-07-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "音霊 OTODAMA SEA STUDIO 2010 Chageの寄り道 渚編 ～大波～小波～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "同日2公演・第1公演（開始時刻未確認）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "音霊 OTODAMA SEA STUDIO",
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-extra-2010-otodama-second-01",
+      "date": "2010-07-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "音霊 OTODAMA SEA STUDIO 2010 Chageの寄り道 渚編 ～大波～小波～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "同日2公演・第2公演（開始時刻未確認）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "音霊 OTODAMA SEA STUDIO",
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-chage-hosomichi-2010-007",
+      "date": "2010-07-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2010",
+      "tourId": "chage-hosomichi-2010",
+      "venue": "栗東芸術文化会館さきら大ホール",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "滋賀県"
+    },
+    {
+      "id": "live-chage-hosomichi-2010-008",
+      "date": "2010-07-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2010",
+      "tourId": "chage-hosomichi-2010",
+      "venue": "貝塚・コスモスシアター 大ホール",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-chage-hosomichi-2010-009",
+      "date": "2010-07-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2010",
+      "tourId": "chage-hosomichi-2010",
+      "venue": "明石市立市民会館アワーズホール",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "兵庫県"
+    },
+    {
+      "id": "live-chage-hosomichi-2010-010",
+      "date": "2010-07-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2010",
+      "tourId": "chage-hosomichi-2010",
+      "venue": "かしはら万葉ホール",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "奈良県"
+    },
+    {
+      "id": "live-extra-2010-sakkyo-01",
+      "date": "2010-07-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "日本製紙Presents 札響ポップスコンサート vol.8",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-chage-hosomichi-2010-011",
+      "date": "2010-07-31",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2010",
+      "tourId": "chage-hosomichi-2010",
+      "venue": "名鉄ホール",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-chage-hosomichi-2010-012",
+      "date": "2010-08-01",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2010",
+      "tourId": "chage-hosomichi-2010",
+      "venue": "名鉄ホール",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-chage-hosomichi-2010-013",
+      "date": "2010-08-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2010",
+      "tourId": "chage-hosomichi-2010",
+      "venue": "米子市文化ホール",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "鳥取県"
+    },
+    {
+      "id": "live-extra-2010-jounetsu-01",
+      "date": "2010-08-07",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "情熱大陸SPECIAL LIVE SUMMER TIME BONANZA ’10",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "夢の島陸上競技場",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "live-chage-hosomichi-2010-014",
+      "date": "2010-08-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageの細道2010",
+      "tourId": "chage-hosomichi-2010",
+      "venue": "サンケイホールブリーゼ",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-extra-2010-mori-01",
+      "date": "2010-09-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "森への恩返しコンサート2010",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "愛・地球博記念公園",
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "live-extra-2010-heian-01",
+      "date": "2010-10-02",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "平安神宮 月夜の宴",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "country": "日本",
+      "venue": "平安神宮特設ステージ",
+      "prefecture": "京都府"
+    },
+    {
+      "id": "other-2010-and-c-preview",
+      "date": "2010-10-02",
+      "artist": "Chage",
+      "category": "other",
+      "title": "アルバム「&C」先行試聴会・ミュージックビデオ試写会",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ]
+    },
+    {
+      "id": "release-2010-mawase",
+      "date": "2010-10-06",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『まわせ大きな地球儀』発売",
+      "releaseTitle": "まわせ大きな地球儀",
+      "status": "released",
+      "verification": "primary",
+      "note": "シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-faces-2010-001",
+      "date": "2010-10-30",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "川口総合文化センター リリアホール",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行／初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "埼玉県"
+    },
+    {
+      "id": "other-2010-kiminouta-preview",
+      "date": "2010-10-30",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "アルバム「君の知らない君の歌」先行試聴会",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-faces-2010-002",
+      "date": "2010-11-03",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "宇都宮市文化会館",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "栃木県"
+    },
+    {
+      "id": "release-2010-and-c",
+      "date": "2010-11-03",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『&C』発売",
+      "releaseTitle": "&C",
+      "status": "released",
+      "verification": "primary",
+      "note": "アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ]
+    },
+    {
+      "id": "release-2010-kimi-no-shiranai",
+      "date": "2010-11-03",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『君の知らない君の歌』発売",
+      "releaseTitle": "君の知らない君の歌",
+      "status": "released",
+      "verification": "primary",
+      "note": "アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ]
+    },
+    {
+      "id": "live-aska-faces-2010-003",
+      "date": "2010-11-06",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "ホクト文化ホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "長野県"
+    },
+    {
+      "id": "live-aska-faces-2010-004",
+      "date": "2010-11-14",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "アクトシティ浜松",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "静岡県"
+    },
+    {
+      "id": "live-aska-faces-2010-005",
+      "date": "2010-11-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "グランキューブ大阪",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-aska-faces-2010-006",
+      "date": "2010-11-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "グランキューブ大阪",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "live-aska-faces-2010-007",
+      "date": "2010-11-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "広島市文化交流会館",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-aska-faces-2010-008",
+      "date": "2010-11-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "広島市文化交流会館",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-aska-faces-2010-009",
+      "date": "2010-11-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "岡山市民会館",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "岡山県"
+    },
+    {
+      "id": "live-aska-faces-2010-010",
+      "date": "2010-11-27",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "ニトリ文化ホール",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-aska-faces-2010-011",
+      "date": "2010-11-28",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "ニトリ文化ホール",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "北海道"
+    },
+    {
+      "id": "live-aska-faces-2010-012",
+      "date": "2010-12-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "神戸国際会館 こくさいホール",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "兵庫県"
+    },
+    {
+      "id": "live-chage-earth-2010-001",
+      "date": "2010-12-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 10-11 “まわせ大きな地球儀”（2010年公演）",
+      "tourId": "chage-earth-2010",
+      "venue": "三郷市文化会館",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行／初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "埼玉県"
+    },
+    {
+      "id": "live-aska-faces-2010-013",
+      "date": "2010-12-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "神戸国際会館 こくさいホール",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "兵庫県"
+    },
+    {
+      "id": "live-aska-faces-2010-014",
+      "date": "2010-12-08",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "市川市文化会館",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "千葉県"
+    },
+    {
+      "id": "live-chage-earth-2010-002",
+      "date": "2010-12-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 10-11 “まわせ大きな地球儀”（2010年公演）",
+      "tourId": "chage-earth-2010",
+      "venue": "京都会館第二ホール",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "京都府"
+    },
+    {
+      "id": "live-aska-faces-2010-015",
+      "date": "2010-12-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "上海国際体操中心（Shanghai International Gymnastic Center）",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "country": "中国"
+    },
+    {
+      "id": "live-chage-earth-2010-003",
+      "date": "2010-12-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 10-11 “まわせ大きな地球儀”（2010年公演）",
+      "tourId": "chage-earth-2010",
+      "venue": "福岡市民会館",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "live-aska-faces-2010-016",
+      "date": "2010-12-18",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "仙台サンプラザホール",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-chage-earth-2010-004",
+      "date": "2010-12-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 10-11 “まわせ大きな地球儀”（2010年公演）",
+      "tourId": "chage-earth-2010",
+      "venue": "広島・NTTクレドホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "広島県"
+    },
+    {
+      "id": "live-aska-faces-2010-017",
+      "date": "2010-12-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "仙台サンプラザホール",
+      "country": "日本",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-chage-earth-2010-005",
+      "date": "2010-12-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 10-11 “まわせ大きな地球儀”（2010年公演）",
+      "tourId": "chage-earth-2010",
+      "venue": "Zepp仙台",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "live-aska-faces-2010-018",
+      "date": "2010-12-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 10>>11 FACES（2010年公演）",
+      "tourId": "aska-faces-2010",
+      "venue": "神奈川県民ホール",
+      "country": "日本",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行／ツアー最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "live-chage-earth-2010-006",
+      "date": "2010-12-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 10-11 “まわせ大きな地球儀”（2010年公演）",
+      "tourId": "chage-earth-2010",
+      "venue": "Zepp札幌",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2011年にツアー続行／ツアー最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "prefecture": "北海道"
     }
   ]
 };
