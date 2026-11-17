@@ -23593,6 +23593,426 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "live-tug-guys-1993-001",
+      "date": "1993-03-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "TUG OF C&A PRESENTS GUYS ～夢の番人～",
+      "tourId": "tug-guys-1993",
+      "venue": "横浜アリーナ",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ファンクラブ会員限定コンサート（SPECIAL EVENT 1993の19公演とは別登録）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-001",
+      "date": "1993-03-30",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "シリーズ初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-002",
+      "date": "1993-03-31",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-003",
+      "date": "1993-04-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-004",
+      "date": "1993-04-03",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-005",
+      "date": "1993-04-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-006",
+      "date": "1993-04-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-007",
+      "date": "1993-04-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-008",
+      "date": "1993-04-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-009",
+      "date": "1993-04-17",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-010",
+      "date": "1993-04-18",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-011",
+      "date": "1993-04-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-012",
+      "date": "1993-04-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "国立代々木競技場第一体育館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-013",
+      "date": "1993-04-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "国立代々木競技場第一体育館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-014",
+      "date": "1993-04-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "国立代々木競技場第一体育館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-015",
+      "date": "1993-04-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "国立代々木競技場第一体育館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-016",
+      "date": "1993-05-01",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "国立代々木競技場第一体育館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-017",
+      "date": "1993-05-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "国立代々木競技場第一体育館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-018",
+      "date": "1993-05-04",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "国立代々木競技場第一体育館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-guys-special-event-1993-019",
+      "date": "1993-05-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "SPECIAL EVENT 1993 GUYS ～夢の番人～",
+      "tourId": "guys-special-event-1993",
+      "venue": "国立代々木競技場第一体育館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 19,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "シリーズ最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
       "id": "live-longest-tour-1993-1994-001",
       "date": "1993-10-10",
       "artist": "CHAGE and ASKA",
@@ -23604,9 +24024,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 1,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "ツアー初日",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23642,9 +24066,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 2,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23663,9 +24091,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 3,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23684,9 +24116,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 4,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23705,9 +24141,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 5,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23726,9 +24166,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 6,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23747,9 +24191,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 7,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23768,9 +24216,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 8,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23789,9 +24241,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 9,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23810,9 +24266,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 10,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23831,9 +24291,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 11,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23852,9 +24316,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 12,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23873,9 +24341,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 13,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23894,9 +24366,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 14,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23915,9 +24391,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 15,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23936,9 +24416,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 16,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -23991,9 +24475,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 17,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24012,9 +24500,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 18,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24033,9 +24525,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 19,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24054,9 +24550,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 20,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24075,9 +24575,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 21,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24096,9 +24600,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 22,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24117,9 +24625,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 23,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24138,9 +24650,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 24,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24159,9 +24675,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 25,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24180,9 +24700,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 26,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24201,9 +24725,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 27,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24222,9 +24750,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 28,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24243,9 +24775,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 29,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24264,9 +24800,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 30,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24327,9 +24867,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 31,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24348,9 +24892,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 32,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24369,9 +24917,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 33,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24390,9 +24942,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 34,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24411,9 +24967,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 35,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24432,9 +24992,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 36,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24453,9 +25017,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 37,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24474,9 +25042,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 38,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24495,9 +25067,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 39,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24516,9 +25092,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 40,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24537,9 +25117,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 41,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24558,9 +25142,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 42,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24579,9 +25167,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 43,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24600,9 +25192,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 44,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24616,14 +25212,18 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "史上最大の作戦 THE LONGEST TOUR 1993-1994",
       "tourId": "longest-tour-1993-1994",
-      "venue": "名古屋市総合体育館レインボーホール",
+      "venue": "名古屋市総合体育館 レインボーホール",
       "prefecture": "愛知県",
       "country": "日本",
       "performanceNo": 45,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24637,14 +25237,18 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "史上最大の作戦 THE LONGEST TOUR 1993-1994",
       "tourId": "longest-tour-1993-1994",
-      "venue": "名古屋市総合体育館レインボーホール",
+      "venue": "名古屋市総合体育館 レインボーホール",
       "prefecture": "愛知県",
       "country": "日本",
       "performanceNo": 46,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24658,14 +25262,18 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "史上最大の作戦 THE LONGEST TOUR 1993-1994",
       "tourId": "longest-tour-1993-1994",
-      "venue": "名古屋市総合体育館レインボーホール",
+      "venue": "名古屋市総合体育館 レインボーホール",
       "prefecture": "愛知県",
       "country": "日本",
       "performanceNo": 47,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24679,14 +25287,18 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "史上最大の作戦 THE LONGEST TOUR 1993-1994",
       "tourId": "longest-tour-1993-1994",
-      "venue": "名古屋市総合体育館レインボーホール",
+      "venue": "名古屋市総合体育館 レインボーホール",
       "prefecture": "愛知県",
       "country": "日本",
       "performanceNo": 48,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24700,14 +25312,18 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "史上最大の作戦 THE LONGEST TOUR 1993-1994",
       "tourId": "longest-tour-1993-1994",
-      "venue": "名古屋市総合体育館レインボーホール",
+      "venue": "名古屋市総合体育館 レインボーホール",
       "prefecture": "愛知県",
       "country": "日本",
       "performanceNo": 49,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24721,14 +25337,18 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "史上最大の作戦 THE LONGEST TOUR 1993-1994",
       "tourId": "longest-tour-1993-1994",
-      "venue": "名古屋市総合体育館レインボーホール",
+      "venue": "名古屋市総合体育館 レインボーホール",
       "prefecture": "愛知県",
       "country": "日本",
       "performanceNo": 50,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24747,9 +25367,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 51,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24768,9 +25392,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 52,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24789,9 +25417,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 53,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24810,9 +25442,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 54,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24831,9 +25467,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 55,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24852,9 +25492,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 56,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24873,9 +25517,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 57,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24894,9 +25542,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 58,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24915,9 +25567,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 59,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24936,9 +25592,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 60,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24957,9 +25617,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 61,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24978,9 +25642,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 62,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -24999,9 +25667,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 63,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -25020,9 +25692,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 64,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -25041,9 +25717,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 65,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -25062,9 +25742,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 66,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -25083,9 +25767,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 67,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -25104,9 +25792,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 68,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -25125,9 +25817,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 69,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -25146,9 +25842,13 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 70,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "ツアー最終日",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
@@ -25461,7 +26161,7 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "MULTI MAX CONCERT TOUR 1994 “Well, Well, Well”",
       "tourId": "multi-max-well-well-well-1994",
-      "venue": "仙台イズミティ21",
+      "venue": "仙台イズミティー21",
       "country": "日本",
       "performanceNo": 6,
       "status": "recorded",
@@ -66571,5 +67271,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-7"
+  "siteVersion": "1.8.2-8"
 };
