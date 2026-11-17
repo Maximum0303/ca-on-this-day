@@ -18079,6 +18079,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18231-1990-01-31-chageandaska-001",
+      "date": "1990-01-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオSUPER」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
       "id": "release-1990-1992-001",
       "date": "1990-02-07",
       "artist": "CHAGE and ASKA",
@@ -23641,6 +23660,101 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18231-1993-01-02-chageandaska-001",
+      "date": "1993-01-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「タモリの音楽ステーション」映像・メッセージ出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：テレビ朝日。出演形態：映像・メッセージ出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/54.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-v18231-1993-03-03-multimax-001",
+      "date": "1993-03-03",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「MULTI MAX コンサート 放送」ライブ映像放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：WOWOW。出演形態：ライブ映像放送。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/54.html"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v18231-1993-03-07-chageandaska-001",
+      "date": "1993-03-07",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア’93」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/54.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v18231-1993-03-12-chageandaska-001",
+      "date": "1993-03-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：テレビ朝日。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/54.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-v18231-1993-03-13-chageandaska-001",
+      "date": "1993-03-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「第7回ゴールドディスク大賞’93」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：NHK。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/54.html"
+        }
+      ],
+      "broadcastStation": "NHK"
+    },
+    {
       "id": "live-tug-guys-1993-001",
       "date": "1993-03-24",
       "artist": "CHAGE and ASKA",
@@ -23702,6 +23816,25 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ]
+    },
+    {
+      "id": "media-v18231-1993-03-31-chageandaska-001",
+      "date": "1993-03-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ リターンズスペシャル」衛星中継出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：衛星中継出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/54.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
     },
     {
       "id": "live-guys-special-event-1993-003",
@@ -23786,6 +23919,25 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ]
+    },
+    {
+      "id": "media-v18231-1993-04-10-chageandaska-001",
+      "date": "1993-04-10",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「SUPER LIVE SPRING GIG’93」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：TBS。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/54.html"
+        }
+      ],
+      "broadcastStation": "TBS"
     },
     {
       "id": "live-guys-special-event-1993-007",
@@ -24059,6 +24211,25 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ]
+    },
+    {
+      "id": "media-v18231-1993-05-07-multimax-001",
+      "date": "1993-05-07",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：テレビ朝日。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/54.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
     },
     {
       "id": "live-longest-tour-1993-1994-001",
@@ -24904,6 +25075,44 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都"
     },
     {
+      "id": "media-v18231-1994-01-02-chageandaska-001",
+      "date": "1994-01-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「栄光のミリオンスターBIG3・夢の競演」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/55.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v18231-1994-01-04-chageandaska-001",
+      "date": "1994-01-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「タイムアングル」特集",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：特集。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/55.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
       "id": "live-longest-tour-1993-1994-031",
       "date": "1994-01-07",
       "artist": "CHAGE and ASKA",
@@ -24952,6 +25161,25 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ]
+    },
+    {
+      "id": "media-v18231-1994-01-09-chageandaska-001",
+      "date": "1994-01-09",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「SUPER STARS GIG CHAGE&ASKA」映像特番放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：テレビ東京。出演形態：映像特番放送。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/55.html"
+        }
+      ],
+      "broadcastStation": "テレビ東京"
     },
     {
       "id": "live-longest-tour-1993-1994-033",
@@ -25504,6 +25732,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18231-1994-03-05-chageandaska-001",
+      "date": "1994-03-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「第8回ゴールドディスク大賞」VTR出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：NHK。出演形態：VTR出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/55.html"
+        }
+      ],
+      "broadcastStation": "NHK"
+    },
+    {
       "id": "live-longest-tour-1993-1994-055",
       "date": "1994-03-09",
       "artist": "CHAGE and ASKA",
@@ -25922,6 +26169,25 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ]
+    },
+    {
+      "id": "media-v18231-1994-04-29-chageandaska-001",
+      "date": "1994-04-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「BS流行歌最前線」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：NHK BS2。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/55.html"
+        }
+      ],
+      "broadcastStation": "NHK BS2"
     },
     {
       "id": "live-asian-tour-1994-002",
@@ -26468,6 +26734,63 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18231-1995-01-06-aska-001",
+      "date": "1995-01-06",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：テレビ朝日。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-v18231-1995-01-15-chageandaska-001",
+      "date": "1995-01-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア’95」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v18231-1995-02-24-aska-001",
+      "date": "1995-02-24",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：テレビ朝日。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
       "id": "release-v06-1995-02-27-132",
       "date": "1995-02-27",
       "artist": "ASKA",
@@ -26483,6 +26806,82 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ]
+    },
+    {
+      "id": "media-v18231-1995-03-07-multimax-001",
+      "date": "1995-03-07",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「MULTI MAX Well, Well, Well」ライブ映像放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：WOWOW。出演形態：ライブ映像放送。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v18231-1995-03-12-chageandaska-001",
+      "date": "1995-03-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「阪神大震災復興への歌声」イベント映像放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：TBS。出演形態：イベント映像放送。開催日と放送日を区別",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
+      "id": "media-v18231-1995-03-17-aska-001",
+      "date": "1995-03-17",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：テレビ朝日。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-v18231-1995-05-05-aska-001",
+      "date": "1995-05-05",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「TK MUSIC CLAMP」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：ゲスト出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
     },
     {
       "id": "release-v06-1995-05-10-133",
@@ -26769,6 +27168,44 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "北海道"
+    },
+    {
+      "id": "media-v18231-1995-07-29-chageandaska-001",
+      "date": "1995-07-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA スーパーライブドキュメント札幌5DAYS」ドキュメンタリー放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：北海道文化放送。出演形態：ドキュメンタリー放送。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        }
+      ],
+      "broadcastStation": "北海道文化放送"
+    },
+    {
+      "id": "media-v18231-1995-08-08-chageandaska-001",
+      "date": "1995-08-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「満員御礼！！耳をすませば」トーク特番放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：日本テレビ。出演形態：トーク特番放送。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        }
+      ],
+      "broadcastStation": "日本テレビ"
     },
     {
       "id": "live-mission-impossible-1995-1996-012",
@@ -27604,6 +28041,25 @@ window.CA_EVENT_DATA = {
       "prefecture": "愛知県"
     },
     {
+      "id": "media-v18231-1996-01-04-chageandaska-001",
+      "date": "1996-01-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「KBCニュースピア」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：九州朝日放送。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        }
+      ],
+      "broadcastStation": "九州朝日放送"
+    },
+    {
       "id": "live-mission-impossible-1995-1996-048",
       "date": "1996-01-06",
       "artist": "CHAGE and ASKA",
@@ -27990,6 +28446,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18231-1996-04-03-chageandaska-001",
+      "date": "1996-04-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ・桜満開！超デラックス」衛星中継出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：衛星中継出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
       "id": "live-asian-mission-impossible-1995-1996-005",
       "date": "1996-04-04",
       "artist": "CHAGE and ASKA",
@@ -28030,6 +28505,44 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18231-1996-04-26-chageandaska-001",
+      "date": "1996-04-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「FAN」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：日本テレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        }
+      ],
+      "broadcastStation": "日本テレビ"
+    },
+    {
+      "id": "media-v18231-1996-06-16-chageandaska-001",
+      "date": "1996-06-16",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA SPECIAL 史上最大の作戦 その瞳で見てくれ」ドキュメンタリー放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：ドキュメンタリー放送。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
       "id": "v1829-1996-0619-mtv-unplugged",
       "date": "1996-06-19",
       "artist": "CHAGE and ASKA",
@@ -28050,6 +28563,25 @@ window.CA_EVENT_DATA = {
           "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/938001520"
         }
       ]
+    },
+    {
+      "id": "media-v18231-1996-07-03-chageandaska-001",
+      "date": "1996-07-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA ASIAN TOUR '96」ライブ映像放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：スペースシャワーTV。出演形態：ライブ映像放送。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        }
+      ],
+      "broadcastStation": "スペースシャワーTV"
     },
     {
       "id": "v1829-1996-0708-one-voice-uk",
@@ -28132,6 +28664,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18231-1996-10-20-chageandaska-001",
+      "date": "1996-10-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「MTV UNPLUGGED LIVE CHAGE&ASKA」ライブ映像放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：MTV JAPAN。出演形態：ライブ映像放送。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        }
+      ],
+      "broadcastStation": "MTV JAPAN"
+    },
+    {
       "id": "release-v06-1996-11-07-136",
       "date": "1996-11-07",
       "artist": "MULTI MAX",
@@ -28163,6 +28714,44 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ]
+    },
+    {
+      "id": "media-v18231-1996-11-08-chage-001",
+      "date": "1996-11-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「笑っていいとも！」テレホンショッキング出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：テレホンショッキング出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v18231-1996-11-08-multimax-001",
+      "date": "1996-11-08",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：テレビ朝日。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
     },
     {
       "id": "release-v06-1996-12-04-137",
@@ -28367,6 +28956,44 @@ window.CA_EVENT_DATA = {
       "prefecture": "福岡県"
     },
     {
+      "id": "media-v18231-1996-12-25-aska-001",
+      "date": "1996-12-25",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ 超X'masデラックスin NY」衛星中継出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：衛星中継出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v18231-1997-01-03-chageandaska-001",
+      "date": "1997-01-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKAスーパーライブ～270日間の軌跡」ドキュメンタリー放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：NHK BS2。出演形態：ドキュメンタリー放送。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "NHK BS2"
+    },
+    {
       "id": "live-multi-max-okidoki-1996-1997-009",
       "date": "1997-01-06",
       "artist": "MULTI MAX",
@@ -28409,6 +29036,25 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都"
     },
     {
+      "id": "media-v18231-1997-01-07-multimax-001",
+      "date": "1997-01-07",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「CHAGE presents MULTI MAXバースデースペシャルライブ Oki Doki!」ライブ生放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：WOWOW。出演形態：ライブ生放送。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
       "id": "live-multi-max-okidoki-1996-1997-011",
       "date": "1997-01-10",
       "artist": "MULTI MAX",
@@ -28430,6 +29076,158 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都"
     },
     {
+      "id": "media-v18231-1997-01-13-chage-001",
+      "date": "1997-01-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「P-STOCK」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。連続放送の各回を別々に点検",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v18231-1997-01-14-chage-001",
+      "date": "1997-01-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「P-STOCK」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v18231-1997-01-15-chage-001",
+      "date": "1997-01-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「P-STOCK」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v18231-1997-01-16-chage-001",
+      "date": "1997-01-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「P-STOCK」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v18231-1997-01-17-chage-001",
+      "date": "1997-01-17",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「P-STOCK」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v18231-1997-01-20-aska-001",
+      "date": "1997-01-20",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「P-STOCK」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v18231-1997-01-21-aska-001",
+      "date": "1997-01-21",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「P-STOCK」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v18231-1997-01-22-aska-001",
+      "date": "1997-01-22",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「P-STOCK」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
       "id": "release-v06-1997-01-22-139",
       "date": "1997-01-22",
       "artist": "ASKA",
@@ -28445,6 +29243,44 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ]
+    },
+    {
+      "id": "media-v18231-1997-01-23-aska-001",
+      "date": "1997-01-23",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「P-STOCK」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v18231-1997-01-24-aska-001",
+      "date": "1997-01-24",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「P-STOCK」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
     },
     {
       "id": "release-v06-1997-02-05-140",
@@ -29090,6 +29926,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18231-1998-03-27-aska-001",
+      "date": "1998-03-27",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「めざましテレビ」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
       "id": "v18210-1998-0406-chage-p-stock-start",
       "date": "1998-04-06",
       "artist": "Chage",
@@ -29120,6 +29975,63 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ]
+    },
+    {
+      "id": "media-v18231-1998-04-17-chage-001",
+      "date": "1998-04-17",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「P-STOCK」レギュラー番組 第1回",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：レギュラー番組 第1回。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v18231-1998-04-20-aska-001",
+      "date": "1998-04-20",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「ASKA by 飛鳥」コンサート映像・インタビュー放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：東海テレビ、テレビ静岡 他。出演形態：コンサート映像・インタビュー放送。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "東海テレビ、テレビ静岡 他"
+    },
+    {
+      "id": "media-v18231-1998-04-24-chage-001",
+      "date": "1998-04-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「P-STOCK」レギュラー番組 第2回",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：レギュラー番組 第2回。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
     },
     {
       "id": "live-v07-kicks-1998-001",
@@ -29162,6 +30074,25 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "静岡県"
+    },
+    {
+      "id": "media-v18231-1998-05-01-chage-001",
+      "date": "1998-05-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「P-STOCK」レギュラー番組 第3回",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：レギュラー番組 第3回。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
     },
     {
       "id": "live-v07-kicks-1998-003",
@@ -29456,6 +30387,25 @@ window.CA_EVENT_DATA = {
       "prefecture": "新潟県"
     },
     {
+      "id": "media-v18231-1998-06-08-chage-001",
+      "date": "1998-06-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「超アジア流」ドキュメンタリー放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：日本テレビ。出演形態：ドキュメンタリー放送。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "日本テレビ"
+    },
+    {
       "id": "live-v07-kicks-1998-015",
       "date": "1998-06-10",
       "artist": "ASKA",
@@ -29513,6 +30463,44 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "東京都"
+    },
+    {
+      "id": "media-v18231-1998-06-11-chage-001",
+      "date": "1998-06-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「新 真夜中の王国」上海公演特集 第1回",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：NHK BS2。出演形態：上海公演特集 第1回。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "NHK BS2"
+    },
+    {
+      "id": "media-v18231-1998-06-12-chage-001",
+      "date": "1998-06-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「新 真夜中の王国」上海公演特集 第2回",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：NHK BS2。出演形態：上海公演特集 第2回。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "NHK BS2"
     },
     {
       "id": "live-v07-kicks-1998-017",
@@ -29597,6 +30585,25 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "広島県"
+    },
+    {
+      "id": "media-v18231-1998-06-21-chage-001",
+      "date": "1998-06-21",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「赤坂泰彦のPerfect Night」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：SKY PerfecTV!。出演形態：ゲスト出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "SKY PerfecTV!"
     },
     {
       "id": "live-v07-chage-budokan-1998-001",
@@ -41830,6 +42837,44 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18231-2007-01-04-chageandaska-001",
+      "date": "2007-01-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「PVTV」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：テレビ東京。出演形態：ゲスト出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/76.html"
+        }
+      ],
+      "broadcastStation": "テレビ東京"
+    },
+    {
+      "id": "media-v18231-2007-01-10-chageandaska-001",
+      "date": "2007-01-10",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「めざましテレビ」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：ゲスト出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/76.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
       "id": "release-2007-01-10-here-there",
       "date": "2007-01-10",
       "artist": "CHAGE and ASKA",
@@ -41896,6 +42941,63 @@ window.CA_EVENT_DATA = {
         }
       ],
       "releaseTitle": "DOUBLE DVD"
+    },
+    {
+      "id": "media-v18231-2007-01-27-chageandaska-001",
+      "date": "2007-01-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「MUSIC FAIR 21」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/76.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v18231-2007-01-28-chageandaska-001",
+      "date": "2007-01-28",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「みゅーじん」ドキュメンタリー放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：テレビ東京。出演形態：ドキュメンタリー放送。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/76.html"
+        }
+      ],
+      "broadcastStation": "テレビ東京"
+    },
+    {
+      "id": "media-v18231-2007-03-01-chageandaska-001",
+      "date": "2007-03-01",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「Point Green Live 2006」イベント映像放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：WOWOW。出演形態：イベント映像放送。2006年12月23日のライブと区別",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/76.html"
+        }
+      ],
+      "broadcastStation": "WOWOW"
     },
     {
       "id": "live-double-2007-001",
@@ -42985,6 +44087,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18231-2007-08-04-chageandaska-001",
+      "date": "2007-08-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE and ASKA Concert tour 2007 DOUBLE」ライブ映像放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ721。出演形態：ライブ映像放送。実公演は2007年5月24日",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/76.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ721"
+    },
+    {
       "id": "release-2007-08-29-chage-and-aska-concert-tour-2007-double",
       "date": "2007-08-29",
       "artist": "CHAGE and ASKA",
@@ -43141,6 +44262,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18231-2007-12-07-chageandaska-001",
+      "date": "2007-12-07",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ともだっち～ず」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：北海道文化放送。出演形態：ゲスト出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/76.html"
+        }
+      ],
+      "broadcastStation": "北海道文化放送"
+    },
+    {
       "id": "live-alive-in-live-2007-005",
       "date": "2007-12-08",
       "artist": "CHAGE and ASKA",
@@ -43191,6 +44331,25 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ]
+    },
+    {
+      "id": "media-v18231-2007-12-10-chageandaska-001",
+      "date": "2007-12-10",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「のりゆきのトークDE北海道」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：北海道文化放送。出演形態：ゲスト出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/76.html"
+        }
+      ],
+      "broadcastStation": "北海道文化放送"
     },
     {
       "id": "live-alive-in-live-2007-007",
@@ -43321,6 +44480,25 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ]
+    },
+    {
+      "id": "media-v18231-2007-12-30-aska-001",
+      "date": "2007-12-30",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「第49回輝く！日本レコード大賞」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：TBS。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/76.html"
+        }
+      ],
+      "broadcastStation": "TBS"
     },
     {
       "id": "live-extra-2008-popular-week-01",
@@ -44262,6 +45440,25 @@ window.CA_EVENT_DATA = {
       "prefecture": "神奈川県"
     },
     {
+      "id": "media-v18231-2009-03-24-chage-001",
+      "date": "2009-03-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「コラボ☆ラボ 夢の音楽工房」レギュラー最終回放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：WOWOW。出演形態：レギュラー最終回放送。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
       "id": "release-2009-many-happy-returns",
       "date": "2009-03-25",
       "artist": "Chage",
@@ -44790,6 +45987,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18231-2009-04-29-chage-001",
+      "date": "2009-04-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「Mライブ」初回放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：TBS。出演形態：初回放送。公式年譜の4/28「開始」と日付差があるため要確認",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
       "id": "live-aska-walk-2009-013",
       "date": "2009-05-05",
       "artist": "ASKA",
@@ -45059,6 +46275,25 @@ window.CA_EVENT_DATA = {
       "prefecture": "岩手県"
     },
     {
+      "id": "media-v18231-2009-05-27-chage-001",
+      "date": "2009-05-27",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「Mライブ」第2回放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：TBS。出演形態：第2回放送。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
       "id": "live-aska-walk-2009-024",
       "date": "2009-05-30",
       "artist": "ASKA",
@@ -45120,6 +46355,25 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "静岡県"
+    },
+    {
+      "id": "media-v18231-2009-06-04-chage-001",
+      "date": "2009-06-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「徹子の部屋」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：テレビ朝日。出演形態：ゲスト出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
     },
     {
       "id": "live-aska-walk-2009-027",
@@ -75028,5 +76282,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-30"
+  "siteVersion": "1.8.2-31"
 };
