@@ -1,34 +1,31 @@
-# 今日はC&Aの何の日？ — Ver.0.8 データ更新
+# 今日はC&Aの何の日？ — Ver.0.9 データ更新
 
-既存 **1,219件**（Ver.0.7）を保持し、2002〜2004年の公演と出来事 **232件**を追加しました。
+Ver.0.8の既存1,451件を保持し、2005〜2007年の公演・音源映像作品・出来事を124件追加しました。
 
-## 収録件数（2026-11-17）
+## 収録件数
 
-- **総計：1,451件**
-- ライブ・公演・出演 **1307件**（今回+208件。延期公演等を含むため開催済み公演だけの数ではありません）
-- 作品発売 **138件**（今回+19件）
-- その他・メディア・記念日 **6件**（今回+5件）
-- 重複IDなし。年月日の形式を全件検証済み。
+- **総登録：1,575件**（ライブ関連1,417、作品発売149、その他分類9）。
+- 今回追加：ライブ関連110件（ASKA「My Game is ASKA」34、公演「DOUBLE」51、「alive in live」11、CHAGE博6、イベント・単独公演8）、作品発売11件、メディア1件、FCイベント開始記録2件。
+- **注記**：ライブ関連には既存の延期予定記録も含まれ、すべて開催済み公演を意味しません。
+- 2007年12月15日の「alive in live」札幌公演は昼14時と夜18時の**2公演**を別IDで記録（公式History掲載は日付1行）。
+- 2005年Guam FCイベントは日程開始を記録。ミニライブの実施日が未確定につきライブ件数には含めていません。
+- 2007年12月6日 FUYUON! 2007の会場詳細は照合待ち。
+- 出典付きとはいえ全アーカイブの原本確認・完全網羅は未了です。
 
-## 今回の主な公演
+## 主な出典
 
-- 2002年「NOT AT ALL」ホールツアー **43件**を追加。2001年の31公演と合わせて **74公演**（[ツアー資料](https://w.atwiki.jp/canda/pages/427.html)）。
-- 2002年「NOT AT ALL」アリーナ追加公演 **10件**。各会場初日はファンクラブ会員向け（[ツアー資料](https://w.atwiki.jp/canda/pages/428.html)）。
-- 2002〜2003年「THE LIVE」 **66公演**（[ツアー資料](https://w.atwiki.jp/canda/pages/429.html)）。
-- 2004年「two-five」 **71公演**（[ツアー資料](https://w.atwiki.jp/canda/pages/430.html)）。
-- その他：2002年学園祭・野外イベント、2003年フェス・「Thanks Festa」6公演・札幌ドームの公開リハーサルと本公演、2004年8月28日熱風コンサート・11月13日三田祭前夜祭など。
-- 作品発売19件：DVD・アルバム・シングル・BOX盤等。ラジオ番組・出版物の記録も追加。
+- 公式HISTORY: https://www.chage-aska.net/history/2000.php
+- ASKA My Game is ASKA: https://w.atwiki.jp/cavc/pages/95.html
+- CHAGE博2005: https://w.atwiki.jp/canda/pages/383.html
+- alive in live: https://w.atwiki.jp/cavc/pages/434.html
+- Short Shorts Film Festival 2005: https://www.shortshorts.org/ja/about/2005.php
+- Point Green Live 2006: https://w.atwiki.jp/cavc/pages/453.html
+- 服部良一100周年出演: https://tower.jp/article/news/2007/08/22/100010666
 
-## 参考資料
+## GitHub Pagesへの反映
 
-- [CHAGE and ASKA 公式HISTORY 2000〜2009年](https://www.chage-aska.net/history/2000.php)（公演の集計数、イベント・発売日）
-- [archives wiki：NOT AT ALL 本編](https://w.atwiki.jp/canda/pages/427.html)、[追加公演](https://w.atwiki.jp/canda/pages/428.html)、[THE LIVE](https://w.atwiki.jp/canda/pages/429.html)、[two-five](https://w.atwiki.jp/canda/pages/430.html)（個別日程・会場名）
-- [ladomi.net コンサート一覧](https://ca.ladomi.net/live_ca)（横断照合）
+1. `data/events.js`, `data/events.json`, `data/events.csv` を既存の同名ファイルと置き換える。
+2. ルートの `README.md` を置き換える。`index.html` とその他プログラムは変更しない。
+3. GitHubでコミット後、サイトの絞り込みに2005〜2007年の記録が増えたことを確認する。
 
-## 公開サイトへの適用
-
-`data` フォルダーの **events.json / events.js / events.csv** を3ファイルとも上書きし、ルートの **README.md** を上書きしてください。`index.html` は今回変更ありません。
-
-`data/events.js` は公開画面が実際に読み込むファイルです。更新後に画面が古いままの場合、ブラウザーの再読み込みを試してください。
-
-**注意：** 公開版の `admin.html` は保存しても自動的にGitHubに反映される仕組みではありません。管理画面の新規作業がある場合は今回の最新版データを元に行い、古いデータで上書きしないよう注意してください。検証状態 `primary` は公式HISTORY上の事実確認、`secondary` はツアー個別日程をアーカイブ資料と照合した状態を意味し、全項目の一次資料原本照合を示しません。
+**重要**：`build_sample_data.py` は古い初期73件を再生成するものです。追加後に実行すると最新データが上書きされるため使用しないでください。
