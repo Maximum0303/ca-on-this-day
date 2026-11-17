@@ -1,6 +1,139 @@
 ﻿ID,日付,名義,種類,タイトル,都道府県,会場,公演番号,備考,照合状況,出典URL
-release-album-red-hill-1993,1993-10-10,CHAGE and ASKA,release,『RED HILL』発売,,,,,secondary,https://w.atwiki.jp/canda/pages/424.html
+release-hitorizaki-1979,1979-08-25,CHAGE and ASKA,release,『ひとり咲き』発売,,,,,primary,https://www.chage-aska.net/history/
+live-concert-1988-001,1988-05-20,CHAGE and ASKA,live,CONCERT TOUR ’88,千葉県,習志野文化会館ホール,1,ツアー初日,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-002,1988-05-22,CHAGE and ASKA,live,CONCERT TOUR ’88,,P･I･T,2,開催地は資料間に相違（東京都・北海道）。都道府県は確認待ち,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-003,1988-05-26,CHAGE and ASKA,live,CONCERT TOUR ’88,埼玉県,浦和市文化センター,3,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-004,1988-05-29,CHAGE and ASKA,live,CONCERT TOUR ’88,広島県,広島郵便貯金ホール,4,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-005,1988-05-30,CHAGE and ASKA,live,CONCERT TOUR ’88,岡山県,倉敷市民会館,5,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-006,1988-05-31,CHAGE and ASKA,live,CONCERT TOUR ’88,兵庫県,神戸文化ホール,6,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-007,1988-06-03,CHAGE and ASKA,live,CONCERT TOUR ’88,静岡県,静岡市民文化会館,7,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-008,1988-06-04,CHAGE and ASKA,live,CONCERT TOUR ’88,三重県,四日市市民文化会館,8,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-009,1988-06-06,CHAGE and ASKA,live,CONCERT TOUR ’88,岐阜県,岐阜市民会館,9,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-010,1988-06-07,CHAGE and ASKA,live,CONCERT TOUR ’88,静岡県,浜松市民会館,10,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-011,1988-06-09,CHAGE and ASKA,live,CONCERT TOUR ’88,佐賀県,佐賀市民会館,11,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-012,1988-06-11,CHAGE and ASKA,live,CONCERT TOUR ’88,大分県,中津文化会館,12,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-013,1988-06-12,CHAGE and ASKA,live,CONCERT TOUR ’88,宮崎県,延岡総合文化センター,13,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-014,1988-06-14,CHAGE and ASKA,live,CONCERT TOUR ’88,鹿児島県,鹿児島市民文化センター,14,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-015,1988-06-15,CHAGE and ASKA,live,CONCERT TOUR ’88,熊本県,人吉カルチャーパレス,15,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-016,1988-06-20,CHAGE and ASKA,live,CONCERT TOUR ’88,宮城県,宮城県民会館,16,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-017,1988-06-21,CHAGE and ASKA,live,CONCERT TOUR ’88,福島県,郡山市民文化センター,17,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-018,1988-06-25,CHAGE and ASKA,live,CONCERT TOUR ’88,沖縄県,沖縄コンベンションセンター,18,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-019,1988-06-29,CHAGE and ASKA,live,CONCERT TOUR ’88,大阪府,大阪フェスティバルホール,19,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-020,1988-06-30,CHAGE and ASKA,live,CONCERT TOUR ’88,大阪府,大阪フェスティバルホール,20,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-021,1988-07-05,CHAGE and ASKA,live,CONCERT TOUR ’88,神奈川県,神奈川県民ホール,21,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-022,1988-07-08,CHAGE and ASKA,live,CONCERT TOUR ’88,北海道,札幌厚生年金会館,22,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-023,1988-07-12,CHAGE and ASKA,live,CONCERT TOUR ’88,長崎県,長崎市公会堂,23,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-024,1988-07-13,CHAGE and ASKA,live,CONCERT TOUR ’88,福岡県,福岡サンパレス,24,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-025,1988-07-15,CHAGE and ASKA,live,CONCERT TOUR ’88,福岡県,九州厚生年金会館,25,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-026,1988-07-18,CHAGE and ASKA,live,CONCERT TOUR ’88,東京都,新宿厚生年金会館,26,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-027,1988-07-19,CHAGE and ASKA,live,CONCERT TOUR ’88,東京都,新宿厚生年金会館,27,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-028,1988-07-21,CHAGE and ASKA,live,CONCERT TOUR ’88,福井県,福井フェニックスプラザ,28,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-029,1988-07-23,CHAGE and ASKA,live,CONCERT TOUR ’88,京都府,京都会館第一ホール,29,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-030,1988-07-25,CHAGE and ASKA,live,CONCERT TOUR ’88,大阪府,大阪厚生年金会館,30,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-031,1988-07-26,CHAGE and ASKA,live,CONCERT TOUR ’88,大阪府,大阪厚生年金会館,31,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-032,1988-07-29,CHAGE and ASKA,live,CONCERT TOUR ’88,愛知県,名古屋市民会館,32,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-033,1988-07-30,CHAGE and ASKA,live,CONCERT TOUR ’88,愛知県,名古屋市民会館,33,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-034,1988-08-03,CHAGE and ASKA,live,CONCERT TOUR ’88,東京都,日本武道館,34,春・夏シリーズ最終公演,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-035,1988-10-15,CHAGE and ASKA,live,CONCERT TOUR ’88,埼玉県,戸田市文化会館,35,秋シリーズ初日,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-036,1988-10-18,CHAGE and ASKA,live,CONCERT TOUR ’88,青森県,八戸市公会堂,36,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-037,1988-10-19,CHAGE and ASKA,live,CONCERT TOUR ’88,青森県,弘前市民会館,37,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-038,1988-10-20,CHAGE and ASKA,live,CONCERT TOUR ’88,秋田県,能代市文化会館,38,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-039,1988-10-24,CHAGE and ASKA,live,CONCERT TOUR ’88,千葉県,千葉県文化会館,39,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-040,1988-11-01,CHAGE and ASKA,live,CONCERT TOUR ’88,香川県,高松市民会館,40,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-041,1988-11-02,CHAGE and ASKA,live,CONCERT TOUR ’88,愛媛県,松山市民会館,41,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-042,1988-11-04,CHAGE and ASKA,live,CONCERT TOUR ’88,長崎県,佐世保市民会館,42,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-043,1988-11-06,CHAGE and ASKA,live,CONCERT TOUR ’88,鹿児島県,大隈町文化会館,43,会場の漢字表記に資料間の相違あり（大隈／大隅）。要確認,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-044,1988-11-07,CHAGE and ASKA,live,CONCERT TOUR ’88,鹿児島県,鹿児島市民文化ホール,44,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-045,1988-11-09,CHAGE and ASKA,live,CONCERT TOUR ’88,群馬県,群馬音楽センター,45,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-046,1988-11-14,CHAGE and ASKA,live,CONCERT TOUR ’88,山形県,鶴岡市文化会館,46,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-047,1988-11-15,CHAGE and ASKA,live,CONCERT TOUR ’88,秋田県,秋田県民会館,47,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-048,1988-11-16,CHAGE and ASKA,live,CONCERT TOUR ’88,岩手県,岩手県民会館,48,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-049,1988-11-19,CHAGE and ASKA,live,CONCERT TOUR ’88,栃木県,日光霧降高原,49,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-050,1988-11-21,CHAGE and ASKA,live,CONCERT TOUR ’88,福井県,福井フェニックスプラザ,50,,secondary,https://w.atwiki.jp/canda/pages/418.html
+release-energy-1988,1988-11-21,CHAGE and ASKA,release,『ENERGY』発売,,,,,primary,https://www.chage-aska.net/history/
+live-concert-1988-051,1988-11-22,CHAGE and ASKA,live,CONCERT TOUR ’88,石川県,石川厚生年金会館,51,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-052,1988-11-24,CHAGE and ASKA,live,CONCERT TOUR ’88,新潟県,長岡市立劇場,52,,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-concert-1988-053,1988-11-25,CHAGE and ASKA,live,CONCERT TOUR ’88,神奈川県,神奈川県民ホール,53,ツアー最終日,secondary,https://w.atwiki.jp/canda/pages/418.html
+live-xmas-special-1988-001,1988-11-30,CHAGE and ASKA,live,1988 X'mas Special,大阪府,大阪城ホール,1,ツアー初日,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-002,1988-12-03,CHAGE and ASKA,live,1988 X'mas Special,静岡県,静岡市民文化会館,2,,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-003,1988-12-06,CHAGE and ASKA,live,1988 X'mas Special,東京都,日本武道館,3,,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-004,1988-12-07,CHAGE and ASKA,live,1988 X'mas Special,東京都,日本武道館,4,,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-005,1988-12-09,CHAGE and ASKA,live,1988 X'mas Special,滋賀県,守山市民ホール,5,,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-006,1988-12-10,CHAGE and ASKA,live,1988 X'mas Special,京都府,京都会館第一ホール,6,,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-007,1988-12-12,CHAGE and ASKA,live,1988 X'mas Special,富山県,富山市公会堂,7,,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-008,1988-12-14,CHAGE and ASKA,live,1988 X'mas Special,北海道,北海道厚生年金会館,8,,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-009,1988-12-16,CHAGE and ASKA,live,1988 X'mas Special,宮城県,宮城県民会館,9,,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-010,1988-12-17,CHAGE and ASKA,live,1988 X'mas Special,福島県,いわき市平市民会館,10,,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-011,1988-12-19,CHAGE and ASKA,live,1988 X'mas Special,島根県,島根県民会館,11,,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-012,1988-12-20,CHAGE and ASKA,live,1988 X'mas Special,岡山県,倉敷市民会館,12,,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-013,1988-12-22,CHAGE and ASKA,live,1988 X'mas Special,広島県,広島郵便貯金会館,13,,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-014,1988-12-23,CHAGE and ASKA,live,1988 X'mas Special,兵庫県,姫路市文化センター,14,,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-015,1988-12-25,CHAGE and ASKA,live,1988 X'mas Special,愛知県,名古屋市総合体育館,15,,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-016,1988-12-27,CHAGE and ASKA,live,1988 X'mas Special,福岡県,大牟田文化会館,16,,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-xmas-special-1988-017,1988-12-28,CHAGE and ASKA,live,1988 X'mas Special,福岡県,福岡国際センター,17,ツアー最終日,secondary,https://w.atwiki.jp/canda/pages/419.html
+live-concert-1989-10years-001,1989-04-30,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,東京都,昭島市民会館,1,ツアー初日,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-002,1989-05-03,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,広島県,広島郵便貯金ホール,2,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-003,1989-05-04,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,兵庫県,神戸文化ホール,3,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-004,1989-05-06,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,岡山県,倉敷市民会館,4,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-005,1989-05-08,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,熊本県,熊本市民会館,5,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-006,1989-05-09,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,長崎県,長崎市公会堂,6,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-007,1989-05-11,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,宮崎県,宮崎市民会館,7,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-008,1989-05-15,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,千葉県,習志野文化ホール,8,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-009,1989-05-17,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,神奈川県,神奈川県民ホール,9,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-010,1989-05-19,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,青森県,青森市文化会館,10,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-011,1989-05-20,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,秋田県,大館市民文化会館,11,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-012,1989-05-21,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,山形県,酒田市民会館,12,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-013,1989-05-23,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,新潟県,柏崎市市民会館,13,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-014,1989-05-24,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,新潟県,柏崎市市民会館,14,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-015,1989-05-26,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,新潟県,新潟県民会館,15,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-016,1989-05-27,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,埼玉県,浦和市文化センター,16,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-017,1989-05-30,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,三重県,四日市市文化会館,17,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-018,1989-05-31,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,岐阜県,岐阜市民会館,18,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-019,1989-06-02,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,静岡県,静岡市民文化会館,19,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-020,1989-06-03,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,静岡県,浜松市民会館,20,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-021,1989-06-06,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,茨城県,茨城県民文化センター,21,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-022,1989-06-09,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,愛媛県,松山市民会館,22,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-023,1989-06-10,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,香川県,香川県民ホール,23,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-024,1989-06-12,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,徳島県,徳島市文化センター,24,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-025,1989-06-14,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,佐賀県,佐賀市民会館,25,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-026,1989-06-16,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,大分県,大分文化会館,26,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-027,1989-06-17,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,大分県,中津文化会館,27,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-028,1989-06-19,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,鹿児島県,鹿児島市民文化ホール,28,,secondary,https://w.atwiki.jp/canda/pages/420.html
+release-love-song-1989,1989-06-21,CHAGE and ASKA,release,『LOVE SONG』発売,,,,,primary,https://www.chage-aska.net/history/
+live-concert-1989-10years-029,1989-06-26,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,富山県,富山市公会堂,29,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-030,1989-06-28,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,福井県,福井フェニックスプラザ,30,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-031,1989-06-29,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,石川県,金沢市観光会館,31,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-032,1989-07-01,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,京都府,京都会館第一ホール,32,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-033,1989-07-02,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,京都府,京都会館第一ホール,33,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-034,1989-07-04,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,兵庫県,姫路市文化センター,34,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-035,1989-07-06,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,福岡県,福岡サンパレス,35,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-036,1989-07-07,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,福岡県,福岡サンパレス,36,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-037,1989-07-13,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,東京都,新宿厚生年金会館,37,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-038,1989-07-14,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,東京都,新宿厚生年金会館,38,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-039,1989-07-15,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,東京都,新宿厚生年金会館,39,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-040,1989-07-17,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,宮城県,宮城県民会館,40,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-041,1989-07-18,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,秋田県,秋田県民会館,41,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-042,1989-07-20,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,北海道,札幌厚生年金会館,42,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-043,1989-07-24,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,大阪府,大阪フェスティバルホール,43,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-044,1989-07-25,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,大阪府,大阪フェスティバルホール,44,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-045,1989-07-26,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,大阪府,大阪フェスティバルホール,45,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-046,1989-08-04,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,愛知県,名古屋市民会館,46,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-047,1989-08-05,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,愛知県,名古屋市民会館,47,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-048,1989-08-06,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,愛知県,名古屋市民会館,48,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-049,1989-08-09,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,大阪府,大阪フェスティバルホール,49,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-050,1989-08-10,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,大阪府,大阪フェスティバルホール,50,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-051,1989-08-13,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,東京都,新宿厚生年金会館,51,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-052,1989-08-14,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,東京都,新宿厚生年金会館,52,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-053,1989-08-15,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,東京都,新宿厚生年金会館,53,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-054,1989-08-18,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,東京都,新宿厚生年金会館,54,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-055,1989-08-19,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,東京都,新宿厚生年金会館,55,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-056,1989-08-21,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,東京都,新宿厚生年金会館,56,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-057,1989-08-22,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,東京都,新宿厚生年金会館,57,,secondary,https://w.atwiki.jp/canda/pages/420.html
+release-pride-1989,1989-08-25,CHAGE and ASKA,release,『PRIDE』発売,,,,,primary,https://www.chage-aska.net/history/
+live-concert-1989-10years-058,1989-09-09,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,福島県,郡山市民文化センター,58,,secondary,https://w.atwiki.jp/canda/pages/420.html
+live-concert-1989-10years-059,1989-09-15,CHAGE and ASKA,live,CONCERT TOUR ’89 10 years after,沖縄県,沖縄コンベンションセンター,59,ツアー最終日,secondary,https://w.atwiki.jp/canda/pages/420.html
 live-longest-tour-1993-1994-001,1993-10-10,CHAGE and ASKA,live,史上最大の作戦 THE LONGEST TOUR 1993-1994,岩手県,盛岡市アイスアリーナ,1,ツアー初日,secondary,https://w.atwiki.jp/canda/pages/424.html
+release-album-red-hill-1993,1993-10-10,CHAGE and ASKA,release,『RED HILL』発売,,,,,secondary,https://w.atwiki.jp/canda/pages/424.html
 live-longest-tour-1993-1994-002,1993-10-13,CHAGE and ASKA,live,史上最大の作戦 THE LONGEST TOUR 1993-1994,北海道,真駒内アイスアリーナ,2,,secondary,https://w.atwiki.jp/canda/pages/424.html
 live-longest-tour-1993-1994-003,1993-10-14,CHAGE and ASKA,live,史上最大の作戦 THE LONGEST TOUR 1993-1994,北海道,真駒内アイスアリーナ,3,,secondary,https://w.atwiki.jp/canda/pages/424.html
 live-longest-tour-1993-1994-004,1993-10-16,CHAGE and ASKA,live,史上最大の作戦 THE LONGEST TOUR 1993-1994,北海道,真駒内アイスアリーナ,4,,secondary,https://w.atwiki.jp/canda/pages/424.html
@@ -15,9 +148,9 @@ live-longest-tour-1993-1994-012,1993-11-12,CHAGE and ASKA,live,史上最大の�
 live-longest-tour-1993-1994-013,1993-11-15,CHAGE and ASKA,live,史上最大の作戦 THE LONGEST TOUR 1993-1994,京都府,京都会館第一ホール,13,,secondary,https://w.atwiki.jp/canda/pages/424.html
 live-longest-tour-1993-1994-014,1993-11-16,CHAGE and ASKA,live,史上最大の作戦 THE LONGEST TOUR 1993-1994,京都府,京都会館第一ホール,14,,secondary,https://w.atwiki.jp/canda/pages/424.html
 live-longest-tour-1993-1994-015,1993-11-18,CHAGE and ASKA,live,史上最大の作戦 THE LONGEST TOUR 1993-1994,岡山県,岡山市総合文化体育館,15,,secondary,https://w.atwiki.jp/canda/pages/424.html
+live-longest-tour-1993-1994-016,1993-11-19,CHAGE and ASKA,live,史上最大の作戦 THE LONGEST TOUR 1993-1994,岡山県,岡山市総合文化体育館,16,,secondary,https://w.atwiki.jp/canda/pages/424.html
 release-single-nazeni-kimi-wa-kaeranai-1993,1993-11-19,CHAGE and ASKA,release,『なぜに君は帰らない』発売,,,,,secondary,https://w.atwiki.jp/canda/pages/424.html
 release-single-you-are-free-1993,1993-11-19,CHAGE and ASKA,release,『You are free』発売,,,,,secondary,https://w.atwiki.jp/canda/pages/424.html
-live-longest-tour-1993-1994-016,1993-11-19,CHAGE and ASKA,live,史上最大の作戦 THE LONGEST TOUR 1993-1994,岡山県,岡山市総合文化体育館,16,,secondary,https://w.atwiki.jp/canda/pages/424.html
 live-longest-tour-1993-1994-017,1993-11-27,CHAGE and ASKA,live,史上最大の作戦 THE LONGEST TOUR 1993-1994,群馬県,群馬県民会館,17,,secondary,https://w.atwiki.jp/canda/pages/424.html
 live-longest-tour-1993-1994-018,1993-11-28,CHAGE and ASKA,live,史上最大の作戦 THE LONGEST TOUR 1993-1994,群馬県,群馬県民会館,18,,secondary,https://w.atwiki.jp/canda/pages/424.html
 live-longest-tour-1993-1994-019,1993-11-30,CHAGE and ASKA,live,史上最大の作戦 THE LONGEST TOUR 1993-1994,新潟県,新潟産業振興センター,19,,secondary,https://w.atwiki.jp/canda/pages/424.html
