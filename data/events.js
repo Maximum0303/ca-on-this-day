@@ -1,7 +1,7 @@
-/* 公開用データ。events.jsonと同じ内容を保持 */
+/* 公開用データ。events.jsonから生成 */
 window.CA_EVENT_DATA = {
   "schemaVersion": 1,
-  "notice": "試験収録：1988〜1989年の3ツアー129公演、1993〜1994年の史上最大の作戦70公演、作品発売7件。1979年からの部分収録です。全時代・全公演の網羅は未完了で、一次資料との照合を順次進めています。",
+  "notice": "部分収録：1980年・1986年・1987年の5公演シリーズ104公演、1988〜1989年の3公演シリーズ129公演、1993〜1994年の史上最大の作戦70公演、作品発売13件。全公演・全時代の網羅ではありません。日程と会場の一次資料照合は順次実施します。",
   "lastUpdated": "2026-11-17",
   "events": [
     {
@@ -18,6 +18,2292 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "release-earlyyears-01",
+      "date": "1980-04-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『風舞』発売",
+      "releaseTitle": "風舞",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜該当年の作品",
+          "url": "https://w.atwiki.jp/cavc/pages/439.html"
+        }
+      ]
+    },
+    {
+      "id": "live-departure-concert-1980-001",
+      "date": "1980-05-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "旅立ちコンサート",
+      "tourId": "departure-concert-1980",
+      "venue": "福岡市民会館",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ツアー初日／初のオフィシャル・ワンマンコンサート",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/439.html"
+        }
+      ]
+    },
+    {
+      "id": "live-departure-concert-1980-002",
+      "date": "1980-06-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "旅立ちコンサート",
+      "tourId": "departure-concert-1980",
+      "venue": "京都府会館 第二ホール",
+      "prefecture": "京都府",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/439.html"
+        }
+      ]
+    },
+    {
+      "id": "live-departure-concert-1980-003",
+      "date": "1980-06-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "旅立ちコンサート",
+      "tourId": "departure-concert-1980",
+      "venue": "大阪サンケイホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/439.html"
+        }
+      ]
+    },
+    {
+      "id": "live-departure-concert-1980-004",
+      "date": "1980-07-16",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "旅立ちコンサート",
+      "tourId": "departure-concert-1980",
+      "venue": "東京郵便貯金ホール",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/439.html"
+        }
+      ]
+    },
+    {
+      "id": "live-departure-concert-1980-005",
+      "date": "1980-07-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "旅立ちコンサート",
+      "tourId": "departure-concert-1980",
+      "venue": "金沢市観光会館",
+      "prefecture": "石川県",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/439.html"
+        }
+      ]
+    },
+    {
+      "id": "live-departure-concert-1980-006",
+      "date": "1980-07-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "旅立ちコンサート",
+      "tourId": "departure-concert-1980",
+      "venue": "富山県民会館",
+      "prefecture": "富山県",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/439.html"
+        }
+      ]
+    },
+    {
+      "id": "live-departure-concert-1980-007",
+      "date": "1980-07-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "旅立ちコンサート",
+      "tourId": "departure-concert-1980",
+      "venue": "新潟県民会館",
+      "prefecture": "新潟県",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/439.html"
+        }
+      ]
+    },
+    {
+      "id": "live-departure-concert-1980-008",
+      "date": "1980-08-17",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "旅立ちコンサート",
+      "tourId": "departure-concert-1980",
+      "venue": "宇都宮市教育会館",
+      "prefecture": "栃木県",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/439.html"
+        }
+      ]
+    },
+    {
+      "id": "live-departure-concert-1980-009",
+      "date": "1980-08-18",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "旅立ちコンサート",
+      "tourId": "departure-concert-1980",
+      "venue": "浜松市民会館",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/439.html"
+        }
+      ]
+    },
+    {
+      "id": "live-departure-concert-1980-010",
+      "date": "1980-08-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "旅立ちコンサート",
+      "tourId": "departure-concert-1980",
+      "venue": "大宮市民会館",
+      "prefecture": "埼玉県",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/439.html"
+        }
+      ]
+    },
+    {
+      "id": "live-departure-concert-1980-011",
+      "date": "1980-08-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "旅立ちコンサート",
+      "tourId": "departure-concert-1980",
+      "venue": "札幌市民会館",
+      "prefecture": "北海道",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/439.html"
+        }
+      ]
+    },
+    {
+      "id": "live-departure-concert-1980-012",
+      "date": "1980-09-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "旅立ちコンサート",
+      "tourId": "departure-concert-1980",
+      "venue": "岡山市民文化ホール",
+      "prefecture": "岡山県",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ツアー最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/439.html"
+        }
+      ]
+    },
+    {
+      "id": "release-earlyyears-02",
+      "date": "1986-02-05",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『モーニングムーン』発売",
+      "releaseTitle": "モーニングムーン",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜該当年の作品",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-001",
+      "date": "1986-04-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "戸田市文化会館",
+      "prefecture": "埼玉県",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ツアー初日／ゲネプロ・本番",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "release-earlyyears-03",
+      "date": "1986-04-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『TURNING POINT』発売",
+      "releaseTitle": "TURNING POINT",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜該当年の作品",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-002",
+      "date": "1986-04-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "神奈川県民ホール",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-003",
+      "date": "1986-05-01",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "広島郵便貯金会館",
+      "prefecture": "広島県",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-004",
+      "date": "1986-05-03",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "倉敷市民会館",
+      "prefecture": "岡山県",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-005",
+      "date": "1986-05-04",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "名古屋市民会館",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-006",
+      "date": "1986-05-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "名古屋市民会館",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-007",
+      "date": "1986-05-18",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "神戸文化ホール",
+      "prefecture": "兵庫県",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-008",
+      "date": "1986-05-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "大阪フェスティバルホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-009",
+      "date": "1986-05-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "大阪フェスティバルホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "release-earlyyears-04",
+      "date": "1986-05-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『黄昏を待たずに』発売",
+      "releaseTitle": "黄昏を待たずに",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜該当年の作品",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-010",
+      "date": "1986-05-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "京都会館第一ホール",
+      "prefecture": "京都府",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-011",
+      "date": "1986-05-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "渋谷公会堂",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-012",
+      "date": "1986-05-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "渋谷公会堂",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ収録",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-013",
+      "date": "1986-06-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "渋谷公会堂",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-014",
+      "date": "1986-06-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "千葉県文化会館",
+      "prefecture": "千葉県",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-015",
+      "date": "1986-06-13",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "秋田県民文化会館",
+      "prefecture": "秋田県",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-016",
+      "date": "1986-06-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "青森市文化会館",
+      "prefecture": "青森県",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-017",
+      "date": "1986-06-16",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "いわき市平市民会館",
+      "prefecture": "福島県",
+      "country": "日本",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-018",
+      "date": "1986-06-17",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "宮城県民会館",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-019",
+      "date": "1986-06-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "佐賀市文化会館",
+      "prefecture": "佐賀県",
+      "country": "日本",
+      "performanceNo": 19,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-020",
+      "date": "1986-06-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "福岡サンパレス",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 20,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-021",
+      "date": "1986-06-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "鹿児島県文化センター",
+      "prefecture": "鹿児島県",
+      "country": "日本",
+      "performanceNo": 21,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-022",
+      "date": "1986-06-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "熊本市民会館",
+      "prefecture": "熊本県",
+      "country": "日本",
+      "performanceNo": 22,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-023",
+      "date": "1986-07-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "北海道厚生年金会館",
+      "prefecture": "北海道",
+      "country": "日本",
+      "performanceNo": 23,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-024",
+      "date": "1986-07-18",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "宇都宮市文化会館",
+      "prefecture": "栃木県",
+      "country": "日本",
+      "performanceNo": 24,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-explosion-1986-025",
+      "date": "1986-07-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Big Explosion Series",
+      "tourId": "big-explosion-1986",
+      "venue": "つま恋エキシビションホール",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "performanceNo": 25,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ツアー最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "live-summer-explosion-1986-001",
+      "date": "1986-07-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Summer Explosion Series",
+      "tourId": "summer-explosion-1986",
+      "venue": "飛鳥村歴史公園",
+      "prefecture": "奈良県",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "イベント初日／ラジオ中継",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/381.html"
+        }
+      ]
+    },
+    {
+      "id": "live-summer-explosion-1986-002",
+      "date": "1986-08-01",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Summer Explosion Series",
+      "tourId": "summer-explosion-1986",
+      "venue": "名古屋城深井丸",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/381.html"
+        }
+      ]
+    },
+    {
+      "id": "live-summer-explosion-1986-003",
+      "date": "1986-08-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Summer Explosion Series",
+      "tourId": "summer-explosion-1986",
+      "venue": "横浜スタジアム",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "映像収録",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/381.html"
+        }
+      ]
+    },
+    {
+      "id": "live-summer-explosion-1986-004",
+      "date": "1986-08-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "Summer Explosion Series",
+      "tourId": "summer-explosion-1986",
+      "venue": "沖縄市民会館",
+      "prefecture": "沖縄県",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "イベント最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/381.html"
+        }
+      ]
+    },
+    {
+      "id": "release-earlyyears-05",
+      "date": "1987-04-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SAILOR MAN』発売",
+      "releaseTitle": "SAILOR MAN",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜該当年の作品",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-001",
+      "date": "1987-04-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "市川市文化会館",
+      "prefecture": "千葉県",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ツアー初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-002",
+      "date": "1987-04-30",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "下関市民会館",
+      "prefecture": "山口県",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-003",
+      "date": "1987-05-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "神戸文化ホール",
+      "prefecture": "兵庫県",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-004",
+      "date": "1987-05-03",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "広島郵便貯金ホール",
+      "prefecture": "広島県",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-005",
+      "date": "1987-05-04",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "倉敷市民会館",
+      "prefecture": "岡山県",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-006",
+      "date": "1987-05-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "宮城県民会館",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-007",
+      "date": "1987-05-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "宮城県民会館",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-008",
+      "date": "1987-05-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "いわき市平市民会館",
+      "prefecture": "福島県",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-009",
+      "date": "1987-05-10",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "郡山市民会館",
+      "prefecture": "福島県",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-010",
+      "date": "1987-05-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "岐阜市民会館",
+      "prefecture": "岐阜県",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-011",
+      "date": "1987-05-16",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "四日市市民会館",
+      "prefecture": "三重県",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-012",
+      "date": "1987-05-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "佐世保市民会館",
+      "prefecture": "長崎県",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-013",
+      "date": "1987-05-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "佐賀市民会館",
+      "prefecture": "佐賀県",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "release-earlyyears-06",
+      "date": "1987-05-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Mr.ASIA』発売",
+      "releaseTitle": "Mr.ASIA",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜該当年の作品",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-014",
+      "date": "1987-05-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "中津文化会館",
+      "prefecture": "大分県",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-015",
+      "date": "1987-05-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "延岡総合文化センター",
+      "prefecture": "宮崎県",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-016",
+      "date": "1987-05-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "鹿児島県文化センター",
+      "prefecture": "鹿児島県",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-017",
+      "date": "1987-05-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "那覇市民会館",
+      "prefecture": "沖縄県",
+      "country": "日本",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-018",
+      "date": "1987-05-31",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "宇都宮市文化会館",
+      "prefecture": "栃木県",
+      "country": "日本",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-019",
+      "date": "1987-06-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "新潟県民会館",
+      "prefecture": "新潟県",
+      "country": "日本",
+      "performanceNo": 19,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "佐藤邦治と田辺モットが新たなリズム隊として参加",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-020",
+      "date": "1987-06-13",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "国立代々木競技場 第一体育館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 20,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオ収録",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-021",
+      "date": "1987-06-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "国立代々木競技場 第一体育館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 21,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオ収録",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-022",
+      "date": "1987-06-18",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "大阪フェスティバルホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 22,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "追加公演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-023",
+      "date": "1987-06-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "大阪フェスティバルホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 23,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-024",
+      "date": "1987-06-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "大阪フェスティバルホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 24,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-025",
+      "date": "1987-06-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "福岡サンパレス",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 25,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-026",
+      "date": "1987-06-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "福岡サンパレス",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 26,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-027",
+      "date": "1987-06-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "熊本市民会館",
+      "prefecture": "熊本県",
+      "country": "日本",
+      "performanceNo": 27,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-028",
+      "date": "1987-06-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "長崎市公会堂",
+      "prefecture": "長崎県",
+      "country": "日本",
+      "performanceNo": 28,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-029",
+      "date": "1987-06-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "京都会館 第一ホール",
+      "prefecture": "京都府",
+      "country": "日本",
+      "performanceNo": 29,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-030",
+      "date": "1987-06-30",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "近江八幡市文化会館",
+      "prefecture": "滋賀県",
+      "country": "日本",
+      "performanceNo": 30,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-031",
+      "date": "1987-07-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "松山市民会館",
+      "prefecture": "愛媛県",
+      "country": "日本",
+      "performanceNo": 31,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-032",
+      "date": "1987-07-03",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "高松市民会館",
+      "prefecture": "香川県",
+      "country": "日本",
+      "performanceNo": 32,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-033",
+      "date": "1987-07-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "黒磯市文化会館",
+      "prefecture": "栃木県",
+      "country": "日本",
+      "performanceNo": 33,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-034",
+      "date": "1987-07-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "北海道厚生年金会館",
+      "prefecture": "北海道",
+      "country": "日本",
+      "performanceNo": 34,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-035",
+      "date": "1987-07-12",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "岩手県民会館",
+      "prefecture": "岩手県",
+      "country": "日本",
+      "performanceNo": 35,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-036",
+      "date": "1987-07-13",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "秋田県民会館",
+      "prefecture": "秋田県",
+      "country": "日本",
+      "performanceNo": 36,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-037",
+      "date": "1987-07-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "青森市文化会館",
+      "prefecture": "青森県",
+      "country": "日本",
+      "performanceNo": 37,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-038",
+      "date": "1987-07-16",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "酒田市民会館",
+      "prefecture": "山形県",
+      "country": "日本",
+      "performanceNo": 38,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-039",
+      "date": "1987-07-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "群馬県民会館",
+      "prefecture": "群馬県",
+      "country": "日本",
+      "performanceNo": 39,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-040",
+      "date": "1987-07-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "神奈川県民ホール 大ホール",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 40,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-041",
+      "date": "1987-07-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "茨城県立県民文化センター",
+      "prefecture": "茨城県",
+      "country": "日本",
+      "performanceNo": 41,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-042",
+      "date": "1987-07-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "静岡市民文化会館",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "performanceNo": 42,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-043",
+      "date": "1987-07-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "名古屋市民会館",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 43,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-044",
+      "date": "1987-07-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "名古屋市民会館",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 44,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-we-shall-return-1987-045",
+      "date": "1987-08-08",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "We Shall Return",
+      "tourId": "we-shall-return-1987",
+      "venue": "大阪万博記念競技場",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 45,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ツアーファイナル／野外公演／ラジオ収録",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-001",
+      "date": "1987-11-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "川口市民会館",
+      "prefecture": "埼玉県",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ツアー初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-002",
+      "date": "1987-11-11",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "静岡市民文化会館",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-003",
+      "date": "1987-11-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "北海道厚生年金会館",
+      "prefecture": "北海道",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-004",
+      "date": "1987-11-17",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "浜松市民会館",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-005",
+      "date": "1987-11-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-006",
+      "date": "1987-11-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "宮城県民会館",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-007",
+      "date": "1987-12-04",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "伊勢原市民文化会館",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-008",
+      "date": "1987-12-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "日本武道館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-009",
+      "date": "1987-12-08",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "日本武道館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "光GENJIが飛び入り出演／テレビ収録",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-010",
+      "date": "1987-12-10",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "京都会館",
+      "prefecture": "京都府",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-011",
+      "date": "1987-12-11",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "宇都宮市文化会館",
+      "prefecture": "栃木県",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-012",
+      "date": "1987-12-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "福井フェニックスホール",
+      "prefecture": "福井県",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-013",
+      "date": "1987-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "松山市民会館",
+      "prefecture": "愛媛県",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-014",
+      "date": "1987-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "広島郵便貯金会館",
+      "prefecture": "広島県",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-015",
+      "date": "1987-12-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "浜田市民会館",
+      "prefecture": "島根県",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-016",
+      "date": "1987-12-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "倉敷市民会館",
+      "prefecture": "岡山県",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-017",
+      "date": "1987-12-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "名古屋市総合体育館 レインボーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "クリスマス当日の公演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "live-xmas-special-1987-018",
+      "date": "1987-12-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "X'mas Special'87",
+      "tourId": "xmas-special-1987",
+      "venue": "福岡国際センター",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ツアー最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
+          "url": "https://w.atwiki.jp/cavc/pages/383.html"
         }
       ]
     },
