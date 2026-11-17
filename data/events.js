@@ -5,6 +5,102 @@ window.CA_EVENT_DATA = {
   "lastUpdated": "2026-11-17",
   "events": [
     {
+      "id": "media-v17-1978-001",
+      "date": "1978-10-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。第16回ポピュラーソングコンテストつま恋本選会の模様。「流恋情歌」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1978年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/68.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1978-002",
+      "date": "1978-11-11",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「第16回ポピュラーソングコンテストつま恋本選会」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「流恋情歌」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1978年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/68.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-001",
+      "date": "1979-01-28",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。九州出身アーティスト特集。「流恋情歌」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-002",
+      "date": "1979-04-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ポピュラーソングコンテスト九州大会」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "FBS福岡放送。第17回ポプコン九州大会の模様。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-003",
+      "date": "1979-05-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「ひとり咲き」、ポプコン本選会の紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-004",
+      "date": "1979-08-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。デビュー直前の出演。「ひとり咲き」ほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
       "id": "release-hitorizaki-1979",
       "date": "1979-08-25",
       "artist": "CHAGE and ASKA",
@@ -18,6 +114,166 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-005",
+      "date": "1979-09-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ポピュラーソングコンテスト九州大会」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "FBS福岡放送。ゲスト出演。「ひとり咲き」ほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-006",
+      "date": "1979-11-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。放送記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-007",
+      "date": "1979-11-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。初出演。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-008",
+      "date": "1979-12-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1979-009",
+      "date": "1979-12-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ニュー・ウェーブ・コンサート」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-001",
+      "date": "1980-01-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「ニューイヤーライブコンサート」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-FM。1979年12月のNHKホール公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-002",
+      "date": "1980-01-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング―郁恵＆陽介ジョイント・ショー―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-003",
+      "date": "1980-01-14",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-004",
+      "date": "1980-02-18",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-005",
+      "date": "1980-02-24",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「ひとり咲き」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
     },
@@ -39,6 +295,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1980-006",
+      "date": "1980-03-16",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング―'79リクエスト・ショー―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
       "id": "release-earlyyears-01",
       "date": "1980-04-25",
       "artist": "CHAGE and ASKA",
@@ -52,6 +324,54 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 映像情報メディア管理センター｜該当年の作品",
           "url": "https://w.atwiki.jp/cavc/pages/439.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-007",
+      "date": "1980-05-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。4月20日NEMU SPRING FESTIVAL '80の模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-008",
+      "date": "1980-05-18",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。放送記録。詳細は要確認。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-009",
+      "date": "1980-05-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'80」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。番組初出演。「流恋情歌」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
     },
@@ -119,6 +439,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1980-010",
+      "date": "1980-07-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「わが旅わが心 チャゲ&飛鳥のヤァヤァヤァ 西九州～壱岐の旅」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。西九州・壱岐の旅番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
       "id": "live-departure-concert-1980-004",
       "date": "1980-07-16",
       "artist": "CHAGE and ASKA",
@@ -136,6 +472,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-011",
+      "date": "1980-07-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。アルバム「風舞」特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
         }
       ]
     },
@@ -266,6 +618,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1980-012",
+      "date": "1980-08-24",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「幻夜」「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
       "id": "live-departure-concert-1980-011",
       "date": "1980-08-28",
       "artist": "CHAGE and ASKA",
@@ -325,6 +693,630 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1980-013",
+      "date": "1980-09-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-001",
+      "date": "1980-10-17",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "東北学院大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-002",
+      "date": "1980-10-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "上智短期大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-003",
+      "date": "1980-10-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "大妻女子大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-004",
+      "date": "1980-10-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "甲南女子大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-005",
+      "date": "1980-10-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "長崎総化学大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "大学名は公式HISTORYの表記を使用。正式名称要照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-006",
+      "date": "1980-10-31",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "福岡工業大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-007",
+      "date": "1980-11-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "九州女子大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-014",
+      "date": "1980-11-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-008",
+      "date": "1980-11-03",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "山口女子大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-015",
+      "date": "1980-11-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'80」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-009",
+      "date": "1980-11-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "鹿児島経済大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-010",
+      "date": "1980-11-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "共立薬科大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式HISTORYには11月7日と11月24日の双方に同校名が掲載。2公演の実施詳細要照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-011",
+      "date": "1980-11-08",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "中京女子大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-012",
+      "date": "1980-11-12",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "広島文化女子短大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-016",
+      "date": "1980-11-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「アップルハウス」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。番組出演記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-013",
+      "date": "1980-11-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "松山商科大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-014",
+      "date": "1980-11-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "高知大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-017",
+      "date": "1980-11-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「サウンドメッセージ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。学園祭の様子を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-015",
+      "date": "1980-11-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "共立薬科大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式HISTORYには11月7日と11月24日の双方に同校名が掲載。2公演の実施詳細要照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-018",
+      "date": "1980-11-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「万里の河」、スポットライトで紹介（20位）。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "live-school-1980-016",
+      "date": "1980-11-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "学園祭コンサート（1980年）",
+      "tourId": "school-1980",
+      "venue": "中央大",
+      "prefecture": "",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1980-019",
+      "date": "1980-12-18",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「万里の河」、ベストテン初ランクイン（8位）。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-001",
+      "date": "1981-01-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「チャゲ&飛鳥 ライヴ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-FM。スタジオライブ特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-002",
+      "date": "1981-01-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-003",
+      "date": "1981-01-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「600 こちら情報部」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「時代が求める音楽 チャゲ&飛鳥」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-004",
+      "date": "1981-01-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「万里の河」第4位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-005",
+      "date": "1981-01-11",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。放送記録。詳細は要確認。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-006",
+      "date": "1981-01-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「万里の河」第6位。東北新幹線小山駅付近から出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-007",
+      "date": "1981-02-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「万里の河」第6位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-008",
+      "date": "1981-02-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「万里の河」第6位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-009",
+      "date": "1981-02-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「荒野」「翼」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-010",
+      "date": "1981-02-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「翼」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-011",
+      "date": "1981-02-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ヤングおー!おー!」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "MBS。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
       "id": "release-v04-neppu-1981",
       "date": "1981-02-25",
       "artist": "CHAGE and ASKA",
@@ -338,6 +1330,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-012",
+      "date": "1981-02-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「万里の河」第10位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
     },
@@ -422,6 +1430,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-013",
+      "date": "1981-03-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。チャゲ&飛鳥特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
     },
@@ -741,6 +1765,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1981-014",
+      "date": "1981-05-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「Lo-D ライブコンサート」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "東京FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
       "id": "live-heat-1981-020",
       "date": "1981-05-12",
       "artist": "CHAGE and ASKA",
@@ -821,6 +1861,38 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-015",
+      "date": "1981-05-16",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「第21回ポピュラーソングコンテスト関東甲信越大会」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。石川優子とナビゲーターとして出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-016",
+      "date": "1981-05-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。NEMU SPRING FESTIVAL '81の模様。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
     },
@@ -964,6 +2036,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-017",
+      "date": "1981-06-01",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「放浪人(TABIBITO)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
     },
@@ -1199,6 +2287,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1981-018",
+      "date": "1981-06-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'81」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「放浪人(TABIBITO)」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
       "id": "live-heat-1981-041",
       "date": "1981-06-24",
       "artist": "CHAGE and ASKA",
@@ -1237,6 +2341,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-019",
+      "date": "1981-06-28",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。クリスタルキングと出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
     },
@@ -1388,6 +2508,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1981-020",
+      "date": "1981-07-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「放浪人(TABIBITO)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
       "id": "live-heat-1981-050",
       "date": "1981-07-18",
       "artist": "CHAGE and ASKA",
@@ -1491,6 +2627,10 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
           "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/364.html"
         }
@@ -1535,6 +2675,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-021",
+      "date": "1981-08-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「チャゲ&飛鳥 ザ・夏まつり」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "東京FM。8月1日田園コロシアム公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
     },
@@ -1625,8 +2781,28 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
           "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/364.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-022",
+      "date": "1981-08-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ヤングおー!おー!」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "MBS。「真夏の国境」「放浪人(TABIBITO)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
     },
@@ -1644,6 +2820,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-023",
+      "date": "1981-10-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
     },
@@ -1879,6 +3071,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1981-024",
+      "date": "1981-10-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「第22回ポピュラーソングコンテストつま恋本選会」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。放送記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
       "id": "live-school-1981-008",
       "date": "1981-11-01",
       "artist": "CHAGE and ASKA",
@@ -1896,6 +3104,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-025",
+      "date": "1981-11-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「第12回 世界歌謡祭」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。歌謡祭のショータイムを放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
     },
@@ -1938,6 +3162,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-026",
+      "date": "1981-11-14",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。世界歌謡祭の模様。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
     },
@@ -2026,6 +3266,38 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1981-027",
+      "date": "1981-11-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-028",
+      "date": "1981-11-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
       "id": "live-school-1981-015",
       "date": "1981-11-23",
       "artist": "CHAGE and ASKA",
@@ -2043,6 +3315,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-029",
+      "date": "1981-11-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ヤングおー!おー!」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "MBS。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
     },
@@ -2106,6 +3394,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/367.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-030",
+      "date": "1981-12-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「サンデー・ジャンボ・スペシャル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "STVラジオ。ゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
         }
       ]
     },
@@ -2211,6 +3515,70 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/368.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-031",
+      "date": "1981-12-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップスペシャル チャゲ&飛鳥 全国縦断コンサート」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。学園祭ツアーの模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1981-032",
+      "date": "1981-12-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング―リクエストショー―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「男と女」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/19.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1982-001",
+      "date": "1982-01-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「放浪人(TABIBITO)」「男と女」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/20.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1982-002",
+      "date": "1982-02-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。チャゲ&飛鳥特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/20.html"
         }
       ]
     },
@@ -2657,6 +4025,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1982-003",
+      "date": "1982-04-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「熱い想い」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/20.html"
+        }
+      ]
+    },
+    {
       "id": "release-v04-atsui-omoi-single-1982",
       "date": "1982-04-25",
       "artist": "CHAGE and ASKA",
@@ -2674,6 +4058,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1982-004",
+      "date": "1982-05-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。NEMU SPRING FESTIVAL '82の模様。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/20.html"
+        }
+      ]
+    },
+    {
       "id": "release-v04-atsui-omoi-album-1982",
       "date": "1982-05-25",
       "artist": "CHAGE and ASKA",
@@ -2687,6 +4087,38 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1982-005",
+      "date": "1982-05-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「コッキーポップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。チャゲ&飛鳥特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/20.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1982-006",
+      "date": "1982-05-30",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「ニュー・ミュージック・ナウ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。4月25日のNEMU SPRING FESTIVAL '82を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/20.html"
         }
       ]
     },
@@ -2875,6 +4307,69 @@ window.CA_EVENT_DATA = {
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-summer-1982-001",
+      "date": "1982-07-30",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "The 夏祭り’82",
+      "tourId": "summer-1982",
+      "venue": "名古屋城深井丸",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ツアー・公演初日／野外公演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-summer-1982-002",
+      "date": "1982-08-08",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "The 夏祭り’82",
+      "tourId": "summer-1982",
+      "venue": "つま恋エキシビジョンホール",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "野外公演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-summer-1982-003",
+      "date": "1982-08-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "The 夏祭り’82",
+      "tourId": "summer-1982",
+      "venue": "大阪城西の丸庭園",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "野外公演／ツアー・公演最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
           "url": "https://www.chage-aska.net/history/"
         }
       ]
@@ -3085,69 +4580,6 @@ window.CA_EVENT_DATA = {
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-summer-1982-001",
-      "date": "1982-07-30",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "The 夏祭り’82",
-      "tourId": "summer-1982",
-      "venue": "名古屋城深井丸",
-      "prefecture": "愛知県",
-      "country": "日本",
-      "performanceNo": 1,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "ツアー・公演初日／野外公演",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-summer-1982-002",
-      "date": "1982-08-08",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "The 夏祭り’82",
-      "tourId": "summer-1982",
-      "venue": "つま恋エキシビジョンホール",
-      "prefecture": "静岡県",
-      "country": "日本",
-      "performanceNo": 2,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "野外公演",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-summer-1982-003",
-      "date": "1982-08-15",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "The 夏祭り’82",
-      "tourId": "summer-1982",
-      "venue": "大阪城西の丸庭園",
-      "prefecture": "大阪府",
-      "country": "日本",
-      "performanceNo": 3,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "野外公演／ツアー・公演最終日",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
           "url": "https://www.chage-aska.net/history/"
         }
       ]
@@ -3552,6 +4984,23 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "release-v04-kitakaze-monogatari-1982",
+      "date": "1982-10-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『北風物語』発売",
+      "releaseTitle": "北風物語",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
       "id": "live-goiken-1982-039",
       "date": "1982-10-27",
       "artist": "CHAGE and ASKA",
@@ -3741,6 +5190,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1982-007",
+      "date": "1982-11-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「北風物語」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/20.html"
+        }
+      ]
+    },
+    {
       "id": "live-goiken-1982-048",
       "date": "1982-11-19",
       "artist": "CHAGE and ASKA",
@@ -3836,23 +5301,6 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 52,
       "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "release-v04-kitakaze-monogatari-1982",
-      "date": "1982-10-25",
-      "artist": "CHAGE and ASKA",
-      "category": "release",
-      "title": "『北風物語』発売",
-      "releaseTitle": "北風物語",
-      "status": "released",
       "verification": "primary",
       "note": "",
       "sources": [
@@ -4115,6 +5563,38 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1983-001",
+      "date": "1983-02-01",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「笑っていいとも！」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。テレフォンショッキング。坂崎幸之助から紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-002",
+      "date": "1983-02-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「突然ガバチョ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "MBS。出演記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
       "id": "live-nhkfm-1983-001",
       "date": "1983-03-06",
       "artist": "CHAGE and ASKA",
@@ -4132,6 +5612,54 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-003",
+      "date": "1983-03-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「NHK-FM LIVEスペシャル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-FM。NHKホール公演の生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-004",
+      "date": "1983-03-30",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「貴方にお手上げ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ニッポン放送。最終回。ミニコンサート。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-005",
+      "date": "1983-04-09",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「オールナイトフジ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
     },
@@ -4165,11 +5693,221 @@ window.CA_EVENT_DATA = {
       "performanceNo": 1,
       "status": "recorded",
       "verification": "secondary",
-      "note": "ツアー・公演初日／合同イベント。全8公演とされるが他7公演の日時・会場未確認／ツアー・公演最終日",
+      "note": "ヤマハ音楽振興会の公式記録で1983年5月1日「合歓スプリング・フェスティバル’83」合歓の郷野外ホールへの出演を確認。【シリーズ所属要照合】C&A公式HISTORYには同日「八王子市民会館」ともあり、全国8公演という本文と日程欄の7件も一致しない。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/373.html"
+          "label": "ヤマハ音楽振興会｜合歓スプリング・フェスティバル’83",
+          "url": "https://www.yamaha-mf.or.jp/history/e-history/nemu_sf/nemu_sf9.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（本文・日程欄相違）",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-nemu-1983-002",
+      "date": "1983-05-04",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ネムスプリングフェスティバル'83 ファンクラブの集い",
+      "tourId": "nemu-1983",
+      "venue": "熊谷会館",
+      "prefecture": "埼玉県",
+      "country": "日本",
+      "performanceNo": null,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "公式HISTORYの開催地一覧に日付・会場あり。ただし全8公演の本文と日程欄7件の不一致、および5月1日会場矛盾を別途確認。公演番号は確定していない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY（一覧は未整合）",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-nemu-1983-003",
+      "date": "1983-05-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ネムスプリングフェスティバル'83 ファンクラブの集い",
+      "tourId": "nemu-1983",
+      "venue": "大阪フェスティバルホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": null,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "公式HISTORYの開催地一覧に日付・会場あり。ただし全8公演の本文と日程欄7件の不一致、および5月1日会場矛盾を別途確認。公演番号は確定していない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY（一覧は未整合）",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-nemu-1983-004",
+      "date": "1983-05-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ネムスプリングフェスティバル'83 ファンクラブの集い",
+      "tourId": "nemu-1983",
+      "venue": "大阪フェスティバルホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": null,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "公式HISTORYの開催地一覧に日付・会場あり。ただし全8公演の本文と日程欄7件の不一致、および5月1日会場矛盾を別途確認。公演番号は確定していない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY（一覧は未整合）",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-006",
+      "date": "1983-05-17",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「突然ガバチョ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "MBS。ASKAが「あんたのバラード」を歌唱。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "live-nemu-1983-005",
+      "date": "1983-05-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ネムスプリングフェスティバル'83 ファンクラブの集い",
+      "tourId": "nemu-1983",
+      "venue": "山梨県民会館",
+      "prefecture": "山梨県",
+      "country": "日本",
+      "performanceNo": null,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "公式HISTORYの開催地一覧に日付・会場あり。ただし全8公演の本文と日程欄7件の不一致、および5月1日会場矛盾を別途確認。公演番号は確定していない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY（一覧は未整合）",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-007",
+      "date": "1983-05-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「マリオネット」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "live-nemu-1983-006",
+      "date": "1983-05-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ネムスプリングフェスティバル'83 ファンクラブの集い",
+      "tourId": "nemu-1983",
+      "venue": "青森市民会館",
+      "prefecture": "青森県",
+      "country": "日本",
+      "performanceNo": null,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "公式HISTORYの開催地一覧に日付・会場あり。ただし全8公演の本文と日程欄7件の不一致、および5月1日会場矛盾を別途確認。公演番号は確定していない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY（一覧は未整合）",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "live-nemu-1983-007",
+      "date": "1983-05-31",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "ネムスプリングフェスティバル'83 ファンクラブの集い",
+      "tourId": "nemu-1983",
+      "venue": "岩手県民会館",
+      "prefecture": "岩手県",
+      "country": "日本",
+      "performanceNo": null,
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "公式HISTORYの開催地一覧に日付・会場あり。ただし全8公演の本文と日程欄7件の不一致、および5月1日会場矛盾を別途確認。公演番号は確定していない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY（一覧は未整合）",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-008",
+      "date": "1983-05-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「突然ガバチョ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "MBS。出演記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-009",
+      "date": "1983-06-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング―ファッション満載！パンチで勝負―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「マリオネット」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-010",
+      "date": "1983-06-07",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストヒット'83」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。「マリオネット」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
     },
@@ -4202,12 +5940,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 1,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "ツアー・公演初日",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4223,12 +5961,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 2,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-011",
+      "date": "1983-08-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ふりーばる'83 ザ・夏」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「Fifty-Fifty」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
     },
@@ -4244,12 +5998,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 3,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4265,12 +6019,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 4,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4286,12 +6040,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 5,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4308,11 +6062,15 @@ window.CA_EVENT_DATA = {
       "performanceNo": 6,
       "status": "recorded",
       "verification": "secondary",
-      "note": "",
+      "note": "【会場名表記要照合】公式HISTORYの「宇都宮市民文化会館」に対し、全国公立文化施設協会は「宇都宮市文化会館」と表記。日付は公式と一致。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "全国公立文化施設協会｜宇都宮市文化会館",
+          "url": "https://www.zenkoubun.jp/search/hall_0090272.html"
         }
       ]
     },
@@ -4328,12 +6086,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 7,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4349,12 +6107,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 8,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4370,12 +6128,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 9,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4391,12 +6149,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 10,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4412,12 +6170,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 11,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "通算200公演目",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4433,12 +6191,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 12,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4454,12 +6212,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 13,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-012",
+      "date": "1983-09-07",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「悪友親友」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。長渕剛を交えてトーク。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
     },
@@ -4475,12 +6249,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 14,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-013",
+      "date": "1983-09-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「悪友親友」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。長江健次を交えてトーク。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
     },
@@ -4496,12 +6286,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 15,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4534,12 +6324,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 16,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "「21世紀への招待」スペシャル",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4555,12 +6345,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 17,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4576,12 +6366,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 18,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4597,12 +6387,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 19,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4618,12 +6408,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 20,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-014",
+      "date": "1983-10-16",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング―スパーク！ヤングパワー―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「華やかに傷ついて」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
     },
@@ -4639,12 +6445,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 21,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4660,12 +6466,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 22,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4681,12 +6487,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 23,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4702,12 +6508,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 24,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4723,12 +6529,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 25,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4761,12 +6567,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 26,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4782,12 +6588,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 27,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4803,12 +6609,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 28,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4824,12 +6630,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 29,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4845,12 +6651,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 30,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1983-015",
+      "date": "1983-12-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「MBSヤングタウン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "毎日放送。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
         }
       ]
     },
@@ -4866,12 +6688,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 31,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4887,12 +6709,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 32,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4908,12 +6730,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 33,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4929,12 +6751,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 34,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4950,12 +6772,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 35,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/374.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -4972,10 +6794,18 @@ window.CA_EVENT_DATA = {
       "performanceNo": 36,
       "status": "recorded",
       "verification": "secondary",
-      "note": "Xmas SPECIAL",
+      "note": "Xmas SPECIAL。【公式日程欄要照合】公式の開催地一覧では1984年7月22・23日と表記されるが、公式本文は1983年12月23日終了。ladomi・cavcでも1983年12月22・23日。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "CHAGE and ASKA公式HISTORY（本文・日程欄相違）",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "ladomi 公演記録",
+          "url": "https://ca.ladomi.net/live_ca"
+        },
+        {
+          "label": "cavc 当該ツアー記録",
           "url": "https://w.atwiki.jp/cavc/pages/374.html"
         }
       ]
@@ -4993,11 +6823,35 @@ window.CA_EVENT_DATA = {
       "performanceNo": 37,
       "status": "recorded",
       "verification": "secondary",
-      "note": "Xmas SPECIAL／ツアー・公演最終日",
+      "note": "Xmas SPECIAL／ツアー最終日。【公式日程欄要照合】公式の開催地一覧では1984年7月22・23日と表記されるが、公式本文は1983年12月23日終了。ladomi・cavcでも1983年12月22・23日。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "CHAGE and ASKA公式HISTORY（本文・日程欄相違）",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "ladomi 公演記録",
+          "url": "https://ca.ladomi.net/live_ca"
+        },
+        {
+          "label": "cavc 当該ツアー記録",
           "url": "https://w.atwiki.jp/cavc/pages/374.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-001",
+      "date": "1984-02-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「昼の歌謡曲」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局未記載。ラジオ出演記録。放送局は要照合。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -5019,6 +6873,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1984-002",
+      "date": "1984-03-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「MOON LIGHT BLUES」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
       "id": "live-invite-1984-001",
       "date": "1984-03-16",
       "artist": "CHAGE and ASKA",
@@ -5030,12 +6900,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 1,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "ツアー・公演初日／アルバム『INSIDE』発売前",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5051,12 +6921,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 2,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "アルバム『INSIDE』発売前",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5072,12 +6942,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 3,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "アルバム『INSIDE』発売前",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5093,12 +6963,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 4,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "アルバム『INSIDE』発売前",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5114,12 +6984,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 5,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "アルバム『INSIDE』発売日",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5152,12 +7022,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 6,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5173,12 +7043,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 7,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5194,12 +7064,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 8,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5215,12 +7085,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 9,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5236,12 +7106,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 10,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5257,12 +7127,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 11,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-003",
+      "date": "1984-04-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「歌謡ドッキリ大放送!!」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。「MOON LIGHT BLUES」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -5278,12 +7164,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 12,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5299,12 +7185,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 13,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5320,12 +7206,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 14,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5341,12 +7227,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 15,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5362,12 +7248,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 16,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "「ふたりの愛ランド」発売日",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5400,12 +7286,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 17,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5427,6 +7313,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1984-004",
+      "date": "1984-04-30",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。石川優子との共演。「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
       "id": "live-invite-1984-018",
       "date": "1984-05-02",
       "artist": "CHAGE and ASKA",
@@ -5438,12 +7340,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 18,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5459,12 +7361,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 19,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5480,12 +7382,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 20,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5501,12 +7403,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 21,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-005",
+      "date": "1984-05-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「クイズ 地球どんぶり」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -5522,12 +7440,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 22,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5543,12 +7461,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 23,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5564,12 +7482,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 24,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5585,12 +7503,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 25,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-006",
+      "date": "1984-05-19",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「ニュー・サウンズ・スペシャル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局未記載。ラジオ出演記録。放送局は要照合。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -5606,12 +7540,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 26,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5627,12 +7561,32 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 27,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-007",
+      "date": "1984-05-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。TBS公式番組案内で出演が確認できた放送日。",
+      "sources": [
+        {
+          "label": "TBSチャンネル公式｜ザ・ベストテン1984年5月24日放送",
+          "url": "https://www.tbs.co.jp/tbs-ch/special/the_bestten/"
+        },
+        {
+          "label": "cavc｜1984年 TV・ラジオ出演記録",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -5648,12 +7602,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 28,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5669,12 +7623,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 29,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5690,12 +7644,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 30,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5711,12 +7665,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 31,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5732,12 +7686,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 32,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5753,12 +7707,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 33,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-008",
+      "date": "1984-06-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。スポットライト。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -5774,12 +7744,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 34,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-009",
+      "date": "1984-06-09",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「アイドル歌手大集合」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「華やかに傷ついて」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -5795,12 +7781,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 35,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5816,12 +7802,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 36,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-010",
+      "date": "1984-06-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」第7位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -5837,12 +7839,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 37,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5858,12 +7860,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 38,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5879,12 +7881,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 39,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5900,12 +7902,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 40,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -5921,12 +7923,44 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 41,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-011",
+      "date": "1984-06-21",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。「ふたりの愛ランド」。二元中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-012",
+      "date": "1984-06-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「FM LIVE 音楽って何だ！」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。石川優子と共演したライブを放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -5942,12 +7976,60 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 42,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-013",
+      "date": "1984-06-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。石川優子との共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-014",
+      "date": "1984-06-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子との共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-015",
+      "date": "1984-06-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「MBSヤングタウン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "毎日放送。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -5963,12 +8045,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 43,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-016",
+      "date": "1984-06-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -5984,12 +8082,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 44,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -6005,12 +8103,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 45,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -6026,12 +8124,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 46,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-017",
+      "date": "1984-07-02",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子との共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -6047,12 +8161,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 47,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-018",
+      "date": "1984-07-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -6068,12 +8198,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 48,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -6089,12 +8219,60 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 49,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-019",
+      "date": "1984-07-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子との共演。名古屋球場から中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-020",
+      "date": "1984-07-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-021",
+      "date": "1984-07-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -6110,12 +8288,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 50,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -6131,12 +8309,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 51,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -6152,12 +8330,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 52,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-022",
+      "date": "1984-07-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。松山市民会館から中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -6173,12 +8367,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 53,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-023",
+      "date": "1984-07-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「Do Up歌謡テレビ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。石川優子と「渚の誓い」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -6194,12 +8404,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 54,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-024",
+      "date": "1984-07-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」第2位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -6215,12 +8441,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 55,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-025",
+      "date": "1984-07-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング―ビッグ！チャゲ＆飛鳥―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「MOON LIGHT BLUES」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -6236,12 +8478,60 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 56,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-026",
+      "date": "1984-07-30",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-027",
+      "date": "1984-08-02",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-028",
+      "date": "1984-08-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -6257,12 +8547,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 1,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "ツアー・公演初日／デビュー5周年記念公演",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/376.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -6278,12 +8568,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 2,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "石川優子がゲスト出演",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/376.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-029",
+      "date": "1984-08-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」第2位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -6299,12 +8605,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 3,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/376.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -6320,12 +8626,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 4,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/376.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-030",
+      "date": "1984-08-14",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「チャゲ&飛鳥 武道館愛ランド」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。8月8・9日のSUPER EVENT INSIDEの模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -6341,12 +8663,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 5,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/376.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-031",
+      "date": "1984-08-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -6362,12 +8700,44 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 6,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/376.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-032",
+      "date": "1984-08-19",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「南こうせつ サマーピクニック恋の浦」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。8月4〜5日のイベントの模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-033",
+      "date": "1984-08-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -6383,12 +8753,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 7,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "ツアー・公演最終日",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/376.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-034",
+      "date": "1984-08-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -6404,12 +8790,28 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 57,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "デビュー5周年／ツアー・公演最終日",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/375.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-035",
+      "date": "1984-10-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -6431,6 +8833,70 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1984-036",
+      "date": "1984-11-07",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「友よ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。テレビドラマ出演。cavcはASKAのドラマ初出演と記載。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-037",
+      "date": "1984-11-11",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「Do Up 歌謡テレビ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-038",
+      "date": "1984-11-19",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-039",
+      "date": "1984-12-09",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「レッツゴーヤング―フレッシュ―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ]
+    },
+    {
       "id": "live-superdreamin-1984-001",
       "date": "1984-12-17",
       "artist": "CHAGE and ASKA",
@@ -6442,12 +8908,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 1,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "ツアー・公演初日",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/377.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -6464,11 +8930,31 @@ window.CA_EVENT_DATA = {
       "performanceNo": 2,
       "status": "recorded",
       "verification": "secondary",
-      "note": "",
+      "note": "【公式日程欄の重複要照合】公式HISTORYには12月17日が2回記載。cavcでは12月17日・18日と記載。日付は1984年12月18日のまま保留。",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
+          "label": "CHAGE and ASKA公式HISTORY（日程重複）",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "cavc｜SUPER DREAMIN’",
           "url": "https://w.atwiki.jp/cavc/pages/377.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1984-040",
+      "date": "1984-12-27",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン(豪華版)」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
         }
       ]
     },
@@ -6484,12 +8970,12 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 3,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "正月公演／ツアー・公演最終日",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/377.html"
+          "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -6507,6 +8993,38 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-001",
+      "date": "1985-02-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「Do Up 歌謡テレビ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。「誘惑のベルが鳴る」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-002",
+      "date": "1985-02-24",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「Do Up 歌謡テレビ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。「オンリー・ロンリー」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
     },
@@ -6562,6 +9080,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/441.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-003",
+      "date": "1985-03-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「LIVE G」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。憂歌団と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
     },
@@ -6625,6 +9159,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/441.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-011",
+      "date": "1985-04-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「ニュー・サウンズ・スペシャル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-FM。スタジオライブ音源。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
     },
@@ -7070,6 +9620,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1985-012",
+      "date": "1985-06-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「Lo-D LIVE CONCERT」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
       "id": "live-shakin-1985-026",
       "date": "1985-06-17",
       "artist": "CHAGE and ASKA",
@@ -7087,6 +9653,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/441.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-004",
+      "date": "1985-06-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「さんまのまんま」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。トーク出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
     },
@@ -7280,6 +9862,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1985-005",
+      "date": "1985-07-10",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ヤンヤン歌うスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ東京。放送記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
       "id": "live-shakin-1985-036",
       "date": "1985-07-12",
       "artist": "CHAGE and ASKA",
@@ -7448,6 +10046,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1985-013",
+      "date": "1985-07-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「チャゲ&飛鳥 THE夏祭り'85 小戸 TWILIGHT ZONE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "FM福岡。7月27日小戸公園公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
       "id": "live-summer-1985-002",
       "date": "1985-08-04",
       "artist": "CHAGE and ASKA",
@@ -7486,6 +10100,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/441.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-006",
+      "date": "1985-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「アイドル歌手大集合―第３編―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "アナログ衛星第１。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
         }
       ]
     },
@@ -7758,6 +10388,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1985-007",
+      "date": "1985-11-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「ボヘミアン」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
       "id": "live-shakin-1985-056",
       "date": "1985-11-24",
       "artist": "CHAGE and ASKA",
@@ -7964,6 +10610,102 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v17-1985-008",
+      "date": "1985-12-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「NEW AGE MUSIC」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ東京。「誘惑のベルが鳴る」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-009",
+      "date": "1985-12-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「NEW AGE MUSIC」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ東京。「東京CARRY ON」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v17-1985-010",
+      "date": "1985-12-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「大晦日チャリティースペシャル 世界紅白歌合戦」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「ボヘミアン」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/26.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-001",
+      "date": "1986-01-11",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「スーパーチャンネル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TNC。福岡サンパレス公演の映像を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-002",
+      "date": "1986-01-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「チャゲ&飛鳥 NEW YEARコンサート'86」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TNC。1986年1月4日・福岡サンパレスの公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-003",
+      "date": "1986-01-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
       "id": "release-earlyyears-02",
       "date": "1986-02-05",
       "artist": "CHAGE and ASKA",
@@ -7977,6 +10719,118 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 映像情報メディア管理センター｜該当年の作品",
           "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-004",
+      "date": "1986-02-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「合言葉は音楽気分」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。ポプコン同窓会。共演：石川優子ほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-005",
+      "date": "1986-02-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-006",
+      "date": "1986-03-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ヤンヤン歌うスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ東京。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-007",
+      "date": "1986-03-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。モーニングムーン。第9位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-008",
+      "date": "1986-03-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・トップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。モーニングムーン。第9位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-009",
+      "date": "1986-04-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。モーニングムーン。第10位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-010",
+      "date": "1986-04-09",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
     },
@@ -8002,6 +10856,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1986-011",
+      "date": "1986-04-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
       "id": "release-earlyyears-03",
       "date": "1986-04-21",
       "artist": "CHAGE and ASKA",
@@ -8015,6 +10885,54 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 映像情報メディア管理センター｜該当年の作品",
           "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-012",
+      "date": "1986-04-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「YOU 今，若者は音楽専科」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。笑福亭鶴瓶・三枝成章出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-013",
+      "date": "1986-04-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ヤングスタジオ101」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-014",
+      "date": "1986-04-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「オールナイトフジ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。モーニングムーンほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
     },
@@ -8124,6 +11042,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1986-015",
+      "date": "1986-05-14",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。黄昏を待たずに。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
       "id": "live-big-explosion-1986-007",
       "date": "1986-05-18",
       "artist": "CHAGE and ASKA",
@@ -8225,6 +11159,38 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1986-016",
+      "date": "1986-05-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「TORO AND UNI」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "毎日放送。円広志司会のゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-036",
+      "date": "1986-05-24",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「ニュー・サウンズ・スペシャル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
       "id": "live-big-explosion-1986-011",
       "date": "1986-05-28",
       "artist": "CHAGE and ASKA",
@@ -8267,6 +11233,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1986-017",
+      "date": "1986-05-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックショットガン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "RSKテレビ。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
       "id": "live-big-explosion-1986-013",
       "date": "1986-06-05",
       "artist": "CHAGE and ASKA",
@@ -8305,6 +11287,38 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-018",
+      "date": "1986-06-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ヤングスタジオ101」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。黄昏を待たずに。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-019",
+      "date": "1986-06-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ロッテ歌のアルバムNOW」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。黄昏を待たずに。TBSスタジオから生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
     },
@@ -8393,6 +11407,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1986-020",
+      "date": "1986-06-19",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「笑っていいとも！」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。テレホンショッキングにASKA単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
       "id": "live-big-explosion-1986-019",
       "date": "1986-06-20",
       "artist": "CHAGE and ASKA",
@@ -8477,6 +11507,70 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1986-021",
+      "date": "1986-06-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。黄昏を待たずに。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-022",
+      "date": "1986-07-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「Music Tomato Japan CHAGE&ASUKA SPECIAL」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TVK。番組特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-037",
+      "date": "1986-07-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「Lo-D LIVE CONCERT」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-023",
+      "date": "1986-07-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ヤンヤン歌うスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ東京。Count Down。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
       "id": "live-big-explosion-1986-023",
       "date": "1986-07-09",
       "artist": "CHAGE and ASKA",
@@ -8494,6 +11588,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/379.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-038",
+      "date": "1986-07-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「オールナイトニッポン スペシャル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ニッポン放送。ゲストを交えたトーク・スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
     },
@@ -8582,6 +11692,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1986-024",
+      "date": "1986-08-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。Count Down。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
       "id": "live-summer-explosion-1986-003",
       "date": "1986-08-09",
       "artist": "CHAGE and ASKA",
@@ -8599,6 +11725,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/381.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-039",
+      "date": "1986-08-18",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「チャゲ＆飛鳥 LIVE IN 飛鳥記念公園」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局未記載。1986年7月27日・明日香村歴史公園公演の模様。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
     },
@@ -8641,6 +11783,54 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1986-025",
+      "date": "1986-08-24",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ヤングスタジオ101 ―チャゲ＆飛鳥サウンドの魅力を探る―」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。番組特集・未収録曲披露の記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-026",
+      "date": "1986-08-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「NEW AGE MUSIC」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ東京。1986年5月29日渋谷公会堂公演から。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-027",
+      "date": "1986-09-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。Count Down。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
       "id": "release-v04-mix-blood-1986",
       "date": "1986-09-21",
       "artist": "CHAGE and ASKA",
@@ -8658,6 +11848,38 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1986-028",
+      "date": "1986-09-28",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ヤングスタジオ101「マッチ・天宮“青春”をうたう」」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。Count Down。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-029",
+      "date": "1986-10-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックトマトジャパン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TVK。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
       "id": "release-v04-oneside-game-1986",
       "date": "1986-10-21",
       "artist": "CHAGE and ASKA",
@@ -8671,6 +11893,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-030",
+      "date": "1986-10-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。指環が泣いた。ばんばひろふみとの共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
     },
@@ -8801,6 +12039,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1986-031",
+      "date": "1986-11-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。指環が泣いた。cavcは初出場と記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
       "id": "release-v04-yubiwa-ga-naita-1986",
       "date": "1986-11-21",
       "artist": "CHAGE and ASKA",
@@ -8814,6 +12068,54 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-032",
+      "date": "1986-11-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ヤンヤン歌うスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ東京。指環が泣いた。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-033",
+      "date": "1986-11-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。指環が泣いた。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1986-034",
+      "date": "1986-11-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックトマトジャパン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ神奈川。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
         }
       ]
     },
@@ -8982,6 +12284,118 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1986-035",
+      "date": "1986-12-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「世界紅白歌合戦（夜のヒットスタジオ）」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ロンドンから中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/27.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-001",
+      "date": "1987-01-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「さんまのまんま」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。VTR年賀状出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-002",
+      "date": "1987-01-14",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。TURNING POINT。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-003",
+      "date": "1987-01-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。指環が泣いた。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-004",
+      "date": "1987-02-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・サンデー」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。指環が泣いた。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-005",
+      "date": "1987-02-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'87」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。サーカス・荻野目洋子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-006",
+      "date": "1987-03-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。TURNING POINT。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
       "id": "release-earlyyears-05",
       "date": "1987-04-21",
       "artist": "CHAGE and ASKA",
@@ -9058,6 +12472,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-007",
+      "date": "1987-05-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「Endless Night」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ABC。生出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
     },
@@ -9394,6 +12824,38 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1987-008",
+      "date": "1987-06-01",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「歌のトップテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。SAILOR MAN。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-009",
+      "date": "1987-06-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。SAILOR MAN。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
       "id": "live-we-shall-return-1987-019",
       "date": "1987-06-05",
       "artist": "CHAGE and ASKA",
@@ -9411,6 +12873,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-010",
+      "date": "1987-06-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。SAILOR MAN。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
     },
@@ -9516,6 +12994,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-028",
+      "date": "1987-06-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「パワーステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。1987年6月13・14日国立代々木競技場第一体育館公演の放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
     },
@@ -9940,6 +13434,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1987-011",
+      "date": "1987-07-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASUKA CONCERT TOUR '87 WE SHALL RETURN」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。1987年6月14日・国立代々木競技場第一体育館公演の映像。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
       "id": "live-we-shall-return-1987-045",
       "date": "1987-08-08",
       "artist": "CHAGE and ASKA",
@@ -9957,6 +13467,230 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/382.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-012",
+      "date": "1987-08-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「NTTサウンドスペシャル 雅俊・チャゲ&飛鳥 IN ASPECTA」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。1987年7月25日・南阿蘇ASPECTAでの公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-029",
+      "date": "1987-08-14",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「CHAGE&ASUKA LIVE IN EXPO」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ラジオ大阪。1987年8月8日大阪万博記念陸上競技場のライブ録音。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-013",
+      "date": "1987-09-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ロマンシングヤード。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-014",
+      "date": "1987-09-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「これが新選組だ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。MY Mr.LONELY HEART。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-015",
+      "date": "1987-09-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。MY Mr.LONELY HEART。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-016",
+      "date": "1987-10-01",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「翔べ！飛べ！少年隊SP」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。ロマンシングヤードほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-017",
+      "date": "1987-10-01",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「TV時代劇スペシャル 新選組 第一部」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。若い伊藤博文役で出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-018",
+      "date": "1987-10-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。ロマンシングヤード。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-019",
+      "date": "1987-10-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「オールナイトフジ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。MY Mr.LONELY HEARTなど。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-020",
+      "date": "1987-10-08",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「TV時代劇スペシャル 新選組 第二部」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。若い伊藤博文役で出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-030",
+      "date": "1987-10-10",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「FM音楽共和国 Sound Community 10.10」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。FM東京ホールでの同日ライブ生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-021",
+      "date": "1987-10-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「オージー・ボウル'87」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-022",
+      "date": "1987-10-30",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「いきなりフライデーナイト」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-023",
+      "date": "1987-10-30",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「ニュースステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。ASKAゲスト。MY Mr.LONELY HEART紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
     },
@@ -9999,6 +13733,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-024",
+      "date": "1987-11-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。MY Mr.LONELY HEART。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
     },
@@ -10104,6 +13854,54 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 映像情報メディア管理センター｜公演日程",
           "url": "https://w.atwiki.jp/cavc/pages/383.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-025",
+      "date": "1987-12-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「笑っていいとも！」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。テレホンショッキング出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-026",
+      "date": "1987-12-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「笑っていいとも！増刊号」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。未公開場面を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1987-027",
+      "date": "1987-12-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックスクエア」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ愛知。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/28.html"
         }
       ]
     },
@@ -10339,6 +14137,182 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1988-001",
+      "date": "1988-01-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。恋人はワイン色。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-002",
+      "date": "1988-02-01",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「桃色学園都市宣言!!」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。あきらめのBlue Day。2月度オープニング。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-003",
+      "date": "1988-02-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ニュースステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。CHAGE出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-004",
+      "date": "1988-02-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。恋人はワイン色。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-005",
+      "date": "1988-03-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。恋人はワイン色。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-006",
+      "date": "1988-03-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。恋人はワイン色。今週のスポットライト。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-007",
+      "date": "1988-03-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「オールナイトフジ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ミッドナイトコンサート生放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-008",
+      "date": "1988-03-18",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。恋人はワイン色。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-031",
+      "date": "1988-03-19",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「ニューサウンズスペシャル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-FM。1988年3月4日NHKスタジオのライブを放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-009",
+      "date": "1988-05-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。ラプソディ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-010",
+      "date": "1988-05-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「電影館」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。CHAGE出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
       "id": "live-concert-1988-001",
       "date": "1988-05-20",
       "artist": "CHAGE and ASKA",
@@ -10380,6 +14354,38 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1988-011",
+      "date": "1988-05-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'88」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。五輪真弓と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-012",
+      "date": "1988-05-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ラプソディ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
       "id": "live-concert-1988-003",
       "date": "1988-05-26",
       "artist": "CHAGE and ASKA",
@@ -10399,6 +14405,38 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "埼玉県"
+    },
+    {
+      "id": "media-v18-1988-013",
+      "date": "1988-05-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。ラプソディ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-014",
+      "date": "1988-05-28",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ジャストポップアップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
     },
     {
       "id": "live-concert-1988-004",
@@ -10462,6 +14500,22 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "兵庫県"
+    },
+    {
+      "id": "media-v18-1988-015",
+      "date": "1988-06-01",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「サウンドスコール」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
     },
     {
       "id": "live-concert-1988-007",
@@ -10546,6 +14600,22 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "静岡県"
+    },
+    {
+      "id": "media-v18-1988-032",
+      "date": "1988-06-07",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「HITACHI FAN! FUN! TODAY」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ニッポン放送。ライブ音源を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
     },
     {
       "id": "live-concert-1988-011",
@@ -10926,6 +14996,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "福井県"
     },
     {
+      "id": "media-v18-1988-016",
+      "date": "1988-07-22",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。ASKAソロ出演。夢はるか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
       "id": "live-concert-1988-029",
       "date": "1988-07-23",
       "artist": "CHAGE and ASKA",
@@ -10989,6 +15075,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "大阪府"
     },
     {
+      "id": "media-v18-1988-017",
+      "date": "1988-07-27",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「男2」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。CHAGE単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
       "id": "live-concert-1988-032",
       "date": "1988-07-29",
       "artist": "CHAGE and ASKA",
@@ -11050,6 +15152,150 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "東京都"
+    },
+    {
+      "id": "media-v18-1988-018",
+      "date": "1988-08-03",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「男2」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ASKA単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-019",
+      "date": "1988-08-10",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「笑っていいとも！」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。テレホンショッキングにASKA単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-020",
+      "date": "1988-08-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「笑っていいとも！」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。テレホンショッキングにCHAGE単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-021",
+      "date": "1988-08-17",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ASKAソロ。MIDNIGHT 2 CALL。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-022",
+      "date": "1988-08-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「オシャレ30・30」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-023",
+      "date": "1988-08-26",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。ASKAソロ。蘇州夜曲。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-024",
+      "date": "1988-08-31",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「サウンドスコール」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ASKAソロ。MIDNIGHT 2 CALL。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-025",
+      "date": "1988-09-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ジャストポップアップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1988-026",
+      "date": "1988-10-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。Trip。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
     },
     {
       "id": "live-concert-1988-035",
@@ -11155,6 +15401,22 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "千葉県"
+    },
+    {
+      "id": "media-v18-1988-027",
+      "date": "1988-10-28",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。Trip。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
     },
     {
       "id": "live-concert-1988-040",
@@ -11281,6 +15543,22 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "群馬県"
+    },
+    {
+      "id": "media-v18-1988-028",
+      "date": "1988-11-11",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。Trip。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
     },
     {
       "id": "live-concert-1988-046",
@@ -11489,6 +15767,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "大阪府"
     },
     {
+      "id": "media-v18-1988-029",
+      "date": "1988-12-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。Love Affair。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
       "id": "live-xmas-special-1988-002",
       "date": "1988-12-03",
       "artist": "CHAGE and ASKA",
@@ -11508,6 +15802,22 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "静岡県"
+    },
+    {
+      "id": "media-v18-1988-030",
+      "date": "1988-12-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'88」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。本田美奈子・岩崎宏美と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
     },
     {
       "id": "live-xmas-special-1988-003",
@@ -11823,6 +16133,86 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "福岡県"
+    },
+    {
+      "id": "media-v18-1989-001",
+      "date": "1989-01-14",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「CHAGE&ASUKA 武道館 ENERGY LIVE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。CONCERT TOUR'88 X'mas Specialの日本武道館公演の放送。cavc備考の収録日表記に矛盾あり、一次資料要照合。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-002",
+      "date": "1989-02-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。Love Affair。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-003",
+      "date": "1989-03-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。WALK。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-004",
+      "date": "1989-03-24",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。WALK。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-005",
+      "date": "1989-04-19",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。特集メドレー。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
     },
     {
       "id": "live-concert-1989-10years-001",
@@ -12413,6 +16803,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "鹿児島県"
     },
     {
+      "id": "media-v18-1989-006",
+      "date": "1989-06-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。LOVE SONG。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
       "id": "release-love-song-1989",
       "date": "1989-06-21",
       "artist": "CHAGE and ASKA",
@@ -12426,6 +16832,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-007",
+      "date": "1989-06-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。LOVE SONG。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
     },
@@ -12724,6 +17146,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "北海道"
     },
     {
+      "id": "media-v18-1989-008",
+      "date": "1989-07-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局要照合。札幌厚生年金会館より中継。cavcの放送局欄に資料上の疑義あり。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
       "id": "live-concert-1989-10years-043",
       "date": "1989-07-24",
       "artist": "CHAGE and ASKA",
@@ -12785,6 +17223,22 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "大阪府"
+    },
+    {
+      "id": "media-v18-1989-009",
+      "date": "1989-07-30",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'89」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。徳永英明と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
     },
     {
       "id": "live-concert-1989-10years-046",
@@ -12955,6 +17409,38 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都"
     },
     {
+      "id": "media-v18-1989-010",
+      "date": "1989-08-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「笑っていいとも！」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。テレホンショッキングにCHAGE単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-011",
+      "date": "1989-08-16",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。HOTEL。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
       "id": "live-concert-1989-10years-054",
       "date": "1989-08-18",
       "artist": "CHAGE and ASKA",
@@ -13039,6 +17525,38 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都"
     },
     {
+      "id": "media-v18-1989-012",
+      "date": "1989-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。PRIDE。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-024",
+      "date": "1989-08-25",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "ラジオ「のるそるサマースペシャル 10 years after」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。1989年8月19日新宿厚生年金会館の音源など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
       "id": "release-pride-1989",
       "date": "1989-08-25",
       "artist": "CHAGE and ASKA",
@@ -13052,6 +17570,54 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-025",
+      "date": "1989-09-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「Lo-D LIVE CONCERT」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。FM東京レコーディングスタジオより生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-013",
+      "date": "1989-09-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ひとり咲き・モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-014",
+      "date": "1989-09-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ジャストポップアップ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
         }
       ]
     },
@@ -13077,6 +17643,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "福島県"
     },
     {
+      "id": "media-v18-1989-015",
+      "date": "1989-09-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。C&Aスペシャルメドレー。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
       "id": "live-concert-1989-10years-059",
       "date": "1989-09-15",
       "artist": "CHAGE and ASKA",
@@ -13098,6 +17680,166 @@ window.CA_EVENT_DATA = {
       "prefecture": "沖縄県"
     },
     {
+      "id": "media-v18-1989-016",
+      "date": "1989-09-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「野口英世記念医療センター設立キャンペーン チャゲ&飛鳥熱狂ライブ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。郡山文化センターの10周年ライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-017",
+      "date": "1989-09-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ASKAソロ・CHAGEソロの披露を含む。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-018",
+      "date": "1989-09-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-019",
+      "date": "1989-10-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「さよならザ・ベストテン」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。VTRを見返す特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-020",
+      "date": "1989-11-04",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「ヒットスタジオR&N」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。MULTI MAXとして初出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-021",
+      "date": "1989-11-11",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「バブル＆リカコ SOUL天国」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ東京。バブルガム・ブラザーズと共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-026",
+      "date": "1989-12-09",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "ラジオ「Lo-D LIVE CONCERT」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-022",
+      "date": "1989-12-15",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。MULTI MAXのテーマ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1989-023",
+      "date": "1989-12-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「バブル＆リカコ SOUL天国」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ東京。CHAGEと宇崎竜童の共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1990-001",
+      "date": "1990-01-31",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオSUPER」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。MULTI MAXのテーマ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
+        }
+      ]
+    },
+    {
       "id": "release-1990-1992-001",
       "date": "1990-02-07",
       "artist": "CHAGE and ASKA",
@@ -13111,6 +17853,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1990-002",
+      "date": "1990-02-11",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'90」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。アン・ルイスと共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
     },
@@ -13132,6 +17890,54 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1990-003",
+      "date": "1990-04-08",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「MULTI MAX コンサート」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-BS2。1989年12月13日日本武道館公演を放送。ASKAゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1990-004",
+      "date": "1990-04-13",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「SOUND GIG」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ東京。トーク出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1990-005",
+      "date": "1990-04-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオSUPER」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。DO YA DO。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
+        }
+      ]
+    },
+    {
       "id": "release-1990-1992-003",
       "date": "1990-06-27",
       "artist": "CHAGE and ASKA",
@@ -13145,6 +17951,70 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1990-006",
+      "date": "1990-07-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオSUPER」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。CHAGE&ASKA表記での初出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1990-007",
+      "date": "1990-08-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。DO YA DO。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1990-008",
+      "date": "1990-08-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'90」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1990-009",
+      "date": "1990-08-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「南こうせつサマーピクニック FINAL」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-BS2。サマーピクニックの模様を生放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
     },
@@ -13170,6 +18040,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1990-010",
+      "date": "1990-08-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオSUPER」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。太陽と埃の中で。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
     },
@@ -13243,6 +18129,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1990-011",
+      "date": "1990-08-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA IN LONDON」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-BS2。ロンドンでの教会ライブ・ドキュメント。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
+        }
+      ]
+    },
+    {
       "id": "release-1990-1992-004",
       "date": "1990-08-29",
       "artist": "CHAGE and ASKA",
@@ -13306,6 +18208,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1990-012",
+      "date": "1990-08-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「MOGITATE!バナナ大使」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。DO YA DO。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
     },
@@ -13410,6 +18328,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1990-013",
+      "date": "1990-09-07",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「MOGITATE!バナナ大使」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。恋人はワイン色。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
+        }
+      ]
+    },
+    {
       "id": "live-see-ya-1990-1991-010",
       "date": "1990-09-08",
       "artist": "CHAGE and ASKA",
@@ -13485,6 +18419,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1990-014",
+      "date": "1990-09-14",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「MOGITATE!バナナ大使」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。YELLOW MEN。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
+        }
+      ]
+    },
+    {
       "id": "live-see-ya-1990-1991-013",
       "date": "1990-09-15",
       "artist": "CHAGE and ASKA",
@@ -13556,6 +18506,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1990-015",
+      "date": "1990-09-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「MOGITATE!バナナ大使」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。太陽と埃の中で。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
     },
@@ -13698,6 +18664,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1990-016",
+      "date": "1990-10-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ありがとう&さよなら夜のヒットスタジオ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
         }
       ]
     },
@@ -14521,6 +19503,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1990-017",
+      "date": "1990-12-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA Special ロンドンから横浜アリーナ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "SBS静岡放送。ロンドンレコーディングからSEE YAツアーまでの特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/51.html"
+        }
+      ]
+    },
+    {
       "id": "live-see-ya-1990-1991-053",
       "date": "1990-12-26",
       "artist": "CHAGE and ASKA",
@@ -14690,6 +19688,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1991-018",
+      "date": "1991-01-19",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「CHAGE&ASKA STORY～太陽と埃の中で～」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。1990年9月15日横浜アリーナ収録音源を交える。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        }
+      ]
+    },
+    {
       "id": "live-see-ya-1990-1991-059",
       "date": "1991-01-28",
       "artist": "CHAGE and ASKA",
@@ -14801,6 +19815,38 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1991-002",
+      "date": "1991-02-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「NOW ARTIST」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。トークとスタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1991-001",
+      "date": "1991-02-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「MTV JAPAN」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。インタビュー出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        }
+      ]
+    },
+    {
       "id": "live-special-1991-02-06-172",
       "date": "1991-02-06",
       "artist": "CHAGE and ASKA",
@@ -14833,6 +19879,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1991-003",
+      "date": "1991-03-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'91」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。中村雅俊と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
     },
@@ -14871,6 +19933,54 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1991-004",
+      "date": "1991-04-02",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「SOUND GIG」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。MULTI MAX出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1991-005",
+      "date": "1991-04-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「夜のヒットスタジオ大感謝祭スペシャルII『青春時代編』」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ASKAソロ・MULTI MAXでも出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1991-006",
+      "date": "1991-04-09",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「ナリキーばんど講座」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。うじきつよし司会。ビートルズ特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        }
+      ]
+    },
+    {
       "id": "release-1990-1992-010",
       "date": "1991-04-12",
       "artist": "MULTI MAX",
@@ -14901,6 +20011,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1991-019",
+      "date": "1991-04-13",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "ラジオ「LIVE LIVE LIVE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。MULTI MAXスタジオより生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
     },
@@ -14943,6 +20069,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
           "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1991-007",
+      "date": "1991-04-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「特別企画!!CHAGE&ASKA」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "北海道文化放送。トークと映像紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
     },
@@ -15052,6 +20194,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1991-008",
+      "date": "1991-05-03",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。ASKAソロ。はじまりはいつも雨。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        }
+      ]
+    },
+    {
       "id": "live-multi-max-windy-road-1991-008",
       "date": "1991-05-04",
       "artist": "MULTI MAX",
@@ -15157,6 +20315,38 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1991-009",
+      "date": "1991-05-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「笑っていいとも！」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。テレホンショッキングにCHAGE単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1991-010",
+      "date": "1991-05-17",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「笑っていいとも！」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。テレホンショッキングにASKA単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        }
+      ]
+    },
+    {
       "id": "release-1990-1992-012",
       "date": "1991-06-05",
       "artist": "ASKA",
@@ -15174,6 +20364,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1991-011",
+      "date": "1991-07-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「島原救済緊急特別番組・夜のヒットスタジオスペシャル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。SAY YES。渋谷エピキュラスから生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        }
+      ]
+    },
+    {
       "id": "release-1990-1992-013",
       "date": "1991-07-24",
       "artist": "CHAGE and ASKA",
@@ -15187,6 +20393,38 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1991-012",
+      "date": "1991-08-04",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'91」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。BBクィーンズと共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1991-013",
+      "date": "1991-09-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'91」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。益田宏美（岩崎宏美）と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ]
     },
@@ -16084,6 +21322,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1991-014",
+      "date": "1991-12-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「第20回FNS歌謡祭'91」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。SAY YES・僕はこの瞳で嘘をつく。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        }
+      ]
+    },
+    {
       "id": "live-say-yes-1991-1992-034",
       "date": "1991-12-07",
       "artist": "CHAGE and ASKA",
@@ -16393,6 +21647,54 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1991-015",
+      "date": "1991-12-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA HISTORY '79-'90」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-BS。デビュー期から1990年までの特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1991-016",
+      "date": "1991-12-28",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA DOCUMENT '91」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-BS。ロンドンレコーディングからSAY YESツアーのドキュメント。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1991-017",
+      "date": "1991-12-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE&ASKA 1991 LIVE SPECIAL SAY YES」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-BS2。SAY YESツアー公演の放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        }
+      ]
+    },
+    {
       "id": "live-say-yes-1991-1992-045",
       "date": "1992-01-05",
       "artist": "CHAGE and ASKA",
@@ -16662,6 +21964,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1992-001",
+      "date": "1992-01-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「CHAGE with FRIENDS CHAGE CHAGE CHAGE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "SBS静岡放送。CHAGEが司会。アーティストのPV紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
     },
@@ -17125,6 +22443,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1992-002",
+      "date": "1992-04-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「第6回 日本ゴールドディスク大賞」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。6部門7受賞と記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/53.html"
+        }
+      ]
+    },
+    {
       "id": "live-big-tree-1992-015",
       "date": "1992-04-08",
       "artist": "CHAGE and ASKA",
@@ -17175,6 +22509,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1992-003",
+      "date": "1992-04-10",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。LOVE SONG・WALK。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/53.html"
+        }
+      ]
+    },
+    {
       "id": "live-big-tree-1992-017",
       "date": "1992-04-13",
       "artist": "CHAGE and ASKA",
@@ -17221,6 +22571,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1992-004",
+      "date": "1992-04-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「SOUND ARENA」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。SAY YES・LOVE SONG。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
     },
@@ -17371,6 +22737,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1992-005",
+      "date": "1992-05-01",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「ミュージックステーション」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。遠い街から。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
     },
@@ -17592,6 +22974,38 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1992-006",
+      "date": "1992-05-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「日本のビッグシンガー」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-BS2。BIG TREEツアーの日本武道館公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/53.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1992-007",
+      "date": "1992-05-20",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ「SOUND ARENA」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。遠い街から。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/53.html"
+        }
+      ]
+    },
+    {
       "id": "release-1990-1992-023",
       "date": "1992-05-20",
       "artist": "MULTI MAX",
@@ -17605,6 +23019,54 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1992-015",
+      "date": "1992-05-30",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオ「SUBARU SOUND SPECIAL Part3 BIG TREE TOUR FINAL」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO-FM。BIG TREEツアー最終日の模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/53.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1992-008",
+      "date": "1992-06-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ウッチャンナンチャンのやるならやらねば!」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。チャケ&矢飛鳥の企画に本人が登場。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/53.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1992-009",
+      "date": "1992-06-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ミュージックフェア'92」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。工藤静香と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
     },
@@ -17643,6 +23105,38 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1992-010",
+      "date": "1992-10-14",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「MJ -MUSIC JOURNAL-」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。CHAGE＆ASKA特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/53.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1992-011",
+      "date": "1992-10-18",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「MUSIC QUEST '92」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。CHAGEゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/53.html"
+        }
+      ]
+    },
+    {
       "id": "release-1990-1992-026",
       "date": "1992-11-07",
       "artist": "CHAGE and ASKA",
@@ -17677,6 +23171,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
           "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1992-012",
+      "date": "1992-12-01",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「FNS歌謡祭'92」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ロンドンより中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
     },
@@ -17782,6 +23292,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18-1992-013",
+      "date": "1992-12-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「SUBARU X'mas Presents Chage & Aska 世界にMERRY X'MAS」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ロンドンレコーディングの様子や番組用の演奏。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/53.html"
+        }
+      ]
+    },
+    {
       "id": "live-multi-max-max-tool-1992-006",
       "date": "1992-12-14",
       "artist": "MULTI MAX",
@@ -17833,6 +23359,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18-1992-014",
+      "date": "1992-12-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「流行歌最前線」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK-BS2。世界にMerry X'mas。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ]
     },
@@ -46553,25 +52095,6 @@ window.CA_EVENT_DATA = {
       "startTime": "19:00"
     },
     {
-      "id": "v13-ch18-xmas",
-      "date": "2018-12-23",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Christmas Dinner Show 2018",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography",
-          "url": "https://chage.jp/biography/2018.php"
-        }
-      ],
-      "venue": "グランドプリンスホテル新高輪",
-      "prefecture": "東京都",
-      "country": "日本"
-    },
-    {
       "id": "v13-aska18-pride-shizuoka",
       "date": "2018-12-23",
       "artist": "ASKA",
@@ -46591,6 +52114,25 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "tourId": "aska-pride-2018",
       "performanceNo": 11
+    },
+    {
+      "id": "v13-ch18-xmas",
+      "date": "2018-12-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Christmas Dinner Show 2018",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "グランドプリンスホテル新高輪",
+      "prefecture": "東京都",
+      "country": "日本"
     },
     {
       "id": "v13-media-024",
@@ -47146,28 +52688,6 @@ window.CA_EVENT_DATA = {
       "startTime": "18:30"
     },
     {
-      "id": "v13-ch19-fan-007",
-      "date": "2019-04-23",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ公演詳細",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
-        }
-      ],
-      "venue": "イムズホール",
-      "country": "日本",
-      "performanceNo": 7,
-      "tourId": "chage-fm-2019",
-      "prefecture": "福岡県",
-      "startTime": "15:30"
-    },
-    {
       "id": "v13-aska19-made-in-015",
       "date": "2019-04-23",
       "artist": "ASKA",
@@ -47188,6 +52708,28 @@ window.CA_EVENT_DATA = {
       "tourId": "aska-made-in-2019",
       "prefecture": "東京都",
       "startTime": "18:30"
+    },
+    {
+      "id": "v13-ch19-fan-007",
+      "date": "2019-04-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ公演詳細",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        }
+      ],
+      "venue": "イムズホール",
+      "country": "日本",
+      "performanceNo": 7,
+      "tourId": "chage-fm-2019",
+      "prefecture": "福岡県",
+      "startTime": "15:30"
     },
     {
       "id": "v13-aska19-made-in-016",
@@ -47482,22 +53024,6 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
-      "id": "v13-release-033",
-      "date": "2019-08-21",
-      "artist": "ASKA",
-      "category": "release",
-      "title": "映像『Made in ASKA -40年のありったけ- in 日本武道館』DVD/Blu-ray発売",
-      "status": "released",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA活動履歴",
-          "url": "https://cosmos.ladomi.net/archives/index_arch_2019"
-        }
-      ]
-    },
-    {
       "id": "v13-media-030",
       "date": "2019-08-21",
       "artist": "Chage",
@@ -47510,6 +53036,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2019.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-033",
+      "date": "2019-08-21",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "映像『Made in ASKA -40年のありったけ- in 日本武道館』DVD/Blu-ray発売",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2019"
         }
       ]
     },
@@ -47846,25 +53388,6 @@ window.CA_EVENT_DATA = {
       "startTime": "18:30"
     },
     {
-      "id": "v13-ch19-xmas",
-      "date": "2019-12-20",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Christmas Dinner Show 2019",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography",
-          "url": "https://chage.jp/biography/2019.php"
-        }
-      ],
-      "venue": "グランドプリンスホテル新高輪",
-      "prefecture": "東京都",
-      "country": "日本"
-    },
-    {
       "id": "v13-aska19-higher-003",
       "date": "2019-12-20",
       "artist": "ASKA",
@@ -47885,6 +53408,25 @@ window.CA_EVENT_DATA = {
       "tourId": "aska-higher-ground-2019-2020",
       "prefecture": "兵庫県",
       "startTime": "18:30"
+    },
+    {
+      "id": "v13-ch19-xmas",
+      "date": "2019-12-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Christmas Dinner Show 2019",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "venue": "グランドプリンスホテル新高輪",
+      "prefecture": "東京都",
+      "country": "日本"
     },
     {
       "id": "v13-aska19-higher-004",
@@ -48374,6 +53916,22 @@ window.CA_EVENT_DATA = {
       "venue": "松下IMPホール"
     },
     {
+      "id": "v14-ca-youtube-01",
+      "date": "2020-04-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "C&A公式YouTubeライブ映像公開 第1弾（1980年代）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "YouTube公開日。過去映像の元ライブ公演日とは区別",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式Information",
+          "url": "https://www.chage-aska.net/information/2020041701.php"
+        }
+      ]
+    },
+    {
       "id": "v14-chage-2020-fm-cancel-003",
       "date": "2020-04-17",
       "artist": "Chage",
@@ -48393,22 +53951,6 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "prefecture": "愛知県",
       "venue": "名古屋 ダイアモンドホール"
-    },
-    {
-      "id": "v14-ca-youtube-01",
-      "date": "2020-04-17",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "C&A公式YouTubeライブ映像公開 第1弾（1980年代）",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "YouTube公開日。過去映像の元ライブ公演日とは区別",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式Information",
-          "url": "https://www.chage-aska.net/information/2020041701.php"
-        }
-      ]
     },
     {
       "id": "v14-chage-2020-fm-cancel-004",
@@ -48860,22 +54402,6 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
-      "id": "v14-release-010",
-      "date": "2020-10-07",
-      "artist": "Chage",
-      "category": "release",
-      "title": "「君に逢いたいだけ」配信開始",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Discography",
-          "url": "https://chage.jp/discography/"
-        }
-      ]
-    },
-    {
       "id": "v14-media-ch20-010",
       "date": "2020-10-07",
       "artist": "Chage",
@@ -48888,6 +54414,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography（放送日・出演日）",
           "url": "https://chage.jp/biography/2020.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-010",
+      "date": "2020-10-07",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「君に逢いたいだけ」配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
         }
       ]
     },
@@ -49764,22 +55306,6 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
-      "id": "v14-release-019",
-      "date": "2021-11-24",
-      "artist": "Chage",
-      "category": "release",
-      "title": "『Chage’s Christmas ～チャゲクリ～』発売",
-      "status": "released",
-      "verification": "primary",
-      "note": "CD+DVD／CD+Blu-rayを同一作品として登録",
-      "sources": [
-        {
-          "label": "Chage公式Discography",
-          "url": "https://chage.jp/discography/chage/single/016.php"
-        }
-      ]
-    },
-    {
       "id": "v14-media-ch21-010",
       "date": "2021-11-24",
       "artist": "Chage",
@@ -49824,6 +55350,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography（放送日・出演日）",
           "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-019",
+      "date": "2021-11-24",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『Chage’s Christmas ～チャゲクリ～』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "CD+DVD／CD+Blu-rayを同一作品として登録",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/chage/single/016.php"
         }
       ]
     },
@@ -50110,6 +55652,27 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v14-aska-2021-encore-plan-006",
+      "date": "2021-12-09",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年3月24日に振替開催",
+      "sources": [
+        {
+          "label": "主催者公開の振替対応表",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 6,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "京都府",
+      "venue": "ロームシアター京都 メインホール"
+    },
+    {
       "id": "v14-chage-2021-winter-001",
       "date": "2021-12-09",
       "artist": "Chage",
@@ -50130,27 +55693,6 @@ window.CA_EVENT_DATA = {
       "prefecture": "福岡県",
       "venue": "DRUM LOGOS",
       "startTime": "18:30"
-    },
-    {
-      "id": "v14-aska-2021-encore-plan-006",
-      "date": "2021-12-09",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
-      "status": "postponed",
-      "verification": "primary",
-      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年3月24日に振替開催",
-      "sources": [
-        {
-          "label": "主催者公開の振替対応表",
-          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
-        }
-      ],
-      "performanceNo": 6,
-      "tourId": "aska-higher-encore-2021-2022",
-      "country": "日本",
-      "prefecture": "京都府",
-      "venue": "ロームシアター京都 メインホール"
     },
     {
       "id": "v14-chage-2021-winter-002",
@@ -50319,6 +55861,27 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v14-aska-2021-encore-plan-007",
+      "date": "2021-12-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年1月10日に振替開催",
+      "sources": [
+        {
+          "label": "主催者公開の振替対応表",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 7,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "仙台サンプラザホール"
+    },
+    {
       "id": "v14-chage-2021-winter-003",
       "date": "2021-12-17",
       "artist": "Chage",
@@ -50361,27 +55924,6 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都",
       "venue": "品川プリンスホテル クラブeX",
       "startTime": "18:30"
-    },
-    {
-      "id": "v14-aska-2021-encore-plan-007",
-      "date": "2021-12-17",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
-      "status": "postponed",
-      "verification": "primary",
-      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年1月10日に振替開催",
-      "sources": [
-        {
-          "label": "主催者公開の振替対応表",
-          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
-        }
-      ],
-      "performanceNo": 7,
-      "tourId": "aska-higher-encore-2021-2022",
-      "country": "日本",
-      "prefecture": "宮城県",
-      "venue": "仙台サンプラザホール"
     },
     {
       "id": "v14-media-ch21-037",
@@ -50600,6 +56142,27 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v14-aska-2021-encore-plan-008",
+      "date": "2021-12-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月11日に振替開催",
+      "sources": [
+        {
+          "label": "主催者公開の振替対応表",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 8,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "名古屋国際会議場 センチュリーホール"
+    },
+    {
       "id": "v14-chage-2021-winter-009",
       "date": "2021-12-22",
       "artist": "Chage",
@@ -50642,27 +56205,6 @@ window.CA_EVENT_DATA = {
       "prefecture": "大阪府",
       "venue": "umeda TRAD",
       "startTime": "18:30"
-    },
-    {
-      "id": "v14-aska-2021-encore-plan-008",
-      "date": "2021-12-22",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
-      "status": "postponed",
-      "verification": "primary",
-      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月11日に振替開催",
-      "sources": [
-        {
-          "label": "主催者公開の振替対応表",
-          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
-        }
-      ],
-      "performanceNo": 8,
-      "tourId": "aska-higher-encore-2021-2022",
-      "country": "日本",
-      "prefecture": "愛知県",
-      "venue": "名古屋国際会議場 センチュリーホール"
     },
     {
       "id": "v14-media-ch21-045",
@@ -51469,22 +57011,6 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
-      "id": "v14-release-022",
-      "date": "2022-09-07",
-      "artist": "Chage",
-      "category": "release",
-      "title": "「POP」配信開始",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Discography",
-          "url": "https://chage.jp/discography/"
-        }
-      ]
-    },
-    {
       "id": "v14-media-ch22-005",
       "date": "2022-09-07",
       "artist": "Chage",
@@ -51497,6 +57023,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography（放送日・出演日）",
           "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-022",
+      "date": "2022-09-07",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「POP」配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
         }
       ]
     },
@@ -51928,6 +57470,205 @@ window.CA_EVENT_DATA = {
       "startTime": "20:30"
     },
     {
+      "id": "v15-0052",
+      "date": "2023-01-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live “64 to 65”",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2022年末から続く東京公演・第1ステージ（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "tourId": "chage-billboard-64-65",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0053",
+      "date": "2023-01-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live “64 to 65”",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2022年末から続く東京公演・第2ステージ（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "tourId": "chage-billboard-64-65",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0035",
+      "date": "2023-01-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "愛知県芸術劇場 小ホール",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0036",
+      "date": "2023-01-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "静岡県",
+      "venue": "LIVE ROXY SHIZUOKA",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0299",
+      "date": "2023-01-28",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「MUSIC FAIR」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ]
+    },
+    {
+      "id": "v15-0021",
+      "date": "2023-02-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "AUBADE SYMPHONIC WAVE 2023（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "富山県",
+      "venue": "オーバード・ホール"
+    },
+    {
+      "id": "v15-0018",
+      "date": "2023-03-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA＆DAVID FOSTER PREMIUM CONCERT 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ぴあアリーナMM",
+      "startTime": "19:00",
+      "tourId": "aska-david-foster-2023",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0019",
+      "date": "2023-03-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA＆DAVID FOSTER PREMIUM CONCERT 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "特別公演（公式Biographyに日付記載）",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ブルーノート東京",
+      "tourId": "aska-david-foster-2023",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0020",
+      "date": "2023-03-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA＆DAVID FOSTER PREMIUM CONCERT 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "兵庫県",
+      "venue": "兵庫県立芸術文化センター KOBELCO大ホール",
+      "tourId": "aska-david-foster-2023",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0235",
+      "date": "2023-03-21",
+      "artist": "MULTI MAX",
+      "category": "milestone",
+      "title": "「WINDY ROAD」がFNSチャリティキャンペーン50周年ソングに決定",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "発表日・決定日。リリース日とは異なる",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
       "id": "v15-0001",
       "date": "2023-04-01",
       "artist": "ASKA",
@@ -51970,6 +57711,43 @@ window.CA_EVENT_DATA = {
       "performanceNo": 2
     },
     {
+      "id": "v15-0241",
+      "date": "2023-04-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM岡山「TWILIGHT PAVEMENT」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0037",
+      "date": "2023-04-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "岡山県",
+      "venue": "CRAZYMAMA KINGDOM",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 3
+    },
+    {
       "id": "v15-0003",
       "date": "2023-04-15",
       "artist": "ASKA",
@@ -51989,6 +57767,45 @@ window.CA_EVENT_DATA = {
       "venue": "愛知県芸術劇場 大ホール",
       "tourId": "aska-wonderful-world-2023",
       "performanceNo": 3
+    },
+    {
+      "id": "v15-0022",
+      "date": "2023-04-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "3150FIGHT vol.5 ハーフタイムショー（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v15-0038",
+      "date": "2023-04-16",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "BIGCAT",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 4
     },
     {
       "id": "v15-0004",
@@ -52138,6 +57955,105 @@ window.CA_EVENT_DATA = {
       "performanceNo": 10
     },
     {
+      "id": "v15-0058",
+      "date": "2023-05-27",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage Official Fan Club equal FAN MEETING 2023 @Spa Resort Hawaiians",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "FCイベント開催日。歌唱ステージの公演回数は未確認",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福島県",
+      "venue": "スパリゾートハワイアンズ"
+    },
+    {
+      "id": "v15-0059",
+      "date": "2023-05-28",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage Official Fan Club equal FAN MEETING 2023 @Spa Resort Hawaiians",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "FCイベント開催日。歌唱ステージの公演回数は未確認",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福島県",
+      "venue": "スパリゾートハワイアンズ"
+    },
+    {
+      "id": "v15-0039",
+      "date": "2023-06-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "同日2公演・1公演目（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "Yokohama mint hall",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0040",
+      "date": "2023-06-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "同日2公演・2公演目（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "Yokohama mint hall",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 6
+    },
+    {
+      "id": "v15-0023",
+      "date": "2023-06-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "澤近泰輔65祭 The Chronicle（ASKAゲスト出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "町田市民ホール"
+    },
+    {
       "id": "v15-0011",
       "date": "2023-07-01",
       "artist": "ASKA",
@@ -52222,6 +58138,56 @@ window.CA_EVENT_DATA = {
       "performanceNo": 14
     },
     {
+      "id": "v15-0242",
+      "date": "2023-07-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHK-FM「ディスカバー・ビートルズⅡ」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0243",
+      "date": "2023-07-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「BUTCH COUNTDOWN RADIO」リモート出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0024",
+      "date": "2023-07-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "LuckyFes（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "茨城県"
+    },
+    {
       "id": "v15-0015",
       "date": "2023-07-21",
       "artist": "ASKA",
@@ -52264,6 +58230,54 @@ window.CA_EVENT_DATA = {
       "performanceNo": 16
     },
     {
+      "id": "v15-0220",
+      "date": "2023-07-30",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「幸せな不条理」配信リリース",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0244",
+      "date": "2023-08-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TOKYO FM「DEAR FRIEND」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0245",
+      "date": "2023-08-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ニッポン放送「垣花正 あなたとハッピー！」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
       "id": "v15-0017",
       "date": "2023-08-04",
       "artist": "ASKA",
@@ -52285,142 +58299,180 @@ window.CA_EVENT_DATA = {
       "performanceNo": 17
     },
     {
-      "id": "v15-0018",
-      "date": "2023-03-16",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA＆DAVID FOSTER PREMIUM CONCERT 2023",
+      "id": "v15-0246",
+      "date": "2023-08-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "東海ラジオ「OH! MY CHANNEL!」生出演",
       "status": "recorded",
       "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
         }
-      ],
-      "country": "日本",
-      "prefecture": "神奈川県",
-      "venue": "ぴあアリーナMM",
-      "startTime": "19:00",
-      "tourId": "aska-david-foster-2023",
-      "performanceNo": 1
+      ]
     },
     {
-      "id": "v15-0019",
-      "date": "2023-03-17",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA＆DAVID FOSTER PREMIUM CONCERT 2023",
-      "status": "recorded",
+      "id": "v15-0221",
+      "date": "2023-08-15",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「青い空だけじゃない」先行配信リリース",
+      "status": "released",
       "verification": "primary",
-      "note": "特別公演（公式Biographyに日付記載）",
+      "note": "",
       "sources": [
         {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
         }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "ブルーノート東京",
-      "tourId": "aska-david-foster-2023",
-      "performanceNo": 2
+      ]
     },
     {
-      "id": "v15-0020",
-      "date": "2023-03-19",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA＆DAVID FOSTER PREMIUM CONCERT 2023",
+      "id": "v15-0247",
+      "date": "2023-08-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TOKYO FM「THE TRAD」生出演",
       "status": "recorded",
       "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
         }
-      ],
-      "country": "日本",
-      "prefecture": "兵庫県",
-      "venue": "兵庫県立芸術文化センター KOBELCO大ホール",
-      "tourId": "aska-david-foster-2023",
-      "performanceNo": 3
+      ]
     },
     {
-      "id": "v15-0021",
-      "date": "2023-02-23",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "AUBADE SYMPHONIC WAVE 2023（ASKA出演）",
+      "id": "v15-0248",
+      "date": "2023-08-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM山口「ひといき～HITOIKI～」コメント出演",
       "status": "recorded",
       "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
         }
-      ],
-      "country": "日本",
-      "prefecture": "富山県",
-      "venue": "オーバード・ホール"
+      ]
     },
     {
-      "id": "v15-0022",
-      "date": "2023-04-16",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "3150FIGHT vol.5 ハーフタイムショー（ASKA出演）",
+      "id": "v15-0249",
+      "date": "2023-08-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RSKラジオ「あもーれ！マッタリーノ」コメント出演",
       "status": "recorded",
       "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
         }
-      ],
-      "country": "日本",
-      "prefecture": "東京都"
+      ]
     },
     {
-      "id": "v15-0023",
-      "date": "2023-06-20",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "澤近泰輔65祭 The Chronicle（ASKAゲスト出演）",
+      "id": "v15-0236",
+      "date": "2023-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA デビュー44周年",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "1979年8月25日のデビューを起点とする記念日",
       "sources": [
         {
           "label": "ASKA公式Biography",
           "url": "https://www.fellows.tokyo/feature/biography"
         }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "町田市民ホール"
+      ]
     },
     {
-      "id": "v15-0024",
-      "date": "2023-07-15",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "LuckyFes（ASKA出演）",
+      "id": "v15-0250",
+      "date": "2023-08-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "中京テレビ「ぐっと」出演",
       "status": "recorded",
       "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
         }
-      ],
-      "country": "日本",
-      "prefecture": "茨城県"
+      ]
+    },
+    {
+      "id": "v15-0251",
+      "date": "2023-08-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "α-STATION「J-AC TOP40」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0252",
+      "date": "2023-08-27",
+      "artist": "Chage",
+      "category": "media",
+      "title": "CBCラジオ「小堀勝啓の新栄トークジャンボリー」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0253",
+      "date": "2023-08-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM大阪「LOVE FLAP」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0222",
+      "date": "2023-08-30",
+      "artist": "Chage",
+      "category": "release",
+      "title": "EP『青い空だけじゃない』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式アルバム一覧",
+          "url": "https://chage.jp/discography/chage/album.php"
+        }
+      ]
     },
     {
       "id": "v15-0025",
@@ -52441,6 +58493,186 @@ window.CA_EVENT_DATA = {
       "prefecture": "富山県"
     },
     {
+      "id": "v15-0048",
+      "date": "2023-09-03",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour 2023 WINDY ROAD",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "Zepp Nagoya",
+      "tourId": "chage-windy-road-2023",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0254",
+      "date": "2023-09-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "MBSラジオ「ヤングタウン」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0255",
+      "date": "2023-09-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「DIG!!!!!!!!FUKUOKA」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0256",
+      "date": "2023-09-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHK福岡「ロクいち！福岡」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0049",
+      "date": "2023-09-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour 2023 WINDY ROAD",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "Zepp Fukuoka",
+      "tourId": "chage-windy-road-2023",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0050",
+      "date": "2023-09-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour 2023 WINDY ROAD",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "Zepp Namba",
+      "tourId": "chage-windy-road-2023",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0257",
+      "date": "2023-09-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "bayfm「9の音粋」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0223",
+      "date": "2023-09-27",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA Premium Concert Tour Wonderful World 2023』Blu-ray＋Live CD発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Discography",
+          "url": "https://www.fellows.tokyo/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0258",
+      "date": "2023-09-27",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NACK5「J-POP TALKIN'」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0051",
+      "date": "2023-09-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour 2023 WINDY ROAD",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "配信実施公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "Zepp Haneda",
+      "tourId": "chage-windy-road-2023",
+      "performanceNo": 4
+    },
+    {
       "id": "v15-0026",
       "date": "2023-10-03",
       "artist": "ASKA",
@@ -52457,6 +58689,164 @@ window.CA_EVENT_DATA = {
       ],
       "country": "日本",
       "prefecture": "東京都"
+    },
+    {
+      "id": "v15-0041",
+      "date": "2023-10-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "帯広MEGA STONE",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 7
+    },
+    {
+      "id": "v15-0042",
+      "date": "2023-10-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "札幌PENNY LANE24",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 8
+    },
+    {
+      "id": "v15-0259",
+      "date": "2023-10-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHK-FM「ラジオマンジャック」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0043",
+      "date": "2023-11-03",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "新潟県",
+      "venue": "新潟GOLDEN PIGS RED STAGE",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 9
+    },
+    {
+      "id": "v15-0044",
+      "date": "2023-11-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "石川県",
+      "venue": "金沢GOLD CREEK",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 10
+    },
+    {
+      "id": "v15-0045",
+      "date": "2023-11-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "仙台Rensa",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 11
+    },
+    {
+      "id": "v15-0046",
+      "date": "2023-11-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "栃木県",
+      "venue": "HEAVEN'S ROCK 宇都宮 VJ-2",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 12
+    },
+    {
+      "id": "v15-0260",
+      "date": "2023-11-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "「あの頃青春グラフィティ」公開生放送出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
     },
     {
       "id": "v15-0027",
@@ -52501,6 +58891,27 @@ window.CA_EVENT_DATA = {
       "startTime": "19:15",
       "tourId": "aska-dinner-2023",
       "performanceNo": 2
+    },
+    {
+      "id": "v15-0047",
+      "date": "2023-12-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "静岡県",
+      "venue": "LiveHouse浜松窓枠",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 13
     },
     {
       "id": "v15-0029",
@@ -52635,405 +59046,6 @@ window.CA_EVENT_DATA = {
       "performanceNo": 8
     },
     {
-      "id": "v15-0035",
-      "date": "2023-01-20",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2023",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "愛知県",
-      "venue": "愛知県芸術劇場 小ホール",
-      "tourId": "chage-hosomichi-2023",
-      "performanceNo": 1
-    },
-    {
-      "id": "v15-0036",
-      "date": "2023-01-22",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2023",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "静岡県",
-      "venue": "LIVE ROXY SHIZUOKA",
-      "tourId": "chage-hosomichi-2023",
-      "performanceNo": 2
-    },
-    {
-      "id": "v15-0037",
-      "date": "2023-04-14",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2023",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "岡山県",
-      "venue": "CRAZYMAMA KINGDOM",
-      "tourId": "chage-hosomichi-2023",
-      "performanceNo": 3
-    },
-    {
-      "id": "v15-0038",
-      "date": "2023-04-16",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2023",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "大阪府",
-      "venue": "BIGCAT",
-      "tourId": "chage-hosomichi-2023",
-      "performanceNo": 4
-    },
-    {
-      "id": "v15-0039",
-      "date": "2023-06-04",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2023",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "同日2公演・1公演目（開演時刻未確認）",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "神奈川県",
-      "venue": "Yokohama mint hall",
-      "tourId": "chage-hosomichi-2023",
-      "performanceNo": 5
-    },
-    {
-      "id": "v15-0040",
-      "date": "2023-06-04",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2023",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "同日2公演・2公演目（開演時刻未確認）",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "神奈川県",
-      "venue": "Yokohama mint hall",
-      "tourId": "chage-hosomichi-2023",
-      "performanceNo": 6
-    },
-    {
-      "id": "v15-0041",
-      "date": "2023-10-22",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2023",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "北海道",
-      "venue": "帯広MEGA STONE",
-      "tourId": "chage-hosomichi-2023",
-      "performanceNo": 7
-    },
-    {
-      "id": "v15-0042",
-      "date": "2023-10-24",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2023",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "北海道",
-      "venue": "札幌PENNY LANE24",
-      "tourId": "chage-hosomichi-2023",
-      "performanceNo": 8
-    },
-    {
-      "id": "v15-0043",
-      "date": "2023-11-03",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2023",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "新潟県",
-      "venue": "新潟GOLDEN PIGS RED STAGE",
-      "tourId": "chage-hosomichi-2023",
-      "performanceNo": 9
-    },
-    {
-      "id": "v15-0044",
-      "date": "2023-11-05",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2023",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "石川県",
-      "venue": "金沢GOLD CREEK",
-      "tourId": "chage-hosomichi-2023",
-      "performanceNo": 10
-    },
-    {
-      "id": "v15-0045",
-      "date": "2023-11-22",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2023",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "宮城県",
-      "venue": "仙台Rensa",
-      "tourId": "chage-hosomichi-2023",
-      "performanceNo": 11
-    },
-    {
-      "id": "v15-0046",
-      "date": "2023-11-23",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2023",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "栃木県",
-      "venue": "HEAVEN'S ROCK 宇都宮 VJ-2",
-      "tourId": "chage-hosomichi-2023",
-      "performanceNo": 12
-    },
-    {
-      "id": "v15-0047",
-      "date": "2023-12-17",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2023",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "静岡県",
-      "venue": "LiveHouse浜松窓枠",
-      "tourId": "chage-hosomichi-2023",
-      "performanceNo": 13
-    },
-    {
-      "id": "v15-0048",
-      "date": "2023-09-03",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour 2023 WINDY ROAD",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "愛知県",
-      "venue": "Zepp Nagoya",
-      "tourId": "chage-windy-road-2023",
-      "performanceNo": 1
-    },
-    {
-      "id": "v15-0049",
-      "date": "2023-09-23",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour 2023 WINDY ROAD",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "福岡県",
-      "venue": "Zepp Fukuoka",
-      "tourId": "chage-windy-road-2023",
-      "performanceNo": 2
-    },
-    {
-      "id": "v15-0050",
-      "date": "2023-09-24",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour 2023 WINDY ROAD",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "大阪府",
-      "venue": "Zepp Namba",
-      "tourId": "chage-windy-road-2023",
-      "performanceNo": 3
-    },
-    {
-      "id": "v15-0051",
-      "date": "2023-09-30",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour 2023 WINDY ROAD",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "配信実施公演",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "Zepp Haneda",
-      "tourId": "chage-windy-road-2023",
-      "performanceNo": 4
-    },
-    {
-      "id": "v15-0052",
-      "date": "2023-01-06",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Billboard Live “64 to 65”",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "2022年末から続く東京公演・第1ステージ（開演時刻未確認）",
-      "sources": [
-        {
-          "label": "Chage公式Discography",
-          "url": "https://chage.jp/discography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "ビルボードライブ東京",
-      "tourId": "chage-billboard-64-65",
-      "performanceNo": 1
-    },
-    {
-      "id": "v15-0053",
-      "date": "2023-01-06",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Billboard Live “64 to 65”",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "2022年末から続く東京公演・第2ステージ（開演時刻未確認）",
-      "sources": [
-        {
-          "label": "Chage公式Discography",
-          "url": "https://chage.jp/discography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "ビルボードライブ東京",
-      "tourId": "chage-billboard-64-65",
-      "performanceNo": 2
-    },
-    {
       "id": "v15-0054",
       "date": "2023-12-23",
       "artist": "Chage",
@@ -53122,592 +59134,112 @@ window.CA_EVENT_DATA = {
       "performanceNo": 4
     },
     {
-      "id": "v15-0058",
-      "date": "2023-05-27",
+      "id": "v15-0116",
+      "date": "2024-01-06",
       "artist": "Chage",
-      "category": "other",
-      "title": "Chage Official Fan Club equal FAN MEETING 2023 @Spa Resort Hawaiians",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "FCイベント開催日。歌唱ステージの公演回数は未確認",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "福島県",
-      "venue": "スパリゾートハワイアンズ"
-    },
-    {
-      "id": "v15-0059",
-      "date": "2023-05-28",
-      "artist": "Chage",
-      "category": "other",
-      "title": "Chage Official Fan Club equal FAN MEETING 2023 @Spa Resort Hawaiians",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "FCイベント開催日。歌唱ステージの公演回数は未確認",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "福島県",
-      "venue": "スパリゾートハワイアンズ"
-    },
-    {
-      "id": "v15-0060",
-      "date": "2024-09-21",
-      "artist": "ASKA",
       "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "title": "Chage Billboard Live 65 to 66",
       "status": "recorded",
-      "verification": "primary",
-      "note": "",
+      "verification": "secondary",
+      "note": "1日2ステージ",
       "sources": [
         {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
         }
       ],
       "country": "日本",
       "prefecture": "東京都",
-      "venue": "J:COMホール八王子",
+      "venue": "ビルボードライブ東京",
       "startTime": "17:00",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 1
-    },
-    {
-      "id": "v15-0061",
-      "date": "2024-09-25",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "大阪府",
-      "venue": "オリックス劇場",
-      "startTime": "18:30",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 2
-    },
-    {
-      "id": "v15-0062",
-      "date": "2024-09-26",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "大阪府",
-      "venue": "オリックス劇場",
-      "startTime": "18:30",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 3
-    },
-    {
-      "id": "v15-0063",
-      "date": "2024-10-03",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "福岡県",
-      "venue": "福岡サンパレスホテル＆ホール",
-      "startTime": "18:30",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 4
-    },
-    {
-      "id": "v15-0064",
-      "date": "2024-10-04",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "熊本県",
-      "venue": "熊本城ホール メインホール",
-      "startTime": "18:30",
-      "tourId": "aska-who-2024-2025",
+      "tourId": "chage-billboard-65-66",
       "performanceNo": 5
     },
     {
-      "id": "v15-0065",
-      "date": "2024-10-19",
-      "artist": "ASKA",
+      "id": "v15-0117",
+      "date": "2024-01-06",
+      "artist": "Chage",
       "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "title": "Chage Billboard Live 65 to 66",
       "status": "recorded",
-      "verification": "primary",
-      "note": "",
+      "verification": "secondary",
+      "note": "1日2ステージ",
       "sources": [
         {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
         }
       ],
       "country": "日本",
-      "prefecture": "神奈川県",
-      "venue": "神奈川県民ホール 大ホール",
-      "startTime": "17:30",
-      "tourId": "aska-who-2024-2025",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "startTime": "20:00",
+      "tourId": "chage-billboard-65-66",
       "performanceNo": 6
     },
     {
-      "id": "v15-0066",
-      "date": "2024-10-24",
+      "id": "v15-0224",
+      "date": "2024-01-17",
       "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "category": "release",
+      "title": "『ASKA featuring DAVID FOSTER PREMIUM CONCERT 2023』Blu-ray発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Discography",
+          "url": "https://www.fellows.tokyo/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0261",
+      "date": "2024-01-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "広島FM「GOOD JOG」コメント出演",
       "status": "recorded",
       "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
         }
-      ],
-      "country": "日本",
-      "prefecture": "岩手県",
-      "venue": "盛岡市民文化ホール 大ホール",
-      "startTime": "18:00",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 7
+      ]
     },
     {
-      "id": "v15-0067",
-      "date": "2024-10-26",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "id": "v15-0262",
+      "date": "2024-01-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「ライヴのじかん」コメント出演",
       "status": "recorded",
       "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
         }
-      ],
-      "country": "日本",
-      "prefecture": "山形県",
-      "venue": "やまぎん県民ホール 大ホール",
-      "startTime": "17:00",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 8
+      ]
     },
     {
-      "id": "v15-0068",
-      "date": "2024-11-04",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "id": "v15-0263",
+      "date": "2024-01-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「DIG!!!!!!!!FUKUOKA」リモート出演",
       "status": "recorded",
       "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
         }
-      ],
-      "country": "日本",
-      "prefecture": "北海道",
-      "venue": "札幌文化芸術劇場hitaru",
-      "startTime": "17:00",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 9
-    },
-    {
-      "id": "v15-0069",
-      "date": "2024-11-08",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "岡山県",
-      "venue": "倉敷市民会館",
-      "startTime": "18:30",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 10
-    },
-    {
-      "id": "v15-0070",
-      "date": "2024-11-10",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "広島県",
-      "venue": "広島文化学園HBGホール",
-      "startTime": "17:00",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 11
-    },
-    {
-      "id": "v15-0071",
-      "date": "2024-11-15",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "兵庫県",
-      "venue": "神戸国際会館こくさいホール",
-      "startTime": "18:30",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 12
-    },
-    {
-      "id": "v15-0072",
-      "date": "2024-11-16",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "京都府",
-      "venue": "ロームシアター京都 メインホール",
-      "startTime": "17:00",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 13
-    },
-    {
-      "id": "v15-0073",
-      "date": "2024-11-23",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "島根県",
-      "venue": "島根県芸術文化センター グラントワ 大ホール",
-      "startTime": "17:00",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 14
-    },
-    {
-      "id": "v15-0074",
-      "date": "2024-11-24",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "山口県",
-      "venue": "周南市文化会館 大ホール",
-      "startTime": "17:00",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 15
-    },
-    {
-      "id": "v15-0075",
-      "date": "2024-11-29",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "新潟県",
-      "venue": "新潟県民会館 大ホール",
-      "startTime": "18:30",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 16
-    },
-    {
-      "id": "v15-0076",
-      "date": "2024-12-01",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "石川県",
-      "venue": "本多の森 北電ホール",
-      "startTime": "17:30",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 17
-    },
-    {
-      "id": "v15-0077",
-      "date": "2024-12-08",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "静岡県",
-      "venue": "静岡市民文化会館 大ホール",
-      "startTime": "17:00",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 18
-    },
-    {
-      "id": "v15-0078",
-      "date": "2024-12-13",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "青森県",
-      "venue": "リンクステーションホール青森",
-      "startTime": "18:00",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 19
-    },
-    {
-      "id": "v15-0079",
-      "date": "2024-12-15",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "宮城県",
-      "venue": "仙台サンプラザホール",
-      "startTime": "17:00",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 20
-    },
-    {
-      "id": "v15-0080",
-      "date": "2024-12-20",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "兵庫県",
-      "venue": "アクリエひめじ 大ホール",
-      "startTime": "18:30",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 21
-    },
-    {
-      "id": "v15-0081",
-      "date": "2024-12-21",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Who is ASKA !?公演日程",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "大阪府",
-      "venue": "箕面市立文化芸能劇場 大ホール",
-      "startTime": "17:00",
-      "tourId": "aska-who-2024-2025",
-      "performanceNo": 22
-    },
-    {
-      "id": "v15-0082",
-      "date": "2024-10-06",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
-      "status": "postponed",
-      "verification": "primary",
-      "note": "【当日開催なし】2025年1月5日に同会場で振替公演。公演総数に算入しない",
-      "sources": [
-        {
-          "label": "BEA主催者：鹿児島再公演・振替",
-          "url": "https://www.bea-net.com/information/aska6.html"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "鹿児島県",
-      "venue": "川商ホール（鹿児島市民文化ホール）第一",
-      "startTime": "17:30",
-      "tourId": "aska-who-postponed",
-      "performanceNo": 1
-    },
-    {
-      "id": "v15-0083",
-      "date": "2024-06-22",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "HITMAN David Foster & Friends（ASKA出演）",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式ブログ：HITMAN David Foster & Friends",
-          "url": "https://archive.fellows.tokyo/blog/?id=4308"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "埼玉県",
-      "venue": "大宮ソニックシティ 大ホール",
-      "startTime": "16:00",
-      "tourId": "aska-david-2024",
-      "performanceNo": 1
-    },
-    {
-      "id": "v15-0084",
-      "date": "2024-06-26",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "HITMAN David Foster & Friends（ASKA出演）",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式ブログ：HITMAN David Foster & Friends",
-          "url": "https://archive.fellows.tokyo/blog/?id=4308"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "大阪府",
-      "venue": "フェスティバルホール",
-      "startTime": "18:30",
-      "tourId": "aska-david-2024",
-      "performanceNo": 2
+      ]
     },
     {
       "id": "v15-0085",
@@ -53903,6 +59435,60 @@ window.CA_EVENT_DATA = {
       "performanceNo": 9
     },
     {
+      "id": "v15-0301",
+      "date": "2024-04-20",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage Official Fan Club equal FAN MEETING 2024 @Spa Resort Hawaiians（1st）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1st：4月20日〜21日のFCイベント。開始日のみ登録。歌唱公演の実施日・公演回数は未確認",
+      "sources": [
+        {
+          "label": "Chage公式：2024年スパリゾートハワイアンズFCイベント",
+          "url": "https://chage.jp/information/fanclub/detail-604.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福島県",
+      "venue": "スパリゾートハワイアンズ"
+    },
+    {
+      "id": "v15-0302",
+      "date": "2024-04-21",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage Official Fan Club equal FAN MEETING 2024 @Spa Resort Hawaiians（2nd）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2nd：4月21日〜22日のFCイベント。開始日のみ登録。歌唱公演の実施日・公演回数は未確認",
+      "sources": [
+        {
+          "label": "Chage公式：2024年スパリゾートハワイアンズFCイベント",
+          "url": "https://chage.jp/information/fanclub/detail-604.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福島県",
+      "venue": "スパリゾートハワイアンズ"
+    },
+    {
+      "id": "v15-0264",
+      "date": "2024-05-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM長崎「Chage SPECIAL PROGRAM 細道への誘い radio」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
       "id": "v15-0094",
       "date": "2024-05-12",
       "artist": "Chage",
@@ -53945,6 +59531,23 @@ window.CA_EVENT_DATA = {
       "performanceNo": 11
     },
     {
+      "id": "v15-0303",
+      "date": "2024-05-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "佐藤竹善 Presents Cross your fingers（ASKAゲスト出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本"
+    },
+    {
       "id": "v15-0096",
       "date": "2024-06-02",
       "artist": "Chage",
@@ -53964,6 +59567,45 @@ window.CA_EVENT_DATA = {
       "venue": "成美教育文化会館 成美グリーンホール",
       "tourId": "chage-hosomichi-2024",
       "performanceNo": 12
+    },
+    {
+      "id": "v15-0304",
+      "date": "2024-06-02",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "澤野弘之 LIVE [nZk]008（ASKAゲスト出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本"
+    },
+    {
+      "id": "v15-0083",
+      "date": "2024-06-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "HITMAN David Foster & Friends（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式ブログ：HITMAN David Foster & Friends",
+          "url": "https://archive.fellows.tokyo/blog/?id=4308"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "埼玉県",
+      "venue": "大宮ソニックシティ 大ホール",
+      "startTime": "16:00",
+      "tourId": "aska-david-2024",
+      "performanceNo": 1
     },
     {
       "id": "v15-0097",
@@ -53987,6 +59629,60 @@ window.CA_EVENT_DATA = {
       "performanceNo": 13
     },
     {
+      "id": "v15-0084",
+      "date": "2024-06-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "HITMAN David Foster & Friends（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式ブログ：HITMAN David Foster & Friends",
+          "url": "https://archive.fellows.tokyo/blog/?id=4308"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "フェスティバルホール",
+      "startTime": "18:30",
+      "tourId": "aska-david-2024",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0265",
+      "date": "2024-07-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "HTB「イチオシ!!」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0266",
+      "date": "2024-07-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM NORTH WAVE「GOGO RADIO COMPANY」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
       "id": "v15-0098",
       "date": "2024-07-05",
       "artist": "Chage",
@@ -54008,6 +59704,41 @@ window.CA_EVENT_DATA = {
       "performanceNo": 14
     },
     {
+      "id": "v15-0267",
+      "date": "2024-07-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "AIR-G'「brilliant days×F」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0308",
+      "date": "2024-07-06",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "ASKA×Fellows in 宮古島～少しの時間と大きな旅と～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "7月6日〜8日のFCイベント。初日のみ登録。各日の歌唱公演回数は未確認",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "沖縄県",
+      "venue": "宮古島"
+    },
+    {
       "id": "v15-0099",
       "date": "2024-07-07",
       "artist": "Chage",
@@ -54027,6 +59758,38 @@ window.CA_EVENT_DATA = {
       "venue": "青森Quarter",
       "tourId": "chage-hosomichi-2024",
       "performanceNo": 15
+    },
+    {
+      "id": "v15-0268",
+      "date": "2024-07-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "HBCラジオ「ナルミッツ!!!」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0269",
+      "date": "2024-07-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHKラジオ「ふんわり」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
     },
     {
       "id": "v15-0100",
@@ -54071,6 +59834,70 @@ window.CA_EVENT_DATA = {
       "performanceNo": 17
     },
     {
+      "id": "v15-0270",
+      "date": "2024-07-18",
+      "artist": "Chage",
+      "category": "media",
+      "title": "STVラジオ「リアルタイム！」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0226",
+      "date": "2024-07-31",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「飾りのない歌」先行配信リリース",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0271",
+      "date": "2024-08-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ABCラジオ「おはようパーソナリティ 小縣裕介です」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0272",
+      "date": "2024-08-02",
+      "artist": "Chage",
+      "category": "media",
+      "title": "HTB「イチオシ!!」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
       "id": "v15-0102",
       "date": "2024-08-03",
       "artist": "Chage",
@@ -54113,11 +59940,11 @@ window.CA_EVENT_DATA = {
       "performanceNo": 19
     },
     {
-      "id": "v15-0104",
-      "date": "2024-10-12",
+      "id": "v15-0273",
+      "date": "2024-08-24",
       "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2024",
+      "category": "media",
+      "title": "J-WAVE「POP OF THE WORLD」コメント出演",
       "status": "recorded",
       "verification": "primary",
       "note": "",
@@ -54126,40 +59953,30 @@ window.CA_EVENT_DATA = {
           "label": "Chage公式Biography（2024）",
           "url": "https://chage.jp/biography/2024.php"
         }
-      ],
-      "country": "日本",
-      "prefecture": "沖縄県",
-      "venue": "Top Note",
-      "tourId": "chage-hosomichi-2024",
-      "performanceNo": 20
+      ]
     },
     {
-      "id": "v15-0105",
-      "date": "2024-10-13",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2024",
+      "id": "v15-0237",
+      "date": "2024-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA デビュー45周年",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "45周年記念日",
       "sources": [
         {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
         }
-      ],
-      "country": "日本",
-      "prefecture": "沖縄県",
-      "venue": "ガンガラーの谷",
-      "tourId": "chage-hosomichi-2024",
-      "performanceNo": 21
+      ]
     },
     {
-      "id": "v15-0106",
-      "date": "2024-10-19",
+      "id": "v15-0274",
+      "date": "2024-08-27",
       "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2024",
+      "category": "media",
+      "title": "bayfm「9の音粋」生出演",
       "status": "recorded",
       "verification": "primary",
       "note": "",
@@ -54168,40 +59985,30 @@ window.CA_EVENT_DATA = {
           "label": "Chage公式Biography（2024）",
           "url": "https://chage.jp/biography/2024.php"
         }
-      ],
-      "country": "日本",
-      "prefecture": "茨城県",
-      "venue": "club SONIC mito",
-      "tourId": "chage-hosomichi-2024",
-      "performanceNo": 22
+      ]
     },
     {
-      "id": "v15-0107",
-      "date": "2024-11-09",
+      "id": "v15-0227",
+      "date": "2024-08-28",
       "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2024",
-      "status": "recorded",
+      "category": "release",
+      "title": "アルバム『飾りのない歌』発売",
+      "status": "released",
       "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
+          "label": "Chage公式アルバム一覧",
+          "url": "https://chage.jp/discography/chage/album.php"
         }
-      ],
-      "country": "日本",
-      "prefecture": "静岡県",
-      "venue": "SOUND SHOWER ark",
-      "tourId": "chage-hosomichi-2024",
-      "performanceNo": 23
+      ]
     },
     {
-      "id": "v15-0108",
-      "date": "2024-11-15",
+      "id": "v15-0275",
+      "date": "2024-08-30",
       "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2024",
+      "category": "media",
+      "title": "J-WAVE「ALL GOOD FRIDAY」生出演",
       "status": "recorded",
       "verification": "primary",
       "note": "",
@@ -54210,33 +60017,7 @@ window.CA_EVENT_DATA = {
           "label": "Chage公式Biography（2024）",
           "url": "https://chage.jp/biography/2024.php"
         }
-      ],
-      "country": "日本",
-      "prefecture": "岡山県",
-      "venue": "CRAZYMAMA KINGDOM",
-      "tourId": "chage-hosomichi-2024",
-      "performanceNo": 24
-    },
-    {
-      "id": "v15-0109",
-      "date": "2024-11-17",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2024",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "高知県",
-      "venue": "CARAVAN SARY",
-      "tourId": "chage-hosomichi-2024",
-      "performanceNo": 25
+      ]
     },
     {
       "id": "v15-0110",
@@ -54258,6 +60039,38 @@ window.CA_EVENT_DATA = {
       "venue": "Zepp Fukuoka",
       "tourId": "chage-2024-tour",
       "performanceNo": 1
+    },
+    {
+      "id": "v15-0276",
+      "date": "2024-09-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "α-STATION「MUSIC MATCH」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0225",
+      "date": "2024-09-04",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA 10 DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館』映像作品発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Discography",
+          "url": "https://www.fellows.tokyo/discography/"
+        }
+      ]
     },
     {
       "id": "v15-0111",
@@ -54302,6 +60115,22 @@ window.CA_EVENT_DATA = {
       "performanceNo": 3
     },
     {
+      "id": "v15-0277",
+      "date": "2024-09-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "K-MIX「月曜アドナインス」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
       "id": "v15-0113",
       "date": "2024-09-14",
       "artist": "Chage",
@@ -54344,6 +60173,28 @@ window.CA_EVENT_DATA = {
       "performanceNo": 5
     },
     {
+      "id": "v15-0060",
+      "date": "2024-09-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "J:COMホール八王子",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 1
+    },
+    {
       "id": "v15-0115",
       "date": "2024-09-23",
       "artist": "Chage",
@@ -54365,48 +60216,637 @@ window.CA_EVENT_DATA = {
       "performanceNo": 6
     },
     {
-      "id": "v15-0116",
-      "date": "2024-01-06",
-      "artist": "Chage",
+      "id": "v15-0061",
+      "date": "2024-09-25",
+      "artist": "ASKA",
       "category": "live",
-      "title": "Chage Billboard Live 65 to 66",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "1日2ステージ",
+      "verification": "primary",
+      "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
-          "url": "https://w.atwiki.jp/canda/pages/290.html"
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
         }
       ],
       "country": "日本",
-      "prefecture": "東京都",
-      "venue": "ビルボードライブ東京",
-      "startTime": "17:00",
-      "tourId": "chage-billboard-65-66",
+      "prefecture": "大阪府",
+      "venue": "オリックス劇場",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0062",
+      "date": "2024-09-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "オリックス劇場",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0063",
+      "date": "2024-10-03",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "福岡サンパレスホテル＆ホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0064",
+      "date": "2024-10-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "熊本県",
+      "venue": "熊本城ホール メインホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
       "performanceNo": 5
     },
     {
-      "id": "v15-0117",
-      "date": "2024-01-06",
-      "artist": "Chage",
+      "id": "v15-0082",
+      "date": "2024-10-06",
+      "artist": "ASKA",
       "category": "live",
-      "title": "Chage Billboard Live 65 to 66",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "1日2ステージ",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "【当日開催なし】2025年1月5日に同会場で振替公演。公演総数に算入しない",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
-          "url": "https://w.atwiki.jp/canda/pages/290.html"
+          "label": "BEA主催者：鹿児島再公演・振替",
+          "url": "https://www.bea-net.com/information/aska6.html"
         }
       ],
       "country": "日本",
-      "prefecture": "東京都",
-      "venue": "ビルボードライブ東京",
-      "startTime": "20:00",
-      "tourId": "chage-billboard-65-66",
+      "prefecture": "鹿児島県",
+      "venue": "川商ホール（鹿児島市民文化ホール）第一",
+      "startTime": "17:30",
+      "tourId": "aska-who-postponed",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0278",
+      "date": "2024-10-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM沖縄「For PM」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0104",
+      "date": "2024-10-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "沖縄県",
+      "venue": "Top Note",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 20
+    },
+    {
+      "id": "v15-0305",
+      "date": "2024-10-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "京都音楽博覧会2024（ASKAゲスト出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "京都府",
+      "venue": "梅小路公園"
+    },
+    {
+      "id": "v15-0105",
+      "date": "2024-10-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "沖縄県",
+      "venue": "ガンガラーの谷",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 21
+    },
+    {
+      "id": "v15-0065",
+      "date": "2024-10-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "神奈川県民ホール 大ホール",
+      "startTime": "17:30",
+      "tourId": "aska-who-2024-2025",
       "performanceNo": 6
+    },
+    {
+      "id": "v15-0106",
+      "date": "2024-10-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "茨城県",
+      "venue": "club SONIC mito",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 22
+    },
+    {
+      "id": "v15-0066",
+      "date": "2024-10-24",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "岩手県",
+      "venue": "盛岡市民文化ホール 大ホール",
+      "startTime": "18:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 7
+    },
+    {
+      "id": "v15-0067",
+      "date": "2024-10-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "山形県",
+      "venue": "やまぎん県民ホール 大ホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 8
+    },
+    {
+      "id": "v15-0279",
+      "date": "2024-10-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「DIG!!!!!!!!FUKUOKA」リモート出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0068",
+      "date": "2024-11-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "札幌文化芸術劇場hitaru",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 9
+    },
+    {
+      "id": "v15-0122",
+      "date": "2024-11-04",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage Cinematic Concert ～Live at Spa Resort Hawaiians 2024～ 上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "映像上映。生のライブ公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "小倉昭和館"
+    },
+    {
+      "id": "v15-0069",
+      "date": "2024-11-08",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "岡山県",
+      "venue": "倉敷市民会館",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 10
+    },
+    {
+      "id": "v15-0107",
+      "date": "2024-11-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "静岡県",
+      "venue": "SOUND SHOWER ark",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 23
+    },
+    {
+      "id": "v15-0070",
+      "date": "2024-11-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "広島文化学園HBGホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 11
+    },
+    {
+      "id": "v15-0306",
+      "date": "2024-11-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "KANタービレ〜今夜は帰さナイトフィーバー〜（ASKAゲスト出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ぴあアリーナMM"
+    },
+    {
+      "id": "v15-0071",
+      "date": "2024-11-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "兵庫県",
+      "venue": "神戸国際会館こくさいホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 12
+    },
+    {
+      "id": "v15-0108",
+      "date": "2024-11-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "岡山県",
+      "venue": "CRAZYMAMA KINGDOM",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 24
+    },
+    {
+      "id": "v15-0072",
+      "date": "2024-11-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "京都府",
+      "venue": "ロームシアター京都 メインホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 13
+    },
+    {
+      "id": "v15-0109",
+      "date": "2024-11-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "高知県",
+      "venue": "CARAVAN SARY",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 25
+    },
+    {
+      "id": "v15-0073",
+      "date": "2024-11-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "島根県",
+      "venue": "島根県芸術文化センター グラントワ 大ホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 14
+    },
+    {
+      "id": "v15-0074",
+      "date": "2024-11-24",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "山口県",
+      "venue": "周南市文化会館 大ホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 15
+    },
+    {
+      "id": "v15-0075",
+      "date": "2024-11-29",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "新潟県",
+      "venue": "新潟県民会館 大ホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 16
+    },
+    {
+      "id": "v15-0076",
+      "date": "2024-12-01",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "石川県",
+      "venue": "本多の森 北電ホール",
+      "startTime": "17:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 17
+    },
+    {
+      "id": "v15-0077",
+      "date": "2024-12-08",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "静岡県",
+      "venue": "静岡市民文化会館 大ホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 18
+    },
+    {
+      "id": "v15-0078",
+      "date": "2024-12-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "青森県",
+      "venue": "リンクステーションホール青森",
+      "startTime": "18:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 19
     },
     {
       "id": "v15-0118",
@@ -54453,6 +60893,72 @@ window.CA_EVENT_DATA = {
       "performanceNo": 2
     },
     {
+      "id": "v15-0079",
+      "date": "2024-12-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "仙台サンプラザホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 20
+    },
+    {
+      "id": "v15-0080",
+      "date": "2024-12-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "兵庫県",
+      "venue": "アクリエひめじ 大ホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 21
+    },
+    {
+      "id": "v15-0081",
+      "date": "2024-12-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "箕面市立文化芸能劇場 大ホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 22
+    },
+    {
       "id": "v15-0120",
       "date": "2024-12-22",
       "artist": "Chage",
@@ -54497,23 +61003,48 @@ window.CA_EVENT_DATA = {
       "performanceNo": 4
     },
     {
-      "id": "v15-0122",
-      "date": "2024-11-04",
+      "id": "v15-0196",
+      "date": "2025-01-04",
       "artist": "Chage",
-      "category": "other",
-      "title": "Chage Cinematic Concert ～Live at Spa Resort Hawaiians 2024～ 上映",
+      "category": "live",
+      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa",
       "status": "recorded",
       "verification": "primary",
-      "note": "映像上映。生のライブ公演と区別",
+      "note": "石川優子との共演／1日2ステージ",
       "sources": [
         {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
         }
       ],
       "country": "日本",
-      "prefecture": "福岡県",
-      "venue": "小倉昭和館"
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "startTime": "17:00",
+      "tourId": "chage-billboard-66-67",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0197",
+      "date": "2025-01-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "石川優子との共演／1日2ステージ",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "startTime": "20:00",
+      "tourId": "chage-billboard-66-67",
+      "performanceNo": 6
     },
     {
       "id": "v15-0123",
@@ -54536,6 +61067,50 @@ window.CA_EVENT_DATA = {
       "startTime": "17:30",
       "tourId": "aska-who-2024-2025",
       "performanceNo": 23
+    },
+    {
+      "id": "v15-0198",
+      "date": "2025-01-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "石川優子との共演／1日2ステージ",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "startTime": "17:00",
+      "tourId": "chage-billboard-66-67",
+      "performanceNo": 7
+    },
+    {
+      "id": "v15-0199",
+      "date": "2025-01-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "石川優子との共演／1日2ステージ",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "startTime": "20:00",
+      "tourId": "chage-billboard-66-67",
+      "performanceNo": 8
     },
     {
       "id": "v15-0124",
@@ -54626,6 +61201,44 @@ window.CA_EVENT_DATA = {
       "performanceNo": 27
     },
     {
+      "id": "v15-0209",
+      "date": "2025-01-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "109シネマズ大阪エキスポシティ"
+    },
+    {
+      "id": "v15-0210",
+      "date": "2025-01-19",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "109シネマズ名古屋"
+    },
+    {
       "id": "v15-0128",
       "date": "2025-01-25",
       "artist": "ASKA",
@@ -54648,6 +61261,27 @@ window.CA_EVENT_DATA = {
       "performanceNo": 28
     },
     {
+      "id": "v15-0163",
+      "date": "2025-01-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "下北沢シャングリラ",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 1
+    },
+    {
       "id": "v15-0129",
       "date": "2025-01-27",
       "artist": "ASKA",
@@ -54668,6 +61302,63 @@ window.CA_EVENT_DATA = {
       "startTime": "18:30",
       "tourId": "aska-who-2024-2025",
       "performanceNo": 29
+    },
+    {
+      "id": "v15-0211",
+      "date": "2025-02-01",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "109シネマズ富谷"
+    },
+    {
+      "id": "v15-0212",
+      "date": "2025-02-08",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "109シネマズ広島"
+    },
+    {
+      "id": "v15-0213",
+      "date": "2025-02-09",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "兵庫県",
+      "venue": "109シネマズHAT神戸"
     },
     {
       "id": "v15-0130",
@@ -54714,6 +61405,44 @@ window.CA_EVENT_DATA = {
       "performanceNo": 31
     },
     {
+      "id": "v15-0214",
+      "date": "2025-02-21",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "109シネマズプレミアム新宿"
+    },
+    {
+      "id": "v15-0215",
+      "date": "2025-02-22",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "109シネマズプレミアム新宿"
+    },
+    {
       "id": "v15-0132",
       "date": "2025-02-23",
       "artist": "ASKA",
@@ -54735,6 +61464,25 @@ window.CA_EVENT_DATA = {
       "performanceNo": 1
     },
     {
+      "id": "v15-0216",
+      "date": "2025-02-23",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "109シネマズプレミアム新宿"
+    },
+    {
       "id": "v15-0133",
       "date": "2025-03-01",
       "artist": "ASKA",
@@ -54754,6 +61502,213 @@ window.CA_EVENT_DATA = {
       "startTime": "19:30",
       "tourId": "aska-who-asia-2025",
       "performanceNo": 2
+    },
+    {
+      "id": "v15-0217",
+      "date": "2025-03-02",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "沖縄県",
+      "venue": "桜坂劇場 ホールB"
+    },
+    {
+      "id": "v15-0135",
+      "date": "2025-03-08",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- in SEOUL",
+      "status": "postponed",
+      "verification": "secondary",
+      "note": "【延期前の予定日・開催なし】後日8月23日に設定されたが中止。公演総数から除外",
+      "sources": [
+        {
+          "label": "アジア公演延期・中止履歴",
+          "url": "https://w.atwiki.jp/canda/pages/268.html"
+        }
+      ],
+      "country": "韓国",
+      "venue": "高麗大学校化汀体育館",
+      "startTime": "18:00"
+    },
+    {
+      "id": "v15-0218",
+      "date": "2025-03-09",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "小倉昭和館"
+    },
+    {
+      "id": "v15-0219",
+      "date": "2025-03-21",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "サツゲキ"
+    },
+    {
+      "id": "v15-0228",
+      "date": "2025-04-09",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「ChageLiveTour2024 ～ちゃげっていうひと～」ライブ音源配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0137",
+      "date": "2025-04-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- Los Angeles",
+      "status": "postponed",
+      "verification": "secondary",
+      "note": "【延期発表】当日未開催。実施公演ではない",
+      "sources": [
+        {
+          "label": "アジア公演延期・中止履歴",
+          "url": "https://w.atwiki.jp/canda/pages/268.html"
+        }
+      ],
+      "country": "アメリカ合衆国",
+      "venue": "米国ロサンゼルス（会場未確認）"
+    },
+    {
+      "id": "v15-0164",
+      "date": "2025-04-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "千葉県",
+      "venue": "柏PALOOZA",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0138",
+      "date": "2025-04-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- New York",
+      "status": "postponed",
+      "verification": "secondary",
+      "note": "【延期発表】当日未開催。実施公演ではない",
+      "sources": [
+        {
+          "label": "アジア公演延期・中止履歴",
+          "url": "https://w.atwiki.jp/canda/pages/268.html"
+        }
+      ],
+      "country": "アメリカ合衆国",
+      "venue": "米国ニューヨーク（会場未確認）"
+    },
+    {
+      "id": "v15-0165",
+      "date": "2025-04-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "Yokohama mint hall",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0166",
+      "date": "2025-04-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "埼玉県",
+      "venue": "熊谷 八木橋百貨店 カトレアホール",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0309",
+      "date": "2025-04-28",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "NHK総合「tiny desk concerts JAPAN」Season 2 出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "国内放送4月28日0:25（4月27日深夜）。海外NHK WORLDでは4月27日から放送",
+      "sources": [
+        {
+          "label": "ASKA公式：NHK tiny desk concerts JAPAN 2025放送",
+          "url": "https://www.fellows.tokyo/news/detail/405"
+        }
+      ]
     },
     {
       "id": "v15-0134",
@@ -54778,77 +61733,384 @@ window.CA_EVENT_DATA = {
       "performanceNo": 3
     },
     {
-      "id": "v15-0135",
-      "date": "2025-03-08",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- in SEOUL",
-      "status": "postponed",
-      "verification": "secondary",
-      "note": "【延期前の予定日・開催なし】後日8月23日に設定されたが中止。公演総数から除外",
+      "id": "v15-0229",
+      "date": "2025-05-14",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『ChageLiveTour2024 ～ちゃげっていうひと～』LIVE Blu-ray発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
       "sources": [
         {
-          "label": "アジア公演延期・中止履歴",
-          "url": "https://w.atwiki.jp/canda/pages/268.html"
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
         }
-      ],
-      "country": "韓国",
-      "venue": "高麗大学校化汀体育館",
-      "startTime": "18:00"
+      ]
     },
     {
-      "id": "v15-0136",
-      "date": "2025-08-23",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- in SEOUL",
-      "status": "canceled",
-      "verification": "secondary",
-      "note": "【中止】3月開催予定の振替日。実施公演ではない",
+      "id": "v15-0204",
+      "date": "2025-05-17",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage FAN MEETING 2025 @Spa Resort Hawaiians",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "イベント開催日。公演数の詳細は別途確認",
       "sources": [
         {
-          "label": "アジア公演延期・中止履歴",
-          "url": "https://w.atwiki.jp/canda/pages/268.html"
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
         }
       ],
-      "country": "韓国",
-      "venue": "高麗大学校化汀体育館"
+      "country": "日本",
+      "prefecture": "福島県",
+      "venue": "スパリゾートハワイアンズ"
     },
     {
-      "id": "v15-0137",
-      "date": "2025-04-12",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- Los Angeles",
-      "status": "postponed",
-      "verification": "secondary",
-      "note": "【延期発表】当日未開催。実施公演ではない",
+      "id": "v15-0205",
+      "date": "2025-05-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage FAN MEETING 2025 @Spa Resort Hawaiians",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "イベント開催日。公演数の詳細は別途確認",
       "sources": [
         {
-          "label": "アジア公演延期・中止履歴",
-          "url": "https://w.atwiki.jp/canda/pages/268.html"
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
         }
       ],
-      "country": "アメリカ合衆国",
-      "venue": "米国ロサンゼルス（会場未確認）"
+      "country": "日本",
+      "prefecture": "福島県",
+      "venue": "スパリゾートハワイアンズ"
     },
     {
-      "id": "v15-0138",
-      "date": "2025-04-15",
-      "artist": "ASKA",
+      "id": "v15-0167",
+      "date": "2025-05-24",
+      "artist": "Chage",
       "category": "live",
-      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- New York",
-      "status": "postponed",
-      "verification": "secondary",
-      "note": "【延期発表】当日未開催。実施公演ではない",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
       "sources": [
         {
-          "label": "アジア公演延期・中止履歴",
-          "url": "https://w.atwiki.jp/canda/pages/268.html"
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
         }
       ],
-      "country": "アメリカ合衆国",
-      "venue": "米国ニューヨーク（会場未確認）"
+      "country": "日本",
+      "prefecture": "兵庫県",
+      "venue": "神戸チキンジョージ",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0310",
+      "date": "2025-05-25",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日テレプラス「ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 日本武道館2.14」放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ]
+    },
+    {
+      "id": "v15-0280",
+      "date": "2025-06-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA開局55周年 Chage特別番組「この歌があるけん福岡たい！」",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0168",
+      "date": "2025-06-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "昼公演",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "京都府",
+      "venue": "京都磔磔",
+      "startTime": "15:00",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 6
+    },
+    {
+      "id": "v15-0169",
+      "date": "2025-06-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "夜公演",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "京都府",
+      "venue": "京都磔磔",
+      "startTime": "18:30",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 7
+    },
+    {
+      "id": "v15-0170",
+      "date": "2025-06-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "BIGCAT",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 8
+    },
+    {
+      "id": "v15-0230",
+      "date": "2025-06-18",
+      "artist": "Chage",
+      "category": "release",
+      "title": "カバー作品『Vandange_1958』配信リリース",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式アルバム一覧",
+          "url": "https://chage.jp/discography/chage/album.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0171",
+      "date": "2025-06-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "三重県",
+      "venue": "ハートプラザみその",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 9
+    },
+    {
+      "id": "v15-0172",
+      "date": "2025-06-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "メニコンシアターAoi",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 10
+    },
+    {
+      "id": "v15-0208",
+      "date": "2025-06-29",
+      "artist": "Chage",
+      "category": "live",
+      "title": "In Memorial The Beatles live in Japan ’25（Chage出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v15-0300",
+      "date": "2025-06-29",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ東京系列特番「ASKAスペシャル ～僕たちは自由でいなきゃ～」放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ディスクガレージ：ASKA 2025映像リリース",
+          "url": "https://www.diskgarage.com/digaonline/news/219589"
+        }
+      ]
+    },
+    {
+      "id": "v15-0200",
+      "date": "2025-07-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1st Stage（開演時刻要照合）",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ビルボードライブ横浜",
+      "tourId": "chage-billboard-67-68",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0201",
+      "date": "2025-07-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2nd Stage（開演時刻要照合）",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ビルボードライブ横浜",
+      "tourId": "chage-billboard-67-68",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0281",
+      "date": "2025-07-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「DIG!!!!!!!!FUKUOKA」リモート出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0231",
+      "date": "2025-07-16",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「飾りのない歌 -Acoustic Ver.-」配信リリース",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0202",
+      "date": "2025-07-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1st Stage（開演時刻要照合）",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "ビルボードライブ大阪",
+      "tourId": "chage-billboard-67-68",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0203",
+      "date": "2025-07-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2nd Stage（開演時刻要照合）",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "ビルボードライブ大阪",
+      "tourId": "chage-billboard-67-68",
+      "performanceNo": 4
     },
     {
       "id": "v15-0139",
@@ -54895,6 +62157,48 @@ window.CA_EVENT_DATA = {
       "performanceNo": 2
     },
     {
+      "id": "v15-0173",
+      "date": "2025-07-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "秋田県",
+      "venue": "Club SWINDLE",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 11
+    },
+    {
+      "id": "v15-0174",
+      "date": "2025-07-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "青森県",
+      "venue": "青森Quarter",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 12
+    },
+    {
       "id": "v15-0141",
       "date": "2025-07-31",
       "artist": "ASKA",
@@ -54915,6 +62219,27 @@ window.CA_EVENT_DATA = {
       "startTime": "18:00",
       "tourId": "aska-who-additional-2025",
       "performanceNo": 3
+    },
+    {
+      "id": "v15-0175",
+      "date": "2025-08-03",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式Biographyの7/27は誤記の可能性。公式公演アーカイブで8/3と照合",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "栃木県",
+      "venue": "HEAVEN'S ROCK UTSUNOMIYA VJ-2",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 13
     },
     {
       "id": "v15-0142",
@@ -55005,6 +62330,72 @@ window.CA_EVENT_DATA = {
       "performanceNo": 7
     },
     {
+      "id": "v15-0136",
+      "date": "2025-08-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- in SEOUL",
+      "status": "canceled",
+      "verification": "secondary",
+      "note": "【中止】3月開催予定の振替日。実施公演ではない",
+      "sources": [
+        {
+          "label": "アジア公演延期・中止履歴",
+          "url": "https://w.atwiki.jp/canda/pages/268.html"
+        }
+      ],
+      "country": "韓国",
+      "venue": "高麗大学校化汀体育館"
+    },
+    {
+      "id": "v15-0238",
+      "date": "2025-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA デビュー46周年",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "46周年記念日",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ]
+    },
+    {
+      "id": "v15-0232",
+      "date": "2025-08-27",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『Vandange_1958 Vol.2』配信リリース",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0233",
+      "date": "2025-08-27",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-』Live Blu-ray発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ディスクガレージ：ASKA 2025映像リリース",
+          "url": "https://www.diskgarage.com/digaonline/news/219589"
+        }
+      ]
+    },
+    {
       "id": "v15-0146",
       "date": "2025-08-29",
       "artist": "ASKA",
@@ -55025,6 +62416,24 @@ window.CA_EVENT_DATA = {
       "startTime": "19:00",
       "tourId": "aska-fellows-thanks-2025",
       "performanceNo": 1
+    },
+    {
+      "id": "v15-0206",
+      "date": "2025-08-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage＆スターダスト☆レビュー スペシャルコンサート「この歌があるけん福岡たい！聞いちゃってん」",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "アイランドシティまちびらき20周年記念プレイベント",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県"
     },
     {
       "id": "v15-0147",
@@ -55069,6 +62478,56 @@ window.CA_EVENT_DATA = {
       "startTime": "19:00",
       "tourId": "aska-fellows-thanks-2025",
       "performanceNo": 3
+    },
+    {
+      "id": "v15-0207",
+      "date": "2025-08-31",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage＆スターダスト☆レビュー スペシャルコンサート「この歌があるけん福岡たい！聞いちゃってん」",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "アイランドシティまちびらき20周年記念プレイベント",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "v15-0282",
+      "date": "2025-09-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "KBCラジオ「アサデスラジオ」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0283",
+      "date": "2025-09-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "LOVE FM「スイッチオン！DAYTIME」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
     },
     {
       "id": "v15-0149",
@@ -55137,6 +62596,101 @@ window.CA_EVENT_DATA = {
       "performanceNo": 6
     },
     {
+      "id": "v15-0284",
+      "date": "2025-09-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "MRO北陸放送「ノコトラジオ」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0176",
+      "date": "2025-09-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "石川県",
+      "venue": "金沢GOLD CREEK",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 14
+    },
+    {
+      "id": "v15-0177",
+      "date": "2025-09-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "長野県",
+      "venue": "LIVE HOUSE 箱船",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 15
+    },
+    {
+      "id": "v15-0285",
+      "date": "2025-09-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM長野「Oasis 79.7」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0178",
+      "date": "2025-09-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛媛県",
+      "venue": "松山WStudioRED",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 16
+    },
+    {
       "id": "v15-0152",
       "date": "2025-09-14",
       "artist": "ASKA",
@@ -55157,6 +62711,43 @@ window.CA_EVENT_DATA = {
       "startTime": "17:00",
       "tourId": "aska-fellows-thanks-2025",
       "performanceNo": 7
+    },
+    {
+      "id": "v15-0286",
+      "date": "2025-09-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「Chage＆スターダスト☆レビュー」特別番組",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0179",
+      "date": "2025-09-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "香川県",
+      "venue": "高松MONSTER",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 17
     },
     {
       "id": "v15-0153",
@@ -55225,511 +62816,36 @@ window.CA_EVENT_DATA = {
       "performanceNo": 10
     },
     {
-      "id": "v15-0156",
-      "date": "2025-12-07",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA Dinner Show 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ショー開始時刻",
-      "sources": [
-        {
-          "label": "ASKA公式Dinner Show 2025",
-          "url": "https://www.fellows.tokyo/feature/aska_dinnershow_2025"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "福岡県",
-      "venue": "グランド ハイアット福岡 ザ・グランド・ボールルーム",
-      "startTime": "18:15",
-      "tourId": "aska-dinner-2025",
-      "performanceNo": 1
-    },
-    {
-      "id": "v15-0157",
-      "date": "2025-12-20",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA Dinner Show 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ショー開始時刻",
-      "sources": [
-        {
-          "label": "ASKA公式Dinner Show 2025",
-          "url": "https://www.fellows.tokyo/feature/aska_dinnershow_2025"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "ザ・プリンス パークタワー東京 ボールルーム",
-      "startTime": "18:30",
-      "tourId": "aska-dinner-2025",
-      "performanceNo": 2
-    },
-    {
-      "id": "v15-0158",
-      "date": "2025-12-21",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA Dinner Show 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ショー開始時刻",
-      "sources": [
-        {
-          "label": "ASKA公式Dinner Show 2025",
-          "url": "https://www.fellows.tokyo/feature/aska_dinnershow_2025"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "ザ・プリンス パークタワー東京 ボールルーム",
-      "startTime": "17:30",
-      "tourId": "aska-dinner-2025",
-      "performanceNo": 3
-    },
-    {
-      "id": "v15-0159",
-      "date": "2025-12-27",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA Dinner Show 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ショー開始時刻",
-      "sources": [
-        {
-          "label": "ASKA公式Dinner Show 2025",
-          "url": "https://www.fellows.tokyo/feature/aska_dinnershow_2025"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "大阪府",
-      "venue": "帝国ホテル大阪 孔雀の間",
-      "startTime": "18:30",
-      "tourId": "aska-dinner-2025",
-      "performanceNo": 4
-    },
-    {
-      "id": "v15-0160",
-      "date": "2025-12-28",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA Dinner Show 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ショー開始時刻",
-      "sources": [
-        {
-          "label": "ASKA公式Dinner Show 2025",
-          "url": "https://www.fellows.tokyo/feature/aska_dinnershow_2025"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "大阪府",
-      "venue": "帝国ホテル大阪 孔雀の間",
-      "startTime": "17:30",
-      "tourId": "aska-dinner-2025",
-      "performanceNo": 5
-    },
-    {
-      "id": "v15-0161",
-      "date": "2025-10-12",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "京都音楽博覧会2025（ASKA出演）",
+      "id": "v15-0287",
+      "date": "2025-09-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "南海放送「ニュースな時間」ゲスト出演",
       "status": "recorded",
       "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "ASKA 2025年京都音楽博覧会出演案内",
-          "url": "https://diskgarage.com/digaonline/news/221918"
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
         }
-      ],
-      "country": "日本",
-      "prefecture": "京都府",
-      "venue": "梅小路公園"
+      ]
     },
     {
-      "id": "v15-0162",
-      "date": "2025-11-15",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "氣志團万博2025 ～関東爆音パビリオン～（ASKA出演）",
+      "id": "v15-0288",
+      "date": "2025-09-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "広島FM「Mash The Radio」生出演",
       "status": "recorded",
       "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "ASKA公式：氣志團万博2025 出演",
-          "url": "https://www.fellows.tokyo/news/detail/524"
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
         }
-      ],
-      "country": "日本",
-      "prefecture": "千葉県",
-      "venue": "幕張メッセ 国際展示場9～11ホール"
-    },
-    {
-      "id": "v15-0163",
-      "date": "2025-01-25",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "下北沢シャングリラ",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 1
-    },
-    {
-      "id": "v15-0164",
-      "date": "2025-04-12",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "千葉県",
-      "venue": "柏PALOOZA",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 2
-    },
-    {
-      "id": "v15-0165",
-      "date": "2025-04-26",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "神奈川県",
-      "venue": "Yokohama mint hall",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 3
-    },
-    {
-      "id": "v15-0166",
-      "date": "2025-04-27",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "埼玉県",
-      "venue": "熊谷 八木橋百貨店 カトレアホール",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 4
-    },
-    {
-      "id": "v15-0167",
-      "date": "2025-05-24",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "兵庫県",
-      "venue": "神戸チキンジョージ",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 5
-    },
-    {
-      "id": "v15-0168",
-      "date": "2025-06-14",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "昼公演",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "京都府",
-      "venue": "京都磔磔",
-      "startTime": "15:00",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 6
-    },
-    {
-      "id": "v15-0169",
-      "date": "2025-06-14",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "夜公演",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "京都府",
-      "venue": "京都磔磔",
-      "startTime": "18:30",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 7
-    },
-    {
-      "id": "v15-0170",
-      "date": "2025-06-15",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "大阪府",
-      "venue": "BIGCAT",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 8
-    },
-    {
-      "id": "v15-0171",
-      "date": "2025-06-21",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "三重県",
-      "venue": "ハートプラザみその",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 9
-    },
-    {
-      "id": "v15-0172",
-      "date": "2025-06-22",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "愛知県",
-      "venue": "メニコンシアターAoi",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 10
-    },
-    {
-      "id": "v15-0173",
-      "date": "2025-07-26",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "秋田県",
-      "venue": "Club SWINDLE",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 11
-    },
-    {
-      "id": "v15-0174",
-      "date": "2025-07-27",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "青森県",
-      "venue": "青森Quarter",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 12
-    },
-    {
-      "id": "v15-0175",
-      "date": "2025-08-03",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "公式Biographyの7/27は誤記の可能性。公式公演アーカイブで8/3と照合",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "栃木県",
-      "venue": "HEAVEN'S ROCK UTSUNOMIYA VJ-2",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 13
-    },
-    {
-      "id": "v15-0176",
-      "date": "2025-09-06",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "石川県",
-      "venue": "金沢GOLD CREEK",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 14
-    },
-    {
-      "id": "v15-0177",
-      "date": "2025-09-07",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "長野県",
-      "venue": "LIVE HOUSE 箱船",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 15
-    },
-    {
-      "id": "v15-0178",
-      "date": "2025-09-13",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "愛媛県",
-      "venue": "松山WStudioRED",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 16
-    },
-    {
-      "id": "v15-0179",
-      "date": "2025-09-15",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "香川県",
-      "venue": "高松MONSTER",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 17
+      ]
     },
     {
       "id": "v15-0180",
@@ -55774,1077 +62890,6 @@ window.CA_EVENT_DATA = {
       "performanceNo": 19
     },
     {
-      "id": "v15-0182",
-      "date": "2025-10-04",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "北海道",
-      "venue": "六花亭 きたこぶしホール",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 20
-    },
-    {
-      "id": "v15-0183",
-      "date": "2025-10-11",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "沖縄県",
-      "venue": "Top Note",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 21
-    },
-    {
-      "id": "v15-0184",
-      "date": "2025-10-12",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "沖縄県",
-      "venue": "ガンガラーの谷",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 22
-    },
-    {
-      "id": "v15-0185",
-      "date": "2025-12-06",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "熊本県",
-      "venue": "キャバレーニュー白馬",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 23
-    },
-    {
-      "id": "v15-0186",
-      "date": "2025-12-07",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "福岡県",
-      "venue": "西南コミュニティーセンター",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 24
-    },
-    {
-      "id": "v15-0187",
-      "date": "2025-12-14",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2025",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「ずっと細道」公演アーカイブ",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "静岡県",
-      "venue": "SOUND SHOWER ark",
-      "tourId": "chage-hosomichi-2025",
-      "performanceNo": 25
-    },
-    {
-      "id": "v15-0188",
-      "date": "2025-11-01",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour2025 Mr.November",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「Mr.November」日程",
-          "url": "https://chage.jp/information/live/detail-738.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "愛知県",
-      "venue": "Zepp Nagoya",
-      "tourId": "chage-mr-november-2025",
-      "performanceNo": 1
-    },
-    {
-      "id": "v15-0189",
-      "date": "2025-11-02",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour2025 Mr.November",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「Mr.November」日程",
-          "url": "https://chage.jp/information/live/detail-738.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "大阪府",
-      "venue": "Zepp Namba",
-      "tourId": "chage-mr-november-2025",
-      "performanceNo": 2
-    },
-    {
-      "id": "v15-0190",
-      "date": "2025-11-08",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour2025 Mr.November",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「Mr.November」日程",
-          "url": "https://chage.jp/information/live/detail-738.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "福岡県",
-      "venue": "Zepp Fukuoka",
-      "tourId": "chage-mr-november-2025",
-      "performanceNo": 3
-    },
-    {
-      "id": "v15-0191",
-      "date": "2025-11-09",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour2025 Mr.November",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「Mr.November」日程",
-          "url": "https://chage.jp/information/live/detail-738.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "広島県",
-      "venue": "BLUE LIVE HIROSHIMA",
-      "tourId": "chage-mr-november-2025",
-      "performanceNo": 4
-    },
-    {
-      "id": "v15-0192",
-      "date": "2025-11-14",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour2025 Mr.November",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「Mr.November」日程",
-          "url": "https://chage.jp/information/live/detail-738.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "神奈川県",
-      "venue": "CLUB CITTA’ 川崎",
-      "tourId": "chage-mr-november-2025",
-      "performanceNo": 5
-    },
-    {
-      "id": "v15-0193",
-      "date": "2025-11-15",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour2025 Mr.November",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「Mr.November」日程",
-          "url": "https://chage.jp/information/live/detail-738.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "宮城県",
-      "venue": "Sendai PIT",
-      "tourId": "chage-mr-november-2025",
-      "performanceNo": 6
-    },
-    {
-      "id": "v15-0194",
-      "date": "2025-11-23",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour2025 Mr.November",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「Mr.November」日程",
-          "url": "https://chage.jp/information/live/detail-738.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "Zepp DiverCity TOKYO",
-      "tourId": "chage-mr-november-2025",
-      "performanceNo": 7
-    },
-    {
-      "id": "v15-0195",
-      "date": "2025-11-30",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour2025 Mr.November",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式「Mr.November」日程",
-          "url": "https://chage.jp/information/live/detail-738.php"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "北海道",
-      "venue": "Zepp Sapporo",
-      "tourId": "chage-mr-november-2025",
-      "performanceNo": 8
-    },
-    {
-      "id": "v15-0196",
-      "date": "2025-01-04",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "石川優子との共演／1日2ステージ",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "ビルボードライブ東京",
-      "startTime": "17:00",
-      "tourId": "chage-billboard-66-67",
-      "performanceNo": 5
-    },
-    {
-      "id": "v15-0197",
-      "date": "2025-01-04",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "石川優子との共演／1日2ステージ",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "ビルボードライブ東京",
-      "startTime": "20:00",
-      "tourId": "chage-billboard-66-67",
-      "performanceNo": 6
-    },
-    {
-      "id": "v15-0198",
-      "date": "2025-01-05",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "石川優子との共演／1日2ステージ",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "ビルボードライブ東京",
-      "startTime": "17:00",
-      "tourId": "chage-billboard-66-67",
-      "performanceNo": 7
-    },
-    {
-      "id": "v15-0199",
-      "date": "2025-01-05",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "石川優子との共演／1日2ステージ",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "ビルボードライブ東京",
-      "startTime": "20:00",
-      "tourId": "chage-billboard-66-67",
-      "performanceNo": 8
-    },
-    {
-      "id": "v15-0200",
-      "date": "2025-07-06",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Billboard Live 67 to 68",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "1st Stage（開演時刻要照合）",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "神奈川県",
-      "venue": "ビルボードライブ横浜",
-      "tourId": "chage-billboard-67-68",
-      "performanceNo": 1
-    },
-    {
-      "id": "v15-0201",
-      "date": "2025-07-06",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Billboard Live 67 to 68",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "2nd Stage（開演時刻要照合）",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "神奈川県",
-      "venue": "ビルボードライブ横浜",
-      "tourId": "chage-billboard-67-68",
-      "performanceNo": 2
-    },
-    {
-      "id": "v15-0202",
-      "date": "2025-07-20",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Billboard Live 67 to 68",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "1st Stage（開演時刻要照合）",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "大阪府",
-      "venue": "ビルボードライブ大阪",
-      "tourId": "chage-billboard-67-68",
-      "performanceNo": 3
-    },
-    {
-      "id": "v15-0203",
-      "date": "2025-07-20",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Billboard Live 67 to 68",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "2nd Stage（開演時刻要照合）",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "大阪府",
-      "venue": "ビルボードライブ大阪",
-      "tourId": "chage-billboard-67-68",
-      "performanceNo": 4
-    },
-    {
-      "id": "v15-0204",
-      "date": "2025-05-17",
-      "artist": "Chage",
-      "category": "other",
-      "title": "Chage FAN MEETING 2025 @Spa Resort Hawaiians",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "イベント開催日。公演数の詳細は別途確認",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "福島県",
-      "venue": "スパリゾートハワイアンズ"
-    },
-    {
-      "id": "v15-0205",
-      "date": "2025-05-18",
-      "artist": "Chage",
-      "category": "other",
-      "title": "Chage FAN MEETING 2025 @Spa Resort Hawaiians",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "イベント開催日。公演数の詳細は別途確認",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "福島県",
-      "venue": "スパリゾートハワイアンズ"
-    },
-    {
-      "id": "v15-0206",
-      "date": "2025-08-30",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage＆スターダスト☆レビュー スペシャルコンサート「この歌があるけん福岡たい！聞いちゃってん」",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "アイランドシティまちびらき20周年記念プレイベント",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "福岡県"
-    },
-    {
-      "id": "v15-0207",
-      "date": "2025-08-31",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage＆スターダスト☆レビュー スペシャルコンサート「この歌があるけん福岡たい！聞いちゃってん」",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "アイランドシティまちびらき20周年記念プレイベント",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "福岡県"
-    },
-    {
-      "id": "v15-0208",
-      "date": "2025-06-29",
-      "artist": "Chage",
-      "category": "live",
-      "title": "In Memorial The Beatles live in Japan ’25（Chage出演）",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "東京都"
-    },
-    {
-      "id": "v15-0209",
-      "date": "2025-01-18",
-      "artist": "Chage",
-      "category": "other",
-      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "大阪府",
-      "venue": "109シネマズ大阪エキスポシティ"
-    },
-    {
-      "id": "v15-0210",
-      "date": "2025-01-19",
-      "artist": "Chage",
-      "category": "other",
-      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "愛知県",
-      "venue": "109シネマズ名古屋"
-    },
-    {
-      "id": "v15-0211",
-      "date": "2025-02-01",
-      "artist": "Chage",
-      "category": "other",
-      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "宮城県",
-      "venue": "109シネマズ富谷"
-    },
-    {
-      "id": "v15-0212",
-      "date": "2025-02-08",
-      "artist": "Chage",
-      "category": "other",
-      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "広島県",
-      "venue": "109シネマズ広島"
-    },
-    {
-      "id": "v15-0213",
-      "date": "2025-02-09",
-      "artist": "Chage",
-      "category": "other",
-      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "兵庫県",
-      "venue": "109シネマズHAT神戸"
-    },
-    {
-      "id": "v15-0214",
-      "date": "2025-02-21",
-      "artist": "Chage",
-      "category": "other",
-      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "109シネマズプレミアム新宿"
-    },
-    {
-      "id": "v15-0215",
-      "date": "2025-02-22",
-      "artist": "Chage",
-      "category": "other",
-      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "109シネマズプレミアム新宿"
-    },
-    {
-      "id": "v15-0216",
-      "date": "2025-02-23",
-      "artist": "Chage",
-      "category": "other",
-      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "東京都",
-      "venue": "109シネマズプレミアム新宿"
-    },
-    {
-      "id": "v15-0217",
-      "date": "2025-03-02",
-      "artist": "Chage",
-      "category": "other",
-      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "沖縄県",
-      "venue": "桜坂劇場 ホールB"
-    },
-    {
-      "id": "v15-0218",
-      "date": "2025-03-09",
-      "artist": "Chage",
-      "category": "other",
-      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "福岡県",
-      "venue": "小倉昭和館"
-    },
-    {
-      "id": "v15-0219",
-      "date": "2025-03-21",
-      "artist": "Chage",
-      "category": "other",
-      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "北海道",
-      "venue": "サツゲキ"
-    },
-    {
-      "id": "v15-0220",
-      "date": "2023-07-30",
-      "artist": "Chage",
-      "category": "release",
-      "title": "「幸せな不条理」配信リリース",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Discography",
-          "url": "https://chage.jp/discography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0221",
-      "date": "2023-08-15",
-      "artist": "Chage",
-      "category": "release",
-      "title": "「青い空だけじゃない」先行配信リリース",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Discography",
-          "url": "https://chage.jp/discography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0222",
-      "date": "2023-08-30",
-      "artist": "Chage",
-      "category": "release",
-      "title": "EP『青い空だけじゃない』発売",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式アルバム一覧",
-          "url": "https://chage.jp/discography/chage/album.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0223",
-      "date": "2023-09-27",
-      "artist": "ASKA",
-      "category": "release",
-      "title": "『ASKA Premium Concert Tour Wonderful World 2023』Blu-ray＋Live CD発売",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Discography",
-          "url": "https://www.fellows.tokyo/discography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0224",
-      "date": "2024-01-17",
-      "artist": "ASKA",
-      "category": "release",
-      "title": "『ASKA featuring DAVID FOSTER PREMIUM CONCERT 2023』Blu-ray発売",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Discography",
-          "url": "https://www.fellows.tokyo/discography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0225",
-      "date": "2024-09-04",
-      "artist": "ASKA",
-      "category": "release",
-      "title": "『ASKA 10 DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館』映像作品発売",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Discography",
-          "url": "https://www.fellows.tokyo/discography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0226",
-      "date": "2024-07-31",
-      "artist": "Chage",
-      "category": "release",
-      "title": "「飾りのない歌」先行配信リリース",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Discography",
-          "url": "https://chage.jp/discography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0227",
-      "date": "2024-08-28",
-      "artist": "Chage",
-      "category": "release",
-      "title": "アルバム『飾りのない歌』発売",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式アルバム一覧",
-          "url": "https://chage.jp/discography/chage/album.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0228",
-      "date": "2025-04-09",
-      "artist": "Chage",
-      "category": "release",
-      "title": "「ChageLiveTour2024 ～ちゃげっていうひと～」ライブ音源配信",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0229",
-      "date": "2025-05-14",
-      "artist": "Chage",
-      "category": "release",
-      "title": "『ChageLiveTour2024 ～ちゃげっていうひと～』LIVE Blu-ray発売",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0230",
-      "date": "2025-06-18",
-      "artist": "Chage",
-      "category": "release",
-      "title": "カバー作品『Vandange_1958』配信リリース",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式アルバム一覧",
-          "url": "https://chage.jp/discography/chage/album.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0231",
-      "date": "2025-07-16",
-      "artist": "Chage",
-      "category": "release",
-      "title": "「飾りのない歌 -Acoustic Ver.-」配信リリース",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Discography",
-          "url": "https://chage.jp/discography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0232",
-      "date": "2025-08-27",
-      "artist": "Chage",
-      "category": "release",
-      "title": "『Vandange_1958 Vol.2』配信リリース",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Discography",
-          "url": "https://chage.jp/discography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0233",
-      "date": "2025-08-27",
-      "artist": "ASKA",
-      "category": "release",
-      "title": "『ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-』Live Blu-ray発売",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ディスクガレージ：ASKA 2025映像リリース",
-          "url": "https://www.diskgarage.com/digaonline/news/219589"
-        }
-      ]
-    },
-    {
-      "id": "v15-0234",
-      "date": "2025-10-08",
-      "artist": "Chage",
-      "category": "release",
-      "title": "アルバム『Instinto』発売",
-      "status": "released",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式アルバム一覧",
-          "url": "https://chage.jp/discography/chage/album.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0235",
-      "date": "2023-03-21",
-      "artist": "MULTI MAX",
-      "category": "milestone",
-      "title": "「WINDY ROAD」がFNSチャリティキャンペーン50周年ソングに決定",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "発表日・決定日。リリース日とは異なる",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0236",
-      "date": "2023-08-25",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "CHAGE and ASKA デビュー44周年",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "1979年8月25日のデビューを起点とする記念日",
-      "sources": [
-        {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ]
-    },
-    {
-      "id": "v15-0237",
-      "date": "2024-08-25",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "CHAGE and ASKA デビュー45周年",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "45周年記念日",
-      "sources": [
-        {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ]
-    },
-    {
-      "id": "v15-0238",
-      "date": "2025-08-25",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "CHAGE and ASKA デビュー46周年",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "46周年記念日",
-      "sources": [
-        {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ]
-    },
-    {
       "id": "v15-0239",
       "date": "2025-09-28",
       "artist": "Chage",
@@ -56853,790 +62898,6 @@ window.CA_EVENT_DATA = {
       "status": "recorded",
       "verification": "primary",
       "note": "公式Biographyの番組終了日",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0240",
-      "date": "2025-12-06",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "FM FUKUOKA「ちゃげっていうラジオ」放送開始",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "公式Biography記載の放送開始日",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0241",
-      "date": "2023-04-13",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM岡山「TWILIGHT PAVEMENT」ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0242",
-      "date": "2023-07-11",
-      "artist": "Chage",
-      "category": "media",
-      "title": "NHK-FM「ディスカバー・ビートルズⅡ」コメント出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0243",
-      "date": "2023-07-14",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM FUKUOKA「BUTCH COUNTDOWN RADIO」リモート出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0244",
-      "date": "2023-08-01",
-      "artist": "Chage",
-      "category": "media",
-      "title": "TOKYO FM「DEAR FRIEND」ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0245",
-      "date": "2023-08-03",
-      "artist": "Chage",
-      "category": "media",
-      "title": "ニッポン放送「垣花正 あなたとハッピー！」ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0246",
-      "date": "2023-08-09",
-      "artist": "Chage",
-      "category": "media",
-      "title": "東海ラジオ「OH! MY CHANNEL!」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0247",
-      "date": "2023-08-15",
-      "artist": "Chage",
-      "category": "media",
-      "title": "TOKYO FM「THE TRAD」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0248",
-      "date": "2023-08-22",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM山口「ひといき～HITOIKI～」コメント出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0249",
-      "date": "2023-08-24",
-      "artist": "Chage",
-      "category": "media",
-      "title": "RSKラジオ「あもーれ！マッタリーノ」コメント出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0250",
-      "date": "2023-08-25",
-      "artist": "Chage",
-      "category": "media",
-      "title": "中京テレビ「ぐっと」出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0251",
-      "date": "2023-08-26",
-      "artist": "Chage",
-      "category": "media",
-      "title": "α-STATION「J-AC TOP40」コメント出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0252",
-      "date": "2023-08-27",
-      "artist": "Chage",
-      "category": "media",
-      "title": "CBCラジオ「小堀勝啓の新栄トークジャンボリー」出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0253",
-      "date": "2023-08-28",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM大阪「LOVE FLAP」コメント出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0254",
-      "date": "2023-09-05",
-      "artist": "Chage",
-      "category": "media",
-      "title": "MBSラジオ「ヤングタウン」ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0255",
-      "date": "2023-09-12",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM FUKUOKA「DIG!!!!!!!!FUKUOKA」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0256",
-      "date": "2023-09-20",
-      "artist": "Chage",
-      "category": "media",
-      "title": "NHK福岡「ロクいち！福岡」出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0257",
-      "date": "2023-09-26",
-      "artist": "Chage",
-      "category": "media",
-      "title": "bayfm「9の音粋」ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0258",
-      "date": "2023-09-27",
-      "artist": "Chage",
-      "category": "media",
-      "title": "NACK5「J-POP TALKIN'」ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0259",
-      "date": "2023-10-28",
-      "artist": "Chage",
-      "category": "media",
-      "title": "NHK-FM「ラジオマンジャック」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0260",
-      "date": "2023-11-25",
-      "artist": "Chage",
-      "category": "media",
-      "title": "「あの頃青春グラフィティ」公開生放送出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2023）",
-          "url": "https://chage.jp/biography/2023.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0261",
-      "date": "2024-01-20",
-      "artist": "Chage",
-      "category": "media",
-      "title": "広島FM「GOOD JOG」コメント出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0262",
-      "date": "2024-01-22",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM FUKUOKA「ライヴのじかん」コメント出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0263",
-      "date": "2024-01-23",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM FUKUOKA「DIG!!!!!!!!FUKUOKA」リモート出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0264",
-      "date": "2024-05-10",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM長崎「Chage SPECIAL PROGRAM 細道への誘い radio」出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0265",
-      "date": "2024-07-04",
-      "artist": "Chage",
-      "category": "media",
-      "title": "HTB「イチオシ!!」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0266",
-      "date": "2024-07-04",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM NORTH WAVE「GOGO RADIO COMPANY」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0267",
-      "date": "2024-07-05",
-      "artist": "Chage",
-      "category": "media",
-      "title": "AIR-G'「brilliant days×F」ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0268",
-      "date": "2024-07-09",
-      "artist": "Chage",
-      "category": "media",
-      "title": "HBCラジオ「ナルミッツ!!!」出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0269",
-      "date": "2024-07-10",
-      "artist": "Chage",
-      "category": "media",
-      "title": "NHKラジオ「ふんわり」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0270",
-      "date": "2024-07-18",
-      "artist": "Chage",
-      "category": "media",
-      "title": "STVラジオ「リアルタイム！」ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0271",
-      "date": "2024-08-01",
-      "artist": "Chage",
-      "category": "media",
-      "title": "ABCラジオ「おはようパーソナリティ 小縣裕介です」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0272",
-      "date": "2024-08-02",
-      "artist": "Chage",
-      "category": "media",
-      "title": "HTB「イチオシ!!」コメント出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0273",
-      "date": "2024-08-24",
-      "artist": "Chage",
-      "category": "media",
-      "title": "J-WAVE「POP OF THE WORLD」コメント出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0274",
-      "date": "2024-08-27",
-      "artist": "Chage",
-      "category": "media",
-      "title": "bayfm「9の音粋」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0275",
-      "date": "2024-08-30",
-      "artist": "Chage",
-      "category": "media",
-      "title": "J-WAVE「ALL GOOD FRIDAY」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0276",
-      "date": "2024-09-03",
-      "artist": "Chage",
-      "category": "media",
-      "title": "α-STATION「MUSIC MATCH」ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0277",
-      "date": "2024-09-09",
-      "artist": "Chage",
-      "category": "media",
-      "title": "K-MIX「月曜アドナインス」ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0278",
-      "date": "2024-10-11",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM沖縄「For PM」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0279",
-      "date": "2024-10-29",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM FUKUOKA「DIG!!!!!!!!FUKUOKA」リモート出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2024）",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ]
-    },
-    {
-      "id": "v15-0280",
-      "date": "2025-06-03",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM FUKUOKA開局55周年 Chage特別番組「この歌があるけん福岡たい！」",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0281",
-      "date": "2025-07-15",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM FUKUOKA「DIG!!!!!!!!FUKUOKA」リモート出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0282",
-      "date": "2025-09-01",
-      "artist": "Chage",
-      "category": "media",
-      "title": "KBCラジオ「アサデスラジオ」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0283",
-      "date": "2025-09-01",
-      "artist": "Chage",
-      "category": "media",
-      "title": "LOVE FM「スイッチオン！DAYTIME」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0284",
-      "date": "2025-09-05",
-      "artist": "Chage",
-      "category": "media",
-      "title": "MRO北陸放送「ノコトラジオ」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0285",
-      "date": "2025-09-08",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM長野「Oasis 79.7」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0286",
-      "date": "2025-09-14",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM FUKUOKA「Chage＆スターダスト☆レビュー」特別番組",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0287",
-      "date": "2025-09-23",
-      "artist": "Chage",
-      "category": "media",
-      "title": "南海放送「ニュースな時間」ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography（2025）",
-          "url": "https://chage.jp/biography/"
-        }
-      ]
-    },
-    {
-      "id": "v15-0288",
-      "date": "2025-09-26",
-      "artist": "Chage",
-      "category": "media",
-      "title": "広島FM「Mash The Radio」生出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
@@ -57675,6 +62936,121 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/"
         }
       ]
+    },
+    {
+      "id": "v15-0182",
+      "date": "2025-10-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "六花亭 きたこぶしホール",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 20
+    },
+    {
+      "id": "v15-0307",
+      "date": "2025-10-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "八神純子「ヤガ祭り the 7th ～ヤガミグミ Special～」（ASKAシークレットゲスト）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本"
+    },
+    {
+      "id": "v15-0234",
+      "date": "2025-10-08",
+      "artist": "Chage",
+      "category": "release",
+      "title": "アルバム『Instinto』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式アルバム一覧",
+          "url": "https://chage.jp/discography/chage/album.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0183",
+      "date": "2025-10-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "沖縄県",
+      "venue": "Top Note",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 21
+    },
+    {
+      "id": "v15-0161",
+      "date": "2025-10-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "京都音楽博覧会2025（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA 2025年京都音楽博覧会出演案内",
+          "url": "https://diskgarage.com/digaonline/news/221918"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "京都府",
+      "venue": "梅小路公園"
+    },
+    {
+      "id": "v15-0184",
+      "date": "2025-10-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "沖縄県",
+      "venue": "ガンガラーの谷",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 22
     },
     {
       "id": "v15-0291",
@@ -57773,6 +63149,48 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v15-0188",
+      "date": "2025-11-01",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "Zepp Nagoya",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0189",
+      "date": "2025-11-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "Zepp Namba",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 2
+    },
+    {
       "id": "v15-0297",
       "date": "2025-11-07",
       "artist": "Chage",
@@ -57787,6 +63205,109 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/"
         }
       ]
+    },
+    {
+      "id": "v15-0190",
+      "date": "2025-11-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "Zepp Fukuoka",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0191",
+      "date": "2025-11-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "BLUE LIVE HIROSHIMA",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0192",
+      "date": "2025-11-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "CLUB CITTA’ 川崎",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0162",
+      "date": "2025-11-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "氣志團万博2025 ～関東爆音パビリオン～（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式：氣志團万博2025 出演",
+          "url": "https://www.fellows.tokyo/news/detail/524"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "千葉県",
+      "venue": "幕張メッセ 国際展示場9～11ホール"
+    },
+    {
+      "id": "v15-0193",
+      "date": "2025-11-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "Sendai PIT",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 6
     },
     {
       "id": "v15-0298",
@@ -57805,214 +63326,46 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
-      "id": "v15-0299",
-      "date": "2023-01-28",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "フジテレビ「MUSIC FAIR」出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ]
-    },
-    {
-      "id": "v15-0300",
-      "date": "2025-06-29",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ東京系列特番「ASKAスペシャル ～僕たちは自由でいなきゃ～」放送",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ディスクガレージ：ASKA 2025映像リリース",
-          "url": "https://www.diskgarage.com/digaonline/news/219589"
-        }
-      ]
-    },
-    {
-      "id": "v15-0301",
-      "date": "2024-04-20",
+      "id": "v15-0194",
+      "date": "2025-11-23",
       "artist": "Chage",
-      "category": "other",
-      "title": "Chage Official Fan Club equal FAN MEETING 2024 @Spa Resort Hawaiians（1st）",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
       "status": "recorded",
       "verification": "primary",
-      "note": "1st：4月20日〜21日のFCイベント。開始日のみ登録。歌唱公演の実施日・公演回数は未確認",
+      "note": "",
       "sources": [
         {
-          "label": "Chage公式：2024年スパリゾートハワイアンズFCイベント",
-          "url": "https://chage.jp/information/fanclub/detail-604.php"
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
         }
       ],
       "country": "日本",
-      "prefecture": "福島県",
-      "venue": "スパリゾートハワイアンズ"
+      "prefecture": "東京都",
+      "venue": "Zepp DiverCity TOKYO",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 7
     },
     {
-      "id": "v15-0302",
-      "date": "2024-04-21",
+      "id": "v15-0195",
+      "date": "2025-11-30",
       "artist": "Chage",
-      "category": "other",
-      "title": "Chage Official Fan Club equal FAN MEETING 2024 @Spa Resort Hawaiians（2nd）",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
       "status": "recorded",
       "verification": "primary",
-      "note": "2nd：4月21日〜22日のFCイベント。開始日のみ登録。歌唱公演の実施日・公演回数は未確認",
+      "note": "",
       "sources": [
         {
-          "label": "Chage公式：2024年スパリゾートハワイアンズFCイベント",
-          "url": "https://chage.jp/information/fanclub/detail-604.php"
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
         }
       ],
       "country": "日本",
-      "prefecture": "福島県",
-      "venue": "スパリゾートハワイアンズ"
-    },
-    {
-      "id": "v15-0303",
-      "date": "2024-05-26",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "佐藤竹善 Presents Cross your fingers（ASKAゲスト出演）",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ],
-      "country": "日本"
-    },
-    {
-      "id": "v15-0304",
-      "date": "2024-06-02",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "澤野弘之 LIVE [nZk]008（ASKAゲスト出演）",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ],
-      "country": "日本"
-    },
-    {
-      "id": "v15-0305",
-      "date": "2024-10-12",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "京都音楽博覧会2024（ASKAゲスト出演）",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "京都府",
-      "venue": "梅小路公園"
-    },
-    {
-      "id": "v15-0306",
-      "date": "2024-11-12",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "KANタービレ〜今夜は帰さナイトフィーバー〜（ASKAゲスト出演）",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "神奈川県",
-      "venue": "ぴあアリーナMM"
-    },
-    {
-      "id": "v15-0307",
-      "date": "2025-10-05",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "八神純子「ヤガ祭り the 7th ～ヤガミグミ Special～」（ASKAシークレットゲスト）",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ],
-      "country": "日本"
-    },
-    {
-      "id": "v15-0308",
-      "date": "2024-07-06",
-      "artist": "ASKA",
-      "category": "other",
-      "title": "ASKA×Fellows in 宮古島～少しの時間と大きな旅と～",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "7月6日〜8日のFCイベント。初日のみ登録。各日の歌唱公演回数は未確認",
-      "sources": [
-        {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ],
-      "country": "日本",
-      "prefecture": "沖縄県",
-      "venue": "宮古島"
-    },
-    {
-      "id": "v15-0309",
-      "date": "2025-04-28",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "NHK総合「tiny desk concerts JAPAN」Season 2 出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "国内放送4月28日0:25（4月27日深夜）。海外NHK WORLDでは4月27日から放送",
-      "sources": [
-        {
-          "label": "ASKA公式：NHK tiny desk concerts JAPAN 2025放送",
-          "url": "https://www.fellows.tokyo/news/detail/405"
-        }
-      ]
-    },
-    {
-      "id": "v15-0310",
-      "date": "2025-05-25",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "日テレプラス「ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 日本武道館2.14」放送",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "ASKA公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ]
+      "prefecture": "北海道",
+      "venue": "Zepp Sapporo",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 8
     },
     {
       "id": "v15-0311",
@@ -58027,6 +63380,1714 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式：2025 FNS歌謡祭出演",
           "url": "https://www.fellows.tokyo/news/detail/588"
+        }
+      ]
+    },
+    {
+      "id": "v15-0185",
+      "date": "2025-12-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "熊本県",
+      "venue": "キャバレーニュー白馬",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 23
+    },
+    {
+      "id": "v15-0240",
+      "date": "2025-12-06",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "FM FUKUOKA「ちゃげっていうラジオ」放送開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式Biography記載の放送開始日",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0156",
+      "date": "2025-12-07",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ショー開始時刻",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2025",
+          "url": "https://www.fellows.tokyo/feature/aska_dinnershow_2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "グランド ハイアット福岡 ザ・グランド・ボールルーム",
+      "startTime": "18:15",
+      "tourId": "aska-dinner-2025",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0186",
+      "date": "2025-12-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "西南コミュニティーセンター",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 24
+    },
+    {
+      "id": "v15-0187",
+      "date": "2025-12-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "静岡県",
+      "venue": "SOUND SHOWER ark",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 25
+    },
+    {
+      "id": "v15-0157",
+      "date": "2025-12-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ショー開始時刻",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2025",
+          "url": "https://www.fellows.tokyo/feature/aska_dinnershow_2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ザ・プリンス パークタワー東京 ボールルーム",
+      "startTime": "18:30",
+      "tourId": "aska-dinner-2025",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0158",
+      "date": "2025-12-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ショー開始時刻",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2025",
+          "url": "https://www.fellows.tokyo/feature/aska_dinnershow_2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ザ・プリンス パークタワー東京 ボールルーム",
+      "startTime": "17:30",
+      "tourId": "aska-dinner-2025",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0159",
+      "date": "2025-12-27",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ショー開始時刻",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2025",
+          "url": "https://www.fellows.tokyo/feature/aska_dinnershow_2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "帝国ホテル大阪 孔雀の間",
+      "startTime": "18:30",
+      "tourId": "aska-dinner-2025",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0160",
+      "date": "2025-12-28",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ショー開始時刻",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2025",
+          "url": "https://www.fellows.tokyo/feature/aska_dinnershow_2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "帝国ホテル大阪 孔雀の間",
+      "startTime": "17:30",
+      "tourId": "aska-dinner-2025",
+      "performanceNo": 5
+    },
+    {
+      "id": "v16-0034",
+      "date": "2026-01-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-billboard-67-68-2026",
+      "venue": "ビルボードライブ大阪",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "1st Stage",
+      "sources": [
+        {
+          "label": "Billboard Live公式：公演概要",
+          "url": "https://www.billboard-live.com/osaka/show?event_id=ev-20848"
+        }
+      ]
+    },
+    {
+      "id": "v16-0035",
+      "date": "2026-01-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-billboard-67-68-2026",
+      "venue": "ビルボードライブ大阪",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "startTime": "20:00",
+      "note": "2nd Stage",
+      "sources": [
+        {
+          "label": "Billboard Live公式：公演概要",
+          "url": "https://www.billboard-live.com/osaka/show?event_id=ev-20848"
+        }
+      ]
+    },
+    {
+      "id": "v16-0036",
+      "date": "2026-01-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-billboard-67-68-2026",
+      "venue": "ビルボードライブ東京",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "1st Stage",
+      "sources": [
+        {
+          "label": "Billboard Live公式：公演概要",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-20849"
+        }
+      ]
+    },
+    {
+      "id": "v16-0037",
+      "date": "2026-01-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-billboard-67-68-2026",
+      "venue": "ビルボードライブ東京",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "20:00",
+      "note": "2nd Stage",
+      "sources": [
+        {
+          "label": "Billboard Live公式：公演概要",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-20849"
+        }
+      ]
+    },
+    {
+      "id": "v16-0115",
+      "date": "2026-01-14",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0116",
+      "date": "2026-01-14",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0085",
+      "date": "2026-01-17",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "WOWOW「氣志團万博2025 ～関東爆音パビリオン～」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2025年出演映像の放送",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0073",
+      "date": "2026-01-20",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "『ASKA CONCERT TOUR 2024>>2025 -Who is ASKA !?-』ドキュメンタリーブック追加公演版 発売",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "書籍の発売日。音源・映像ではなく出版物",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://www.fellows.tokyo/news/list/1/7/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0038",
+      "date": "2026-01-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "CLUB-G",
+      "prefecture": "岐阜県",
+      "country": "日本",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0039",
+      "date": "2026-01-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "愛知県芸術劇場 小ホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0040",
+      "date": "2026-01-31",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "EVANS CASTLE HALL",
+      "prefecture": "奈良県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0074",
+      "date": "2026-01-31",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『FIRST SAIL “COMTEC PORTBASE OPENING CEREMONY” ～ ASKA Live Docking ～』配信リリース",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "FIRST SAIL “COMTEC PORTBASE OPENING CEREMONY” ～ ASKA Live Docking ～",
+      "note": "2025年4月16日公演の収録映像配信。cavcによる補助確認",
+      "sources": [
+        {
+          "label": "公式発売案内・cavc補助",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0041",
+      "date": "2026-02-01",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "SHELTER",
+      "prefecture": "和歌山県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0042",
+      "date": "2026-02-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "Club SWINDLE",
+      "prefecture": "秋田県",
+      "country": "日本",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0030",
+      "date": "2026-02-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-showa-christmas-2026",
+      "venue": "東京国際フォーラム ホールA",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 1,
+      "startTime": "18:30",
+      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
+      "sources": [
+        {
+          "label": "ASKA公式：公演概要",
+          "url": "https://www.fellows.tokyo/news/detail/488"
+        }
+      ]
+    },
+    {
+      "id": "v16-0031",
+      "date": "2026-02-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-showa-christmas-2026",
+      "venue": "東京国際フォーラム ホールA",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 2,
+      "startTime": "18:30",
+      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
+      "sources": [
+        {
+          "label": "ASKA公式：公演概要",
+          "url": "https://www.fellows.tokyo/news/detail/488"
+        }
+      ]
+    },
+    {
+      "id": "v16-0032",
+      "date": "2026-02-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-showa-christmas-2026",
+      "venue": "グランキューブ大阪（大阪国際会議場）",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 3,
+      "startTime": "18:30",
+      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
+      "sources": [
+        {
+          "label": "ASKA公式：公演概要",
+          "url": "https://www.fellows.tokyo/news/detail/488"
+        }
+      ]
+    },
+    {
+      "id": "v16-0033",
+      "date": "2026-02-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "aska-showa-christmas-2026",
+      "venue": "グランキューブ大阪（大阪国際会議場）",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 4,
+      "startTime": "18:30",
+      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
+      "sources": [
+        {
+          "label": "ASKA公式：公演概要",
+          "url": "https://www.fellows.tokyo/news/detail/488"
+        }
+      ]
+    },
+    {
+      "id": "v16-0117",
+      "date": "2026-02-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0118",
+      "date": "2026-02-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0043",
+      "date": "2026-02-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "新横浜NEW SIDE BEACH!!",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0044",
+      "date": "2026-02-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "柏PALOOZA",
+      "prefecture": "千葉県",
+      "country": "日本",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0086",
+      "date": "2026-03-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10「Chageのずっと細道～東西南北～」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "密着ドキュメンタリー",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0087",
+      "date": "2026-03-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Chage Billboard Live 67 to 68」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1月公演収録映像の放送",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0139",
+      "date": "2026-03-15",
+      "artist": "Chage",
+      "category": "other",
+      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "小倉昭和館",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
+      "sources": [
+        {
+          "label": "Chage公式：上映会日程",
+          "url": "https://chage.jp/information/release/detail-800.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0088",
+      "date": "2026-03-17",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "NHK BSP4K「玉置浩二ショー」出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "玉置浩二と共演。放送日に登録",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0119",
+      "date": "2026-03-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0120",
+      "date": "2026-03-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0045",
+      "date": "2026-03-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "渋谷CLUB QUATTRO",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=017857"
+        }
+      ]
+    },
+    {
+      "id": "v16-0046",
+      "date": "2026-03-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "渋谷CLUB QUATTRO",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "19:00",
+      "note": "同日追加公演・ライブ音源収録予定として告知",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-804.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0075",
+      "date": "2026-03-25",
+      "artist": "Chage",
+      "category": "release",
+      "title": "デジタルライブアルバム『ChageLiveTour2025 Mr.November』配信開始",
+      "status": "released",
+      "verification": "primary",
+      "releaseTitle": "ChageLiveTour2025 Mr.November",
+      "note": "デジタルライブアルバム",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://chage.jp/information/release/detail-800.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0140",
+      "date": "2026-04-03",
+      "artist": "Chage",
+      "category": "other",
+      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "109シネマズプレミアム新宿",
+      "prefecture": "東京都",
+      "country": "日本",
+      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
+      "sources": [
+        {
+          "label": "Chage公式：上映会日程",
+          "url": "https://chage.jp/information/release/detail-800.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0141",
+      "date": "2026-04-04",
+      "artist": "Chage",
+      "category": "other",
+      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "109シネマズプレミアム新宿",
+      "prefecture": "東京都",
+      "country": "日本",
+      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
+      "sources": [
+        {
+          "label": "Chage公式：上映会日程",
+          "url": "https://chage.jp/information/release/detail-800.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0142",
+      "date": "2026-04-04",
+      "artist": "Chage",
+      "category": "other",
+      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "109シネマズ名古屋",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
+      "sources": [
+        {
+          "label": "Chage公式：上映会日程",
+          "url": "https://chage.jp/information/release/detail-800.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0143",
+      "date": "2026-04-05",
+      "artist": "Chage",
+      "category": "other",
+      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "109シネマズプレミアム新宿",
+      "prefecture": "東京都",
+      "country": "日本",
+      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
+      "sources": [
+        {
+          "label": "Chage公式：上映会日程",
+          "url": "https://chage.jp/information/release/detail-800.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0144",
+      "date": "2026-04-05",
+      "artist": "Chage",
+      "category": "other",
+      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "109シネマズ箕面",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
+      "sources": [
+        {
+          "label": "Chage公式：上映会日程",
+          "url": "https://chage.jp/information/release/detail-800.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0121",
+      "date": "2026-04-15",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0122",
+      "date": "2026-04-15",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0047",
+      "date": "2026-04-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "仙台Rensa",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "startTime": "18:30",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-795.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0048",
+      "date": "2026-04-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "ミュージック昭和 Session",
+      "prefecture": "山形県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-795.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0076",
+      "date": "2026-04-22",
+      "artist": "Chage",
+      "category": "release",
+      "title": "Blu-ray『ChageLiveTour2025 Mr.November』発売",
+      "status": "released",
+      "verification": "primary",
+      "releaseTitle": "ChageLiveTour2025 Mr.November",
+      "note": "ライブ映像作品",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://chage.jp/discography/chage/bd/018.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0064",
+      "date": "2026-04-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage’s1/6 Mr.November: One More Time",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "KT Zepp Yokohama",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "startTime": "19:00",
+      "note": "一夜限りの再演",
+      "sources": [
+        {
+          "label": "Chage公式：公演案内",
+          "url": "https://chage.jp/information/live/detail-785.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0049",
+      "date": "2026-04-29",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "八木橋百貨店8階 カトレアホール",
+      "prefecture": "埼玉県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-804.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0089",
+      "date": "2026-05-02",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "Travel TV「ROOTS」第1回 配信",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送・配信日",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0090",
+      "date": "2026-05-09",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "Travel TV「ROOTS」第2回 配信",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送・配信日",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0123",
+      "date": "2026-05-13",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0124",
+      "date": "2026-05-13",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0091",
+      "date": "2026-05-16",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "Travel TV「ROOTS」第3回 配信",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送・配信日",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0050",
+      "date": "2026-05-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "BIGCAT",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "startTime": "18:30",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-795.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0092",
+      "date": "2026-05-23",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "Travel TV「ROOTS」第4回 配信",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送・配信日",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0051",
+      "date": "2026-05-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "能楽堂ホールtenjin9",
+      "prefecture": "岡山県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-795.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0077",
+      "date": "2026-05-29",
+      "artist": "Chage",
+      "category": "release",
+      "title": "吉田山田柴田「晴れ晴れ（ハレバレ）」配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "Chageと吉田山田によるユニット",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://chage.jp/information/release/detail-819.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0145",
+      "date": "2026-05-30",
+      "artist": "Chage",
+      "category": "other",
+      "title": "FAN MEETING 2026 @Spa Resort Hawaiians 開始",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "スパリゾートハワイアンズ",
+      "prefecture": "福島県",
+      "country": "日本",
+      "note": "5月30～31日の2日間。イベント開始日のみ登録／公演回数は未確認",
+      "sources": [
+        {
+          "label": "Chage公式：ファンミーティング日程",
+          "url": "https://chage.jp/information/fanclub/detail-807.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0125",
+      "date": "2026-06-10",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0126",
+      "date": "2026-06-10",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0052",
+      "date": "2026-06-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "神戸チキンジョージ",
+      "prefecture": "兵庫県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-795.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0053",
+      "date": "2026-06-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "滋賀B-FLAT",
+      "prefecture": "滋賀県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-795.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0065",
+      "date": "2026-06-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "吉田山田 SUPER FAMILY CONCERT（Chageゲスト出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "名古屋ダイアモンドホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式：ゲスト出演告知",
+          "url": "https://chage.jp/information/live/detail-816.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0078",
+      "date": "2026-06-30",
+      "artist": "Chage",
+      "category": "release",
+      "title": "シシド・チャゲ「Magic Knight（魔法夜曲）」配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "Chageとシシド・カフカによるユニット",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://fanclub.chage.jp/sitenews.php?category=1&id=X%2FwV6tgdssIGbVcGCV7Qrg%3D%3D"
+        }
+      ]
+    },
+    {
+      "id": "v16-0127",
+      "date": "2026-07-08",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0128",
+      "date": "2026-07-08",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0054",
+      "date": "2026-07-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "水戸club SONIC mito",
+      "prefecture": "茨城県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-795.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0066",
+      "date": "2026-07-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "西新宿ゴールデンナイトショー（シシド・チャゲ）",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "新宿ReNY",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "16:30",
+      "note": "シシド・カフカとの共演",
+      "sources": [
+        {
+          "label": "Chage公式：出演告知",
+          "url": "https://chage.jp/information/news/detail-815.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0093",
+      "date": "2026-07-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「ノンストップ！」でChage出演ライブの模様を放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chage出演VTR",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        }
+      ]
+    },
+    {
+      "id": "v16-0055",
+      "date": "2026-08-01",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "postponed",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "鹿児島CAPARVO HALL",
+      "prefecture": "鹿児島県",
+      "country": "日本",
+      "startTime": "15:00",
+      "note": "【延期前の予定】地震の影響で開催見送り。振替は2027年1月29日（本データは2026年のみ収録）",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-857.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0146",
+      "date": "2026-08-01",
+      "artist": "Chage",
+      "category": "other",
+      "title": "「Chageのずっとリアルファンミ」鹿児島公演分 延期前予定",
+      "status": "postponed",
+      "verification": "primary",
+      "venue": "鹿児島CAPARVO HALL",
+      "prefecture": "鹿児島県",
+      "country": "日本",
+      "note": "【延期前の予定】地震の影響で開催見送り。振替は2027年1月29日（開催済みとして数えない）",
+      "sources": [
+        {
+          "label": "Chage公式：鹿児島イベント延期",
+          "url": "https://chage.jp/information/live/detail-857.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0056",
+      "date": "2026-08-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "小倉昭和館",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/hosomichi/schedule/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0108",
+      "date": "2026-08-12",
+      "artist": "Chage",
+      "category": "other",
+      "title": "アート展「Chage Presents One Love ～夏ノ余白～」開幕",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "世田谷美術館 区民ギャラリー",
+      "prefecture": "東京都",
+      "country": "日本",
+      "note": "会期8月12～16日。ライブではなく展示会。開始日の1件として登録",
+      "sources": [
+        {
+          "label": "Chage公式：アート展示会告知",
+          "url": "https://chage.jp/information/news/detail-832.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0129",
+      "date": "2026-08-19",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0130",
+      "date": "2026-08-19",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0067",
+      "date": "2026-08-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "吉田山田祭り2026（吉田山田柴田 出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "上野水上野外音楽堂",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "吉田山田柴田として出演",
+      "sources": [
+        {
+          "label": "Chage公式：出演告知",
+          "url": "https://chage.jp/information/live/detail-858.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0114",
+      "date": "2026-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA デビュー47周年",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1979年8月25日デビューから47周年",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0111",
+      "date": "2026-09-01",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "『ASKA CONCERT 2026 昭和が見ていたクリスマス!?』劇場先行上映開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "9月1～10日は13劇場、9月11～17日は6劇場で上映。生演奏のライブではなく映画館上映／開始日で1件のみ登録",
+      "sources": [
+        {
+          "label": "ASKA公式：上映館・期間発表",
+          "url": "https://www.fellows.tokyo/news/detail/737"
+        }
+      ]
+    },
+    {
+      "id": "v16-0094",
+      "date": "2026-09-03",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TOKYO FM「Skyrocket Company」にゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "本人ブログで出演後を確認",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://www.fellows.tokyo/blog/detail/1433/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0112",
+      "date": "2026-09-05",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "『昭和が見ていたクリスマス!?』先行上映 お台場舞台挨拶",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "ユナイテッド・シネマ アクアシティお台場",
+      "prefecture": "東京都",
+      "country": "日本",
+      "note": "ASKA本人と出演メンバーが舞台挨拶。劇場上映イベントでありコンサート公演ではない",
+      "sources": [
+        {
+          "label": "ASKA本人ブログ：当日の実施報告",
+          "url": "https://www.fellows.tokyo/blog/detail/1436/?page=2"
+        }
+      ]
+    },
+    {
+      "id": "v16-0079",
+      "date": "2026-09-09",
+      "artist": "Chage",
+      "category": "release",
+      "title": "アルバム『Ko』発売",
+      "status": "released",
+      "verification": "primary",
+      "releaseTitle": "Ko",
+      "note": "CDアルバム",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://www.universal-music.co.jp/chage/products/uicz-4711/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0080",
+      "date": "2026-09-09",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "玉置浩二・ASKA「音銀河」先行配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "コラボ作品の先行配信日。9月16日のCD発売とは別",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://www.fellows.tokyo/news/list/1/7/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0131",
+      "date": "2026-09-09",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0132",
+      "date": "2026-09-09",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0113",
+      "date": "2026-09-13",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "『昭和が見ていたクリスマス!?』先行上映 札幌舞台挨拶",
+      "status": "recorded",
+      "verification": "secondary",
+      "venue": "ローソン・ユナイテッドシネマ札幌",
+      "prefecture": "北海道",
+      "country": "日本",
+      "note": "9月13日13:00の舞台挨拶予定を公式告知と補助公演記録で照合。開催後の一次報告は未確認／生演奏ライブではない",
+      "sources": [
+        {
+          "label": "ASKA公式：舞台挨拶予告",
+          "url": "https://www.fellows.tokyo/blog/detail/1436/?page=2"
+        }
+      ]
+    },
+    {
+      "id": "v16-0081",
+      "date": "2026-09-16",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "玉置浩二・ASKA CDシングル『音銀河／命の宿り』発売",
+      "status": "released",
+      "verification": "primary",
+      "releaseTitle": "音銀河／命の宿り",
+      "note": "発売日および全曲配信開始日",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://www.fellows.tokyo/news/detail/740"
+        }
+      ]
+    },
+    {
+      "id": "v16-0110",
+      "date": "2026-09-18",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "ASKAライブ映像配信サービス「ASKA GARAGE」開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "定額動画配信サービス開始記録",
+      "sources": [
+        {
+          "label": "ASKA公式：サービス開始告知",
+          "url": "https://www.fellows.tokyo/news/detail/762"
         }
       ]
     },
@@ -58053,6 +65114,113 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v16-0060",
+      "date": "2026-09-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2026 One Love",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-one-love-2026",
+      "venue": "Zepp Nagoya",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "startTime": "18:00",
+      "note": "スペシャルゲスト：吉田山田",
+      "sources": [
+        {
+          "label": "Chage公式：公演・ゲスト一覧",
+          "url": "https://chage.jp/information/live/detail-817.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0095",
+      "date": "2026-09-21",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM福岡「FM SOUND FILE SHINE」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0061",
+      "date": "2026-09-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2026 One Love",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-one-love-2026",
+      "venue": "Zepp Namba",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "スペシャルゲスト：シシド・カフカ",
+      "sources": [
+        {
+          "label": "Chage公式：公演・ゲスト一覧",
+          "url": "https://chage.jp/information/live/detail-817.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0082",
+      "date": "2026-09-23",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA CONCERT 2026 昭和が見ていたクリスマス!?』Blu-ray＋Live CD発売",
+      "status": "released",
+      "verification": "primary",
+      "releaseTitle": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
+      "note": "映像作品とライブCDのセット",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://www.fellows.tokyo/news/list/1/7/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0096",
+      "date": "2026-09-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TOKYO FM「TOKYO SPEAKEASY」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0097",
+      "date": "2026-09-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBSラジオ「えんがわ」生ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
+        }
+      ]
+    },
+    {
       "id": "v16-0002",
       "date": "2026-09-26",
       "artist": "ASKA",
@@ -58071,6 +65239,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式：Lock-on特設サイト",
           "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0098",
+      "date": "2026-09-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM福岡「カムカムFM FUKUOKA」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
         }
       ]
     },
@@ -58097,6 +65281,95 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v16-0062",
+      "date": "2026-10-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2026 One Love",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-one-love-2026",
+      "venue": "Zepp DiverCity TOKYO",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "スペシャルゲスト：早見優",
+      "sources": [
+        {
+          "label": "Chage公式：公演・ゲスト一覧",
+          "url": "https://chage.jp/information/live/detail-817.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0099",
+      "date": "2026-10-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKBラジオ「白岳KAORU研究所」出演（第1回）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0068",
+      "date": "2026-10-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "高崎音楽祭 シシド・カフカ Presents 高崎ゴールデンナイトショー",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "高崎芸術劇場 スタジオシアター",
+      "prefecture": "群馬県",
+      "country": "日本",
+      "startTime": "19:00",
+      "note": "Chageゲスト出演",
+      "sources": [
+        {
+          "label": "高崎音楽祭公式：日程",
+          "url": "https://www.takasakiongakusai.jp/concert/shishido/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0083",
+      "date": "2026-10-10",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「One Love～二人だけの軌跡～」Music Video Full Ver.公開",
+      "status": "released",
+      "verification": "primary",
+      "note": "MV公開日。新曲の音源発売日とは区別",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://chage.jp/information/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0105",
+      "date": "2026-10-10",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "YouTubeラジオ「ASKA Lock-on Radio」初回配信",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式スタッフブログの開始記録",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://www.fellows.tokyo/"
+        }
+      ]
+    },
+    {
       "id": "v16-0004",
       "date": "2026-10-11",
       "artist": "ASKA",
@@ -58119,6 +65392,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v16-0100",
+      "date": "2026-10-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "K-MIX「CHIHIROPE SUNDAY LOUNGE」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-886.php"
+        }
+      ]
+    },
+    {
       "id": "v16-0005",
       "date": "2026-10-12",
       "artist": "ASKA",
@@ -58137,6 +65426,59 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式：Lock-on特設サイト",
           "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0063",
+      "date": "2026-10-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2026 One Love",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-one-love-2026",
+      "venue": "電気ビル みらいホール",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "startTime": "18:00",
+      "note": "スペシャルゲスト：theSoul",
+      "sources": [
+        {
+          "label": "Chage公式：公演・ゲスト一覧",
+          "url": "https://chage.jp/information/live/detail-817.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0101",
+      "date": "2026-10-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKBラジオ「白岳KAORU研究所」出演（第2回）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0084",
+      "date": "2026-10-14",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "玉置浩二・ASKA「音銀河」「命の宿り」MV同時公開",
+      "status": "released",
+      "verification": "primary",
+      "note": "映像の公開日。音源の発売日とは区別",
+      "sources": [
+        {
+          "label": "公式発売・公開案内",
+          "url": "https://www.fellows.tokyo/news/detail/779"
         }
       ]
     },
@@ -58185,6 +65527,38 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v16-0102",
+      "date": "2026-10-18",
+      "artist": "Chage",
+      "category": "media",
+      "title": "K-MIX「CHIHIROPE SUNDAY LOUNGE」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-886.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0103",
+      "date": "2026-10-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKBラジオ「白岳KAORU研究所」出演（第3回）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
+        }
+      ]
+    },
+    {
       "id": "v16-0008",
       "date": "2026-10-21",
       "artist": "ASKA",
@@ -58203,6 +65577,40 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式：Lock-on特設サイト",
           "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0133",
+      "date": "2026-10-21",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0134",
+      "date": "2026-10-21",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "recorded",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
         }
       ]
     },
@@ -58251,6 +65659,42 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v16-0069",
+      "date": "2026-10-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ニクオン町田BASE 2026（吉田山田柴田 出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "町田シバヒロ",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "15:30",
+      "note": "吉田山田柴田として出演／時間は主催者のタイムテーブルで照合",
+      "sources": [
+        {
+          "label": "Chage公式：イベント出演日",
+          "url": "https://chage.jp/information/live/detail-856.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0104",
+      "date": "2026-10-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKBラジオ「白岳KAORU研究所」出演（第4回）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ラジオ出演",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://chage.jp/information/media/detail-876.php"
+        }
+      ]
+    },
+    {
       "id": "v16-0011",
       "date": "2026-10-31",
       "artist": "ASKA",
@@ -58295,6 +65739,43 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v16-0106",
+      "date": "2026-11-12",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "YouTubeラジオ「ASKA Lock-on Radio」第2回配信",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式告知にて確認",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://www.fellows.tokyo/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0057",
+      "date": "2026-11-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "東京キネマ倶楽部",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "15:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-868.php"
+        }
+      ]
+    },
+    {
       "id": "v16-0013",
       "date": "2026-11-14",
       "artist": "ASKA",
@@ -58317,6 +65798,26 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v16-0070",
+      "date": "2026-11-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "PM AGENCY 40th ANNIVERSARY LIVE スーパー大感謝祭",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "沖縄コンベンションセンター 展示棟",
+      "prefecture": "沖縄県",
+      "country": "日本",
+      "startTime": "15:00",
+      "note": "スターダスト☆レビューほか出演のイベント",
+      "sources": [
+        {
+          "label": "Chage公式：ゲスト出演案内",
+          "url": "https://chage.jp/information/live/detail-825.php"
+        }
+      ]
+    },
+    {
       "id": "v16-0014",
       "date": "2026-11-15",
       "artist": "ASKA",
@@ -58335,6 +65836,77 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式：Lock-on特設サイト",
           "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0058",
+      "date": "2026-11-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "recorded",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "ライブハウスモッズ",
+      "prefecture": "沖縄県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-868.php"
+        }
+      ]
+    },
+    {
+      "id": "v16-0107",
+      "date": "2026-11-16",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "Kiss FM KOBE「BEAT IT」生ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式スケジュール告知",
+      "sources": [
+        {
+          "label": "公式・cavcメディア記録",
+          "url": "https://www.fellows.tokyo/"
+        }
+      ]
+    },
+    {
+      "id": "v16-0135",
+      "date": "2026-11-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
+      "status": "scheduled",
+      "verification": "primary",
+      "startTime": "11:30",
+      "note": "【開催予定・2026年11月17日時点】 Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+        }
+      ]
+    },
+    {
+      "id": "v16-0136",
+      "date": "2026-11-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
+      "status": "scheduled",
+      "verification": "primary",
+      "startTime": "15:00",
+      "note": "【開催予定・2026年11月17日時点】 Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ：全日程・2部制",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
         }
       ]
     },
@@ -58379,6 +65951,27 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式：Lock-on特設サイト",
           "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v16-0059",
+      "date": "2026-11-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2026",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "桜座",
+      "prefecture": "山梨県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "【開催予定・2026年11月17日時点】 11月17日時点の発表日程",
+      "sources": [
+        {
+          "label": "Chage公式／公演会場公式",
+          "url": "https://chage.jp/information/live/detail-868.php"
         }
       ]
     },
@@ -58581,6 +66174,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v16-0109",
+      "date": "2026-12-19",
+      "artist": "Chage",
+      "category": "other",
+      "title": "FAN MEETING 2026「Chappyと冬ノ余白 2026年のありがとう」開始",
+      "status": "scheduled",
+      "verification": "primary",
+      "venue": "琵琶湖グランドホテル",
+      "prefecture": "滋賀県",
+      "country": "日本",
+      "note": "【開催予定・2026年11月17日時点】 12月19～20日の2日間開催。公演数ではなくイベント開始日として1件登録",
+      "sources": [
+        {
+          "label": "Chage公式：ファンミーティング告知",
+          "url": "https://chage.jp/information/fanclub/detail-880.php"
+        }
+      ]
+    },
+    {
       "id": "v16-0026",
       "date": "2026-12-20",
       "artist": "ASKA",
@@ -58647,882 +66259,6 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
-      "id": "v16-0029",
-      "date": "2026-12-26",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
-      "status": "scheduled",
-      "verification": "primary",
-      "tourId": "aska-lock-on-2026-2027",
-      "venue": "熊本城ホール メインホール",
-      "prefecture": "熊本県",
-      "country": "日本",
-      "performanceNo": 29,
-      "startTime": "18:00",
-      "note": "【開催予定・2026年11月17日時点】",
-      "sources": [
-        {
-          "label": "ASKA公式：Lock-on特設サイト",
-          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
-        }
-      ]
-    },
-    {
-      "id": "v16-0030",
-      "date": "2026-02-12",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "aska-showa-christmas-2026",
-      "venue": "東京国際フォーラム ホールA",
-      "prefecture": "東京都",
-      "country": "日本",
-      "performanceNo": 1,
-      "startTime": "18:30",
-      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
-      "sources": [
-        {
-          "label": "ASKA公式：公演概要",
-          "url": "https://www.fellows.tokyo/news/detail/488"
-        }
-      ]
-    },
-    {
-      "id": "v16-0031",
-      "date": "2026-02-13",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "aska-showa-christmas-2026",
-      "venue": "東京国際フォーラム ホールA",
-      "prefecture": "東京都",
-      "country": "日本",
-      "performanceNo": 2,
-      "startTime": "18:30",
-      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
-      "sources": [
-        {
-          "label": "ASKA公式：公演概要",
-          "url": "https://www.fellows.tokyo/news/detail/488"
-        }
-      ]
-    },
-    {
-      "id": "v16-0032",
-      "date": "2026-02-16",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "aska-showa-christmas-2026",
-      "venue": "グランキューブ大阪（大阪国際会議場）",
-      "prefecture": "大阪府",
-      "country": "日本",
-      "performanceNo": 3,
-      "startTime": "18:30",
-      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
-      "sources": [
-        {
-          "label": "ASKA公式：公演概要",
-          "url": "https://www.fellows.tokyo/news/detail/488"
-        }
-      ]
-    },
-    {
-      "id": "v16-0033",
-      "date": "2026-02-17",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "aska-showa-christmas-2026",
-      "venue": "グランキューブ大阪（大阪国際会議場）",
-      "prefecture": "大阪府",
-      "country": "日本",
-      "performanceNo": 4,
-      "startTime": "18:30",
-      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
-      "sources": [
-        {
-          "label": "ASKA公式：公演概要",
-          "url": "https://www.fellows.tokyo/news/detail/488"
-        }
-      ]
-    },
-    {
-      "id": "v16-0034",
-      "date": "2026-01-09",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Billboard Live 67 to 68",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-billboard-67-68-2026",
-      "venue": "ビルボードライブ大阪",
-      "prefecture": "大阪府",
-      "country": "日本",
-      "startTime": "17:00",
-      "note": "1st Stage",
-      "sources": [
-        {
-          "label": "Billboard Live公式：公演概要",
-          "url": "https://www.billboard-live.com/osaka/show?event_id=ev-20848"
-        }
-      ]
-    },
-    {
-      "id": "v16-0035",
-      "date": "2026-01-09",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Billboard Live 67 to 68",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-billboard-67-68-2026",
-      "venue": "ビルボードライブ大阪",
-      "prefecture": "大阪府",
-      "country": "日本",
-      "startTime": "20:00",
-      "note": "2nd Stage",
-      "sources": [
-        {
-          "label": "Billboard Live公式：公演概要",
-          "url": "https://www.billboard-live.com/osaka/show?event_id=ev-20848"
-        }
-      ]
-    },
-    {
-      "id": "v16-0036",
-      "date": "2026-01-11",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Billboard Live 67 to 68",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-billboard-67-68-2026",
-      "venue": "ビルボードライブ東京",
-      "prefecture": "東京都",
-      "country": "日本",
-      "startTime": "17:00",
-      "note": "1st Stage",
-      "sources": [
-        {
-          "label": "Billboard Live公式：公演概要",
-          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-20849"
-        }
-      ]
-    },
-    {
-      "id": "v16-0037",
-      "date": "2026-01-11",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage Billboard Live 67 to 68",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-billboard-67-68-2026",
-      "venue": "ビルボードライブ東京",
-      "prefecture": "東京都",
-      "country": "日本",
-      "startTime": "20:00",
-      "note": "2nd Stage",
-      "sources": [
-        {
-          "label": "Billboard Live公式：公演概要",
-          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-20849"
-        }
-      ]
-    },
-    {
-      "id": "v16-0038",
-      "date": "2026-01-24",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "CLUB-G",
-      "prefecture": "岐阜県",
-      "country": "日本",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-770.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0039",
-      "date": "2026-01-25",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "愛知県芸術劇場 小ホール",
-      "prefecture": "愛知県",
-      "country": "日本",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-770.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0040",
-      "date": "2026-01-31",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "EVANS CASTLE HALL",
-      "prefecture": "奈良県",
-      "country": "日本",
-      "startTime": "16:00",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-770.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0041",
-      "date": "2026-02-01",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "SHELTER",
-      "prefecture": "和歌山県",
-      "country": "日本",
-      "startTime": "16:00",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-770.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0042",
-      "date": "2026-02-11",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "Club SWINDLE",
-      "prefecture": "秋田県",
-      "country": "日本",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-770.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0043",
-      "date": "2026-02-21",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "新横浜NEW SIDE BEACH!!",
-      "prefecture": "神奈川県",
-      "country": "日本",
-      "startTime": "16:00",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-770.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0044",
-      "date": "2026-02-23",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "柏PALOOZA",
-      "prefecture": "千葉県",
-      "country": "日本",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-770.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0045",
-      "date": "2026-03-22",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "渋谷CLUB QUATTRO",
-      "prefecture": "東京都",
-      "country": "日本",
-      "startTime": "16:00",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=017857"
-        }
-      ]
-    },
-    {
-      "id": "v16-0046",
-      "date": "2026-03-22",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "渋谷CLUB QUATTRO",
-      "prefecture": "東京都",
-      "country": "日本",
-      "startTime": "19:00",
-      "note": "同日追加公演・ライブ音源収録予定として告知",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-804.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0047",
-      "date": "2026-04-17",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "仙台Rensa",
-      "prefecture": "宮城県",
-      "country": "日本",
-      "startTime": "18:30",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-795.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0048",
-      "date": "2026-04-19",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "ミュージック昭和 Session",
-      "prefecture": "山形県",
-      "country": "日本",
-      "startTime": "16:00",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-795.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0049",
-      "date": "2026-04-29",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "八木橋百貨店8階 カトレアホール",
-      "prefecture": "埼玉県",
-      "country": "日本",
-      "startTime": "16:00",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-804.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0050",
-      "date": "2026-05-22",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "BIGCAT",
-      "prefecture": "大阪府",
-      "country": "日本",
-      "startTime": "18:30",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-795.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0051",
-      "date": "2026-05-24",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "能楽堂ホールtenjin9",
-      "prefecture": "岡山県",
-      "country": "日本",
-      "startTime": "16:00",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-795.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0052",
-      "date": "2026-06-13",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "神戸チキンジョージ",
-      "prefecture": "兵庫県",
-      "country": "日本",
-      "startTime": "16:00",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-795.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0053",
-      "date": "2026-06-14",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "滋賀B-FLAT",
-      "prefecture": "滋賀県",
-      "country": "日本",
-      "startTime": "16:00",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-795.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0054",
-      "date": "2026-07-11",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "水戸club SONIC mito",
-      "prefecture": "茨城県",
-      "country": "日本",
-      "startTime": "16:00",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-795.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0055",
-      "date": "2026-08-01",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "postponed",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "鹿児島CAPARVO HALL",
-      "prefecture": "鹿児島県",
-      "country": "日本",
-      "startTime": "15:00",
-      "note": "【延期前の予定】地震の影響で開催見送り。振替は2027年1月29日（本データは2026年のみ収録）",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-857.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0056",
-      "date": "2026-08-02",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "小倉昭和館",
-      "prefecture": "福岡県",
-      "country": "日本",
-      "startTime": "16:00",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/hosomichi/schedule/"
-        }
-      ]
-    },
-    {
-      "id": "v16-0057",
-      "date": "2026-11-13",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "東京キネマ倶楽部",
-      "prefecture": "東京都",
-      "country": "日本",
-      "startTime": "15:00",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-868.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0058",
-      "date": "2026-11-15",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "ライブハウスモッズ",
-      "prefecture": "沖縄県",
-      "country": "日本",
-      "startTime": "16:00",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-868.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0059",
-      "date": "2026-11-23",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道 2026",
-      "status": "scheduled",
-      "verification": "primary",
-      "tourId": "chage-zutto-hosomichi-2026",
-      "venue": "桜座",
-      "prefecture": "山梨県",
-      "country": "日本",
-      "startTime": "16:00",
-      "note": "【開催予定・2026年11月17日時点】 11月17日時点の発表日程",
-      "sources": [
-        {
-          "label": "Chage公式／公演会場公式",
-          "url": "https://chage.jp/information/live/detail-868.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0060",
-      "date": "2026-09-21",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour2026 One Love",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-one-love-2026",
-      "venue": "Zepp Nagoya",
-      "prefecture": "愛知県",
-      "country": "日本",
-      "startTime": "18:00",
-      "note": "スペシャルゲスト：吉田山田",
-      "sources": [
-        {
-          "label": "Chage公式：公演・ゲスト一覧",
-          "url": "https://chage.jp/information/live/detail-817.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0061",
-      "date": "2026-09-22",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour2026 One Love",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-one-love-2026",
-      "venue": "Zepp Namba",
-      "prefecture": "大阪府",
-      "country": "日本",
-      "startTime": "17:00",
-      "note": "スペシャルゲスト：シシド・カフカ",
-      "sources": [
-        {
-          "label": "Chage公式：公演・ゲスト一覧",
-          "url": "https://chage.jp/information/live/detail-817.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0062",
-      "date": "2026-10-04",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour2026 One Love",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-one-love-2026",
-      "venue": "Zepp DiverCity TOKYO",
-      "prefecture": "東京都",
-      "country": "日本",
-      "startTime": "17:00",
-      "note": "スペシャルゲスト：早見優",
-      "sources": [
-        {
-          "label": "Chage公式：公演・ゲスト一覧",
-          "url": "https://chage.jp/information/live/detail-817.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0063",
-      "date": "2026-10-12",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ChageLiveTour2026 One Love",
-      "status": "recorded",
-      "verification": "primary",
-      "tourId": "chage-one-love-2026",
-      "venue": "電気ビル みらいホール",
-      "prefecture": "福岡県",
-      "country": "日本",
-      "startTime": "18:00",
-      "note": "スペシャルゲスト：theSoul",
-      "sources": [
-        {
-          "label": "Chage公式：公演・ゲスト一覧",
-          "url": "https://chage.jp/information/live/detail-817.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0064",
-      "date": "2026-04-24",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chage’s1/6 Mr.November: One More Time",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "KT Zepp Yokohama",
-      "prefecture": "神奈川県",
-      "country": "日本",
-      "startTime": "19:00",
-      "note": "一夜限りの再演",
-      "sources": [
-        {
-          "label": "Chage公式：公演案内",
-          "url": "https://chage.jp/information/live/detail-785.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0065",
-      "date": "2026-06-28",
-      "artist": "Chage",
-      "category": "live",
-      "title": "吉田山田 SUPER FAMILY CONCERT（Chageゲスト出演）",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "名古屋ダイアモンドホール",
-      "prefecture": "愛知県",
-      "country": "日本",
-      "startTime": "17:00",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式：ゲスト出演告知",
-          "url": "https://chage.jp/information/live/detail-816.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0066",
-      "date": "2026-07-18",
-      "artist": "Chage",
-      "category": "live",
-      "title": "西新宿ゴールデンナイトショー（シシド・チャゲ）",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "新宿ReNY",
-      "prefecture": "東京都",
-      "country": "日本",
-      "startTime": "16:30",
-      "note": "シシド・カフカとの共演",
-      "sources": [
-        {
-          "label": "Chage公式：出演告知",
-          "url": "https://chage.jp/information/news/detail-815.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0067",
-      "date": "2026-08-23",
-      "artist": "Chage",
-      "category": "live",
-      "title": "吉田山田祭り2026（吉田山田柴田 出演）",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "上野水上野外音楽堂",
-      "prefecture": "東京都",
-      "country": "日本",
-      "startTime": "16:00",
-      "note": "吉田山田柴田として出演",
-      "sources": [
-        {
-          "label": "Chage公式：出演告知",
-          "url": "https://chage.jp/information/live/detail-858.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0068",
-      "date": "2026-10-09",
-      "artist": "Chage",
-      "category": "live",
-      "title": "高崎音楽祭 シシド・カフカ Presents 高崎ゴールデンナイトショー",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "高崎芸術劇場 スタジオシアター",
-      "prefecture": "群馬県",
-      "country": "日本",
-      "startTime": "19:00",
-      "note": "Chageゲスト出演",
-      "sources": [
-        {
-          "label": "高崎音楽祭公式：日程",
-          "url": "https://www.takasakiongakusai.jp/concert/shishido/"
-        }
-      ]
-    },
-    {
-      "id": "v16-0069",
-      "date": "2026-10-25",
-      "artist": "Chage",
-      "category": "live",
-      "title": "ニクオン町田BASE 2026（吉田山田柴田 出演）",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "町田シバヒロ",
-      "prefecture": "東京都",
-      "country": "日本",
-      "startTime": "15:30",
-      "note": "吉田山田柴田として出演／時間は主催者のタイムテーブルで照合",
-      "sources": [
-        {
-          "label": "Chage公式：イベント出演日",
-          "url": "https://chage.jp/information/live/detail-856.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0070",
-      "date": "2026-11-14",
-      "artist": "Chage",
-      "category": "live",
-      "title": "PM AGENCY 40th ANNIVERSARY LIVE スーパー大感謝祭",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "沖縄コンベンションセンター 展示棟",
-      "prefecture": "沖縄県",
-      "country": "日本",
-      "startTime": "15:00",
-      "note": "スターダスト☆レビューほか出演のイベント",
-      "sources": [
-        {
-          "label": "Chage公式：ゲスト出演案内",
-          "url": "https://chage.jp/information/live/detail-825.php"
-        }
-      ]
-    },
-    {
       "id": "v16-0071",
       "date": "2026-12-25",
       "artist": "Chage",
@@ -59565,1066 +66301,24 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
-      "id": "v16-0073",
-      "date": "2026-01-20",
+      "id": "v16-0029",
+      "date": "2026-12-26",
       "artist": "ASKA",
-      "category": "other",
-      "title": "『ASKA CONCERT TOUR 2024>>2025 -Who is ASKA !?-』ドキュメンタリーブック追加公演版 発売",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "書籍の発売日。音源・映像ではなく出版物",
-      "sources": [
-        {
-          "label": "公式発売・公開案内",
-          "url": "https://www.fellows.tokyo/news/list/1/7/"
-        }
-      ]
-    },
-    {
-      "id": "v16-0074",
-      "date": "2026-01-31",
-      "artist": "ASKA",
-      "category": "release",
-      "title": "『FIRST SAIL “COMTEC PORTBASE OPENING CEREMONY” ～ ASKA Live Docking ～』配信リリース",
-      "status": "released",
-      "verification": "secondary",
-      "releaseTitle": "FIRST SAIL “COMTEC PORTBASE OPENING CEREMONY” ～ ASKA Live Docking ～",
-      "note": "2025年4月16日公演の収録映像配信。cavcによる補助確認",
-      "sources": [
-        {
-          "label": "公式発売案内・cavc補助",
-          "url": "https://w.atwiki.jp/cavc/pages/363.html"
-        }
-      ]
-    },
-    {
-      "id": "v16-0075",
-      "date": "2026-03-25",
-      "artist": "Chage",
-      "category": "release",
-      "title": "デジタルライブアルバム『ChageLiveTour2025 Mr.November』配信開始",
-      "status": "released",
-      "verification": "primary",
-      "releaseTitle": "ChageLiveTour2025 Mr.November",
-      "note": "デジタルライブアルバム",
-      "sources": [
-        {
-          "label": "公式発売・公開案内",
-          "url": "https://chage.jp/information/release/detail-800.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0076",
-      "date": "2026-04-22",
-      "artist": "Chage",
-      "category": "release",
-      "title": "Blu-ray『ChageLiveTour2025 Mr.November』発売",
-      "status": "released",
-      "verification": "primary",
-      "releaseTitle": "ChageLiveTour2025 Mr.November",
-      "note": "ライブ映像作品",
-      "sources": [
-        {
-          "label": "公式発売・公開案内",
-          "url": "https://chage.jp/discography/chage/bd/018.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0077",
-      "date": "2026-05-29",
-      "artist": "Chage",
-      "category": "release",
-      "title": "吉田山田柴田「晴れ晴れ（ハレバレ）」配信開始",
-      "status": "released",
-      "verification": "primary",
-      "note": "Chageと吉田山田によるユニット",
-      "sources": [
-        {
-          "label": "公式発売・公開案内",
-          "url": "https://chage.jp/information/release/detail-819.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0078",
-      "date": "2026-06-30",
-      "artist": "Chage",
-      "category": "release",
-      "title": "シシド・チャゲ「Magic Knight（魔法夜曲）」配信開始",
-      "status": "released",
-      "verification": "primary",
-      "note": "Chageとシシド・カフカによるユニット",
-      "sources": [
-        {
-          "label": "公式発売・公開案内",
-          "url": "https://fanclub.chage.jp/sitenews.php?category=1&id=X%2FwV6tgdssIGbVcGCV7Qrg%3D%3D"
-        }
-      ]
-    },
-    {
-      "id": "v16-0079",
-      "date": "2026-09-09",
-      "artist": "Chage",
-      "category": "release",
-      "title": "アルバム『Ko』発売",
-      "status": "released",
-      "verification": "primary",
-      "releaseTitle": "Ko",
-      "note": "CDアルバム",
-      "sources": [
-        {
-          "label": "公式発売・公開案内",
-          "url": "https://www.universal-music.co.jp/chage/products/uicz-4711/"
-        }
-      ]
-    },
-    {
-      "id": "v16-0080",
-      "date": "2026-09-09",
-      "artist": "ASKA",
-      "category": "release",
-      "title": "玉置浩二・ASKA「音銀河」先行配信開始",
-      "status": "released",
-      "verification": "primary",
-      "note": "コラボ作品の先行配信日。9月16日のCD発売とは別",
-      "sources": [
-        {
-          "label": "公式発売・公開案内",
-          "url": "https://www.fellows.tokyo/news/list/1/7/"
-        }
-      ]
-    },
-    {
-      "id": "v16-0081",
-      "date": "2026-09-16",
-      "artist": "ASKA",
-      "category": "release",
-      "title": "玉置浩二・ASKA CDシングル『音銀河／命の宿り』発売",
-      "status": "released",
-      "verification": "primary",
-      "releaseTitle": "音銀河／命の宿り",
-      "note": "発売日および全曲配信開始日",
-      "sources": [
-        {
-          "label": "公式発売・公開案内",
-          "url": "https://www.fellows.tokyo/news/detail/740"
-        }
-      ]
-    },
-    {
-      "id": "v16-0082",
-      "date": "2026-09-23",
-      "artist": "ASKA",
-      "category": "release",
-      "title": "『ASKA CONCERT 2026 昭和が見ていたクリスマス!?』Blu-ray＋Live CD発売",
-      "status": "released",
-      "verification": "primary",
-      "releaseTitle": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
-      "note": "映像作品とライブCDのセット",
-      "sources": [
-        {
-          "label": "公式発売・公開案内",
-          "url": "https://www.fellows.tokyo/news/list/1/7/"
-        }
-      ]
-    },
-    {
-      "id": "v16-0083",
-      "date": "2026-10-10",
-      "artist": "Chage",
-      "category": "release",
-      "title": "「One Love～二人だけの軌跡～」Music Video Full Ver.公開",
-      "status": "released",
-      "verification": "primary",
-      "note": "MV公開日。新曲の音源発売日とは区別",
-      "sources": [
-        {
-          "label": "公式発売・公開案内",
-          "url": "https://chage.jp/information/"
-        }
-      ]
-    },
-    {
-      "id": "v16-0084",
-      "date": "2026-10-14",
-      "artist": "ASKA",
-      "category": "release",
-      "title": "玉置浩二・ASKA「音銀河」「命の宿り」MV同時公開",
-      "status": "released",
-      "verification": "primary",
-      "note": "映像の公開日。音源の発売日とは区別",
-      "sources": [
-        {
-          "label": "公式発売・公開案内",
-          "url": "https://www.fellows.tokyo/news/detail/779"
-        }
-      ]
-    },
-    {
-      "id": "v16-0085",
-      "date": "2026-01-17",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "WOWOW「氣志團万博2025 ～関東爆音パビリオン～」放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "2025年出演映像の放送",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://w.atwiki.jp/cavc/pages/363.html"
-        }
-      ]
-    },
-    {
-      "id": "v16-0086",
-      "date": "2026-03-13",
-      "artist": "Chage",
-      "category": "media",
-      "title": "BS10「Chageのずっと細道～東西南北～」放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "密着ドキュメンタリー",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://w.atwiki.jp/cavc/pages/363.html"
-        }
-      ]
-    },
-    {
-      "id": "v16-0087",
-      "date": "2026-03-15",
-      "artist": "Chage",
-      "category": "media",
-      "title": "BS10プレミアム「Chage Billboard Live 67 to 68」放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "1月公演収録映像の放送",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://w.atwiki.jp/cavc/pages/363.html"
-        }
-      ]
-    },
-    {
-      "id": "v16-0088",
-      "date": "2026-03-17",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "NHK BSP4K「玉置浩二ショー」出演",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "玉置浩二と共演。放送日に登録",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://w.atwiki.jp/cavc/pages/363.html"
-        }
-      ]
-    },
-    {
-      "id": "v16-0089",
-      "date": "2026-05-02",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "Travel TV「ROOTS」第1回 配信",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "放送・配信日",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://w.atwiki.jp/cavc/pages/363.html"
-        }
-      ]
-    },
-    {
-      "id": "v16-0090",
-      "date": "2026-05-09",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "Travel TV「ROOTS」第2回 配信",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "放送・配信日",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://w.atwiki.jp/cavc/pages/363.html"
-        }
-      ]
-    },
-    {
-      "id": "v16-0091",
-      "date": "2026-05-16",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "Travel TV「ROOTS」第3回 配信",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "放送・配信日",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://w.atwiki.jp/cavc/pages/363.html"
-        }
-      ]
-    },
-    {
-      "id": "v16-0092",
-      "date": "2026-05-23",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "Travel TV「ROOTS」第4回 配信",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "放送・配信日",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://w.atwiki.jp/cavc/pages/363.html"
-        }
-      ]
-    },
-    {
-      "id": "v16-0093",
-      "date": "2026-07-29",
-      "artist": "Chage",
-      "category": "media",
-      "title": "フジテレビ「ノンストップ！」でChage出演ライブの模様を放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "Chage出演VTR",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://w.atwiki.jp/cavc/pages/363.html"
-        }
-      ]
-    },
-    {
-      "id": "v16-0094",
-      "date": "2026-09-03",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "TOKYO FM「Skyrocket Company」にゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "本人ブログで出演後を確認",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://www.fellows.tokyo/blog/detail/1433/"
-        }
-      ]
-    },
-    {
-      "id": "v16-0095",
-      "date": "2026-09-21",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM福岡「FM SOUND FILE SHINE」コメント出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ラジオ出演",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://chage.jp/information/media/detail-876.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0096",
-      "date": "2026-09-24",
-      "artist": "Chage",
-      "category": "media",
-      "title": "TOKYO FM「TOKYO SPEAKEASY」出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ラジオ出演",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://chage.jp/information/media/detail-876.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0097",
-      "date": "2026-09-25",
-      "artist": "Chage",
-      "category": "media",
-      "title": "TBSラジオ「えんがわ」生ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ラジオ出演",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://chage.jp/information/media/detail-876.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0098",
-      "date": "2026-09-26",
-      "artist": "Chage",
-      "category": "media",
-      "title": "FM福岡「カムカムFM FUKUOKA」出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ラジオ出演",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://chage.jp/information/media/detail-876.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0099",
-      "date": "2026-10-05",
-      "artist": "Chage",
-      "category": "media",
-      "title": "RKBラジオ「白岳KAORU研究所」出演（第1回）",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ラジオ出演",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://chage.jp/information/media/detail-876.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0100",
-      "date": "2026-10-11",
-      "artist": "Chage",
-      "category": "media",
-      "title": "K-MIX「CHIHIROPE SUNDAY LOUNGE」出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ラジオ出演",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://chage.jp/information/media/detail-886.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0101",
-      "date": "2026-10-12",
-      "artist": "Chage",
-      "category": "media",
-      "title": "RKBラジオ「白岳KAORU研究所」出演（第2回）",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ラジオ出演",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://chage.jp/information/media/detail-876.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0102",
-      "date": "2026-10-18",
-      "artist": "Chage",
-      "category": "media",
-      "title": "K-MIX「CHIHIROPE SUNDAY LOUNGE」出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ラジオ出演",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://chage.jp/information/media/detail-886.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0103",
-      "date": "2026-10-19",
-      "artist": "Chage",
-      "category": "media",
-      "title": "RKBラジオ「白岳KAORU研究所」出演（第3回）",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ラジオ出演",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://chage.jp/information/media/detail-876.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0104",
-      "date": "2026-10-26",
-      "artist": "Chage",
-      "category": "media",
-      "title": "RKBラジオ「白岳KAORU研究所」出演（第4回）",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ラジオ出演",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://chage.jp/information/media/detail-876.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0105",
-      "date": "2026-10-10",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "YouTubeラジオ「ASKA Lock-on Radio」初回配信",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "公式スタッフブログの開始記録",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://www.fellows.tokyo/"
-        }
-      ]
-    },
-    {
-      "id": "v16-0106",
-      "date": "2026-11-12",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "YouTubeラジオ「ASKA Lock-on Radio」第2回配信",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "公式告知にて確認",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://www.fellows.tokyo/"
-        }
-      ]
-    },
-    {
-      "id": "v16-0107",
-      "date": "2026-11-16",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "Kiss FM KOBE「BEAT IT」生ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "公式スケジュール告知",
-      "sources": [
-        {
-          "label": "公式・cavcメディア記録",
-          "url": "https://www.fellows.tokyo/"
-        }
-      ]
-    },
-    {
-      "id": "v16-0108",
-      "date": "2026-08-12",
-      "artist": "Chage",
-      "category": "other",
-      "title": "アート展「Chage Presents One Love ～夏ノ余白～」開幕",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "世田谷美術館 区民ギャラリー",
-      "prefecture": "東京都",
-      "country": "日本",
-      "note": "会期8月12～16日。ライブではなく展示会。開始日の1件として登録",
-      "sources": [
-        {
-          "label": "Chage公式：アート展示会告知",
-          "url": "https://chage.jp/information/news/detail-832.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0109",
-      "date": "2026-12-19",
-      "artist": "Chage",
-      "category": "other",
-      "title": "FAN MEETING 2026「Chappyと冬ノ余白 2026年のありがとう」開始",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
       "status": "scheduled",
       "verification": "primary",
-      "venue": "琵琶湖グランドホテル",
-      "prefecture": "滋賀県",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "熊本城ホール メインホール",
+      "prefecture": "熊本県",
       "country": "日本",
-      "note": "【開催予定・2026年11月17日時点】 12月19～20日の2日間開催。公演数ではなくイベント開始日として1件登録",
+      "performanceNo": 29,
+      "startTime": "18:00",
+      "note": "【開催予定・2026年11月17日時点】",
       "sources": [
         {
-          "label": "Chage公式：ファンミーティング告知",
-          "url": "https://chage.jp/information/fanclub/detail-880.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0110",
-      "date": "2026-09-18",
-      "artist": "ASKA",
-      "category": "other",
-      "title": "ASKAライブ映像配信サービス「ASKA GARAGE」開始",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "定額動画配信サービス開始記録",
-      "sources": [
-        {
-          "label": "ASKA公式：サービス開始告知",
-          "url": "https://www.fellows.tokyo/news/detail/762"
-        }
-      ]
-    },
-    {
-      "id": "v16-0111",
-      "date": "2026-09-01",
-      "artist": "ASKA",
-      "category": "other",
-      "title": "『ASKA CONCERT 2026 昭和が見ていたクリスマス!?』劇場先行上映開始",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "9月1～10日は13劇場、9月11～17日は6劇場で上映。生演奏のライブではなく映画館上映／開始日で1件のみ登録",
-      "sources": [
-        {
-          "label": "ASKA公式：上映館・期間発表",
-          "url": "https://www.fellows.tokyo/news/detail/737"
-        }
-      ]
-    },
-    {
-      "id": "v16-0112",
-      "date": "2026-09-05",
-      "artist": "ASKA",
-      "category": "other",
-      "title": "『昭和が見ていたクリスマス!?』先行上映 お台場舞台挨拶",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "ユナイテッド・シネマ アクアシティお台場",
-      "prefecture": "東京都",
-      "country": "日本",
-      "note": "ASKA本人と出演メンバーが舞台挨拶。劇場上映イベントでありコンサート公演ではない",
-      "sources": [
-        {
-          "label": "ASKA本人ブログ：当日の実施報告",
-          "url": "https://www.fellows.tokyo/blog/detail/1436/?page=2"
-        }
-      ]
-    },
-    {
-      "id": "v16-0113",
-      "date": "2026-09-13",
-      "artist": "ASKA",
-      "category": "other",
-      "title": "『昭和が見ていたクリスマス!?』先行上映 札幌舞台挨拶",
-      "status": "recorded",
-      "verification": "secondary",
-      "venue": "ローソン・ユナイテッドシネマ札幌",
-      "prefecture": "北海道",
-      "country": "日本",
-      "note": "9月13日13:00の舞台挨拶予定を公式告知と補助公演記録で照合。開催後の一次報告は未確認／生演奏ライブではない",
-      "sources": [
-        {
-          "label": "ASKA公式：舞台挨拶予告",
-          "url": "https://www.fellows.tokyo/blog/detail/1436/?page=2"
-        }
-      ]
-    },
-    {
-      "id": "v16-0114",
-      "date": "2026-08-25",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "CHAGE and ASKA デビュー47周年",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "1979年8月25日デビューから47周年",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "v16-0115",
-      "date": "2026-01-14",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "11:30",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0116",
-      "date": "2026-01-14",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "15:00",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0117",
-      "date": "2026-02-18",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "11:30",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0118",
-      "date": "2026-02-18",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "15:00",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0119",
-      "date": "2026-03-18",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "11:30",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0120",
-      "date": "2026-03-18",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "15:00",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0121",
-      "date": "2026-04-15",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "11:30",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0122",
-      "date": "2026-04-15",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "15:00",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0123",
-      "date": "2026-05-13",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "11:30",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0124",
-      "date": "2026-05-13",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "15:00",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0125",
-      "date": "2026-06-10",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "11:30",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0126",
-      "date": "2026-06-10",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "15:00",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0127",
-      "date": "2026-07-08",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "11:30",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0128",
-      "date": "2026-07-08",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "15:00",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0129",
-      "date": "2026-08-19",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "11:30",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0130",
-      "date": "2026-08-19",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "15:00",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0131",
-      "date": "2026-09-09",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "11:30",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0132",
-      "date": "2026-09-09",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "15:00",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0133",
-      "date": "2026-10-21",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "11:30",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0134",
-      "date": "2026-10-21",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
-      "status": "recorded",
-      "verification": "primary",
-      "startTime": "15:00",
-      "note": "Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0135",
-      "date": "2026-11-18",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第1部",
-      "status": "scheduled",
-      "verification": "primary",
-      "startTime": "11:30",
-      "note": "【開催予定・2026年11月17日時点】 Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0136",
-      "date": "2026-11-18",
-      "artist": "Chage",
-      "category": "other",
-      "title": "オンラインファンミーティング2026「Fa Fa Fa Fa ファンミーティング！」第2部",
-      "status": "scheduled",
-      "verification": "primary",
-      "startTime": "15:00",
-      "note": "【開催予定・2026年11月17日時点】 Zoomを使用するFC会員向け交流イベント。音楽ライブではない／1st・2ndを別登録",
-      "sources": [
-        {
-          "label": "Chage公式ファンクラブ：全日程・2部制",
-          "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
+          "label": "ASKA公式：Lock-on特設サイト",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
         }
       ]
     },
@@ -60659,5538 +66353,6 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式ファンクラブ：全日程・2部制",
           "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
-        }
-      ]
-    },
-    {
-      "id": "v16-0139",
-      "date": "2026-03-15",
-      "artist": "Chage",
-      "category": "other",
-      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "小倉昭和館",
-      "prefecture": "福岡県",
-      "country": "日本",
-      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
-      "sources": [
-        {
-          "label": "Chage公式：上映会日程",
-          "url": "https://chage.jp/information/release/detail-800.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0140",
-      "date": "2026-04-03",
-      "artist": "Chage",
-      "category": "other",
-      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "109シネマズプレミアム新宿",
-      "prefecture": "東京都",
-      "country": "日本",
-      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
-      "sources": [
-        {
-          "label": "Chage公式：上映会日程",
-          "url": "https://chage.jp/information/release/detail-800.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0141",
-      "date": "2026-04-04",
-      "artist": "Chage",
-      "category": "other",
-      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "109シネマズプレミアム新宿",
-      "prefecture": "東京都",
-      "country": "日本",
-      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
-      "sources": [
-        {
-          "label": "Chage公式：上映会日程",
-          "url": "https://chage.jp/information/release/detail-800.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0142",
-      "date": "2026-04-04",
-      "artist": "Chage",
-      "category": "other",
-      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "109シネマズ名古屋",
-      "prefecture": "愛知県",
-      "country": "日本",
-      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
-      "sources": [
-        {
-          "label": "Chage公式：上映会日程",
-          "url": "https://chage.jp/information/release/detail-800.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0143",
-      "date": "2026-04-05",
-      "artist": "Chage",
-      "category": "other",
-      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "109シネマズプレミアム新宿",
-      "prefecture": "東京都",
-      "country": "日本",
-      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
-      "sources": [
-        {
-          "label": "Chage公式：上映会日程",
-          "url": "https://chage.jp/information/release/detail-800.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0144",
-      "date": "2026-04-05",
-      "artist": "Chage",
-      "category": "other",
-      "title": "『ChageLiveTour2025 Mr.November』バリカタ上映会",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "109シネマズ箕面",
-      "prefecture": "大阪府",
-      "country": "日本",
-      "note": "ライブ映像の劇場上映。ステージ演奏の公演数には含めない／当日の上映回数は未照合",
-      "sources": [
-        {
-          "label": "Chage公式：上映会日程",
-          "url": "https://chage.jp/information/release/detail-800.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0145",
-      "date": "2026-05-30",
-      "artist": "Chage",
-      "category": "other",
-      "title": "FAN MEETING 2026 @Spa Resort Hawaiians 開始",
-      "status": "recorded",
-      "verification": "primary",
-      "venue": "スパリゾートハワイアンズ",
-      "prefecture": "福島県",
-      "country": "日本",
-      "note": "5月30～31日の2日間。イベント開始日のみ登録／公演回数は未確認",
-      "sources": [
-        {
-          "label": "Chage公式：ファンミーティング日程",
-          "url": "https://chage.jp/information/fanclub/detail-807.php"
-        }
-      ]
-    },
-    {
-      "id": "v16-0146",
-      "date": "2026-08-01",
-      "artist": "Chage",
-      "category": "other",
-      "title": "「Chageのずっとリアルファンミ」鹿児島公演分 延期前予定",
-      "status": "postponed",
-      "verification": "primary",
-      "venue": "鹿児島CAPARVO HALL",
-      "prefecture": "鹿児島県",
-      "country": "日本",
-      "note": "【延期前の予定】地震の影響で開催見送り。振替は2027年1月29日（開催済みとして数えない）",
-      "sources": [
-        {
-          "label": "Chage公式：鹿児島イベント延期",
-          "url": "https://chage.jp/information/live/detail-857.php"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1978-001",
-      "date": "1978-10-15",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。第16回ポピュラーソングコンテストつま恋本選会の模様。「流恋情歌」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1978年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/68.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1978-002",
-      "date": "1978-11-11",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「第16回ポピュラーソングコンテストつま恋本選会」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。「流恋情歌」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1978年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/68.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1979-001",
-      "date": "1979-01-28",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。九州出身アーティスト特集。「流恋情歌」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/17.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1979-002",
-      "date": "1979-04-21",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ポピュラーソングコンテスト九州大会」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "FBS福岡放送。第17回ポプコン九州大会の模様。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/17.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1979-003",
-      "date": "1979-05-20",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。「ひとり咲き」、ポプコン本選会の紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/17.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1979-004",
-      "date": "1979-08-05",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。デビュー直前の出演。「ひとり咲き」ほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/17.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1979-005",
-      "date": "1979-09-22",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ポピュラーソングコンテスト九州大会」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "FBS福岡放送。ゲスト出演。「ひとり咲き」ほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/17.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1979-006",
-      "date": "1979-11-04",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。放送記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/17.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1979-007",
-      "date": "1979-11-12",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。初出演。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/17.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1979-008",
-      "date": "1979-12-03",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/17.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1979-009",
-      "date": "1979-12-22",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ニュー・ウェーブ・コンサート」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1979年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/17.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-001",
-      "date": "1980-01-04",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「ニューイヤーライブコンサート」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK-FM。1979年12月のNHKホール公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-002",
-      "date": "1980-01-13",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「レッツゴーヤング―郁恵＆陽介ジョイント・ショー―」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-003",
-      "date": "1980-01-14",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-004",
-      "date": "1980-02-18",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-005",
-      "date": "1980-02-24",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。「ひとり咲き」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-006",
-      "date": "1980-03-16",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「レッツゴーヤング―'79リクエスト・ショー―」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。「ひとり咲き」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-007",
-      "date": "1980-05-04",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。4月20日NEMU SPRING FESTIVAL '80の模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-008",
-      "date": "1980-05-18",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。放送記録。詳細は要確認。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-009",
-      "date": "1980-05-20",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックフェア'80」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。番組初出演。「流恋情歌」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-010",
-      "date": "1980-07-13",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「わが旅わが心 チャゲ&飛鳥のヤァヤァヤァ 西九州～壱岐の旅」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。西九州・壱岐の旅番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-011",
-      "date": "1980-07-20",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。アルバム「風舞」特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-012",
-      "date": "1980-08-24",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。「幻夜」「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-013",
-      "date": "1980-09-29",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-014",
-      "date": "1980-11-02",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「レッツゴーヤング」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-015",
-      "date": "1980-11-04",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックフェア'80」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-016",
-      "date": "1980-11-15",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「アップルハウス」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。番組出演記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-017",
-      "date": "1980-11-22",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「サウンドメッセージ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。学園祭の様子を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-018",
-      "date": "1980-11-27",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。「万里の河」、スポットライトで紹介（20位）。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1980-019",
-      "date": "1980-12-18",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。「万里の河」、ベストテン初ランクイン（8位）。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1980年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-001",
-      "date": "1981-01-03",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「チャゲ&飛鳥 ライヴ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK-FM。スタジオライブ特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-002",
-      "date": "1981-01-05",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-003",
-      "date": "1981-01-08",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「600 こちら情報部」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。「時代が求める音楽 チャゲ&飛鳥」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-004",
-      "date": "1981-01-08",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。「万里の河」第4位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-005",
-      "date": "1981-01-11",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。放送記録。詳細は要確認。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-006",
-      "date": "1981-01-15",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。「万里の河」第6位。東北新幹線小山駅付近から出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-007",
-      "date": "1981-02-05",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。「万里の河」第6位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-008",
-      "date": "1981-02-12",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。「万里の河」第6位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-009",
-      "date": "1981-02-15",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。「荒野」「翼」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-010",
-      "date": "1981-02-15",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「レッツゴーヤング」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。「翼」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-011",
-      "date": "1981-02-22",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ヤングおー!おー!」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "MBS。「万里の河」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-012",
-      "date": "1981-02-26",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。「万里の河」第10位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-013",
-      "date": "1981-03-29",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。チャゲ&飛鳥特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-014",
-      "date": "1981-05-04",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「Lo-D ライブコンサート」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "東京FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-015",
-      "date": "1981-05-16",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「第21回ポピュラーソングコンテスト関東甲信越大会」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。石川優子とナビゲーターとして出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-016",
-      "date": "1981-05-17",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。NEMU SPRING FESTIVAL '81の模様。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-017",
-      "date": "1981-06-01",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。「放浪人(TABIBITO)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-018",
-      "date": "1981-06-23",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックフェア'81」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。「放浪人(TABIBITO)」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-019",
-      "date": "1981-06-28",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。クリスタルキングと出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-020",
-      "date": "1981-07-13",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。「放浪人(TABIBITO)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-021",
-      "date": "1981-08-15",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「チャゲ&飛鳥 ザ・夏まつり」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "東京FM。8月1日田園コロシアム公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-022",
-      "date": "1981-08-23",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ヤングおー!おー!」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "MBS。「真夏の国境」「放浪人(TABIBITO)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-023",
-      "date": "1981-10-04",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-024",
-      "date": "1981-10-31",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「第22回ポピュラーソングコンテストつま恋本選会」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。放送記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-025",
-      "date": "1981-11-04",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「第12回 世界歌謡祭」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。歌謡祭のショータイムを放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-026",
-      "date": "1981-11-14",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。世界歌謡祭の模様。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-027",
-      "date": "1981-11-21",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-028",
-      "date": "1981-11-22",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「レッツゴーヤング」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-029",
-      "date": "1981-11-29",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ヤングおー!おー!」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "MBS。「男と女」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-030",
-      "date": "1981-12-05",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「サンデー・ジャンボ・スペシャル」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "STVラジオ。ゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-031",
-      "date": "1981-12-26",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップスペシャル チャゲ&飛鳥 全国縦断コンサート」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。学園祭ツアーの模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1981-032",
-      "date": "1981-12-27",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「レッツゴーヤング―リクエストショー―」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。「男と女」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1981年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/19.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1982-001",
-      "date": "1982-01-08",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。「放浪人(TABIBITO)」「男と女」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/20.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1982-002",
-      "date": "1982-02-13",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。チャゲ&飛鳥特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/20.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1982-003",
-      "date": "1982-04-17",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。「熱い想い」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/20.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1982-004",
-      "date": "1982-05-15",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。NEMU SPRING FESTIVAL '82の模様。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/20.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1982-005",
-      "date": "1982-05-29",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「コッキーポップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。チャゲ&飛鳥特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/20.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1982-006",
-      "date": "1982-05-30",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「ニュー・ミュージック・ナウ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TOKYO-FM。4月25日のNEMU SPRING FESTIVAL '82を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/20.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1982-007",
-      "date": "1982-11-15",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。「北風物語」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1982年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/20.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1983-001",
-      "date": "1983-02-01",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「笑っていいとも！」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。テレフォンショッキング。坂崎幸之助から紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/24.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1983-002",
-      "date": "1983-02-08",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「突然ガバチョ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "MBS。出演記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/24.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1983-003",
-      "date": "1983-03-06",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「NHK-FM LIVEスペシャル」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK-FM。NHKホール公演の生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/24.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1983-004",
-      "date": "1983-03-30",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「貴方にお手上げ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "ニッポン放送。最終回。ミニコンサート。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/24.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1983-005",
-      "date": "1983-04-09",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「オールナイトフジ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/24.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1983-006",
-      "date": "1983-05-17",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ「突然ガバチョ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "MBS。ASKAが「あんたのバラード」を歌唱。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/24.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1983-007",
-      "date": "1983-05-23",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・トップテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。「マリオネット」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/24.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1983-008",
-      "date": "1983-05-31",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「突然ガバチョ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "MBS。出演記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/24.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1983-009",
-      "date": "1983-06-05",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「レッツゴーヤング―ファッション満載！パンチで勝負―」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。「マリオネット」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/24.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1983-010",
-      "date": "1983-06-07",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・ベストヒット'83」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。「マリオネット」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/24.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1983-011",
-      "date": "1983-08-03",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ふりーばる'83 ザ・夏」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。「Fifty-Fifty」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/24.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1983-012",
-      "date": "1983-09-07",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「悪友親友」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。長渕剛を交えてトーク。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/24.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1983-013",
-      "date": "1983-09-08",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「悪友親友」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。長江健次を交えてトーク。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/24.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1983-014",
-      "date": "1983-10-16",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「レッツゴーヤング―スパーク！ヤングパワー―」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。「華やかに傷ついて」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/24.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1983-015",
-      "date": "1983-12-06",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「MBSヤングタウン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "毎日放送。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1983年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/24.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-001",
-      "date": "1984-02-06",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「昼の歌謡曲」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "放送局未記載。ラジオ出演記録。放送局は要照合。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-002",
-      "date": "1984-03-12",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。「MOON LIGHT BLUES」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-003",
-      "date": "1984-04-08",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「歌謡ドッキリ大放送!!」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。「MOON LIGHT BLUES」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-004",
-      "date": "1984-04-30",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。石川優子との共演。「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-005",
-      "date": "1984-05-12",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「クイズ 地球どんぶり」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-006",
-      "date": "1984-05-19",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「ニュー・サウンズ・スペシャル」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "放送局未記載。ラジオ出演記録。放送局は要照合。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-007",
-      "date": "1984-05-24",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。TBS公式番組案内で出演が確認できた放送日。",
-      "sources": [
-        {
-          "label": "TBSチャンネル公式｜ザ・ベストテン1984年5月24日放送",
-          "url": "https://www.tbs.co.jp/tbs-ch/special/the_bestten/"
-        },
-        {
-          "label": "cavc｜1984年 TV・ラジオ出演記録",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-008",
-      "date": "1984-06-07",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。スポットライト。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-009",
-      "date": "1984-06-09",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「アイドル歌手大集合」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。「華やかに傷ついて」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-010",
-      "date": "1984-06-14",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」第7位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-011",
-      "date": "1984-06-21",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。「ふたりの愛ランド」。二元中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-012",
-      "date": "1984-06-23",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「FM LIVE 音楽って何だ！」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TOKYO-FM。石川優子と共演したライブを放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-013",
-      "date": "1984-06-25",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。石川優子との共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-014",
-      "date": "1984-06-25",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・トップテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。石川優子との共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-015",
-      "date": "1984-06-26",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「MBSヤングタウン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "毎日放送。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-016",
-      "date": "1984-06-28",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-017",
-      "date": "1984-07-02",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・トップテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。石川優子との共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-018",
-      "date": "1984-07-05",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-019",
-      "date": "1984-07-09",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・トップテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。石川優子との共演。名古屋球場から中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-020",
-      "date": "1984-07-12",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-021",
-      "date": "1984-07-16",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・トップテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-022",
-      "date": "1984-07-19",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。松山市民会館から中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-023",
-      "date": "1984-07-22",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「Do Up歌謡テレビ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。石川優子と「渚の誓い」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-024",
-      "date": "1984-07-26",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」第2位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-025",
-      "date": "1984-07-29",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「レッツゴーヤング―ビッグ！チャゲ＆飛鳥―」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。「MOON LIGHT BLUES」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-026",
-      "date": "1984-07-30",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・トップテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-027",
-      "date": "1984-08-02",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-028",
-      "date": "1984-08-06",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・トップテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-029",
-      "date": "1984-08-09",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」第2位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-030",
-      "date": "1984-08-14",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「チャゲ&飛鳥 武道館愛ランド」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TOKYO-FM。8月8・9日のSUPER EVENT INSIDEの模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-031",
-      "date": "1984-08-16",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-032",
-      "date": "1984-08-19",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「南こうせつ サマーピクニック恋の浦」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TOKYO-FM。8月4〜5日のイベントの模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-033",
-      "date": "1984-08-20",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・トップテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-034",
-      "date": "1984-08-23",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-035",
-      "date": "1984-10-01",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・トップテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-036",
-      "date": "1984-11-07",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ「友よ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。テレビドラマ出演。cavcはASKAのドラマ初出演と記載。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-037",
-      "date": "1984-11-11",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「Do Up 歌謡テレビ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-038",
-      "date": "1984-11-19",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・トップテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-039",
-      "date": "1984-12-09",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「レッツゴーヤング―フレッシュ―」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1984-040",
-      "date": "1984-12-27",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン(豪華版)」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。石川優子と「ふたりの愛ランド」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1984年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/25.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1985-001",
-      "date": "1985-02-17",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「Do Up 歌謡テレビ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。「誘惑のベルが鳴る」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/26.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1985-002",
-      "date": "1985-02-24",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「Do Up 歌謡テレビ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。「オンリー・ロンリー」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/26.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1985-003",
-      "date": "1985-03-29",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「LIVE G」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。憂歌団と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/26.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1985-004",
-      "date": "1985-06-17",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「さんまのまんま」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。トーク出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/26.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1985-005",
-      "date": "1985-07-10",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ヤンヤン歌うスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ東京。放送記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/26.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1985-006",
-      "date": "1985-08-25",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「アイドル歌手大集合―第３編―」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "アナログ衛星第１。「標的(ターゲット)」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/26.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1985-007",
-      "date": "1985-11-20",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。「ボヘミアン」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/26.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1985-008",
-      "date": "1985-12-20",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「NEW AGE MUSIC」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ東京。「誘惑のベルが鳴る」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/26.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1985-009",
-      "date": "1985-12-27",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「NEW AGE MUSIC」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ東京。「東京CARRY ON」など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/26.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1985-010",
-      "date": "1985-12-31",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「大晦日チャリティースペシャル 世界紅白歌合戦」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。「ボヘミアン」。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/26.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1985-011",
-      "date": "1985-04-06",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「ニュー・サウンズ・スペシャル」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK-FM。スタジオライブ音源。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/26.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1985-012",
-      "date": "1985-06-15",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「Lo-D LIVE CONCERT」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TOKYO-FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/26.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v17-1985-013",
-      "date": "1985-07-27",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「チャゲ&飛鳥 THE夏祭り'85 小戸 TWILIGHT ZONE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "FM福岡。7月27日小戸公園公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1985年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/26.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-001",
-      "date": "1986-01-11",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「スーパーチャンネル」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TNC。福岡サンパレス公演の映像を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-002",
-      "date": "1986-01-12",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「チャゲ&飛鳥 NEW YEARコンサート'86」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TNC。1986年1月4日・福岡サンパレスの公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-003",
-      "date": "1986-01-22",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-004",
-      "date": "1986-02-15",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「合言葉は音楽気分」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。ポプコン同窓会。共演：石川優子ほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-005",
-      "date": "1986-02-26",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-006",
-      "date": "1986-03-02",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ヤンヤン歌うスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ東京。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-007",
-      "date": "1986-03-27",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。モーニングムーン。第9位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-008",
-      "date": "1986-03-31",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・トップテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。モーニングムーン。第9位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-009",
-      "date": "1986-04-03",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。モーニングムーン。第10位。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-010",
-      "date": "1986-04-09",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-011",
-      "date": "1986-04-17",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-012",
-      "date": "1986-04-26",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「YOU 今，若者は音楽専科」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。笑福亭鶴瓶・三枝成章出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-013",
-      "date": "1986-04-27",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ヤングスタジオ101」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-014",
-      "date": "1986-04-27",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「オールナイトフジ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。モーニングムーンほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-015",
-      "date": "1986-05-14",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。黄昏を待たずに。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-016",
-      "date": "1986-05-23",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「TORO AND UNI」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "毎日放送。円広志司会のゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-017",
-      "date": "1986-05-31",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックショットガン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "RSKテレビ。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-018",
-      "date": "1986-06-08",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ヤングスタジオ101」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。黄昏を待たずに。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-019",
-      "date": "1986-06-08",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ロッテ歌のアルバムNOW」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。黄昏を待たずに。TBSスタジオから生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-020",
-      "date": "1986-06-19",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ「笑っていいとも！」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキングにASKA単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-021",
-      "date": "1986-06-25",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。黄昏を待たずに。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-022",
-      "date": "1986-07-02",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「Music Tomato Japan CHAGE&ASUKA SPECIAL」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TVK。番組特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-023",
-      "date": "1986-07-06",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ヤンヤン歌うスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ東京。Count Down。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-024",
-      "date": "1986-08-06",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。Count Down。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-025",
-      "date": "1986-08-24",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ヤングスタジオ101 ―チャゲ＆飛鳥サウンドの魅力を探る―」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。番組特集・未収録曲披露の記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-026",
-      "date": "1986-08-29",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「NEW AGE MUSIC」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ東京。1986年5月29日渋谷公会堂公演から。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-027",
-      "date": "1986-09-03",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。Count Down。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-028",
-      "date": "1986-09-28",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ヤングスタジオ101「マッチ・天宮“青春”をうたう」」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。Count Down。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-029",
-      "date": "1986-10-06",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックトマトジャパン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TVK。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-030",
-      "date": "1986-10-29",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。指環が泣いた。ばんばひろふみとの共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-031",
-      "date": "1986-11-21",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。指環が泣いた。cavcは初出場と記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-032",
-      "date": "1986-11-23",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ヤンヤン歌うスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ東京。指環が泣いた。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-033",
-      "date": "1986-11-26",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。指環が泣いた。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-034",
-      "date": "1986-11-27",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックトマトジャパン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ神奈川。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-035",
-      "date": "1986-12-31",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「世界紅白歌合戦（夜のヒットスタジオ）」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ロンドンから中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-036",
-      "date": "1986-05-24",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「ニュー・サウンズ・スペシャル」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK-FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-037",
-      "date": "1986-07-05",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「Lo-D LIVE CONCERT」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TOKYO-FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-038",
-      "date": "1986-07-12",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「オールナイトニッポン スペシャル」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "ニッポン放送。ゲストを交えたトーク・スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1986-039",
-      "date": "1986-08-18",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「チャゲ＆飛鳥 LIVE IN 飛鳥記念公園」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "放送局未記載。1986年7月27日・明日香村歴史公園公演の模様。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1986年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/27.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-001",
-      "date": "1987-01-02",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「さんまのまんま」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。VTR年賀状出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-002",
-      "date": "1987-01-14",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。TURNING POINT。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-003",
-      "date": "1987-01-23",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。指環が泣いた。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-004",
-      "date": "1987-02-08",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・サンデー」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。指環が泣いた。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-005",
-      "date": "1987-02-08",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックフェア'87」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。サーカス・荻野目洋子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-006",
-      "date": "1987-03-20",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。TURNING POINT。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-007",
-      "date": "1987-05-02",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「Endless Night」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "ABC。生出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-008",
-      "date": "1987-06-01",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「歌のトップテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。SAILOR MAN。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-009",
-      "date": "1987-06-03",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。SAILOR MAN。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-010",
-      "date": "1987-06-12",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。SAILOR MAN。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-011",
-      "date": "1987-07-31",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「CHAGE&ASUKA CONCERT TOUR '87 WE SHALL RETURN」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。1987年6月14日・国立代々木競技場第一体育館公演の映像。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-012",
-      "date": "1987-08-08",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「NTTサウンドスペシャル 雅俊・チャゲ&飛鳥 IN ASPECTA」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。1987年7月25日・南阿蘇ASPECTAでの公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-013",
-      "date": "1987-09-23",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ロマンシングヤード。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-014",
-      "date": "1987-09-23",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「これが新選組だ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。MY Mr.LONELY HEART。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-015",
-      "date": "1987-09-25",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。MY Mr.LONELY HEART。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-016",
-      "date": "1987-10-01",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「翔べ！飛べ！少年隊SP」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。ロマンシングヤードほか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-017",
-      "date": "1987-10-01",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ「TV時代劇スペシャル 新選組 第一部」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。若い伊藤博文役で出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-018",
-      "date": "1987-10-02",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。ロマンシングヤード。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-019",
-      "date": "1987-10-03",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「オールナイトフジ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。MY Mr.LONELY HEARTなど。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-020",
-      "date": "1987-10-08",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ「TV時代劇スペシャル 新選組 第二部」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。若い伊藤博文役で出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-021",
-      "date": "1987-10-25",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「オージー・ボウル'87」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-022",
-      "date": "1987-10-30",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「いきなりフライデーナイト」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-023",
-      "date": "1987-10-30",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ「ニュースステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。ASKAゲスト。MY Mr.LONELY HEART紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-024",
-      "date": "1987-11-13",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。MY Mr.LONELY HEART。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-025",
-      "date": "1987-12-04",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「笑っていいとも！」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキング出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-026",
-      "date": "1987-12-06",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「笑っていいとも！増刊号」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。未公開場面を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-027",
-      "date": "1987-12-06",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックスクエア」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ愛知。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-028",
-      "date": "1987-06-21",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「パワーステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TOKYO-FM。1987年6月13・14日国立代々木競技場第一体育館公演の放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-029",
-      "date": "1987-08-14",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「CHAGE&ASUKA LIVE IN EXPO」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "ラジオ大阪。1987年8月8日大阪万博記念陸上競技場のライブ録音。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1987-030",
-      "date": "1987-10-10",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「FM音楽共和国 Sound Community 10.10」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TOKYO-FM。FM東京ホールでの同日ライブ生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1987年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/28.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-001",
-      "date": "1988-01-29",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。恋人はワイン色。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-002",
-      "date": "1988-02-01",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「桃色学園都市宣言!!」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。あきらめのBlue Day。2月度オープニング。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-003",
-      "date": "1988-02-05",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「ニュースステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。CHAGE出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-004",
-      "date": "1988-02-22",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。恋人はワイン色。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-005",
-      "date": "1988-03-02",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。恋人はワイン色。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-006",
-      "date": "1988-03-03",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。恋人はワイン色。今週のスポットライト。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-007",
-      "date": "1988-03-05",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「オールナイトフジ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ミッドナイトコンサート生放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-008",
-      "date": "1988-03-18",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。恋人はワイン色。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-009",
-      "date": "1988-05-06",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。ラプソディ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-010",
-      "date": "1988-05-11",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「電影館」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。CHAGE出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-011",
-      "date": "1988-05-22",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックフェア'88」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。五輪真弓と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-012",
-      "date": "1988-05-25",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ラプソディ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-013",
-      "date": "1988-05-27",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。ラプソディ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-014",
-      "date": "1988-05-28",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ジャストポップアップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-015",
-      "date": "1988-06-01",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「サウンドスコール」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-016",
-      "date": "1988-07-22",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。ASKAソロ出演。夢はるか。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-017",
-      "date": "1988-07-27",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「男2」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。CHAGE単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-018",
-      "date": "1988-08-03",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ「男2」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ASKA単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-019",
-      "date": "1988-08-10",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ「笑っていいとも！」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキングにASKA単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-020",
-      "date": "1988-08-12",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「笑っていいとも！」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキングにCHAGE単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-021",
-      "date": "1988-08-17",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ASKAソロ。MIDNIGHT 2 CALL。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-022",
-      "date": "1988-08-21",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「オシャレ30・30」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "日本テレビ。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-023",
-      "date": "1988-08-26",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。ASKAソロ。蘇州夜曲。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-024",
-      "date": "1988-08-31",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ「サウンドスコール」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ASKAソロ。MIDNIGHT 2 CALL。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-025",
-      "date": "1988-09-08",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ジャストポップアップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。番組出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-026",
-      "date": "1988-10-05",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。Trip。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-027",
-      "date": "1988-10-28",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。Trip。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-028",
-      "date": "1988-11-11",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。Trip。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-029",
-      "date": "1988-12-02",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。Love Affair。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-030",
-      "date": "1988-12-04",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックフェア'88」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。本田美奈子・岩崎宏美と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-031",
-      "date": "1988-03-19",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「ニューサウンズスペシャル」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK-FM。1988年3月4日NHKスタジオのライブを放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1988-032",
-      "date": "1988-06-07",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「HITACHI FAN! FUN! TODAY」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "ニッポン放送。ライブ音源を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1988年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/29.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-001",
-      "date": "1989-01-14",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「CHAGE&ASUKA 武道館 ENERGY LIVE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TOKYO-FM。CONCERT TOUR'88 X'mas Specialの日本武道館公演の放送。cavc備考の収録日表記に矛盾あり、一次資料要照合。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-002",
-      "date": "1989-02-08",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。Love Affair。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-003",
-      "date": "1989-03-15",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。WALK。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-004",
-      "date": "1989-03-24",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。WALK。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-005",
-      "date": "1989-04-19",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。特集メドレー。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-006",
-      "date": "1989-06-21",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。LOVE SONG。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-007",
-      "date": "1989-06-23",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。LOVE SONG。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-008",
-      "date": "1989-07-20",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "放送局要照合。札幌厚生年金会館より中継。cavcの放送局欄に資料上の疑義あり。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-009",
-      "date": "1989-07-30",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックフェア'89」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。徳永英明と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-010",
-      "date": "1989-08-15",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「笑っていいとも！」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキングにCHAGE単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-011",
-      "date": "1989-08-16",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。HOTEL。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-012",
-      "date": "1989-08-25",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。PRIDE。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-013",
-      "date": "1989-09-06",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ひとり咲き・モーニングムーン。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-014",
-      "date": "1989-09-08",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ジャストポップアップ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-015",
-      "date": "1989-09-13",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。C&Aスペシャルメドレー。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-016",
-      "date": "1989-09-15",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「野口英世記念医療センター設立キャンペーン チャゲ&飛鳥熱狂ライブ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。郡山文化センターの10周年ライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-017",
-      "date": "1989-09-20",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ASKAソロ・CHAGEソロの披露を含む。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-018",
-      "date": "1989-09-27",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオDELUXE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-019",
-      "date": "1989-10-05",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「さよならザ・ベストテン」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。VTRを見返す特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-020",
-      "date": "1989-11-04",
-      "artist": "MULTI MAX",
-      "category": "media",
-      "title": "テレビ「ヒットスタジオR&N」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。MULTI MAXとして初出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-021",
-      "date": "1989-11-11",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「バブル＆リカコ SOUL天国」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ東京。バブルガム・ブラザーズと共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-022",
-      "date": "1989-12-15",
-      "artist": "MULTI MAX",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。MULTI MAXのテーマ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-023",
-      "date": "1989-12-23",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「バブル＆リカコ SOUL天国」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ東京。CHAGEと宇崎竜童の共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-024",
-      "date": "1989-08-25",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "ラジオ「のるそるサマースペシャル 10 years after」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TOKYO-FM。1989年8月19日新宿厚生年金会館の音源など。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-025",
-      "date": "1989-09-02",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「Lo-D LIVE CONCERT」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TOKYO-FM。FM東京レコーディングスタジオより生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1989-026",
-      "date": "1989-12-09",
-      "artist": "MULTI MAX",
-      "category": "media",
-      "title": "ラジオ「Lo-D LIVE CONCERT」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TOKYO-FM。スタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1989年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/50.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-001",
-      "date": "1990-01-31",
-      "artist": "MULTI MAX",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオSUPER」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。MULTI MAXのテーマ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-002",
-      "date": "1990-02-11",
-      "artist": "MULTI MAX",
-      "category": "media",
-      "title": "テレビ「ミュージックフェア'90」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。アン・ルイスと共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-003",
-      "date": "1990-04-08",
-      "artist": "MULTI MAX",
-      "category": "media",
-      "title": "テレビ「MULTI MAX コンサート」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK-BS2。1989年12月13日日本武道館公演を放送。ASKAゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-004",
-      "date": "1990-04-13",
-      "artist": "MULTI MAX",
-      "category": "media",
-      "title": "テレビ「SOUND GIG」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ東京。トーク出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-005",
-      "date": "1990-04-25",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオSUPER」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。DO YA DO。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-006",
-      "date": "1990-07-04",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオSUPER」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。CHAGE&ASKA表記での初出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-007",
-      "date": "1990-08-03",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。DO YA DO。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-008",
-      "date": "1990-08-05",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックフェア'90」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。石川優子と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-009",
-      "date": "1990-08-12",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「南こうせつサマーピクニック FINAL」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK-BS2。サマーピクニックの模様を生放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-010",
-      "date": "1990-08-22",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオSUPER」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。太陽と埃の中で。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-011",
-      "date": "1990-08-26",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「CHAGE&ASKA IN LONDON」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK-BS2。ロンドンでの教会ライブ・ドキュメント。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-012",
-      "date": "1990-08-31",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「MOGITATE!バナナ大使」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。DO YA DO。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-013",
-      "date": "1990-09-07",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「MOGITATE!バナナ大使」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。恋人はワイン色。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-014",
-      "date": "1990-09-14",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「MOGITATE!バナナ大使」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。YELLOW MEN。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-015",
-      "date": "1990-09-21",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「MOGITATE!バナナ大使」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。太陽と埃の中で。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-016",
-      "date": "1990-10-03",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ありがとう&さよなら夜のヒットスタジオ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1990-017",
-      "date": "1990-12-25",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「CHAGE&ASKA Special ロンドンから横浜アリーナ」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "SBS静岡放送。ロンドンレコーディングからSEE YAツアーまでの特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1990年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/51.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-001",
-      "date": "1991-02-05",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「MTV JAPAN」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。インタビュー出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-002",
-      "date": "1991-02-04",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「NOW ARTIST」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。トークとスタジオライブ。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-003",
-      "date": "1991-03-17",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックフェア'91」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。中村雅俊と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-004",
-      "date": "1991-04-02",
-      "artist": "MULTI MAX",
-      "category": "media",
-      "title": "テレビ「SOUND GIG」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。MULTI MAX出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-005",
-      "date": "1991-04-03",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「夜のヒットスタジオ大感謝祭スペシャルII『青春時代編』」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ASKAソロ・MULTI MAXでも出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-006",
-      "date": "1991-04-09",
-      "artist": "MULTI MAX",
-      "category": "media",
-      "title": "テレビ「ナリキーばんど講座」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TBS。うじきつよし司会。ビートルズ特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-007",
-      "date": "1991-04-21",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「特別企画!!CHAGE&ASKA」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "北海道文化放送。トークと映像紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-008",
-      "date": "1991-05-03",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。ASKAソロ。はじまりはいつも雨。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-009",
-      "date": "1991-05-16",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「笑っていいとも！」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキングにCHAGE単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-010",
-      "date": "1991-05-17",
-      "artist": "ASKA",
-      "category": "media",
-      "title": "テレビ「笑っていいとも！」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキングにASKA単独出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-011",
-      "date": "1991-07-03",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「島原救済緊急特別番組・夜のヒットスタジオスペシャル」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。SAY YES。渋谷エピキュラスから生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-012",
-      "date": "1991-08-04",
-      "artist": "MULTI MAX",
-      "category": "media",
-      "title": "テレビ「ミュージックフェア'91」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。BBクィーンズと共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-013",
-      "date": "1991-09-15",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックフェア'91」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。益田宏美（岩崎宏美）と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-014",
-      "date": "1991-12-03",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「第20回FNS歌謡祭'91」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。SAY YES・僕はこの瞳で嘘をつく。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-015",
-      "date": "1991-12-27",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「CHAGE&ASKA HISTORY '79-'90」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK-BS。デビュー期から1990年までの特別番組。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-016",
-      "date": "1991-12-28",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「CHAGE&ASKA DOCUMENT '91」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK-BS。ロンドンレコーディングからSAY YESツアーのドキュメント。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-017",
-      "date": "1991-12-29",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「CHAGE&ASKA 1991 LIVE SPECIAL SAY YES」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK-BS2。SAY YESツアー公演の放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-018",
-      "date": "1991-01-19",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「CHAGE&ASKA STORY～太陽と埃の中で～」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TOKYO-FM。1990年9月15日横浜アリーナ収録音源を交える。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1991-019",
-      "date": "1991-04-13",
-      "artist": "MULTI MAX",
-      "category": "media",
-      "title": "ラジオ「LIVE LIVE LIVE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TOKYO-FM。MULTI MAXスタジオより生中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1991年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/52.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1992-001",
-      "date": "1992-01-25",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「CHAGE with FRIENDS CHAGE CHAGE CHAGE」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "SBS静岡放送。CHAGEが司会。アーティストのPV紹介。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/53.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1992-002",
-      "date": "1992-04-05",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「第6回 日本ゴールドディスク大賞」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK。6部門7受賞と記録。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/53.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1992-003",
-      "date": "1992-04-10",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。LOVE SONG・WALK。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/53.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1992-004",
-      "date": "1992-04-15",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「SOUND ARENA」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。SAY YES・LOVE SONG。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/53.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1992-005",
-      "date": "1992-05-01",
-      "artist": "MULTI MAX",
-      "category": "media",
-      "title": "テレビ「ミュージックステーション」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。遠い街から。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/53.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1992-006",
-      "date": "1992-05-17",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「日本のビッグシンガー」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK-BS2。BIG TREEツアーの日本武道館公演を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/53.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1992-007",
-      "date": "1992-05-20",
-      "artist": "MULTI MAX",
-      "category": "media",
-      "title": "テレビ「SOUND ARENA」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。遠い街から。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/53.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1992-008",
-      "date": "1992-06-06",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ウッチャンナンチャンのやるならやらねば!」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。チャケ&矢飛鳥の企画に本人が登場。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/53.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1992-009",
-      "date": "1992-06-21",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「ミュージックフェア'92」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。工藤静香と共演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/53.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1992-010",
-      "date": "1992-10-14",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「MJ -MUSIC JOURNAL-」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。CHAGE＆ASKA特集。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/53.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1992-011",
-      "date": "1992-10-18",
-      "artist": "Chage",
-      "category": "media",
-      "title": "テレビ「MUSIC QUEST '92」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。CHAGEゲスト出演。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/53.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1992-012",
-      "date": "1992-12-01",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「FNS歌謡祭'92」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ロンドンより中継。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/53.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1992-013",
-      "date": "1992-12-13",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「SUBARU X'mas Presents Chage & Aska 世界にMERRY X'MAS」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "フジテレビ。ロンドンレコーディングの様子や番組用の演奏。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/53.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1992-014",
-      "date": "1992-12-25",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "テレビ「流行歌最前線」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "NHK-BS2。世界にMerry X'mas。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/53.html"
-        }
-      ]
-    },
-    {
-      "id": "media-v18-1992-015",
-      "date": "1992-05-30",
-      "artist": "CHAGE and ASKA",
-      "category": "media",
-      "title": "ラジオ「SUBARU SOUND SPECIAL Part3 BIG TREE TOUR FINAL」出演・放送",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "TOKYO-FM。BIG TREEツアー最終日の模様を放送。cavcの非公式記録によるため、放送局等の一次資料は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
-          "url": "https://w.atwiki.jp/cavc/pages/53.html"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-001",
-      "date": "1980-10-17",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "東北学院大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 1,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-002",
-      "date": "1980-10-19",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "上智短期大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 2,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-003",
-      "date": "1980-10-21",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "大妻女子大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 3,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-004",
-      "date": "1980-10-25",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "甲南女子大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 4,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-005",
-      "date": "1980-10-26",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "長崎総化学大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 5,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "大学名は公式HISTORYの表記を使用。正式名称要照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-006",
-      "date": "1980-10-31",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "福岡工業大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 6,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-007",
-      "date": "1980-11-02",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "九州女子大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 7,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-008",
-      "date": "1980-11-03",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "山口女子大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 8,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-009",
-      "date": "1980-11-06",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "鹿児島経済大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 9,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-010",
-      "date": "1980-11-07",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "共立薬科大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 10,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "公式HISTORYには11月7日と11月24日の双方に同校名が掲載。2公演の実施詳細要照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-011",
-      "date": "1980-11-08",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "中京女子大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 11,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-012",
-      "date": "1980-11-12",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "広島文化女子短大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 12,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-013",
-      "date": "1980-11-19",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "松山商科大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 13,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-014",
-      "date": "1980-11-20",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "高知大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 14,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-015",
-      "date": "1980-11-24",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "共立薬科大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 15,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "公式HISTORYには11月7日と11月24日の双方に同校名が掲載。2公演の実施詳細要照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ]
-    },
-    {
-      "id": "live-school-1980-016",
-      "date": "1980-11-28",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "学園祭コンサート（1980年）",
-      "tourId": "school-1980",
-      "venue": "中央大",
-      "prefecture": "",
-      "country": "日本",
-      "performanceNo": 16,
-      "status": "recorded",
-      "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
-          "url": "https://www.chage-aska.net/history/"
         }
       ]
     }
