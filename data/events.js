@@ -36278,16 +36278,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 18,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36303,16 +36303,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 19,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36328,16 +36328,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 20,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36353,16 +36353,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 21,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36378,16 +36378,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 22,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36403,16 +36403,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 23,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36428,16 +36428,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 24,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36453,16 +36453,32 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 25,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2003-001",
+      "date": "2003-01-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「MUSIC RA・TE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "中京テレビ。ゲスト出演。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
     },
@@ -36478,16 +36494,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 26,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36503,16 +36519,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 27,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36528,16 +36544,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 28,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36553,16 +36569,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 29,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36578,16 +36594,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 30,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36603,16 +36619,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 31,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36628,16 +36644,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 32,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36653,16 +36669,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 33,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36678,16 +36694,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 34,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36703,16 +36719,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 35,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36728,16 +36744,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 36,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36753,16 +36769,32 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 37,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2003-002",
+      "date": "2003-02-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ザ・ビートファイルJAPAN #43」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "WOWOW。プロモーションビデオの紹介と本人インタビュー。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
     },
@@ -36778,16 +36810,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 38,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36803,16 +36835,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 39,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36828,16 +36860,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 40,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36853,16 +36885,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 41,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36884,6 +36916,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18213-2003-003",
+      "date": "2003-03-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「おんがく」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。Zepp Tokyoでの学生限定ライブを収録した番組。公開録画の実施日は資料から確定できないため、放送日だけを登録。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
+        }
+      ]
+    },
+    {
       "id": "live-the-live-2002-2003-042",
       "date": "2003-03-13",
       "artist": "CHAGE and ASKA",
@@ -36895,16 +36943,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 42,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36920,16 +36968,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 43,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36945,16 +36993,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 44,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36970,16 +37018,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 45,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -36995,16 +37043,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 46,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37020,16 +37068,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 47,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37040,21 +37088,21 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE",
       "tourId": "the-live-2002-2003",
-      "venue": "名古屋市総合体育館レインボーホール",
+      "venue": "名古屋市総合体育館 レインボーホール",
       "prefecture": "愛知県",
       "country": "日本",
       "performanceNo": 48,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37065,21 +37113,21 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE",
       "tourId": "the-live-2002-2003",
-      "venue": "名古屋市総合体育館レインボーホール",
+      "venue": "名古屋市総合体育館 レインボーホール",
       "prefecture": "愛知県",
       "country": "日本",
       "performanceNo": 49,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37095,16 +37143,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 50,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37120,16 +37168,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 51,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37145,16 +37193,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 52,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37170,16 +37218,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 53,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37195,16 +37243,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 54,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37220,16 +37268,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 55,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37245,16 +37293,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 56,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37270,16 +37318,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 57,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37295,16 +37343,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 58,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37320,16 +37368,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 59,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37345,16 +37393,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 60,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37370,16 +37418,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 61,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37395,16 +37443,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 62,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37420,16 +37468,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 63,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37445,16 +37493,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 64,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37470,16 +37518,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 65,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
         }
       ]
     },
@@ -37495,16 +37543,48 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 66,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "ツアー最終公演",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/429.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/429.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2003-004",
+      "date": "2003-05-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "WOWOW。ツアー映像とインタビュー。cavc備考には日本武道館「3月23日」収録と記載があるが、公式公演一覧に当日の武道館公演はない（4月23〜27日）。収録公演日は未確定。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2003-005",
+      "date": "2003-06-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「そして音楽が始まる」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ東京系。「ひとり咲き」の誕生に関するインタビュー・ドキュメンタリー。映像の収録公演日については一次資料未照合。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
     },
@@ -37521,6 +37601,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2003-006",
+      "date": "2003-07-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「めざましテレビ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ゲスト出演の記録。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
     },
@@ -37542,6 +37638,22 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "prefecture": "大阪府",
       "venue": "万博記念公園 もみじ川芝生広場"
+    },
+    {
+      "id": "media-v18213-2003-007",
+      "date": "2003-07-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「MEET THE WORLD BEAT 2003」ライブ中継・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "スペースシャワーTV。同日に万博記念公園で開催された野外イベントをCSで生中継。実際の野外公演とは別の放送記録。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
+        }
+      ]
     },
     {
       "id": "release-v08-004",
@@ -37599,6 +37711,70 @@ window.CA_EVENT_DATA = {
       "venue": "石狩湾新港 樽川ふ頭横野外特設ステージ"
     },
     {
+      "id": "media-v18213-2003-008",
+      "date": "2003-09-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「LIVEやろうぜ!」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "RKB。根本要とともにゲスト出演。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2003-009",
+      "date": "2003-09-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ズームイン!! SUPER」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ。根本要とともに登場。スターダスト・レビューとの共同楽曲の制作秘話。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2003-010",
+      "date": "2003-09-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「LIVEやろうぜ!」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "RKB。9月2日とは別の放送日。根本要とともにゲスト出演。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2003-011",
+      "date": "2003-09-09",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「ワイド!スクランブル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日。ゲスト出演の記録。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
+        }
+      ]
+    },
+    {
       "id": "release-v08-005",
       "date": "2003-09-10",
       "artist": "CHAGE and ASKA",
@@ -37612,6 +37788,54 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2003-012",
+      "date": "2003-09-10",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「F2」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。根本要とともにゲスト出演。スターダスト・レビューとのコラボについて。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2003-013",
+      "date": "2003-09-22",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「めざましテレビ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。ASKAのコメントが放送された記録。本人のスタジオ生出演とは区別。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2003-014",
+      "date": "2003-09-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「筑紫哲也 NEWS23」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。スターダスト・レビューと共演。共同楽曲「デェラ・シエラ・ム」などが放送された記録。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
     },
@@ -37633,6 +37857,22 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "prefecture": "東京都",
       "venue": "SHIBUYA-AX"
+    },
+    {
+      "id": "media-v18213-2003-015",
+      "date": "2003-10-04",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「RISING SUN ROCK FESTIVAL 2003 in EZO #2」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ721。8月の野外イベント映像を放送。本番の2003年8月16日とは別日。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
+        }
+      ]
     },
     {
       "id": "live-extra-2003-10-13-01",
@@ -37682,6 +37922,26 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2003-016",
+      "date": "2003-12-13",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「MUSIC FAIR 21」出演・放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "フジテレビ。ASKAのソロ出演。松本晃彦との共演を含む。出演日についてフジテレビ公式バックナンバーで確認。 番組の内容は非公式資料でも照合。",
+      "sources": [
+        {
+          "label": "一次資料（放送日）",
+          "url": "https://www.fujitv.co.jp/MUSICFAIR/bn201603/backnumber.html"
+        },
+        {
+          "label": "cavc｜番組内容（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ]
     },
@@ -37876,7 +38136,7 @@ window.CA_EVENT_DATA = {
       "title": "COUNT DOWN LIVE 03>>04 in SAPPORO DOME",
       "status": "recorded",
       "verification": "primary",
-      "note": "カウントダウンライブ本公演",
+      "note": "カウントダウンライブ本公演／2003年12月31日から2004年1月1日にかけてのカウントダウン公演。日付の重複登録を避けるため開催開始日に記録。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
@@ -37918,6 +38178,89 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2004-001",
+      "date": "2004-02-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「スーパーライブ CHAGE and ASKA COUNTDOWN LIVE in SAPPORO DOME」映像放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK BSハイビジョン。2003年12月31日札幌ドームのカウントダウン公演とインタビュー、公開リハーサルの模様。公演開催日とは別。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/73.html"
+        }
+      ]
+    },
+    {
+      "id": "live-v18213-2004-0226-mf2000",
+      "date": "2004-02-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "MUSIC FAIR 2000回記念 公開収録（CHAGE and ASKA出演）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "東京国際フォーラムで行われた公開収録への出演。観覧者の当日レポートにより日時・会場・出演を確認。一般ツアーとは別のテレビ番組公開収録であり、3月6日放送分と重複しない。公式の当日収録記録は未確認。",
+      "sources": [
+        {
+          "label": "観覧者による当日の記録（非公式）",
+          "url": "https://song2.sakura.ne.jp/liverepo/liverepo_20040226_musicfair.html"
+        }
+      ],
+      "venue": "東京国際フォーラム",
+      "prefecture": "東京都",
+      "country": "日本"
+    },
+    {
+      "id": "media-v18213-2004-002",
+      "date": "2004-03-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「MUSIC FAIR 21 2000回記念 #1」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。2000回記念公開収録の第一夜。2月26日の公開収録実施日とは別。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/73.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2004-003",
+      "date": "2004-03-11",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「夢・音楽館」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK。ASKAソロ出演。桃井かおりとのトークや歌唱。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/73.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2004-004",
+      "date": "2004-03-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「スターダスト・レビュー ライブ～LIVE ENTERTAINMENT TOUR “Heaven”～」映像放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "WOWOW。スターダスト・レビューのコンサートからC&Aとの共演場面を放送。C&A単独ライブの開催日ではない。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/73.html"
         }
       ]
     },
@@ -37983,16 +38326,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 1,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "ツアー初日",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38008,16 +38351,32 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 2,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2004-005",
+      "date": "2004-04-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「めざましテレビ」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「two-five」ツアーのライブ映像が紹介された記録。生出演と断定しない。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/73.html"
         }
       ]
     },
@@ -38033,16 +38392,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 3,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38058,16 +38417,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 4,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38083,16 +38442,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 5,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38108,16 +38467,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 6,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38133,16 +38492,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 7,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38158,16 +38517,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 8,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38183,16 +38542,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 9,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38208,16 +38567,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 10,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38233,16 +38592,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 11,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38258,16 +38617,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 12,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38283,16 +38642,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 13,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38308,16 +38667,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 14,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38333,16 +38692,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 15,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38358,16 +38717,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 16,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38383,16 +38742,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 17,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38408,16 +38767,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 18,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38433,16 +38792,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 19,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38458,16 +38817,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 20,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38483,16 +38842,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 21,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38508,16 +38867,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 22,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38533,16 +38892,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 23,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38558,16 +38917,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 24,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38583,16 +38942,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 25,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38608,16 +38967,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 26,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38633,16 +38992,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 27,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38658,16 +39017,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 28,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38700,16 +39059,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 29,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38725,16 +39084,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 30,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38750,16 +39109,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 31,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38775,16 +39134,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 32,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38800,16 +39159,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 33,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38825,16 +39184,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 34,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38850,16 +39209,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 35,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38875,16 +39234,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 36,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38917,16 +39276,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 37,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -38942,16 +39301,36 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 38,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2004-006",
+      "date": "2004-08-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「MUSIC FAIR 21」出演・放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "フジテレビ。C&Aとして出演。放送日をフジテレビ公式バックナンバーでも確認。 番組内容は非公式資料を参照。",
+      "sources": [
+        {
+          "label": "一次資料（放送日）",
+          "url": "https://www.fujitv.co.jp/MUSICFAIR/bn201603/backnumber.html"
+        },
+        {
+          "label": "cavc｜番組内容（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/73.html"
         }
       ]
     },
@@ -39009,6 +39388,22 @@ window.CA_EVENT_DATA = {
       "venue": "お台場野外特設会場"
     },
     {
+      "id": "media-v18213-2004-007",
+      "date": "2004-08-30",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「HEY!HEY!HEY! MUSIC CHAMP」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ。「36度線-1995夏-」を披露したとされる記録。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/73.html"
+        }
+      ]
+    },
+    {
       "id": "live-two-five-2004-039",
       "date": "2004-09-03",
       "artist": "CHAGE and ASKA",
@@ -39020,16 +39415,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 39,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39045,16 +39440,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 40,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39070,16 +39465,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 41,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39095,16 +39490,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 42,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39120,16 +39515,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 43,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39145,16 +39540,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 44,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39170,16 +39565,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 45,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39195,16 +39590,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 46,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39220,16 +39615,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 47,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39245,16 +39640,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 48,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39270,16 +39665,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 49,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39312,16 +39707,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 50,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39337,16 +39732,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 51,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39362,16 +39757,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 52,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39387,16 +39782,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 53,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39412,16 +39807,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 54,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39437,16 +39832,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 55,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39462,16 +39857,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 56,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39487,16 +39882,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 57,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39512,16 +39907,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 58,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39537,16 +39932,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 59,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39562,16 +39957,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 60,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39587,16 +39982,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 61,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39612,16 +40007,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 62,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39690,16 +40085,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 63,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39715,16 +40110,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 64,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39740,16 +40135,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 65,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39765,16 +40160,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 66,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39790,16 +40185,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 67,
       "status": "recorded",
-      "verification": "secondary",
-      "note": "追加公演",
+      "verification": "primary",
+      "note": "追加公演／公式HISTORYでは追加公演と明記。",
       "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        },
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/430.html"
-        },
-        {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
         }
       ]
     },
@@ -39827,21 +40222,21 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "CHAGE and ASKA CONCERT TOUR 2004 two-five",
       "tourId": "two-five-2004",
-      "venue": "名古屋市総合体育館レインボーホール",
+      "venue": "名古屋市総合体育館 レインボーホール",
       "prefecture": "愛知県",
       "country": "日本",
       "performanceNo": 68,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39852,21 +40247,21 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "CHAGE and ASKA CONCERT TOUR 2004 two-five",
       "tourId": "two-five-2004",
-      "venue": "名古屋市総合体育館レインボーホール",
+      "venue": "名古屋市総合体育館 レインボーホール",
       "prefecture": "愛知県",
       "country": "日本",
       "performanceNo": 69,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39882,16 +40277,16 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 70,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ]
     },
@@ -39907,16 +40302,32 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 71,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "ツアー最終公演",
       "sources": [
         {
-          "label": "CHAGE and ASKA archives wiki｜公演日程",
-          "url": "https://w.atwiki.jp/canda/pages/430.html"
+          "label": "CHAGE and ASKA公式HISTORY｜2003〜2004年公演日程",
+          "url": "https://www.chage-aska.net/history/2000.php"
         },
         {
-          "label": "CHAGE and ASKA公式｜HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/430.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18213-2004-008",
+      "date": "2004-12-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「CHAGE and ASKA SPECIAL “two-five”」映像放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "WOWOW。「two-five」ツアー映像とインタビューを放送。2004年の実演日とは区別。（非公式cavc記録、放送局一次資料は未照合。）",
+      "sources": [
+        {
+          "label": "放送記録（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/73.html"
         }
       ]
     },
@@ -69455,5 +69866,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-12"
+  "siteVersion": "1.8.2-13"
 };
