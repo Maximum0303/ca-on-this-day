@@ -51123,7 +51123,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 12>>13 ROCKET 追加公演",
       "status": "recorded",
       "verification": "secondary",
-      "note": "公式History本文には追加公演を含む全31公演と記載。詳細日程表にはこの公演の行なし。補助資料と照合済み",
+      "note": "公式History本文には追加公演を含む全31公演と記載。詳細日程表にはこの公演の行なし。補助資料と照合済み。ASKAの追加公演を含む「ROCKET」全31公演の最終公演。公式HISTORYの公演終了記事で確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -51137,6 +51137,22 @@ window.CA_EVENT_DATA = {
       "venue": "NHKホール",
       "prefecture": "東京都",
       "country": "日本"
+    },
+    {
+      "id": "media-v18218-2013-001",
+      "date": "2013-05-11",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「SONGS」第259回 ASKA出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK総合。23:00〜23:30放送のASKA特集。「LOVE SONG」「いろんな人が歌ってきたように」などを歌唱した記録。番組公式の当時の放送ページは未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://note.com/himawari_yochan/n/n6da8bc64aeda"
+        }
+      ]
     },
     {
       "id": "v11-other-009",
@@ -51162,11 +51178,15 @@ window.CA_EVENT_DATA = {
       "title": "スペシャルライブ2013「On Your Mark」延期発表",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催できなかった3公演を別途中止記録として登録",
+      "note": "開催できなかった3公演を別途中止記録として登録。当初2013年8月28日・29日・31日に予定していた国立代々木競技場第一体育館での3公演について、6月11日に延期が発表された。3公演は実施されていない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "当時の報道",
+          "url": "https://www.billboard-japan.com/d_news/detail/13045/2"
         }
       ]
     },
@@ -51247,7 +51267,7 @@ window.CA_EVENT_DATA = {
       "title": "スペシャルライブ2013「On Your Mark」中止発表",
       "status": "recorded",
       "verification": "primary",
-      "note": "開催できなかった3公演を別途中止記録として登録",
+      "note": "開催できなかった3公演を別途中止記録として登録。2013年8月に予定していた代々木の全3公演は開催されず、12月12日に中止を発表。予定公演は「cancelled」を維持する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -51276,14 +51296,18 @@ window.CA_EVENT_DATA = {
       "date": "2014-04-10",
       "artist": "Chage",
       "category": "release",
-      "title": "『永い一日（会場・通信販売限定CD）』発売・配信",
+      "title": "『永い一日（会場・通信販売限定CD）』発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "2014年4月10日の限定CD発売記録。9月5日のファンミーティング・ライブ音源配信とは別作品・別日付で管理。",
       "sources": [
         {
           "label": "公式ディスコグラフィー",
           "url": "https://www.universal-music.co.jp/chage/release-history/"
+        },
+        {
+          "label": "Chage公式ディスコグラフィー",
+          "url": "https://chage.jp/discography/"
         }
       ]
     },
@@ -52289,11 +52313,15 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour2014 ～equal～",
       "status": "recorded",
       "verification": "primary",
-      "note": "映像収録を目的としたシューティングライブ",
+      "note": "映像収録を目的としたシューティングライブ。本公演は2015年1月14日発売のライブBlu-ray・DVD「ChageLiveTour2014 ～equal～」の全曲収録に使用された。発売日とは区別する。",
       "sources": [
         {
           "label": "参考資料",
           "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Chage公式発表",
+          "url": "https://chage.jp/information/release/detail-38.php"
         }
       ],
       "venue": "EX THEATER ROPPONGI",
@@ -52371,11 +52399,15 @@ window.CA_EVENT_DATA = {
       "title": "『equal（ChageLiveTour2014 ライブ音源配信）』発売・配信",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "2014年11月5日にライブ音源「equal」を配信。2015年1月14日発売のツアー映像作品とは別記録。",
       "sources": [
         {
           "label": "公式ディスコグラフィー",
           "url": "https://www.universal-music.co.jp/chage/release-history/"
+        },
+        {
+          "label": "Chage公式ディスコグラフィー",
+          "url": "https://chage.jp/discography/"
         }
       ]
     },
@@ -52406,14 +52438,18 @@ window.CA_EVENT_DATA = {
       "title": "Chage Christmas Dinner Show 2014",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "Chage初のディナーショー。2014年12月28日のイヤーエンド公演は別会場（飛天）・別公演。",
       "sources": [
         {
           "label": "参考資料",
           "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Chage公式スタッフメモ",
+          "url": "https://chage.jp/staffmemo/1221%E3%80%8Cchage%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%87%E3%82%A3%E3%83%8A%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%BC%E3%80%8D%E3%81%AB%E9%96%A2%E3%81%97%E3%81%A6/"
         }
       ],
-      "venue": "グランドプリンスホテル新高輪",
+      "venue": "グランドプリンスホテル新高輪 国際館パミール 大宴会場 北辰",
       "country": "日本",
       "prefecture": "東京都"
     },
@@ -52425,16 +52461,21 @@ window.CA_EVENT_DATA = {
       "title": "Chage Year End Dinner Show 2014",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "ディナー17:30〜19:00、ショー19:00開演。12月21日のクリスマス公演完売後に決定した追加公演。",
       "sources": [
         {
           "label": "参考資料",
           "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Chage公式公演情報",
+          "url": "https://chage.jp/information/live/detail-28.php"
         }
       ],
-      "venue": "グランドプリンスホテル新高輪",
+      "venue": "グランドプリンスホテル新高輪 大宴会場 飛天",
       "country": "日本",
-      "prefecture": "東京都"
+      "prefecture": "東京都",
+      "startTime": "19:00"
     },
     {
       "id": "v12-2015-equal-audio",
@@ -70595,5 +70636,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-17"
+  "siteVersion": "1.8.2-18"
 };
