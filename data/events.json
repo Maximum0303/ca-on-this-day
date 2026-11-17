@@ -51849,6 +51849,6109 @@
       "prefecture": "神奈川県",
       "venue": "ビルボードライブ横浜",
       "startTime": "20:30"
+    },
+    {
+      "id": "v15-0001",
+      "date": "2023-04-01",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "広島文化学園HBGホール",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0002",
+      "date": "2023-04-02",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "兵庫県",
+      "venue": "アクリエひめじ 大ホール",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0003",
+      "date": "2023-04-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "愛知県芸術劇場 大ホール",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0004",
+      "date": "2023-04-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "オリックス劇場",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0005",
+      "date": "2023-04-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "オリックス劇場",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0006",
+      "date": "2023-04-30",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福島県",
+      "venue": "けんしん郡山文化センター 大ホール",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 6
+    },
+    {
+      "id": "v15-0007",
+      "date": "2023-05-07",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "千葉県",
+      "venue": "森のホール21 大ホール",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 7
+    },
+    {
+      "id": "v15-0008",
+      "date": "2023-05-14",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "熊本県",
+      "venue": "熊本城ホール メインホール",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 8
+    },
+    {
+      "id": "v15-0009",
+      "date": "2023-05-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "トークネットホール仙台 大ホール",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 9
+    },
+    {
+      "id": "v15-0010",
+      "date": "2023-05-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "追加公演・映像収録",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "東京国際フォーラム ホールA",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 10
+    },
+    {
+      "id": "v15-0011",
+      "date": "2023-07-01",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "沖縄県",
+      "venue": "那覇文化芸術劇場なはーと 大劇場",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 11
+    },
+    {
+      "id": "v15-0012",
+      "date": "2023-07-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "追加公演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "神奈川県民ホール 大ホール",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 12
+    },
+    {
+      "id": "v15-0013",
+      "date": "2023-07-07",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "追加公演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "兵庫県",
+      "venue": "神戸国際会館こくさいホール",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 13
+    },
+    {
+      "id": "v15-0014",
+      "date": "2023-07-09",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "奈良県",
+      "venue": "なら100年会館 大ホール",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 14
+    },
+    {
+      "id": "v15-0015",
+      "date": "2023-07-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "札幌文化芸術劇場hitaru",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 15
+    },
+    {
+      "id": "v15-0016",
+      "date": "2023-07-28",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "福岡サンパレスホテル＆ホール",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 16
+    },
+    {
+      "id": "v15-0017",
+      "date": "2023-08-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "追加公演・ツアーファイナル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：2023 Wonderful World 17公演",
+          "url": "https://w.atwiki.jp/canda/pages/265.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "東京国際フォーラム ホールA",
+      "tourId": "aska-wonderful-world-2023",
+      "performanceNo": 17
+    },
+    {
+      "id": "v15-0018",
+      "date": "2023-03-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA＆DAVID FOSTER PREMIUM CONCERT 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ぴあアリーナMM",
+      "startTime": "19:00",
+      "tourId": "aska-david-foster-2023",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0019",
+      "date": "2023-03-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA＆DAVID FOSTER PREMIUM CONCERT 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "特別公演（公式Biographyに日付記載）",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ブルーノート東京",
+      "tourId": "aska-david-foster-2023",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0020",
+      "date": "2023-03-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA＆DAVID FOSTER PREMIUM CONCERT 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "兵庫県",
+      "venue": "兵庫県立芸術文化センター KOBELCO大ホール",
+      "tourId": "aska-david-foster-2023",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0021",
+      "date": "2023-02-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "AUBADE SYMPHONIC WAVE 2023（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "富山県",
+      "venue": "オーバード・ホール"
+    },
+    {
+      "id": "v15-0022",
+      "date": "2023-04-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "3150FIGHT vol.5 ハーフタイムショー（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v15-0023",
+      "date": "2023-06-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "澤近泰輔65祭 The Chronicle（ASKAゲスト出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "町田市民ホール"
+    },
+    {
+      "id": "v15-0024",
+      "date": "2023-07-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "LuckyFes（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "茨城県"
+    },
+    {
+      "id": "v15-0025",
+      "date": "2023-09-02",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "AUBADE ACOUSTIC WAVE（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "富山県"
+    },
+    {
+      "id": "v15-0026",
+      "date": "2023-10-03",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ジョナサン・リー「有歌之年」来日公演（ASKAゲスト出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v15-0027",
+      "date": "2023-12-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1部（ショー開始時刻）",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2023",
+          "url": "https://archive.fellows.tokyo/special/dinnershow_2023/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "グランド ハイアット福岡 ザ・グランド・ボールルーム",
+      "startTime": "14:15",
+      "tourId": "aska-dinner-2023",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0028",
+      "date": "2023-12-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2部（ショー開始時刻）",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2023",
+          "url": "https://archive.fellows.tokyo/special/dinnershow_2023/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "グランド ハイアット福岡 ザ・グランド・ボールルーム",
+      "startTime": "19:15",
+      "tourId": "aska-dinner-2023",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0029",
+      "date": "2023-12-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1部（ショー開始時刻）",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2023",
+          "url": "https://archive.fellows.tokyo/special/dinnershow_2023/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "リーガロイヤルホテル広島 ロイヤルホール",
+      "startTime": "16:45",
+      "tourId": "aska-dinner-2023",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0030",
+      "date": "2023-12-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2部（ショー開始時刻）",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2023",
+          "url": "https://archive.fellows.tokyo/special/dinnershow_2023/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "リーガロイヤルホテル広島 ロイヤルホール",
+      "startTime": "20:15",
+      "tourId": "aska-dinner-2023",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0031",
+      "date": "2023-12-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1部（ショー開始時刻）",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2023",
+          "url": "https://archive.fellows.tokyo/special/dinnershow_2023/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ザ・プリンス パークタワー東京 ボールルーム",
+      "startTime": "14:00",
+      "tourId": "aska-dinner-2023",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0032",
+      "date": "2023-12-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2部（ショー開始時刻）",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2023",
+          "url": "https://archive.fellows.tokyo/special/dinnershow_2023/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ザ・プリンス パークタワー東京 ボールルーム",
+      "startTime": "19:30",
+      "tourId": "aska-dinner-2023",
+      "performanceNo": 6
+    },
+    {
+      "id": "v15-0033",
+      "date": "2023-12-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1部（ショー開始時刻）",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2023",
+          "url": "https://archive.fellows.tokyo/special/dinnershow_2023/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "リーガロイヤルホテル大阪 光琳の間",
+      "startTime": "14:00",
+      "tourId": "aska-dinner-2023",
+      "performanceNo": 7
+    },
+    {
+      "id": "v15-0034",
+      "date": "2023-12-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2部（ショー開始時刻）",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2023",
+          "url": "https://archive.fellows.tokyo/special/dinnershow_2023/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "リーガロイヤルホテル大阪 光琳の間",
+      "startTime": "19:00",
+      "tourId": "aska-dinner-2023",
+      "performanceNo": 8
+    },
+    {
+      "id": "v15-0035",
+      "date": "2023-01-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "愛知県芸術劇場 小ホール",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0036",
+      "date": "2023-01-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "静岡県",
+      "venue": "LIVE ROXY SHIZUOKA",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0037",
+      "date": "2023-04-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "岡山県",
+      "venue": "CRAZYMAMA KINGDOM",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0038",
+      "date": "2023-04-16",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "BIGCAT",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0039",
+      "date": "2023-06-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "同日2公演・1公演目（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "Yokohama mint hall",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0040",
+      "date": "2023-06-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "同日2公演・2公演目（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "Yokohama mint hall",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 6
+    },
+    {
+      "id": "v15-0041",
+      "date": "2023-10-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "帯広MEGA STONE",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 7
+    },
+    {
+      "id": "v15-0042",
+      "date": "2023-10-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "札幌PENNY LANE24",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 8
+    },
+    {
+      "id": "v15-0043",
+      "date": "2023-11-03",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "新潟県",
+      "venue": "新潟GOLDEN PIGS RED STAGE",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 9
+    },
+    {
+      "id": "v15-0044",
+      "date": "2023-11-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "石川県",
+      "venue": "金沢GOLD CREEK",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 10
+    },
+    {
+      "id": "v15-0045",
+      "date": "2023-11-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "仙台Rensa",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 11
+    },
+    {
+      "id": "v15-0046",
+      "date": "2023-11-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "栃木県",
+      "venue": "HEAVEN'S ROCK 宇都宮 VJ-2",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 12
+    },
+    {
+      "id": "v15-0047",
+      "date": "2023-12-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "静岡県",
+      "venue": "LiveHouse浜松窓枠",
+      "tourId": "chage-hosomichi-2023",
+      "performanceNo": 13
+    },
+    {
+      "id": "v15-0048",
+      "date": "2023-09-03",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour 2023 WINDY ROAD",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "Zepp Nagoya",
+      "tourId": "chage-windy-road-2023",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0049",
+      "date": "2023-09-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour 2023 WINDY ROAD",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "Zepp Fukuoka",
+      "tourId": "chage-windy-road-2023",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0050",
+      "date": "2023-09-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour 2023 WINDY ROAD",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "Zepp Namba",
+      "tourId": "chage-windy-road-2023",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0051",
+      "date": "2023-09-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour 2023 WINDY ROAD",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "配信実施公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "Zepp Haneda",
+      "tourId": "chage-windy-road-2023",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0052",
+      "date": "2023-01-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live “64 to 65”",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2022年末から続く東京公演・第1ステージ（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "tourId": "chage-billboard-64-65",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0053",
+      "date": "2023-01-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live “64 to 65”",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2022年末から続く東京公演・第2ステージ（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "tourId": "chage-billboard-64-65",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0054",
+      "date": "2023-12-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 65 to 66",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1日2ステージ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ビルボードライブ横浜",
+      "startTime": "17:00",
+      "tourId": "chage-billboard-65-66",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0055",
+      "date": "2023-12-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 65 to 66",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1日2ステージ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ビルボードライブ横浜",
+      "startTime": "20:00",
+      "tourId": "chage-billboard-65-66",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0056",
+      "date": "2023-12-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 65 to 66",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1日2ステージ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "ビルボードライブ大阪",
+      "startTime": "17:00",
+      "tourId": "chage-billboard-65-66",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0057",
+      "date": "2023-12-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 65 to 66",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1日2ステージ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "ビルボードライブ大阪",
+      "startTime": "20:00",
+      "tourId": "chage-billboard-65-66",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0058",
+      "date": "2023-05-27",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage Official Fan Club equal FAN MEETING 2023 @Spa Resort Hawaiians",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "FCイベント開催日。歌唱ステージの公演回数は未確認",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福島県",
+      "venue": "スパリゾートハワイアンズ"
+    },
+    {
+      "id": "v15-0059",
+      "date": "2023-05-28",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage Official Fan Club equal FAN MEETING 2023 @Spa Resort Hawaiians",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "FCイベント開催日。歌唱ステージの公演回数は未確認",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福島県",
+      "venue": "スパリゾートハワイアンズ"
+    },
+    {
+      "id": "v15-0060",
+      "date": "2024-09-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "J:COMホール八王子",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0061",
+      "date": "2024-09-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "オリックス劇場",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0062",
+      "date": "2024-09-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "オリックス劇場",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0063",
+      "date": "2024-10-03",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "福岡サンパレスホテル＆ホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0064",
+      "date": "2024-10-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "熊本県",
+      "venue": "熊本城ホール メインホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0065",
+      "date": "2024-10-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "神奈川県民ホール 大ホール",
+      "startTime": "17:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 6
+    },
+    {
+      "id": "v15-0066",
+      "date": "2024-10-24",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "岩手県",
+      "venue": "盛岡市民文化ホール 大ホール",
+      "startTime": "18:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 7
+    },
+    {
+      "id": "v15-0067",
+      "date": "2024-10-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "山形県",
+      "venue": "やまぎん県民ホール 大ホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 8
+    },
+    {
+      "id": "v15-0068",
+      "date": "2024-11-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "札幌文化芸術劇場hitaru",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 9
+    },
+    {
+      "id": "v15-0069",
+      "date": "2024-11-08",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "岡山県",
+      "venue": "倉敷市民会館",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 10
+    },
+    {
+      "id": "v15-0070",
+      "date": "2024-11-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "広島文化学園HBGホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 11
+    },
+    {
+      "id": "v15-0071",
+      "date": "2024-11-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "兵庫県",
+      "venue": "神戸国際会館こくさいホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 12
+    },
+    {
+      "id": "v15-0072",
+      "date": "2024-11-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "京都府",
+      "venue": "ロームシアター京都 メインホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 13
+    },
+    {
+      "id": "v15-0073",
+      "date": "2024-11-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "島根県",
+      "venue": "島根県芸術文化センター グラントワ 大ホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 14
+    },
+    {
+      "id": "v15-0074",
+      "date": "2024-11-24",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "山口県",
+      "venue": "周南市文化会館 大ホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 15
+    },
+    {
+      "id": "v15-0075",
+      "date": "2024-11-29",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "新潟県",
+      "venue": "新潟県民会館 大ホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 16
+    },
+    {
+      "id": "v15-0076",
+      "date": "2024-12-01",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "石川県",
+      "venue": "本多の森 北電ホール",
+      "startTime": "17:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 17
+    },
+    {
+      "id": "v15-0077",
+      "date": "2024-12-08",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "静岡県",
+      "venue": "静岡市民文化会館 大ホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 18
+    },
+    {
+      "id": "v15-0078",
+      "date": "2024-12-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "青森県",
+      "venue": "リンクステーションホール青森",
+      "startTime": "18:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 19
+    },
+    {
+      "id": "v15-0079",
+      "date": "2024-12-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "仙台サンプラザホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 20
+    },
+    {
+      "id": "v15-0080",
+      "date": "2024-12-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "兵庫県",
+      "venue": "アクリエひめじ 大ホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 21
+    },
+    {
+      "id": "v15-0081",
+      "date": "2024-12-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "箕面市立文化芸能劇場 大ホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 22
+    },
+    {
+      "id": "v15-0082",
+      "date": "2024-10-06",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "【当日開催なし】2025年1月5日に同会場で振替公演。公演総数に算入しない",
+      "sources": [
+        {
+          "label": "BEA主催者：鹿児島再公演・振替",
+          "url": "https://www.bea-net.com/information/aska6.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "鹿児島県",
+      "venue": "川商ホール（鹿児島市民文化ホール）第一",
+      "startTime": "17:30",
+      "tourId": "aska-who-postponed",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0083",
+      "date": "2024-06-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "HITMAN David Foster & Friends（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式ブログ：HITMAN David Foster & Friends",
+          "url": "https://archive.fellows.tokyo/blog/?id=4308"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "埼玉県",
+      "venue": "大宮ソニックシティ 大ホール",
+      "startTime": "16:00",
+      "tourId": "aska-david-2024",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0084",
+      "date": "2024-06-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "HITMAN David Foster & Friends（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式ブログ：HITMAN David Foster & Friends",
+          "url": "https://archive.fellows.tokyo/blog/?id=4308"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "フェスティバルホール",
+      "startTime": "18:30",
+      "tourId": "aska-david-2024",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0085",
+      "date": "2024-01-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "広島CLUB QUATTRO",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0086",
+      "date": "2024-01-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "昼公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "小倉昭和館",
+      "startTime": "15:30",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0087",
+      "date": "2024-01-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "夜公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "小倉昭和館",
+      "startTime": "18:30",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0088",
+      "date": "2024-02-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "静岡県",
+      "venue": "LIVE ROXY SHIZUOKA",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0089",
+      "date": "2024-02-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "昼公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "京都府",
+      "venue": "京都磔磔",
+      "startTime": "15:00",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0090",
+      "date": "2024-02-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "夜公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "京都府",
+      "venue": "京都磔磔",
+      "startTime": "18:30",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 6
+    },
+    {
+      "id": "v15-0091",
+      "date": "2024-03-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "吉祥寺Star Pine's Cafe",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 7
+    },
+    {
+      "id": "v15-0092",
+      "date": "2024-04-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "下北沢シャングリラ",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 8
+    },
+    {
+      "id": "v15-0093",
+      "date": "2024-04-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "BIGCAT",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 9
+    },
+    {
+      "id": "v15-0094",
+      "date": "2024-05-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "栃木県",
+      "venue": "HEAVEN'S ROCK 宇都宮",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 10
+    },
+    {
+      "id": "v15-0095",
+      "date": "2024-05-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "千葉県",
+      "venue": "柏PALOOZA",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 11
+    },
+    {
+      "id": "v15-0096",
+      "date": "2024-06-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "成美教育文化会館 成美グリーンホール",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 12
+    },
+    {
+      "id": "v15-0097",
+      "date": "2024-06-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "FC会員限定ライブ",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "静岡県",
+      "venue": "窓枠Cafe AOZORA",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 13
+    },
+    {
+      "id": "v15-0098",
+      "date": "2024-07-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "cube garden",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 14
+    },
+    {
+      "id": "v15-0099",
+      "date": "2024-07-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "青森県",
+      "venue": "青森Quarter",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 15
+    },
+    {
+      "id": "v15-0100",
+      "date": "2024-07-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "長野県",
+      "venue": "CLUB JUNK BOX",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 16
+    },
+    {
+      "id": "v15-0101",
+      "date": "2024-07-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "富山県",
+      "venue": "MAIRO",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 17
+    },
+    {
+      "id": "v15-0102",
+      "date": "2024-08-03",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "長崎県",
+      "venue": "佐世保市民文化ホール 凱旋記念ホール",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 18
+    },
+    {
+      "id": "v15-0103",
+      "date": "2024-08-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "メニコンシアターAoi",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 19
+    },
+    {
+      "id": "v15-0104",
+      "date": "2024-10-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "沖縄県",
+      "venue": "Top Note",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 20
+    },
+    {
+      "id": "v15-0105",
+      "date": "2024-10-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "沖縄県",
+      "venue": "ガンガラーの谷",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 21
+    },
+    {
+      "id": "v15-0106",
+      "date": "2024-10-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "茨城県",
+      "venue": "club SONIC mito",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 22
+    },
+    {
+      "id": "v15-0107",
+      "date": "2024-11-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "静岡県",
+      "venue": "SOUND SHOWER ark",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 23
+    },
+    {
+      "id": "v15-0108",
+      "date": "2024-11-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "岡山県",
+      "venue": "CRAZYMAMA KINGDOM",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 24
+    },
+    {
+      "id": "v15-0109",
+      "date": "2024-11-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2024",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "高知県",
+      "venue": "CARAVAN SARY",
+      "tourId": "chage-hosomichi-2024",
+      "performanceNo": 25
+    },
+    {
+      "id": "v15-0110",
+      "date": "2024-09-01",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2024 ～ちゃげっていうひと～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "Zepp Fukuoka",
+      "tourId": "chage-2024-tour",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0111",
+      "date": "2024-09-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2024 ～ちゃげっていうひと～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "Zepp Namba",
+      "tourId": "chage-2024-tour",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0112",
+      "date": "2024-09-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2024 ～ちゃげっていうひと～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "Zepp Nagoya",
+      "tourId": "chage-2024-tour",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0113",
+      "date": "2024-09-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2024 ～ちゃげっていうひと～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "仙台Rensa",
+      "tourId": "chage-2024-tour",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0114",
+      "date": "2024-09-16",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2024 ～ちゃげっていうひと～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "Zepp Sapporo",
+      "tourId": "chage-2024-tour",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0115",
+      "date": "2024-09-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2024 ～ちゃげっていうひと～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "Zepp DiverCity TOKYO",
+      "tourId": "chage-2024-tour",
+      "performanceNo": 6
+    },
+    {
+      "id": "v15-0116",
+      "date": "2024-01-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 65 to 66",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1日2ステージ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "startTime": "17:00",
+      "tourId": "chage-billboard-65-66",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0117",
+      "date": "2024-01-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 65 to 66",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1日2ステージ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki：Chage公演一覧",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "startTime": "20:00",
+      "tourId": "chage-billboard-65-66",
+      "performanceNo": 6
+    },
+    {
+      "id": "v15-0118",
+      "date": "2024-12-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 66 to 67",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1日2ステージ",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ビルボードライブ横浜",
+      "startTime": "17:00",
+      "tourId": "chage-billboard-66-67",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0119",
+      "date": "2024-12-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 66 to 67",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1日2ステージ",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ビルボードライブ横浜",
+      "startTime": "20:00",
+      "tourId": "chage-billboard-66-67",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0120",
+      "date": "2024-12-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 66 to 67",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1日2ステージ",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "ビルボードライブ大阪",
+      "startTime": "17:00",
+      "tourId": "chage-billboard-66-67",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0121",
+      "date": "2024-12-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 66 to 67",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1日2ステージ",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "ビルボードライブ大阪",
+      "startTime": "20:00",
+      "tourId": "chage-billboard-66-67",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0122",
+      "date": "2024-11-04",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage Cinematic Concert ～Live at Spa Resort Hawaiians 2024～ 上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "映像上映。生のライブ公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "小倉昭和館"
+    },
+    {
+      "id": "v15-0123",
+      "date": "2025-01-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2024年10月6日の振替公演",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "鹿児島県",
+      "venue": "川商ホール（鹿児島市民文化ホール）第一",
+      "startTime": "17:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 23
+    },
+    {
+      "id": "v15-0124",
+      "date": "2025-01-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "愛知県芸術劇場 大ホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 24
+    },
+    {
+      "id": "v15-0125",
+      "date": "2025-01-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "愛知県芸術劇場 大ホール",
+      "startTime": "16:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 25
+    },
+    {
+      "id": "v15-0126",
+      "date": "2025-01-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "沖縄県",
+      "venue": "那覇文化芸術劇場なはーと 大劇場",
+      "startTime": "19:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 26
+    },
+    {
+      "id": "v15-0127",
+      "date": "2025-01-18",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "沖縄県",
+      "venue": "那覇文化芸術劇場なはーと 大劇場",
+      "startTime": "16:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 27
+    },
+    {
+      "id": "v15-0128",
+      "date": "2025-01-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "香川県",
+      "venue": "サンポートホール高松 大ホール",
+      "startTime": "17:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 28
+    },
+    {
+      "id": "v15-0129",
+      "date": "2025-01-27",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "フェスティバルホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 29
+    },
+    {
+      "id": "v15-0130",
+      "date": "2025-02-14",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "日本武道館",
+      "startTime": "18:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 30
+    },
+    {
+      "id": "v15-0131",
+      "date": "2025-02-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "日本武道館",
+      "startTime": "16:00",
+      "tourId": "aska-who-2024-2025",
+      "performanceNo": 31
+    },
+    {
+      "id": "v15-0132",
+      "date": "2025-02-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- in Kuala Lumpur",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "マレーシア",
+      "venue": "Zepp Kuala Lumpur",
+      "startTime": "20:00",
+      "tourId": "aska-who-asia-2025",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0133",
+      "date": "2025-03-01",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- in Taipei",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式：海外ツアー日程",
+          "url": "https://www.fellows.tokyo/news/detail/320"
+        }
+      ],
+      "country": "台湾",
+      "venue": "台北国際会議センター（TICC）",
+      "startTime": "19:30",
+      "tourId": "aska-who-asia-2025",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0134",
+      "date": "2025-04-30",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- 海外公演ファイナル",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "東京国際フォーラム ホールA",
+      "startTime": "18:30",
+      "tourId": "aska-who-asia-2025",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0135",
+      "date": "2025-03-08",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- in SEOUL",
+      "status": "postponed",
+      "verification": "secondary",
+      "note": "【延期前の予定日・開催なし】後日8月23日に設定されたが中止。公演総数から除外",
+      "sources": [
+        {
+          "label": "アジア公演延期・中止履歴",
+          "url": "https://w.atwiki.jp/canda/pages/268.html"
+        }
+      ],
+      "country": "韓国",
+      "venue": "高麗大学校化汀体育館",
+      "startTime": "18:00"
+    },
+    {
+      "id": "v15-0136",
+      "date": "2025-08-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- in SEOUL",
+      "status": "canceled",
+      "verification": "secondary",
+      "note": "【中止】3月開催予定の振替日。実施公演ではない",
+      "sources": [
+        {
+          "label": "アジア公演延期・中止履歴",
+          "url": "https://w.atwiki.jp/canda/pages/268.html"
+        }
+      ],
+      "country": "韓国",
+      "venue": "高麗大学校化汀体育館"
+    },
+    {
+      "id": "v15-0137",
+      "date": "2025-04-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- Los Angeles",
+      "status": "postponed",
+      "verification": "secondary",
+      "note": "【延期発表】当日未開催。実施公演ではない",
+      "sources": [
+        {
+          "label": "アジア公演延期・中止履歴",
+          "url": "https://w.atwiki.jp/canda/pages/268.html"
+        }
+      ],
+      "country": "アメリカ合衆国",
+      "venue": "米国ロサンゼルス（会場未確認）"
+    },
+    {
+      "id": "v15-0138",
+      "date": "2025-04-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- New York",
+      "status": "postponed",
+      "verification": "secondary",
+      "note": "【延期発表】当日未開催。実施公演ではない",
+      "sources": [
+        {
+          "label": "アジア公演延期・中止履歴",
+          "url": "https://w.atwiki.jp/canda/pages/268.html"
+        }
+      ],
+      "country": "アメリカ合衆国",
+      "venue": "米国ニューヨーク（会場未確認）"
+    },
+    {
+      "id": "v15-0139",
+      "date": "2025-07-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 追加公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "鳥取県",
+      "venue": "とりぎん文化会館 梨花ホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-additional-2025",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0140",
+      "date": "2025-07-24",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 追加公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "ふくやま芸術文化ホール リーデンローズ 大ホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-additional-2025",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0141",
+      "date": "2025-07-31",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 追加公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福島県",
+      "venue": "いわき芸術文化交流館アリオス アルパイン大ホール",
+      "startTime": "18:00",
+      "tourId": "aska-who-additional-2025",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0142",
+      "date": "2025-08-06",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 追加公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "富山県",
+      "venue": "オーバード・ホール 大ホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-additional-2025",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0143",
+      "date": "2025-08-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 追加公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "刈谷市総合文化センター 大ホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-additional-2025",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0144",
+      "date": "2025-08-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 追加公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "三重県",
+      "venue": "四日市市文化会館 第1ホール",
+      "startTime": "18:30",
+      "tourId": "aska-who-additional-2025",
+      "performanceNo": 6
+    },
+    {
+      "id": "v15-0145",
+      "date": "2025-08-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 追加公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Who is ASKA !?公演日程",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "千葉県",
+      "venue": "市川市文化会館 大ホール",
+      "startTime": "18:00",
+      "tourId": "aska-who-additional-2025",
+      "performanceNo": 7
+    },
+    {
+      "id": "v15-0146",
+      "date": "2025-08-29",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA×Fellows ～感謝祭～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Fellows感謝祭2025日程",
+          "url": "https://www.fellows.tokyo/feature/fc_event2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "Zepp Fukuoka",
+      "startTime": "19:00",
+      "tourId": "aska-fellows-thanks-2025",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0147",
+      "date": "2025-08-31",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA×Fellows ～感謝祭～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "昼公演",
+      "sources": [
+        {
+          "label": "ASKA公式Fellows感謝祭2025日程",
+          "url": "https://www.fellows.tokyo/feature/fc_event2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "Zepp Nagoya",
+      "startTime": "15:00",
+      "tourId": "aska-fellows-thanks-2025",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0148",
+      "date": "2025-08-31",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA×Fellows ～感謝祭～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "夜公演",
+      "sources": [
+        {
+          "label": "ASKA公式Fellows感謝祭2025日程",
+          "url": "https://www.fellows.tokyo/feature/fc_event2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "Zepp Nagoya",
+      "startTime": "19:00",
+      "tourId": "aska-fellows-thanks-2025",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0149",
+      "date": "2025-09-03",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA×Fellows ～感謝祭～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Fellows感謝祭2025日程",
+          "url": "https://www.fellows.tokyo/feature/fc_event2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "Zepp DiverCity TOKYO",
+      "startTime": "19:00",
+      "tourId": "aska-fellows-thanks-2025",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0150",
+      "date": "2025-09-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA×Fellows ～感謝祭～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "昼公演",
+      "sources": [
+        {
+          "label": "ASKA公式Fellows感謝祭2025日程",
+          "url": "https://www.fellows.tokyo/feature/fc_event2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "Zepp DiverCity TOKYO",
+      "startTime": "15:00",
+      "tourId": "aska-fellows-thanks-2025",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0151",
+      "date": "2025-09-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA×Fellows ～感謝祭～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "夜公演・映像収録",
+      "sources": [
+        {
+          "label": "ASKA公式Fellows感謝祭2025日程",
+          "url": "https://www.fellows.tokyo/feature/fc_event2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "Zepp DiverCity TOKYO",
+      "startTime": "19:00",
+      "tourId": "aska-fellows-thanks-2025",
+      "performanceNo": 6
+    },
+    {
+      "id": "v15-0152",
+      "date": "2025-09-14",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA×Fellows ～感謝祭～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Fellows感謝祭2025日程",
+          "url": "https://www.fellows.tokyo/feature/fc_event2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "Zepp Sapporo",
+      "startTime": "17:00",
+      "tourId": "aska-fellows-thanks-2025",
+      "performanceNo": 7
+    },
+    {
+      "id": "v15-0153",
+      "date": "2025-09-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA×Fellows ～感謝祭～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "昼公演",
+      "sources": [
+        {
+          "label": "ASKA公式Fellows感謝祭2025日程",
+          "url": "https://www.fellows.tokyo/feature/fc_event2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "Zepp Osaka Bayside",
+      "startTime": "15:00",
+      "tourId": "aska-fellows-thanks-2025",
+      "performanceNo": 8
+    },
+    {
+      "id": "v15-0154",
+      "date": "2025-09-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA×Fellows ～感謝祭～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "夜公演",
+      "sources": [
+        {
+          "label": "ASKA公式Fellows感謝祭2025日程",
+          "url": "https://www.fellows.tokyo/feature/fc_event2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "Zepp Osaka Bayside",
+      "startTime": "19:00",
+      "tourId": "aska-fellows-thanks-2025",
+      "performanceNo": 9
+    },
+    {
+      "id": "v15-0155",
+      "date": "2025-09-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA×Fellows ～感謝祭～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Fellows感謝祭2025日程",
+          "url": "https://www.fellows.tokyo/feature/fc_event2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "仙台PIT",
+      "startTime": "17:00",
+      "tourId": "aska-fellows-thanks-2025",
+      "performanceNo": 10
+    },
+    {
+      "id": "v15-0156",
+      "date": "2025-12-07",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ショー開始時刻",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2025",
+          "url": "https://www.fellows.tokyo/feature/aska_dinnershow_2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "グランド ハイアット福岡 ザ・グランド・ボールルーム",
+      "startTime": "18:15",
+      "tourId": "aska-dinner-2025",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0157",
+      "date": "2025-12-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ショー開始時刻",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2025",
+          "url": "https://www.fellows.tokyo/feature/aska_dinnershow_2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ザ・プリンス パークタワー東京 ボールルーム",
+      "startTime": "18:30",
+      "tourId": "aska-dinner-2025",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0158",
+      "date": "2025-12-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ショー開始時刻",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2025",
+          "url": "https://www.fellows.tokyo/feature/aska_dinnershow_2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ザ・プリンス パークタワー東京 ボールルーム",
+      "startTime": "17:30",
+      "tourId": "aska-dinner-2025",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0159",
+      "date": "2025-12-27",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ショー開始時刻",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2025",
+          "url": "https://www.fellows.tokyo/feature/aska_dinnershow_2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "帝国ホテル大阪 孔雀の間",
+      "startTime": "18:30",
+      "tourId": "aska-dinner-2025",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0160",
+      "date": "2025-12-28",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA Dinner Show 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ショー開始時刻",
+      "sources": [
+        {
+          "label": "ASKA公式Dinner Show 2025",
+          "url": "https://www.fellows.tokyo/feature/aska_dinnershow_2025"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "帝国ホテル大阪 孔雀の間",
+      "startTime": "17:30",
+      "tourId": "aska-dinner-2025",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0161",
+      "date": "2025-10-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "京都音楽博覧会2025（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA 2025年京都音楽博覧会出演案内",
+          "url": "https://diskgarage.com/digaonline/news/221918"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "京都府",
+      "venue": "梅小路公園"
+    },
+    {
+      "id": "v15-0162",
+      "date": "2025-11-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "氣志團万博2025 ～関東爆音パビリオン～（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式：氣志團万博2025 出演",
+          "url": "https://www.fellows.tokyo/news/detail/524"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "千葉県",
+      "venue": "幕張メッセ 国際展示場9～11ホール"
+    },
+    {
+      "id": "v15-0163",
+      "date": "2025-01-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "下北沢シャングリラ",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0164",
+      "date": "2025-04-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "千葉県",
+      "venue": "柏PALOOZA",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0165",
+      "date": "2025-04-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "Yokohama mint hall",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0166",
+      "date": "2025-04-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "埼玉県",
+      "venue": "熊谷 八木橋百貨店 カトレアホール",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0167",
+      "date": "2025-05-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "兵庫県",
+      "venue": "神戸チキンジョージ",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0168",
+      "date": "2025-06-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "昼公演",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "京都府",
+      "venue": "京都磔磔",
+      "startTime": "15:00",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 6
+    },
+    {
+      "id": "v15-0169",
+      "date": "2025-06-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "夜公演",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "京都府",
+      "venue": "京都磔磔",
+      "startTime": "18:30",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 7
+    },
+    {
+      "id": "v15-0170",
+      "date": "2025-06-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "BIGCAT",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 8
+    },
+    {
+      "id": "v15-0171",
+      "date": "2025-06-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "三重県",
+      "venue": "ハートプラザみその",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 9
+    },
+    {
+      "id": "v15-0172",
+      "date": "2025-06-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "メニコンシアターAoi",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 10
+    },
+    {
+      "id": "v15-0173",
+      "date": "2025-07-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "秋田県",
+      "venue": "Club SWINDLE",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 11
+    },
+    {
+      "id": "v15-0174",
+      "date": "2025-07-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "青森県",
+      "venue": "青森Quarter",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 12
+    },
+    {
+      "id": "v15-0175",
+      "date": "2025-08-03",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式Biographyの7/27は誤記の可能性。公式公演アーカイブで8/3と照合",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "栃木県",
+      "venue": "HEAVEN'S ROCK UTSUNOMIYA VJ-2",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 13
+    },
+    {
+      "id": "v15-0176",
+      "date": "2025-09-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "石川県",
+      "venue": "金沢GOLD CREEK",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 14
+    },
+    {
+      "id": "v15-0177",
+      "date": "2025-09-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "長野県",
+      "venue": "LIVE HOUSE 箱船",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 15
+    },
+    {
+      "id": "v15-0178",
+      "date": "2025-09-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛媛県",
+      "venue": "松山WStudioRED",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 16
+    },
+    {
+      "id": "v15-0179",
+      "date": "2025-09-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "香川県",
+      "venue": "高松MONSTER",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 17
+    },
+    {
+      "id": "v15-0180",
+      "date": "2025-09-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "HIROSHIMA CLUB QUATTRO",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 18
+    },
+    {
+      "id": "v15-0181",
+      "date": "2025-09-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "島根県",
+      "venue": "出雲APOLLO",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 19
+    },
+    {
+      "id": "v15-0182",
+      "date": "2025-10-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "六花亭 きたこぶしホール",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 20
+    },
+    {
+      "id": "v15-0183",
+      "date": "2025-10-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "沖縄県",
+      "venue": "Top Note",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 21
+    },
+    {
+      "id": "v15-0184",
+      "date": "2025-10-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "沖縄県",
+      "venue": "ガンガラーの谷",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 22
+    },
+    {
+      "id": "v15-0185",
+      "date": "2025-12-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "熊本県",
+      "venue": "キャバレーニュー白馬",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 23
+    },
+    {
+      "id": "v15-0186",
+      "date": "2025-12-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "西南コミュニティーセンター",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 24
+    },
+    {
+      "id": "v15-0187",
+      "date": "2025-12-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 2025",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「ずっと細道」公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "静岡県",
+      "venue": "SOUND SHOWER ark",
+      "tourId": "chage-hosomichi-2025",
+      "performanceNo": 25
+    },
+    {
+      "id": "v15-0188",
+      "date": "2025-11-01",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "Zepp Nagoya",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0189",
+      "date": "2025-11-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "Zepp Namba",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0190",
+      "date": "2025-11-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "Zepp Fukuoka",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0191",
+      "date": "2025-11-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "BLUE LIVE HIROSHIMA",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0192",
+      "date": "2025-11-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "CLUB CITTA’ 川崎",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0193",
+      "date": "2025-11-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "Sendai PIT",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 6
+    },
+    {
+      "id": "v15-0194",
+      "date": "2025-11-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "Zepp DiverCity TOKYO",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 7
+    },
+    {
+      "id": "v15-0195",
+      "date": "2025-11-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2025 Mr.November",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式「Mr.November」日程",
+          "url": "https://chage.jp/information/live/detail-738.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "Zepp Sapporo",
+      "tourId": "chage-mr-november-2025",
+      "performanceNo": 8
+    },
+    {
+      "id": "v15-0196",
+      "date": "2025-01-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "石川優子との共演／1日2ステージ",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "startTime": "17:00",
+      "tourId": "chage-billboard-66-67",
+      "performanceNo": 5
+    },
+    {
+      "id": "v15-0197",
+      "date": "2025-01-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "石川優子との共演／1日2ステージ",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "startTime": "20:00",
+      "tourId": "chage-billboard-66-67",
+      "performanceNo": 6
+    },
+    {
+      "id": "v15-0198",
+      "date": "2025-01-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "石川優子との共演／1日2ステージ",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "startTime": "17:00",
+      "tourId": "chage-billboard-66-67",
+      "performanceNo": 7
+    },
+    {
+      "id": "v15-0199",
+      "date": "2025-01-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "石川優子との共演／1日2ステージ",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "startTime": "20:00",
+      "tourId": "chage-billboard-66-67",
+      "performanceNo": 8
+    },
+    {
+      "id": "v15-0200",
+      "date": "2025-07-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1st Stage（開演時刻要照合）",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ビルボードライブ横浜",
+      "tourId": "chage-billboard-67-68",
+      "performanceNo": 1
+    },
+    {
+      "id": "v15-0201",
+      "date": "2025-07-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2nd Stage（開演時刻要照合）",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ビルボードライブ横浜",
+      "tourId": "chage-billboard-67-68",
+      "performanceNo": 2
+    },
+    {
+      "id": "v15-0202",
+      "date": "2025-07-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1st Stage（開演時刻要照合）",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "ビルボードライブ大阪",
+      "tourId": "chage-billboard-67-68",
+      "performanceNo": 3
+    },
+    {
+      "id": "v15-0203",
+      "date": "2025-07-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 67 to 68",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2nd Stage（開演時刻要照合）",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "ビルボードライブ大阪",
+      "tourId": "chage-billboard-67-68",
+      "performanceNo": 4
+    },
+    {
+      "id": "v15-0204",
+      "date": "2025-05-17",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage FAN MEETING 2025 @Spa Resort Hawaiians",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "イベント開催日。公演数の詳細は別途確認",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福島県",
+      "venue": "スパリゾートハワイアンズ"
+    },
+    {
+      "id": "v15-0205",
+      "date": "2025-05-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage FAN MEETING 2025 @Spa Resort Hawaiians",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "イベント開催日。公演数の詳細は別途確認",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福島県",
+      "venue": "スパリゾートハワイアンズ"
+    },
+    {
+      "id": "v15-0206",
+      "date": "2025-08-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage＆スターダスト☆レビュー スペシャルコンサート「この歌があるけん福岡たい！聞いちゃってん」",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "アイランドシティまちびらき20周年記念プレイベント",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "v15-0207",
+      "date": "2025-08-31",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage＆スターダスト☆レビュー スペシャルコンサート「この歌があるけん福岡たい！聞いちゃってん」",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "アイランドシティまちびらき20周年記念プレイベント",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "v15-0208",
+      "date": "2025-06-29",
+      "artist": "Chage",
+      "category": "live",
+      "title": "In Memorial The Beatles live in Japan ’25（Chage出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v15-0209",
+      "date": "2025-01-18",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "109シネマズ大阪エキスポシティ"
+    },
+    {
+      "id": "v15-0210",
+      "date": "2025-01-19",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "109シネマズ名古屋"
+    },
+    {
+      "id": "v15-0211",
+      "date": "2025-02-01",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "109シネマズ富谷"
+    },
+    {
+      "id": "v15-0212",
+      "date": "2025-02-08",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "109シネマズ広島"
+    },
+    {
+      "id": "v15-0213",
+      "date": "2025-02-09",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "兵庫県",
+      "venue": "109シネマズHAT神戸"
+    },
+    {
+      "id": "v15-0214",
+      "date": "2025-02-21",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "109シネマズプレミアム新宿"
+    },
+    {
+      "id": "v15-0215",
+      "date": "2025-02-22",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "109シネマズプレミアム新宿"
+    },
+    {
+      "id": "v15-0216",
+      "date": "2025-02-23",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "109シネマズプレミアム新宿"
+    },
+    {
+      "id": "v15-0217",
+      "date": "2025-03-02",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "沖縄県",
+      "venue": "桜坂劇場 ホールB"
+    },
+    {
+      "id": "v15-0218",
+      "date": "2025-03-09",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "小倉昭和館"
+    },
+    {
+      "id": "v15-0219",
+      "date": "2025-03-21",
+      "artist": "Chage",
+      "category": "other",
+      "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "上映日。Chageの生公演と区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "サツゲキ"
+    },
+    {
+      "id": "v15-0220",
+      "date": "2023-07-30",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「幸せな不条理」配信リリース",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0221",
+      "date": "2023-08-15",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「青い空だけじゃない」先行配信リリース",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0222",
+      "date": "2023-08-30",
+      "artist": "Chage",
+      "category": "release",
+      "title": "EP『青い空だけじゃない』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式アルバム一覧",
+          "url": "https://chage.jp/discography/chage/album.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0223",
+      "date": "2023-09-27",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA Premium Concert Tour Wonderful World 2023』Blu-ray＋Live CD発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Discography",
+          "url": "https://www.fellows.tokyo/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0224",
+      "date": "2024-01-17",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA featuring DAVID FOSTER PREMIUM CONCERT 2023』Blu-ray発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Discography",
+          "url": "https://www.fellows.tokyo/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0225",
+      "date": "2024-09-04",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA 10 DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館』映像作品発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Discography",
+          "url": "https://www.fellows.tokyo/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0226",
+      "date": "2024-07-31",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「飾りのない歌」先行配信リリース",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0227",
+      "date": "2024-08-28",
+      "artist": "Chage",
+      "category": "release",
+      "title": "アルバム『飾りのない歌』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式アルバム一覧",
+          "url": "https://chage.jp/discography/chage/album.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0228",
+      "date": "2025-04-09",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「ChageLiveTour2024 ～ちゃげっていうひと～」ライブ音源配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0229",
+      "date": "2025-05-14",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『ChageLiveTour2024 ～ちゃげっていうひと～』LIVE Blu-ray発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0230",
+      "date": "2025-06-18",
+      "artist": "Chage",
+      "category": "release",
+      "title": "カバー作品『Vandange_1958』配信リリース",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式アルバム一覧",
+          "url": "https://chage.jp/discography/chage/album.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0231",
+      "date": "2025-07-16",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「飾りのない歌 -Acoustic Ver.-」配信リリース",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0232",
+      "date": "2025-08-27",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『Vandange_1958 Vol.2』配信リリース",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0233",
+      "date": "2025-08-27",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-』Live Blu-ray発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ディスクガレージ：ASKA 2025映像リリース",
+          "url": "https://www.diskgarage.com/digaonline/news/219589"
+        }
+      ]
+    },
+    {
+      "id": "v15-0234",
+      "date": "2025-10-08",
+      "artist": "Chage",
+      "category": "release",
+      "title": "アルバム『Instinto』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式アルバム一覧",
+          "url": "https://chage.jp/discography/chage/album.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0235",
+      "date": "2023-03-21",
+      "artist": "MULTI MAX",
+      "category": "milestone",
+      "title": "「WINDY ROAD」がFNSチャリティキャンペーン50周年ソングに決定",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "発表日・決定日。リリース日とは異なる",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0236",
+      "date": "2023-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA デビュー44周年",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1979年8月25日のデビューを起点とする記念日",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ]
+    },
+    {
+      "id": "v15-0237",
+      "date": "2024-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA デビュー45周年",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "45周年記念日",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ]
+    },
+    {
+      "id": "v15-0238",
+      "date": "2025-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA デビュー46周年",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "46周年記念日",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ]
+    },
+    {
+      "id": "v15-0239",
+      "date": "2025-09-28",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "JFN「Chageの音道」放送終了",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式Biographyの番組終了日",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0240",
+      "date": "2025-12-06",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "FM FUKUOKA「ちゃげっていうラジオ」放送開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式Biography記載の放送開始日",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0241",
+      "date": "2023-04-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM岡山「TWILIGHT PAVEMENT」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0242",
+      "date": "2023-07-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHK-FM「ディスカバー・ビートルズⅡ」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0243",
+      "date": "2023-07-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「BUTCH COUNTDOWN RADIO」リモート出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0244",
+      "date": "2023-08-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TOKYO FM「DEAR FRIEND」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0245",
+      "date": "2023-08-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ニッポン放送「垣花正 あなたとハッピー！」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0246",
+      "date": "2023-08-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "東海ラジオ「OH! MY CHANNEL!」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0247",
+      "date": "2023-08-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TOKYO FM「THE TRAD」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0248",
+      "date": "2023-08-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM山口「ひといき～HITOIKI～」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0249",
+      "date": "2023-08-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RSKラジオ「あもーれ！マッタリーノ」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0250",
+      "date": "2023-08-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "中京テレビ「ぐっと」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0251",
+      "date": "2023-08-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "α-STATION「J-AC TOP40」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0252",
+      "date": "2023-08-27",
+      "artist": "Chage",
+      "category": "media",
+      "title": "CBCラジオ「小堀勝啓の新栄トークジャンボリー」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0253",
+      "date": "2023-08-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM大阪「LOVE FLAP」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0254",
+      "date": "2023-09-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "MBSラジオ「ヤングタウン」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0255",
+      "date": "2023-09-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「DIG!!!!!!!!FUKUOKA」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0256",
+      "date": "2023-09-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHK福岡「ロクいち！福岡」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0257",
+      "date": "2023-09-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "bayfm「9の音粋」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0258",
+      "date": "2023-09-27",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NACK5「J-POP TALKIN'」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0259",
+      "date": "2023-10-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHK-FM「ラジオマンジャック」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0260",
+      "date": "2023-11-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "「あの頃青春グラフィティ」公開生放送出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2023）",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0261",
+      "date": "2024-01-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "広島FM「GOOD JOG」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0262",
+      "date": "2024-01-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「ライヴのじかん」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0263",
+      "date": "2024-01-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「DIG!!!!!!!!FUKUOKA」リモート出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0264",
+      "date": "2024-05-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM長崎「Chage SPECIAL PROGRAM 細道への誘い radio」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0265",
+      "date": "2024-07-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "HTB「イチオシ!!」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0266",
+      "date": "2024-07-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM NORTH WAVE「GOGO RADIO COMPANY」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0267",
+      "date": "2024-07-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "AIR-G'「brilliant days×F」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0268",
+      "date": "2024-07-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "HBCラジオ「ナルミッツ!!!」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0269",
+      "date": "2024-07-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHKラジオ「ふんわり」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0270",
+      "date": "2024-07-18",
+      "artist": "Chage",
+      "category": "media",
+      "title": "STVラジオ「リアルタイム！」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0271",
+      "date": "2024-08-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ABCラジオ「おはようパーソナリティ 小縣裕介です」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0272",
+      "date": "2024-08-02",
+      "artist": "Chage",
+      "category": "media",
+      "title": "HTB「イチオシ!!」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0273",
+      "date": "2024-08-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "J-WAVE「POP OF THE WORLD」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0274",
+      "date": "2024-08-27",
+      "artist": "Chage",
+      "category": "media",
+      "title": "bayfm「9の音粋」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0275",
+      "date": "2024-08-30",
+      "artist": "Chage",
+      "category": "media",
+      "title": "J-WAVE「ALL GOOD FRIDAY」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0276",
+      "date": "2024-09-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "α-STATION「MUSIC MATCH」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0277",
+      "date": "2024-09-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "K-MIX「月曜アドナインス」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0278",
+      "date": "2024-10-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM沖縄「For PM」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0279",
+      "date": "2024-10-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「DIG!!!!!!!!FUKUOKA」リモート出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2024）",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ]
+    },
+    {
+      "id": "v15-0280",
+      "date": "2025-06-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA開局55周年 Chage特別番組「この歌があるけん福岡たい！」",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0281",
+      "date": "2025-07-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「DIG!!!!!!!!FUKUOKA」リモート出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0282",
+      "date": "2025-09-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "KBCラジオ「アサデスラジオ」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0283",
+      "date": "2025-09-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "LOVE FM「スイッチオン！DAYTIME」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0284",
+      "date": "2025-09-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "MRO北陸放送「ノコトラジオ」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0285",
+      "date": "2025-09-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM長野「Oasis 79.7」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0286",
+      "date": "2025-09-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「Chage＆スターダスト☆レビュー」特別番組",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0287",
+      "date": "2025-09-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "南海放送「ニュースな時間」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0288",
+      "date": "2025-09-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "広島FM「Mash The Radio」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0289",
+      "date": "2025-10-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "AIR-G' FM北海道「北川久仁子のうふふ」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0290",
+      "date": "2025-10-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "STVラジオ「ラジオノマド」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0291",
+      "date": "2025-10-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "東海テレビ「スイッチ！」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0292",
+      "date": "2025-10-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "東海ラジオ「OH! MY CHANNEL!」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0293",
+      "date": "2025-10-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "CBCラジオ「新栄トークジャンボリー」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0294",
+      "date": "2025-10-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM802「UPBEAT!」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0295",
+      "date": "2025-10-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RCC「ザ★横山雄二ショー」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0296",
+      "date": "2025-10-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "Date fm「SOUND GENIC」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0297",
+      "date": "2025-11-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「BUTCH COUNTDOWN RADIO」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0298",
+      "date": "2025-11-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM大阪「Saturday Junction」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography（2025）",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
+      "id": "v15-0299",
+      "date": "2023-01-28",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「MUSIC FAIR」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ]
+    },
+    {
+      "id": "v15-0300",
+      "date": "2025-06-29",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ東京系列特番「ASKAスペシャル ～僕たちは自由でいなきゃ～」放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ディスクガレージ：ASKA 2025映像リリース",
+          "url": "https://www.diskgarage.com/digaonline/news/219589"
+        }
+      ]
+    },
+    {
+      "id": "v15-0301",
+      "date": "2024-04-20",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage Official Fan Club equal FAN MEETING 2024 @Spa Resort Hawaiians（1st）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1st：4月20日〜21日のFCイベント。開始日のみ登録。歌唱公演の実施日・公演回数は未確認",
+      "sources": [
+        {
+          "label": "Chage公式：2024年スパリゾートハワイアンズFCイベント",
+          "url": "https://chage.jp/information/fanclub/detail-604.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福島県",
+      "venue": "スパリゾートハワイアンズ"
+    },
+    {
+      "id": "v15-0302",
+      "date": "2024-04-21",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage Official Fan Club equal FAN MEETING 2024 @Spa Resort Hawaiians（2nd）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2nd：4月21日〜22日のFCイベント。開始日のみ登録。歌唱公演の実施日・公演回数は未確認",
+      "sources": [
+        {
+          "label": "Chage公式：2024年スパリゾートハワイアンズFCイベント",
+          "url": "https://chage.jp/information/fanclub/detail-604.php"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "福島県",
+      "venue": "スパリゾートハワイアンズ"
+    },
+    {
+      "id": "v15-0303",
+      "date": "2024-05-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "佐藤竹善 Presents Cross your fingers（ASKAゲスト出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本"
+    },
+    {
+      "id": "v15-0304",
+      "date": "2024-06-02",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "澤野弘之 LIVE [nZk]008（ASKAゲスト出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本"
+    },
+    {
+      "id": "v15-0305",
+      "date": "2024-10-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "京都音楽博覧会2024（ASKAゲスト出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "京都府",
+      "venue": "梅小路公園"
+    },
+    {
+      "id": "v15-0306",
+      "date": "2024-11-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "KANタービレ〜今夜は帰さナイトフィーバー〜（ASKAゲスト出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ぴあアリーナMM"
+    },
+    {
+      "id": "v15-0307",
+      "date": "2025-10-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "八神純子「ヤガ祭り the 7th ～ヤガミグミ Special～」（ASKAシークレットゲスト）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本"
+    },
+    {
+      "id": "v15-0308",
+      "date": "2024-07-06",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "ASKA×Fellows in 宮古島～少しの時間と大きな旅と～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "7月6日〜8日のFCイベント。初日のみ登録。各日の歌唱公演回数は未確認",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "country": "日本",
+      "prefecture": "沖縄県",
+      "venue": "宮古島"
+    },
+    {
+      "id": "v15-0309",
+      "date": "2025-04-28",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "NHK総合「tiny desk concerts JAPAN」Season 2 出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "国内放送4月28日0:25（4月27日深夜）。海外NHK WORLDでは4月27日から放送",
+      "sources": [
+        {
+          "label": "ASKA公式：NHK tiny desk concerts JAPAN 2025放送",
+          "url": "https://www.fellows.tokyo/news/detail/405"
+        }
+      ]
+    },
+    {
+      "id": "v15-0310",
+      "date": "2025-05-25",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日テレプラス「ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 日本武道館2.14」放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ]
+    },
+    {
+      "id": "v15-0311",
+      "date": "2025-12-03",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ系列「2025 FNS歌謡祭 第1夜」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "番組放送日。出演時間帯は未記録",
+      "sources": [
+        {
+          "label": "ASKA公式：2025 FNS歌謡祭出演",
+          "url": "https://www.fellows.tokyo/news/detail/588"
+        }
+      ]
     }
   ]
 }
