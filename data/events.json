@@ -47113,25 +47113,6 @@
       "prefecture": "神奈川県"
     },
     {
-      "id": "live-extra-2010-otodama-second-01",
-      "date": "2010-07-04",
-      "artist": "Chage",
-      "category": "live",
-      "title": "音霊 OTODAMA SEA STUDIO 2010 Chageの寄り道 渚編 ～大波～小波～",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "同日2公演・第2公演（開始時刻未確認）",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
-          "url": "https://www.chage-aska.net/history/2010.php"
-        }
-      ],
-      "country": "日本",
-      "venue": "音霊 OTODAMA SEA STUDIO",
-      "prefecture": "神奈川県"
-    },
-    {
       "id": "live-chage-hosomichi-2010-007",
       "date": "2010-07-10",
       "artist": "Chage",
@@ -58654,7 +58635,7 @@
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
       "verification": "secondary",
-      "note": "実施済み（2019年分4公演は登録済み）",
+      "note": "実施済み（2019年分4公演は登録済み）\n【重複整理により引き継いだ備考】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
       "sources": [
         {
           "label": "参考資料（非公式・公演記録）",
@@ -58670,24 +58651,6 @@
       "country": "日本",
       "prefecture": "新潟県",
       "venue": "りゅーとぴあ 新潟市民芸術文化会館 コンサートホール"
-    },
-    {
-      "id": "v18221-2020-01-18-aska-028",
-      "date": "2020-01-18",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "billboard classics ASKA premium ensemble concert -higher ground-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
-      "sources": [
-        {
-          "label": "主催・アーティスト公式資料",
-          "url": "https://billboard-cc.com/aska2019"
-        }
-      ],
-      "venue": "りゅーとぴあ 新潟市民芸術文化会館 コンサートホール",
-      "prefecture": "新潟県"
     },
     {
       "id": "v14-aska-higher-2020-done-006",
@@ -65444,7 +65407,7 @@
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【重複整理により引き継いだ備考】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -65456,24 +65419,6 @@
       "venue": "HEAVEN'S ROCK 宇都宮",
       "tourId": "chage-hosomichi-2024",
       "performanceNo": 10
-    },
-    {
-      "id": "v18223-2024-05-12-chage-098",
-      "date": "2024-05-12",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "Chage公式年譜で開催日・会場を照合。",
-      "sources": [
-        {
-          "label": "主催・アーティスト公式資料",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ],
-      "prefecture": "栃木県",
-      "venue": "HEAVEN’S ROCK 宇都宮"
     },
     {
       "id": "v15-0095",
@@ -72635,5 +72580,5 @@
       ]
     }
   ],
-  "siteVersion": "1.8.2-26"
+  "siteVersion": "1.8.2-27"
 }
