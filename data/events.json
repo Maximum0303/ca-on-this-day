@@ -2213,12 +2213,16 @@
       "country": "日本",
       "performanceNo": 1,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "ツアー・公演初日／アルバム『黄昏の騎士』発売日",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
     },
@@ -2241,49 +2245,32 @@
     },
     {
       "id": "live-spring-1982-002",
-      "date": "1982-02-16",
+      "date": "1982-02-15",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "'82春の陣 時代ヲ越エテ〈ドン・キホーテ〉ハ走ル",
       "tourId": "spring-1982",
-      "venue": "熊本市民会館",
-      "prefecture": "熊本県",
+      "venue": "松山市民会館",
+      "prefecture": "愛媛県",
       "country": "日本",
       "performanceNo": 2,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
     },
     {
       "id": "live-spring-1982-003",
-      "date": "1982-02-18",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "'82春の陣 時代ヲ越エテ〈ドン・キホーテ〉ハ走ル",
-      "tourId": "spring-1982",
-      "venue": "鹿児島文化センター",
-      "prefecture": "鹿児島県",
-      "country": "日本",
-      "performanceNo": 3,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
-        }
-      ]
-    },
-    {
-      "id": "live-spring-1982-004",
-      "date": "1982-02-20",
+      "date": "1982-02-17",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "'82春の陣 時代ヲ越エテ〈ドン・キホーテ〉ハ走ル",
@@ -2291,41 +2278,74 @@
       "venue": "広島郵便貯金ホール",
       "prefecture": "広島県",
       "country": "日本",
-      "performanceNo": 4,
+      "performanceNo": 3,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
+        }
+      ]
+    },
+    {
+      "id": "live-spring-1982-004",
+      "date": "1982-02-18",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "'82春の陣 時代ヲ越エテ〈ドン・キホーテ〉ハ走ル",
+      "tourId": "spring-1982",
+      "venue": "神戸文化ホール",
+      "prefecture": "兵庫県",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
     },
     {
       "id": "live-spring-1982-005",
-      "date": "1982-02-21",
+      "date": "1982-02-20",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "'82春の陣 時代ヲ越エテ〈ドン・キホーテ〉ハ走ル",
       "tourId": "spring-1982",
-      "venue": "岡山市民会館",
-      "prefecture": "岡山県",
+      "venue": "京都会館第一ホール",
+      "prefecture": "京都府",
       "country": "日本",
       "performanceNo": 5,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
     },
     {
       "id": "live-spring-1982-006",
-      "date": "1982-02-23",
+      "date": "1982-02-22",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "'82春の陣 時代ヲ越エテ〈ドン・キホーテ〉ハ走ル",
@@ -2335,18 +2355,22 @@
       "country": "日本",
       "performanceNo": 6,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
     },
     {
       "id": "live-spring-1982-007",
-      "date": "1982-02-24",
+      "date": "1982-02-23",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "'82春の陣 時代ヲ越エテ〈ドン・キホーテ〉ハ走ル",
@@ -2356,12 +2380,16 @@
       "country": "日本",
       "performanceNo": 7,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
     },
@@ -2377,12 +2405,16 @@
       "country": "日本",
       "performanceNo": 8,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
     },
@@ -2398,12 +2430,16 @@
       "country": "日本",
       "performanceNo": 9,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
     },
@@ -2419,81 +2455,97 @@
       "country": "日本",
       "performanceNo": 10,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
     },
     {
       "id": "live-spring-1982-011",
-      "date": "1982-03-05",
-      "artist": "CHAGE and ASKA",
-      "category": "live",
-      "title": "'82春の陣 時代ヲ越エテ〈ドン・キホーテ〉ハ走ル",
-      "tourId": "spring-1982",
-      "venue": "北海道厚生年金会館",
-      "prefecture": "北海道",
-      "country": "日本",
-      "performanceNo": 11,
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
-        }
-      ]
-    },
-    {
-      "id": "live-spring-1982-012",
       "date": "1982-03-08",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "'82春の陣 時代ヲ越エテ〈ドン・キホーテ〉ハ走ル",
       "tourId": "spring-1982",
-      "venue": "静岡市民文化会館",
-      "prefecture": "静岡県",
+      "venue": "函館市民会館",
+      "prefecture": "北海道",
       "country": "日本",
-      "performanceNo": 12,
+      "performanceNo": 11,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
     },
     {
-      "id": "live-spring-1982-013",
+      "id": "live-spring-1982-012",
       "date": "1982-03-10",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "'82春の陣 時代ヲ越エテ〈ドン・キホーテ〉ハ走ル",
       "tourId": "spring-1982",
-      "venue": "京都会館 第一ホール",
-      "prefecture": "京都府",
+      "venue": "札幌厚生年金会館",
+      "prefecture": "北海道",
       "country": "日本",
-      "performanceNo": 13,
+      "performanceNo": 12,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
+        }
+      ]
+    },
+    {
+      "id": "live-spring-1982-013",
+      "date": "1982-03-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "'82春の陣 時代ヲ越エテ〈ドン・キホーテ〉ハ走ル",
+      "tourId": "spring-1982",
+      "venue": "新宿厚生年金会館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
     },
     {
       "id": "live-spring-1982-014",
-      "date": "1982-03-14",
+      "date": "1982-03-15",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "'82春の陣 時代ヲ越エテ〈ドン・キホーテ〉ハ走ル",
@@ -2503,33 +2555,41 @@
       "country": "日本",
       "performanceNo": 14,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
     },
     {
       "id": "live-spring-1982-015",
-      "date": "1982-03-15",
+      "date": "1982-03-17",
       "artist": "CHAGE and ASKA",
       "category": "live",
       "title": "'82春の陣 時代ヲ越エテ〈ドン・キホーテ〉ハ走ル",
       "tourId": "spring-1982",
-      "venue": "新宿厚生年金会館",
-      "prefecture": "東京都",
+      "venue": "神奈川県民会館",
+      "prefecture": "神奈川県",
       "country": "日本",
       "performanceNo": 15,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
     },
@@ -2545,12 +2605,16 @@
       "country": "日本",
       "performanceNo": 16,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
     },
@@ -2566,12 +2630,16 @@
       "country": "日本",
       "performanceNo": 17,
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "ツアー・公演最終日",
       "sources": [
         {
-          "label": "CHAGE and ASKA 関連コンサート記録｜公演日程",
-          "url": "https://w.atwiki.jp/cavc/pages/369.html"
+          "label": "CHAGE and ASKA公式HISTORY｜1982年春の陣 公演日程",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜1982年春の陣",
+          "url": "https://w.atwiki.jp/canda/pages/407.html"
         }
       ]
     },
