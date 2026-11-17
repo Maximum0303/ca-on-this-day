@@ -198,6 +198,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18232-1979-12-31-chageandaska-001",
+      "date": "1979-12-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「スーパージャム」出演・放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：フジテレビ。出演形態：出演・放送。。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/17.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
       "id": "media-v17-1980-001",
       "date": "1980-01-04",
       "artist": "CHAGE and ASKA",
@@ -5797,6 +5816,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "media-v18232-1983-05-17-chageandaska-001",
+      "date": "1983-05-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「突然ガバチョ」出演・放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：MBS。出演形態：出演・放送。。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/24.html"
+        }
+      ],
+      "broadcastStation": "MBS"
+    },
+    {
       "id": "live-nemu-1983-005",
       "date": "1983-05-21",
       "artist": "CHAGE and ASKA",
@@ -7217,6 +7255,25 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         }
       ]
+    },
+    {
+      "id": "media-v18232-1984-04-13-chageandaska-001",
+      "date": "1984-04-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「LIVE G」出演・放送",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送局・配信媒体：TBS。出演形態：出演・放送。。放送局の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://w.atwiki.jp/cavc/pages/25.html"
+        }
+      ],
+      "broadcastStation": "TBS"
     },
     {
       "id": "live-invite-1984-014",
@@ -76282,5 +76339,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-31"
+  "siteVersion": "1.8.2-32"
 };
