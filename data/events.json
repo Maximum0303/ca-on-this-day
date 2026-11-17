@@ -61934,6 +61934,25 @@
       ]
     },
     {
+      "id": "other-v18229-2022-03-20-chage-001",
+      "date": "2022-03-20",
+      "artist": "Chage",
+      "category": "other",
+      "title": "川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～ 振替公演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ],
+      "startTime": "17:00"
+    },
+    {
       "id": "v14-chage2022-kawashima",
       "date": "2022-03-20",
       "artist": "Chage",
@@ -61986,6 +62005,25 @@
           "url": "https://chage.jp/biography/2022.php"
         }
       ]
+    },
+    {
+      "id": "other-v18229-2022-03-27-chage-001",
+      "date": "2022-03-27",
+      "artist": "Chage",
+      "category": "other",
+      "title": "門司港の聖火リレー点火セレモニー記念スペシャルにゲスト出演",
+      "venue": "旧大連航路上屋 2Fホール",
+      "prefecture": "福岡県",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ],
+      "startTime": "14:00"
     },
     {
       "id": "v14-aska-2022-encore-012",
@@ -62448,6 +62486,25 @@
       ],
       "venue": "キャナルシティ劇場",
       "prefecture": "福岡県"
+    },
+    {
+      "id": "media-v18229-2022-09-11-aska-001",
+      "date": "2022-09-11",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「FNSラフ＆ミュージック2022～歌と笑いの祭典～」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：フジテレビ系。出演形態：出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "broadcastStation": "フジテレビ系"
     },
     {
       "id": "v18222-2022-09-11-aska-061",
@@ -62929,6 +62986,25 @@
           "url": "https://chage.jp/biography/2022.php"
         }
       ]
+    },
+    {
+      "id": "media-v18229-2022-12-14-aska-001",
+      "date": "2022-12-14",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「2022FNS歌謡祭 第2夜」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：フジテレビ系。出演形態：出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "broadcastStation": "フジテレビ系"
     },
     {
       "id": "v14-chage-2022-billboard-001",
@@ -63639,6 +63715,24 @@
       "performanceNo": 7
     },
     {
+      "id": "other-v18229-2023-05-13-chage-001",
+      "date": "2023-05-13",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage Official Fan Club equal × 豊根村いただきファーム 田植え",
+      "venue": "豊根村いただきファーム",
+      "prefecture": "愛知県",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
+    },
+    {
       "id": "v15-0008",
       "date": "2023-05-14",
       "artist": "ASKA",
@@ -63796,6 +63890,24 @@
       "venue": "Yokohama mint hall",
       "tourId": "chage-hosomichi-2023",
       "performanceNo": 6
+    },
+    {
+      "id": "other-v18229-2023-06-10-chage-001",
+      "date": "2023-06-10",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage Official Fan Club equal × 豊根村いただきファーム 草取り",
+      "venue": "豊根村いただきファーム",
+      "prefecture": "愛知県",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ]
     },
     {
       "id": "v15-0023",
@@ -63985,6 +64097,25 @@
       "venue": "国営ひたち海浜公園"
     },
     {
+      "id": "media-v18229-2023-07-20-chage-001",
+      "date": "2023-07-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Brother presents Music Earth」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM AICHI。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "broadcastStation": "FM AICHI"
+    },
+    {
       "id": "v15-0015",
       "date": "2023-07-21",
       "artist": "ASKA",
@@ -64083,6 +64214,25 @@
       ]
     },
     {
+      "id": "media-v18229-2023-08-04-chage-001",
+      "date": "2023-08-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「hug+」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM大阪。出演形態：出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "broadcastStation": "FM大阪"
+    },
+    {
       "id": "v15-0017",
       "date": "2023-08-04",
       "artist": "ASKA",
@@ -64124,6 +64274,25 @@
       ]
     },
     {
+      "id": "media-v18229-2023-08-11-chage-001",
+      "date": "2023-08-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「THE MAGNIFICENT FRIDAY」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM COCOLO。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "broadcastStation": "FM COCOLO"
+    },
+    {
       "id": "v15-0221",
       "date": "2023-08-15",
       "artist": "Chage",
@@ -64154,6 +64323,82 @@
           "url": "https://chage.jp/biography/2023.php"
         }
       ]
+    },
+    {
+      "id": "media-v18229-2023-08-16-chage-001",
+      "date": "2023-08-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「UPBEAT!」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM802。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "broadcastStation": "FM802"
+    },
+    {
+      "id": "media-v18229-2023-08-17-chage-001",
+      "date": "2023-08-17",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「1スタは!?夜もZawaZawa」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ぎふチャン。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "broadcastStation": "ぎふチャン"
+    },
+    {
+      "id": "media-v18229-2023-08-18-chage-001",
+      "date": "2023-08-18",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Fresh Morning OKAYAMA」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM岡山。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "broadcastStation": "FM岡山"
+    },
+    {
+      "id": "media-v18229-2023-08-19-chage-001",
+      "date": "2023-08-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Welcome to Radio CUBE」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM三重。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "broadcastStation": "FM三重"
     },
     {
       "id": "v15-0248",
@@ -64288,6 +64533,25 @@
       ]
     },
     {
+      "id": "media-v18229-2023-09-01-chage-001",
+      "date": "2023-09-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Double-E」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM大阪。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "broadcastStation": "FM大阪"
+    },
+    {
       "id": "v15-0025",
       "date": "2023-09-02",
       "artist": "ASKA",
@@ -64343,6 +64607,25 @@
       "venue": "Zepp Nagoya",
       "tourId": "chage-windy-road-2023",
       "performanceNo": 1
+    },
+    {
+      "id": "media-v18229-2023-09-04-chage-001",
+      "date": "2023-09-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「CHANGE」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM佐賀。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "broadcastStation": "FM佐賀"
     },
     {
       "id": "v15-0254",
@@ -64481,6 +64764,25 @@
           "url": "https://chage.jp/biography/2023.php"
         }
       ]
+    },
+    {
+      "id": "media-v18229-2023-09-28-chage-001",
+      "date": "2023-09-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Age Free Music！」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：NACK5。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2023.php"
+        }
+      ],
+      "broadcastStation": "NACK5"
     },
     {
       "id": "v15-0051",
@@ -64694,6 +64996,25 @@
           "url": "https://chage.jp/biography/2023.php"
         }
       ]
+    },
+    {
+      "id": "media-v18229-2023-12-13-aska-001",
+      "date": "2023-12-13",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「2023 FNS歌謡祭 第2夜」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：フジテレビ系。出演形態：出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://www.fujitv.co.jp/FNS/2023/"
+        }
+      ],
+      "broadcastStation": "フジテレビ系"
     },
     {
       "id": "v15-0027",
@@ -65421,6 +65742,25 @@
       "performanceNo": 10
     },
     {
+      "id": "media-v18229-2024-05-17-chage-001",
+      "date": "2024-05-17",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「RADIO GROOVE」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ふくしまFM。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "ふくしまFM"
+    },
+    {
       "id": "v15-0095",
       "date": "2024-05-19",
       "artist": "Chage",
@@ -65442,6 +65782,25 @@
       "performanceNo": 11
     },
     {
+      "id": "media-v18229-2024-05-23-chage-001",
+      "date": "2024-05-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Colors」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM長崎。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FM長崎"
+    },
+    {
       "id": "v15-0303",
       "date": "2024-05-26",
       "artist": "ASKA",
@@ -65457,6 +65816,25 @@
         }
       ],
       "country": "日本"
+    },
+    {
+      "id": "media-v18229-2024-05-31-chage-001",
+      "date": "2024-05-31",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Fly-Day Wonder3」出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM長崎。出演形態：出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FM長崎"
     },
     {
       "id": "v15-0096",
@@ -65495,6 +65873,25 @@
         }
       ],
       "country": "日本"
+    },
+    {
+      "id": "media-v18229-2024-06-06-chage-001",
+      "date": "2024-06-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「RADI-MOTT」電話出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM青森。出演形態：電話出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FM青森"
     },
     {
       "id": "v15-0083",
@@ -65679,6 +66076,25 @@
       "performanceNo": 15
     },
     {
+      "id": "media-v18229-2024-07-08-chage-001",
+      "date": "2024-07-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Morning Brush」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：Date fm。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "Date fm"
+    },
+    {
       "id": "v15-0268",
       "date": "2024-07-09",
       "artist": "Chage",
@@ -65711,6 +66127,44 @@
       ]
     },
     {
+      "id": "media-v18229-2024-07-11-chage-001",
+      "date": "2024-07-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「KAT'S IN THE MORNING」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM NORTH WAVE。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FM NORTH WAVE"
+    },
+    {
+      "id": "media-v18229-2024-07-12-chage-001",
+      "date": "2024-07-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「ミックスプラス」生出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：SBC信越放送。出演形態：生出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "SBC信越放送"
+    },
+    {
       "id": "v15-0100",
       "date": "2024-07-13",
       "artist": "Chage",
@@ -65730,6 +66184,44 @@
       "venue": "CLUB JUNK BOX",
       "tourId": "chage-hosomichi-2024",
       "performanceNo": 16
+    },
+    {
+      "id": "media-v18229-2024-07-14-chage-001",
+      "date": "2024-07-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「BRDND-NEW TUNE」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM NORTH WAVE。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FM NORTH WAVE"
+    },
+    {
+      "id": "media-v18229-2024-07-15-chage-001",
+      "date": "2024-07-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「RAD～Radio All Day～」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：Date fm。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "Date fm"
     },
     {
       "id": "v15-0101",
@@ -65753,6 +66245,25 @@
       "performanceNo": 17
     },
     {
+      "id": "media-v18229-2024-07-16-chage-001",
+      "date": "2024-07-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「ワシワシブラザーズのポップコーンレディオ」生出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ラジオ3。出演形態：生出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "ラジオ3"
+    },
+    {
       "id": "v15-0270",
       "date": "2024-07-18",
       "artist": "Chage",
@@ -65767,6 +66278,101 @@
           "url": "https://chage.jp/biography/2024.php"
         }
       ]
+    },
+    {
+      "id": "media-v18229-2024-07-20-chage-001",
+      "date": "2024-07-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「高原兄の５時間耐久ラジオ 長て長てこたえられんが」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：KNBラジオ。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "KNBラジオ"
+    },
+    {
+      "id": "media-v18229-2024-07-21-chage-001",
+      "date": "2024-07-21",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「サンデーミュージックBOX」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：SBC信越放送。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "SBC信越放送"
+    },
+    {
+      "id": "media-v18229-2024-07-23-chage-001",
+      "date": "2024-07-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「tanto musik」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：uhb北海道文化放送。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "uhb北海道文化放送"
+    },
+    {
+      "id": "media-v18229-2024-07-25-chage-001",
+      "date": "2024-07-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「高原兄のサンクス・スマイル・ミュージック」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FMとやま。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FMとやま"
+    },
+    {
+      "id": "media-v18229-2024-07-31-chage-001",
+      "date": "2024-07-31",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Sunrise Station」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM長崎。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FM長崎"
     },
     {
       "id": "v15-0226",
@@ -65821,6 +66427,25 @@
       ]
     },
     {
+      "id": "media-v18229-2024-08-03-chage-001",
+      "date": "2024-08-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「トラックス」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：Date fm。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "Date fm"
+    },
+    {
       "id": "v15-0102",
       "date": "2024-08-03",
       "artist": "Chage",
@@ -65842,6 +66467,101 @@
       "performanceNo": 18
     },
     {
+      "id": "media-v18229-2024-08-06-chage-001",
+      "date": "2024-08-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「RADIO WE!」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM NORTH WAVE。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FM NORTH WAVE"
+    },
+    {
+      "id": "media-v18229-2024-08-07-chage-001",
+      "date": "2024-08-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "配信番組「赤坂泰彦のラジオグラフィティー」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：voicy。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "voicy"
+    },
+    {
+      "id": "media-v18229-2024-08-10-chage-001",
+      "date": "2024-08-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「二畳半レコード」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：福島中央テレビ。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "福島中央テレビ"
+    },
+    {
+      "id": "media-v18229-2024-08-12-chage-001",
+      "date": "2024-08-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「#tap」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM岡山。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FM岡山"
+    },
+    {
+      "id": "media-v18229-2024-08-15-chage-001",
+      "date": "2024-08-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「Wao！」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FBS福岡放送。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FBS福岡放送"
+    },
+    {
       "id": "v15-0103",
       "date": "2024-08-18",
       "artist": "Chage",
@@ -65861,6 +66581,82 @@
       "venue": "メニコンシアターAoi",
       "tourId": "chage-hosomichi-2024",
       "performanceNo": 19
+    },
+    {
+      "id": "media-v18229-2024-08-19-chage-001",
+      "date": "2024-08-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「CHANGE」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM佐賀。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FM佐賀"
+    },
+    {
+      "id": "media-v18229-2024-08-20-chage-001",
+      "date": "2024-08-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「MUSIC WOLF」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：NBCラジオ。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "NBCラジオ"
+    },
+    {
+      "id": "media-v18229-2024-08-21-chage-001",
+      "date": "2024-08-21",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「高田リオンのGOー! EVENING!」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM山陰。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FM山陰"
+    },
+    {
+      "id": "media-v18229-2024-08-22-chage-001",
+      "date": "2024-08-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Colors」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM長崎。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FM長崎"
     },
     {
       "id": "v15-0273",
@@ -65895,6 +66691,25 @@
       ]
     },
     {
+      "id": "media-v18229-2024-08-26-chage-001",
+      "date": "2024-08-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「MUSICおいおい！」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：Date fm。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "Date fm"
+    },
+    {
       "id": "v15-0274",
       "date": "2024-08-27",
       "artist": "Chage",
@@ -65909,6 +66724,25 @@
           "url": "https://chage.jp/biography/2024.php"
         }
       ]
+    },
+    {
+      "id": "media-v18229-2024-08-28-chage-001",
+      "date": "2024-08-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「SOUND SPLASH」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM新潟。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FM新潟"
     },
     {
       "id": "v15-0227",
@@ -65931,6 +66765,25 @@
       ]
     },
     {
+      "id": "media-v18229-2024-08-29-chage-001",
+      "date": "2024-08-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「RADIO GROOVE」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ふくしまFM。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "ふくしまFM"
+    },
+    {
       "id": "v15-0275",
       "date": "2024-08-30",
       "artist": "Chage",
@@ -65945,6 +66798,25 @@
           "url": "https://chage.jp/biography/2024.php"
         }
       ]
+    },
+    {
+      "id": "media-v18229-2024-08-31-chage-001",
+      "date": "2024-08-31",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「J-AC TOP40」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：α-STATION。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "α-STATION"
     },
     {
       "id": "v15-0110",
@@ -65972,6 +66844,25 @@
       "performanceNo": 1
     },
     {
+      "id": "media-v18229-2024-09-02-chage-001",
+      "date": "2024-09-02",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Oita Sunset Groove」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM大分。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FM大分"
+    },
+    {
       "id": "v15-0276",
       "date": "2024-09-03",
       "artist": "Chage",
@@ -65988,6 +66879,25 @@
       ]
     },
     {
+      "id": "media-v18229-2024-09-04-chage-001",
+      "date": "2024-09-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「ラジオのお仕事ハリきって（かわいい）」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ラジオカロスサッポロ。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "ラジオカロスサッポロ"
+    },
+    {
       "id": "v15-0225",
       "date": "2024-09-04",
       "artist": "ASKA",
@@ -66002,6 +66912,25 @@
           "url": "https://www.fellows.tokyo/discography/"
         }
       ]
+    },
+    {
+      "id": "media-v18229-2024-09-05-chage-001",
+      "date": "2024-09-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「MAGIC HOUR」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM長野。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FM長野"
     },
     {
       "id": "v15-0111",
@@ -66095,6 +67024,25 @@
       "performanceNo": 4
     },
     {
+      "id": "media-v18229-2024-09-16-chage-001",
+      "date": "2024-09-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「月曜アドナインス」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：K-MIX。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "K-MIX"
+    },
+    {
       "id": "v15-0114",
       "date": "2024-09-16",
       "artist": "Chage",
@@ -66120,6 +67068,25 @@
       "performanceNo": 5
     },
     {
+      "id": "media-v18229-2024-09-19-chage-001",
+      "date": "2024-09-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Rhythm Station レコメンド！」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM山形。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "FM山形"
+    },
+    {
       "id": "v15-0060",
       "date": "2024-09-21",
       "artist": "ASKA",
@@ -66140,6 +67107,25 @@
       "startTime": "17:00",
       "tourId": "aska-who-2024-2025",
       "performanceNo": 1
+    },
+    {
+      "id": "media-v18229-2024-09-23-chage-001",
+      "date": "2024-09-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「ディアフレンズ」生出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：TOKYO FM。出演形態：生出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "broadcastStation": "TOKYO FM"
     },
     {
       "id": "v15-0115",
@@ -67780,6 +68766,24 @@
       "performanceNo": 3
     },
     {
+      "id": "other-v18229-2025-05-10-chage-001",
+      "date": "2025-05-10",
+      "artist": "Chage",
+      "category": "other",
+      "title": "Chage Official Fan Club equal × 豊根村いただきファーム2025 田植え",
+      "venue": "豊根村いただきファーム",
+      "prefecture": "愛知県",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
       "id": "v15-0229",
       "date": "2025-05-14",
       "artist": "Chage",
@@ -68982,6 +69986,24 @@
       "performanceNo": 18
     },
     {
+      "id": "other-v18229-2025-09-28-chage-001",
+      "date": "2025-09-28",
+      "artist": "Chage",
+      "category": "other",
+      "title": "ラジオ番組「Chageの音道」放送終了",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式年譜に番組終了を記載。最終回の実放送日・局別時間差は個別確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ]
+    },
+    {
       "id": "v15-0181",
       "date": "2025-09-28",
       "artist": "Chage",
@@ -69051,6 +70073,25 @@
       ]
     },
     {
+      "id": "media-v18229-2025-10-04-chage-001",
+      "date": "2025-10-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「J-POPシャッフル」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：南海放送。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "南海放送"
+    },
+    {
       "id": "v15-0182",
       "date": "2025-10-04",
       "artist": "Chage",
@@ -69087,6 +70128,44 @@
         }
       ],
       "country": "日本"
+    },
+    {
+      "id": "media-v18229-2025-10-06-chage-001",
+      "date": "2025-10-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Echoes」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM愛媛。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "FM愛媛"
+    },
+    {
+      "id": "media-v18229-2025-10-07-chage-001",
+      "date": "2025-10-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「For PM」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM沖縄。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "FM沖縄"
     },
     {
       "id": "v15-0234",
@@ -69128,6 +70207,25 @@
       "venue": "Top Note",
       "tourId": "chage-hosomichi-2025",
       "performanceNo": 21
+    },
+    {
+      "id": "media-v18229-2025-10-12-chage-001",
+      "date": "2025-10-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「BRAND-NEW TUNE」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM NORTH WAVE。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "FM NORTH WAVE"
     },
     {
       "id": "v15-0161",
@@ -69172,6 +70270,63 @@
       "venue": "ガンガラーの谷",
       "tourId": "chage-hosomichi-2025",
       "performanceNo": 22
+    },
+    {
+      "id": "media-v18229-2025-10-13-chage-001",
+      "date": "2025-10-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「MUSIC SHOWER Plus＋」生出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：RBCiラジオ。出演形態：生出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "RBCiラジオ"
+    },
+    {
+      "id": "media-v18229-2025-10-14-chage-001",
+      "date": "2025-10-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「RADIO WE!」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM NORTH WAVE。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "FM NORTH WAVE"
+    },
+    {
+      "id": "media-v18229-2025-10-15-chage-001",
+      "date": "2025-10-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Joy Tune Radio」生出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：Kiss FM KOBE。出演形態：生出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "Kiss FM KOBE"
     },
     {
       "id": "v15-0291",
@@ -69222,6 +70377,25 @@
       ]
     },
     {
+      "id": "media-v18229-2025-10-20-chage-001",
+      "date": "2025-10-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「朝ドレ♪」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：中京テレビ。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "中京テレビ"
+    },
+    {
       "id": "v15-0294",
       "date": "2025-10-23",
       "artist": "Chage",
@@ -69236,6 +70410,25 @@
           "url": "https://chage.jp/biography/"
         }
       ]
+    },
+    {
+      "id": "media-v18229-2025-10-24-chage-001",
+      "date": "2025-10-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「RADIO ANTHEM」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM802。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "FM802"
     },
     {
       "id": "v15-0295",
@@ -69254,6 +70447,63 @@
       ]
     },
     {
+      "id": "media-v18229-2025-10-26-chage-001",
+      "date": "2025-10-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「SUPER J-HITS RADIO」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM COCOLO。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "FM COCOLO"
+    },
+    {
+      "id": "media-v18229-2025-10-27-chage-001",
+      "date": "2025-10-27",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「アーティストフラッシュ」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：AIR-G FM北海道。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "AIR-G FM北海道"
+    },
+    {
+      "id": "media-v18229-2025-10-28-chage-001",
+      "date": "2025-10-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「アーティストフラッシュ」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：AIR-G FM北海道。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "AIR-G FM北海道"
+    },
+    {
       "id": "v15-0296",
       "date": "2025-10-29",
       "artist": "Chage",
@@ -69268,6 +70518,25 @@
           "url": "https://chage.jp/biography/"
         }
       ]
+    },
+    {
+      "id": "media-v18229-2025-11-01-chage-001",
+      "date": "2025-11-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「MUSIC VOICE」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：広島FM。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "広島FM"
     },
     {
       "id": "v15-0188",
@@ -69312,6 +70581,44 @@
       "performanceNo": 2
     },
     {
+      "id": "media-v18229-2025-11-03-chage-001",
+      "date": "2025-11-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「ワシワシブラザーズのポップコーンレディオ」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ラジオ3。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "ラジオ3"
+    },
+    {
+      "id": "media-v18229-2025-11-04-chage-001",
+      "date": "2025-11-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「マイタウンRADIO」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ラジオ3。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "ラジオ3"
+    },
+    {
       "id": "v15-0297",
       "date": "2025-11-07",
       "artist": "Chage",
@@ -69326,6 +70633,25 @@
           "url": "https://chage.jp/biography/"
         }
       ]
+    },
+    {
+      "id": "media-v18229-2025-11-08-chage-001",
+      "date": "2025-11-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「tracks」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：Date fm。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "Date fm"
     },
     {
       "id": "v15-0190",
@@ -69368,6 +70694,25 @@
       "venue": "BLUE LIVE HIROSHIMA",
       "tourId": "chage-mr-november-2025",
       "performanceNo": 4
+    },
+    {
+      "id": "media-v18229-2025-11-12-chage-001",
+      "date": "2025-11-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「Moning Brush」ゲスト出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：Date fm。出演形態：ゲスト出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "Date fm"
     },
     {
       "id": "v15-0192",
@@ -69472,6 +70817,25 @@
       "performanceNo": 7
     },
     {
+      "id": "media-v18229-2025-11-24-chage-001",
+      "date": "2025-11-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「ましゅまろ気分」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：ラジオカロス。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "ラジオカロス"
+    },
+    {
       "id": "v15-0195",
       "date": "2025-11-30",
       "artist": "Chage",
@@ -69493,6 +70857,25 @@
       "performanceNo": 8
     },
     {
+      "id": "media-v18229-2025-12-01-chage-001",
+      "date": "2025-12-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「月’s BILL MONKEYS」コメント出演",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM NORTH WAVE。出演形態：コメント出演",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "FM NORTH WAVE"
+    },
+    {
       "id": "v15-0311",
       "date": "2025-12-03",
       "artist": "ASKA",
@@ -69507,6 +70890,25 @@
           "url": "https://www.fellows.tokyo/news/detail/588"
         }
       ]
+    },
+    {
+      "id": "media-v18229-2025-12-06-chage-001",
+      "date": "2025-12-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「やまやコミュニケーションズ presents ちゃげっていうラジオ」放送開始",
+      "venue": "",
+      "prefecture": "",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局・配信媒体：FM FUKUOKA。出演形態：放送開始",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/"
+        }
+      ],
+      "broadcastStation": "FM FUKUOKA"
     },
     {
       "id": "v15-0185",
@@ -72580,5 +73982,5 @@
       ]
     }
   ],
-  "siteVersion": "1.8.2-27"
+  "siteVersion": "1.8.2-29"
 }
