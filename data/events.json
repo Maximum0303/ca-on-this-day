@@ -44124,6 +44124,3680 @@
       "prefecture": "大阪府",
       "tourId": "chage-xmas-2016",
       "performanceNo": 4
+    },
+    {
+      "id": "v13-media-001",
+      "date": "2017-01-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "CS「しゃべくりDJ Chageのミュージックアワー！」#3放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/341.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-002",
+      "date": "2017-02-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "CS「しゃべくりDJ Chageのミュージックアワー！」#4放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/341.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-003",
+      "date": "2017-02-15",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ西日本「ももち浜ストア」出演・「FUKUOKA」披露",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/341.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-004",
+      "date": "2017-02-16",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ西日本「ももち浜ストア」インタビュー放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/341.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-001",
+      "date": "2017-02-22",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "アルバム『Too many people』発売",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "オリコン作品情報",
+          "url": "https://www.oricon.co.jp/prof/245800/products/1219695/1/"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-005",
+      "date": "2017-03-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "CS「しゃべくりDJ Chage＆デーモン閣下のミュージックアワー！」#1放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/341.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-002",
+      "date": "2017-03-17",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "書籍『700番 第一巻』発売",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2017"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch17-omoto",
+      "date": "2017-03-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "音市音座2017",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "スターダスト☆レビューほかと出演",
+      "sources": [
+        {
+          "label": "当時の公演予定情報",
+          "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
+        }
+      ],
+      "venue": "日本ガイシホール",
+      "prefecture": "愛知県",
+      "country": "日本"
+    },
+    {
+      "id": "v13-media-006",
+      "date": "2017-03-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "CS「しゃべくりDJ Chage＆デーモン閣下のミュージックアワー！」#2放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/341.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch17-fan-001",
+      "date": "2017-03-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認",
+      "sources": [
+        {
+          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "venue": "Rensa",
+      "country": "日本",
+      "performanceNo": 1,
+      "tourId": "chage-fm-2017",
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "v13-ch17-fan-002",
+      "date": "2017-04-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "venue": "松下IMPホール",
+      "country": "日本",
+      "performanceNo": 2,
+      "tourId": "chage-fm-2017",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "v13-ch17-fan-003",
+      "date": "2017-04-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "venue": "松下IMPホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "tourId": "chage-fm-2017",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "v13-ch17-fan-004",
+      "date": "2017-04-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "venue": "ダイアモンドホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "tourId": "chage-fm-2017",
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "v13-ch17-fan-005",
+      "date": "2017-04-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "venue": "ダイアモンドホール",
+      "country": "日本",
+      "performanceNo": 5,
+      "tourId": "chage-fm-2017",
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "v13-ch17-fan-006",
+      "date": "2017-04-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認",
+      "sources": [
+        {
+          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "venue": "広島クラブクアトロ",
+      "country": "日本",
+      "performanceNo": 6,
+      "tourId": "chage-fm-2017",
+      "prefecture": "広島県"
+    },
+    {
+      "id": "v13-ch17-fan-007",
+      "date": "2017-04-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認",
+      "sources": [
+        {
+          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "venue": "イムズホール",
+      "country": "日本",
+      "performanceNo": 7,
+      "tourId": "chage-fm-2017",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "v13-ch17-mizutani",
+      "date": "2017-04-16",
+      "artist": "Chage",
+      "category": "live",
+      "title": "水谷千重子キーポンシャイニング歌謡祭2017 東京公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "昭和女子大学人見記念講堂",
+      "prefecture": "東京都",
+      "country": "日本"
+    },
+    {
+      "id": "v13-ch17-fan-008",
+      "date": "2017-04-29",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "venue": "品川インターシティホール",
+      "country": "日本",
+      "performanceNo": 8,
+      "tourId": "chage-fm-2017",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v13-ch17-fan-009",
+      "date": "2017-04-29",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "venue": "品川インターシティホール",
+      "country": "日本",
+      "performanceNo": 9,
+      "tourId": "chage-fm-2017",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v13-media-007",
+      "date": "2017-04-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「MUSIC FAIR」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch17-fan-010",
+      "date": "2017-04-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "venue": "品川インターシティホール",
+      "country": "日本",
+      "performanceNo": 10,
+      "tourId": "chage-fm-2017",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v13-ch17-fan-011",
+      "date": "2017-04-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）",
+      "sources": [
+        {
+          "label": "公演総数と公式日程・当時の公演案内の照合",
+          "url": "https://w.atwiki.jp/canda/pages/290.html"
+        }
+      ],
+      "venue": "品川インターシティホール",
+      "country": "日本",
+      "performanceNo": 11,
+      "tourId": "chage-fm-2017",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v13-release-003",
+      "date": "2017-05-03",
+      "artist": "Chage",
+      "category": "release",
+      "title": "シングル『たった一度の人生ならば』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch17-popcon-001",
+      "date": "2017-05-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "僕らのポプコンエイジ2017 ～Forever Friends, Forever Cocky Pop～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公演主催側プレスリリース",
+          "url": "https://www.atpress.ne.jp/news/117630"
+        }
+      ],
+      "venue": "府中の森芸術劇場 どりーむホール",
+      "country": "日本",
+      "performanceNo": 1,
+      "tourId": "ch17-popcon",
+      "prefecture": "東京都",
+      "startTime": "16:30"
+    },
+    {
+      "id": "v13-ch17-have-a-dream-001",
+      "date": "2017-05-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Hall Tour 2017 ～Have a Dream！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "日本特殊陶業市民会館 フォレストホール",
+      "country": "日本",
+      "performanceNo": 1,
+      "tourId": "chage-have-a-dream-2017",
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "v13-ch17-have-a-dream-002",
+      "date": "2017-05-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Hall Tour 2017 ～Have a Dream！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "大宮ソニックシティ 大ホール",
+      "country": "日本",
+      "performanceNo": 2,
+      "tourId": "chage-have-a-dream-2017",
+      "prefecture": "埼玉県"
+    },
+    {
+      "id": "v13-ch17-popcon-002",
+      "date": "2017-05-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "僕らのポプコンエイジ2017 ～Forever Friends, Forever Cocky Pop～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公演主催側プレスリリース",
+          "url": "https://www.atpress.ne.jp/news/117630"
+        }
+      ],
+      "venue": "オリックス劇場",
+      "country": "日本",
+      "performanceNo": 2,
+      "tourId": "ch17-popcon",
+      "prefecture": "大阪府",
+      "startTime": "19:00"
+    },
+    {
+      "id": "v13-ch17-popcon-003",
+      "date": "2017-05-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "僕らのポプコンエイジ2017 ～Forever Friends, Forever Cocky Pop～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公演主催側プレスリリース",
+          "url": "https://www.atpress.ne.jp/news/117630"
+        }
+      ],
+      "venue": "よこすか芸術劇場",
+      "country": "日本",
+      "performanceNo": 3,
+      "tourId": "ch17-popcon",
+      "prefecture": "神奈川県",
+      "startTime": "17:00"
+    },
+    {
+      "id": "v13-ch17-have-a-dream-003",
+      "date": "2017-05-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Hall Tour 2017 ～Have a Dream！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "神戸文化ホール 大ホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "tourId": "chage-have-a-dream-2017",
+      "prefecture": "兵庫県"
+    },
+    {
+      "id": "v13-ch17-have-a-dream-004",
+      "date": "2017-05-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Hall Tour 2017 ～Have a Dream！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "福岡市民会館 大ホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "tourId": "chage-have-a-dream-2017",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "v13-ch17-popcon-004",
+      "date": "2017-05-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "僕らのポプコンエイジ2017 ～Forever Friends, Forever Cocky Pop～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公演主催側プレスリリース",
+          "url": "https://www.atpress.ne.jp/news/117630"
+        }
+      ],
+      "venue": "市川市文化会館 大ホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "tourId": "ch17-popcon",
+      "prefecture": "千葉県",
+      "startTime": "17:00"
+    },
+    {
+      "id": "v13-ch17-have-a-dream-005",
+      "date": "2017-05-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Hall Tour 2017 ～Have a Dream！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "東京エレクトロンホール宮城 大ホール",
+      "country": "日本",
+      "performanceNo": 5,
+      "tourId": "chage-have-a-dream-2017",
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "v13-ch17-have-a-dream-006",
+      "date": "2017-05-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Hall Tour 2017 ～Have a Dream！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "ニトリ文化ホール",
+      "country": "日本",
+      "performanceNo": 6,
+      "tourId": "chage-have-a-dream-2017",
+      "prefecture": "北海道"
+    },
+    {
+      "id": "v13-ch17-have-a-dream-007",
+      "date": "2017-05-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Hall Tour 2017 ～Have a Dream！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "千葉県文化会館 大ホール",
+      "country": "日本",
+      "performanceNo": 7,
+      "tourId": "chage-have-a-dream-2017",
+      "prefecture": "千葉県"
+    },
+    {
+      "id": "v13-ch17-have-a-dream-008",
+      "date": "2017-06-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Hall Tour 2017 ～Have a Dream！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "アルモニーサンク北九州 ソレイユホール",
+      "country": "日本",
+      "performanceNo": 8,
+      "tourId": "chage-have-a-dream-2017",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "v13-ch17-have-a-dream-009",
+      "date": "2017-06-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Hall Tour 2017 ～Have a Dream！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "府中の森芸術劇場 どりーむホール",
+      "country": "日本",
+      "performanceNo": 9,
+      "tourId": "chage-have-a-dream-2017",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v13-ch17-have-a-dream-010",
+      "date": "2017-06-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Hall Tour 2017 ～Have a Dream！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "オリックス劇場",
+      "country": "日本",
+      "performanceNo": 10,
+      "tourId": "chage-have-a-dream-2017",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "v13-media-008",
+      "date": "2017-07-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "日本テレビ「バズリズム」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch17-landscape-001",
+      "date": "2017-08-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2017 ～遠景 / landscape～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "豊洲PIT",
+      "country": "日本",
+      "performanceNo": 1,
+      "tourId": "chage-landscape-2017",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v13-ch17-landscape-002",
+      "date": "2017-08-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2017 ～遠景 / landscape～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "豊洲PIT",
+      "country": "日本",
+      "performanceNo": 2,
+      "tourId": "chage-landscape-2017",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v13-ch17-landscape-003",
+      "date": "2017-08-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2017 ～遠景 / landscape～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "Zepp Nagoya",
+      "country": "日本",
+      "performanceNo": 3,
+      "tourId": "chage-landscape-2017",
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "v13-ch17-landscape-004",
+      "date": "2017-08-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2017 ～遠景 / landscape～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "Zepp Osaka Bayside",
+      "country": "日本",
+      "performanceNo": 4,
+      "tourId": "chage-landscape-2017",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "v13-ch17-landscape-005",
+      "date": "2017-09-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2017 ～遠景 / landscape～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "豊洲PIT",
+      "country": "日本",
+      "performanceNo": 5,
+      "tourId": "chage-landscape-2017",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v13-ch17-hieizan",
+      "date": "2017-09-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Keep on Smiling for Children Project in 比叡山延暦寺",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "比叡山延暦寺 大講堂",
+      "prefecture": "滋賀県",
+      "country": "日本"
+    },
+    {
+      "id": "v13-ch17-hattori",
+      "date": "2017-10-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "服部克久 ～傘寿の音楽会～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "昭和女子大学人見記念講堂",
+      "prefecture": "東京都",
+      "country": "日本"
+    },
+    {
+      "id": "v13-release-004",
+      "date": "2017-10-11",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "映像作品『Too many people Music Video ＋ いろいろ』DVD/Blu-ray発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "販売元作品情報",
+          "url": "https://anysee.jp/ec/feature/aska/"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-009",
+      "date": "2017-10-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS-TBS「祝80歳！服部克久傘寿メモリアルライブ」放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-005",
+      "date": "2017-10-25",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "アルバム『Black&White』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "販売元作品情報",
+          "url": "https://anysee.jp/ec/feature/aska/"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-010",
+      "date": "2017-11-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS-TBS「Keep on Smiling for Children in 比叡山延暦寺」放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-006",
+      "date": "2017-12-13",
+      "artist": "Chage",
+      "category": "release",
+      "title": "提供曲『もらい酒みなと旅』配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "Chage作詞・作曲・プロデュースの提供曲で、Chage本人の歌唱音源ではない",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch17-heavy",
+      "date": "2017-12-16",
+      "artist": "Chage",
+      "category": "live",
+      "title": "おとなヘビーローテーションライブ Vol.4",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "コラボレーションゲスト出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "福岡サンパレス ホテル＆ホール",
+      "prefecture": "福岡県",
+      "country": "日本"
+    },
+    {
+      "id": "v13-ch17-xmas-001",
+      "date": "2017-12-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Christmas Dinner Show 2017",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "新横浜プリンスホテル",
+      "country": "日本",
+      "performanceNo": 1,
+      "tourId": "ch17-xmas",
+      "prefecture": "神奈川県"
+    },
+    {
+      "id": "v13-ch17-xmas-002",
+      "date": "2017-12-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Christmas Dinner Show 2017",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "グランドプリンスホテル新高輪",
+      "country": "日本",
+      "performanceNo": 2,
+      "tourId": "ch17-xmas",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v13-ch17-xmas-003",
+      "date": "2017-12-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Christmas Dinner Show 2017",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2017.php"
+        }
+      ],
+      "venue": "ハイアットリージェンシー大阪",
+      "country": "日本",
+      "performanceNo": 3,
+      "tourId": "ch17-xmas",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "v13-release-007",
+      "date": "2018-01-01",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "「一度きりの笑顔」配信開始",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        }
+      ]
+    },
+    {
+      "id": "v13-milestone-001",
+      "date": "2018-01-19",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "ASKA Official Web Site「Fellows」開設",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ファンクラブではなくオフィシャルサイト開設日",
+      "sources": [
+        {
+          "label": "公式本人発信・年表",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch18-radio",
+      "date": "2018-01-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "Chageの音道 400回記念 公開収録",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公開収録。会場は未確認",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-011",
+      "date": "2018-01-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BSフジ「僕らのポプコンエイジ2017」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-008",
+      "date": "2018-02-12",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "「黄昏を待たずに」配信開始",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-009",
+      "date": "2018-02-28",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "デジタルブックレット『Too many people』発売",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-010",
+      "date": "2018-02-28",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『CHAGE BEST SONGS / PROLOGUE』Blu-spec CD2再発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "従来作品の再発売・配信として区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-012",
+      "date": "2018-03-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS日テレ「地球劇場」出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch18-one-nation",
+      "date": "2018-03-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ONE+NATION music circus in 都城2018",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "都城市高城観音池公園野外ステージ",
+      "prefecture": "宮崎県",
+      "country": "日本"
+    },
+    {
+      "id": "v13-release-011",
+      "date": "2018-03-25",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "月一配信第1弾「虹の花」配信開始",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch18-fan-day-001",
+      "date": "2018-04-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2018 はい チーズ！歌写♪（開催日記録）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催日単位の記録。別資料の総数11公演との差4回は各日への振り分け未確認で、1件＝1公演ではない",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "イムズホール",
+      "country": "日本",
+      "performanceNo": 1,
+      "tourId": "chage-fm-2018",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "v13-ch18-fan-day-002",
+      "date": "2018-04-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2018 はい チーズ！歌写♪（開催日記録）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催日単位の記録。別資料の総数11公演との差4回は各日への振り分け未確認で、1件＝1公演ではない",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "広島クラブクアトロ",
+      "country": "日本",
+      "performanceNo": 2,
+      "tourId": "chage-fm-2018",
+      "prefecture": "広島県"
+    },
+    {
+      "id": "v13-milestone-002",
+      "date": "2018-04-09",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "ASKA公式ファンクラブ「Fellows」開設",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式サイト開設日（1月19日）と区別",
+      "sources": [
+        {
+          "label": "公式本人発信・年表",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch18-fan-day-003",
+      "date": "2018-04-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2018 はい チーズ！歌写♪（開催日記録）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催日単位の記録。別資料の総数11公演との差4回は各日への振り分け未確認で、1件＝1公演ではない",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "Rensa",
+      "country": "日本",
+      "performanceNo": 3,
+      "tourId": "chage-fm-2018",
+      "prefecture": "宮城県"
+    },
+    {
+      "id": "v13-release-012",
+      "date": "2018-04-16",
+      "artist": "Chage",
+      "category": "release",
+      "title": "Chageライブ作品のiTunes Store配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "従来作品の再発売・配信として区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch18-fan-day-004",
+      "date": "2018-04-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2018 はい チーズ！歌写♪（開催日記録）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催日単位の記録。別資料の総数11公演との差4回は各日への振り分け未確認で、1件＝1公演ではない",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "ダイアモンドホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "tourId": "chage-fm-2018",
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "v13-ch18-fan-day-005",
+      "date": "2018-04-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2018 はい チーズ！歌写♪（開催日記録）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催日単位の記録。別資料の総数11公演との差4回は各日への振り分け未確認で、1件＝1公演ではない",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "松下IMPホール",
+      "country": "日本",
+      "performanceNo": 5,
+      "tourId": "chage-fm-2018",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "v13-release-013",
+      "date": "2018-04-25",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "月一配信第2弾「未来の人よ」配信開始",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch18-fan-day-006",
+      "date": "2018-04-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2018 はい チーズ！歌写♪（開催日記録）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催日単位の記録。別資料の総数11公演との差4回は各日への振り分け未確認で、1件＝1公演ではない",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "品川インターシティホール",
+      "country": "日本",
+      "performanceNo": 6,
+      "tourId": "chage-fm-2018",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v13-ch18-fan-day-007",
+      "date": "2018-04-29",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2018 はい チーズ！歌写♪（開催日記録）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催日単位の記録。別資料の総数11公演との差4回は各日への振り分け未確認で、1件＝1公演ではない",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "品川インターシティホール",
+      "country": "日本",
+      "performanceNo": 7,
+      "tourId": "chage-fm-2018",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v13-release-014",
+      "date": "2018-05-01",
+      "artist": "Chage",
+      "category": "release",
+      "title": "映画『missing pages』iTunes Store配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "従来作品の再発売・配信として区別",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch18-sakaeminami",
+      "date": "2018-05-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "栄ミナミ音楽祭2018",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "出演。会場詳細未確認",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "prefecture": "愛知県",
+      "country": "日本"
+    },
+    {
+      "id": "v13-release-015",
+      "date": "2018-05-16",
+      "artist": "Chage",
+      "category": "release",
+      "title": "ベストアルバム『音道』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/chage/album/011.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-013",
+      "date": "2018-05-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "日本テレビ「PON！」出演・「終章」MEMORIAL VERSION披露",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-016",
+      "date": "2018-05-25",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "月一配信第3弾「修羅を行く」配信開始",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-014",
+      "date": "2018-05-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ東京「プレミアMelodix!」出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-015",
+      "date": "2018-06-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ西日本「ももち浜ストア」出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-016",
+      "date": "2018-06-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "福岡放送「めんたいワイド」出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-017",
+      "date": "2018-06-12",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "アルバム『Too many people』『Black&White』ハイレゾ配信開始",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-018",
+      "date": "2018-06-25",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "月一配信第4弾「イイ天気」配信開始",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-017",
+      "date": "2018-06-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHK「うたコン」出演・島谷ひとみと「ふたりの愛ランド」披露",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-018",
+      "date": "2018-07-21",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TOKYO MX「ミュージック・モア」出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-019",
+      "date": "2018-07-25",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "月一配信第5弾「憲兵も王様も居ない城」配信開始",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-020",
+      "date": "2018-07-25",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "映像作品『Black&White Music Video』DVD/Blu-ray発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "販売元作品情報",
+          "url": "https://anysee.jp/ec/feature/aska/"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-019",
+      "date": "2018-07-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TOKYO MX「ミュージック・モア」出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch18-imperial-osaka",
+      "date": "2018-08-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "IMPERIAL JAZZ 2018",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "帝国ホテル大阪",
+      "prefecture": "大阪府",
+      "country": "日本"
+    },
+    {
+      "id": "v13-ch18-imperial-tokyo",
+      "date": "2018-08-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "IMPERIAL JAZZ 2018",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "帝国ホテル東京",
+      "prefecture": "東京都",
+      "country": "日本"
+    },
+    {
+      "id": "v13-milestone-003",
+      "date": "2018-08-24",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "ASKA Official Channel（YouTube）開設",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式本人発信・年表",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch18-crimson-001",
+      "date": "2018-08-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2018 ◆CRIMSON◆",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ユニバーサルミュージック公式公演案内",
+          "url": "https://www.universal-music.co.jp/chage/news/2018-05-01-live/"
+        }
+      ],
+      "venue": "豊洲PIT",
+      "country": "日本",
+      "performanceNo": 1,
+      "tourId": "chage-crimson-2018",
+      "prefecture": "東京都",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-release-021",
+      "date": "2018-08-25",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "月一配信第6弾「星は何でも知っている」配信開始",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch18-crimson-002",
+      "date": "2018-08-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2018 ◆CRIMSON◆",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ユニバーサルミュージック公式公演案内",
+          "url": "https://www.universal-music.co.jp/chage/news/2018-05-01-live/"
+        }
+      ],
+      "venue": "豊洲PIT",
+      "country": "日本",
+      "performanceNo": 2,
+      "tourId": "chage-crimson-2018",
+      "prefecture": "東京都",
+      "startTime": "15:00"
+    },
+    {
+      "id": "v13-ch18-crimson-003",
+      "date": "2018-09-01",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2018 ◆CRIMSON◆",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ユニバーサルミュージック公式公演案内",
+          "url": "https://www.universal-music.co.jp/chage/news/2018-05-01-live/"
+        }
+      ],
+      "venue": "Zepp Nagoya",
+      "country": "日本",
+      "performanceNo": 3,
+      "tourId": "chage-crimson-2018",
+      "prefecture": "愛知県",
+      "startTime": "17:00"
+    },
+    {
+      "id": "v13-ch18-crimson-004",
+      "date": "2018-09-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2018 ◆CRIMSON◆",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ユニバーサルミュージック公式公演案内",
+          "url": "https://www.universal-music.co.jp/chage/news/2018-05-01-live/"
+        }
+      ],
+      "venue": "Zepp Namba",
+      "country": "日本",
+      "performanceNo": 4,
+      "tourId": "chage-crimson-2018",
+      "prefecture": "大阪府",
+      "startTime": "17:00"
+    },
+    {
+      "id": "v13-ch18-crimson-005",
+      "date": "2018-09-04",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2018 ◆CRIMSON◆",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ユニバーサルミュージック公式公演案内",
+          "url": "https://www.universal-music.co.jp/chage/news/2018-05-01-live/"
+        }
+      ],
+      "venue": "電気ビル みらいホール",
+      "country": "日本",
+      "performanceNo": 5,
+      "tourId": "chage-crimson-2018",
+      "prefecture": "福岡県",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-ch18-kurofes",
+      "date": "2018-09-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "黒フェス2018 ～白黒歌合戦～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "豊洲PIT",
+      "prefecture": "東京都",
+      "country": "日本"
+    },
+    {
+      "id": "v13-ch18-anniversary",
+      "date": "2018-09-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageソロデビュー20周年＆CRIMSON YEAR記念イベント ～ちゃんと祝ってくれるかな？～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ソロ活動20周年記念",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "Zepp Tokyo",
+      "prefecture": "東京都",
+      "country": "日本"
+    },
+    {
+      "id": "v13-ch18-songbooks",
+      "date": "2018-10-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "GORO MATSUI SONGBOOKS Vol.10",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "JZ Brat SOUND OF TOKYO",
+      "prefecture": "東京都",
+      "country": "日本"
+    },
+    {
+      "id": "v13-release-022",
+      "date": "2018-10-17",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "ベストアルバム『Made in ASKA』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ヤマハ公式Discography",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/artist/113"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-023",
+      "date": "2018-10-17",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "ベストアルバム『We are the Fellows』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ヤマハ公式Discography",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/artist/113"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch18-heian",
+      "date": "2018-10-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "2018秋 平安京天平祭 FM OH! Dramatic Live",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "出演。会場詳細未確認",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "prefecture": "奈良県",
+      "country": "日本"
+    },
+    {
+      "id": "v13-aska18-pride-001",
+      "date": "2018-11-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス公演公式",
+          "url": "https://billboard-cc.com/aska2018"
+        }
+      ],
+      "venue": "東京国際フォーラム ホールA",
+      "country": "日本",
+      "performanceNo": 1,
+      "tourId": "aska-pride-2018",
+      "prefecture": "東京都",
+      "startTime": "19:00"
+    },
+    {
+      "id": "v13-release-024",
+      "date": "2018-11-07",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『SCENE』『SCENE II』Remix ver. ハイレゾ配信開始",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-020",
+      "date": "2018-11-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビNEXT「坂崎幸之助のももいろフォーク村NEXT」出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-025",
+      "date": "2018-11-11",
+      "artist": "Chage",
+      "category": "release",
+      "title": "映像『CHAGE大いに唄うin武道館 20th ANNIVERSARY Edition』Blu-ray発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-021",
+      "date": "2018-11-12",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TBS「ビビット」インタビュー放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-aska18-pride-002",
+      "date": "2018-11-14",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス公演公式",
+          "url": "https://billboard-cc.com/aska2018"
+        }
+      ],
+      "venue": "フェスティバルホール",
+      "country": "日本",
+      "performanceNo": 2,
+      "tourId": "aska-pride-2018",
+      "prefecture": "大阪府",
+      "startTime": "19:00"
+    },
+    {
+      "id": "v13-media-022",
+      "date": "2018-11-16",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "NHK「ニュースウオッチ9」インタビュー放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-026",
+      "date": "2018-11-21",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "アルバム『SCENE -Remix ver.-』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ヤマハ公式Discography",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/artist/113"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-027",
+      "date": "2018-11-21",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "アルバム『SCENE II -Remix ver.-』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ヤマハ公式Discography",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/artist/113"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-028",
+      "date": "2018-11-22",
+      "artist": "Chage",
+      "category": "release",
+      "title": "映像『Chage Live Tour 2018 ◆CRIMSON◆』Blu-ray/DVD発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-aska18-pride-003",
+      "date": "2018-11-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス公演公式",
+          "url": "https://billboard-cc.com/aska2018"
+        }
+      ],
+      "venue": "仙台サンプラザホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "tourId": "aska-pride-2018",
+      "prefecture": "宮城県",
+      "startTime": "19:00"
+    },
+    {
+      "id": "v13-ch18-kawashima",
+      "date": "2018-11-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "川島ケイジ＆ソノダオーケストラ Holiday Concert 2018 The Sacred Moment",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "スペシャルゲスト出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "サントリーホール ブルーローズ",
+      "prefecture": "東京都",
+      "country": "日本"
+    },
+    {
+      "id": "v13-aska18-pride-004",
+      "date": "2018-12-03",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス公演公式",
+          "url": "https://billboard-cc.com/aska2018"
+        }
+      ],
+      "venue": "東京国際フォーラム ホールA",
+      "country": "日本",
+      "performanceNo": 4,
+      "tourId": "aska-pride-2018",
+      "prefecture": "東京都",
+      "startTime": "19:00"
+    },
+    {
+      "id": "v13-aska18-pride-005",
+      "date": "2018-12-06",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス公演公式",
+          "url": "https://billboard-cc.com/aska2018"
+        }
+      ],
+      "venue": "東京国際フォーラム ホールA",
+      "country": "日本",
+      "performanceNo": 5,
+      "tourId": "aska-pride-2018",
+      "prefecture": "東京都",
+      "startTime": "19:00"
+    },
+    {
+      "id": "v13-media-023",
+      "date": "2018-12-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHK「えぇトコ」出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-aska18-pride-006",
+      "date": "2018-12-08",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス公演公式",
+          "url": "https://billboard-cc.com/aska2018"
+        }
+      ],
+      "venue": "兵庫県立芸術文化センター KOBELCO大ホール",
+      "country": "日本",
+      "performanceNo": 6,
+      "tourId": "aska-pride-2018",
+      "prefecture": "兵庫県",
+      "startTime": "17:00"
+    },
+    {
+      "id": "v13-aska18-pride-007",
+      "date": "2018-12-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス公演公式",
+          "url": "https://billboard-cc.com/aska2018"
+        }
+      ],
+      "venue": "ロームシアター京都",
+      "country": "日本",
+      "performanceNo": 7,
+      "tourId": "aska-pride-2018",
+      "prefecture": "京都府",
+      "startTime": "19:00"
+    },
+    {
+      "id": "v13-aska18-pride-008",
+      "date": "2018-12-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス公演公式",
+          "url": "https://billboard-cc.com/aska2018"
+        }
+      ],
+      "venue": "札幌コンサートホールKitara 大ホール",
+      "country": "日本",
+      "performanceNo": 8,
+      "tourId": "aska-pride-2018",
+      "prefecture": "北海道",
+      "startTime": "19:00"
+    },
+    {
+      "id": "v13-aska18-pride-009",
+      "date": "2018-12-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス公演公式",
+          "url": "https://billboard-cc.com/aska2018"
+        }
+      ],
+      "venue": "神奈川県民ホール 大ホール",
+      "country": "日本",
+      "performanceNo": 9,
+      "tourId": "aska-pride-2018",
+      "prefecture": "神奈川県",
+      "startTime": "17:00"
+    },
+    {
+      "id": "v13-aska18-pride-010",
+      "date": "2018-12-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス公演公式",
+          "url": "https://billboard-cc.com/aska2018"
+        }
+      ],
+      "venue": "福岡サンパレス",
+      "country": "日本",
+      "performanceNo": 10,
+      "tourId": "aska-pride-2018",
+      "prefecture": "福岡県",
+      "startTime": "19:00"
+    },
+    {
+      "id": "v13-ch18-xmas",
+      "date": "2018-12-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Christmas Dinner Show 2018",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "venue": "グランドプリンスホテル新高輪",
+      "prefecture": "東京都",
+      "country": "日本"
+    },
+    {
+      "id": "v13-aska18-pride-shizuoka",
+      "date": "2018-12-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE- LAST OF LAST in SHIZUOKA",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "追加公演・静岡公演",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス公演公式",
+          "url": "https://billboard-cc.com/aska2018"
+        }
+      ],
+      "venue": "グランシップ 大ホール・海",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "tourId": "aska-pride-2018",
+      "performanceNo": 11
+    },
+    {
+      "id": "v13-media-024",
+      "date": "2018-12-29",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビTWO「ASKA PREMIUM SYMPHONIC CONCERT 2018」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-025",
+      "date": "2019-01-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビNEXT「Chage＆坂崎幸之助へきくちから」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/343.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-026",
+      "date": "2019-01-17",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「直撃！シンソウ坂上」出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/343.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-027",
+      "date": "2019-02-05",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TTV「超級巨星紅白藝能大賞」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/343.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-aska19-made-in-001",
+      "date": "2019-02-06",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "オリンパスホール八王子",
+      "country": "日本",
+      "performanceNo": 1,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "東京都",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-release-029",
+      "date": "2019-02-06",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "映像『ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-』DVD/Blu-ray発売",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス作品案内",
+          "url": "https://billboard-cc.com/aska2018"
+        }
+      ]
+    },
+    {
+      "id": "v13-aska19-made-in-002",
+      "date": "2019-02-08",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "神奈川県民ホール",
+      "country": "日本",
+      "performanceNo": 2,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "神奈川県",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-aska19-made-in-003",
+      "date": "2019-02-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "大宮ソニックシティ 大ホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "埼玉県",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-aska19-made-in-004",
+      "date": "2019-02-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "福岡サンパレス ホテル＆ホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "福岡県",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-aska19-made-in-005",
+      "date": "2019-02-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "広島文化学園HBGホール",
+      "country": "日本",
+      "performanceNo": 5,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "広島県",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-aska19-made-in-006",
+      "date": "2019-02-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "サンポートホール高松",
+      "country": "日本",
+      "performanceNo": 6,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "香川県",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-aska19-made-in-007",
+      "date": "2019-02-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "名古屋国際会議場 センチュリーホール",
+      "country": "日本",
+      "performanceNo": 7,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "愛知県",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-aska19-made-in-008",
+      "date": "2019-03-01",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "静岡市民文化会館",
+      "country": "日本",
+      "performanceNo": 8,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "静岡県",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-ch19-dearbeatles",
+      "date": "2019-03-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Dear BEATLES 2019",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "出演。会場詳細要確認",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "country": "日本"
+    },
+    {
+      "id": "v13-aska19-made-in-009",
+      "date": "2019-03-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "グランキューブ大阪 メインホール",
+      "country": "日本",
+      "performanceNo": 9,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "大阪府",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-aska19-made-in-010",
+      "date": "2019-03-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "神戸国際会館 こくさいホール",
+      "country": "日本",
+      "performanceNo": 10,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "兵庫県",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-aska19-made-in-011",
+      "date": "2019-03-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "新潟県民会館",
+      "country": "日本",
+      "performanceNo": 11,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "新潟県",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-release-030",
+      "date": "2019-03-22",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "書籍『ASKA 書きおろし詩集』発売",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2019"
+        }
+      ]
+    },
+    {
+      "id": "v13-aska19-made-in-012",
+      "date": "2019-03-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "宇都宮市文化会館",
+      "country": "日本",
+      "performanceNo": 12,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "栃木県",
+      "startTime": "17:30"
+    },
+    {
+      "id": "v13-aska19-made-in-013",
+      "date": "2019-03-24",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "仙台サンプラザホール",
+      "country": "日本",
+      "performanceNo": 13,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "宮城県",
+      "startTime": "17:30"
+    },
+    {
+      "id": "v13-aska19-made-in-014",
+      "date": "2019-04-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "東京国際フォーラム ホールA",
+      "country": "日本",
+      "performanceNo": 14,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "東京都",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-ch19-fan-001",
+      "date": "2019-04-16",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ公演詳細",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        }
+      ],
+      "venue": "Rensa",
+      "country": "日本",
+      "performanceNo": 1,
+      "tourId": "chage-fm-2019",
+      "prefecture": "宮城県",
+      "startTime": "17:30"
+    },
+    {
+      "id": "v13-ch19-fan-002",
+      "date": "2019-04-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "／第1回",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ公演詳細",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        }
+      ],
+      "venue": "ダイアモンドホール",
+      "country": "日本",
+      "performanceNo": 2,
+      "tourId": "chage-fm-2019",
+      "prefecture": "愛知県",
+      "startTime": "15:00"
+    },
+    {
+      "id": "v13-ch19-fan-003",
+      "date": "2019-04-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "／第2回",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ公演詳細",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        }
+      ],
+      "venue": "ダイアモンドホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "tourId": "chage-fm-2019",
+      "prefecture": "愛知県",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-ch19-fan-004",
+      "date": "2019-04-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "／第1回",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ公演詳細",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        }
+      ],
+      "venue": "松下IMPホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "tourId": "chage-fm-2019",
+      "prefecture": "大阪府",
+      "startTime": "14:00"
+    },
+    {
+      "id": "v13-ch19-fan-005",
+      "date": "2019-04-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "／第2回",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ公演詳細",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        }
+      ],
+      "venue": "松下IMPホール",
+      "country": "日本",
+      "performanceNo": 5,
+      "tourId": "chage-fm-2019",
+      "prefecture": "大阪府",
+      "startTime": "18:00"
+    },
+    {
+      "id": "v13-ch19-fan-006",
+      "date": "2019-04-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ公演詳細",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        }
+      ],
+      "venue": "広島クラブクアトロ",
+      "country": "日本",
+      "performanceNo": 6,
+      "tourId": "chage-fm-2019",
+      "prefecture": "広島県",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-ch19-fan-007",
+      "date": "2019-04-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ公演詳細",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        }
+      ],
+      "venue": "イムズホール",
+      "country": "日本",
+      "performanceNo": 7,
+      "tourId": "chage-fm-2019",
+      "prefecture": "福岡県",
+      "startTime": "15:30"
+    },
+    {
+      "id": "v13-aska19-made-in-015",
+      "date": "2019-04-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "／追加公演",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "日本武道館",
+      "country": "日本",
+      "performanceNo": 15,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "東京都",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-aska19-made-in-016",
+      "date": "2019-04-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "／追加公演",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "フェスティバルホール",
+      "country": "日本",
+      "performanceNo": 16,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "大阪府",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-ch19-fan-008",
+      "date": "2019-04-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "／第1回",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ公演詳細",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        }
+      ],
+      "venue": "品川インターシティホール",
+      "country": "日本",
+      "performanceNo": 8,
+      "tourId": "chage-fm-2019",
+      "prefecture": "東京都",
+      "startTime": "15:00"
+    },
+    {
+      "id": "v13-ch19-fan-009",
+      "date": "2019-04-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "／第2回",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ公演詳細",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        }
+      ],
+      "venue": "品川インターシティホール",
+      "country": "日本",
+      "performanceNo": 9,
+      "tourId": "chage-fm-2019",
+      "prefecture": "東京都",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-ch19-fan-010",
+      "date": "2019-04-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "／第1回",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ公演詳細",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        }
+      ],
+      "venue": "品川インターシティホール",
+      "country": "日本",
+      "performanceNo": 10,
+      "tourId": "chage-fm-2019",
+      "prefecture": "東京都",
+      "startTime": "13:00"
+    },
+    {
+      "id": "v13-ch19-fan-011",
+      "date": "2019-04-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2019 ♪どうせやってくれないんだろうな…♫",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "／第2回",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ公演詳細",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7203"
+        }
+      ],
+      "venue": "品川インターシティホール",
+      "country": "日本",
+      "performanceNo": 11,
+      "tourId": "chage-fm-2019",
+      "prefecture": "東京都",
+      "startTime": "17:00"
+    },
+    {
+      "id": "v13-aska19-made-in-017",
+      "date": "2019-04-30",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "／追加公演",
+      "sources": [
+        {
+          "label": "ASKA公式チャンネル・公演全日程",
+          "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        }
+      ],
+      "venue": "愛知県芸術劇場 大ホール",
+      "country": "日本",
+      "performanceNo": 17,
+      "tourId": "aska-made-in-2019",
+      "prefecture": "愛知県",
+      "startTime": "17:00"
+    },
+    {
+      "id": "v13-ch19-popcon-tokyo",
+      "date": "2019-05-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "僕らのポプコンエイジ2019 ～Forever Friends, Forever Cocky Pop～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "venue": "昭和女子大学人見記念講堂",
+      "prefecture": "東京都",
+      "country": "日本"
+    },
+    {
+      "id": "v13-media-028",
+      "date": "2019-05-31",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビTWO「ASKA CONCERT TOUR 2019 Made in ASKA in 日本武道館」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "映像情報メディア管理センター",
+          "url": "https://w.atwiki.jp/cavc/pages/343.html"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch19-popcon-osaka",
+      "date": "2019-06-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "僕らのポプコンエイジ2019 ～Forever Friends, Forever Cocky Pop～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "venue": "岸和田市立浪切ホール 大ホール",
+      "prefecture": "大阪府",
+      "country": "日本"
+    },
+    {
+      "id": "v13-aska19-asia-taipei",
+      "date": "2019-06-09",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- TAIPEI",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "台湾公演（国内17公演には含まない）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki",
+          "url": "https://w.atwiki.jp/canda/pages/267.html"
+        }
+      ],
+      "venue": "台大體育館",
+      "country": "台湾",
+      "tourId": "aska-made-in-asia-2019",
+      "performanceNo": 1
+    },
+    {
+      "id": "v13-aska19-asia-hongkong",
+      "date": "2019-06-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- HONG KONG",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "香港公演（6月16日終演）。会場はarchives wikiも照合",
+      "sources": [
+        {
+          "label": "ASKA公式ブログ",
+          "url": "https://archive.fellows.tokyo/blog/?id=1486"
+        }
+      ],
+      "venue": "MacPherson Stadium",
+      "country": "香港",
+      "tourId": "aska-made-in-asia-2019",
+      "performanceNo": 2
+    },
+    {
+      "id": "v13-release-031",
+      "date": "2019-07-17",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "ライブCD『Made in ASKA -40年のありったけ- in 日本武道館』発売",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "音楽作品発売記録",
+          "url": "https://www.suruga-ya.com/ja/product/220251565"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch19-nayoro",
+      "date": "2019-07-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "てっし名寄まつり",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "出演。会場詳細要確認",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "prefecture": "北海道",
+      "country": "日本"
+    },
+    {
+      "id": "v13-release-032",
+      "date": "2019-08-07",
+      "artist": "Chage",
+      "category": "release",
+      "title": "アルバム『feedback』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/chage/album.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-029",
+      "date": "2019-08-17",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「ENGEIグランドスラム」水谷千重子と出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-033",
+      "date": "2019-08-21",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "映像『Made in ASKA -40年のありったけ- in 日本武道館』DVD/Blu-ray発売",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2019"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-030",
+      "date": "2019-08-21",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS朝日「春風亭昇太の少年時代工房」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-031",
+      "date": "2019-08-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBS「COUNT DOWN TV」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-milestone-004",
+      "date": "2019-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA デビュー40周年",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1979年8月25日デビューから40周年",
+      "sources": [
+        {
+          "label": "公式本人発信・年表",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "v13-milestone-005",
+      "date": "2019-08-25",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "ASKAがCHAGE and ASKAからの脱退を表明",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "本人の公式ブログで表明。以降のグループ活動状況と混同しない",
+      "sources": [
+        {
+          "label": "公式本人発信・年表",
+          "url": "https://archive.fellows.tokyo/blog/?id=1619"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch19-feedback-001",
+      "date": "2019-08-31",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2019 feedback",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "venue": "Zepp Nagoya",
+      "country": "日本",
+      "performanceNo": 1,
+      "tourId": "chage-feedback-2019",
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "v13-ch19-feedback-002",
+      "date": "2019-09-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2019 feedback",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "venue": "豊洲PIT",
+      "country": "日本",
+      "performanceNo": 2,
+      "tourId": "chage-feedback-2019",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v13-ch19-feedback-003",
+      "date": "2019-09-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2019 feedback",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "venue": "豊洲PIT",
+      "country": "日本",
+      "performanceNo": 3,
+      "tourId": "chage-feedback-2019",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v13-media-032",
+      "date": "2019-09-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "日本テレビ「のどじまん THEワールド！～令和 元年～」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch19-feedback-004",
+      "date": "2019-09-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2019 feedback",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "venue": "Zepp Fukuoka",
+      "country": "日本",
+      "performanceNo": 4,
+      "tourId": "chage-feedback-2019",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "v13-ch19-feedback-005",
+      "date": "2019-09-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2019 feedback",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "venue": "Zepp Osaka Bayside",
+      "country": "日本",
+      "performanceNo": 5,
+      "tourId": "chage-feedback-2019",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "v13-aska19-yokohama",
+      "date": "2019-09-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "SOUND ALIVE presents 横浜合同演奏会",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "スペシャルゲスト・合同出演",
+      "sources": [
+        {
+          "label": "主催イベント公式・出演者公式記録",
+          "url": "https://yokooto.jp/program/19164/"
+        }
+      ],
+      "venue": "パシフィコ横浜 国立大ホール",
+      "prefecture": "神奈川県",
+      "country": "日本"
+    },
+    {
+      "id": "v13-aska19-sapporo",
+      "date": "2019-09-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "札幌限定！みんなのプレミアム熟成ライブ",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "スペシャルゲスト・合同出演",
+      "sources": [
+        {
+          "label": "主催イベント公式・出演者公式記録",
+          "url": "https://www.kimurakan.com/livedata/2014.php"
+        }
+      ],
+      "venue": "札幌文化芸術劇場 hitaru",
+      "prefecture": "北海道",
+      "country": "日本"
+    },
+    {
+      "id": "v13-release-034",
+      "date": "2019-09-26",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "電子書籍『ASKA 書きおろし詩集』配信開始",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA活動履歴",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2019"
+        }
+      ]
+    },
+    {
+      "id": "v13-media-033",
+      "date": "2019-10-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBS「UTAGE!」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ]
+    },
+    {
+      "id": "v13-release-035",
+      "date": "2019-11-06",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "シングル「歌になりたい / Breath of Bless」先行配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "ASKA公式ブログ",
+          "url": "https://archive.fellows.tokyo/blog/?id=1741"
+        }
+      ]
+    },
+    {
+      "id": "v13-ch19-shanghai",
+      "date": "2019-11-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "2019 Chage 上海演唱会",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "中国・上海公演。会場確認待ち",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "country": "中国"
+    },
+    {
+      "id": "v13-release-036",
+      "date": "2019-11-20",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "シングル『歌になりたい / Breath of Bless』CD発売",
+      "status": "released",
+      "verification": "secondary",
+      "note": "",
+      "sources": [
+        {
+          "label": "レーベル発表・音楽記事",
+          "url": "https://www.billboard-japan.com/d_news/detail/80958/2"
+        }
+      ]
+    },
+    {
+      "id": "v13-aska19-higher-001",
+      "date": "2019-12-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2019年分のみ。2020年分は次版で追加予定",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス公式・終了記録",
+          "url": "https://billboard-cc.com/aska2019"
+        }
+      ],
+      "venue": "京都コンサートホール 大ホール",
+      "country": "日本",
+      "performanceNo": 1,
+      "tourId": "aska-higher-ground-2019-2020",
+      "prefecture": "京都府",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-aska19-higher-002",
+      "date": "2019-12-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2019年分のみ。2020年分は次版で追加予定",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス公式・終了記録",
+          "url": "https://billboard-cc.com/aska2019"
+        }
+      ],
+      "venue": "愛知県芸術劇場 大ホール",
+      "country": "日本",
+      "performanceNo": 2,
+      "tourId": "aska-higher-ground-2019-2020",
+      "prefecture": "愛知県",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-ch19-xmas",
+      "date": "2019-12-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Christmas Dinner Show 2019",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2019.php"
+        }
+      ],
+      "venue": "グランドプリンスホテル新高輪",
+      "prefecture": "東京都",
+      "country": "日本"
+    },
+    {
+      "id": "v13-aska19-higher-003",
+      "date": "2019-12-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2019年分のみ。2020年分は次版で追加予定",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス公式・終了記録",
+          "url": "https://billboard-cc.com/aska2019"
+        }
+      ],
+      "venue": "兵庫県立芸術文化センター KOBELCO大ホール",
+      "country": "日本",
+      "performanceNo": 3,
+      "tourId": "aska-higher-ground-2019-2020",
+      "prefecture": "兵庫県",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v13-aska19-higher-004",
+      "date": "2019-12-27",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2019年分のみ。2020年分は次版で追加予定",
+      "sources": [
+        {
+          "label": "ビルボードクラシックス公式・終了記録",
+          "url": "https://billboard-cc.com/aska2019"
+        }
+      ],
+      "venue": "東京エレクトロンホール宮城 大ホール",
+      "country": "日本",
+      "performanceNo": 4,
+      "tourId": "aska-higher-ground-2019-2020",
+      "prefecture": "宮城県",
+      "startTime": "18:00"
     }
   ]
 }
