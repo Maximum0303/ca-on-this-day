@@ -1,7 +1,7 @@
-/* 公開用データ。events.jsonと同期 */
+/* events.json に対応する公開用データ */
 window.CA_EVENT_DATA = {
   "schemaVersion": 1,
-  "notice": "試験収録・段階的拡充中。1981〜1985年主要ツアー・一部関連公演、1986年X’masシリーズを追加。会場情報に資料間相違がある箇所、日付未確認の振替公演は注記・保留しています。未掲載日は出来事がなかったことを意味しません。",
+  "notice": "1990～1992年のC&A・MULTI MAX公演日程、ファンイベント、作品発売記録を追加。公式Historyの公演数表記と日程掲載行数に相違（SEE YA!!：57公演/61行、SAY YES：54公演/58行）があるため、掲載日程は保持し要照合。サイト全体は未網羅。",
   "lastUpdated": "2026-11-17",
   "events": [
     {
@@ -13020,6 +13020,4697 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "沖縄県"
+    },
+    {
+      "id": "release-1990-1992-001",
+      "date": "1990-02-07",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『THE STORY of BALLAD』発売",
+      "releaseTitle": "THE STORY of BALLAD",
+      "status": "released",
+      "verification": "primary",
+      "note": "アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-002",
+      "date": "1990-03-07",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA HISTORY II ～PRIDE～』発売",
+      "releaseTitle": "CHAGE and ASKA HISTORY II ～PRIDE～",
+      "status": "released",
+      "verification": "primary",
+      "note": "ビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-003",
+      "date": "1990-06-27",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『DO YA DO』発売",
+      "releaseTitle": "DO YA DO",
+      "status": "released",
+      "verification": "primary",
+      "note": "シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-001",
+      "date": "1990-08-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "グリーンホール相模大野",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-002",
+      "date": "1990-08-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "沖縄市民会館",
+      "prefecture": "沖縄県",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-003",
+      "date": "1990-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "沖縄市民会館",
+      "prefecture": "沖縄県",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-special-1990-08-26-169",
+      "date": "1990-08-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "OKINAWA TOUR '90",
+      "venue": "残波岬ロイヤルホテル",
+      "prefecture": "沖縄県",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ファンの集い。通常のコンサートとは区別して表示",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-004",
+      "date": "1990-08-29",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SEE YA』発売",
+      "releaseTitle": "SEE YA",
+      "status": "released",
+      "verification": "primary",
+      "note": "アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-004",
+      "date": "1990-08-30",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "鹿児島市民文化第一ホール",
+      "prefecture": "鹿児島県",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-005",
+      "date": "1990-08-31",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "宮崎市民会館",
+      "prefecture": "宮崎県",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-006",
+      "date": "1990-09-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "人吉カルチャーパレス",
+      "prefecture": "熊本県",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-007",
+      "date": "1990-09-03",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "小倉九州厚生年金会館",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-008",
+      "date": "1990-09-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "東金市文化会館",
+      "prefecture": "千葉県",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-009",
+      "date": "1990-09-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "郡山市民文化センター",
+      "prefecture": "福島県",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-010",
+      "date": "1990-09-08",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "いわき市平市民会館",
+      "prefecture": "福島県",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-011",
+      "date": "1990-09-10",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "岩手県民会館",
+      "prefecture": "岩手県",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-012",
+      "date": "1990-09-11",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "八戸市公会堂",
+      "prefecture": "青森県",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-013",
+      "date": "1990-09-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "横浜アリーナ",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-014",
+      "date": "1990-09-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "名古屋国際会議場センチュリーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-015",
+      "date": "1990-09-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "名古屋国際会議場センチュリーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-005",
+      "date": "1990-09-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SEE YA』発売",
+      "releaseTitle": "SEE YA",
+      "status": "released",
+      "verification": "primary",
+      "note": "ビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-016",
+      "date": "1990-09-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "島根県民会館",
+      "prefecture": "島根県",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-017",
+      "date": "1990-09-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "姫路市文化センター",
+      "prefecture": "兵庫県",
+      "country": "日本",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-018",
+      "date": "1990-09-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "尼崎アルカイックホール",
+      "prefecture": "兵庫県",
+      "country": "日本",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-019",
+      "date": "1990-09-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "尼崎アルカイックホール",
+      "prefecture": "兵庫県",
+      "country": "日本",
+      "performanceNo": 19,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-020",
+      "date": "1990-09-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "岡山市民会館",
+      "prefecture": "岡山県",
+      "country": "日本",
+      "performanceNo": 20,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-021",
+      "date": "1990-10-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "浜松市民会館",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "performanceNo": 21,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-022",
+      "date": "1990-10-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "静岡市民文化会館",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "performanceNo": 22,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-023",
+      "date": "1990-10-11",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "伊勢崎市民文化会館",
+      "prefecture": "群馬県",
+      "country": "日本",
+      "performanceNo": 23,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-024",
+      "date": "1990-10-17",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "熊本市民会館",
+      "prefecture": "熊本県",
+      "country": "日本",
+      "performanceNo": 24,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-025",
+      "date": "1990-10-18",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "佐賀市文化会館",
+      "prefecture": "佐賀県",
+      "country": "日本",
+      "performanceNo": 25,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-026",
+      "date": "1990-10-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "佐賀市文化会館",
+      "prefecture": "佐賀県",
+      "country": "日本",
+      "performanceNo": 26,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-027",
+      "date": "1990-10-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "中津文化会館",
+      "prefecture": "大分県",
+      "country": "日本",
+      "performanceNo": 27,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-028",
+      "date": "1990-10-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "八尾市文化会館",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 28,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-029",
+      "date": "1990-10-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "神戸文化ホール",
+      "prefecture": "兵庫県",
+      "country": "日本",
+      "performanceNo": 29,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-030",
+      "date": "1990-10-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "和歌山市民会館",
+      "prefecture": "和歌山県",
+      "country": "日本",
+      "performanceNo": 30,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-031",
+      "date": "1990-11-01",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "千葉県文化会館",
+      "prefecture": "千葉県",
+      "country": "日本",
+      "performanceNo": 31,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-032",
+      "date": "1990-11-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "大宮ソニックシティ",
+      "prefecture": "埼玉県",
+      "country": "日本",
+      "performanceNo": 32,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-033",
+      "date": "1990-11-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "神奈川県民ホール",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 33,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-034",
+      "date": "1990-11-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "日立市民会館",
+      "prefecture": "茨城県",
+      "country": "日本",
+      "performanceNo": 34,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-035",
+      "date": "1990-11-13",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "秋田県民会館",
+      "prefecture": "秋田県",
+      "country": "日本",
+      "performanceNo": 35,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-036",
+      "date": "1990-11-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "弘前市民会館",
+      "prefecture": "青森県",
+      "country": "日本",
+      "performanceNo": 36,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-037",
+      "date": "1990-11-16",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "函館市民会館",
+      "prefecture": "北海道",
+      "country": "日本",
+      "performanceNo": 37,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-038",
+      "date": "1990-11-17",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "札幌厚生年金会館",
+      "prefecture": "北海道",
+      "country": "日本",
+      "performanceNo": 38,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-039",
+      "date": "1990-11-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 39,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-040",
+      "date": "1990-11-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 40,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-041",
+      "date": "1990-11-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "松山市民会館",
+      "prefecture": "愛媛県",
+      "country": "日本",
+      "performanceNo": 41,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-042",
+      "date": "1990-11-30",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "香川県民ホール",
+      "prefecture": "香川県",
+      "country": "日本",
+      "performanceNo": 42,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-special-1990-12-02-168",
+      "date": "1990-12-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "LIVE COMMUNICATION ’90",
+      "venue": "神戸ワールド記念ホール",
+      "prefecture": "兵庫県",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "関西合同大学祭主催イベント。12月4日はSEE YA!!にも掲載があり二重計上回避のため個別登録保留",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-043",
+      "date": "1990-12-04",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 43,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "同日「LIVE COMMUNICATION’90」も公式Historyに掲載。独立公演か要照合（重複登録なし）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-044",
+      "date": "1990-12-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "山形市民会館",
+      "prefecture": "山形県",
+      "country": "日本",
+      "performanceNo": 44,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-045",
+      "date": "1990-12-08",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "仙台イズミティ21",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "performanceNo": 45,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-046",
+      "date": "1990-12-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "仙台イズミティ21",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "performanceNo": 46,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-047",
+      "date": "1990-12-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "日本武道館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 47,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-048",
+      "date": "1990-12-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "日本武道館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 48,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-049",
+      "date": "1990-12-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "福岡国際センター",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 49,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-050",
+      "date": "1990-12-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "メルパルクホール広島",
+      "prefecture": "広島県",
+      "country": "日本",
+      "performanceNo": 50,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-051",
+      "date": "1990-12-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "倉敷市民会館",
+      "prefecture": "岡山県",
+      "country": "日本",
+      "performanceNo": 51,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-052",
+      "date": "1990-12-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "名古屋市総合体育館レインボーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 52,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-053",
+      "date": "1990-12-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "名古屋市総合体育館レインボーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 53,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-054",
+      "date": "1990-12-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "横浜アリーナ",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 54,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-055",
+      "date": "1990-12-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "横浜アリーナ",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 55,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-056",
+      "date": "1991-01-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "京都会館第一ホール",
+      "prefecture": "京都府",
+      "country": "日本",
+      "performanceNo": 56,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-057",
+      "date": "1991-01-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "京都会館第一ホール",
+      "prefecture": "京都府",
+      "country": "日本",
+      "performanceNo": 57,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-special-1991-01-08-170",
+      "date": "1991-01-08",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT '91 TUG OF C&A",
+      "venue": "大阪厚生年金会館",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ファンクラブ限定公演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-058",
+      "date": "1991-01-11",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "浜松アリーナ",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "performanceNo": 58,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-059",
+      "date": "1991-01-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "福岡国際センター",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 59,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-060",
+      "date": "1991-01-30",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "メルパルクホール広島",
+      "prefecture": "広島県",
+      "country": "日本",
+      "performanceNo": 60,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-006",
+      "date": "1991-01-30",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『太陽と埃の中で』発売",
+      "releaseTitle": "太陽と埃の中で",
+      "status": "released",
+      "verification": "primary",
+      "note": "シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-see-ya-1990-1991-061",
+      "date": "1991-01-31",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’90～’91 “SEE YA!!”",
+      "tourId": "see-ya-1990-1991",
+      "venue": "倉敷市民会館",
+      "prefecture": "岡山県",
+      "country": "日本",
+      "performanceNo": 61,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "日程表上の最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/421.html"
+        }
+      ]
+    },
+    {
+      "id": "live-special-1991-02-04-171",
+      "date": "1991-02-04",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT '91 TUG OF C&A",
+      "venue": "川口総合文化センター・リリアホール",
+      "prefecture": "埼玉県",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ファンクラブ限定公演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-special-1991-02-06-172",
+      "date": "1991-02-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CHAGE and ASKA CONCERT '91 TUG OF C&A",
+      "venue": "渋谷公会堂",
+      "prefecture": "東京都",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ファンクラブ限定公演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-007",
+      "date": "1991-03-06",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『はじまりはいつも雨』発売",
+      "releaseTitle": "はじまりはいつも雨",
+      "status": "released",
+      "verification": "primary",
+      "note": "シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-008",
+      "date": "1991-03-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『太陽と埃の中で I』発売",
+      "releaseTitle": "太陽と埃の中で I",
+      "status": "released",
+      "verification": "primary",
+      "note": "ビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-009",
+      "date": "1991-03-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『太陽と埃の中で II』発売",
+      "releaseTitle": "太陽と埃の中で II",
+      "status": "released",
+      "verification": "primary",
+      "note": "ビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-010",
+      "date": "1991-04-12",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『WINDY ROAD』発売",
+      "releaseTitle": "WINDY ROAD",
+      "status": "released",
+      "verification": "primary",
+      "note": "シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-011",
+      "date": "1991-04-12",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『STILL』発売",
+      "releaseTitle": "STILL",
+      "status": "released",
+      "verification": "primary",
+      "note": "アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-windy-road-1991-001",
+      "date": "1991-04-19",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1991 “WINDY ROAD”",
+      "tourId": "multi-max-windy-road-1991",
+      "venue": "郡山市民文化センター",
+      "prefecture": "福島県",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-windy-road-1991-002",
+      "date": "1991-04-20",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1991 “WINDY ROAD”",
+      "tourId": "multi-max-windy-road-1991",
+      "venue": "仙台イズミティ21",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-windy-road-1991-003",
+      "date": "1991-04-25",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1991 “WINDY ROAD”",
+      "tourId": "multi-max-windy-road-1991",
+      "venue": "京都会館第一ホール",
+      "prefecture": "京都府",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-windy-road-1991-004",
+      "date": "1991-04-27",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1991 “WINDY ROAD”",
+      "tourId": "multi-max-windy-road-1991",
+      "venue": "静岡市民文化会館",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-windy-road-1991-005",
+      "date": "1991-04-28",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1991 “WINDY ROAD”",
+      "tourId": "multi-max-windy-road-1991",
+      "venue": "名古屋センチュリーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-windy-road-1991-006",
+      "date": "1991-05-01",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1991 “WINDY ROAD”",
+      "tourId": "multi-max-windy-road-1991",
+      "venue": "新宿厚生年金会館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-windy-road-1991-007",
+      "date": "1991-05-02",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1991 “WINDY ROAD”",
+      "tourId": "multi-max-windy-road-1991",
+      "venue": "新宿厚生年金会館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-windy-road-1991-008",
+      "date": "1991-05-04",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1991 “WINDY ROAD”",
+      "tourId": "multi-max-windy-road-1991",
+      "venue": "大阪厚生年金会館",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-windy-road-1991-009",
+      "date": "1991-05-05",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1991 “WINDY ROAD”",
+      "tourId": "multi-max-windy-road-1991",
+      "venue": "大阪厚生年金会館",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-windy-road-1991-010",
+      "date": "1991-05-06",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1991 “WINDY ROAD”",
+      "tourId": "multi-max-windy-road-1991",
+      "venue": "倉敷市民会館",
+      "prefecture": "岡山県",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-windy-road-1991-011",
+      "date": "1991-05-08",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1991 “WINDY ROAD”",
+      "tourId": "multi-max-windy-road-1991",
+      "venue": "メルパルクホール広島",
+      "prefecture": "広島県",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-windy-road-1991-012",
+      "date": "1991-05-10",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1991 “WINDY ROAD”",
+      "tourId": "multi-max-windy-road-1991",
+      "venue": "福岡市民会館",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "日程表上の最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-012",
+      "date": "1991-06-05",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『SCENE II』発売",
+      "releaseTitle": "SCENE II",
+      "status": "released",
+      "verification": "primary",
+      "note": "アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-013",
+      "date": "1991-07-24",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SAY YES』発売",
+      "releaseTitle": "SAY YES",
+      "status": "released",
+      "verification": "primary",
+      "note": "シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-001",
+      "date": "1991-09-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "サンシティ越谷市民ホール",
+      "prefecture": "埼玉県",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-002",
+      "date": "1991-09-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "サンシティ越谷市民ホール",
+      "prefecture": "埼玉県",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-003",
+      "date": "1991-10-01",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "千葉県文化会館",
+      "prefecture": "千葉県",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-004",
+      "date": "1991-10-03",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "グリーンホール相模大野",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-005",
+      "date": "1991-10-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "宮城県民会館",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-006",
+      "date": "1991-10-08",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "宮城県民会館",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-007",
+      "date": "1991-10-10",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "郡山市文化センター",
+      "prefecture": "福島県",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-014",
+      "date": "1991-10-10",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『TREE』発売",
+      "releaseTitle": "TREE",
+      "status": "released",
+      "verification": "primary",
+      "note": "アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-015",
+      "date": "1991-10-10",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『THE VIDEO of CHAGE and ASKA TUG of C&A vol.1』発売",
+      "releaseTitle": "THE VIDEO of CHAGE and ASKA TUG of C&A vol.1",
+      "status": "released",
+      "verification": "primary",
+      "note": "ファンクラブ限定ビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-008",
+      "date": "1991-10-11",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "郡山市文化センター",
+      "prefecture": "福島県",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-009",
+      "date": "1991-10-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "札幌厚生年金会館",
+      "prefecture": "北海道",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-010",
+      "date": "1991-10-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "札幌厚生年金会館",
+      "prefecture": "北海道",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-011",
+      "date": "1991-10-18",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "宇都宮市文化会館",
+      "prefecture": "栃木県",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-012",
+      "date": "1991-10-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "宇都宮市文化会館",
+      "prefecture": "栃木県",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-013",
+      "date": "1991-10-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "九州厚生年金会館",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-014",
+      "date": "1991-10-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "福岡サンパレス",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-015",
+      "date": "1991-10-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "沖縄コンベンションセンター",
+      "prefecture": "沖縄県",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-016",
+      "date": "1991-10-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "沖縄コンベンションセンター",
+      "prefecture": "沖縄県",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-017",
+      "date": "1991-10-30",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "メルパルクホール広島",
+      "prefecture": "広島県",
+      "country": "日本",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-018",
+      "date": "1991-10-31",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "メルパルクホール広島",
+      "prefecture": "広島県",
+      "country": "日本",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-016",
+      "date": "1991-11-06",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『LOVE』発売",
+      "releaseTitle": "LOVE",
+      "status": "released",
+      "verification": "primary",
+      "note": "シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-019",
+      "date": "1991-11-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "福岡サンパレス",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 19,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-020",
+      "date": "1991-11-08",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "福岡サンパレス",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 20,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-021",
+      "date": "1991-11-11",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "福井フェニックスプラザ",
+      "prefecture": "福井県",
+      "country": "日本",
+      "performanceNo": 21,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-022",
+      "date": "1991-11-12",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "石川厚生年金会館",
+      "prefecture": "石川県",
+      "country": "日本",
+      "performanceNo": 22,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-023",
+      "date": "1991-11-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "新潟県民会館",
+      "prefecture": "新潟県",
+      "country": "日本",
+      "performanceNo": 23,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-024",
+      "date": "1991-11-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "新潟県民会館",
+      "prefecture": "新潟県",
+      "country": "日本",
+      "performanceNo": 24,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-025",
+      "date": "1991-11-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "秋田県民会館",
+      "prefecture": "秋田県",
+      "country": "日本",
+      "performanceNo": 25,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-026",
+      "date": "1991-11-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "秋田県民会館",
+      "prefecture": "秋田県",
+      "country": "日本",
+      "performanceNo": 26,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-017",
+      "date": "1991-11-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『僕はこの瞳で嘘をつく』発売",
+      "releaseTitle": "僕はこの瞳で嘘をつく",
+      "status": "released",
+      "verification": "primary",
+      "note": "シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-027",
+      "date": "1991-11-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "仙台イズミティ21",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "performanceNo": 27,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-028",
+      "date": "1991-11-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "仙台イズミティ21",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "performanceNo": 28,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-029",
+      "date": "1991-11-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "青森市文化会館",
+      "prefecture": "青森県",
+      "country": "日本",
+      "performanceNo": 29,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-030",
+      "date": "1991-11-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "岩手県民会館",
+      "prefecture": "岩手県",
+      "country": "日本",
+      "performanceNo": 30,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-031",
+      "date": "1991-11-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "群馬県民会館",
+      "prefecture": "群馬県",
+      "country": "日本",
+      "performanceNo": 31,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-032",
+      "date": "1991-12-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "大阪フェスティバルホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 32,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-033",
+      "date": "1991-12-03",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "大阪フェスティバルホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 33,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-034",
+      "date": "1991-12-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "神奈川県民ホール",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 34,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-035",
+      "date": "1991-12-13",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "日本武道館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 35,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-018",
+      "date": "1991-12-13",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『TREE』発売",
+      "releaseTitle": "TREE",
+      "status": "released",
+      "verification": "primary",
+      "note": "ビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-019",
+      "date": "1991-12-13",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『THE VIDEO of CHAGE and ASKA TUG of C&A vol.2』発売",
+      "releaseTitle": "THE VIDEO of CHAGE and ASKA TUG of C&A vol.2",
+      "status": "released",
+      "verification": "primary",
+      "note": "ファンクラブ限定ビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-036",
+      "date": "1991-12-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "日本武道館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 36,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-037",
+      "date": "1991-12-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "日本武道館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 37,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-038",
+      "date": "1991-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "神戸文化ホール",
+      "prefecture": "兵庫県",
+      "country": "日本",
+      "performanceNo": 38,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-039",
+      "date": "1991-12-18",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "神戸文化ホール",
+      "prefecture": "兵庫県",
+      "country": "日本",
+      "performanceNo": 39,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-040",
+      "date": "1991-12-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "倉敷市民会館",
+      "prefecture": "岡山県",
+      "country": "日本",
+      "performanceNo": 40,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-041",
+      "date": "1991-12-22",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "大阪厚生年金会館",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 41,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-042",
+      "date": "1991-12-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "大阪厚生年金会館",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 42,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-043",
+      "date": "1991-12-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "名古屋国際会議場センチュリーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 43,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-044",
+      "date": "1991-12-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "名古屋国際会議場センチュリーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 44,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-045",
+      "date": "1992-01-05",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "佐賀市文化会館",
+      "prefecture": "佐賀県",
+      "country": "日本",
+      "performanceNo": 45,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-046",
+      "date": "1992-01-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "佐賀市文化会館",
+      "prefecture": "佐賀県",
+      "country": "日本",
+      "performanceNo": 46,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-047",
+      "date": "1992-01-08",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "宮崎市民会館",
+      "prefecture": "宮崎県",
+      "country": "日本",
+      "performanceNo": 47,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-048",
+      "date": "1992-01-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "愛媛県民文化会館",
+      "prefecture": "愛媛県",
+      "country": "日本",
+      "performanceNo": 48,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-049",
+      "date": "1992-01-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "香川県民ホール",
+      "prefecture": "香川県",
+      "country": "日本",
+      "performanceNo": 49,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-050",
+      "date": "1992-01-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "京都会館第一ホール",
+      "prefecture": "京都府",
+      "country": "日本",
+      "performanceNo": 50,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-051",
+      "date": "1992-01-21",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "京都会館第一ホール",
+      "prefecture": "京都府",
+      "country": "日本",
+      "performanceNo": 51,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-052",
+      "date": "1992-01-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "浜松市市民会館",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "performanceNo": 52,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-053",
+      "date": "1992-01-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "静岡市民文化会館",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "performanceNo": 53,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-054",
+      "date": "1992-01-26",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "静岡市民文化会館",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "performanceNo": 54,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-055",
+      "date": "1992-01-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "大宮ソニックシティ",
+      "prefecture": "埼玉県",
+      "country": "日本",
+      "performanceNo": 55,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-056",
+      "date": "1992-01-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "大宮ソニックシティ",
+      "prefecture": "埼玉県",
+      "country": "日本",
+      "performanceNo": 56,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式History本文のツアー終了日（5月の振替公演2日程を別途掲載）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-001",
+      "date": "1992-03-13",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "浜松アリーナ",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-002",
+      "date": "1992-03-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "浜松アリーナ",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-003",
+      "date": "1992-03-16",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-004",
+      "date": "1992-03-17",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-005",
+      "date": "1992-03-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-006",
+      "date": "1992-03-20",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-007",
+      "date": "1992-03-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "名古屋市総合体育館レインボーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 7,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-008",
+      "date": "1992-03-25",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "名古屋市総合体育館レインボーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 8,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-020",
+      "date": "1992-03-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SUPER BEST II』発売",
+      "releaseTitle": "SUPER BEST II",
+      "status": "released",
+      "verification": "primary",
+      "note": "アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-021",
+      "date": "1992-03-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『LOVE SONG』再発売",
+      "releaseTitle": "LOVE SONG",
+      "status": "released",
+      "verification": "primary",
+      "note": "1989年発売盤とは別の1992年再発売記録",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-009",
+      "date": "1992-03-27",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "名古屋市総合体育館レインボーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 9,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-010",
+      "date": "1992-03-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "名古屋市総合体育館レインボーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 10,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-011",
+      "date": "1992-03-31",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "広島サンプラザホール",
+      "prefecture": "広島県",
+      "country": "日本",
+      "performanceNo": 11,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-012",
+      "date": "1992-04-01",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "広島サンプラザホール",
+      "prefecture": "広島県",
+      "country": "日本",
+      "performanceNo": 12,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-013",
+      "date": "1992-04-03",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "岡山市総合文化体育館",
+      "prefecture": "岡山県",
+      "country": "日本",
+      "performanceNo": 13,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-014",
+      "date": "1992-04-04",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "岡山市総合文化体育館",
+      "prefecture": "岡山県",
+      "country": "日本",
+      "performanceNo": 14,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-015",
+      "date": "1992-04-08",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "国立代々木競技場第一体育館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 15,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-016",
+      "date": "1992-04-09",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "国立代々木競技場第一体育館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 16,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-017",
+      "date": "1992-04-13",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "横浜アリーナ",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 17,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-018",
+      "date": "1992-04-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "横浜アリーナ",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 18,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-019",
+      "date": "1992-04-16",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "横浜アリーナ",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 19,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-020",
+      "date": "1992-04-17",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "横浜アリーナ",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "performanceNo": 20,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-021",
+      "date": "1992-04-23",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "仙台市体育館",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "performanceNo": 21,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-022",
+      "date": "1992-04-24",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "仙台市体育館",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "performanceNo": 22,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-023",
+      "date": "1992-04-28",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "真駒内屋内競技場",
+      "prefecture": "北海道",
+      "country": "日本",
+      "performanceNo": 23,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-024",
+      "date": "1992-04-29",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "真駒内屋内競技場",
+      "prefecture": "北海道",
+      "country": "日本",
+      "performanceNo": 24,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-022",
+      "date": "1992-05-01",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『遠い街から』発売",
+      "releaseTitle": "遠い街から",
+      "status": "released",
+      "verification": "primary",
+      "note": "シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-025",
+      "date": "1992-05-02",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 25,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-026",
+      "date": "1992-05-03",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 26,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-027",
+      "date": "1992-05-06",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "日本武道館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 27,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-028",
+      "date": "1992-05-07",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "日本武道館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 28,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-029",
+      "date": "1992-05-11",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "福岡国際センター",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 29,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-big-tree-1992-030",
+      "date": "1992-05-12",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR 1992 “BIG TREE”",
+      "tourId": "big-tree-1992",
+      "venue": "福岡国際センター",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 30,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "日程表上の最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/423.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-057",
+      "date": "1992-05-14",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "鹿児島市民文化ホール",
+      "prefecture": "鹿児島県",
+      "country": "日本",
+      "performanceNo": 57,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "振替公演。公式History日程表には掲載、ツアー終了日・公演数表記との関係は確認待ち",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "live-say-yes-1991-1992-058",
+      "date": "1992-05-15",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "CONCERT TOUR ’91～’92 “SAY YES”",
+      "tourId": "say-yes-1991-1992",
+      "venue": "鹿児島市民文化ホール",
+      "prefecture": "鹿児島県",
+      "country": "日本",
+      "performanceNo": 58,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "振替公演。公式History日程表には掲載、ツアー終了日・公演数表記との関係は確認待ち",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/422.html"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-023",
+      "date": "1992-05-20",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『Human』発売",
+      "releaseTitle": "Human",
+      "status": "released",
+      "verification": "primary",
+      "note": "アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-024",
+      "date": "1992-07-01",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『if』発売",
+      "releaseTitle": "if",
+      "status": "released",
+      "verification": "primary",
+      "note": "シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-025",
+      "date": "1992-10-10",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『no no darlin'』発売",
+      "releaseTitle": "no no darlin'",
+      "status": "released",
+      "verification": "primary",
+      "note": "シングル",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-026",
+      "date": "1992-11-07",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『GUYS』発売",
+      "releaseTitle": "GUYS",
+      "status": "released",
+      "verification": "primary",
+      "note": "アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-max-tool-1992-001",
+      "date": "1992-12-01",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1992 “MAX TOOL”",
+      "tourId": "multi-max-max-tool-1992",
+      "venue": "戸田市文化会館",
+      "prefecture": "埼玉県",
+      "country": "日本",
+      "performanceNo": 1,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー初日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-max-tool-1992-002",
+      "date": "1992-12-02",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1992 “MAX TOOL”",
+      "tourId": "multi-max-max-tool-1992",
+      "venue": "名古屋国際会議場センチュリーホール",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "performanceNo": 2,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-027",
+      "date": "1992-12-02",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『MAX TOOL Vol.1』発売",
+      "releaseTitle": "MAX TOOL Vol.1",
+      "status": "released",
+      "verification": "primary",
+      "note": "アルバム",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-max-tool-1992-003",
+      "date": "1992-12-04",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1992 “MAX TOOL”",
+      "tourId": "multi-max-max-tool-1992",
+      "venue": "九州厚生年金会館",
+      "prefecture": "福岡県",
+      "country": "日本",
+      "performanceNo": 3,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-max-tool-1992-004",
+      "date": "1992-12-07",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1992 “MAX TOOL”",
+      "tourId": "multi-max-max-tool-1992",
+      "venue": "大阪フェスティバルホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 4,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-max-tool-1992-005",
+      "date": "1992-12-08",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1992 “MAX TOOL”",
+      "tourId": "multi-max-max-tool-1992",
+      "venue": "大阪フェスティバルホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "performanceNo": 5,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "live-multi-max-max-tool-1992-006",
+      "date": "1992-12-14",
+      "artist": "MULTI MAX",
+      "category": "live",
+      "title": "MULTI MAX CONCERT TOUR 1992 “MAX TOOL”",
+      "tourId": "multi-max-max-tool-1992",
+      "venue": "日本武道館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "performanceNo": 6,
+      "status": "recorded",
+      "verification": "primary",
+      "note": "日程表上の最終日",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-028",
+      "date": "1992-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『GO TO ELEVEN ～GUYS～』発売",
+      "releaseTitle": "GO TO ELEVEN ～GUYS～",
+      "status": "released",
+      "verification": "primary",
+      "note": "ビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-1990-1992-029",
+      "date": "1992-12-20",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『THE VIDEO of CHAGE and ASKA TUG of C&A vol.3』発売",
+      "releaseTitle": "THE VIDEO of CHAGE and ASKA TUG of C&A vol.3",
+      "status": "released",
+      "verification": "primary",
+      "note": "ファンクラブ限定ビデオ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
     },
     {
       "id": "live-longest-tour-1993-1994-001",
