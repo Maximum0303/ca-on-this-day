@@ -2092,21 +2092,21 @@ v13-media-004,2017-02-16,ASKA,media,テレビ西日本「ももち浜ストア�
 v13-release-001,2017-02-22,ASKA,release,アルバム『Too many people』発売,,,,,secondary,https://www.oricon.co.jp/prof/245800/products/1219695/1/
 v13-media-005,2017-03-08,Chage,media,CS「しゃべくりDJ Chage＆デーモン閣下のミュージックアワー！」#1放送,,,,テレビ・ラジオの放送日。ライブ実施日とは別に登録,secondary,https://w.atwiki.jp/cavc/pages/341.html
 v13-release-002,2017-03-17,ASKA,release,書籍『700番 第一巻』発売,,,,,secondary,https://cosmos.ladomi.net/archives/index_arch_2017
-v13-ch17-omoto,2017-03-20,Chage,live,音市音座2017,愛知県,日本ガイシホール,,スターダスト☆レビューほかと出演,secondary,https://kako.5ch.io/test/read.cgi/musicjg/1487401755/
+v13-ch17-omoto,2017-03-20,Chage,live,音市音座2017,愛知県,日本ガイシホール,,スターダスト☆レビューほかと出演,primary,https://www.sundayfolk.com/info/otoichiotoza/
 v13-media-006,2017-03-22,Chage,media,CS「しゃべくりDJ Chage＆デーモン閣下のミュージックアワー！」#2放送,,,,テレビ・ラジオの放送日。ライブ実施日とは別に登録,secondary,https://w.atwiki.jp/cavc/pages/341.html
 v13-ch17-fan-001,2017-03-26,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,宮城県,Rensa,1,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認,secondary,https://w.atwiki.jp/canda/pages/290.html
-v13-ch17-fan-002,2017-04-02,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,大阪府,松下IMPホール,2,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html
-v13-ch17-fan-003,2017-04-02,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,大阪府,松下IMPホール,3,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html
-v13-ch17-fan-004,2017-04-04,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,愛知県,ダイアモンドホール,4,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html
-v13-ch17-fan-005,2017-04-04,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,愛知県,ダイアモンドホール,5,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html
+v13-ch17-fan-002,2017-04-02,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,大阪府,松下IMPホール,2,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html; https://kako.5ch.io/test/read.cgi/musicjg/1487401755/
+v13-ch17-fan-003,2017-04-02,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,大阪府,松下IMPホール,3,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html; https://kako.5ch.io/test/read.cgi/musicjg/1487401755/
+v13-ch17-fan-004,2017-04-04,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,愛知県,ダイアモンドホール,4,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html; https://kako.5ch.io/test/read.cgi/musicjg/1487401755/
+v13-ch17-fan-005,2017-04-04,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,愛知県,ダイアモンドホール,5,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html; https://kako.5ch.io/test/read.cgi/musicjg/1487401755/
 v13-ch17-fan-006,2017-04-08,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,広島県,広島クラブクアトロ,6,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認,secondary,https://w.atwiki.jp/canda/pages/290.html
 v13-ch17-fan-007,2017-04-09,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,福岡県,イムズホール,7,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認,secondary,https://w.atwiki.jp/canda/pages/290.html
 v13-ch17-mizutani,2017-04-16,Chage,live,水谷千重子キーポンシャイニング歌謡祭2017 東京公演,東京都,昭和女子大学人見記念講堂,,ゲスト出演,primary,https://chage.jp/biography/2017.php
-v13-ch17-fan-008,2017-04-29,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,東京都,品川インターシティホール,8,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html
-v13-ch17-fan-009,2017-04-29,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,東京都,品川インターシティホール,9,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html
+v13-ch17-fan-008,2017-04-29,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,東京都,品川インターシティホール,8,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html; https://kako.5ch.io/test/read.cgi/musicjg/1487401755/
+v13-ch17-fan-009,2017-04-29,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,東京都,品川インターシティホール,9,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html; https://kako.5ch.io/test/read.cgi/musicjg/1487401755/
 v13-media-007,2017-04-29,Chage,media,フジテレビ「MUSIC FAIR」出演,,,,テレビ・ラジオの放送日。ライブ実施日とは別に登録,primary,https://chage.jp/biography/2017.php
-v13-ch17-fan-010,2017-04-30,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,東京都,品川インターシティホール,10,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html
-v13-ch17-fan-011,2017-04-30,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,東京都,品川インターシティホール,11,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html
+v13-ch17-fan-010,2017-04-30,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,東京都,品川インターシティホール,10,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第1回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html; https://kako.5ch.io/test/read.cgi/musicjg/1487401755/
+v13-ch17-fan-011,2017-04-30,Chage,live,Chage Fan Meeting 2017 ♪ドレミファ ファミリー♪,東京都,品川インターシティホール,11,同日2公演の回数は当時の開催案内で補足。各回の時刻未確認／第2回（開演時刻未確認）,secondary,https://w.atwiki.jp/canda/pages/290.html; https://kako.5ch.io/test/read.cgi/musicjg/1487401755/
 v13-release-003,2017-05-03,Chage,release,シングル『たった一度の人生ならば』発売,,,,,primary,https://chage.jp/biography/2017.php
 v13-ch17-popcon-001,2017-05-07,Chage,live,"僕らのポプコンエイジ2017 ～Forever Friends, Forever Cocky Pop～",東京都,府中の森芸術劇場 どりーむホール,1,,primary,https://www.atpress.ne.jp/news/117630
 v13-ch17-have-a-dream-001,2017-05-08,Chage,live,Chage Hall Tour 2017 ～Have a Dream！～,愛知県,日本特殊陶業市民会館 フォレストホール,1,,primary,https://chage.jp/biography/2017.php
@@ -2278,3 +2278,223 @@ v13-aska19-higher-002,2019-12-11,ASKA,live,billboard classics ASKA premium ensem
 v13-ch19-xmas,2019-12-20,Chage,live,Chage Christmas Dinner Show 2019,東京都,グランドプリンスホテル新高輪,,,primary,https://chage.jp/biography/2019.php
 v13-aska19-higher-003,2019-12-20,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,兵庫県,兵庫県立芸術文化センター KOBELCO大ホール,3,2019年分のみ。2020年分は次版で追加予定,primary,https://billboard-cc.com/aska2019
 v13-aska19-higher-004,2019-12-27,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,宮城県,東京エレクトロンホール宮城 大ホール,4,2019年分のみ。2020年分は次版で追加予定,primary,https://billboard-cc.com/aska2019
+v14-media-ch20-001,2020-01-02,Chage,media,NACK5「J-POP TALKIN’」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
+v14-aska-higher-2020-done-001,2020-01-03,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,福岡県,福岡サンパレスホテル&ホール,1,実施済み（2019年分4公演は登録済み）,secondary,https://w.atwiki.jp/canda/pages/263.html
+v14-media-ch20-002,2020-01-03,Chage,media,ABCテレビ「山里亮太のクイズ！？まさかのバーサーカー2」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
+v14-aska-higher-2020-planned-001,2020-01-06,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）,大阪府,フェスティバルホール,1,開催されていない予定。開催済み公演数に含めない／ASKA急性咽頭炎で延期、後に振替も中止,secondary,https://w.atwiki.jp/canda/pages/263.html
+v14-chage-2020-newyear-001,2020-01-06,Chage,live,Chage NewYear Party 2020,愛知県,名古屋ブルーノート,1,開催日記録。同日の開催回数は未確認,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-newyear-002,2020-01-07,Chage,live,Chage NewYear Party 2020,大阪府,ビルボードライブ大阪,2,開催日記録。同日の開催回数は未確認,primary,https://chage.jp/biography/2020.php
+v14-media-ch20-003,2020-01-08,Chage,media,NACK5「K’s TRANSMISSION」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
+v14-aska-higher-2020-done-002,2020-01-09,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,東京都,東京国際フォーラム ホールA,2,実施済み（2019年分4公演は登録済み）,secondary,https://w.atwiki.jp/canda/pages/263.html
+v14-media-ch20-004,2020-01-09,Chage,media,NACK5「J-POP TALKIN’」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
+v14-aska-higher-2020-done-003,2020-01-11,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,北海道,札幌文化芸術劇場 hitaru,3,実施済み（2019年分4公演は登録済み）,secondary,https://w.atwiki.jp/canda/pages/263.html
+v14-aska-higher-2020-done-004,2020-01-15,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,東京都,LINE CUBE SHIBUYA,4,実施済み（2019年分4公演は登録済み）,secondary,https://w.atwiki.jp/canda/pages/263.html
+v14-aska-higher-2020-done-005,2020-01-18,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,新潟県,りゅーとぴあ コンサートホール,5,実施済み（2019年分4公演は登録済み）,secondary,https://w.atwiki.jp/canda/pages/263.html
+v14-aska-higher-2020-done-006,2020-02-02,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,群馬県,高崎芸術劇場 大劇場,6,実施済み（2019年分4公演は登録済み）,secondary,https://w.atwiki.jp/canda/pages/263.html
+v14-chage2020-shimokita,2020-02-02,Chage,live,FC限定公演「下北沢の柴田さん」,東京都,duo MUSIC EXCHANGE,,,primary,https://chage.jp/biography/2020.php
+v14-aska-higher-2020-done-007,2020-02-09,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,神奈川県,神奈川県民ホール 大ホール,7,実施済み（2019年分4公演は登録済み）,secondary,https://w.atwiki.jp/canda/pages/263.html
+v14-aska-higher-2020-done-008,2020-02-11,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-,東京都,東京文化会館 大ホール,8,実施済み（2019年分4公演は登録済み）／追加公演,secondary,https://w.atwiki.jp/canda/pages/263.html
+v14-chage2020-seo,2020-02-16,Chage,other,瀬尾一三『音楽と契約した男 瀬尾一三』出版記念トークイベント出演,東京都,代官山 蔦屋書店,,,primary,https://chage.jp/biography/2020.php
+v14-release-001,2020-02-22,Chage,release,『都はるみを好きになった人 ～tribute to HARUMI MIYAKO～』発売（Chage参加）,,,,水谷千重子＆Chage「浪花恋しぐれ」参加のコンピレーション作品,primary,https://chage.jp/biography/2020.php
+v14-aska-higher-2020-planned-002,2020-03-13,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）,大阪府,フェスティバルホール,2,開催されていない予定。開催済み公演数に含めない／1月6日の振替予定。感染症の影響で中止,secondary,https://w.atwiki.jp/canda/pages/263.html
+v14-aska-higher-2020-planned-003,2020-03-20,ASKA,live,billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）,熊本県,熊本城ホール メインホール,3,開催されていない予定。開催済み公演数に含めない／特別公演予定。感染症の影響で中止,secondary,https://w.atwiki.jp/canda/pages/263.html
+v14-release-002,2020-03-20,ASKA,release,『Breath of Bless』CDアルバム発売,,,,2020年3月6日の先行配信とは別のCD発売日,primary,https://www.oricon.co.jp/prof/245800/products/1347552/1/
+v14-media-ch20-005,2020-04-05,Chage,media,BS12「ザ・カセットテープミュージック」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-fm-cancel-001,2020-04-10,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,宮城県,仙台 Rensa,1,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-fm-cancel-002,2020-04-12,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,大阪府,松下IMPホール,2,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-fm-cancel-003,2020-04-17,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,愛知県,名古屋 ダイアモンドホール,3,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定,primary,https://chage.jp/biography/2020.php
+v14-ca-youtube-01,2020-04-17,CHAGE and ASKA,media,C&A公式YouTubeライブ映像公開 第1弾（1980年代）,,,,YouTube公開日。過去映像の元ライブ公演日とは区別,primary,https://www.chage-aska.net/information/2020041701.php
+v14-chage-2020-fm-cancel-004,2020-04-18,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,広島県,広島クラブクアトロ,4,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-fm-cancel-005,2020-04-19,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,福岡県,福岡 イムズホール,5,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定,primary,https://chage.jp/biography/2020.php
+v14-ca-youtube-02,2020-04-24,CHAGE and ASKA,media,C&A公式YouTubeライブ映像公開 第2弾（1990年代）,,,,YouTube公開日。過去映像の元ライブ公演日とは区別,primary,https://www.chage-aska.net/information/2020041701.php
+v14-chage-2020-fm-cancel-006,2020-04-25,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,東京都,品川インターシティホール,6,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-fm-cancel-007,2020-04-26,Chage,live,Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）,東京都,品川インターシティホール,7,新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定,primary,https://chage.jp/biography/2020.php
+v14-ca-youtube-03,2020-05-01,CHAGE and ASKA,media,C&A公式YouTubeライブ映像公開 第3弾（2000年代）,,,,YouTube公開日。過去映像の元ライブ公演日とは区別,primary,https://www.chage-aska.net/information/2020041701.php
+v14-release-003,2020-05-27,CHAGE and ASKA,release,映像作品『WALK』DVD再発売,,,,1989年作品のDVD化。オリジナル作品初発売日ではない,primary,https://www.chage-aska.net/information/2020051301.php
+v14-release-004,2020-05-27,CHAGE and ASKA,release,映像作品『SEE YA』DVD再発売,,,,1990年作品のDVD化,primary,https://www.chage-aska.net/information/2020051301.php
+v14-chage2020-keiji06,2020-06-16,Chage,live,配信LIVE「川島ケイジの君のために歌いマホ」Vol.4 ゲスト出演,,オンライン配信,,,primary,https://chage.jp/biography/2020.php
+v14-chage2020-keiji07,2020-07-14,Chage,live,配信LIVE「川島ケイジの君のために歌いマホ」Vol.5 ゲスト出演,,オンライン配信,,,primary,https://chage.jp/biography/2020.php
+v14-release-005,2020-08-05,CHAGE and ASKA,release,映像作品『TREE』DVD再発売,,,,1991年作品のDVD化,primary,https://www.chage-aska.net/information/2020072201.php
+v14-release-006,2020-08-05,CHAGE and ASKA,release,映像作品『Go to Eleven ～GUYS～』DVD再発売,,,,1992年作品のDVD化,primary,https://www.chage-aska.net/information/2020072201.php
+v14-media-ch20-006,2020-08-20,Chage,media,TBSラジオ「コシノジュンコ MASACA」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
+v14-media-ch20-007,2020-08-21,Chage,media,FM FUKUOKA「BUTCH COUNTDOWN RADIO」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
+v14-media-ch20-008,2020-08-30,Chage,media,TBSラジオ「コシノジュンコ MASACA」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-tour-cancel-001,2020-09-05,Chage,live,Chage Live Tour 2020（全公演中止）,愛知県,Zepp Nagoya,1,感染症の影響による開催中止。開催済み公演数には含めない,primary,https://chage.jp/biography/2020.php
+v14-chage2020-online,2020-09-05,Chage,live,Chage Online Live 2020 ～君に逢いたいだけ～,,オンライン配信,,配信ライブ。元々同日に予定されていたZepp Nagoya公演（中止）とは別イベント,primary,https://chage.jp/information/live/detail-404.php
+v14-release-007,2020-09-11,ASKA,release,「幸せの黄色い風船」配信開始,,,,2020年3週連続配信第1弾,primary,https://lp.p.pia.jp/article/news/135452/index.html
+v14-release-008,2020-09-18,ASKA,release,「自分じゃないか」配信開始,,,,2020年3週連続配信第2弾,primary,https://lp.p.pia.jp/article/news/135452/index.html
+v14-chage-2020-tour-cancel-002,2020-09-19,Chage,live,Chage Live Tour 2020（全公演中止）,東京都,豊洲PIT,2,感染症の影響による開催中止。開催済み公演数には含めない,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-tour-cancel-003,2020-09-20,Chage,live,Chage Live Tour 2020（全公演中止）,東京都,豊洲PIT,3,感染症の影響による開催中止。開催済み公演数には含めない,primary,https://chage.jp/biography/2020.php
+v14-release-009,2020-09-25,ASKA,release,「僕のwonderful world」配信開始,,,,2020年3週連続配信第3弾,primary,https://lp.p.pia.jp/article/news/135452/index.html
+v14-chage-2020-tour-cancel-004,2020-09-26,Chage,live,Chage Live Tour 2020（全公演中止）,大阪府,Zepp Osaka Bayside,4,感染症の影響による開催中止。開催済み公演数には含めない,primary,https://chage.jp/biography/2020.php
+v14-chage-2020-tour-cancel-005,2020-09-28,Chage,live,Chage Live Tour 2020（全公演中止）,福岡県,Zepp Fukuoka,5,感染症の影響による開催中止。開催済み公演数には含めない,primary,https://chage.jp/biography/2020.php
+v14-media-ch20-009,2020-10-06,Chage,media,ニッポン放送「あさぼらけ」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
+v14-release-010,2020-10-07,Chage,release,「君に逢いたいだけ」配信開始,,,,,primary,https://chage.jp/discography/
+v14-media-ch20-010,2020-10-07,Chage,media,ニッポン放送「あさぼらけ」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2020.php
+v14-chage2020-popcon,2020-10-18,Chage,live,配信LIVE「僕らのポプコンエイジ・オンライン2020」出演,,オンライン配信,,,primary,https://chage.jp/biography/2020.php
+v14-release-011,2020-10-21,ASKA,release,ライブ映像『ASKA premium ensemble concert -higher ground- 2019>>2020』発売,,,,ツアー映像作品。公演日とは別,primary,https://lp.p.pia.jp/article/news/135452/index.html
+v14-release-012,2020-11-11,CHAGE and ASKA,release,映像作品『RED HILL』DVD再発売,,,,1994年作品のDVD化,primary,https://www.chage-aska.net/information/2020102101.php
+v14-release-013,2020-11-11,CHAGE and ASKA,release,映像作品『On Your Mark』DVD再発売,,,,1994年作品のDVD化,primary,https://www.chage-aska.net/information/2020102101.php
+v14-release-014,2020-12-09,Chage,release,アルバム『Boot up!!』発売,,,,初回限定盤・通常盤を1作品として登録,primary,https://chage.jp/discography/chage/album/013.php
+v14-chage-2020-christmas-001,2020-12-19,Chage,live,Chage Christmas Party 2020,神奈川県,ビルボードライブ横浜,1,感染症対策で客席収容率を制限して開催／1st Stage,primary,https://www.billboard-live.com/tokyo/show?event_id=ev-12391
+v14-chage-2020-christmas-002,2020-12-19,Chage,live,Chage Christmas Party 2020,神奈川県,ビルボードライブ横浜,2,感染症対策で客席収容率を制限して開催／2nd Stage,primary,https://www.billboard-live.com/tokyo/show?event_id=ev-12391
+v14-chage-2020-christmas-003,2020-12-22,Chage,live,Chage Christmas Party 2020,東京都,ビルボードライブ東京,3,感染症対策で客席収容率を制限して開催／1st Stage,primary,https://www.billboard-live.com/tokyo/show?event_id=ev-12391
+v14-chage-2020-christmas-004,2020-12-22,Chage,live,Chage Christmas Party 2020,東京都,ビルボードライブ東京,4,感染症対策で客席収容率を制限して開催／2nd Stage,primary,https://www.billboard-live.com/tokyo/show?event_id=ev-12391
+v14-chage-2020-christmas-005,2020-12-24,Chage,live,Chage Christmas Party 2020,大阪府,ビルボードライブ大阪,5,感染症対策で客席収容率を制限して開催／1st Stage,primary,https://www.billboard-live.com/tokyo/show?event_id=ev-12391
+v14-chage-2020-christmas-006,2020-12-24,Chage,live,Chage Christmas Party 2020,大阪府,ビルボードライブ大阪,6,感染症対策で客席収容率を制限して開催／2nd Stage,primary,https://www.billboard-live.com/tokyo/show?event_id=ev-12391
+v14-media-ch21-001,2021-01-08,Chage,media,NACK5「K’s TRANSMISSION」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-002,2021-01-09,Chage,media,NACK5「J-POP TALKIN’」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-003,2021-01-11,Chage,media,TBSラジオ「伊集院光とらじおと」生ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-ca-youtube-2021,2021-02-05,CHAGE and ASKA,media,C&A公式YouTubeライブ映像 追加公開,,,,YouTube公開日。過去映像の元ライブ公演日とは区別,primary,https://www.chage-aska.net/information/
+v14-media-ch21-004,2021-02-08,Chage,media,歌謡ポップスチャンネル「MUSIC JUNCTION」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-chage2021-equal-stream,2021-02-14,Chage,live,equal大感謝祭「Chage Christmas Party 2020」をChageと一緒にDuooooo!!!,,オンライン配信,,生配信ファンクラブイベント,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-005,2021-02-22,Chage,media,歌謡ポップスチャンネル「MUSIC JUNCTION」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-chage2021-onlinefan,2021-05-07,Chage,milestone,Chage オンラインファンミーティング2021 ～君に逢えるみたい～ 開始,,,,2021年5〜8月に開催。開催日程の全件は未確認のため開始日のみ記録,primary,https://chage.jp/biography/2021.php
+v14-chage2021-photo,2021-05-16,Chage,live,UnUsual Fest! 御苗場vol.28 トーク出演,,オンライン配信,,生配信トークイベント,primary,https://chage.jp/biography/2021.php
+v14-chage2021-popcon,2021-05-23,Chage,live,僕らのポプコンエイジ・オンライン2021,,オンライン配信,,配信ライブ出演,primary,https://chage.jp/biography/2021.php
+v14-aska2021-stream,2021-06-23,ASKA,live,ASKA配信ライブ「すべての事には理由がある」,,オンライン配信,,ASKA初の配信ライブ。有観客で収録・配信。配信開始時刻は資料に揺れがあるため未掲載,primary,https://www.oricon.co.jp/news/2197745/full/
+v14-aska2021-terminal,2021-06-23,ASKA,media,ASKA配信ライブ「すべての事には理由がある」で「Terminal Melody」公開収録,,,,配信ライブ内の番組収録。番組本放送日とは別,primary,https://www.oricon.co.jp/news/2197745/full/
+v14-release-015,2021-06-30,CHAGE and ASKA,release,『THE VIDEO OF CHAGE and ASKA TUG OF C&A Vol.1〜5』DVD発売,,,,VHS5作品の復刻。数量限定盤・通常盤の2仕様を1作品として登録,primary,https://www.chage-aska.net/information/2021062101.php
+v14-release-016,2021-07-01,ASKA,release,「笑って歩こうよ」配信開始,,,,CD発売日（7月14日）とは別,primary,https://www.qobuz.com/jp-ja/album/aska/glggm5ulxaufc
+v14-release-017,2021-07-14,ASKA,release,シングル「笑って歩こうよ」CD発売,,,,,primary,https://www.billboard-japan.com/goods/detail/676003
+v14-chage-2021-boot-001,2021-09-03,Chage,live,Chage Live Tour 2021 ～Boot up!!～,福岡県,Zepp Fukuoka,1,福岡初日を除き同日2回公演。公式の時刻に基づき区別,primary,https://chage.jp/livetour2021/
+v14-chage-2021-boot-002,2021-09-05,Chage,live,Chage Live Tour 2021 ～Boot up!!～,愛知県,Zepp Nagoya,2,福岡初日を除き同日2回公演。公式の時刻に基づき区別／第1回,primary,https://chage.jp/livetour2021/
+v14-chage-2021-boot-003,2021-09-05,Chage,live,Chage Live Tour 2021 ～Boot up!!～,愛知県,Zepp Nagoya,3,福岡初日を除き同日2回公演。公式の時刻に基づき区別／第2回,primary,https://chage.jp/livetour2021/
+v14-chage-2021-boot-004,2021-09-06,Chage,live,Chage Live Tour 2021 ～Boot up!!～,大阪府,Zepp Osaka Bayside,4,福岡初日を除き同日2回公演。公式の時刻に基づき区別／第1回,primary,https://chage.jp/livetour2021/
+v14-chage-2021-boot-005,2021-09-06,Chage,live,Chage Live Tour 2021 ～Boot up!!～,大阪府,Zepp Osaka Bayside,5,福岡初日を除き同日2回公演。公式の時刻に基づき区別／第2回,primary,https://chage.jp/livetour2021/
+v14-chage-2021-boot-006,2021-09-18,Chage,live,Chage Live Tour 2021 ～Boot up!!～,東京都,豊洲PIT,6,福岡初日を除き同日2回公演。公式の時刻に基づき区別／第1回,primary,https://chage.jp/livetour2021/
+v14-chage-2021-boot-007,2021-09-18,Chage,live,Chage Live Tour 2021 ～Boot up!!～,東京都,豊洲PIT,7,福岡初日を除き同日2回公演。公式の時刻に基づき区別／第2回,primary,https://chage.jp/livetour2021/
+v14-chage-2021-boot-008,2021-09-19,Chage,live,Chage Live Tour 2021 ～Boot up!!～,東京都,豊洲PIT,8,福岡初日を除き同日2回公演。公式の時刻に基づき区別／第1回,primary,https://chage.jp/livetour2021/
+v14-chage-2021-boot-009,2021-09-19,Chage,live,Chage Live Tour 2021 ～Boot up!!～,東京都,豊洲PIT,9,福岡初日を除き同日2回公演。公式の時刻に基づき区別／第2回,primary,https://chage.jp/livetour2021/
+v14-aska2021-bs-pride,2021-09-23,ASKA,media,BSテレ東「ASKA スペシャル ～PRIDE 2021 譲れないものがある～」放送,,,,テレビ特番の放送日,secondary,https://cosmos.ladomi.net/interview
+v14-aska-2021-encore-plan-001,2021-10-09,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）,東京都,府中の森芸術劇場 どりーむホール,1,延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年1月7日に振替開催,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-release-018,2021-10-15,ASKA,release,シングル「PRIDE」CD発売,,,,CHAGE and ASKAの1989年作をASKAソロで新録した2021年盤,primary,https://www.oricon.co.jp/prof/245800/products/1426070/1/
+v14-aska-2021-encore-plan-002,2021-10-16,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）,熊本県,熊本城ホール メインホール,2,延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月16日に振替開催,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-media-ch21-006,2021-10-16,Chage,media,NHK BSプレミアム・BS4K「歌える！J-POP黄金のヒットパレード決定版！#4」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-aska2021-shizuoka-cancel,2021-10-24,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演（静岡・中止予定）,静岡県,静岡市民文化会館 大ホール,,静岡市民文化会館大ホール公演は中止・払戻し。開催済み公演ではない,primary,https://www.sundayfolk.com/sundy/2021/10/post_18866.html
+v14-media-ch21-007,2021-10-31,Chage,media,WOWOWプラス「Chage Live Tour 2021 ～Boot up!!～」放送,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-chage2021-shimada,2021-11-03,Chage,live,LIVE from “Great Studio” 2021 ～島田昌典 あざみ野サウンドの世界～,神奈川県,ぴあアリーナMM,,ゲスト出演,primary,https://chage.jp/biography/2021.php
+v14-aska-2021-encore-plan-003,2021-11-06,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）,広島県,広島文化学園HBGホール,3,延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月18日に振替開催,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-media-ch21-008,2021-11-19,Chage,media,J-WAVE「ALL GOOD FRIDAY」内「LiLiCoとHAPPY DATE」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-chage2021-amazons,2021-11-22,Chage,live,AMAZONS 35th Anniversary Live Bunkamura,東京都,Bunkamura オーチャードホール,,ゲスト出演,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-009,2021-11-23,Chage,media,K-mix「Anchor Night」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-release-019,2021-11-24,Chage,release,『Chage’s Christmas ～チャゲクリ～』発売,,,,CD+DVD／CD+Blu-rayを同一作品として登録,primary,https://chage.jp/discography/chage/single/016.php
+v14-media-ch21-010,2021-11-24,Chage,media,南海放送「山下泰則のモーニング・ディライト」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-011,2021-11-24,Chage,media,FM熊本「FMKパンゲア！」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-012,2021-11-24,Chage,media,エフエム世田谷「アフタヌーンパラダイス水曜日」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-aska-2021-encore-plan-004,2021-11-26,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）,東京都,東京国際フォーラム ホールA,4,延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年4月13日に振替開催,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-media-ch21-013,2021-11-26,Chage,media,FM岡山「Fresh Morning OKAYAMA」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-014,2021-11-26,Chage,media,NACK5「FUNKY FRIDAY」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-015,2021-11-28,Chage,media,ZIP-FM「otonationary」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-016,2021-11-29,Chage,media,BSS山陰放送「あさスタ♪」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-aska-2021-encore-plan-005,2021-11-30,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）,大阪府,フェスティバルホール,5,延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月5日に振替開催,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-media-ch21-017,2021-11-30,Chage,media,四国放送「となりのラジオ」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-018,2021-12-03,Chage,media,FM宮崎「Super Friday DJ Pocky’s Radio Show! WEEKEND JAM」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-019,2021-12-04,Chage,media,MRO北陸放送「モリラジ！」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-020,2021-12-04,Chage,media,レディオキューブFM三重「Welcome To Radio CUBE」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-021,2021-12-06,Chage,media,FM岐阜「TWILIGHT MAGIC」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-022,2021-12-06,Chage,media,FM COCOLO「Wonder Garden」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-023,2021-12-06,Chage,media,α-STATION「ONE FINE DAY」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-024,2021-12-07,Chage,media,RCC中国放送「おひるーな」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-025,2021-12-07,Chage,media,FMちゅーピー「広島すまいるパフェ」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-026,2021-12-07,Chage,media,広島FM「江本一真のゴッジ」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-027,2021-12-08,Chage,media,RKB「オトナナビゲーションZ」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-chage-2021-winter-001,2021-12-09,Chage,live,Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～,福岡県,DRUM LOGOS,1,,primary,https://chage.jp/2021winterevent/
+v14-aska-2021-encore-plan-006,2021-12-09,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）,京都府,ロームシアター京都 メインホール,6,延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年3月24日に振替開催,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-chage-2021-winter-002,2021-12-10,Chage,live,Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～,広島県,広島クラブクアトロ,2,,primary,https://chage.jp/2021winterevent/
+v14-media-ch21-028,2021-12-10,Chage,media,FM愛媛「Groovy Radio Caravan」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-029,2021-12-10,Chage,media,RKBラジオ「GOT MANY TUNES」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-030,2021-12-10,Chage,media,JFN「Seasoning」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-031,2021-12-11,Chage,media,FM NACK5「J-POP TALKIN’」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-032,2021-12-12,Chage,media,FM COCOLO「SUPER J-HITS RADIO」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-033,2021-12-13,Chage,media,FM山陰「高田リオンのGO-！EVENING！」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-034,2021-12-13,Chage,media,南海放送「TIPS」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-035,2021-12-14,Chage,media,FM秋田「mix」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-036,2021-12-16,Chage,media,bayfm「The BAY☆LINE」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-chage-2021-winter-003,2021-12-17,Chage,live,Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～,東京都,品川プリンスホテル クラブeX,3,1st公演,primary,https://chage.jp/2021winterevent/
+v14-chage-2021-winter-004,2021-12-17,Chage,live,Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～,東京都,品川プリンスホテル クラブeX,4,2nd公演,primary,https://chage.jp/2021winterevent/
+v14-aska-2021-encore-plan-007,2021-12-17,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）,宮城県,仙台サンプラザホール,7,延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年1月10日に振替開催,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-media-ch21-037,2021-12-17,Chage,media,FM OSAKA「そえんじの音楽DOH！」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-038,2021-12-18,Chage,media,α-STATION「J-AC TOP40」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-039,2021-12-18,Chage,media,FM福岡「ライヴのじかん」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-chage-2021-winter-005,2021-12-19,Chage,live,Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～,東京都,品川プリンスホテル クラブeX,5,1st公演,primary,https://chage.jp/2021winterevent/
+v14-chage-2021-winter-006,2021-12-19,Chage,live,Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～,東京都,品川プリンスホテル クラブeX,6,2nd公演,primary,https://chage.jp/2021winterevent/
+v14-media-ch21-040,2021-12-19,Chage,media,東海ラジオ「ねね・のりこのアオハルみゅ～じっく♪」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-041,2021-12-20,Chage,media,KNBラジオ「でるラジ！」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-042,2021-12-20,Chage,media,FM AICHI「DAYDREAM MAGIC」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-043,2021-12-20,Chage,media,東海ラジオ「源石和輝！抽斗」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-chage-2021-winter-007,2021-12-21,Chage,live,Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～,愛知県,ボトムライン,7,1st公演,primary,https://chage.jp/2021winterevent/
+v14-chage-2021-winter-008,2021-12-21,Chage,live,Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～,愛知県,ボトムライン,8,2nd公演,primary,https://chage.jp/2021winterevent/
+v14-media-ch21-044,2021-12-21,Chage,media,α-STATION「LIFT」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-chage-2021-winter-009,2021-12-22,Chage,live,Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～,大阪府,umeda TRAD,9,1st公演,primary,https://chage.jp/2021winterevent/
+v14-chage-2021-winter-010,2021-12-22,Chage,live,Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～,大阪府,umeda TRAD,10,2nd公演,primary,https://chage.jp/2021winterevent/
+v14-aska-2021-encore-plan-008,2021-12-22,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）,愛知県,名古屋国際会議場 センチュリーホール,8,延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月11日に振替開催,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-media-ch21-045,2021-12-22,Chage,media,FM OSAKA「LOVE FLAP」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-046,2021-12-22,Chage,media,南海放送「ニュースな時間」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-047,2021-12-23,Chage,media,FM GUNMA「WAIWAI Groovin'」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-048,2021-12-24,Chage,media,FM福岡「カムカムFM福岡」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-049,2021-12-24,Chage,media,FM福岡「BUTCH COUNTDOWN RADIO」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-050,2021-12-24,Chage,media,Date fm「Sendaian Hot Music」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-051,2021-12-24,Chage,media,エフエムいずみ「Daily! Cafe」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-052,2021-12-24,Chage,media,ラジオスリー「マイタウンRADIO」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-053,2021-12-24,Chage,media,tbcラジオ「シロクジTUNE」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-chage-2021-winter-011,2021-12-25,Chage,live,Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～,宮城県,Rensa,11,,primary,https://chage.jp/2021winterevent/
+v14-media-ch21-054,2021-12-25,Chage,media,FM愛媛「VOICE ～風の神話～」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-media-ch21-055,2021-12-25,Chage,media,南海放送「J-POPシャッフル」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-chage-2021-winter-012,2021-12-26,Chage,live,Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～,北海道,PENNY LANE 24,12,,primary,https://chage.jp/2021winterevent/
+v14-media-ch21-056,2021-12-26,Chage,media,CBCラジオ「新栄トークジャンボリー」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2021.php
+v14-aska-2021-encore-plan-009,2021-12-28,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）,福岡県,福岡サンパレス ホテル＆ホール,9,延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月14日に振替開催,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-aska-2022-encore-001,2022-01-07,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演,東京都,府中の森芸術劇場 どりーむホール,1,開催済み。2021年の延期前予定日は別記録／2021/10/9の延期分,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-aska-2022-encore-002,2022-01-10,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演,宮城県,仙台サンプラザホール,2,開催済み。2021年の延期前予定日は別記録／2021/12/17の延期分,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-chage2022-onlinefanstart,2022-01-14,Chage,milestone,Chage オンラインファンミーティング2022 ～めぐり合った奇跡は素敵！～ 開始,,,,2022年毎月開催。開催全日程の照合前につき初日のみ記録,primary,https://chage.jp/biography/2022.php
+v14-aska-2022-encore-003,2022-01-30,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演,神奈川県,神奈川県民ホール 大ホール,3,開催済み。2021年の延期前予定日は別記録／新規公演,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-aska-2022-encore-004,2022-02-05,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演,大阪府,フェスティバルホール,4,開催済み。2021年の延期前予定日は別記録／2021/11/30の延期分,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-aska-2022-encore-005,2022-02-11,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演,愛知県,名古屋国際会議場 センチュリーホール,5,開催済み。2021年の延期前予定日は別記録／2021/12/22の延期分,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-aska-2022-encore-006,2022-02-14,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演,福岡県,福岡サンパレス ホテル＆ホール,6,開催済み。2021年の延期前予定日は別記録／2021/12/28の延期分,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-aska-2022-encore-007,2022-02-16,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演,熊本県,熊本城ホール メインホール,7,開催済み。2021年の延期前予定日は別記録／2021/10/16の延期分,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-aska-2022-encore-008,2022-02-18,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演,広島県,広島文化学園HBGホール,8,開催済み。2021年の延期前予定日は別記録／2021/11/6の延期分,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-aska-2022-encore-009,2022-02-23,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演,兵庫県,兵庫県立芸術文化センター KOBELCO大ホール,9,開催済み。2021年の延期前予定日は別記録／新規公演,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-aska-2022-encore-010,2022-02-24,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演,東京都,東京ガーデンシアター,10,開催済み。2021年の延期前予定日は別記録／ASKA誕生日・特別公演,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-media-ch22-001,2022-03-04,Chage,media,FMとやま「AMAZING TOYAMA 写真部」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-chage2022-kawashima,2022-03-20,Chage,live,川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～ 振替公演,,,,ゲスト出演。会場詳細未確認,primary,https://chage.jp/biography/2022.php
+v14-aska-2022-encore-011,2022-03-24,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演,京都府,ロームシアター京都 メインホール,11,開催済み。2021年の延期前予定日は別記録／2021/12/9の延期分,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-media-ch22-002,2022-03-25,Chage,media,FM FUKUOKA「BUTCH COUNTDOWN RADIO」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-aska-2022-encore-012,2022-03-27,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演,福島県,いわき芸術文化交流館アリオス 大ホール,12,開催済み。2021年の延期前予定日は別記録／新規公演,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-chage2022-torch,2022-03-27,Chage,live,オリンピック聖火リレー点火セレモニー記念スペシャル in 門司港,福岡県,門司港,,ゲスト出演,primary,https://chage.jp/biography/2022.php
+v14-aska-2022-encore-013,2022-04-13,ASKA,live,ASKA premium concert tour -higher ground- アンコール公演,東京都,東京国際フォーラム ホールA,13,開催済み。2021年の延期前予定日は別記録／ツアー最終日。2021/11/26の延期分,primary,https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/
+v14-chage2022-beatles-talk,2022-05-20,Chage,other,藤本国彦プロデュース「ビートルズの世界 AROUND THE BEATLES 2022」トーク出演,,,,,primary,https://chage.jp/biography/2022.php
+v14-chage2022-matsui-talk,2022-05-21,Chage,other,松井五郎個展「時間外空想01 砂と形」トークショー出演,,,,,primary,https://chage.jp/biography/2022.php
+v14-release-020,2022-07-06,Chage,release,「そういうひと」配信開始,,,,,primary,https://chage.jp/discography/
+v14-chage2022-youtube,2022-07-07,Chage,milestone,YouTubeチャンネル「Chageのずっと細道」開設,,,,ライブの開催日とは別に記録,primary,https://chage.jp/biography/2022.php
+v14-chage-2022-hosomichi-001,2022-07-09,Chage,live,Chageのずっと細道,東京都,iTSCOM STUDIO & HALL 二子玉川ライズ,1,実施済み。時刻が公式に残る回のみ掲載,primary,https://chage.jp/hosomichi/schedule/archive.php
+v14-chage-2022-hosomichi-002,2022-07-10,Chage,live,Chageのずっと細道,東京都,iTSCOM STUDIO & HALL 二子玉川ライズ,2,実施済み。時刻が公式に残る回のみ掲載／第1回,primary,https://chage.jp/hosomichi/schedule/archive.php
+v14-chage-2022-hosomichi-003,2022-07-10,Chage,live,Chageのずっと細道,東京都,iTSCOM STUDIO & HALL 二子玉川ライズ,3,実施済み。時刻が公式に残る回のみ掲載／第2回・配信あり,primary,https://chage.jp/hosomichi/schedule/archive.php
+v14-media-ch22-003,2022-07-22,Chage,media,TOKYOくるめラ「午後の玉手箱」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-media-ch22-004,2022-07-24,Chage,media,NHK BSプレミアム「歌える！J-POP黄金のベストアルバム30M」再放送,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-release-021,2022-07-29,Chage,release,『Chage 08-11 Live ～Selected 21 Songs～』発売,,,,2008〜2011年のライブから選曲した映像・音源作品,primary,https://chage.jp/discography/chage/bd/015.php
+v14-release-022,2022-09-07,Chage,release,「POP」配信開始,,,,,primary,https://chage.jp/discography/
+v14-media-ch22-005,2022-09-07,Chage,media,α-STATION「GOOD & NEW KYOTO」生出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-media-ch22-006,2022-09-09,Chage,media,FM大阪「hug +」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-media-ch22-007,2022-09-10,Chage,media,ABC朝日放送「上田剛彦のなにわ音楽ハツラツ団」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-media-ch22-008,2022-09-15,Chage,media,FM大阪「Marche Coucou」コメント出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-media-ch22-009,2022-09-17,Chage,media,α-STATION「J-AC TOP40」コメント出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-media-ch22-010,2022-09-20,Chage,media,α-STATION「MUSIC MATCH」出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-media-ch22-011,2022-09-21,Chage,media,FM COCOLO「Wonder Garden」コメント出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-chage2022-phil,2022-10-17,Chage,live,PREMIUM PHILHARMONIC ORCHESTRA feat. Chage、川島ケイジ,東京都,東京芸術劇場 大ホール,,ゲスト出演,primary,https://chage.jp/biography/2022.php
+v14-media-ch22-012,2022-10-25,Chage,media,FM FUKUOKA「DIG!!!!!!!!FUKUOKA」生出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-media-ch22-013,2022-10-25,Chage,media,LOVE FM「スイッチオン！DAYTIME」生出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-media-ch22-014,2022-10-25,Chage,media,RKBテレビ「タダイマ！」生出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-chage-2022-hosomichi-004,2022-10-26,Chage,live,Chageのずっと細道,福岡県,Gate’s7,4,実施済み。時刻が公式に残る回のみ掲載,primary,https://chage.jp/hosomichi/schedule/archive.php
+v14-release-023,2022-11-02,Chage,release,『YOU’RE THE ONE』発売,,,,CD＋DVD／CD＋Blu-rayは同一作品として登録,primary,https://chage.jp/discography/chage/album/015.php
+v14-chage-2022-hosomichi-005,2022-11-03,Chage,live,Chageのずっと細道,大阪府,BIGCAT,5,実施済み。時刻が公式に残る回のみ掲載,primary,https://chage.jp/hosomichi/schedule/archive.php
+v14-media-ch22-015,2022-11-04,Chage,media,南海放送ラジオ「TIPS」生出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-media-ch22-016,2022-11-04,Chage,media,FM愛媛「Groovy Radio Caravan」公開生出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-chage-2022-hosomichi-006,2022-11-05,Chage,live,Chageのずっと細道,愛媛県,WstudioRED,6,実施済み。時刻が公式に残る回のみ掲載,primary,https://chage.jp/hosomichi/schedule/archive.php
+v14-media-ch22-017,2022-11-12,Chage,media,RKBラジオ「Got Many Tunes」コメント出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-media-ch22-018,2022-11-20,Chage,media,NHK「歌える！J-POP黄金のベストアルバム30M」ゲスト出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-media-ch22-019,2022-11-20,Chage,media,東海ラジオ「Morning Delight」コメント出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-media-ch22-020,2022-12-12,Chage,media,K-mix「RADIOKIDS」コメント出演,,,,放送日／掲載日。ライブ開催日とは別の記録,primary,https://chage.jp/biography/2022.php
+v14-chage-2022-billboard-001,2022-12-18,Chage,live,Chage Billboard Live “64 to 65”,大阪府,ビルボードライブ大阪,1,2023年1月6日の東京公演は次版に収録予定／1st Stage,primary,https://www.billboard-live.com/yokohama/show?event_id=ev-13702
+v14-chage-2022-billboard-002,2022-12-18,Chage,live,Chage Billboard Live “64 to 65”,大阪府,ビルボードライブ大阪,2,2023年1月6日の東京公演は次版に収録予定／2nd Stage,primary,https://www.billboard-live.com/yokohama/show?event_id=ev-13702
+v14-chage-2022-billboard-003,2022-12-21,Chage,live,Chage Billboard Live “64 to 65”,神奈川県,ビルボードライブ横浜,3,2023年1月6日の東京公演は次版に収録予定／1st Stage,primary,https://www.billboard-live.com/yokohama/show?event_id=ev-13702
+v14-chage-2022-billboard-004,2022-12-21,Chage,live,Chage Billboard Live “64 to 65”,神奈川県,ビルボードライブ横浜,4,2023年1月6日の東京公演は次版に収録予定／2nd Stage,primary,https://www.billboard-live.com/yokohama/show?event_id=ev-13702

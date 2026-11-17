@@ -1,7 +1,7 @@
 /* 公開用データ。events.jsonと同じ内容を保持 */
 window.CA_EVENT_DATA = {
   "schemaVersion": 1,
-  "notice": "2014〜2016年のChage公式記録を追加。2014年ファンミーティング31公演は日ごとの昼夜を記録。2015年ファンミーティングは公式16公演のうち、開催日9日分のみ日付確定（同日複数回の内訳は調査中）。2016年ファンミーティング11公演は開演時間も記録。既存記録を含め、全期間を網羅したものではありません。",
+  "notice": "公演当日の実施記録と、延期・中止によって開催されなかった当初予定をstatusとnoteで区別しています。ファンクラブイベントでは開催日数と公演回数が一致しない場合があります。出典未確認の回数・時刻は作らず保留します。資料未収録のライブ・番組がある可能性があります。",
   "lastUpdated": "2026-11-17",
   "events": [
     {
@@ -44245,12 +44245,12 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "音市音座2017",
       "status": "recorded",
-      "verification": "secondary",
+      "verification": "primary",
       "note": "スターダスト☆レビューほかと出演",
       "sources": [
         {
-          "label": "当時の公演予定情報",
-          "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
+          "label": "主催・公演情報の記録",
+          "url": "https://www.sundayfolk.com/info/otoichiotoza/"
         }
       ],
       "venue": "日本ガイシホール",
@@ -44307,6 +44307,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "公演総数と公式日程・当時の公演案内の照合",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
+        },
+        {
+          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
       "venue": "松下IMPホール",
@@ -44328,6 +44332,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "公演総数と公式日程・当時の公演案内の照合",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
+        },
+        {
+          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
       "venue": "松下IMPホール",
@@ -44349,6 +44357,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "公演総数と公式日程・当時の公演案内の照合",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
+        },
+        {
+          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
       "venue": "ダイアモンドホール",
@@ -44370,6 +44382,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "公演総数と公式日程・当時の公演案内の照合",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
+        },
+        {
+          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
       "venue": "ダイアモンドホール",
@@ -44452,6 +44468,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "公演総数と公式日程・当時の公演案内の照合",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
+        },
+        {
+          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
       "venue": "品川インターシティホール",
@@ -44473,6 +44493,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "公演総数と公式日程・当時の公演案内の照合",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
+        },
+        {
+          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
       "venue": "品川インターシティホール",
@@ -44510,6 +44534,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "公演総数と公式日程・当時の公演案内の照合",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
+        },
+        {
+          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
       "venue": "品川インターシティホール",
@@ -44531,6 +44559,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "公演総数と公式日程・当時の公演案内の照合",
           "url": "https://w.atwiki.jp/canda/pages/290.html"
+        },
+        {
+          "label": "2017年当時の公演案内の転載（複数公演確認用）",
+          "url": "https://kako.5ch.io/test/read.cgi/musicjg/1487401755/"
         }
       ],
       "venue": "品川インターシティホール",
@@ -47799,6 +47831,4025 @@ window.CA_EVENT_DATA = {
       "tourId": "aska-higher-ground-2019-2020",
       "prefecture": "宮城県",
       "startTime": "18:00"
+    },
+    {
+      "id": "v14-media-ch20-001",
+      "date": "2020-01-02",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NACK5「J-POP TALKIN’」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-aska-higher-2020-done-001",
+      "date": "2020-01-03",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "実施済み（2019年分4公演は登録済み）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/263.html"
+        }
+      ],
+      "performanceNo": 1,
+      "tourId": "aska-higher-ground-2019-2020",
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "福岡サンパレスホテル&ホール"
+    },
+    {
+      "id": "v14-media-ch20-002",
+      "date": "2020-01-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ABCテレビ「山里亮太のクイズ！？まさかのバーサーカー2」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-aska-higher-2020-planned-001",
+      "date": "2020-01-06",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）",
+      "status": "canceled",
+      "verification": "secondary",
+      "note": "開催されていない予定。開催済み公演数に含めない／ASKA急性咽頭炎で延期、後に振替も中止",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演変更履歴",
+          "url": "https://w.atwiki.jp/canda/pages/263.html"
+        }
+      ],
+      "performanceNo": 1,
+      "tourId": "aska-higher-ground-2019-2020",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "フェスティバルホール"
+    },
+    {
+      "id": "v14-chage-2020-newyear-001",
+      "date": "2020-01-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage NewYear Party 2020",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催日記録。同日の開催回数は未確認",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "performanceNo": 1,
+      "tourId": "chage-newyear-party-2020",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "名古屋ブルーノート"
+    },
+    {
+      "id": "v14-chage-2020-newyear-002",
+      "date": "2020-01-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage NewYear Party 2020",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催日記録。同日の開催回数は未確認",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "performanceNo": 2,
+      "tourId": "chage-newyear-party-2020",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "ビルボードライブ大阪"
+    },
+    {
+      "id": "v14-media-ch20-003",
+      "date": "2020-01-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NACK5「K’s TRANSMISSION」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-aska-higher-2020-done-002",
+      "date": "2020-01-09",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "実施済み（2019年分4公演は登録済み）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/263.html"
+        }
+      ],
+      "performanceNo": 2,
+      "tourId": "aska-higher-ground-2019-2020",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "東京国際フォーラム ホールA"
+    },
+    {
+      "id": "v14-media-ch20-004",
+      "date": "2020-01-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NACK5「J-POP TALKIN’」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-aska-higher-2020-done-003",
+      "date": "2020-01-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "実施済み（2019年分4公演は登録済み）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/263.html"
+        }
+      ],
+      "performanceNo": 3,
+      "tourId": "aska-higher-ground-2019-2020",
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "札幌文化芸術劇場 hitaru"
+    },
+    {
+      "id": "v14-aska-higher-2020-done-004",
+      "date": "2020-01-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "実施済み（2019年分4公演は登録済み）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/263.html"
+        }
+      ],
+      "performanceNo": 4,
+      "tourId": "aska-higher-ground-2019-2020",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "LINE CUBE SHIBUYA"
+    },
+    {
+      "id": "v14-aska-higher-2020-done-005",
+      "date": "2020-01-18",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "実施済み（2019年分4公演は登録済み）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/263.html"
+        }
+      ],
+      "performanceNo": 5,
+      "tourId": "aska-higher-ground-2019-2020",
+      "country": "日本",
+      "prefecture": "新潟県",
+      "venue": "りゅーとぴあ コンサートホール"
+    },
+    {
+      "id": "v14-aska-higher-2020-done-006",
+      "date": "2020-02-02",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "実施済み（2019年分4公演は登録済み）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/263.html"
+        }
+      ],
+      "performanceNo": 6,
+      "tourId": "aska-higher-ground-2019-2020",
+      "country": "日本",
+      "prefecture": "群馬県",
+      "venue": "高崎芸術劇場 大劇場"
+    },
+    {
+      "id": "v14-chage2020-shimokita",
+      "date": "2020-02-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "FC限定公演「下北沢の柴田さん」",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "venue": "duo MUSIC EXCHANGE",
+      "prefecture": "東京都",
+      "country": "日本"
+    },
+    {
+      "id": "v14-aska-higher-2020-done-007",
+      "date": "2020-02-09",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "実施済み（2019年分4公演は登録済み）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/263.html"
+        }
+      ],
+      "performanceNo": 7,
+      "tourId": "aska-higher-ground-2019-2020",
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "神奈川県民ホール 大ホール"
+    },
+    {
+      "id": "v14-aska-higher-2020-done-008",
+      "date": "2020-02-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "実施済み（2019年分4公演は登録済み）／追加公演",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki｜公式資料照合済の公演日程",
+          "url": "https://w.atwiki.jp/canda/pages/263.html"
+        }
+      ],
+      "performanceNo": 8,
+      "tourId": "aska-higher-ground-2019-2020",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "東京文化会館 大ホール"
+    },
+    {
+      "id": "v14-chage2020-seo",
+      "date": "2020-02-16",
+      "artist": "Chage",
+      "category": "other",
+      "title": "瀬尾一三『音楽と契約した男 瀬尾一三』出版記念トークイベント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "venue": "代官山 蔦屋書店",
+      "prefecture": "東京都",
+      "country": "日本"
+    },
+    {
+      "id": "v14-release-001",
+      "date": "2020-02-22",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『都はるみを好きになった人 ～tribute to HARUMI MIYAKO～』発売（Chage参加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "水谷千重子＆Chage「浪花恋しぐれ」参加のコンピレーション作品",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-aska-higher-2020-planned-002",
+      "date": "2020-03-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）",
+      "status": "canceled",
+      "verification": "secondary",
+      "note": "開催されていない予定。開催済み公演数に含めない／1月6日の振替予定。感染症の影響で中止",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演変更履歴",
+          "url": "https://w.atwiki.jp/canda/pages/263.html"
+        }
+      ],
+      "performanceNo": 2,
+      "tourId": "aska-higher-ground-2019-2020",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "フェスティバルホール"
+    },
+    {
+      "id": "v14-aska-higher-2020-planned-003",
+      "date": "2020-03-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）",
+      "status": "canceled",
+      "verification": "secondary",
+      "note": "開催されていない予定。開催済み公演数に含めない／特別公演予定。感染症の影響で中止",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA archives wiki｜公演変更履歴",
+          "url": "https://w.atwiki.jp/canda/pages/263.html"
+        }
+      ],
+      "performanceNo": 3,
+      "tourId": "aska-higher-ground-2019-2020",
+      "country": "日本",
+      "prefecture": "熊本県",
+      "venue": "熊本城ホール メインホール"
+    },
+    {
+      "id": "v14-release-002",
+      "date": "2020-03-20",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『Breath of Bless』CDアルバム発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "2020年3月6日の先行配信とは別のCD発売日",
+      "sources": [
+        {
+          "label": "ORICON NEWS｜商品詳細",
+          "url": "https://www.oricon.co.jp/prof/245800/products/1347552/1/"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch20-005",
+      "date": "2020-04-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS12「ザ・カセットテープミュージック」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2020-fm-cancel-001",
+      "date": "2020-04-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）",
+      "status": "canceled",
+      "verification": "primary",
+      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "performanceNo": 1,
+      "tourId": "chage-fm-2020",
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "仙台 Rensa"
+    },
+    {
+      "id": "v14-chage-2020-fm-cancel-002",
+      "date": "2020-04-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）",
+      "status": "canceled",
+      "verification": "primary",
+      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "performanceNo": 2,
+      "tourId": "chage-fm-2020",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "松下IMPホール"
+    },
+    {
+      "id": "v14-chage-2020-fm-cancel-003",
+      "date": "2020-04-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）",
+      "status": "canceled",
+      "verification": "primary",
+      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "performanceNo": 3,
+      "tourId": "chage-fm-2020",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "名古屋 ダイアモンドホール"
+    },
+    {
+      "id": "v14-ca-youtube-01",
+      "date": "2020-04-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "C&A公式YouTubeライブ映像公開 第1弾（1980年代）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "YouTube公開日。過去映像の元ライブ公演日とは区別",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式Information",
+          "url": "https://www.chage-aska.net/information/2020041701.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2020-fm-cancel-004",
+      "date": "2020-04-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）",
+      "status": "canceled",
+      "verification": "primary",
+      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "performanceNo": 4,
+      "tourId": "chage-fm-2020",
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "広島クラブクアトロ"
+    },
+    {
+      "id": "v14-chage-2020-fm-cancel-005",
+      "date": "2020-04-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）",
+      "status": "canceled",
+      "verification": "primary",
+      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "performanceNo": 5,
+      "tourId": "chage-fm-2020",
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "福岡 イムズホール"
+    },
+    {
+      "id": "v14-ca-youtube-02",
+      "date": "2020-04-24",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "C&A公式YouTubeライブ映像公開 第2弾（1990年代）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "YouTube公開日。過去映像の元ライブ公演日とは区別",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式Information",
+          "url": "https://www.chage-aska.net/information/2020041701.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2020-fm-cancel-006",
+      "date": "2020-04-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）",
+      "status": "canceled",
+      "verification": "primary",
+      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "performanceNo": 6,
+      "tourId": "chage-fm-2020",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "品川インターシティホール"
+    },
+    {
+      "id": "v14-chage-2020-fm-cancel-007",
+      "date": "2020-04-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Club Meeting 2020 ～最近どう？～（中止予定）",
+      "status": "canceled",
+      "verification": "primary",
+      "note": "新型コロナウイルス感染症の影響で全11公演中止。これは7開催日だけの記録であり公演別内訳は未確定",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "performanceNo": 7,
+      "tourId": "chage-fm-2020",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "品川インターシティホール"
+    },
+    {
+      "id": "v14-ca-youtube-03",
+      "date": "2020-05-01",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "C&A公式YouTubeライブ映像公開 第3弾（2000年代）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "YouTube公開日。過去映像の元ライブ公演日とは区別",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式Information",
+          "url": "https://www.chage-aska.net/information/2020041701.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-003",
+      "date": "2020-05-27",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "映像作品『WALK』DVD再発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "1989年作品のDVD化。オリジナル作品初発売日ではない",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式｜再DVD化",
+          "url": "https://www.chage-aska.net/information/2020051301.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-004",
+      "date": "2020-05-27",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "映像作品『SEE YA』DVD再発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "1990年作品のDVD化",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式｜再DVD化",
+          "url": "https://www.chage-aska.net/information/2020051301.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage2020-keiji06",
+      "date": "2020-06-16",
+      "artist": "Chage",
+      "category": "live",
+      "title": "配信LIVE「川島ケイジの君のために歌いマホ」Vol.4 ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "venue": "オンライン配信"
+    },
+    {
+      "id": "v14-chage2020-keiji07",
+      "date": "2020-07-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "配信LIVE「川島ケイジの君のために歌いマホ」Vol.5 ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "venue": "オンライン配信"
+    },
+    {
+      "id": "v14-release-005",
+      "date": "2020-08-05",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "映像作品『TREE』DVD再発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "1991年作品のDVD化",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式｜再DVD化",
+          "url": "https://www.chage-aska.net/information/2020072201.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-006",
+      "date": "2020-08-05",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "映像作品『Go to Eleven ～GUYS～』DVD再発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "1992年作品のDVD化",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式｜再DVD化",
+          "url": "https://www.chage-aska.net/information/2020072201.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch20-006",
+      "date": "2020-08-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBSラジオ「コシノジュンコ MASACA」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch20-007",
+      "date": "2020-08-21",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「BUTCH COUNTDOWN RADIO」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch20-008",
+      "date": "2020-08-30",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBSラジオ「コシノジュンコ MASACA」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2020-tour-cancel-001",
+      "date": "2020-09-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2020（全公演中止）",
+      "status": "canceled",
+      "verification": "primary",
+      "note": "感染症の影響による開催中止。開催済み公演数には含めない",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "performanceNo": 1,
+      "tourId": "chage-live-tour-2020",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "Zepp Nagoya"
+    },
+    {
+      "id": "v14-chage2020-online",
+      "date": "2020-09-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Online Live 2020 ～君に逢いたいだけ～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "配信ライブ。元々同日に予定されていたZepp Nagoya公演（中止）とは別イベント",
+      "sources": [
+        {
+          "label": "Chage公式Biography・配信公演情報",
+          "url": "https://chage.jp/information/live/detail-404.php"
+        }
+      ],
+      "venue": "オンライン配信",
+      "startTime": "20:30"
+    },
+    {
+      "id": "v14-release-007",
+      "date": "2020-09-11",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "「幸せの黄色い風船」配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "2020年3週連続配信第1弾",
+      "sources": [
+        {
+          "label": "ぴあ｜ASKAインタビュー",
+          "url": "https://lp.p.pia.jp/article/news/135452/index.html"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-008",
+      "date": "2020-09-18",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "「自分じゃないか」配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "2020年3週連続配信第2弾",
+      "sources": [
+        {
+          "label": "ぴあ｜ASKAインタビュー",
+          "url": "https://lp.p.pia.jp/article/news/135452/index.html"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2020-tour-cancel-002",
+      "date": "2020-09-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2020（全公演中止）",
+      "status": "canceled",
+      "verification": "primary",
+      "note": "感染症の影響による開催中止。開催済み公演数には含めない",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "performanceNo": 2,
+      "tourId": "chage-live-tour-2020",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "豊洲PIT"
+    },
+    {
+      "id": "v14-chage-2020-tour-cancel-003",
+      "date": "2020-09-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2020（全公演中止）",
+      "status": "canceled",
+      "verification": "primary",
+      "note": "感染症の影響による開催中止。開催済み公演数には含めない",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "performanceNo": 3,
+      "tourId": "chage-live-tour-2020",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "豊洲PIT"
+    },
+    {
+      "id": "v14-release-009",
+      "date": "2020-09-25",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "「僕のwonderful world」配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "2020年3週連続配信第3弾",
+      "sources": [
+        {
+          "label": "ぴあ｜ASKAインタビュー",
+          "url": "https://lp.p.pia.jp/article/news/135452/index.html"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2020-tour-cancel-004",
+      "date": "2020-09-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2020（全公演中止）",
+      "status": "canceled",
+      "verification": "primary",
+      "note": "感染症の影響による開催中止。開催済み公演数には含めない",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "performanceNo": 4,
+      "tourId": "chage-live-tour-2020",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "Zepp Osaka Bayside"
+    },
+    {
+      "id": "v14-chage-2020-tour-cancel-005",
+      "date": "2020-09-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2020（全公演中止）",
+      "status": "canceled",
+      "verification": "primary",
+      "note": "感染症の影響による開催中止。開催済み公演数には含めない",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "performanceNo": 5,
+      "tourId": "chage-live-tour-2020",
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "Zepp Fukuoka"
+    },
+    {
+      "id": "v14-media-ch20-009",
+      "date": "2020-10-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ニッポン放送「あさぼらけ」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-010",
+      "date": "2020-10-07",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「君に逢いたいだけ」配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch20-010",
+      "date": "2020-10-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ニッポン放送「あさぼらけ」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage2020-popcon",
+      "date": "2020-10-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "配信LIVE「僕らのポプコンエイジ・オンライン2020」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2020.php"
+        }
+      ],
+      "venue": "オンライン配信"
+    },
+    {
+      "id": "v14-release-011",
+      "date": "2020-10-21",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "ライブ映像『ASKA premium ensemble concert -higher ground- 2019>>2020』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "ツアー映像作品。公演日とは別",
+      "sources": [
+        {
+          "label": "ぴあ｜ASKAインタビュー",
+          "url": "https://lp.p.pia.jp/article/news/135452/index.html"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-012",
+      "date": "2020-11-11",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "映像作品『RED HILL』DVD再発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "1994年作品のDVD化",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式｜再DVD化",
+          "url": "https://www.chage-aska.net/information/2020102101.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-013",
+      "date": "2020-11-11",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "映像作品『On Your Mark』DVD再発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "1994年作品のDVD化",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式｜再DVD化",
+          "url": "https://www.chage-aska.net/information/2020102101.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-014",
+      "date": "2020-12-09",
+      "artist": "Chage",
+      "category": "release",
+      "title": "アルバム『Boot up!!』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "初回限定盤・通常盤を1作品として登録",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/chage/album/013.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2020-christmas-001",
+      "date": "2020-12-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Christmas Party 2020",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "感染症対策で客席収容率を制限して開催／1st Stage",
+      "sources": [
+        {
+          "label": "ビルボードライブ公式（大阪・横浜会場分も個別照合）",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-12391"
+        }
+      ],
+      "performanceNo": 1,
+      "tourId": "chage-christmas-2020",
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ビルボードライブ横浜",
+      "startTime": "16:30"
+    },
+    {
+      "id": "v14-chage-2020-christmas-002",
+      "date": "2020-12-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Christmas Party 2020",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "感染症対策で客席収容率を制限して開催／2nd Stage",
+      "sources": [
+        {
+          "label": "ビルボードライブ公式（大阪・横浜会場分も個別照合）",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-12391"
+        }
+      ],
+      "performanceNo": 2,
+      "tourId": "chage-christmas-2020",
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ビルボードライブ横浜",
+      "startTime": "19:30"
+    },
+    {
+      "id": "v14-chage-2020-christmas-003",
+      "date": "2020-12-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Christmas Party 2020",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "感染症対策で客席収容率を制限して開催／1st Stage",
+      "sources": [
+        {
+          "label": "ビルボードライブ公式（大阪・横浜会場分も個別照合）",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-12391"
+        }
+      ],
+      "performanceNo": 3,
+      "tourId": "chage-christmas-2020",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-chage-2020-christmas-004",
+      "date": "2020-12-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Christmas Party 2020",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "感染症対策で客席収容率を制限して開催／2nd Stage",
+      "sources": [
+        {
+          "label": "ビルボードライブ公式（大阪・横浜会場分も個別照合）",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-12391"
+        }
+      ],
+      "performanceNo": 4,
+      "tourId": "chage-christmas-2020",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "ビルボードライブ東京",
+      "startTime": "21:30"
+    },
+    {
+      "id": "v14-chage-2020-christmas-005",
+      "date": "2020-12-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Christmas Party 2020",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "感染症対策で客席収容率を制限して開催／1st Stage",
+      "sources": [
+        {
+          "label": "ビルボードライブ公式（大阪・横浜会場分も個別照合）",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-12391"
+        }
+      ],
+      "performanceNo": 5,
+      "tourId": "chage-christmas-2020",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "ビルボードライブ大阪",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-chage-2020-christmas-006",
+      "date": "2020-12-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Christmas Party 2020",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "感染症対策で客席収容率を制限して開催／2nd Stage",
+      "sources": [
+        {
+          "label": "ビルボードライブ公式（大阪・横浜会場分も個別照合）",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-12391"
+        }
+      ],
+      "performanceNo": 6,
+      "tourId": "chage-christmas-2020",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "ビルボードライブ大阪",
+      "startTime": "21:30"
+    },
+    {
+      "id": "v14-media-ch21-001",
+      "date": "2021-01-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NACK5「K’s TRANSMISSION」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-002",
+      "date": "2021-01-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NACK5「J-POP TALKIN’」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-003",
+      "date": "2021-01-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBSラジオ「伊集院光とらじおと」生ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-ca-youtube-2021",
+      "date": "2021-02-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "C&A公式YouTubeライブ映像 追加公開",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "YouTube公開日。過去映像の元ライブ公演日とは区別",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式Information",
+          "url": "https://www.chage-aska.net/information/"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-004",
+      "date": "2021-02-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "歌謡ポップスチャンネル「MUSIC JUNCTION」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage2021-equal-stream",
+      "date": "2021-02-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "equal大感謝祭「Chage Christmas Party 2020」をChageと一緒にDuooooo!!!",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "生配信ファンクラブイベント",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ],
+      "venue": "オンライン配信"
+    },
+    {
+      "id": "v14-media-ch21-005",
+      "date": "2021-02-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "歌謡ポップスチャンネル「MUSIC JUNCTION」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage2021-onlinefan",
+      "date": "2021-05-07",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "Chage オンラインファンミーティング2021 ～君に逢えるみたい～ 開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2021年5〜8月に開催。開催日程の全件は未確認のため開始日のみ記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage2021-photo",
+      "date": "2021-05-16",
+      "artist": "Chage",
+      "category": "live",
+      "title": "UnUsual Fest! 御苗場vol.28 トーク出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "生配信トークイベント",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ],
+      "venue": "オンライン配信"
+    },
+    {
+      "id": "v14-chage2021-popcon",
+      "date": "2021-05-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "僕らのポプコンエイジ・オンライン2021",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "配信ライブ出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ],
+      "venue": "オンライン配信"
+    },
+    {
+      "id": "v14-aska2021-stream",
+      "date": "2021-06-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA配信ライブ「すべての事には理由がある」",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ASKA初の配信ライブ。有観客で収録・配信。配信開始時刻は資料に揺れがあるため未掲載",
+      "sources": [
+        {
+          "label": "オリコン現地取材・主催の配信記録",
+          "url": "https://www.oricon.co.jp/news/2197745/full/"
+        }
+      ],
+      "venue": "オンライン配信"
+    },
+    {
+      "id": "v14-aska2021-terminal",
+      "date": "2021-06-23",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "ASKA配信ライブ「すべての事には理由がある」で「Terminal Melody」公開収録",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "配信ライブ内の番組収録。番組本放送日とは別",
+      "sources": [
+        {
+          "label": "オリコン現地取材",
+          "url": "https://www.oricon.co.jp/news/2197745/full/"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-015",
+      "date": "2021-06-30",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『THE VIDEO OF CHAGE and ASKA TUG OF C&A Vol.1〜5』DVD発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "VHS5作品の復刻。数量限定盤・通常盤の2仕様を1作品として登録",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式｜DVD発売",
+          "url": "https://www.chage-aska.net/information/2021062101.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-016",
+      "date": "2021-07-01",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "「笑って歩こうよ」配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "CD発売日（7月14日）とは別",
+      "sources": [
+        {
+          "label": "Qobuz配信サービス｜作品情報",
+          "url": "https://www.qobuz.com/jp-ja/album/aska/glggm5ulxaufc"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-017",
+      "date": "2021-07-14",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "シングル「笑って歩こうよ」CD発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Billboard JAPAN｜CD商品情報",
+          "url": "https://www.billboard-japan.com/goods/detail/676003"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2021-boot-001",
+      "date": "2021-09-03",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2021 ～Boot up!!～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "福岡初日を除き同日2回公演。公式の時刻に基づき区別",
+      "sources": [
+        {
+          "label": "Chage公式｜開演時刻付き全公演日程",
+          "url": "https://chage.jp/livetour2021/"
+        }
+      ],
+      "performanceNo": 1,
+      "tourId": "chage-boot-up-2021",
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "Zepp Fukuoka",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-chage-2021-boot-002",
+      "date": "2021-09-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2021 ～Boot up!!～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "福岡初日を除き同日2回公演。公式の時刻に基づき区別／第1回",
+      "sources": [
+        {
+          "label": "Chage公式｜開演時刻付き全公演日程",
+          "url": "https://chage.jp/livetour2021/"
+        }
+      ],
+      "performanceNo": 2,
+      "tourId": "chage-boot-up-2021",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "Zepp Nagoya",
+      "startTime": "16:00"
+    },
+    {
+      "id": "v14-chage-2021-boot-003",
+      "date": "2021-09-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2021 ～Boot up!!～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "福岡初日を除き同日2回公演。公式の時刻に基づき区別／第2回",
+      "sources": [
+        {
+          "label": "Chage公式｜開演時刻付き全公演日程",
+          "url": "https://chage.jp/livetour2021/"
+        }
+      ],
+      "performanceNo": 3,
+      "tourId": "chage-boot-up-2021",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "Zepp Nagoya",
+      "startTime": "19:00"
+    },
+    {
+      "id": "v14-chage-2021-boot-004",
+      "date": "2021-09-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2021 ～Boot up!!～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "福岡初日を除き同日2回公演。公式の時刻に基づき区別／第1回",
+      "sources": [
+        {
+          "label": "Chage公式｜開演時刻付き全公演日程",
+          "url": "https://chage.jp/livetour2021/"
+        }
+      ],
+      "performanceNo": 4,
+      "tourId": "chage-boot-up-2021",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "Zepp Osaka Bayside",
+      "startTime": "16:00"
+    },
+    {
+      "id": "v14-chage-2021-boot-005",
+      "date": "2021-09-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2021 ～Boot up!!～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "福岡初日を除き同日2回公演。公式の時刻に基づき区別／第2回",
+      "sources": [
+        {
+          "label": "Chage公式｜開演時刻付き全公演日程",
+          "url": "https://chage.jp/livetour2021/"
+        }
+      ],
+      "performanceNo": 5,
+      "tourId": "chage-boot-up-2021",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "Zepp Osaka Bayside",
+      "startTime": "19:00"
+    },
+    {
+      "id": "v14-chage-2021-boot-006",
+      "date": "2021-09-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2021 ～Boot up!!～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "福岡初日を除き同日2回公演。公式の時刻に基づき区別／第1回",
+      "sources": [
+        {
+          "label": "Chage公式｜開演時刻付き全公演日程",
+          "url": "https://chage.jp/livetour2021/"
+        }
+      ],
+      "performanceNo": 6,
+      "tourId": "chage-boot-up-2021",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "豊洲PIT",
+      "startTime": "16:00"
+    },
+    {
+      "id": "v14-chage-2021-boot-007",
+      "date": "2021-09-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2021 ～Boot up!!～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "福岡初日を除き同日2回公演。公式の時刻に基づき区別／第2回",
+      "sources": [
+        {
+          "label": "Chage公式｜開演時刻付き全公演日程",
+          "url": "https://chage.jp/livetour2021/"
+        }
+      ],
+      "performanceNo": 7,
+      "tourId": "chage-boot-up-2021",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "豊洲PIT",
+      "startTime": "19:00"
+    },
+    {
+      "id": "v14-chage-2021-boot-008",
+      "date": "2021-09-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2021 ～Boot up!!～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "福岡初日を除き同日2回公演。公式の時刻に基づき区別／第1回",
+      "sources": [
+        {
+          "label": "Chage公式｜開演時刻付き全公演日程",
+          "url": "https://chage.jp/livetour2021/"
+        }
+      ],
+      "performanceNo": 8,
+      "tourId": "chage-boot-up-2021",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "豊洲PIT",
+      "startTime": "14:00"
+    },
+    {
+      "id": "v14-chage-2021-boot-009",
+      "date": "2021-09-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2021 ～Boot up!!～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "福岡初日を除き同日2回公演。公式の時刻に基づき区別／第2回",
+      "sources": [
+        {
+          "label": "Chage公式｜開演時刻付き全公演日程",
+          "url": "https://chage.jp/livetour2021/"
+        }
+      ],
+      "performanceNo": 9,
+      "tourId": "chage-boot-up-2021",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "豊洲PIT",
+      "startTime": "17:00"
+    },
+    {
+      "id": "v14-aska2021-bs-pride",
+      "date": "2021-09-23",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "BSテレ東「ASKA スペシャル ～PRIDE 2021 譲れないものがある～」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ特番の放送日",
+      "sources": [
+        {
+          "label": "ASKA活動履歴・番組記録",
+          "url": "https://cosmos.ladomi.net/interview"
+        }
+      ]
+    },
+    {
+      "id": "v14-aska-2021-encore-plan-001",
+      "date": "2021-10-09",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年1月7日に振替開催",
+      "sources": [
+        {
+          "label": "主催者公開の振替対応表",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 1,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "府中の森芸術劇場 どりーむホール"
+    },
+    {
+      "id": "v14-release-018",
+      "date": "2021-10-15",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "シングル「PRIDE」CD発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "CHAGE and ASKAの1989年作をASKAソロで新録した2021年盤",
+      "sources": [
+        {
+          "label": "ORICON NEWS｜商品情報",
+          "url": "https://www.oricon.co.jp/prof/245800/products/1426070/1/"
+        }
+      ]
+    },
+    {
+      "id": "v14-aska-2021-encore-plan-002",
+      "date": "2021-10-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月16日に振替開催",
+      "sources": [
+        {
+          "label": "主催者公開の振替対応表",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 2,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "熊本県",
+      "venue": "熊本城ホール メインホール"
+    },
+    {
+      "id": "v14-media-ch21-006",
+      "date": "2021-10-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHK BSプレミアム・BS4K「歌える！J-POP黄金のヒットパレード決定版！#4」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-aska2021-shizuoka-cancel",
+      "date": "2021-10-24",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（静岡・中止予定）",
+      "status": "canceled",
+      "verification": "primary",
+      "note": "静岡市民文化会館大ホール公演は中止・払戻し。開催済み公演ではない",
+      "sources": [
+        {
+          "label": "公演主催側による中止・払戻し告知",
+          "url": "https://www.sundayfolk.com/sundy/2021/10/post_18866.html"
+        }
+      ],
+      "venue": "静岡市民文化会館 大ホール",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "tourId": "aska-higher-encore-2021-2022"
+    },
+    {
+      "id": "v14-media-ch21-007",
+      "date": "2021-10-31",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOWプラス「Chage Live Tour 2021 ～Boot up!!～」放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage2021-shimada",
+      "date": "2021-11-03",
+      "artist": "Chage",
+      "category": "live",
+      "title": "LIVE from “Great Studio” 2021 ～島田昌典 あざみ野サウンドの世界～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ],
+      "venue": "ぴあアリーナMM",
+      "prefecture": "神奈川県",
+      "country": "日本"
+    },
+    {
+      "id": "v14-aska-2021-encore-plan-003",
+      "date": "2021-11-06",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月18日に振替開催",
+      "sources": [
+        {
+          "label": "主催者公開の振替対応表",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 3,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "広島文化学園HBGホール"
+    },
+    {
+      "id": "v14-media-ch21-008",
+      "date": "2021-11-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "J-WAVE「ALL GOOD FRIDAY」内「LiLiCoとHAPPY DATE」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage2021-amazons",
+      "date": "2021-11-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "AMAZONS 35th Anniversary Live Bunkamura",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ],
+      "venue": "Bunkamura オーチャードホール",
+      "prefecture": "東京都",
+      "country": "日本"
+    },
+    {
+      "id": "v14-media-ch21-009",
+      "date": "2021-11-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "K-mix「Anchor Night」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-019",
+      "date": "2021-11-24",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『Chage’s Christmas ～チャゲクリ～』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "CD+DVD／CD+Blu-rayを同一作品として登録",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/chage/single/016.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-010",
+      "date": "2021-11-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "南海放送「山下泰則のモーニング・ディライト」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-011",
+      "date": "2021-11-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM熊本「FMKパンゲア！」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-012",
+      "date": "2021-11-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "エフエム世田谷「アフタヌーンパラダイス水曜日」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-aska-2021-encore-plan-004",
+      "date": "2021-11-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年4月13日に振替開催",
+      "sources": [
+        {
+          "label": "主催者公開の振替対応表",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 4,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "東京国際フォーラム ホールA"
+    },
+    {
+      "id": "v14-media-ch21-013",
+      "date": "2021-11-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM岡山「Fresh Morning OKAYAMA」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-014",
+      "date": "2021-11-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NACK5「FUNKY FRIDAY」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-015",
+      "date": "2021-11-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ZIP-FM「otonationary」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-016",
+      "date": "2021-11-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BSS山陰放送「あさスタ♪」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-aska-2021-encore-plan-005",
+      "date": "2021-11-30",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月5日に振替開催",
+      "sources": [
+        {
+          "label": "主催者公開の振替対応表",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 5,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "フェスティバルホール"
+    },
+    {
+      "id": "v14-media-ch21-017",
+      "date": "2021-11-30",
+      "artist": "Chage",
+      "category": "media",
+      "title": "四国放送「となりのラジオ」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-018",
+      "date": "2021-12-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM宮崎「Super Friday DJ Pocky’s Radio Show! WEEKEND JAM」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-019",
+      "date": "2021-12-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "MRO北陸放送「モリラジ！」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-020",
+      "date": "2021-12-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "レディオキューブFM三重「Welcome To Radio CUBE」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-021",
+      "date": "2021-12-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM岐阜「TWILIGHT MAGIC」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-022",
+      "date": "2021-12-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM COCOLO「Wonder Garden」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-023",
+      "date": "2021-12-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "α-STATION「ONE FINE DAY」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-024",
+      "date": "2021-12-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RCC中国放送「おひるーな」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-025",
+      "date": "2021-12-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FMちゅーピー「広島すまいるパフェ」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-026",
+      "date": "2021-12-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "広島FM「江本一真のゴッジ」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-027",
+      "date": "2021-12-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKB「オトナナビゲーションZ」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2021-winter-001",
+      "date": "2021-12-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式｜2021年冬イベント全公演日程",
+          "url": "https://chage.jp/2021winterevent/"
+        }
+      ],
+      "performanceNo": 1,
+      "tourId": "chage-winter-2021",
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "DRUM LOGOS",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-aska-2021-encore-plan-006",
+      "date": "2021-12-09",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年3月24日に振替開催",
+      "sources": [
+        {
+          "label": "主催者公開の振替対応表",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 6,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "京都府",
+      "venue": "ロームシアター京都 メインホール"
+    },
+    {
+      "id": "v14-chage-2021-winter-002",
+      "date": "2021-12-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式｜2021年冬イベント全公演日程",
+          "url": "https://chage.jp/2021winterevent/"
+        }
+      ],
+      "performanceNo": 2,
+      "tourId": "chage-winter-2021",
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "広島クラブクアトロ",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-media-ch21-028",
+      "date": "2021-12-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM愛媛「Groovy Radio Caravan」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-029",
+      "date": "2021-12-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKBラジオ「GOT MANY TUNES」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-030",
+      "date": "2021-12-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "JFN「Seasoning」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-031",
+      "date": "2021-12-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM NACK5「J-POP TALKIN’」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-032",
+      "date": "2021-12-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM COCOLO「SUPER J-HITS RADIO」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-033",
+      "date": "2021-12-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM山陰「高田リオンのGO-！EVENING！」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-034",
+      "date": "2021-12-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "南海放送「TIPS」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-035",
+      "date": "2021-12-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM秋田「mix」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-036",
+      "date": "2021-12-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "bayfm「The BAY☆LINE」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2021-winter-003",
+      "date": "2021-12-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1st公演",
+      "sources": [
+        {
+          "label": "Chage公式｜2021年冬イベント全公演日程",
+          "url": "https://chage.jp/2021winterevent/"
+        }
+      ],
+      "performanceNo": 3,
+      "tourId": "chage-winter-2021",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "品川プリンスホテル クラブeX",
+      "startTime": "15:30"
+    },
+    {
+      "id": "v14-chage-2021-winter-004",
+      "date": "2021-12-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2nd公演",
+      "sources": [
+        {
+          "label": "Chage公式｜2021年冬イベント全公演日程",
+          "url": "https://chage.jp/2021winterevent/"
+        }
+      ],
+      "performanceNo": 4,
+      "tourId": "chage-winter-2021",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "品川プリンスホテル クラブeX",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-aska-2021-encore-plan-007",
+      "date": "2021-12-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年1月10日に振替開催",
+      "sources": [
+        {
+          "label": "主催者公開の振替対応表",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 7,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "仙台サンプラザホール"
+    },
+    {
+      "id": "v14-media-ch21-037",
+      "date": "2021-12-17",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM OSAKA「そえんじの音楽DOH！」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-038",
+      "date": "2021-12-18",
+      "artist": "Chage",
+      "category": "media",
+      "title": "α-STATION「J-AC TOP40」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-039",
+      "date": "2021-12-18",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM福岡「ライヴのじかん」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2021-winter-005",
+      "date": "2021-12-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1st公演",
+      "sources": [
+        {
+          "label": "Chage公式｜2021年冬イベント全公演日程",
+          "url": "https://chage.jp/2021winterevent/"
+        }
+      ],
+      "performanceNo": 5,
+      "tourId": "chage-winter-2021",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "品川プリンスホテル クラブeX",
+      "startTime": "13:30"
+    },
+    {
+      "id": "v14-chage-2021-winter-006",
+      "date": "2021-12-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2nd公演",
+      "sources": [
+        {
+          "label": "Chage公式｜2021年冬イベント全公演日程",
+          "url": "https://chage.jp/2021winterevent/"
+        }
+      ],
+      "performanceNo": 6,
+      "tourId": "chage-winter-2021",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "品川プリンスホテル クラブeX",
+      "startTime": "16:30"
+    },
+    {
+      "id": "v14-media-ch21-040",
+      "date": "2021-12-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "東海ラジオ「ねね・のりこのアオハルみゅ～じっく♪」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-041",
+      "date": "2021-12-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "KNBラジオ「でるラジ！」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-042",
+      "date": "2021-12-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM AICHI「DAYDREAM MAGIC」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-043",
+      "date": "2021-12-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "東海ラジオ「源石和輝！抽斗」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2021-winter-007",
+      "date": "2021-12-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1st公演",
+      "sources": [
+        {
+          "label": "Chage公式｜2021年冬イベント全公演日程",
+          "url": "https://chage.jp/2021winterevent/"
+        }
+      ],
+      "performanceNo": 7,
+      "tourId": "chage-winter-2021",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "ボトムライン",
+      "startTime": "15:30"
+    },
+    {
+      "id": "v14-chage-2021-winter-008",
+      "date": "2021-12-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2nd公演",
+      "sources": [
+        {
+          "label": "Chage公式｜2021年冬イベント全公演日程",
+          "url": "https://chage.jp/2021winterevent/"
+        }
+      ],
+      "performanceNo": 8,
+      "tourId": "chage-winter-2021",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "ボトムライン",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-media-ch21-044",
+      "date": "2021-12-21",
+      "artist": "Chage",
+      "category": "media",
+      "title": "α-STATION「LIFT」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2021-winter-009",
+      "date": "2021-12-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1st公演",
+      "sources": [
+        {
+          "label": "Chage公式｜2021年冬イベント全公演日程",
+          "url": "https://chage.jp/2021winterevent/"
+        }
+      ],
+      "performanceNo": 9,
+      "tourId": "chage-winter-2021",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "umeda TRAD",
+      "startTime": "15:30"
+    },
+    {
+      "id": "v14-chage-2021-winter-010",
+      "date": "2021-12-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2nd公演",
+      "sources": [
+        {
+          "label": "Chage公式｜2021年冬イベント全公演日程",
+          "url": "https://chage.jp/2021winterevent/"
+        }
+      ],
+      "performanceNo": 10,
+      "tourId": "chage-winter-2021",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "umeda TRAD",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-aska-2021-encore-plan-008",
+      "date": "2021-12-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月11日に振替開催",
+      "sources": [
+        {
+          "label": "主催者公開の振替対応表",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 8,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "名古屋国際会議場 センチュリーホール"
+    },
+    {
+      "id": "v14-media-ch21-045",
+      "date": "2021-12-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM OSAKA「LOVE FLAP」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-046",
+      "date": "2021-12-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "南海放送「ニュースな時間」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-047",
+      "date": "2021-12-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM GUNMA「WAIWAI Groovin'」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-048",
+      "date": "2021-12-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM福岡「カムカムFM福岡」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-049",
+      "date": "2021-12-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM福岡「BUTCH COUNTDOWN RADIO」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-050",
+      "date": "2021-12-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "Date fm「Sendaian Hot Music」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-051",
+      "date": "2021-12-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "エフエムいずみ「Daily! Cafe」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-052",
+      "date": "2021-12-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオスリー「マイタウンRADIO」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-053",
+      "date": "2021-12-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "tbcラジオ「シロクジTUNE」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2021-winter-011",
+      "date": "2021-12-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式｜2021年冬イベント全公演日程",
+          "url": "https://chage.jp/2021winterevent/"
+        }
+      ],
+      "performanceNo": 11,
+      "tourId": "chage-winter-2021",
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "Rensa",
+      "startTime": "15:30"
+    },
+    {
+      "id": "v14-media-ch21-054",
+      "date": "2021-12-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM愛媛「VOICE ～風の神話～」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch21-055",
+      "date": "2021-12-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "南海放送「J-POPシャッフル」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2021-winter-012",
+      "date": "2021-12-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage 2021 Winter Event ～チャゲクリからの・・・ハッピー細道～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式｜2021年冬イベント全公演日程",
+          "url": "https://chage.jp/2021winterevent/"
+        }
+      ],
+      "performanceNo": 12,
+      "tourId": "chage-winter-2021",
+      "country": "日本",
+      "prefecture": "北海道",
+      "venue": "PENNY LANE 24",
+      "startTime": "15:30"
+    },
+    {
+      "id": "v14-media-ch21-056",
+      "date": "2021-12-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "CBCラジオ「新栄トークジャンボリー」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2021.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-aska-2021-encore-plan-009",
+      "date": "2021-12-28",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（延期前の予定）",
+      "status": "postponed",
+      "verification": "primary",
+      "note": "延期前の予定日。2021年には開催されていない。2022年の実施公演と別記録／→2022年2月14日に振替開催",
+      "sources": [
+        {
+          "label": "主催者公開の振替対応表",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 9,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "福岡サンパレス ホテル＆ホール"
+    },
+    {
+      "id": "v14-aska-2022-encore-001",
+      "date": "2022-01-07",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/10/9の延期分",
+      "sources": [
+        {
+          "label": "Get The Classics主催公式｜2022年全13公演",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 1,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "府中の森芸術劇場 どりーむホール",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-aska-2022-encore-002",
+      "date": "2022-01-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/12/17の延期分",
+      "sources": [
+        {
+          "label": "Get The Classics主催公式｜2022年全13公演",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 2,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "宮城県",
+      "venue": "仙台サンプラザホール",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-chage2022-onlinefanstart",
+      "date": "2022-01-14",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "Chage オンラインファンミーティング2022 ～めぐり合った奇跡は素敵！～ 開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2022年毎月開催。開催全日程の照合前につき初日のみ記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography・equal",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-aska-2022-encore-003",
+      "date": "2022-01-30",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催済み。2021年の延期前予定日は別記録／新規公演",
+      "sources": [
+        {
+          "label": "Get The Classics主催公式｜2022年全13公演",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 3,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "神奈川県民ホール 大ホール",
+      "startTime": "17:30"
+    },
+    {
+      "id": "v14-aska-2022-encore-004",
+      "date": "2022-02-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/11/30の延期分",
+      "sources": [
+        {
+          "label": "Get The Classics主催公式｜2022年全13公演",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 4,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "フェスティバルホール",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-aska-2022-encore-005",
+      "date": "2022-02-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/12/22の延期分",
+      "sources": [
+        {
+          "label": "Get The Classics主催公式｜2022年全13公演",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 5,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "venue": "名古屋国際会議場 センチュリーホール",
+      "startTime": "17:30"
+    },
+    {
+      "id": "v14-aska-2022-encore-006",
+      "date": "2022-02-14",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/12/28の延期分",
+      "sources": [
+        {
+          "label": "Get The Classics主催公式｜2022年全13公演",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 6,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "福岡サンパレス ホテル＆ホール",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-aska-2022-encore-007",
+      "date": "2022-02-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/10/16の延期分",
+      "sources": [
+        {
+          "label": "Get The Classics主催公式｜2022年全13公演",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 7,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "熊本県",
+      "venue": "熊本城ホール メインホール",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-aska-2022-encore-008",
+      "date": "2022-02-18",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/11/6の延期分",
+      "sources": [
+        {
+          "label": "Get The Classics主催公式｜2022年全13公演",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 8,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "広島県",
+      "venue": "広島文化学園HBGホール",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-aska-2022-encore-009",
+      "date": "2022-02-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催済み。2021年の延期前予定日は別記録／新規公演",
+      "sources": [
+        {
+          "label": "Get The Classics主催公式｜2022年全13公演",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 9,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "兵庫県",
+      "venue": "兵庫県立芸術文化センター KOBELCO大ホール",
+      "startTime": "16:00"
+    },
+    {
+      "id": "v14-aska-2022-encore-010",
+      "date": "2022-02-24",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催済み。2021年の延期前予定日は別記録／ASKA誕生日・特別公演",
+      "sources": [
+        {
+          "label": "Get The Classics主催公式｜2022年全13公演",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 10,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "東京ガーデンシアター",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-media-ch22-001",
+      "date": "2022-03-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FMとやま「AMAZING TOYAMA 写真部」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage2022-kawashima",
+      "date": "2022-03-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～ 振替公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演。会場詳細未確認",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-aska-2022-encore-011",
+      "date": "2022-03-24",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催済み。2021年の延期前予定日は別記録／2021/12/9の延期分",
+      "sources": [
+        {
+          "label": "Get The Classics主催公式｜2022年全13公演",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 11,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "京都府",
+      "venue": "ロームシアター京都 メインホール",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-media-ch22-002",
+      "date": "2022-03-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「BUTCH COUNTDOWN RADIO」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-aska-2022-encore-012",
+      "date": "2022-03-27",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催済み。2021年の延期前予定日は別記録／新規公演",
+      "sources": [
+        {
+          "label": "Get The Classics主催公式｜2022年全13公演",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 12,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "福島県",
+      "venue": "いわき芸術文化交流館アリオス 大ホール",
+      "startTime": "17:30"
+    },
+    {
+      "id": "v14-chage2022-torch",
+      "date": "2022-03-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "オリンピック聖火リレー点火セレモニー記念スペシャル in 門司港",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ],
+      "venue": "門司港",
+      "prefecture": "福岡県",
+      "country": "日本"
+    },
+    {
+      "id": "v14-aska-2022-encore-013",
+      "date": "2022-04-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開催済み。2021年の延期前予定日は別記録／ツアー最終日。2021/11/26の延期分",
+      "sources": [
+        {
+          "label": "Get The Classics主催公式｜2022年全13公演",
+          "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
+        }
+      ],
+      "performanceNo": 13,
+      "tourId": "aska-higher-encore-2021-2022",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "東京国際フォーラム ホールA",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-chage2022-beatles-talk",
+      "date": "2022-05-20",
+      "artist": "Chage",
+      "category": "other",
+      "title": "藤本国彦プロデュース「ビートルズの世界 AROUND THE BEATLES 2022」トーク出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage2022-matsui-talk",
+      "date": "2022-05-21",
+      "artist": "Chage",
+      "category": "other",
+      "title": "松井五郎個展「時間外空想01 砂と形」トークショー出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-020",
+      "date": "2022-07-06",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「そういうひと」配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage2022-youtube",
+      "date": "2022-07-07",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "YouTubeチャンネル「Chageのずっと細道」開設",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ライブの開催日とは別に記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2022-hosomichi-001",
+      "date": "2022-07-09",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "実施済み。時刻が公式に残る回のみ掲載",
+      "sources": [
+        {
+          "label": "Chage公式｜ずっと細道 公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "performanceNo": 1,
+      "tourId": "chage-zutto-hosomichi-2022",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "iTSCOM STUDIO & HALL 二子玉川ライズ",
+      "startTime": "17:30"
+    },
+    {
+      "id": "v14-chage-2022-hosomichi-002",
+      "date": "2022-07-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "実施済み。時刻が公式に残る回のみ掲載／第1回",
+      "sources": [
+        {
+          "label": "Chage公式｜ずっと細道 公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "performanceNo": 2,
+      "tourId": "chage-zutto-hosomichi-2022",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "iTSCOM STUDIO & HALL 二子玉川ライズ",
+      "startTime": "13:00"
+    },
+    {
+      "id": "v14-chage-2022-hosomichi-003",
+      "date": "2022-07-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "実施済み。時刻が公式に残る回のみ掲載／第2回・配信あり",
+      "sources": [
+        {
+          "label": "Chage公式｜ずっと細道 公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "performanceNo": 3,
+      "tourId": "chage-zutto-hosomichi-2022",
+      "country": "日本",
+      "prefecture": "東京都",
+      "venue": "iTSCOM STUDIO & HALL 二子玉川ライズ",
+      "startTime": "16:30"
+    },
+    {
+      "id": "v14-media-ch22-003",
+      "date": "2022-07-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TOKYOくるめラ「午後の玉手箱」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch22-004",
+      "date": "2022-07-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHK BSプレミアム「歌える！J-POP黄金のベストアルバム30M」再放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-021",
+      "date": "2022-07-29",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『Chage 08-11 Live ～Selected 21 Songs～』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "2008〜2011年のライブから選曲した映像・音源作品",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/chage/bd/015.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-release-022",
+      "date": "2022-09-07",
+      "artist": "Chage",
+      "category": "release",
+      "title": "「POP」配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch22-005",
+      "date": "2022-09-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "α-STATION「GOOD & NEW KYOTO」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch22-006",
+      "date": "2022-09-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM大阪「hug +」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch22-007",
+      "date": "2022-09-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ABC朝日放送「上田剛彦のなにわ音楽ハツラツ団」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch22-008",
+      "date": "2022-09-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM大阪「Marche Coucou」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch22-009",
+      "date": "2022-09-17",
+      "artist": "Chage",
+      "category": "media",
+      "title": "α-STATION「J-AC TOP40」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch22-010",
+      "date": "2022-09-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "α-STATION「MUSIC MATCH」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch22-011",
+      "date": "2022-09-21",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM COCOLO「Wonder Garden」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage2022-phil",
+      "date": "2022-10-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "PREMIUM PHILHARMONIC ORCHESTRA feat. Chage、川島ケイジ",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ],
+      "venue": "東京芸術劇場 大ホール",
+      "prefecture": "東京都",
+      "country": "日本"
+    },
+    {
+      "id": "v14-media-ch22-012",
+      "date": "2022-10-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM FUKUOKA「DIG!!!!!!!!FUKUOKA」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch22-013",
+      "date": "2022-10-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "LOVE FM「スイッチオン！DAYTIME」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch22-014",
+      "date": "2022-10-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKBテレビ「タダイマ！」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2022-hosomichi-004",
+      "date": "2022-10-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "実施済み。時刻が公式に残る回のみ掲載",
+      "sources": [
+        {
+          "label": "Chage公式｜ずっと細道 公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "performanceNo": 4,
+      "tourId": "chage-zutto-hosomichi-2022",
+      "country": "日本",
+      "prefecture": "福岡県",
+      "venue": "Gate’s7",
+      "startTime": "18:30"
+    },
+    {
+      "id": "v14-release-023",
+      "date": "2022-11-02",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『YOU’RE THE ONE』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "CD＋DVD／CD＋Blu-rayは同一作品として登録",
+      "sources": [
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/chage/album/015.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2022-hosomichi-005",
+      "date": "2022-11-03",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "実施済み。時刻が公式に残る回のみ掲載",
+      "sources": [
+        {
+          "label": "Chage公式｜ずっと細道 公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "performanceNo": 5,
+      "tourId": "chage-zutto-hosomichi-2022",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "BIGCAT"
+    },
+    {
+      "id": "v14-media-ch22-015",
+      "date": "2022-11-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "南海放送ラジオ「TIPS」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch22-016",
+      "date": "2022-11-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM愛媛「Groovy Radio Caravan」公開生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2022-hosomichi-006",
+      "date": "2022-11-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "実施済み。時刻が公式に残る回のみ掲載",
+      "sources": [
+        {
+          "label": "Chage公式｜ずっと細道 公演アーカイブ",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "performanceNo": 6,
+      "tourId": "chage-zutto-hosomichi-2022",
+      "country": "日本",
+      "prefecture": "愛媛県",
+      "venue": "WstudioRED"
+    },
+    {
+      "id": "v14-media-ch22-017",
+      "date": "2022-11-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKBラジオ「Got Many Tunes」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch22-018",
+      "date": "2022-11-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHK「歌える！J-POP黄金のベストアルバム30M」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch22-019",
+      "date": "2022-11-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "東海ラジオ「Morning Delight」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-media-ch22-020",
+      "date": "2022-12-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "K-mix「RADIOKIDS」コメント出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送日／掲載日。ライブ開催日とは別の記録",
+      "sources": [
+        {
+          "label": "Chage公式Biography（放送日・出演日）",
+          "url": "https://chage.jp/biography/2022.php"
+        }
+      ]
+    },
+    {
+      "id": "v14-chage-2022-billboard-001",
+      "date": "2022-12-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live “64 to 65”",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2023年1月6日の東京公演は次版に収録予定／1st Stage",
+      "sources": [
+        {
+          "label": "ビルボードライブ公式｜横浜・大阪各公演",
+          "url": "https://www.billboard-live.com/yokohama/show?event_id=ev-13702"
+        }
+      ],
+      "performanceNo": 1,
+      "tourId": "chage-billboard-64-65",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "ビルボードライブ大阪",
+      "startTime": "16:30"
+    },
+    {
+      "id": "v14-chage-2022-billboard-002",
+      "date": "2022-12-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live “64 to 65”",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2023年1月6日の東京公演は次版に収録予定／2nd Stage",
+      "sources": [
+        {
+          "label": "ビルボードライブ公式｜横浜・大阪各公演",
+          "url": "https://www.billboard-live.com/yokohama/show?event_id=ev-13702"
+        }
+      ],
+      "performanceNo": 2,
+      "tourId": "chage-billboard-64-65",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "venue": "ビルボードライブ大阪",
+      "startTime": "19:30"
+    },
+    {
+      "id": "v14-chage-2022-billboard-003",
+      "date": "2022-12-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live “64 to 65”",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2023年1月6日の東京公演は次版に収録予定／1st Stage",
+      "sources": [
+        {
+          "label": "ビルボードライブ公式｜横浜・大阪各公演",
+          "url": "https://www.billboard-live.com/yokohama/show?event_id=ev-13702"
+        }
+      ],
+      "performanceNo": 3,
+      "tourId": "chage-billboard-64-65",
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ビルボードライブ横浜",
+      "startTime": "17:30"
+    },
+    {
+      "id": "v14-chage-2022-billboard-004",
+      "date": "2022-12-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live “64 to 65”",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2023年1月6日の東京公演は次版に収録予定／2nd Stage",
+      "sources": [
+        {
+          "label": "ビルボードライブ公式｜横浜・大阪各公演",
+          "url": "https://www.billboard-live.com/yokohama/show?event_id=ev-13702"
+        }
+      ],
+      "performanceNo": 4,
+      "tourId": "chage-billboard-64-65",
+      "country": "日本",
+      "prefecture": "神奈川県",
+      "venue": "ビルボードライブ横浜",
+      "startTime": "20:30"
     }
   ]
 };
