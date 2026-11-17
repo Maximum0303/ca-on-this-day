@@ -1,50 +1,62 @@
-# 今日はC&Aの何の日？ — Ver.1.5 データ更新
+# 今日はC&Aの何の日？ — Ver.1.6 データ更新
 
-CHAGE and ASKA・Chage・ASKA・MULTI MAXの歴史カレンダー。
+CHAGE and ASKA・Chage・ASKA・MULTI MAXの歴史カレンダー。2026年11月17日時点の情報です。
 
-## 更新概要（2026年11月17日）
+## 更新概要
 
-- **既存：2,499件**（Ver.1.4）をそのまま保持
-- **新規：311件**（2023年86件／2024年94件／2025年131件）
-- **総登録件数：2,810件**
-- 分類：ライブ関連 2,243件、作品発売・配信 295件、メディア 216件、記念日・節目 24件、その他 32件
-- 今回の追加：ライブ 208件、作品発売・配信 15件、メディア 63件、記念日 6件、その他 19件
-- 新規ライブには延期予定 4件・中止予定 1件が含まれます。これらは開催済み公演とは区別してください。
+- Ver.1.5の既存 **2,810件を完全保持**し、2026年の記録を **146件追加**しました。
+- **総登録件数：2,956件**。
+- 内訳：ライブ関連 2,315件、発売・公開 306件、メディア 239件、記念日 25件、その他 71件。
+- 今回の追加内訳：ライブ 72件、作品・MV 11件、メディア 23件、記念日 1件、その他 39件。
+- 今回追加したライブ記録：**開催済み 53件**／**開催予定 18件**／**延期前予定 1件**。
+- すべて2026年の暦日を採用。2027年にまたがる公演の予定日は今回の対象外です。
 
 ## 主な収録内容
 
-- ASKA：2023年「Wonderful World」17公演、David Foster共演、2023年ディナーショー4会場8ステージ。
-- ASKA：2024〜2025年「Who is ASKA !?」国内本編の実施分（2024/10/6鹿児島中止・2025/1/5振替）、2025年の国内追加7公演、クアラルンプール・台北・東京のアジア公演、2025年FC感謝祭10公演、ディナーショー5公演。ソウル・米国の延期・中止予定は別記録。
-- Chage：2023年「WINDY ROAD」4公演、2024年「ちゃげっていうひと」6公演、2025年「Mr.November」8公演。「Chageのずっと細道」の各通常公演（同日の昼夜を確認できた範囲で区別）。ビルボード公演およびイベント出演も記載。
-- 作品：Chage公式Discographyなどで発売日・配信日が確認できた主な音源・映像、ASKAライブ映像。
-- 放送：Chage公式Biographyから日付が確認できた主なテレビ・ラジオ出演を収録。
-- 2025年のChage「シネマティックコンサートツアー」は生演奏のコンサートではなく映像上映として `other` に分類。
+- ASKA「Lock-on」2026年分 **29公演**：11月17日までの14公演は開催実績、11月21日以降の15公演は【開催予定】。公式公演日程・会場・開演時間を登録。2027年分は次版の対象。
+- ASKA「昭和が見ていたクリスマス!?」2月東京・大阪、計4公演。
+- Chage「Chageのずっと細道」2026年開催予定日を網羅（3/22渋谷の追加公演も別登録）。8/1鹿児島公演は**開催見送り、2027年1月29日に振替**のため、延期前予定として記録。11/23山梨は開催予定。
+- Chage「One Love」4公演・ビルボードライブ（1月大阪・東京4ステージ、12月横浜2ステージ予定）・『Mr.November: One More Time』・ゲスト出演・「ニクオン町田BASE」等。
+- Chageの『Ko』、ASKAと玉置浩二の「音銀河」、Chageの吉田山田柴田・シシド・チャゲとしての配信、ライブ映像・音源作品・MV公開日。
+- TV・ラジオ・動画配信の各出演日、Chageオンラインファンミーティング（12開催日×昼夜2回＝24件、`other` 分類）、8月Chageアート展、5月・12月FCイベント、C&Aデビュー47周年記念日。
+- Chageライブ映像「バリカタ上映会」：上映日と会場別に6件（いずれも `other`、生演奏ライブとは区別）。
+- ASKA「昭和が見ていたクリスマス!?」コンサート映画：9月1日上映開始、9月5日お台場の舞台挨拶、9月13日札幌の舞台挨拶（札幌は当日実施の一次確認待ち）を`other`分類で追加。
+- Chageの5月30〜31日および12月19〜20日の宿泊型FCイベントは**それぞれ開始日の1件**として登録。2公演との意味ではありません。
+- 8月1日のChage鹿児島リアルファンミも公演同様に延期前の記録として登録。
 
-## 照合上の注意と今後の追加調査
+## 予定・延期の扱い（重要）
 
-- 2024年10月6日・鹿児島は当日開催されず、**2025年1月5日に同会場で振替**。同じツアーの公演数を二重計上しないでください。
-- 2025年のソウル公演および米国公演は、延期・中止と開催済みを区別しました。
-- Chageの2025年宇都宮「ずっと細道」は公式Biographyに7月27日と記載がありますが、公式の個別公演アーカイブでは**8月3日**となっているため、個別公演案内を採用しています。
-- 2024年ChageスパリゾートハワイアンズFCイベントは **4/20〜21（1st）** と **4/21〜22（2nd）** の各開始日を登録し、歌唱公演として数えていません。2024年ASKAの宮古島FCイベントは7/6〜8の初日のみ記録。
-- 2024年・2025年の一部ファンミーティングやビルボードライブには開演時刻の個別照合が必要なものがあります。未検証の時刻を確定値として記録しないでください。
-- 作品・メディアは完全網羅ではありません。ライブ・イベントは公開された個別日程に基づき、追加の一次資料が見つかった際は追補してください。
-- 放送掲載日と発表日・実際の放送日が異なるケースがあるため、放送局の一次資料を追加確認する余地があります。
+- データ項目 `status` は開催済み=`recorded`、今後の開催予定=`scheduled`、延期前の日程=`postponed` を区別。
+- 現行のサイト表示は `status` が目立たない場合があるため、**今後の公演は `note` に `【開催予定・2026年11月17日時点】` を必ず明記**。
+- ライブ分類の件数は延期・開催予定を含み、実際に終わったライブ数とは一致しません。
+- 発売日と発売発表日、映像収録公演日とその放送日・配信日、会期と開催公演数は区別。
+- 演奏曲目・セットリストなど、開催中のツアーのネタバレは収録しません。
+- 未確認の公演時刻は推測で補っていません。
 
-## 主要出典
+## 主な参考資料
 
-- ASKA公式： https://www.fellows.tokyo/feature/who_is_aska
-- ASKA公式Fellows感謝祭： https://www.fellows.tokyo/feature/fc_event2025
-- ASKA公式ディナーショー： https://archive.fellows.tokyo/special/dinnershow_2023/
-- Chage公式Biography： https://chage.jp/biography/
-- Chage公式「ずっと細道」公演案内： https://chage.jp/hosomichi/schedule/archive.php
-- Chage公式Discography： https://chage.jp/discography/
-- 補助照合： https://w.atwiki.jp/canda/ および https://w.atwiki.jp/cavc/
+- ASKA公式：<https://www.fellows.tokyo/feature/lock_on_2026>
+- ASKA公式：<https://www.fellows.tokyo/news/detail/488>
+- Chage公式：<https://chage.jp/information/live/detail-770.php>
+- Chage公式：<https://chage.jp/information/live/detail-868.php>
+- Chage公式（鹿児島延期）：<https://chage.jp/information/live/detail-857.php>
+- Chage公式：<https://chage.jp/information/live/detail-817.php>
+- Chage公式（ビルボード横浜）：<https://chage.jp/information/live/detail-884.php>
+- Chage公式オンラインファンミ日程：<https://fanclub.chage.jp/sitenews_det.php?id=19304>
+- Chage公式（5月FCイベント）：<https://chage.jp/information/fanclub/detail-807.php>
+- Chage公式（作品リリース・映画上映）：<https://chage.jp/information/release/detail-800.php>
+- ASKA公式（作品リリース）：<https://www.fellows.tokyo/news/list/1/7/>
+- ASKA公式（映画館先行上映）：<https://www.fellows.tokyo/news/detail/737>
+- ASKA本人ブログ（上映舞台挨拶）：<https://www.fellows.tokyo/blog/detail/1436/?page=2>
+- 映像情報メディア管理センター（cavc、補助資料）：<https://w.atwiki.jp/cavc/pages/363.html>
 
-## GitHubで更新する4ファイル
+個々の記録に、可能な限り直接の公式案内URLを格納しています。補助資料のみの場合は照合状況を `secondary` としました。
 
-1. `data/events.js`
-2. `data/events.json`
-3. `data/events.csv`
-4. `README.md`
+## GitHubへのアップロード
 
-`index.html`、`app.js`、`styles.css` は変更不要です。Commit後にサイトを再読み込みしてください。
+1. ZIPを展開し、`data/events.js`、`data/events.json`、`data/events.csv` をリポジトリの `data` フォルダーへ上書き。
+2. ルートの `README.md` を上書き。
+3. GitHubで Commit changes。
+4. 公開ページに反映されない場合は `Ctrl + F5` を実行。
+
+`index.html`、`app.js`、`styles.css` の変更はありません。
