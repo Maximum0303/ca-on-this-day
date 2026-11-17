@@ -52481,10 +52481,10 @@
       "date": "2015-01-14",
       "artist": "Chage",
       "category": "release",
-      "title": "『ChageLiveTour2014 ～equal～（ライブ音源配信）』発売・配信",
+      "title": "『ChageLiveTour2014 ～equal～（ライブ音源）』配信開始",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "配信限定ライブアルバム。2015年1月14日発売のDVD/Blu-rayとは別の形態として登録。",
       "sources": [
         {
           "label": "公式ディスコグラフィー",
@@ -52497,10 +52497,10 @@
       "date": "2015-01-14",
       "artist": "Chage",
       "category": "release",
-      "title": "『ChageLiveTour2014 ～equal～（DVD/Blu-ray）』発売・配信",
+      "title": "『ChageLiveTour2014 ～equal～（DVD/Blu-ray）』発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "映像ソフト発売の記録。2015年1月14日配信のライブ音源とは別に管理。",
       "sources": [
         {
           "label": "公式ディスコグラフィー",
@@ -52545,6 +52545,22 @@
       "venue": "豊洲PIT",
       "country": "日本",
       "prefecture": "東京都"
+    },
+    {
+      "id": "other-v18219-2015-001",
+      "date": "2015-01-21",
+      "artist": "Chage",
+      "category": "other",
+      "title": "「ステイ・ウィズ・ミー ～そばにいてほしい」日本語カヴァー映像公開",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "サム・スミスの楽曲をクリス・ハート、Ms.OOJA、Chageの3人が分担して歌唱した日本語カヴァー・リレー映像。公式発表日を登録。Chage名義の新作CD発売日ではない。",
+      "sources": [
+        {
+          "label": "発売元公式発表",
+          "url": "https://www.universal-music.co.jp/sam-smith/news/2015-01-21-2/"
+        }
+      ]
     },
     {
       "id": "v12-valentine15",
@@ -52659,17 +52675,21 @@
     },
     {
       "id": "v12-ongakuno-hi15",
-      "date": "2015-06-26",
+      "date": "2015-06-27",
       "artist": "Chage",
       "category": "media",
       "title": "TBS「音楽の日2015」生出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "TBS「音楽の日2015」へ生出演。発売元公式の6月27日放送告知で日付を照合。Chage公式Biographyの6月26日表記ではなく、放送日を採用。",
       "sources": [
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
+        },
+        {
+          "label": "レーベル公式放送告知",
+          "url": "https://www.universal-music.co.jp/chage/news/2015-06-25_media/"
         }
       ]
     },
@@ -53047,11 +53067,15 @@
       "title": "Chage Live Tour 2015 ～天使がくれたハンマー～",
       "status": "recorded",
       "verification": "primary",
-      "note": "最終日",
+      "note": "最終日。豊洲PITでのツアー最終公演。2016年1月27日発売のBlu-ray/DVDに本公演の映像を収録。",
       "sources": [
         {
           "label": "参考資料",
           "url": "https://chage.jp/biography/2015.php"
+        },
+        {
+          "label": "Chage公式映像作品情報",
+          "url": "https://chage.jp/information/release/detail-130.php"
         }
       ],
       "venue": "豊洲PIT",
@@ -53141,14 +53165,18 @@
       "date": "2016-01-27",
       "artist": "Chage",
       "category": "release",
-      "title": "『Chage Live Tour 2015 ～天使がくれたハンマー～（DVD/Blu-ray）』発売・配信",
+      "title": "『Chage Live Tour 2015 ～天使がくれたハンマー～（DVD/Blu-ray）』発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "2015年10月23日・豊洲PIT公演の映像を収録。初回限定盤には2枚組ライブCDとフォトブックを同梱。",
       "sources": [
         {
           "label": "公式ディスコグラフィー",
           "url": "https://www.universal-music.co.jp/chage/release-history/"
+        },
+        {
+          "label": "Chage公式映像作品情報",
+          "url": "https://chage.jp/information/release/detail-130.php"
         }
       ]
     },
@@ -53268,7 +53296,7 @@
       "title": "NHK「うたコン」生出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "NHK「うたコン」に生出演。大阪NHKホールでの収録・生放送としてChage公式Biographyに掲載。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -53543,22 +53571,6 @@
       ]
     },
     {
-      "id": "v12-fns16",
-      "date": "2016-07-13",
-      "artist": "Chage",
-      "category": "media",
-      "title": "フジテレビ「FNSうたの夏まつり」出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography",
-          "url": "https://chage.jp/biography/2016.php"
-        }
-      ]
-    },
-    {
       "id": "v12-acoustic16",
       "date": "2016-07-16",
       "artist": "Chage",
@@ -53576,6 +53588,30 @@
       "venue": "紋別市民会館 大ホール",
       "country": "日本",
       "prefecture": "北海道"
+    },
+    {
+      "id": "v12-fns16",
+      "date": "2016-07-18",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「2016 FNSうたの夏まつり ～海の日スペシャル～」出演・放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2016年7月18日（月・祝）11:45〜23:24放送。Chageの出演者掲載と放送日を番組公式ページで確認。Chage公式Biographyの7月13日表記より放送局の公式情報を優先。",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2016.php"
+        },
+        {
+          "label": "フジテレビ番組公式ページ",
+          "url": "https://www.fujitv.co.jp/FNS/2016s/index.html"
+        },
+        {
+          "label": "放送局公式出演者一覧",
+          "url": "https://www.fujitv.co.jp/FNS/2016s/artist.html"
+        }
+      ]
     },
     {
       "id": "v12-theatron16",
@@ -53888,6 +53924,26 @@
       "prefecture": "山形県"
     },
     {
+      "id": "media-v18219-2016-001",
+      "date": "2016-11-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "CS「しゃべくりDJ Chageのミュージックアワー！」初回放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "歌謡ポップスチャンネルの音楽トーク番組。ChageがDJを務めた番組の初回放送日を二次資料で確認。番組自体は放送局公式ページで確認済みだが、初回の日付は一次資料で未照合。",
+      "sources": [
+        {
+          "label": "放送局公式番組情報",
+          "url": "https://www.kayopops.jp/syabekuri_dj/season01_01/"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/32.html"
+        }
+      ]
+    },
+    {
       "id": "v12-maeno16",
       "date": "2016-11-12",
       "artist": "Chage",
@@ -53911,10 +53967,10 @@
       "date": "2016-12-14",
       "artist": "Chage",
       "category": "release",
-      "title": "『Chage Live Tour 2016 ～もうひとつのLOVE SONG～（ライブアルバム）』発売・配信",
+      "title": "『Chage Live Tour 2016 ～もうひとつのLOVE SONG～（ライブアルバム）』発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "Chageソロ初の2枚組ライブアルバムとして発売。配信版の有無はこの記録では未確認。",
       "sources": [
         {
           "label": "公式ディスコグラフィー",
@@ -70635,5 +70691,5 @@
       ]
     }
   ],
-  "siteVersion": "1.8.2-18"
+  "siteVersion": "1.8.2-19"
 }
