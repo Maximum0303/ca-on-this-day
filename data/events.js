@@ -27017,6 +27017,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "広島県"
     },
     {
+      "id": "v1829-1995-0921-judge-dredd-ost",
+      "date": "1995-09-21",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "サウンドトラック『ジャッジ・ドレッド』（ASKA「TIME」参加）発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式HISTORY記載のサウンドトラック発売日。ASKAの参加曲「TIME」を収録。ASKA単独名義のオリジナルアルバム発売ではない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
       "id": "live-mission-impossible-1995-1996-026",
       "date": "1995-09-26",
       "artist": "CHAGE and ASKA",
@@ -27440,6 +27456,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "神奈川県"
     },
     {
+      "id": "v1829-1995-1220-liang-xin-zhi",
+      "date": "1995-12-20",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "中国盤アルバム『倆心知』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "中国市場向けのアルバム。公式HISTORYに掲載された発売日。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
       "id": "live-mission-impossible-1995-1996-044",
       "date": "1995-12-24",
       "artist": "CHAGE and ASKA",
@@ -27819,6 +27851,49 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "v1829-1996-0311-aska-hiromi-guest",
+      "date": "1996-03-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "岩崎宏美「LIVE ’96 FULL CIRCLE」にASKAゲスト出演",
+      "venue": "東京厚生年金会館",
+      "prefecture": "東京都",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "岩崎宏美との「Love is alive」デュエット。岩崎宏美公式プロフィールでは「東京厚生年金会館」、ビクターの映像商品紹介では「新宿厚生年金会館大ホール」と記載。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "岩崎宏美公式プロフィール｜1996年3月11日ゲスト出演",
+          "url": "https://www.three-g-company.co.jp/profile/"
+        },
+        {
+          "label": "ビクターエンタテインメント｜LIVE ’96 FULL CIRCLE",
+          "url": "https://www.jvcmusic.co.jp/-/Discography/A000295/VIZL-373.html"
+        }
+      ]
+    },
+    {
+      "id": "v1829-1996-0321-asian-tour-taipei-video",
+      "date": "1996-03-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "ライブ映像『ASIAN TOUR IN TAIPEI』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "1995年の台北公演を収録した映像作品。公演日ではなく映像作品の発売日。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
       "id": "live-asian-mission-impossible-1995-1996-003",
       "date": "1996-03-22",
       "artist": "CHAGE and ASKA",
@@ -27829,12 +27904,20 @@ window.CA_EVENT_DATA = {
       "country": "シンガポール",
       "performanceNo": 3,
       "status": "recorded",
-      "verification": "primary",
-      "note": "",
+      "verification": "secondary",
+      "note": "【日付要原典照合】公式HISTORYの公演日程欄は1996/3/22、同本文は1996/3/30と記載。ladomi等の公演一覧は3/22。未確認の3/30公演は追加しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜公演日程",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公演日程の二次照合｜ladomi",
+          "url": "https://ca.ladomi.net/live_ca"
+        },
+        {
+          "label": "C&A関連公演記録｜ASIAN TOUR II",
+          "url": "https://w.atwiki.jp/cavc/pages/405.html"
         }
       ]
     },
@@ -27869,11 +27952,133 @@ window.CA_EVENT_DATA = {
       "country": "香港",
       "performanceNo": 5,
       "status": "recorded",
-      "verification": "primary",
-      "note": "シリーズ最終日",
+      "verification": "secondary",
+      "note": "シリーズ最終日／【会場表記要原典照合】公式HISTORYの個別日程は香港コロシアム、同本文の最終日説明は香港スタジアム。暫定的に日程欄の会場を維持。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜公演日程",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "C&A関連公演記録｜ASIAN TOUR II",
+          "url": "https://w.atwiki.jp/cavc/pages/405.html"
+        }
+      ]
+    },
+    {
+      "id": "v1829-1996-0422-code-name-2",
+      "date": "1996-04-22",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "アルバム『Code Name.2 Sister Moon』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "公式HISTORY記載の発売日。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "v1829-1996-0619-mtv-unplugged",
+      "date": "1996-06-19",
+      "artist": "CHAGE and ASKA",
+      "category": "live",
+      "title": "MTV UNPLUGGED LIVE（ロンドン収録公演）",
+      "venue": "ファウンテン・テレビジョン・スタジオ",
+      "country": "イギリス",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "MTV番組収録を兼ねたライブ演奏。公式HISTORYが出演日を確認。スタジオ名は映像ソフト収録情報を補助資料として採用。後日のテレビ放送日とは区別。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "映像作品の収録情報｜ロンドン・ファウンテン・スタジオ",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/938001520"
+        }
+      ]
+    },
+    {
+      "id": "v1829-1996-0708-one-voice-uk",
+      "date": "1996-07-08",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "カバーアルバム『ONE VOICE』UK盤発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "海外アーティストによるC&A楽曲カバー集。C&A自身の英語歌唱音源「The River」「Castles In The Air」も収録。7月31日の国内盤とは別の発売記録。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "v1829-1996-0727-asia-tour-book",
+      "date": "1996-07-27",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "書籍『CHAGE and ASKA DOCUMENT ―アジアツアーの真実―』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "アジアツアーを記録した書籍の刊行日。ライブ開催日ではない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "v1829-1996-0731-one-voice-japan",
+      "date": "1996-07-31",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "カバーアルバム『ONE VOICE』日本盤発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "UK盤をもとに追加楽曲を収録した日本向け盤。1996年7月8日のUK盤発売とは区別。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "v1829-1996-1007-mtv-unplugged-cd",
+      "date": "1996-10-07",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "ライブアルバム『MTV UNPLUGGED LIVE』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "1996年6月19日収録ライブのCD発売日。ライブ開催日の記録と別登録。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "v1829-1996-1018-mtv-unplugged-video",
+      "date": "1996-10-18",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "ライブ映像『MTV UNPLUGGED LIVE』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "1996年6月19日収録ライブの映像作品（VHS/LD）発売日。音楽CD発売日の10月7日と区別。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ]
@@ -27891,6 +28096,22 @@ window.CA_EVENT_DATA = {
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "v1829-1996-1107-aska-interview-book",
+      "date": "1996-11-07",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "ASKAエッセイ集『インタビュー』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "ASKA本人によるエッセイ集の刊行日。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ]
@@ -67271,5 +67492,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-8"
+  "siteVersion": "1.8.2-9"
 };
