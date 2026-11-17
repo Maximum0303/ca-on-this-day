@@ -1,43 +1,52 @@
-# 今日はC&Aの何の日？ — 更新データ Ver.0.6
+# 今日はC&Aの何の日？ — Ver.0.7 データ更新
 
-CHAGE and ASKA・Chage・ASKA・MULTI MAXの歴史カレンダーの更新ファイルです。**通常公演も掲載**し、出典・確認状態を併記します。
+既存の1043件を保持し、1998〜2001年の公演・発売情報を追加しました。
 
-## 更新内容
+## 今回の件数
 
-- **総登録 1043件**（ライブ関連 954件、作品発売 88件、記念日 1件）
-- 既存901件を維持し、新たに142件追加（ライブ124件、作品発売18件）。
-- 1993 SAVE THE CHILDREN：2件
-- 1994 ASIAN TOUR：5件
-- 1994 MULTI MAX Well：16件
-- 1995 PREVIEW：1件
-- 1995-1996 MISSION IMPOSSIBLE：60件
-- 1995-1996 ASIAN MISSION：5件
-- 1996-1997 MULTI MAX Oki doki：11件
-- 1997 ASKA ID：22件
-- 1992 延期予定：2件
-- 追加作品：18件
+- 総登録：**1219件**（ライブ関連1099件、発売記録119件、その他・記念日1件）
+- 新規：**176件**（ライブ145件、作品発売31件）
+- 同一ID重複なし、日付形式確認済み。
 
-## 注意点・照合待ち
+## 新規ライブの内訳
 
-- 1992年1月10・11日の鹿児島公演は延期予定日として追加（開催済みに含めない）。5月14・15日振替公演への注記を追加。
-- 1994年5月8日シンガポール公演は公式本文の5公演と外部日程表に基づく補完。公式の個別欄には掲載がなく、照合待ち。
-- 1996年1月6日大阪城ホール公演は公式の60公演という集計および補助資料から補完。公式の個別欄には掲載なし。
-- 1995年11月11日の台北公演は同日の上海イベント出演の公式本文と整合性確認待ち。
-- 1991～1992年のSEE YA!!・SAY YESの公式公演数表記との相違は引き続き保留。
+- ASKA CONCERT TOUR kicks（1998年）：32件
+- CHAGE 上海之行演唱会（1998年）：2件
+- CHAGE“大いに唄う”in 武道館（1998年）：1件
+- CHAGE CONCERT TOUR Feeling Place（1998年）：13件
+- CHAGE 1998 FINAL COUNT DOWN（1998年）：1件
+- 赤坂BLITZ special MTV PROGRAM LIVE（1999年）：2件
+- CHAGE and ASKA 20th Anniversary Premium Live（1999年）：6件
+- CONCERT TOUR 1999 TUG OF C&A PRESENTS PREVIEW（1999年）：2件
+- CHAGE and ASKA CONCERT TOUR 電光石火（1999年）：21件
+- CHAGE and ASKA ASIAN TOUR NO DOUBT（1999年）：4件
+- 千年夜一夜ライブ ～福岡ドーム 僕らがホーム～（1999年）：1件
+- CHAGE and ASKA LIVE IN KOREA（2000年）：2件
+- ASKA CONCERT TOUR GOOD TIME（2000年）：20件
+- ASKA PRE-FINAL at The Garden Hall（2000年）：1件
+- CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL（2001年）：31件
+- ASKA「MTV Music Summit’98」出演（1998年8月30日）：1件。**会場未詳のため未入力**。
+- CHAGE and ASKA 2001年野外イベント：5件。
 
-## GitHubへの反映
+※1999年の20th Anniversary Premium Liveは6公演（6月10日と13日は各2公演）として記録。
+※「NOT AT ALL」は2001年分のみ収録し、2002年の残りは次回以降に追加。したがって現段階ではツアーの全日程ではありません。
+※2000年の5.1ch体感イベント（公式記載の開催数に不一致あり）は詳細な会場別日程の照合が済むまで未追加。
 
-1. `data/events.js`, `data/events.json`, `data/events.csv` を既存の `data/` フォルダーに上書きアップロード。
-2. `README.md` をリポジトリ直下に上書きアップロード。
-3. Commit changes。トップページの `index.html` / `app.js` は変更不要です。
-4. 管理画面（`admin.html`）は一般向けに公開しないでください。オフラインでの編集・ファイル書き出し用です。
+## 出典と照合
 
-## 主な参照先
+- [CHAGE and ASKA 公式 HISTORY 1990〜1999](https://www.chage-aska.net/history/1990.php)
+- [CHAGE and ASKA 公式 HISTORY 2000〜2009](https://www.chage-aska.net/history/2000.php)
+- 二次参考：[アーカイブWiki](https://w.atwiki.jp/canda/)、[ladomi.net](https://ca.ladomi.net/live_ca)、[Wikipediaコンサート一覧](https://ja.wikipedia.org/wiki/CHAGE_and_ASKAのコンサート一覧)
+- 新規レコードは公式HISTORY記載の日時・会場を直接転記したため `verification: primary`。既存データの照合状況は変更していません。
 
-- [CHAGE and ASKA公式History（1990～1999）](https://www.chage-aska.net/history/1990.php)
-- [ladomi.netコンサート一覧](https://ca.ladomi.net/live_ca)
-- [Wikipedia CHAGE and ASKAのコンサート一覧](https://ja.wikipedia.org/wiki/CHAGE_and_ASKAのコンサート一覧)
-- [CHAGE and ASKA関連Wiki『1994年コンサート』](https://w.atwiki.jp/cavc/pages/83.html)
-- [CHAGE and ASKA関連Wiki『1995〜1996年ツアー』](https://w.atwiki.jp/cavc/pages/404.html)
+## 公開サイトの更新手順
 
-非公式ファン制作物です。公開元の情報を尊重し、一次資料照合が未完了の内容を確定情報と誤認させないよう扱ってください。
+1. ZIPを展開し、GitHubリポジトリの `data/` に `events.js`、`events.json`、`events.csv` の3ファイルをアップロードして既存ファイルを置換。
+2. リポジトリ最上位で `README.md` を同様に置換。
+3. GitHubでコミットし、GitHub Pagesの反映後にページを再読み込み。
+
+`index.html` や `app.js` の変更はありません。一般公開ページが読むのは `data/events.js` です。`admin.html` はローカル編集補助ツールであり、サーバー上での編集保存機能ではありません。
+
+## 掲載ルール
+
+確認済みの出演・発売のみ収録し、同日に複数公演がある場合は個別に記録。公演中止・延期は開催済みとして数えず状態を明記。未収録日について、出来事がなかったとは断定しません。非公式ファンサイトです。
