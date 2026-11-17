@@ -63106,7 +63106,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2023",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式年譜で開催日と会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -63127,7 +63127,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2023",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式年譜で開催日と会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -63183,7 +63183,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA＆DAVID FOSTER PREMIUM CONCERT 2023",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】共演公演。",
       "sources": [
         {
           "label": "ASKA公式Biography",
@@ -63219,6 +63219,24 @@ window.CA_EVENT_DATA = {
       "performanceNo": 2
     },
     {
+      "id": "v18223-2023-03-17-aska-020",
+      "date": "2023-03-17",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA featuring DAVID FOSTER PREMIUM CONCERT 2023",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "共演公演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.bluenote.co.jp/jp/artists/aska-david-foster/"
+        }
+      ],
+      "prefecture": "東京都",
+      "venue": "BLUE NOTE TOKYO"
+    },
+    {
       "id": "v15-0020",
       "date": "2023-03-19",
       "artist": "ASKA",
@@ -63226,7 +63244,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA＆DAVID FOSTER PREMIUM CONCERT 2023",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】共演公演。",
       "sources": [
         {
           "label": "ASKA公式Biography",
@@ -63247,7 +63265,7 @@ window.CA_EVENT_DATA = {
       "title": "「WINDY ROAD」がFNSチャリティキャンペーン50周年ソングに決定",
       "status": "recorded",
       "verification": "primary",
-      "note": "発表日・決定日。リリース日とは異なる",
+      "note": "発表日・決定日。リリース日とは異なる 【2023〜2024年記録点検】作品の新規発売日やライブ開催日ではなく、採用発表日。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -63262,9 +63280,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。開演17:00。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/news/?id=1103"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63283,9 +63305,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。開演17:00。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/news/?id=1103"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63321,7 +63347,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2023",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式年譜で開催日と会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -63341,9 +63367,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。開演17:00。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/news/?id=1103"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63381,7 +63411,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2023",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式年譜で開催日と会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -63395,15 +63425,35 @@ window.CA_EVENT_DATA = {
       "performanceNo": 4
     },
     {
+      "id": "v18223-2023-04-16-aska-022",
+      "date": "2023-04-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "3150FIGHT vol.5 ハーフタイムショー 出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "イベント中の歌唱出演。プロボクシング大会全体を単独ライブ扱いしない。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ]
+    },
+    {
       "id": "v15-0004",
       "date": "2023-04-22",
       "artist": "ASKA",
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。開演17:00。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/news/?id=1103"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63422,9 +63472,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。開演15:00。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/news/?id=1103"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63443,9 +63497,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。開演17:30。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/news/?id=1103"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63464,9 +63522,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。開演17:00。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/news/?id=1103"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63485,9 +63547,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/news/?id=1103"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63506,9 +63572,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/news/?id=1103"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63527,9 +63597,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "追加公演・映像収録",
+      "verification": "primary",
+      "note": "追加公演・映像収録 【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。開演19:00。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/news/?id=1103"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63647,9 +63721,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/news/?id=1103"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63669,8 +63747,12 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
       "verification": "secondary",
-      "note": "追加公演",
+      "note": "追加公演 【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。開演19:00。追加公演。",
       "sources": [
+        {
+          "label": "公演情報（二次資料）",
+          "url": "https://news.joysound.com/article/527806"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63689,9 +63771,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "追加公演",
+      "verification": "primary",
+      "note": "追加公演 【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。開演19:00。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/news/?id=1103"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63710,9 +63796,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/news/?id=1103"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63775,15 +63865,37 @@ window.CA_EVENT_DATA = {
       "prefecture": "茨城県"
     },
     {
+      "id": "v18223-2023-07-15-aska-024",
+      "date": "2023-07-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "LuckyFes 2023 出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "フェス出演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "prefecture": "茨城県",
+      "venue": "国営ひたち海浜公園"
+    },
+    {
       "id": "v15-0015",
       "date": "2023-07-21",
       "artist": "ASKA",
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/news/?id=1103"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63802,9 +63914,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/news/?id=1103"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63871,9 +63987,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "Travel TV & Lush Music presents ASKA Premium Concert Tour -Wonderful World- 2023",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "追加公演・ツアーファイナル",
+      "verification": "primary",
+      "note": "追加公演・ツアーファイナル 【2023〜2024年記録点検】公式年譜で2023年4月1日〜8月4日の全17公演を確認。開演19:00。追加公演。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.t-i-forum.co.jp/visitors/event/detail.html?id=20230804_0412"
+        },
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/265.html"
@@ -63909,7 +64029,7 @@ window.CA_EVENT_DATA = {
       "title": "「青い空だけじゃない」先行配信リリース",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式ディスコグラフィー確認。配信とパッケージ発売はそれぞれ別日として登録。",
       "sources": [
         {
           "label": "Chage公式Discography",
@@ -64053,8 +64173,12 @@ window.CA_EVENT_DATA = {
       "title": "EP『青い空だけじゃない』発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式ディスコグラフィー確認。配信とパッケージ発売はそれぞれ別日として登録。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/discography/chage/album/017.php"
+        },
         {
           "label": "Chage公式アルバム一覧",
           "url": "https://chage.jp/discography/chage/album.php"
@@ -64080,6 +64204,24 @@ window.CA_EVENT_DATA = {
       "prefecture": "富山県"
     },
     {
+      "id": "v18223-2023-09-02-aska-025",
+      "date": "2023-09-02",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "AUBADE ACOUSTIC WAVE 出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "出演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "prefecture": "富山県",
+      "venue": "オーバード・ホール"
+    },
+    {
       "id": "v15-0048",
       "date": "2023-09-03",
       "artist": "Chage",
@@ -64087,7 +64229,7 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour 2023 WINDY ROAD",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜に記載された開催日と会場。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -64156,7 +64298,7 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour 2023 WINDY ROAD",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜に記載された開催日と会場。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -64177,7 +64319,7 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour 2023 WINDY ROAD",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜に記載された開催日と会場。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -64246,7 +64388,7 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour 2023 WINDY ROAD",
       "status": "recorded",
       "verification": "primary",
-      "note": "配信実施公演",
+      "note": "配信実施公演 【2023〜2024年記録点検】Chage公式年譜に記載された開催日と会場。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -64278,6 +64420,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都"
     },
     {
+      "id": "v18223-2023-10-03-aska-026",
+      "date": "2023-10-03",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ジョナサン・リー初来日公演「有歌之年」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ゲスト出演。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ]
+    },
+    {
       "id": "v15-0041",
       "date": "2023-10-22",
       "artist": "Chage",
@@ -64285,7 +64443,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2023",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式年譜で開催日と会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -64306,7 +64464,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2023",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式年譜で開催日と会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -64343,7 +64501,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2023",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式年譜で開催日と会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -64364,7 +64522,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2023",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式年譜で開催日と会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -64385,7 +64543,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2023",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式年譜で開催日と会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -64406,7 +64564,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2023",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式年譜で開催日と会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -64487,7 +64645,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2023",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式年譜で開催日と会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -64850,6 +65008,24 @@ window.CA_EVENT_DATA = {
       "performanceNo": 1
     },
     {
+      "id": "v18223-2024-01-26-chage-091",
+      "date": "2024-01-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式年譜で開催日・会場を照合。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "prefecture": "広島県",
+      "venue": "広島クラブクアトロ"
+    },
+    {
       "id": "v15-0086",
       "date": "2024-01-28",
       "artist": "Chage",
@@ -64901,7 +65077,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -64980,6 +65156,24 @@ window.CA_EVENT_DATA = {
       "performanceNo": 7
     },
     {
+      "id": "v18223-2024-03-05-chage-095",
+      "date": "2024-03-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式年譜で開催日・会場を照合。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "prefecture": "東京都",
+      "venue": "吉祥寺 Star Pine’s Café"
+    },
+    {
       "id": "v15-0092",
       "date": "2024-04-05",
       "artist": "Chage",
@@ -64987,7 +65181,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -65008,7 +65202,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -65097,6 +65291,24 @@ window.CA_EVENT_DATA = {
       "performanceNo": 10
     },
     {
+      "id": "v18223-2024-05-12-chage-098",
+      "date": "2024-05-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式年譜で開催日・会場を照合。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "prefecture": "栃木県",
+      "venue": "HEAVEN’S ROCK 宇都宮"
+    },
+    {
       "id": "v15-0095",
       "date": "2024-05-19",
       "artist": "Chage",
@@ -65104,7 +65316,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -65125,7 +65337,7 @@ window.CA_EVENT_DATA = {
       "title": "佐藤竹善 Presents Cross your fingers（ASKAゲスト出演）",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式年譜にゲスト出演記録。単独公演ではない。",
       "sources": [
         {
           "label": "ASKA公式Biography",
@@ -65142,7 +65354,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -65163,7 +65375,7 @@ window.CA_EVENT_DATA = {
       "title": "澤野弘之 LIVE [nZk]008（ASKAゲスト出演）",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式年譜にゲスト出演記録。単独公演ではない。",
       "sources": [
         {
           "label": "ASKA公式Biography",
@@ -65180,8 +65392,12 @@ window.CA_EVENT_DATA = {
       "title": "HITMAN David Foster & Friends（ASKA出演）",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式年譜にゲスト出演記録。単独公演ではない。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        },
         {
           "label": "ASKA公式ブログ：HITMAN David Foster & Friends",
           "url": "https://archive.fellows.tokyo/blog/?id=4308"
@@ -65202,7 +65418,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "FC会員限定ライブ",
+      "note": "FC会員限定ライブ 【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。FC会員限定公演。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -65223,8 +65439,12 @@ window.CA_EVENT_DATA = {
       "title": "HITMAN David Foster & Friends（ASKA出演）",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式年譜にゲスト出演記録。単独公演ではない。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        },
         {
           "label": "ASKA公式ブログ：HITMAN David Foster & Friends",
           "url": "https://archive.fellows.tokyo/blog/?id=4308"
@@ -65277,7 +65497,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -65333,7 +65553,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -65386,7 +65606,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -65407,7 +65627,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -65444,8 +65664,12 @@ window.CA_EVENT_DATA = {
       "title": "「飾りのない歌」先行配信リリース",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式ディスコグラフィー確認。配信とパッケージ発売はそれぞれ別日として登録。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/discography/chage/single/022.php"
+        },
         {
           "label": "Chage公式Discography",
           "url": "https://chage.jp/discography/"
@@ -65492,7 +65716,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -65513,7 +65737,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -65582,8 +65806,12 @@ window.CA_EVENT_DATA = {
       "title": "アルバム『飾りのない歌』発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】公式ディスコグラフィー確認。配信とパッケージ発売はそれぞれ別日として登録。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/discography/chage/album/019.php"
+        },
         {
           "label": "Chage公式アルバム一覧",
           "url": "https://chage.jp/discography/chage/album.php"
@@ -65614,8 +65842,12 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour2024 ～ちゃげっていうひと～",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】開演18:00。全国6会場のツアー日程。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/information/live/detail-633.php"
+        },
         {
           "label": "Chage公式Biography（2024）",
           "url": "https://chage.jp/biography/2024.php"
@@ -65667,8 +65899,12 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour2024 ～ちゃげっていうひと～",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】開演17:00。全国6会場のツアー日程。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/information/live/detail-633.php"
+        },
         {
           "label": "Chage公式Biography（2024）",
           "url": "https://chage.jp/biography/2024.php"
@@ -65688,8 +65924,12 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour2024 ～ちゃげっていうひと～",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】開演17:00。全国6会場のツアー日程。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/information/live/detail-633.php"
+        },
         {
           "label": "Chage公式Biography（2024）",
           "url": "https://chage.jp/biography/2024.php"
@@ -65725,8 +65965,12 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour2024 ～ちゃげっていうひと～",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】開演17:00。全国6会場のツアー日程。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/information/live/detail-633.php"
+        },
         {
           "label": "Chage公式Biography（2024）",
           "url": "https://chage.jp/biography/2024.php"
@@ -65746,8 +65990,12 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour2024 ～ちゃげっていうひと～",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】開演17:00。全国6会場のツアー日程。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/information/live/detail-633.php"
+        },
         {
           "label": "Chage公式Biography（2024）",
           "url": "https://chage.jp/biography/2024.php"
@@ -65767,7 +66015,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演17:00。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -65789,8 +66037,12 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour2024 ～ちゃげっていうひと～",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】開演17:00。全国6会場のツアー日程。",
       "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/information/live/detail-633.php"
+        },
         {
           "label": "Chage公式Biography（2024）",
           "url": "https://chage.jp/biography/2024.php"
@@ -65810,7 +66062,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演18:30。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -65832,7 +66084,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演18:30。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -65854,7 +66106,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演18:30。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -65876,7 +66128,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演18:30。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -65913,6 +66165,24 @@ window.CA_EVENT_DATA = {
       "performanceNo": 1
     },
     {
+      "id": "v18223-2024-10-06-chage-108",
+      "date": "2024-10-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式年譜で開催日・会場を照合。",
+      "sources": [
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://chage.jp/biography/2024.php"
+        }
+      ],
+      "prefecture": "東京都",
+      "venue": "下北沢シャングリラ"
+    },
+    {
       "id": "v15-0278",
       "date": "2024-10-11",
       "artist": "Chage",
@@ -65936,7 +66206,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -65976,7 +66246,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -65997,7 +66267,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演17:30。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66019,7 +66289,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -66040,7 +66310,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演18:00。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66062,7 +66332,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演17:00。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66100,7 +66370,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演17:00。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66122,7 +66392,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Cinematic Concert ～Live at Spa Resort Hawaiians 2024～ 上映",
       "status": "recorded",
       "verification": "primary",
-      "note": "映像上映。生のライブ公演と区別",
+      "note": "映像上映。生のライブ公演と区別 【2023〜2024年記録点検】ライブ映像作品の上映イベント。収録対象の公演日ではないため「ライブ」には分類しない。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -66141,7 +66411,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演18:30。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66163,7 +66433,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -66184,7 +66454,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演17:00。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66225,7 +66495,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演18:30。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66247,7 +66517,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -66268,7 +66538,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演17:00。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66290,7 +66560,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -66311,7 +66581,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演17:00。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66333,7 +66603,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演17:00。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66355,7 +66625,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演18:30。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66377,7 +66647,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演17:30。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66399,7 +66669,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演17:00。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66421,7 +66691,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。開演18:00。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66487,7 +66757,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66509,7 +66779,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -66531,7 +66801,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2023〜2024年記録点検】2024年開催分の公演。2025年の同ツアーは別途点検。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -71944,5 +72214,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-22"
+  "siteVersion": "1.8.2-23"
 };
