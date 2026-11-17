@@ -47908,6 +47908,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "北海道"
     },
     {
+      "id": "media-v18217-2011-001",
+      "date": "2011-01-03",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「2010 ASKA上海演唱会」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "中国で放送された2010年12月11日のASKA上海公演の映像。放送局・一次資料未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/332.html"
+        }
+      ]
+    },
+    {
       "id": "live-v11-chage-earth-2011-001",
       "date": "2011-01-09",
       "artist": "Chage",
@@ -47955,7 +47971,7 @@ window.CA_EVENT_DATA = {
       "title": "「遠くへ行きたい」テーマソングのChage歌唱放送開始",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "読売テレビ・日本テレビ系「遠くへ行きたい」のテーマソングをChageが歌唱。2011年1月9日から放送開始。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -48144,6 +48160,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都"
     },
     {
+      "id": "media-v18217-2011-002",
+      "date": "2011-01-25",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「解禁！マル秘ストーリー ～知られざる真実～」コメント出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS。ASKAコメント出演の二次記録。放送局一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/332.html"
+        }
+      ]
+    },
+    {
       "id": "live-v11-faces-2011-003",
       "date": "2011-01-26",
       "artist": "ASKA",
@@ -48155,11 +48187,15 @@ window.CA_EVENT_DATA = {
       "performanceNo": 3,
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "この日本武道館公演を収録したBlu-ray・DVDが2011年6月1日に発売。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "発売元公式作品情報",
+          "url": "https://www.universal-music.co.jp/p/POXS-22004/"
         }
       ],
       "prefecture": "東京都"
@@ -48270,6 +48306,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "香川県"
     },
     {
+      "id": "media-v18217-2011-003",
+      "date": "2011-02-20",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビドラマ「黄昏流星群～C-46星雲～」放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "関西テレビ・フジテレビ系。ASKAの楽曲「C-46」を題材とするドラマが放送。ASKA本人の出演を示す記録ではない。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ]
+    },
+    {
       "id": "live-v11-faces-2011-007",
       "date": "2011-03-01",
       "artist": "ASKA",
@@ -48310,6 +48362,22 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "福岡県"
+    },
+    {
+      "id": "media-v18217-2011-004",
+      "date": "2011-03-20",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「ASKA CONCERT TOUR 10>>11 FACES」ライブ映像放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBSチャンネル。2011年1月26日日本武道館公演の収録映像。放送日について放送局一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/332.html"
+        }
+      ]
     },
     {
       "id": "v11-release-001",
@@ -48370,11 +48438,15 @@ window.CA_EVENT_DATA = {
       "title": "「題名のない音楽会」出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "テレビ朝日「題名のない音楽会」の2011年5月1日放送回。Chageが「東京ブギウギ」を歌唱。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "テレビ朝日公式バックナンバー",
+          "url": "https://www.tv-asahi.co.jp/daimei_2011/contents/Broadcast/0009/"
         }
       ]
     },
@@ -48528,11 +48600,15 @@ window.CA_EVENT_DATA = {
       "title": "『FACES』ライブ映像・音源発売／配信",
       "status": "released",
       "verification": "primary",
-      "note": "Blu-ray・DVD・音源",
+      "note": "Blu-ray・DVD・音源。映像・ライブ音源は2011年1月26日日本武道館公演を収録。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "発売元公式作品情報",
+          "url": "https://www.universal-music.co.jp/p/POXS-22004/"
         }
       ],
       "releaseTitle": "FACES』ライブ映像・音源／配信"
@@ -48555,6 +48631,22 @@ window.CA_EVENT_DATA = {
       "venue": "渋谷C.C.Lemonホール",
       "prefecture": "東京都",
       "country": "日本"
+    },
+    {
+      "id": "media-v18217-2011-005",
+      "date": "2011-06-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ミスタードーナツ「クールミスド」テレビCM 放映開始",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage出演のミスタードーナツCMが放送開始。仲里依紗と共演。2011年6月8日開始は公式年表と当時の報道で確認。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2011.php"
+        }
+      ]
     },
     {
       "id": "v11-release-005",
@@ -48610,6 +48702,38 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "巴里にひとり』配信開始"
     },
     {
+      "id": "media-v18217-2011-006",
+      "date": "2011-08-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「スーパーJチャンネルながさき」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "長崎文化放送。Chage出演の二次記録。放送局一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/332.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18217-2011-007",
+      "date": "2011-08-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「東日本大震災支援LIVE ～Dream Chain～」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO MX。2011年6月7日に開催された支援ライブの映像放送。公演日とは別。放送局一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/332.html"
+        }
+      ]
+    },
+    {
       "id": "v11-yu-suzumi-2011",
       "date": "2011-08-08",
       "artist": "Chage",
@@ -48627,6 +48751,22 @@ window.CA_EVENT_DATA = {
       "venue": "仙台市勾当台公園 野外音楽堂",
       "prefecture": "宮城県",
       "country": "日本"
+    },
+    {
+      "id": "media-v18217-2011-008",
+      "date": "2011-08-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「ナイトシャッフル」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "FBS福岡放送。Chage出演の二次記録。放送局一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/332.html"
+        }
+      ]
     },
     {
       "id": "v11-jounetsu-2011",
@@ -48708,6 +48848,54 @@ window.CA_EVENT_DATA = {
       "prefecture": "神奈川県"
     },
     {
+      "id": "media-v18217-2011-009",
+      "date": "2011-09-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「トコトン・サタデー」コメント出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "長崎文化放送。Chageコメント出演の二次記録。放送局一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/332.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18217-2011-010",
+      "date": "2011-09-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「スマイル・スタジアム」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NST新潟総合テレビ。Chage出演の二次記録。放送局一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/332.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18217-2011-011",
+      "date": "2011-09-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "ラジオ「鎌倉音楽祭～鶴舞2011～」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO FMなど。2011年8月28日の鶴岡八幡宮での音楽祭を放送。開催日と別に記録。放送局一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/332.html"
+        }
+      ]
+    },
+    {
       "id": "live-v11-chage-hosomichi-2011-003",
       "date": "2011-09-09",
       "artist": "Chage",
@@ -48729,6 +48917,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "埼玉県"
     },
     {
+      "id": "media-v18217-2011-012",
+      "date": "2011-09-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「はなきん」コメント出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "長崎文化放送。Chageコメント出演の二次記録。放送局一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/332.html"
+        }
+      ]
+    },
+    {
       "id": "live-v11-chage-hosomichi-2011-004",
       "date": "2011-09-10",
       "artist": "Chage",
@@ -48748,6 +48952,38 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "神奈川県"
+    },
+    {
+      "id": "media-v18217-2011-013",
+      "date": "2011-09-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「遠くへ行きたい」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "読売テレビ・日本テレビ系。Chage出演の二次記録。2011年1月9日のテーマソング歌唱開始とは別。放送局一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/332.html"
+        }
+      ]
+    },
+    {
+      "id": "media-v18217-2011-014",
+      "date": "2011-09-16",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ「ap bank fes ’11 Fund for Japan 4時間スペシャル」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビNEXT。2011年7月17日のASKAゲスト出演映像を放送。開催日とは別に登録。放送局一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/332.html"
+        }
+      ]
     },
     {
       "id": "live-v11-chage-hosomichi-2011-005",
@@ -48897,6 +49133,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "長崎県"
     },
     {
+      "id": "media-v18217-2011-015",
+      "date": "2011-10-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「鎌倉音楽祭 ～鶴舞2011～」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "BS12 TwellV。2011年8月28日のライブを放送。公演日とは別の記録。放送局一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/332.html"
+        }
+      ]
+    },
+    {
       "id": "live-v11-chage-hosomichi-2011-012",
       "date": "2011-10-02",
       "artist": "Chage",
@@ -49019,6 +49271,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "岡山県"
     },
     {
+      "id": "media-v18217-2011-016",
+      "date": "2011-10-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ「5時に夢中！」ゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TOKYO MX。Chageゲスト出演の二次記録。放送局一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/332.html"
+        }
+      ]
+    },
+    {
       "id": "v11-other-004",
       "date": "2011-10-27",
       "artist": "Chage",
@@ -49026,11 +49294,15 @@ window.CA_EVENT_DATA = {
       "title": "「ChageのBig Special ～真夜中の音楽室～」放送開始",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "JFN系ラジオ。毎月最終木曜日の「Big Special」にChageがパーソナリティとして出演。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2011.php"
         }
       ]
     },
@@ -49105,14 +49377,36 @@ window.CA_EVENT_DATA = {
       "title": "『TOKYO MOON』シングル発売",
       "status": "released",
       "verification": "primary",
-      "note": "コンサート会場で先行販売あり",
+      "note": "コンサート会場で先行販売あり。2011年9月2日の「Chageの細道2011」ツアー初日からコンサート会場で先行販売。一般発売日は11月2日。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2011.php"
         }
       ],
       "releaseTitle": "TOKYO MOON』シングル"
+    },
+    {
+      "id": "other-v18217-2011-017",
+      "date": "2011-11-30",
+      "artist": "Chage",
+      "category": "other",
+      "title": "写真展「Gift for X’mas」に作品出展",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "TOKYO INSTITUTE of PHOTOGRAPHY主催。Chageが撮影した写真を72Gallery（東京・京橋）に展示。",
+      "sources": [
+        {
+          "label": "公式資料",
+          "url": "https://chage.jp/biography/2011.php"
+        }
+      ],
+      "venue": "72Gallery",
+      "prefecture": "東京都"
     },
     {
       "id": "v11-release-009",
@@ -49215,7 +49509,7 @@ window.CA_EVENT_DATA = {
       "performanceNo": 2,
       "status": "recorded",
       "verification": "primary",
-      "note": "ツアー最終日",
+      "note": "ツアー最終日。公演の模様は同日、全国78スクリーンの映画館にライブ中継された（ライブシネマは別記録）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -49232,7 +49526,7 @@ window.CA_EVENT_DATA = {
       "title": "ライブシネマ「昭和が見ていたクリスマス!?」生中継",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "2012年1月22日の日本武道館公演を全国78スクリーンの映画館に同時生中継。実公演とは別記録。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -49887,7 +50181,7 @@ window.CA_EVENT_DATA = {
       "title": "KIRIN BEER GoodLuck LIVE ラジオ公開生放送出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "イベント・公開生演奏",
+      "note": "イベント・公開生演奏。TOKYO FM局内の抽選招待者約20名の前で、Chageが茶会メンバーと計7曲を披露。公開生放送。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -49902,11 +50196,11 @@ window.CA_EVENT_DATA = {
       "id": "v11-other-006",
       "date": "2012-10-16",
       "artist": "ASKA",
-      "category": "other",
+      "category": "release",
       "title": "『ぴあ＆ASKA』発売",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "音楽関連ムック『ぴあ＆ASKA』発売。雑誌・書籍の発売記録として分類。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -70301,5 +70595,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-16"
+  "siteVersion": "1.8.2-17"
 };
