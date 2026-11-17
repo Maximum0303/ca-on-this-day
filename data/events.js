@@ -20632,7 +20632,7 @@ window.CA_EVENT_DATA = {
       "performanceNo": 1,
       "status": "recorded",
       "verification": "primary",
-      "note": "ツアー初日",
+      "note": "ツアー初日／【公演数に資料差】公式HISTORY本文は54公演、同ページの日程詳細は58公演を掲載（1992年5月の振替2公演を含む）。さらに開催されなかった当初予定2件を別記録で保持。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
@@ -22115,13 +22115,13 @@ window.CA_EVENT_DATA = {
       "category": "live",
       "title": "CONCERT TOUR ’91～’92 “SAY YES”",
       "tourId": "say-yes-1991-1992",
-      "venue": "浜松市市民会館",
+      "venue": "浜松市民会館",
       "prefecture": "静岡県",
       "country": "日本",
       "performanceNo": 52,
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【歴史的会場名称】1992年当時の名称は浜松市民会館。公式HISTORYは「浜松市市民会館」と表記。1995年に教育文化会館（はまホール）へ名称変更。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
@@ -22130,6 +22130,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA archives wiki｜公演日程",
           "url": "https://w.atwiki.jp/canda/pages/422.html"
+        },
+        {
+          "label": "浜松市文化振興財団（旧会場名称）",
+          "url": "https://www.hcf.or.jp/pdf/aboutus/list/26/26jigyo.pdf"
         }
       ]
     },
@@ -22894,7 +22898,7 @@ window.CA_EVENT_DATA = {
       "performanceNo": 23,
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【同一施設の別称】公式HISTORYは「真駒内アイスアリーナ」、登録表記は「真駒内屋内競技場」。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
@@ -22919,7 +22923,7 @@ window.CA_EVENT_DATA = {
       "performanceNo": 24,
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【同一施設の別称】公式HISTORYは「真駒内アイスアリーナ」、登録表記は「真駒内屋内競技場」。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY（公演日程）",
@@ -23566,6 +23570,25 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 映像情報メディア管理センター｜1992年 TV・ラジオ出演記録（非公式）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
+        }
+      ]
+    },
+    {
+      "id": "other-concert-movie-guys-start-1992",
+      "date": "1992-12-26",
+      "artist": "CHAGE and ASKA",
+      "category": "other",
+      "title": "『CHAGE and ASKA CONCERT MOVIE GUYS』上映開始",
+      "venue": "渋谷パルコ劇場",
+      "prefecture": "東京都",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1993年3月7日まで続いたコンサート映像上映企画の開始日。本人のライブ公演ではない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜1992年12月26日",
+          "url": "https://www.chage-aska.net/history/1990.php"
         }
       ]
     },
@@ -66548,5 +66571,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-6"
+  "siteVersion": "1.8.2-7"
 };
