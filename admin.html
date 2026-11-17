@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="ja">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>データ編集補助｜今日はC&Aの何の日？</title><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="admin.css"><script defer src="data/events.js"></script><script defer src="admin.js"></script></head>
+<body><div class="shell"><header class="site-header"><a class="identity" href="index.html"><span class="mark">C<span>&</span>A</span><span class="identity-name">データ編集補助 <small>LOCAL ARCHIVE EDITOR</small></span></a><a class="back" href="index.html">公開画面に戻る ↗</a></header>
+<main class="admin-main">
+<div class="admin-banner"><span class="kicker">DATA MANAGEMENT</span><h1>出来事の登録・修正</h1><p>この編集画面はファイルを作成する補助ツールです。GitHub上のデータを書き換える機能やログイン機能はありません。<strong>編集後は必ず events.js を書き出して保存</strong>してください。</p></div>
+<div class="admin-actions"><button class="btn" id="download-js" type="button">events.js を書き出す</button><button class="btn" id="download-json" type="button">JSON控えを書き出す</button><label class="btn file-import">JSONを読み込む <input id="import-json" type="file" accept="application/json,.json" hidden></label><span id="save-hint" role="status">変更はまだありません</span></div>
+<div class="admin-grid"><section class="admin-form-card"><div class="form-head"><h2 id="form-title">新しい出来事を追加</h2><button class="text-button" id="new-form" type="button">入力をクリア</button></div><form id="event-form">
+<label>日付（必須）<input type="date" id="f-date" required></label>
+<label>アーティスト名義（必須）<select id="f-artist" required><option>CHAGE and ASKA</option><option>Chage</option><option>ASKA</option><option>MULTI MAX</option></select></label>
+<label>分類（必須）<select id="f-category" required><option value="live">ライブ</option><option value="release">作品発売</option><option value="media">テレビ・ラジオ</option><option value="milestone">記録・記念日</option><option value="other">その他</option></select></label>
+<label>出来事のタイトル（必須）<input id="f-title" placeholder="ツアー名・作品名など" required></label>
+<div class="field-pair"><label>都道府県<input id="f-prefecture" placeholder="北海道"></label><label>会場<input id="f-venue" placeholder="真駒内アイスアリーナ"></label></div>
+<label>補足<input id="f-note" placeholder="ツアー初日、放送局など"></label>
+<label>出典URL（https://）<input id="f-source" type="url" placeholder="https://..." required></label>
+<label>出典名<input id="f-source-label" placeholder="資料名・出典ページ名" required></label>
+<label>確認状況<select id="f-verification"><option value="secondary">参考資料掲載・一次資料照合待ち</option><option value="primary">一次資料確認済</option></select></label>
+<label>実施・発売状況<select id="f-status"><option value="recorded">資料に実施記録あり（ライブ等）</option><option value="released">発売済</option><option value="scheduled">予定（未実施）</option><option value="postponed">延期</option><option value="cancelled">中止</option></select></label>
+<button type="submit" class="btn btn-submit" id="save-event">新規登録</button><p class="form-help">同日・同会場の複数公演は別IDで登録できます。重複が疑われる場合は警告を表示します。</p></form></section>
+<section class="admin-records"><div class="records-title"><div><h2>登録済みの記録 <span id="admin-total"></span></h2><p>編集・削除を行い、書き出し後にGitHubへ反映します。</p></div></div><label class="admin-search">一覧を絞る<input type="search" id="admin-search" placeholder="タイトル・会場・日付で検索"></label><div class="admin-list" id="admin-list"></div></section></div>
+</main><footer class="footer"><div class="footer-title">C&A HISTORY CALENDAR<span>ローカル用編集補助ツール</span></div></footer></div></body></html>
