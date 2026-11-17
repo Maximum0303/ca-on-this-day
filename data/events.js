@@ -66970,6 +66970,24 @@ window.CA_EVENT_DATA = {
       "performanceNo": 8
     },
     {
+      "id": "v18224-2025-01-05-aska-001",
+      "date": "2025-01-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 鹿児島再公演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2024年10月6日鹿児島公演も開催済み。今回は別日程の再公演であり、2024年公演を中止・延期へ変更しない。",
+      "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "prefecture": "鹿児島県",
+      "venue": "川商ホール 第一"
+    },
+    {
       "id": "v15-0124",
       "date": "2025-01-11",
       "artist": "ASKA",
@@ -67065,7 +67083,7 @@ window.CA_EVENT_DATA = {
       "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
       "status": "recorded",
       "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
+      "note": "上映日。Chageの生公演と区別 【2025〜2026年記録点検】ライブ映像の上映会。収録されたコンサート日とは別の日付で、ライブ公演数には含めない。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
@@ -67084,7 +67102,7 @@ window.CA_EVENT_DATA = {
       "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
       "status": "recorded",
       "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
+      "note": "上映日。Chageの生公演と区別 【2025〜2026年記録点検】ライブ映像の上映会。収録されたコンサート日とは別の日付で、ライブ公演数には含めない。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
@@ -67168,7 +67186,7 @@ window.CA_EVENT_DATA = {
       "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
       "status": "recorded",
       "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
+      "note": "上映日。Chageの生公演と区別 【2025〜2026年記録点検】ライブ映像の上映会。収録されたコンサート日とは別の日付で、ライブ公演数には含めない。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
@@ -67187,7 +67205,7 @@ window.CA_EVENT_DATA = {
       "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
       "status": "recorded",
       "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
+      "note": "上映日。Chageの生公演と区別 【2025〜2026年記録点検】ライブ映像の上映会。収録されたコンサート日とは別の日付で、ライブ公演数には含めない。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
@@ -67206,7 +67224,7 @@ window.CA_EVENT_DATA = {
       "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
       "status": "recorded",
       "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
+      "note": "上映日。Chageの生公演と区別 【2025〜2026年記録点検】ライブ映像の上映会。収録されたコンサート日とは別の日付で、ライブ公演数には含めない。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
@@ -67225,7 +67243,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】開場17:00／開演18:00。公式日程で確認。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -67247,7 +67265,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】開場15:00／開演16:00。公式日程で確認。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -67269,7 +67287,7 @@ window.CA_EVENT_DATA = {
       "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
       "status": "recorded",
       "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
+      "note": "上映日。Chageの生公演と区別 【2025〜2026年記録点検】ライブ映像の上映会。収録されたコンサート日とは別の日付で、ライブ公演数には含めない。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
@@ -67288,7 +67306,7 @@ window.CA_EVENT_DATA = {
       "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
       "status": "recorded",
       "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
+      "note": "上映日。Chageの生公演と区別 【2025〜2026年記録点検】ライブ映像の上映会。収録されたコンサート日とは別の日付で、ライブ公演数には含めない。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
@@ -67307,7 +67325,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- in Kuala Lumpur",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】開場19:00／開演20:00。海外公演。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -67328,7 +67346,7 @@ window.CA_EVENT_DATA = {
       "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
       "status": "recorded",
       "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
+      "note": "上映日。Chageの生公演と区別 【2025〜2026年記録点検】ライブ映像の上映会。収録されたコンサート日とは別の日付で、ライブ公演数には含めない。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
@@ -67361,6 +67379,24 @@ window.CA_EVENT_DATA = {
       "performanceNo": 2
     },
     {
+      "id": "v18224-2025-03-01-aska-005",
+      "date": "2025-03-01",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?-",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "開場18:30／開演19:30。海外公演。",
+      "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        }
+      ],
+      "prefecture": "台湾",
+      "venue": "TAIPEI TICC"
+    },
+    {
       "id": "v15-0217",
       "date": "2025-03-02",
       "artist": "Chage",
@@ -67368,7 +67404,7 @@ window.CA_EVENT_DATA = {
       "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
       "status": "recorded",
       "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
+      "note": "上映日。Chageの生公演と区別 【2025〜2026年記録点検】ライブ映像の上映会。収録されたコンサート日とは別の日付で、ライブ公演数には含めない。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
@@ -67406,7 +67442,7 @@ window.CA_EVENT_DATA = {
       "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
       "status": "recorded",
       "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
+      "note": "上映日。Chageの生公演と区別 【2025〜2026年記録点検】ライブ映像の上映会。収録されたコンサート日とは別の日付で、ライブ公演数には含めない。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
@@ -67425,7 +67461,7 @@ window.CA_EVENT_DATA = {
       "title": "シネマティックコンサートツアー「Chageのずっと細道 ～東西南北～」上映",
       "status": "recorded",
       "verification": "primary",
-      "note": "上映日。Chageの生公演と区別",
+      "note": "上映日。Chageの生公演と区別 【2025〜2026年記録点検】ライブ映像の上映会。収録されたコンサート日とは別の日付で、ライブ公演数には含めない。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
@@ -67444,7 +67480,7 @@ window.CA_EVENT_DATA = {
       "title": "「ChageLiveTour2024 ～ちゃげっていうひと～」ライブ音源配信",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式年譜・発売元情報で発売／配信日を確認。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
@@ -67478,8 +67514,12 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/information/live/detail-679.php"
+        },
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
           "url": "https://chage.jp/hosomichi/schedule/archive.php"
@@ -67510,6 +67550,24 @@ window.CA_EVENT_DATA = {
       "venue": "米国ニューヨーク（会場未確認）"
     },
     {
+      "id": "v18224-2025-04-16-aska-024",
+      "date": "2025-04-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "FIRSTSAIL “COMTEC PORTBASE OPENING CEREMONY” ～ASKA Live Docking～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式年譜に開催・出演記録。ゲスト・フェス出演を通常単独公演と混同しない。",
+      "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "prefecture": "愛知県",
+      "venue": "COMTEC PORTBASE"
+    },
+    {
       "id": "v15-0165",
       "date": "2025-04-26",
       "artist": "Chage",
@@ -67538,8 +67596,12 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/information/live/detail-679.php"
+        },
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
           "url": "https://chage.jp/hosomichi/schedule/archive.php"
@@ -67575,7 +67637,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- 海外公演ファイナル",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】開場17:30／開演18:30。海外公演ファイナルとして日本開催。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -67597,7 +67659,7 @@ window.CA_EVENT_DATA = {
       "title": "『ChageLiveTour2024 ～ちゃげっていうひと～』LIVE Blu-ray発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式年譜・発売元情報で発売／配信日を確認。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
@@ -67651,8 +67713,12 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/information/live/detail-679.php"
+        },
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
           "url": "https://chage.jp/hosomichi/schedule/archive.php"
@@ -67704,8 +67770,12 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "昼公演",
+      "note": "昼公演 【2025〜2026年記録点検】公式公演記録で確認。1st、開演15:00。同日2公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/information/live/detail-679.php"
+        },
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
           "url": "https://chage.jp/hosomichi/schedule/archive.php"
@@ -67726,8 +67796,12 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "夜公演",
+      "note": "夜公演 【2025〜2026年記録点検】公式公演記録で確認。2nd、開演18:30。同日2公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/information/live/detail-679.php"
+        },
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
           "url": "https://chage.jp/hosomichi/schedule/archive.php"
@@ -67748,8 +67822,12 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/information/live/detail-679.php"
+        },
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
           "url": "https://chage.jp/hosomichi/schedule/archive.php"
@@ -67769,8 +67847,12 @@ window.CA_EVENT_DATA = {
       "title": "カバー作品『Vandange_1958』配信リリース",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式年譜・発売元情報で発売／配信日を確認。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/biography/"
+        },
         {
           "label": "Chage公式アルバム一覧",
           "url": "https://chage.jp/discography/chage/album.php"
@@ -67785,8 +67867,12 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/information/live/detail-679.php"
+        },
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
           "url": "https://chage.jp/hosomichi/schedule/archive.php"
@@ -67806,8 +67892,12 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/information/live/detail-679.php"
+        },
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
           "url": "https://chage.jp/hosomichi/schedule/archive.php"
@@ -67861,8 +67951,12 @@ window.CA_EVENT_DATA = {
       "title": "Chage Billboard Live 67 to 68",
       "status": "recorded",
       "verification": "primary",
-      "note": "1st Stage（開演時刻要照合）",
+      "note": "1st Stage（開演時刻要照合） 【2025〜2026年記録点検】1stの開演17:00。1日2公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=17458"
+        },
         {
           "label": "Chage公式Biography（2025）",
           "url": "https://chage.jp/biography/"
@@ -67882,8 +67976,12 @@ window.CA_EVENT_DATA = {
       "title": "Chage Billboard Live 67 to 68",
       "status": "recorded",
       "verification": "primary",
-      "note": "2nd Stage（開演時刻要照合）",
+      "note": "2nd Stage（開演時刻要照合） 【2025〜2026年記録点検】2ndの開演20:00。1日2公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=17458"
+        },
         {
           "label": "Chage公式Biography（2025）",
           "url": "https://chage.jp/biography/"
@@ -67919,7 +68017,7 @@ window.CA_EVENT_DATA = {
       "title": "「飾りのない歌 -Acoustic Ver.-」配信リリース",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式年譜・発売元情報で発売／配信日を確認。",
       "sources": [
         {
           "label": "Chage公式Discography",
@@ -67935,8 +68033,12 @@ window.CA_EVENT_DATA = {
       "title": "Chage Billboard Live 67 to 68",
       "status": "recorded",
       "verification": "primary",
-      "note": "1st Stage（開演時刻要照合）",
+      "note": "1st Stage（開演時刻要照合） 【2025〜2026年記録点検】1stの開演17:00。1日2公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=17458"
+        },
         {
           "label": "Chage公式Biography（2025）",
           "url": "https://chage.jp/biography/"
@@ -67956,8 +68058,12 @@ window.CA_EVENT_DATA = {
       "title": "Chage Billboard Live 67 to 68",
       "status": "recorded",
       "verification": "primary",
-      "note": "2nd Stage（開演時刻要照合）",
+      "note": "2nd Stage（開演時刻要照合） 【2025〜2026年記録点検】2ndの開演20:00。1日2公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=17458"
+        },
         {
           "label": "Chage公式Biography（2025）",
           "url": "https://chage.jp/biography/"
@@ -67977,7 +68083,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 追加公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】夏の追加公演7件のうちの1公演。開演18:30。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -67999,7 +68105,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 追加公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】夏の追加公演7件のうちの1公演。開演18:30。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -68021,7 +68127,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
@@ -68042,7 +68148,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
@@ -68063,7 +68169,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 追加公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】夏の追加公演7件のうちの1公演。開演18:00。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -68099,6 +68205,24 @@ window.CA_EVENT_DATA = {
       "performanceNo": 13
     },
     {
+      "id": "v18224-2025-08-03-chage-084",
+      "date": "2025-08-03",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式公演記録で確認。各日公演。",
+      "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "prefecture": "栃木県",
+      "venue": "HEAVEN'S ROCK 宇都宮 VJ-2"
+    },
+    {
       "id": "v15-0142",
       "date": "2025-08-06",
       "artist": "ASKA",
@@ -68106,7 +68230,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 追加公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】夏の追加公演7件のうちの1公演。開演18:30。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -68128,7 +68252,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 追加公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】夏の追加公演7件のうちの1公演。開演18:30。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -68150,7 +68274,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 追加公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】夏の追加公演7件のうちの1公演。開演18:30。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -68172,7 +68296,7 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 追加公演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】夏の追加公演7件のうちの1公演。開演18:00。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
@@ -68228,8 +68352,12 @@ window.CA_EVENT_DATA = {
       "title": "『Vandange_1958 Vol.2』配信リリース",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式年譜・発売元情報で発売／配信日を確認。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/biography/"
+        },
         {
           "label": "Chage公式Discography",
           "url": "https://chage.jp/discography/"
@@ -68260,7 +68388,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA×Fellows ～感謝祭～",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】ファンクラブ限定イベント。開演19:00。単独ツアーと区別。",
       "sources": [
         {
           "label": "ASKA公式Fellows感謝祭2025日程",
@@ -68300,7 +68428,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA×Fellows ～感謝祭～",
       "status": "recorded",
       "verification": "primary",
-      "note": "昼公演",
+      "note": "昼公演 【2025〜2026年記録点検】ファンクラブ限定イベント。1st、開演15:00。単独ツアーと区別。",
       "sources": [
         {
           "label": "ASKA公式Fellows感謝祭2025日程",
@@ -68322,7 +68450,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA×Fellows ～感謝祭～",
       "status": "recorded",
       "verification": "primary",
-      "note": "夜公演",
+      "note": "夜公演 【2025〜2026年記録点検】ファンクラブ限定イベント。2nd、開演19:00。単独ツアーと区別。",
       "sources": [
         {
           "label": "ASKA公式Fellows感謝祭2025日程",
@@ -68394,7 +68522,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA×Fellows ～感謝祭～",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】ファンクラブ限定イベント。開演19:00。単独ツアーと区別。",
       "sources": [
         {
           "label": "ASKA公式Fellows感謝祭2025日程",
@@ -68416,7 +68544,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA×Fellows ～感謝祭～",
       "status": "recorded",
       "verification": "primary",
-      "note": "昼公演",
+      "note": "昼公演 【2025〜2026年記録点検】ファンクラブ限定イベント。1st、開演15:00。単独ツアーと区別。",
       "sources": [
         {
           "label": "ASKA公式Fellows感謝祭2025日程",
@@ -68438,7 +68566,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA×Fellows ～感謝祭～",
       "status": "recorded",
       "verification": "primary",
-      "note": "夜公演・映像収録",
+      "note": "夜公演・映像収録 【2025〜2026年記録点検】ファンクラブ限定イベント。2nd、開演19:00。単独ツアーと区別。",
       "sources": [
         {
           "label": "ASKA公式Fellows感謝祭2025日程",
@@ -68476,7 +68604,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
@@ -68497,7 +68625,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
@@ -68534,7 +68662,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
@@ -68555,7 +68683,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA×Fellows ～感謝祭～",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】ファンクラブ限定イベント。開演17:00。単独ツアーと区別。",
       "sources": [
         {
           "label": "ASKA公式Fellows感謝祭2025日程",
@@ -68593,7 +68721,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
@@ -68614,7 +68742,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA×Fellows ～感謝祭～",
       "status": "recorded",
       "verification": "primary",
-      "note": "昼公演",
+      "note": "昼公演 【2025〜2026年記録点検】ファンクラブ限定イベント。1st、開演15:00。単独ツアーと区別。",
       "sources": [
         {
           "label": "ASKA公式Fellows感謝祭2025日程",
@@ -68636,7 +68764,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA×Fellows ～感謝祭～",
       "status": "recorded",
       "verification": "primary",
-      "note": "夜公演",
+      "note": "夜公演 【2025〜2026年記録点検】ファンクラブ限定イベント。2nd、開演19:00。単独ツアーと区別。",
       "sources": [
         {
           "label": "ASKA公式Fellows感謝祭2025日程",
@@ -68658,7 +68786,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA×Fellows ～感謝祭～",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】ファンクラブ限定イベント。開演17:00。単独ツアーと区別。",
       "sources": [
         {
           "label": "ASKA公式Fellows感謝祭2025日程",
@@ -68712,7 +68840,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
@@ -68733,7 +68861,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
@@ -68802,7 +68930,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
@@ -68823,7 +68951,7 @@ window.CA_EVENT_DATA = {
       "title": "八神純子「ヤガ祭り the 7th ～ヤガミグミ Special～」（ASKAシークレットゲスト）",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式年譜に開催・出演記録。ゲスト・フェス出演を通常単独公演と混同しない。",
       "sources": [
         {
           "label": "ASKA公式Biography",
@@ -68840,8 +68968,12 @@ window.CA_EVENT_DATA = {
       "title": "アルバム『Instinto』発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式年譜・発売元情報で発売／配信日を確認。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.universal-music.co.jp/chage/"
+        },
         {
           "label": "Chage公式アルバム一覧",
           "url": "https://chage.jp/discography/chage/album.php"
@@ -68856,7 +68988,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
@@ -68877,8 +69009,12 @@ window.CA_EVENT_DATA = {
       "title": "京都音楽博覧会2025（ASKA出演）",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式年譜に開催・出演記録。ゲスト・フェス出演を通常単独公演と混同しない。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        },
         {
           "label": "ASKA 2025年京都音楽博覧会出演案内",
           "url": "https://diskgarage.com/digaonline/news/221918"
@@ -68896,7 +69032,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
@@ -69013,7 +69149,7 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour2025 Mr.November",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】Chage公式の8公演日程で確認。",
       "sources": [
         {
           "label": "Chage公式「Mr.November」日程",
@@ -69034,7 +69170,7 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour2025 Mr.November",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】Chage公式の8公演日程で確認。",
       "sources": [
         {
           "label": "Chage公式「Mr.November」日程",
@@ -69071,7 +69207,7 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour2025 Mr.November",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】Chage公式の8公演日程で確認。",
       "sources": [
         {
           "label": "Chage公式「Mr.November」日程",
@@ -69092,7 +69228,7 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour2025 Mr.November",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】Chage公式の8公演日程で確認。",
       "sources": [
         {
           "label": "Chage公式「Mr.November」日程",
@@ -69113,7 +69249,7 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour2025 Mr.November",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】Chage公式の8公演日程で確認。",
       "sources": [
         {
           "label": "Chage公式「Mr.November」日程",
@@ -69134,8 +69270,12 @@ window.CA_EVENT_DATA = {
       "title": "氣志團万博2025 ～関東爆音パビリオン～（ASKA出演）",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式年譜に開催・出演記録。ゲスト・フェス出演を通常単独公演と混同しない。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        },
         {
           "label": "ASKA公式：氣志團万博2025 出演",
           "url": "https://www.fellows.tokyo/news/detail/524"
@@ -69153,7 +69293,7 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour2025 Mr.November",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】Chage公式の8公演日程で確認。",
       "sources": [
         {
           "label": "Chage公式「Mr.November」日程",
@@ -69190,7 +69330,7 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour2025 Mr.November",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】Chage公式の8公演日程で確認。",
       "sources": [
         {
           "label": "Chage公式「Mr.November」日程",
@@ -69211,7 +69351,7 @@ window.CA_EVENT_DATA = {
       "title": "ChageLiveTour2025 Mr.November",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】Chage公式の8公演日程で確認。",
       "sources": [
         {
           "label": "Chage公式「Mr.November」日程",
@@ -69248,8 +69388,12 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        },
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
           "url": "https://chage.jp/hosomichi/schedule/archive.php"
@@ -69285,7 +69429,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA Dinner Show 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "ショー開始時刻",
+      "note": "ショー開始時刻 【2025〜2026年記録点検】公式日程確認。ショー開始18:15。各日1回を記録（2023年の2部制を流用しない）。",
       "sources": [
         {
           "label": "ASKA公式Dinner Show 2025",
@@ -69307,8 +69451,12 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        },
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
           "url": "https://chage.jp/hosomichi/schedule/archive.php"
@@ -69328,8 +69476,12 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式公演記録で確認。各日公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/information/live/detail-770.php"
+        },
         {
           "label": "Chage公式「ずっと細道」公演アーカイブ",
           "url": "https://chage.jp/hosomichi/schedule/archive.php"
@@ -69349,7 +69501,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA Dinner Show 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "ショー開始時刻",
+      "note": "ショー開始時刻 【2025〜2026年記録点検】公式日程確認。ショー開始18:30。各日1回を記録（2023年の2部制を流用しない）。",
       "sources": [
         {
           "label": "ASKA公式Dinner Show 2025",
@@ -69371,7 +69523,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA Dinner Show 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "ショー開始時刻",
+      "note": "ショー開始時刻 【2025〜2026年記録点検】公式日程確認。ショー開始17:30。各日1回を記録（2023年の2部制を流用しない）。",
       "sources": [
         {
           "label": "ASKA公式Dinner Show 2025",
@@ -69393,7 +69545,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA Dinner Show 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "ショー開始時刻",
+      "note": "ショー開始時刻 【2025〜2026年記録点検】公式日程確認。ショー開始18:30。各日1回を記録（2023年の2部制を流用しない）。",
       "sources": [
         {
           "label": "ASKA公式Dinner Show 2025",
@@ -69415,7 +69567,7 @@ window.CA_EVENT_DATA = {
       "title": "ASKA Dinner Show 2025",
       "status": "recorded",
       "verification": "primary",
-      "note": "ショー開始時刻",
+      "note": "ショー開始時刻 【2025〜2026年記録点検】公式日程確認。ショー開始17:30。各日1回を記録（2023年の2部制を流用しない）。",
       "sources": [
         {
           "label": "ASKA公式Dinner Show 2025",
@@ -69442,8 +69594,12 @@ window.CA_EVENT_DATA = {
       "prefecture": "大阪府",
       "country": "日本",
       "startTime": "17:00",
-      "note": "1st Stage",
+      "note": "1st Stage 【2025〜2026年記録点検】1stの開演17:00。1日2公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=17458"
+        },
         {
           "label": "Billboard Live公式：公演概要",
           "url": "https://www.billboard-live.com/osaka/show?event_id=ev-20848"
@@ -69463,8 +69619,12 @@ window.CA_EVENT_DATA = {
       "prefecture": "大阪府",
       "country": "日本",
       "startTime": "20:00",
-      "note": "2nd Stage",
+      "note": "2nd Stage 【2025〜2026年記録点検】2ndの開演20:00。1日2公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=17458"
+        },
         {
           "label": "Billboard Live公式：公演概要",
           "url": "https://www.billboard-live.com/osaka/show?event_id=ev-20848"
@@ -69484,8 +69644,12 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都",
       "country": "日本",
       "startTime": "17:00",
-      "note": "1st Stage",
+      "note": "1st Stage 【2025〜2026年記録点検】1stの開演17:00。1日2公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=17458"
+        },
         {
           "label": "Billboard Live公式：公演概要",
           "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-20849"
@@ -69505,8 +69669,12 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都",
       "country": "日本",
       "startTime": "20:00",
-      "note": "2nd Stage",
+      "note": "2nd Stage 【2025〜2026年記録点検】2ndの開演20:00。1日2公演。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=17458"
+        },
         {
           "label": "Billboard Live公式：公演概要",
           "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-20849"
@@ -69591,7 +69759,7 @@ window.CA_EVENT_DATA = {
       "venue": "CLUB-G",
       "prefecture": "岐阜県",
       "country": "日本",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式日程で開催日・会場確認。開催日経過。",
       "sources": [
         {
           "label": "Chage公式／公演会場公式",
@@ -69611,7 +69779,7 @@ window.CA_EVENT_DATA = {
       "venue": "愛知県芸術劇場 小ホール",
       "prefecture": "愛知県",
       "country": "日本",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式日程で開催日・会場確認。開催日経過。",
       "sources": [
         {
           "label": "Chage公式／公演会場公式",
@@ -69632,7 +69800,7 @@ window.CA_EVENT_DATA = {
       "prefecture": "奈良県",
       "country": "日本",
       "startTime": "16:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式日程で開催日・会場確認。開催日経過。",
       "sources": [
         {
           "label": "Chage公式／公演会場公式",
@@ -69670,7 +69838,7 @@ window.CA_EVENT_DATA = {
       "prefecture": "和歌山県",
       "country": "日本",
       "startTime": "16:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式日程で開催日・会場確認。開催日経過。",
       "sources": [
         {
           "label": "Chage公式／公演会場公式",
@@ -69690,7 +69858,7 @@ window.CA_EVENT_DATA = {
       "venue": "Club SWINDLE",
       "prefecture": "秋田県",
       "country": "日本",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式日程で開催日・会場確認。開催日経過。",
       "sources": [
         {
           "label": "Chage公式／公演会場公式",
@@ -69712,7 +69880,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 1,
       "startTime": "18:30",
-      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
+      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band 【2025〜2026年記録点検】開演18:30。藤野浩一指揮／Newherd Special Big Band、特別ゲスト岩崎宏美。",
       "sources": [
         {
           "label": "ASKA公式：公演概要",
@@ -69734,7 +69902,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 2,
       "startTime": "18:30",
-      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
+      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band 【2025〜2026年記録点検】開演18:30。藤野浩一指揮／Newherd Special Big Band、特別ゲスト岩崎宏美。",
       "sources": [
         {
           "label": "ASKA公式：公演概要",
@@ -69756,7 +69924,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 3,
       "startTime": "18:30",
-      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
+      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band 【2025〜2026年記録点検】開演18:30。藤野浩一指揮／Newherd Special Big Band、特別ゲスト岩崎宏美。",
       "sources": [
         {
           "label": "ASKA公式：公演概要",
@@ -69778,7 +69946,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 4,
       "startTime": "18:30",
-      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band",
+      "note": "ゲスト：岩崎宏美／演奏：Newherd Special Big Band 【2025〜2026年記録点検】開演18:30。藤野浩一指揮／Newherd Special Big Band、特別ゲスト岩崎宏美。",
       "sources": [
         {
           "label": "ASKA公式：公演概要",
@@ -69833,7 +70001,7 @@ window.CA_EVENT_DATA = {
       "prefecture": "神奈川県",
       "country": "日本",
       "startTime": "16:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式日程で開催日・会場確認。開催日経過。",
       "sources": [
         {
           "label": "Chage公式／公演会場公式",
@@ -69853,7 +70021,7 @@ window.CA_EVENT_DATA = {
       "venue": "柏PALOOZA",
       "prefecture": "千葉県",
       "country": "日本",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式日程で開催日・会場確認。開催日経過。",
       "sources": [
         {
           "label": "Chage公式／公演会場公式",
@@ -70163,8 +70331,12 @@ window.CA_EVENT_DATA = {
       "prefecture": "宮城県",
       "country": "日本",
       "startTime": "18:30",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式日程で開催日・会場確認。開催日経過。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        },
         {
           "label": "Chage公式／公演会場公式",
           "url": "https://chage.jp/information/live/detail-795.php"
@@ -70249,6 +70421,24 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-804.php"
         }
       ]
+    },
+    {
+      "id": "v18224-2026-04-29-chage-134",
+      "date": "2026-04-29",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式日程で開催日・会場確認。開催日経過。",
+      "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        }
+      ],
+      "prefecture": "埼玉県",
+      "venue": "八木橋百貨店 カトレアホール"
     },
     {
       "id": "v16-0089",
@@ -70382,8 +70572,12 @@ window.CA_EVENT_DATA = {
       "prefecture": "岡山県",
       "country": "日本",
       "startTime": "16:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式日程で開催日・会場確認。開催日経過。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        },
         {
           "label": "Chage公式／公演会場公式",
           "url": "https://chage.jp/information/live/detail-795.php"
@@ -70472,8 +70666,12 @@ window.CA_EVENT_DATA = {
       "prefecture": "兵庫県",
       "country": "日本",
       "startTime": "16:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式日程で開催日・会場確認。開催日経過。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        },
         {
           "label": "Chage公式／公演会場公式",
           "url": "https://chage.jp/information/live/detail-795.php"
@@ -70493,8 +70691,12 @@ window.CA_EVENT_DATA = {
       "prefecture": "滋賀県",
       "country": "日本",
       "startTime": "16:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式日程で開催日・会場確認。開催日経過。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        },
         {
           "label": "Chage公式／公演会場公式",
           "url": "https://chage.jp/information/live/detail-795.php"
@@ -70584,8 +70786,12 @@ window.CA_EVENT_DATA = {
       "prefecture": "茨城県",
       "country": "日本",
       "startTime": "16:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式日程で開催日・会場確認。開催日経過。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        },
         {
           "label": "Chage公式／公演会場公式",
           "url": "https://chage.jp/information/live/detail-795.php"
@@ -70641,7 +70847,7 @@ window.CA_EVENT_DATA = {
       "prefecture": "鹿児島県",
       "country": "日本",
       "startTime": "15:00",
-      "note": "【延期前の予定】地震の影響で開催見送り。振替は2027年1月29日（本データは2026年のみ収録）",
+      "note": "【延期前の予定】地震の影響で開催見送り。振替は2027年1月29日（本データは2026年のみ収録） 【2025〜2026年記録点検】地震の影響で2026年8月1日開催見送り。振替日2027年1月29日（この版には2027年公演は追加しない）。2026年に実施済みとして数えない。",
       "sources": [
         {
           "label": "Chage公式／公演会場公式",
@@ -70681,8 +70887,12 @@ window.CA_EVENT_DATA = {
       "prefecture": "福岡県",
       "country": "日本",
       "startTime": "16:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式日程で開催日・会場確認。開催日経過。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        },
         {
           "label": "Chage公式／公演会場公式",
           "url": "https://chage.jp/hosomichi/schedule/"
@@ -70838,8 +71048,12 @@ window.CA_EVENT_DATA = {
       "status": "released",
       "verification": "primary",
       "releaseTitle": "Ko",
-      "note": "CDアルバム",
+      "note": "CDアルバム 【2025〜2026年記録点検】公式年譜・発売元情報で発売／配信日を確認。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.universal-music.co.jp/chage/news/2026-07-10/"
+        },
         {
           "label": "公式発売・公開案内",
           "url": "https://www.universal-music.co.jp/chage/products/uicz-4711/"
@@ -70962,7 +71176,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 1,
       "startTime": "17:00",
-      "note": "2026年公演初日",
+      "note": "2026年公演初日 【2025〜2026年記録点検】公式発表の2026年日程。開演17:00。日付は終了済み。セットリストは掲載しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -70983,7 +71197,7 @@ window.CA_EVENT_DATA = {
       "prefecture": "愛知県",
       "country": "日本",
       "startTime": "18:00",
-      "note": "スペシャルゲスト：吉田山田",
+      "note": "スペシャルゲスト：吉田山田 【2025〜2026年記録点検】公式日程。スペシャルゲスト：吉田山田。",
       "sources": [
         {
           "label": "Chage公式：公演・ゲスト一覧",
@@ -71020,7 +71234,7 @@ window.CA_EVENT_DATA = {
       "prefecture": "大阪府",
       "country": "日本",
       "startTime": "17:00",
-      "note": "スペシャルゲスト：シシド・カフカ",
+      "note": "スペシャルゲスト：シシド・カフカ 【2025〜2026年記録点検】公式日程。スペシャルゲスト：シシド・カフカ。",
       "sources": [
         {
           "label": "Chage公式：公演・ゲスト一覧",
@@ -71091,7 +71305,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 2,
       "startTime": "17:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式発表の2026年日程。開演17:00。日付は終了済み。セットリストは掲載しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71129,7 +71343,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 3,
       "startTime": "17:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式発表の2026年日程。開演17:00。日付は終了済み。セットリストは掲載しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71150,7 +71364,7 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都",
       "country": "日本",
       "startTime": "17:00",
-      "note": "スペシャルゲスト：早見優",
+      "note": "スペシャルゲスト：早見優 【2025〜2026年記録点検】公式日程。スペシャルゲスト：早見優。",
       "sources": [
         {
           "label": "Chage公式：公演・ゲスト一覧",
@@ -71240,7 +71454,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 4,
       "startTime": "17:30",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式発表の2026年日程。開演17:30。日付は終了済み。セットリストは掲載しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71278,7 +71492,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 5,
       "startTime": "17:30",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式発表の2026年日程。開演17:30。日付は終了済み。セットリストは掲載しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71299,7 +71513,7 @@ window.CA_EVENT_DATA = {
       "prefecture": "福岡県",
       "country": "日本",
       "startTime": "18:00",
-      "note": "スペシャルゲスト：theSoul",
+      "note": "スペシャルゲスト：theSoul 【2025〜2026年記録点検】公式日程。スペシャルゲスト：theSoul。",
       "sources": [
         {
           "label": "Chage公式：公演・ゲスト一覧",
@@ -71353,7 +71567,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 6,
       "startTime": "18:30",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式発表の2026年日程。開演18:30。日付は終了済み。セットリストは掲載しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71375,7 +71589,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 7,
       "startTime": "17:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式発表の2026年日程。開演17:00。日付は終了済み。セットリストは掲載しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71429,7 +71643,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 8,
       "startTime": "18:30",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式発表の2026年日程。開演18:30。日付は終了済み。セットリストは掲載しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71485,7 +71699,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 9,
       "startTime": "18:30",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式発表の2026年日程。開演18:30。日付は終了済み。セットリストは掲載しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71507,7 +71721,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 10,
       "startTime": "17:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式発表の2026年日程。開演17:00。日付は終了済み。セットリストは掲載しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71565,7 +71779,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 11,
       "startTime": "17:30",
-      "note": "青森公演",
+      "note": "青森公演 【2025〜2026年記録点検】公式発表の2026年日程。開演17:30。日付は終了済み。セットリストは掲載しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71587,7 +71801,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 12,
       "startTime": "18:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式発表の2026年日程。開演18:00。日付は終了済み。セットリストは掲載しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71624,8 +71838,12 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都",
       "country": "日本",
       "startTime": "15:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式日程で開催日・会場確認。開催日経過。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/hosomichi/schedule/"
+        },
         {
           "label": "Chage公式／公演会場公式",
           "url": "https://chage.jp/information/live/detail-868.php"
@@ -71646,7 +71864,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 13,
       "startTime": "17:30",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式発表の2026年日程。開演17:30。日付は終了済み。セットリストは掲載しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71688,7 +71906,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 14,
       "startTime": "17:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式発表の2026年日程。開演17:00。日付は終了済み。セットリストは掲載しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71709,8 +71927,12 @@ window.CA_EVENT_DATA = {
       "prefecture": "沖縄県",
       "country": "日本",
       "startTime": "16:00",
-      "note": "",
+      "note": "【2025〜2026年記録点検】公式日程で開催日・会場確認。開催日経過。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/hosomichi/schedule/"
+        },
         {
           "label": "Chage公式／公演会場公式",
           "url": "https://chage.jp/information/live/detail-868.php"
@@ -71781,7 +72003,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 15,
       "startTime": "17:30",
-      "note": "【開催予定・2026年11月17日時点】",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演17:30。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71803,7 +72025,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 16,
       "startTime": "17:00",
-      "note": "【開催予定・2026年11月17日時点】",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演17:00。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71824,8 +72046,12 @@ window.CA_EVENT_DATA = {
       "prefecture": "山梨県",
       "country": "日本",
       "startTime": "16:00",
-      "note": "【開催予定・2026年11月17日時点】 11月17日時点の発表日程",
+      "note": "【開催予定・2026年11月17日時点】 11月17日時点の発表日程 【2025〜2026年記録点検】公式日程で開催日・会場確認。開催予定。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/hosomichi/schedule/"
+        },
         {
           "label": "Chage公式／公演会場公式",
           "url": "https://chage.jp/information/live/detail-868.php"
@@ -71846,7 +72072,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 17,
       "startTime": "18:30",
-      "note": "【開催予定・2026年11月17日時点】",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演18:30。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71868,7 +72094,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 18,
       "startTime": "17:00",
-      "note": "【開催予定・2026年11月17日時点】",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演17:00。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71890,7 +72116,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 19,
       "startTime": "17:00",
-      "note": "【開催予定・2026年11月17日時点】",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演17:00。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71912,7 +72138,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 20,
       "startTime": "18:30",
-      "note": "【開催予定・2026年11月17日時点】",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演18:30。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71934,7 +72160,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 21,
       "startTime": "17:30",
-      "note": "【開催予定・2026年11月17日時点】",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演17:30。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71956,7 +72182,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 22,
       "startTime": "18:00",
-      "note": "【開催予定・2026年11月17日時点】",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演18:00。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -71978,7 +72204,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 23,
       "startTime": "18:00",
-      "note": "【開催予定・2026年11月17日時点】",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演18:00。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -72000,7 +72226,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 24,
       "startTime": "17:00",
-      "note": "【開催予定・2026年11月17日時点】",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演17:00。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -72022,7 +72248,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 25,
       "startTime": "18:30",
-      "note": "【開催予定・2026年11月17日時点】",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演18:30。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -72063,7 +72289,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 26,
       "startTime": "17:00",
-      "note": "【開催予定・2026年11月17日時点】",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演17:00。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -72085,7 +72311,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 27,
       "startTime": "18:30",
-      "note": "【開催予定・2026年11月17日時点】",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演18:30。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -72107,7 +72333,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 28,
       "startTime": "18:30",
-      "note": "【開催予定・2026年11月17日時点】",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演18:30。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -72128,8 +72354,12 @@ window.CA_EVENT_DATA = {
       "prefecture": "神奈川県",
       "country": "日本",
       "startTime": "17:00",
-      "note": "【開催予定・2026年11月17日時点】 1st Stage",
+      "note": "【開催予定・2026年11月17日時点】 1st Stage 【2025〜2026年記録点検】2026年11月17日現在の開催予定。1st開演17:00。2027年の大阪・東京はこの版に含めない。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/information/live/detail-884.php"
+        },
         {
           "label": "Billboard Live公式：横浜公演",
           "url": "https://www.billboard-live.com/yokohama/show?event_id=ev-21745"
@@ -72149,8 +72379,12 @@ window.CA_EVENT_DATA = {
       "prefecture": "神奈川県",
       "country": "日本",
       "startTime": "20:00",
-      "note": "【開催予定・2026年11月17日時点】 2nd Stage",
+      "note": "【開催予定・2026年11月17日時点】 2nd Stage 【2025〜2026年記録点検】2026年11月17日現在の開催予定。2nd開演20:00。2027年の大阪・東京はこの版に含めない。",
       "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://chage.jp/information/live/detail-884.php"
+        },
         {
           "label": "Billboard Live公式：横浜公演",
           "url": "https://www.billboard-live.com/yokohama/show?event_id=ev-21745"
@@ -72171,7 +72405,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 29,
       "startTime": "18:00",
-      "note": "【開催予定・2026年11月17日時点】",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演18:00。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
@@ -72214,5 +72448,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-23"
+  "siteVersion": "1.8.2-24"
 };
