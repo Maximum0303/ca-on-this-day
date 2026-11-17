@@ -1,7 +1,7 @@
 /* 公開用データ。events.jsonと同じ内容を保持 */
 window.CA_EVENT_DATA = {
   "schemaVersion": 1,
-  "notice": "Ver.1.1：2011〜2013年の公式公演・作品発売・関連出来事を追加。延期／中止の予定公演は実施済みと区別し、実施済み公演数には含めません。全時代・全公演・全メディアを網羅するものではありません。",
+  "notice": "2014〜2016年のChage公式記録を追加。2014年ファンミーティング31公演は日ごとの昼夜を記録。2015年ファンミーティングは公式16公演のうち、開催日9日分のみ日付確定（同日複数回の内訳は調査中）。2016年ファンミーティング11公演は開演時間も記録。既存記録を含め、全期間を網羅したものではありません。",
   "lastUpdated": "2026-11-17",
   "events": [
     {
@@ -41398,6 +41398,2733 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ]
+    },
+    {
+      "id": "v12-valentine14",
+      "date": "2014-02-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM愛知「Chage＆カキピーのバレンタイン大作戦!!」特番生放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-2014-nagai-single",
+      "date": "2014-04-10",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『永い一日（会場・通信販売限定CD）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー",
+          "url": "https://www.universal-music.co.jp/chage/release-history/"
+        }
+      ]
+    },
+    {
+      "id": "v12-fc14-001",
+      "date": "2014-04-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2014年31公演の一つ。この日は1回公演として掲載",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "SHIBUYA PLEASURE PLEASURE",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 1
+    },
+    {
+      "id": "v12-fc14-002",
+      "date": "2014-04-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2014年31公演の一つ。この日は1回公演として掲載",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "ボトムライン",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 2
+    },
+    {
+      "id": "v12-fc14-003",
+      "date": "2014-04-16",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2014年31公演の一つ。この日は1回公演として掲載",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "umeda AKASO",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 3
+    },
+    {
+      "id": "v12-fc14-004",
+      "date": "2014-04-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の昼公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "umeda AKASO",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 4,
+      "session": "昼公演"
+    },
+    {
+      "id": "v12-fc14-005",
+      "date": "2014-04-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の夜公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "umeda AKASO",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 5,
+      "session": "夜公演"
+    },
+    {
+      "id": "v12-fc14-006",
+      "date": "2014-04-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の昼公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "SHIBUYA PLEASURE PLEASURE",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 6,
+      "session": "昼公演"
+    },
+    {
+      "id": "v12-fc14-007",
+      "date": "2014-04-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の夜公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "SHIBUYA PLEASURE PLEASURE",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 7,
+      "session": "夜公演"
+    },
+    {
+      "id": "v12-fc14-008",
+      "date": "2014-04-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2014年31公演の一つ。この日は1回公演として掲載",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "長野CLUB JUNK BOX",
+      "country": "日本",
+      "prefecture": "長野県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 8
+    },
+    {
+      "id": "v12-fc14-009",
+      "date": "2014-04-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2014年31公演の一つ。この日は1回公演として掲載",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "GOLDEN PIGS RED STAGE",
+      "country": "日本",
+      "prefecture": "新潟県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 9
+    },
+    {
+      "id": "v12-fc14-010",
+      "date": "2014-05-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の昼公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "PENNY LANE 24",
+      "country": "日本",
+      "prefecture": "北海道",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 10,
+      "session": "昼公演"
+    },
+    {
+      "id": "v12-fc14-011",
+      "date": "2014-05-05",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の夜公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "PENNY LANE 24",
+      "country": "日本",
+      "prefecture": "北海道",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 11,
+      "session": "夜公演"
+    },
+    {
+      "id": "v12-fc14-012",
+      "date": "2014-05-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の昼公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "Rensa",
+      "country": "日本",
+      "prefecture": "宮城県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 12,
+      "session": "昼公演"
+    },
+    {
+      "id": "v12-fc14-013",
+      "date": "2014-05-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の夜公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "Rensa",
+      "country": "日本",
+      "prefecture": "宮城県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 13,
+      "session": "夜公演"
+    },
+    {
+      "id": "v12-fc14-014",
+      "date": "2014-05-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2014年31公演の一つ。この日は1回公演として掲載",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "悠日カフェ",
+      "country": "日本",
+      "prefecture": "栃木県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 14
+    },
+    {
+      "id": "v12-fc14-015",
+      "date": "2014-05-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2014年31公演の一つ。この日は1回公演として掲載",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "広島CLUB QUATTRO",
+      "country": "日本",
+      "prefecture": "広島県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 15
+    },
+    {
+      "id": "v12-fc14-016",
+      "date": "2014-05-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の昼公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "イムズホール",
+      "country": "日本",
+      "prefecture": "福岡県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 16,
+      "session": "昼公演"
+    },
+    {
+      "id": "v12-fc14-017",
+      "date": "2014-05-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の夜公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "イムズホール",
+      "country": "日本",
+      "prefecture": "福岡県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 17,
+      "session": "夜公演"
+    },
+    {
+      "id": "v12-fc14-018",
+      "date": "2014-05-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2014年31公演の一つ。この日は1回公演として掲載",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "郡山Hip Shot Japan",
+      "country": "日本",
+      "prefecture": "福島県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 18
+    },
+    {
+      "id": "v12-fc14-019",
+      "date": "2014-05-29",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2014年31公演の一つ。この日は1回公演として掲載",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "SHIBUYA PLEASURE PLEASURE",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 19
+    },
+    {
+      "id": "v12-fc14-020",
+      "date": "2014-05-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の昼公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "SHIBUYA PLEASURE PLEASURE",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 20,
+      "session": "昼公演"
+    },
+    {
+      "id": "v12-fc14-021",
+      "date": "2014-05-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の夜公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "SHIBUYA PLEASURE PLEASURE",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 21,
+      "session": "夜公演"
+    },
+    {
+      "id": "v12-fc14-022",
+      "date": "2014-06-01",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2014年31公演の一つ。この日は1回公演として掲載",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "Live House 浜松窓枠",
+      "country": "日本",
+      "prefecture": "静岡県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 22
+    },
+    {
+      "id": "v12-fc14-023",
+      "date": "2014-06-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の昼公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "ボトムライン",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 23,
+      "session": "昼公演"
+    },
+    {
+      "id": "v12-fc14-024",
+      "date": "2014-06-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の夜公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "ボトムライン",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 24,
+      "session": "夜公演"
+    },
+    {
+      "id": "v12-fc14-025",
+      "date": "2014-06-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の昼公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "チキンジョージ",
+      "country": "日本",
+      "prefecture": "兵庫県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 25,
+      "session": "昼公演"
+    },
+    {
+      "id": "v12-fc14-026",
+      "date": "2014-06-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の夜公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "チキンジョージ",
+      "country": "日本",
+      "prefecture": "兵庫県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 26,
+      "session": "夜公演"
+    },
+    {
+      "id": "v12-fc14-027",
+      "date": "2014-06-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の昼公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "DIME",
+      "country": "日本",
+      "prefecture": "香川県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 27,
+      "session": "昼公演"
+    },
+    {
+      "id": "v12-fc14-028",
+      "date": "2014-06-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の夜公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "DIME",
+      "country": "日本",
+      "prefecture": "香川県",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 28,
+      "session": "夜公演"
+    },
+    {
+      "id": "v12-fc14-029",
+      "date": "2014-06-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2014年31公演の一つ。この日は1回公演として掲載",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "SHIBUYA PLEASURE PLEASURE",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 29
+    },
+    {
+      "id": "v12-fc14-030",
+      "date": "2014-06-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の昼公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "SHIBUYA PLEASURE PLEASURE",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 30,
+      "session": "昼公演"
+    },
+    {
+      "id": "v12-fc14-031",
+      "date": "2014-06-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting Tour 2014 ～青いハンカチーフを・・・～",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2014年31公演の一つ。同日2回公演の夜公演",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2014.php"
+        },
+        {
+          "label": "Wikipedia｜Chage・昼夜公演一覧",
+          "url": "https://ja.wikipedia.org/wiki/Chage"
+        }
+      ],
+      "venue": "SHIBUYA PLEASURE PLEASURE",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-fanmeeting-2014",
+      "performanceNo": 31,
+      "session": "夜公演"
+    },
+    {
+      "id": "v12-2014-maxism-dvd",
+      "date": "2014-08-20",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『CHAGE PRESENTS MULTI MAX MAXISM IN BUDOKAN（DVD再発売）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "旧VHS/LD作品のDVD化",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー",
+          "url": "https://chage.jp/discography/multi_max/bd/002.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-2014-maxism-live",
+      "date": "2014-08-20",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『MAXISM IN BUDOKAN（ライブ音源配信）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/information/release/detail-3.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-2014-oki-dvd",
+      "date": "2014-08-20",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『CHAGE PRESENTS MULTI MAX DOCUMENT & LIVE 1996-1997 177DAYS Oki doki!（DVD再発売）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "旧VHS作品のDVD化",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー",
+          "url": "https://chage.jp/discography/multi_max/bd/001.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-2014-oki-live",
+      "date": "2014-08-20",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『Oki doki!（ライブ音源配信）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/information/release/detail-3.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-2014-aishiteru-live",
+      "date": "2014-09-05",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『アイシテル（Fan Meeting 2014 ライブ音源配信）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー",
+          "url": "https://www.universal-music.co.jp/chage/release-history/"
+        }
+      ]
+    },
+    {
+      "id": "v12-2014-nagai-live",
+      "date": "2014-09-05",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『永い一日（Fan Meeting 2014 ライブ音源配信）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー",
+          "url": "https://www.universal-music.co.jp/chage/release-history/"
+        }
+      ]
+    },
+    {
+      "id": "v12-equal14-01",
+      "date": "2014-09-11",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2014 ～equal～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー初日",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "Rensa",
+      "country": "日本",
+      "prefecture": "宮城県",
+      "tourId": "chage-equal-2014",
+      "performanceNo": 1
+    },
+    {
+      "id": "v12-equal14-02",
+      "date": "2014-09-16",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2014 ～equal～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "Zepp DiverCity",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-equal-2014",
+      "performanceNo": 2
+    },
+    {
+      "id": "v12-equal14-03",
+      "date": "2014-09-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2014 ～equal～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "広島CLUB QUATTRO",
+      "country": "日本",
+      "prefecture": "広島県",
+      "tourId": "chage-equal-2014",
+      "performanceNo": 3
+    },
+    {
+      "id": "v12-equal14-04",
+      "date": "2014-09-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2014 ～equal～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "ダイアモンドホール",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "tourId": "chage-equal-2014",
+      "performanceNo": 4
+    },
+    {
+      "id": "v12-equal14-05",
+      "date": "2014-09-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2014 ～equal～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "なんばHatch",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "tourId": "chage-equal-2014",
+      "performanceNo": 5
+    },
+    {
+      "id": "v12-equal14-06",
+      "date": "2014-09-26",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2014 ～equal～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "DRUM LOGOS",
+      "country": "日本",
+      "prefecture": "福岡県",
+      "tourId": "chage-equal-2014",
+      "performanceNo": 6
+    },
+    {
+      "id": "v12-equal14-07",
+      "date": "2014-10-02",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2014 ～equal～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "Zepp Nagoya",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "tourId": "chage-equal-2014",
+      "performanceNo": 7
+    },
+    {
+      "id": "v12-equal14-08",
+      "date": "2014-10-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2014 ～equal～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "映像収録を目的としたシューティングライブ",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "EX THEATER ROPPONGI",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-equal-2014",
+      "performanceNo": 8
+    },
+    {
+      "id": "v12-messe14",
+      "date": "2014-10-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "サウンドメッセ in 大阪 2014 YAMAHA SPECIAL LIVE ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "ATCホール",
+      "country": "日本",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "v12-equal14-09",
+      "date": "2014-10-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2014 ～equal～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "シアターBRAVA!",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "tourId": "chage-equal-2014",
+      "performanceNo": 9
+    },
+    {
+      "id": "v12-equal14-10",
+      "date": "2014-10-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "ChageLiveTour2014 ～equal～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "最終公演",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "Zepp Sapporo",
+      "country": "日本",
+      "prefecture": "北海道",
+      "tourId": "chage-equal-2014",
+      "performanceNo": 10
+    },
+    {
+      "id": "v12-2014-equal-live",
+      "date": "2014-11-05",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『equal（ChageLiveTour2014 ライブ音源配信）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー",
+          "url": "https://www.universal-music.co.jp/chage/release-history/"
+        }
+      ]
+    },
+    {
+      "id": "v12-yamaha14",
+      "date": "2014-12-16",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Yamaha Acoustic Mind 2014 ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "Zepp DiverCity",
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v12-xmas14",
+      "date": "2014-12-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Christmas Dinner Show 2014",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "グランドプリンスホテル新高輪",
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v12-yearend14",
+      "date": "2014-12-28",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Year End Dinner Show 2014",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2014.php"
+        }
+      ],
+      "venue": "グランドプリンスホテル新高輪",
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v12-2015-equal-audio",
+      "date": "2015-01-14",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『ChageLiveTour2014 ～equal～（ライブ音源配信）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー",
+          "url": "https://www.universal-music.co.jp/chage/release-history/"
+        }
+      ]
+    },
+    {
+      "id": "v12-2015-equal-video",
+      "date": "2015-01-14",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『ChageLiveTour2014 ～equal～（DVD/Blu-ray）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー",
+          "url": "https://www.universal-music.co.jp/chage/release-history/"
+        }
+      ]
+    },
+    {
+      "id": "v12-fes15-1",
+      "date": "2015-01-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fes 2015（1日目）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "豊洲PIT",
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v12-fes15-2",
+      "date": "2015-01-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fes 2015（2日目）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "豊洲PIT",
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v12-valentine15",
+      "date": "2015-02-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM愛知「Chage＆みぃのバレンタイン大作戦!!」特番生放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-guest-love15",
+      "date": "2015-03-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "LOVE「今日ここ大阪にいるという事」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "サンケイホールブリーゼ",
+      "country": "日本",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "v12-utage-spring15",
+      "date": "2015-03-31",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBS「UTAGE! 春の祭典2時間SP」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-fc15-date-01",
+      "date": "2015-06-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2015 ～57歳はじめての・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "umeda AKASO",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "tourId": "chage-fanmeeting-2015"
+    },
+    {
+      "id": "v12-fc15-date-02",
+      "date": "2015-06-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2015 ～57歳はじめての・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "umeda AKASO",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "tourId": "chage-fanmeeting-2015"
+    },
+    {
+      "id": "v12-fc15-date-03",
+      "date": "2015-06-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2015 ～57歳はじめての・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "広島CLUB QUATTRO",
+      "country": "日本",
+      "prefecture": "広島県",
+      "tourId": "chage-fanmeeting-2015"
+    },
+    {
+      "id": "v12-ongakuno-hi15",
+      "date": "2015-06-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBS「音楽の日2015」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-fc15-date-04",
+      "date": "2015-07-01",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2015 ～57歳はじめての・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "Rensa",
+      "country": "日本",
+      "prefecture": "宮城県",
+      "tourId": "chage-fanmeeting-2015"
+    },
+    {
+      "id": "v12-fc15-date-05",
+      "date": "2015-07-03",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2015 ～57歳はじめての・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "イムズホール",
+      "country": "日本",
+      "prefecture": "福岡県",
+      "tourId": "chage-fanmeeting-2015"
+    },
+    {
+      "id": "v12-fc15-date-06",
+      "date": "2015-07-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2015 ～57歳はじめての・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "SHIBUYA PLEASURE PLEASURE",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-fanmeeting-2015"
+    },
+    {
+      "id": "v12-fc15-date-07",
+      "date": "2015-07-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2015 ～57歳はじめての・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "ダイアモンドホール",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "tourId": "chage-fanmeeting-2015"
+    },
+    {
+      "id": "v12-fc15-date-08",
+      "date": "2015-07-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2015 ～57歳はじめての・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "SHIBUYA PLEASURE PLEASURE",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-fanmeeting-2015"
+    },
+    {
+      "id": "v12-fc15-date-09",
+      "date": "2015-07-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2015 ～57歳はじめての・・・～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "SHIBUYA PLEASURE PLEASURE",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-fanmeeting-2015"
+    },
+    {
+      "id": "v12-2015-hammer-single",
+      "date": "2015-07-15",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『天使がくれたハンマー（配信シングル）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー",
+          "url": "https://www.universal-music.co.jp/chage/release-history/"
+        }
+      ]
+    },
+    {
+      "id": "v12-fns15",
+      "date": "2015-07-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「FNSうたの夏まつり」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-2015-hurray",
+      "date": "2015-09-16",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『hurray!（ミニアルバム）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー",
+          "url": "https://www.universal-music.co.jp/chage/release-history/"
+        }
+      ]
+    },
+    {
+      "id": "v12-melodix15",
+      "date": "2015-09-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ東京「プレミアMelodiX!」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-hammer15-01",
+      "date": "2015-09-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2015 ～天使がくれたハンマー～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "初日",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "日本橋三井ホール",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-hammer-2015",
+      "performanceNo": 1
+    },
+    {
+      "id": "v12-utage-autumn15",
+      "date": "2015-09-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBS「UTAGE! 秋の祭典」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-hammer15-02",
+      "date": "2015-10-07",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2015 ～天使がくれたハンマー～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "PENNY LANE 24",
+      "country": "日本",
+      "prefecture": "北海道",
+      "tourId": "chage-hammer-2015",
+      "performanceNo": 2
+    },
+    {
+      "id": "v12-hammer15-03",
+      "date": "2015-10-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2015 ～天使がくれたハンマー～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "BLUE LIVE HIROSHIMA",
+      "country": "日本",
+      "prefecture": "広島県",
+      "tourId": "chage-hammer-2015",
+      "performanceNo": 3
+    },
+    {
+      "id": "v12-hammer15-04",
+      "date": "2015-10-13",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2015 ～天使がくれたハンマー～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "なんばHatch",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "tourId": "chage-hammer-2015",
+      "performanceNo": 4
+    },
+    {
+      "id": "v12-anthem15",
+      "date": "2015-10-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "クライマックスシリーズ ファイナルステージ 国歌独唱",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "福岡 ヤフオク!ドーム",
+      "country": "日本",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "v12-hammer15-05",
+      "date": "2015-10-15",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2015 ～天使がくれたハンマー～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "Zepp Fukuoka",
+      "country": "日本",
+      "prefecture": "福岡県",
+      "tourId": "chage-hammer-2015",
+      "performanceNo": 5
+    },
+    {
+      "id": "v12-hammer15-06",
+      "date": "2015-10-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2015 ～天使がくれたハンマー～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "Rensa",
+      "country": "日本",
+      "prefecture": "宮城県",
+      "tourId": "chage-hammer-2015",
+      "performanceNo": 6
+    },
+    {
+      "id": "v12-hammer15-07",
+      "date": "2015-10-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2015 ～天使がくれたハンマー～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "Zepp Nagoya",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "tourId": "chage-hammer-2015",
+      "performanceNo": 7
+    },
+    {
+      "id": "v12-hammer15-08",
+      "date": "2015-10-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2015 ～天使がくれたハンマー～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "最終日",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "豊洲PIT",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-hammer-2015",
+      "performanceNo": 8
+    },
+    {
+      "id": "v12-xmas15-1",
+      "date": "2015-12-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage X’mas Dinner Show 2015",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "グランドプリンスホテル新高輪",
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v12-xmas15-2",
+      "date": "2015-12-22",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage X’mas Dinner Show 2015",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "ウェスティンナゴヤキャッスル",
+      "country": "日本",
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "v12-xmas15-3",
+      "date": "2015-12-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage X’mas Dinner Show 2015",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "ハイアットリージェンシー大阪",
+      "country": "日本",
+      "prefecture": "大阪府"
+    },
+    {
+      "id": "v12-yearend15",
+      "date": "2015-12-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Year End Dinner Show 2015 ～夢の大忘年会～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "venue": "グランドプリンスホテル新高輪",
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v12-2016-hammer-video",
+      "date": "2016-01-27",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『Chage Live Tour 2015 ～天使がくれたハンマー～（DVD/Blu-ray）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー",
+          "url": "https://www.universal-music.co.jp/chage/release-history/"
+        }
+      ]
+    },
+    {
+      "id": "v12-valentine16",
+      "date": "2016-02-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "@FM「Chage＆みぃのバレンタイン大作戦」特番生放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-souvenir16",
+      "date": "2016-03-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "SOUVENIR ～騒音の歌姫～ ストーリーソングス・テラー出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "Bunkamura シアターコクーン",
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v12-utage16",
+      "date": "2016-03-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBS「UTAGE 春の祭典!」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-popcon16-1",
+      "date": "2016-04-29",
+      "artist": "Chage",
+      "category": "live",
+      "title": "僕らのポプコンエイジ ～Forever Friends, Forever Cocky Pop～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "府中の森芸術劇場",
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v12-popcon16-2",
+      "date": "2016-05-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "僕らのポプコンエイジ ～Forever Friends, Forever Cocky Pop～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "市川市文化会館",
+      "country": "日本",
+      "prefecture": "千葉県"
+    },
+    {
+      "id": "v12-popcon16-3",
+      "date": "2016-05-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "僕らのポプコンエイジ ～Forever Friends, Forever Cocky Pop～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "さいたま市文化センター",
+      "country": "日本",
+      "prefecture": "埼玉県"
+    },
+    {
+      "id": "v12-utacon16",
+      "date": "2016-05-31",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHK「うたコン」生出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-fc16-01",
+      "date": "2016-06-06",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2016 ～ここがファンミのど真ん中！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "単独回の開催日",
+      "sources": [
+        {
+          "label": "Chage公式Staff memo｜公演日時",
+          "url": "https://chage.jp/staffmemo/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%83%85%E5%A0%B1-5/"
+        }
+      ],
+      "venue": "Sendai PIT",
+      "country": "日本",
+      "prefecture": "宮城県",
+      "startTime": "18:30",
+      "tourId": "chage-fanmeeting-2016",
+      "performanceNo": 1
+    },
+    {
+      "id": "v12-fc16-02",
+      "date": "2016-06-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2016 ～ここがファンミのど真ん中！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1部公演",
+      "sources": [
+        {
+          "label": "Chage公式Staff memo｜公演日時",
+          "url": "https://chage.jp/staffmemo/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%83%85%E5%A0%B1-5/"
+        }
+      ],
+      "venue": "ダイアモンドホール",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "startTime": "15:00",
+      "tourId": "chage-fanmeeting-2016",
+      "performanceNo": 2,
+      "session": "1部"
+    },
+    {
+      "id": "v12-fc16-03",
+      "date": "2016-06-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2016 ～ここがファンミのど真ん中！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2部公演",
+      "sources": [
+        {
+          "label": "Chage公式Staff memo｜公演日時",
+          "url": "https://chage.jp/staffmemo/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%83%85%E5%A0%B1-5/"
+        }
+      ],
+      "venue": "ダイアモンドホール",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "startTime": "18:30",
+      "tourId": "chage-fanmeeting-2016",
+      "performanceNo": 3,
+      "session": "2部"
+    },
+    {
+      "id": "v12-fc16-04",
+      "date": "2016-06-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2016 ～ここがファンミのど真ん中！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1部公演",
+      "sources": [
+        {
+          "label": "Chage公式Staff memo｜公演日時",
+          "url": "https://chage.jp/staffmemo/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%83%85%E5%A0%B1-5/"
+        }
+      ],
+      "venue": "松下IMPホール",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "startTime": "15:00",
+      "tourId": "chage-fanmeeting-2016",
+      "performanceNo": 4,
+      "session": "1部"
+    },
+    {
+      "id": "v12-fc16-05",
+      "date": "2016-06-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2016 ～ここがファンミのど真ん中！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2部公演",
+      "sources": [
+        {
+          "label": "Chage公式Staff memo｜公演日時",
+          "url": "https://chage.jp/staffmemo/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%83%85%E5%A0%B1-5/"
+        }
+      ],
+      "venue": "松下IMPホール",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "startTime": "18:30",
+      "tourId": "chage-fanmeeting-2016",
+      "performanceNo": 5,
+      "session": "2部"
+    },
+    {
+      "id": "v12-fc16-06",
+      "date": "2016-06-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2016 ～ここがファンミのど真ん中！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "単独回の開催日",
+      "sources": [
+        {
+          "label": "Chage公式Staff memo｜公演日時",
+          "url": "https://chage.jp/staffmemo/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%83%85%E5%A0%B1-5/"
+        }
+      ],
+      "venue": "イムズホール",
+      "country": "日本",
+      "prefecture": "福岡県",
+      "startTime": "15:30",
+      "tourId": "chage-fanmeeting-2016",
+      "performanceNo": 6
+    },
+    {
+      "id": "v12-fc16-07",
+      "date": "2016-06-14",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2016 ～ここがファンミのど真ん中！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "単独回の開催日",
+      "sources": [
+        {
+          "label": "Chage公式Staff memo｜公演日時",
+          "url": "https://chage.jp/staffmemo/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%83%85%E5%A0%B1-5/"
+        }
+      ],
+      "venue": "BLUE LIVE HIROSHIMA",
+      "country": "日本",
+      "prefecture": "広島県",
+      "startTime": "18:30",
+      "tourId": "chage-fanmeeting-2016",
+      "performanceNo": 7
+    },
+    {
+      "id": "v12-fc16-08",
+      "date": "2016-06-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2016 ～ここがファンミのど真ん中！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1部公演",
+      "sources": [
+        {
+          "label": "Chage公式Staff memo｜公演日時",
+          "url": "https://chage.jp/staffmemo/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%83%85%E5%A0%B1-5/"
+        }
+      ],
+      "venue": "品川インターシティホール",
+      "country": "日本",
+      "prefecture": "東京都",
+      "startTime": "15:00",
+      "tourId": "chage-fanmeeting-2016",
+      "performanceNo": 8,
+      "session": "1部"
+    },
+    {
+      "id": "v12-fc16-09",
+      "date": "2016-06-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2016 ～ここがファンミのど真ん中！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2部公演",
+      "sources": [
+        {
+          "label": "Chage公式Staff memo｜公演日時",
+          "url": "https://chage.jp/staffmemo/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%83%85%E5%A0%B1-5/"
+        }
+      ],
+      "venue": "品川インターシティホール",
+      "country": "日本",
+      "prefecture": "東京都",
+      "startTime": "18:30",
+      "tourId": "chage-fanmeeting-2016",
+      "performanceNo": 9,
+      "session": "2部"
+    },
+    {
+      "id": "v12-fc16-10",
+      "date": "2016-06-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2016 ～ここがファンミのど真ん中！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1部公演",
+      "sources": [
+        {
+          "label": "Chage公式Staff memo｜公演日時",
+          "url": "https://chage.jp/staffmemo/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%83%85%E5%A0%B1-5/"
+        }
+      ],
+      "venue": "品川インターシティホール",
+      "country": "日本",
+      "prefecture": "東京都",
+      "startTime": "12:30",
+      "tourId": "chage-fanmeeting-2016",
+      "performanceNo": 10,
+      "session": "1部"
+    },
+    {
+      "id": "v12-fc16-11",
+      "date": "2016-06-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Fan Meeting 2016 ～ここがファンミのど真ん中！～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2部公演",
+      "sources": [
+        {
+          "label": "Chage公式Staff memo｜公演日時",
+          "url": "https://chage.jp/staffmemo/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E6%83%85%E5%A0%B1-5/"
+        }
+      ],
+      "venue": "品川インターシティホール",
+      "country": "日本",
+      "prefecture": "東京都",
+      "startTime": "16:00",
+      "tourId": "chage-fanmeeting-2016",
+      "performanceNo": 11,
+      "session": "2部"
+    },
+    {
+      "id": "v12-2016-lovesong-single",
+      "date": "2016-06-22",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『もうひとつのLOVE SONG／NとLの野球帽（配信シングル）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー",
+          "url": "https://www.universal-music.co.jp/chage/release-history/"
+        }
+      ]
+    },
+    {
+      "id": "v12-fns16",
+      "date": "2016-07-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「FNSうたの夏まつり」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-acoustic16",
+      "date": "2016-07-16",
+      "artist": "Chage",
+      "category": "live",
+      "title": "＠Acoustic Party 2016 10th Anniversary ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "紋別市民会館 大ホール",
+      "country": "日本",
+      "prefecture": "北海道"
+    },
+    {
+      "id": "v12-theatron16",
+      "date": "2016-07-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "スターダスト☆レビュー 楽園音楽祭2016 ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "さぬき市野外音楽広場テアトロン",
+      "country": "日本",
+      "prefecture": "香川県"
+    },
+    {
+      "id": "v12-2016-another-love",
+      "date": "2016-08-10",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『Another Love Song（ミニアルバム）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー",
+          "url": "https://www.universal-music.co.jp/chage/release-history/"
+        }
+      ]
+    },
+    {
+      "id": "v12-hmv16-shibuya",
+      "date": "2016-08-11",
+      "artist": "Chage",
+      "category": "other",
+      "title": "「Another Love Song」インストアイベント",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ライブ演奏の有無・内容は未確認のため公演数には含めない",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "HMV渋谷",
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v12-hmv16-fukuoka",
+      "date": "2016-08-13",
+      "artist": "Chage",
+      "category": "other",
+      "title": "「Another Love Song」インストアイベント",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ライブ演奏の有無・内容は未確認のため公演数には含めない",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "HMV福岡",
+      "country": "日本",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "v12-besthit16",
+      "date": "2016-08-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS朝日「ベストヒットUSA」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-kinyo16",
+      "date": "2016-08-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ東京「金曜7時のコンサート」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-melodix16",
+      "date": "2016-08-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ東京「プレミアMelodiX!」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-lovesong16-01",
+      "date": "2016-08-24",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2016 ～もうひとつのLOVE SONG～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ツアー初日",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "Zepp Namba",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "tourId": "chage-lovesong-2016",
+      "performanceNo": 1
+    },
+    {
+      "id": "v12-lovesong16-02",
+      "date": "2016-08-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2016 ～もうひとつのLOVE SONG～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "豊洲PIT",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-lovesong-2016",
+      "performanceNo": 2
+    },
+    {
+      "id": "v12-lovesong16-03",
+      "date": "2016-08-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2016 ～もうひとつのLOVE SONG～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "Zepp Nagoya",
+      "country": "日本",
+      "prefecture": "愛知県",
+      "tourId": "chage-lovesong-2016",
+      "performanceNo": 3
+    },
+    {
+      "id": "v12-sashimeshi16",
+      "date": "2016-09-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "LINE LIVE「さしめし」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-chikyu16",
+      "date": "2016-09-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS日テレ「地球劇場」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-utatte16",
+      "date": "2016-09-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS朝日「歌っていいだろう」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ]
+    },
+    {
+      "id": "v12-lovesong16-04",
+      "date": "2016-09-16",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Live Tour 2016 ～もうひとつのLOVE SONG～",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "追加公演・最終日",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "豊洲PIT",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-lovesong-2016",
+      "performanceNo": 4
+    },
+    {
+      "id": "v12-uhb16",
+      "date": "2016-09-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "みんなのUHB LIVE ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "ニトリ文化ホール",
+      "country": "日本",
+      "prefecture": "北海道"
+    },
+    {
+      "id": "v12-tokairadio16",
+      "date": "2016-09-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "東海ラジオ大感謝祭 2016 公開生放送ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "オアシス21 銀河の広場",
+      "country": "日本",
+      "prefecture": "愛知県"
+    },
+    {
+      "id": "v12-rakuen16",
+      "date": "2016-10-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "スターダスト☆レビュー 楽園音楽祭2016 天童公演 ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "天童市わくわくランド野外ステージ",
+      "country": "日本",
+      "prefecture": "山形県"
+    },
+    {
+      "id": "v12-maeno16",
+      "date": "2016-11-12",
+      "artist": "Chage",
+      "category": "live",
+      "title": "前野健太 9周年記念公演「歌手だ」ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "草月ホール",
+      "country": "日本",
+      "prefecture": "東京都"
+    },
+    {
+      "id": "v12-2016-live-album",
+      "date": "2016-12-14",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『Chage Live Tour 2016 ～もうひとつのLOVE SONG～（ライブアルバム）』発売・配信",
+      "status": "released",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー",
+          "url": "https://www.universal-music.co.jp/chage/release-history/"
+        }
+      ]
+    },
+    {
+      "id": "v12-xmas16-01",
+      "date": "2016-12-18",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage X’mas Dinner Show 2016",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "ホテルニューオータニ博多",
+      "country": "日本",
+      "prefecture": "福岡県",
+      "tourId": "chage-xmas-2016",
+      "performanceNo": 1
+    },
+    {
+      "id": "v12-xmas16-02",
+      "date": "2016-12-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage X’mas Dinner Show 2016",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公演終了後にアフターパーティーを開催",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "グランドプリンスホテル新高輪",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-xmas-2016",
+      "performanceNo": 2
+    },
+    {
+      "id": "v12-xmas16-03",
+      "date": "2016-12-23",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage X’mas Dinner Show 2016",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "グランドプリンスホテル新高輪",
+      "country": "日本",
+      "prefecture": "東京都",
+      "tourId": "chage-xmas-2016",
+      "performanceNo": 3
+    },
+    {
+      "id": "v12-aska-fukuoka-youtube",
+      "date": "2016-12-24",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "ASKAが新曲「FUKUOKA」をYouTubeで公開",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2016年12月24日にブログで公開。映像公開の記録であり、CD・配信シングルの発売日とは区別。",
+      "sources": [
+        {
+          "label": "報道記事｜公開日確認",
+          "url": "https://www.nikkansports.com/entertainment/news/1756494.html"
+        }
+      ]
+    },
+    {
+      "id": "v12-xmas16-04",
+      "date": "2016-12-25",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage X’mas Dinner Show 2016",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "",
+      "sources": [
+        {
+          "label": "参考資料",
+          "url": "https://chage.jp/biography/2016.php"
+        }
+      ],
+      "venue": "ハイアットリージェンシー大阪",
+      "country": "日本",
+      "prefecture": "大阪府",
+      "tourId": "chage-xmas-2016",
+      "performanceNo": 4
     }
   ]
 };
