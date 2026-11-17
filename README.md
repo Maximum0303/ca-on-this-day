@@ -1,37 +1,43 @@
-# 今日はC&Aの何の日？ — 更新データ Ver.0.5
+# 今日はC&Aの何の日？ — 更新データ Ver.0.6
 
-CHAGE and ASKA、Chage、ASKA、MULTI MAXを扱う日めくり歴史カレンダー。既存Ver.0.4の700件を維持し、1990～1992年の記録を追加。
+CHAGE and ASKA・Chage・ASKA・MULTI MAXの歴史カレンダーの更新ファイルです。**通常公演も掲載**し、出典・確認状態を併記します。
 
-## 登録件数（2026-11-17）
+## 更新内容
 
-- **総登録 901件**：ライブ関連830件、作品発売70件、記念日1件。
-- 今回追加：ライブ関連172件（ツアー日程167行＋単独イベント等5件）、作品発売29件。
-- SEE YA!! 1990-1991：61行（公式本文では全国57公演と表記）。
-- SAY YES 1991-1992：58行（公式本文では全国54公演と表記。1992年5月の振替日程を含む）。
-- BIG TREE 1992：30行。
-- MULTI MAX WINDY ROAD 1991：12行。
-- MULTI MAX MAX TOOL 1992：6行。
-- FC関連・LIVE COMMUNICATION・沖縄ファンイベント：5件。
+- **総登録 1043件**（ライブ関連 954件、作品発売 88件、記念日 1件）
+- 既存901件を維持し、新たに142件追加（ライブ124件、作品発売18件）。
+- 1993 SAVE THE CHILDREN：2件
+- 1994 ASIAN TOUR：5件
+- 1994 MULTI MAX Well：16件
+- 1995 PREVIEW：1件
+- 1995-1996 MISSION IMPOSSIBLE：60件
+- 1995-1996 ASIAN MISSION：5件
+- 1996-1997 MULTI MAX Oki doki：11件
+- 1997 ASKA ID：22件
+- 1992 延期予定：2件
+- 追加作品：18件
 
-## 出典と要確認事項
+## 注意点・照合待ち
 
-- [CHAGE and ASKA公式History（1990～1999）](https://www.chage-aska.net/history/1990.php)
-- [SEE YA!! 公演日程（archives wiki）](https://w.atwiki.jp/canda/pages/421.html)
-- [SAY YES 公演日程（archives wiki）](https://w.atwiki.jp/canda/pages/422.html)
-- [BIG TREE 公演日程（archives wiki）](https://w.atwiki.jp/canda/pages/423.html)
-- 公式Historyの **ツアー公演数表記と、掲載されている日程の行数が一致しません**。この更新では、カレンダーの網羅性を維持するため掲載日程を登録しています。未確認のまま「全61公演」「全58公演」と断定しないでください。各日の実施状況を個別照合する必要があります。
-- SAY YESの1992年5月14日・15日は「振替公演」と明記。公式本文の「1992年1月29日終了」との関係は要確認です。
-- 1990年12月4日はSEE YA!!とLIVE COMMUNICATION'90双方に掲載があるため、同会場の独立公演として二重登録しないよう要照合。同じイベント名で重ねて登録せず、SEE YA!!公演側の備考で記録。
-- 追加した日程は公式の開催地詳細に基づくものです。実施の一次証拠（チケット・会報・当時の資料）の全件確認は未完了です。
-- 出来事が表示されない日は「実際に何も起きなかった」という意味ではありません。
+- 1992年1月10・11日の鹿児島公演は延期予定日として追加（開催済みに含めない）。5月14・15日振替公演への注記を追加。
+- 1994年5月8日シンガポール公演は公式本文の5公演と外部日程表に基づく補完。公式の個別欄には掲載がなく、照合待ち。
+- 1996年1月6日大阪城ホール公演は公式の60公演という集計および補助資料から補完。公式の個別欄には掲載なし。
+- 1995年11月11日の台北公演は同日の上海イベント出演の公式本文と整合性確認待ち。
+- 1991～1992年のSEE YA!!・SAY YESの公式公演数表記との相違は引き続き保留。
 
 ## GitHubへの反映
 
-1. 本ZIPを展開します。
-2. `data/` フォルダーを開き、GitHubリポジトリの `data/` 直下に `events.js`、`events.json`、`events.csv` を上書きアップロードしてコミットします。
-3. リポジトリのトップで `README.md` を上書きアップロードします。
-4. 公開サイトを再読み込みして収録件数を確認します。`data/events.js` が実際の表示に使用されます。
+1. `data/events.js`, `data/events.json`, `data/events.csv` を既存の `data/` フォルダーに上書きアップロード。
+2. `README.md` をリポジトリ直下に上書きアップロード。
+3. Commit changes。トップページの `index.html` / `app.js` は変更不要です。
+4. 管理画面（`admin.html`）は一般向けに公開しないでください。オフラインでの編集・ファイル書き出し用です。
 
-## 運用上の注意
+## 主な参照先
 
-このZIPは既存の記録を保持している更新パッケージです。ただし、GitHub上でVer.0.4以降にユーザーが独自登録した内容がある場合、上書き前にマージしてください。公開サイトに `admin.html` の編集内容を直接反映する機能はありません。
+- [CHAGE and ASKA公式History（1990～1999）](https://www.chage-aska.net/history/1990.php)
+- [ladomi.netコンサート一覧](https://ca.ladomi.net/live_ca)
+- [Wikipedia CHAGE and ASKAのコンサート一覧](https://ja.wikipedia.org/wiki/CHAGE_and_ASKAのコンサート一覧)
+- [CHAGE and ASKA関連Wiki『1994年コンサート』](https://w.atwiki.jp/cavc/pages/83.html)
+- [CHAGE and ASKA関連Wiki『1995〜1996年ツアー』](https://w.atwiki.jp/cavc/pages/404.html)
+
+非公式ファン制作物です。公開元の情報を尊重し、一次資料照合が未完了の内容を確定情報と誤認させないよう扱ってください。
