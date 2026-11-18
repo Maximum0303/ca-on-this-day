@@ -56,8 +56,14 @@
         <label><span>名義</span><select id="artist-filter"><option value="all">すべて</option><option>CHAGE and ASKA</option><option>Chage</option><option>ASKA</option><option>MULTI MAX</option></select></label>
         <label><span>分類</span><select id="category-filter"><option value="all">すべて</option><option value="live">ライブ</option><option value="release">作品発売</option><option value="media">テレビ・ラジオ</option><option value="milestone">記録・記念日</option><option value="other">その他</option></select></label>
         <label><span>年代</span><select id="decade-filter"><option value="all">すべて</option><option value="1970">1970年代</option><option value="1980">1980年代</option><option value="1990">1990年代</option><option value="2000">2000年代</option><option value="2010">2010年代</option><option value="2020">2020年代</option></select></label>
+        <!-- UX_PATCH_V18238: 追加検索フィルター -->
+        <label><span>西暦年</span><select id="year-filter"><option value="all">すべての年</option></select></label>
+        <label><span>記録の状態</span><select id="status-filter"><option value="all">すべて</option><option value="recorded">公演・放送済み</option><option value="scheduled">開催予定</option><option value="postponed">延期</option><option value="cancelled">中止</option><option value="released">発売済み</option><option value="unknown">その他・未設定</option></select></label>
+        <label><span>確認区分</span><select id="verification-filter"><option value="all">すべて</option><option value="primary">一次資料確認</option><option value="secondary">二次資料確認</option><option value="unknown">未確認・未設定</option></select></label>
+        <label><span>表示順</span><select id="sort-filter"><option value="asc">古い順</option><option value="desc">新しい順</option></select></label>
       </div>
-      <div class="results-toolbar"><span id="results-count" aria-live="polite"></span><button id="reset-filters" type="button" class="text-button">条件をクリア</button></div>
+      <details class="browse-help"><summary>検索と表示の使い方</summary><p>キーワードを空白で区切ると、すべての単語を含む記録を探せます。年代と西暦年は併用できます。資料の確認区分は、記録全体の正確性を保証するものではありません。</p><p>日付から「同じ日付の記録をすべて見る」を押すと、ほかの絞り込み条件を解除して表示します。個々の記録は「この記録を開く」から直接共有できます。</p></details>
+      <div class="results-toolbar"><span id="results-count" aria-live="polite"></span><div class="result-actions"><button id="export-results" type="button" class="text-button">絞り込み結果をCSV保存</button><button id="reset-filters" type="button" class="text-button">条件をクリア</button></div></div>
       <div id="results" class="results"></div>
       <div class="load-more-wrap"><button id="load-more" type="button" class="btn btn-ghost" hidden>さらに表示する</button></div>
     </section>
@@ -77,7 +83,7 @@
     var version=archive.siteVersion||archive.version||'1.8.2';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.1.8.2-38 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();
