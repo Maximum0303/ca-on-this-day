@@ -1,0 +1,43 @@
+/* CA HISTORY CALENDAR — Ver.1.8.2-39, presentation only */
+.day-btn.has-events::after{display:none} /* numerical counter replaces the old dot */
+.day-btn{padding-bottom:9px;isolation:isolate}
+.ca39-day-count{display:block;position:absolute;right:2px;bottom:0;min-width:15px;border-radius:6px;padding:0 2px;background:rgba(232,188,115,.2);color:var(--gold-light,#f8e2ba);font-size:10px;font-weight:750;line-height:1.4;font-variant-numeric:tabular-nums}
+.day-btn.is-selected .ca39-day-count{background:var(--gold,#e8bc73);color:#172440}
+.ca39-day-list{display:grid;gap:12px;min-width:0}
+.ca39-day-toolbar{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:12px;position:sticky;top:0;z-index:2;padding:8px 0;background:#172440;border-bottom:1px solid var(--border)}
+.ca39-day-toolbar label{display:grid;gap:4px;font-size:11px;color:var(--muted,#b3c0d2)}
+.ca39-day-toolbar select{max-width:100%;width:100%;background:#0e1c33;color:var(--ink,#fff);border:1px solid var(--border);border-radius:8px;min-height:36px;padding:4px 8px;font-size:12px}
+.ca39-day-match{color:var(--muted);font-size:11px;margin:0}
+.ca39-day-card{padding:14px;background:rgba(0,0,0,.09);border:1px solid var(--border);border-radius:12px;min-width:0}
+.ca39-day-card h4{margin:7px 0 4px;font-size:14px;line-height:1.6;overflow-wrap:anywhere}
+.ca39-day-meta{display:flex;gap:6px;flex-wrap:wrap;align-items:center;font-size:10px;color:#c5d0df}
+.ca39-day-meta span{background:rgba(255,255,255,.055);border-radius:4px;padding:1px 6px}
+.ca39-day-meta .ca39-day-year{font-weight:750;color:var(--gold-light,#f8e2ba)}
+.ca39-venue{margin:3px 0 6px;color:var(--muted);font-size:12px;overflow-wrap:anywhere}
+.ca39-day-flags{display:flex;gap:7px;flex-wrap:wrap;color:#d0d8e6;font-size:10px;margin:6px 0}
+.ca39-day-flags span{border:1px solid var(--border);padding:1px 6px;border-radius:6px}
+.ca39-day-note{font-size:11px;line-height:1.8;white-space:pre-wrap;overflow-wrap:anywhere;color:var(--muted)}
+.ca39-note{font-size:11px;color:var(--muted);margin:8px 0}.ca39-note summary{cursor:pointer;color:var(--gold-light)}.ca39-note p{white-space:pre-wrap;overflow-wrap:anywhere}
+.ca39-day-actions,.ca39-relationships{display:flex;align-items:center;flex-wrap:wrap;gap:7px;margin-top:10px}
+.ca39-day-actions a,.ca39-related,.ca39-more,.ca39-dialog-close{border:1px solid rgba(232,188,115,.3);background:rgba(232,188,115,.06);color:var(--gold-light,#f8e2ba);padding:6px 9px;border-radius:8px;text-decoration:none;font-size:11px;line-height:1.6}
+.ca39-related{cursor:pointer}.ca39-more{cursor:pointer;width:100%;text-align:center;padding:10px;margin-top:4px}
+.ca39-day-actions a:hover,.ca39-related:hover,.ca39-more:hover,.ca39-dialog-close:hover{background:rgba(232,188,115,.16);border-color:var(--gold)}
+.ca39-record-details{margin-top:13px;border-top:1px solid var(--border);padding-top:9px;color:var(--muted)}
+.ca39-record-details summary{cursor:pointer;font-size:12px;color:var(--gold-light)}
+.ca39-record-details dl{display:grid;grid-template-columns:minmax(82px,.28fr) 1fr;margin:10px 0 6px;font-size:12px}
+.ca39-record-details dt,.ca39-record-details dd{margin:0;padding:5px 7px;border-bottom:1px solid var(--border);overflow-wrap:anywhere}
+.ca39-record-details dt{color:#cad4e1}.ca39-source-inline{display:flex;gap:12px;flex-wrap:wrap;font-size:12px;margin:10px 0}
+#ca39-related-dialog{color:var(--ink,#fff);width:min(760px,calc(100% - 24px));max-height:min(85dvh,850px);padding:22px;border-radius:16px;border:1px solid rgba(232,188,115,.4);background:#132039;box-shadow:0 20px 80px #000b;overscroll-behavior:contain}
+#ca39-related-dialog::backdrop{background:rgba(0,0,0,.76);backdrop-filter:blur(3px)}
+.ca39-modal-head{display:flex;justify-content:space-between;align-items:start;gap:12px}.ca39-modal-head p{color:var(--gold);font-size:9px;letter-spacing:.15em;margin:0}
+.ca39-modal-head h2{font-size:21px;line-height:1.5;margin:3px 0 10px}
+#ca39-dialog-subtitle{font-size:12px;color:var(--muted);margin:0 0 12px;overflow-wrap:anywhere}
+.ca39-modal-item{display:grid;grid-template-columns:90px 1fr;gap:12px;border-top:1px solid var(--border);padding:12px 0;font-size:12px}
+.ca39-modal-item time{color:var(--gold-light);font-variant-numeric:tabular-nums}
+.ca39-modal-item strong{display:block;line-height:1.55;overflow-wrap:anywhere}
+.ca39-modal-item p{color:var(--muted);margin:3px 0;overflow-wrap:anywhere}
+.ca39-modal-item small{display:block;color:var(--muted);margin-bottom:5px}
+.ca39-modal-bottom{display:flex;gap:10px;margin-top:15px}.ca39-close-button{margin-left:auto}.ca39-modal-bottom .ca39-more{width:auto;flex:1}
+@media(max-width:700px){.day-btn{min-height:40px;touch-action:manipulation}.ca39-day-toolbar{position:static}.day-events{max-height:62vh;scrollbar-gutter:stable}.day-panel{min-height:0}.ca39-day-card{padding:12px}.ca39-modal-item{grid-template-columns:1fr;gap:2px}#ca39-related-dialog{padding:15px;max-height:90dvh}.ca39-record-details dl{grid-template-columns:95px 1fr}}
+@media(max-width:380px){.ca39-day-toolbar{gap:6px}.ca39-day-count{right:0;font-size:9px}.ca39-day-actions{gap:5px}}
+@media(prefers-reduced-motion:reduce){#ca39-related-dialog::backdrop{backdrop-filter:none}}
