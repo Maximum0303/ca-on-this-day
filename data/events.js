@@ -1,4 +1,4 @@
-/* 公開用データ。events.jsonと同じ内容を保持 */
+/* 今日はC&Aの何の日？｜公開用データ */
 window.CA_EVENT_DATA = {
   "schemaVersion": 1,
   "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2026年11月17日時点の開催予定は備考に【開催予定】と表示し、延期・中止の予定を実施済みと混同しないでください。",
@@ -32658,13 +32658,17 @@ window.CA_EVENT_DATA = {
       "artist": "CHAGE and ASKA",
       "category": "other",
       "title": "ASIAN TOUR NO DOUBT 台北公演中止（開催予定日）",
-      "status": "recorded",
+      "status": "canceled",
       "verification": "secondary",
       "note": "台北市立体育場で予定されていたが、1999年の台湾大地震の影響で中止。これは公演「実施」記録ではない。非公式ページの一部には開催とする矛盾した記述もあるため、当時の公式告知の原本による照合は保留。",
       "sources": [
         {
           "label": "参考資料（非公式）",
           "url": "https://w.atwiki.jp/cavc/pages/419.html"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://w.atwiki.jp/cavc/pages/419.html#id_c1741941"
         }
       ],
       "venue": "台北市立体育場",
@@ -36738,9 +36742,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://www.kazumasaoda.com/"
         }
       ],
-      "country": "日本"
+      "country": "日本",
+      "venue": "名古屋国際会議場 センチュリーホール"
     },
     {
       "id": "media-v18212-2002-013",
@@ -44701,9 +44710,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://ja.wikipedia.org/wiki/Ap_bank_fes_%2708"
         }
       ],
-      "country": "日本"
+      "country": "日本",
+      "venue": "つま恋多目的広場"
     },
     {
       "id": "live-extra-2008-yuzawa-music-01",
@@ -44718,9 +44732,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E5%B1%B1%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%88%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4"
         }
       ],
-      "country": "日本"
+      "country": "日本",
+      "venue": "加山キャプテンコーストスキー場"
     },
     {
       "id": "live-extra-2008-oiso-01",
@@ -45185,10 +45204,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://news.yahoo.co.jp/articles/9f7d999bcddf288f0e0f16ba5080a261977f547d"
         }
       ],
       "country": "日本",
-      "prefecture": "大阪府"
+      "prefecture": "大阪府",
+      "venue": "大阪国際会議場（グランキューブ大阪）大ホール"
     },
     {
       "id": "live-chage-aishiteru-2008-009",
@@ -47455,10 +47479,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "公式資料",
           "url": "https://chage.jp/biography/2009.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://www.fmsaga.co.jp/"
         }
       ],
       "prefecture": "佐賀県",
-      "country": "日本"
+      "country": "日本",
+      "venue": "佐賀城本丸歴史館"
     },
     {
       "id": "release-v18216-2009-006",
@@ -48196,10 +48225,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://www.kimurakan.com/"
         }
       ],
       "country": "日本",
-      "prefecture": "広島県"
+      "prefecture": "広島県",
+      "venue": "NTTクレドホール"
     },
     {
       "id": "live-extra-2010-kan-guests-02",
@@ -48214,10 +48248,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://www.kimurakan.com/"
         }
       ],
       "country": "日本",
-      "prefecture": "福岡県"
+      "prefecture": "福岡県",
+      "venue": "Zepp Fukuoka"
     },
     {
       "id": "live-extra-2010-kan-guests-03",
@@ -48232,10 +48271,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://www.kimurakan.com/"
         }
       ],
       "country": "日本",
-      "prefecture": "大阪府"
+      "prefecture": "大阪府",
+      "venue": "Zepp Osaka"
     },
     {
       "id": "live-extra-2010-astra-national-anthem-01",
@@ -49382,9 +49426,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://barks.jp/news/652274/"
         }
       ],
-      "country": "日本"
+      "country": "日本",
+      "venue": "SHIBUYA-AX"
     },
     {
       "id": "live-v11-chage-earth-2011-002",
@@ -50133,10 +50182,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://www.sonymusic.co.jp/artist/ochugen/info/367516"
         }
       ],
       "prefecture": "北海道",
-      "country": "日本"
+      "country": "日本",
+      "venue": "札幌芸術の森 野外ステージ"
     },
     {
       "id": "v11-kamakura-2011",
@@ -50916,10 +50970,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2012.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://cocolo.jp/service/Homepage/index/7190?offset=314"
         }
       ],
       "prefecture": "大阪府",
-      "country": "日本"
+      "country": "日本",
+      "venue": "umeda AKASO"
     },
     {
       "id": "live-v11-chage-live-2012-001",
@@ -52636,7 +52695,7 @@ window.CA_EVENT_DATA = {
       "artist": "CHAGE and ASKA",
       "category": "milestone",
       "title": "スペシャルライブ2013「On Your Mark」中止発表",
-      "status": "recorded",
+      "status": "canceled",
       "verification": "primary",
       "note": "開催できなかった3公演を別途中止記録として登録。2013年8月に予定していた代々木の全3公演は開催されず、12月12日に中止を発表。予定公演は「cancelled」を維持する。",
       "sources": [
@@ -57740,10 +57799,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2018.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://www.livefans.jp/events/941221"
         }
       ],
       "prefecture": "愛知県",
-      "country": "日本"
+      "country": "日本",
+      "venue": "矢場公園"
     },
     {
       "id": "media-v18230-2018-05-14-chage-001",
@@ -59518,9 +59582,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2019.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://www.livefans.jp/events/1043455"
         }
       ],
-      "country": "日本"
+      "country": "日本",
+      "venue": "昭和女子大学 人見記念講堂"
     },
     {
       "id": "v13-aska19-made-in-009",
@@ -60171,10 +60240,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2019.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://nayoro-kankou.com/top/event/tesshi-festival/"
         }
       ],
       "prefecture": "北海道",
-      "country": "日本"
+      "country": "日本",
+      "venue": "天塩川河川敷特設会場"
     },
     {
       "id": "media-v18230-2019-08-03-chage-001",
@@ -60607,9 +60681,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2019.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://shanghai.guidebook.jp/tourist-spot/entertainment/concerthall/oriental-art-center"
         }
       ],
-      "country": "中国"
+      "country": "中国",
+      "venue": "上海東方芸術中心"
     },
     {
       "id": "v13-release-036",
@@ -60758,7 +60837,7 @@ window.CA_EVENT_DATA = {
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
       "verification": "primary",
-      "note": "実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
+      "note": "実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。公演番号1→5。",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
@@ -60799,7 +60878,7 @@ window.CA_EVENT_DATA = {
       "title": "billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）",
       "status": "canceled",
       "verification": "primary",
-      "note": "開催されていない予定。開催済み公演数に含めない／ASKA急性咽頭炎で延期、後に振替も中止 【2019〜2020年公式点検】急性咽頭炎による延期。振替日3月13日→4月22日→6月19日も実施されず、後に中止決定。",
+      "note": "開催されていない予定。開催済み公演数に含めない／ASKA急性咽頭炎で延期、後に振替も中止 【2019〜2020年公式点検】急性咽頭炎による延期。振替日3月13日→4月22日→6月19日も実施されず、後に中止決定。公演番号1→6。",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
@@ -60882,7 +60961,7 @@ window.CA_EVENT_DATA = {
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
       "verification": "primary",
-      "note": "実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
+      "note": "実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。公演番号2→7",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
@@ -60923,7 +61002,7 @@ window.CA_EVENT_DATA = {
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
       "verification": "primary",
-      "note": "実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
+      "note": "実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。公演番号3→8",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
@@ -60948,7 +61027,7 @@ window.CA_EVENT_DATA = {
       "title": "billboard classics ASKA premium ensemble concert -higher ground-",
       "status": "recorded",
       "verification": "primary",
-      "note": "実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。",
+      "note": "実施済み（2019年分4公演は登録済み） 【2019〜2020年公式点検】実施済み。2019〜2020年の同ツアー全12実施公演のうちの1公演。公演番号4→9",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
@@ -61127,7 +61206,7 @@ window.CA_EVENT_DATA = {
       "title": "billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）",
       "status": "canceled",
       "verification": "primary",
-      "note": "開催されていない予定。開催済み公演数に含めない／1月6日の振替予定。感染症の影響で中止 【2019〜2020年公式点検】1月6日公演の振替予定日。再延期し、実施されず。",
+      "note": "開催されていない予定。開催済み公演数に含めない／1月6日の振替予定。感染症の影響で中止 【2019〜2020年公式点検】1月6日公演の振替予定日。再延期し、実施されず。公演番号2→14",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
@@ -61152,7 +61231,7 @@ window.CA_EVENT_DATA = {
       "title": "billboard classics ASKA premium ensemble concert -higher ground-（開催に至らなかった予定）",
       "status": "canceled",
       "verification": "primary",
-      "note": "開催されていない予定。開催済み公演数に含めない／特別公演予定。感染症の影響で中止 【2019〜2020年公式点検】特別公演の当初予定日。4月27日→6月23日に延期、後に中止決定。",
+      "note": "開催されていない予定。開催済み公演数に含めない／特別公演予定。感染症の影響で中止 【2019〜2020年公式点検】特別公演の当初予定日。4月27日→6月23日に延期、後に中止決定。公演番号3→15",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
@@ -64322,8 +64401,13 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2022.php"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://kawashimakeiji.fanpla.jp/"
         }
-      ]
+      ],
+      "venue": "紀南文化会館大ホール"
     },
     {
       "id": "v14-aska-2022-encore-011",
@@ -64458,9 +64542,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "主催・アーティスト公式資料",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://classics-festival.com/rc/performance/renaissance-classics-tokyo-symphonic-wave-2022/"
         }
       ],
-      "prefecture": "東京都"
+      "prefecture": "東京都",
+      "venue": "東京文化会館 大ホール"
     },
     {
       "id": "v14-chage2022-beatles-talk",
@@ -64507,9 +64596,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "主催・アーティスト公式資料",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://taro-hakase.com/blogs/live_info/ongakusai2022"
         }
       ],
-      "prefecture": "東京都"
+      "prefecture": "東京都",
+      "venue": "明治神宮"
     },
     {
       "id": "v14-release-020",
@@ -64756,7 +64850,8 @@ window.CA_EVENT_DATA = {
           "url": "https://ppt.or.jp/concerts/aska-the-eternal-hour/"
         }
       ],
-      "prefecture": "東京都"
+      "prefecture": "東京都",
+      "venue": "東京オペラシティ コンサートホール"
     },
     {
       "id": "v14-media-ch22-005",
@@ -64926,9 +65021,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "主催・アーティスト公式資料",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://yokooto.jp/program/22114/"
         }
       ],
-      "prefecture": "神奈川県"
+      "prefecture": "神奈川県",
+      "venue": "パシフィコ横浜 国立大ホール"
     },
     {
       "id": "v14-media-ch22-010",
@@ -64991,9 +65091,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "主催・アーティスト公式資料",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://www.comefes.net/2022/"
         }
       ],
-      "prefecture": "新潟県"
+      "prefecture": "新潟県",
+      "venue": "東山ファミリーランド"
     },
     {
       "id": "v14-chage2022-phil",
@@ -65591,7 +65696,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Billboard Live “64 to 65”",
       "status": "recorded",
       "verification": "primary",
-      "note": "2022年末から続く東京公演・第1ステージ（開演時刻未確認）",
+      "note": "2022年末から続く東京公演・第1ステージ（開演時刻未確認）公演番号1→5",
       "sources": [
         {
           "label": "Chage公式Discography",
@@ -65616,11 +65721,15 @@ window.CA_EVENT_DATA = {
       "title": "Chage Billboard Live “64 to 65”",
       "status": "recorded",
       "verification": "primary",
-      "note": "2022年末から続く東京公演・第2ステージ（開演時刻未確認）",
+      "note": "2022年末から続く東京公演・第2ステージ（開演時刻未確認）公演番号2→6",
       "sources": [
         {
           "label": "Chage公式Discography",
           "url": "https://chage.jp/discography/"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
       "country": "日本",
@@ -65929,10 +66038,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式Biography",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://abema.tv/channels/fighting-sports/slots/8jABBzja1xKyxj"
         }
       ],
       "country": "日本",
-      "prefecture": "東京都"
+      "prefecture": "東京都",
+      "venue": "国立代々木競技場 第二体育館"
     },
     {
       "id": "v15-0038",
@@ -65968,8 +66082,13 @@ window.CA_EVENT_DATA = {
         {
           "label": "主催・アーティスト公式資料",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://abema.tv/channels/fighting-sports/slots/8jABBzja1xKyxj"
         }
-      ]
+      ],
+      "venue": "国立代々木競技場 第二体育館"
     },
     {
       "id": "v15-0004",
@@ -66430,10 +66549,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式Biography",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://luckyfes.com/"
         }
       ],
       "country": "日本",
-      "prefecture": "茨城県"
+      "prefecture": "茨城県",
+      "venue": "国営ひたち海浜公園"
     },
     {
       "id": "v18223-2023-07-15-aska-024",
@@ -66921,10 +67045,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式Biography",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://www.aubade.or.jp/new_event/mid_hall/aubade-acoustic-wave/"
         }
       ],
       "country": "日本",
-      "prefecture": "富山県"
+      "prefecture": "富山県",
+      "venue": "オーバード・ホール 中ホール"
     },
     {
       "id": "v18223-2023-09-02-aska-025",
@@ -67175,10 +67304,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式Biography",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://www.nipponbudokan.or.jp/"
         }
       ],
       "country": "日本",
-      "prefecture": "東京都"
+      "prefecture": "東京都",
+      "venue": "日本武道館"
     },
     {
       "id": "v18223-2023-10-03-aska-026",
@@ -67193,8 +67327,13 @@ window.CA_EVENT_DATA = {
         {
           "label": "主催・アーティスト公式資料",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://www.nipponbudokan.or.jp/"
         }
-      ]
+      ],
+      "venue": "日本武道館"
     },
     {
       "id": "v15-0041",
@@ -68170,9 +68309,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式Biography",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://singliketalking.jp/"
         }
       ],
-      "country": "日本"
+      "country": "日本",
+      "venue": "オリックス劇場"
     },
     {
       "id": "media-v18229-2024-05-31-chage-001",
@@ -68227,9 +68371,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式Biography",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://www.sawanohiroyuki.com/"
         }
       ],
-      "country": "日本"
+      "country": "日本",
+      "venue": "NHKホール"
     },
     {
       "id": "media-v18229-2024-06-06-chage-001",
@@ -71411,10 +71560,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography（2025）",
           "url": "https://chage.jp/biography/"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://www.musiclifeclub.com/news/20250509_04.html"
         }
       ],
       "country": "日本",
-      "prefecture": "東京都"
+      "prefecture": "東京都",
+      "venue": "Rock Bar BAUHAUS"
     },
     {
       "id": "v15-0300",
@@ -71904,10 +72058,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography（2025）",
           "url": "https://chage.jp/biography/"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://s-d-r.jp/schedule/%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B7%E3%83%86%E3%82%A3%E3%81%BE%E3%81%A1%E3%81%B3%E3%82%89%E3%81%8D%EF%BC%92%EF%BC%90%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%97%E3%83%AC%E3%82%A4-3/"
         }
       ],
       "country": "日本",
-      "prefecture": "福岡県"
+      "prefecture": "福岡県",
+      "venue": "照葉シアター"
     },
     {
       "id": "v15-0147",
@@ -71966,10 +72125,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式Biography（2025）",
           "url": "https://chage.jp/biography/"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://s-d-r.jp/schedule/%E3%82%A2%E3%82%A4%E3%83%A9%E3%83%B3%E3%83%89%E3%82%B7%E3%83%86%E3%82%A3%E3%81%BE%E3%81%A1%E3%81%B3%E3%82%89%E3%81%8D%EF%BC%92%EF%BC%90%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%83%97%E3%83%AC%E3%82%A4-3/"
         }
       ],
       "country": "日本",
-      "prefecture": "福岡県"
+      "prefecture": "福岡県",
+      "venue": "照葉シアター"
     },
     {
       "id": "v15-0282",
@@ -72482,9 +72646,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式Biography",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "確認資料（修正根拠）",
+          "url": "https://junkoyagami.com/s/yj/"
         }
       ],
-      "country": "日本"
+      "country": "日本",
+      "venue": "昭和女子大学 人見記念講堂"
     },
     {
       "id": "media-v18229-2025-10-06-chage-001",
@@ -74055,7 +74224,7 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都",
       "country": "日本",
       "startTime": "19:00",
-      "note": "同日追加公演・ライブ音源収録予定として告知",
+      "note": "同日追加公演・ライブ音源収録予定として告知 1日2公演。2公演目は追加公演。第1部16:00～、第2部（追加公演）19:00～。",
       "sources": [
         {
           "label": "Chage公式／公演会場公式",
@@ -76339,5 +76508,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-32"
+  "siteVersion": "1.8.2-35"
 };
