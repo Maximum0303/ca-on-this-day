@@ -12622,6 +12622,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "release-audit-v202-20261118-ca-super-best-1987",
+      "date": "1987-03-05",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SUPER BEST』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：ベストアルバム。初発売。『SUPER BEST II』や『SUPER BEST BOX』とは別作品。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜SUPER BEST",
+          "url": "https://www.chage-aska.net/discography/album/super_best.php"
+        }
+      ]
+    },
+    {
       "id": "media-v18-1987-006",
       "date": "1987-03-20",
       "artist": "CHAGE and ASKA",
@@ -13753,6 +13769,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "release-audit-v202-20261118-aska-my-mr-lonely-heart",
+      "date": "1987-09-21",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『MY Mr.LONELY HEART』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：シングル。飛鳥涼名義のソロデビューシングル。公式HISTORYの発売日による。",
+      "sources": [
+        {
+          "label": "C&A公式HISTORY｜1978〜1989年",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
       "id": "media-v18-1987-013",
       "date": "1987-09-23",
       "artist": "CHAGE and ASKA",
@@ -13861,6 +13893,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v202-20261118-ca-romancing-yard-single",
+      "date": "1987-10-05",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『ロマンシングヤード／Mr.ASIA』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：シングル。初発売。『Mr.ASIA』はカップリング曲名であり、同名アルバムの発売とは別。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜ロマンシングヤード",
+          "url": "https://www.chage-aska.net/discography/single/romancing_yard.php"
         }
       ]
     },
@@ -14454,6 +14502,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "release-audit-v202-20261118-ca-koibito-wine-single",
+      "date": "1988-02-05",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『恋人はワイン色／あきらめのBlue Day』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：シングル。初発売。B面曲も公式ディスコグラフィーに従って記載。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜恋人はワイン色",
+          "url": "https://www.chage-aska.net/discography/single/koibito_ha_wine_iro.php"
+        }
+      ]
+    },
+    {
       "id": "media-v18-1988-004",
       "date": "1988-02-22",
       "artist": "CHAGE and ASKA",
@@ -14514,6 +14578,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v202-20261118-ca-rhapsody-album",
+      "date": "1988-03-05",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『RHAPSODY』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：オリジナルアルバム。オリジナルアルバムの初発売。シングル『ラプソディ』とは別作品。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜RHAPSODY",
+          "url": "https://www.chage-aska.net/discography/album/phapsody.php"
         }
       ]
     },
@@ -15286,6 +15366,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "福井県"
     },
     {
+      "id": "release-audit-v202-20261118-aska-midnight-2-call",
+      "date": "1988-07-21",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『MIDNIGHT 2 CALL』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：シングル。飛鳥涼名義のシングル。公式HISTORYの発売日による。",
+      "sources": [
+        {
+          "label": "C&A公式HISTORY｜1978〜1989年",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
       "id": "media-v18-1988-016",
       "date": "1988-07-22",
       "artist": "ASKA",
@@ -15520,6 +15616,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v202-20261118-aska-scene-1988-original",
+      "date": "1988-08-21",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『SCENE』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：オリジナルアルバム。飛鳥涼（ASKA）ソロ1stアルバムの初発売。後年のリミックス盤・再発売と区別。",
+      "sources": [
+        {
+          "label": "ASKA公式｜ディスコグラフィー配信解禁作品の初発売日",
+          "url": "https://www.fellows.tokyo/news/detail/328"
         }
       ]
     },
@@ -16453,6 +16565,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v202-20261118-ca-walk-1989-single",
+      "date": "1989-03-08",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『WALK』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：シングル。1989年のシングル初発売。1992年の再発売盤、同名の映像作品とは別。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜WALK",
+          "url": "https://www.chage-aska.net/discography/single/walk.php"
         }
       ]
     },
@@ -18066,6 +18194,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "release-audit-v202-20261118-mm-some-day-debut-single",
+      "date": "1989-10-21",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『SOME DAY』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：シングル。MULTI MAXのデビューシングル。C&Aによる同名曲の別収録・ライブ記録とは区別。",
+      "sources": [
+        {
+          "label": "Chage公式ディスコグラフィー｜MULTI MAX SOME DAY",
+          "url": "https://chage.jp/discography/multi_max/single/007.php"
+        }
+      ]
+    },
+    {
       "id": "media-v18-1989-020",
       "date": "1989-11-04",
       "artist": "MULTI MAX",
@@ -18094,6 +18238,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v202-20261118-mm-heaven-first-album",
+      "date": "1989-11-29",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『HEAVEN』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：オリジナルアルバム。MULTI MAXの1stアルバム初発売。",
+      "sources": [
+        {
+          "label": "Chage公式ディスコグラフィー｜MULTI MAX HEAVEN",
+          "url": "https://chage.jp/discography/multi_max/album/007.php"
         }
       ]
     },
@@ -23865,6 +24025,22 @@ window.CA_EVENT_DATA = {
       "broadcastStation": "WOWOW"
     },
     {
+      "id": "release-audit-v202-20261118-ca-yah-yah-yah-single",
+      "date": "1993-03-03",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『YAH YAH YAH／夢の番人』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：シングル。シングル初発売。3曲収録。ライブやドラマ放送の記録とは区別。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜YAH YAH YAH",
+          "url": "https://www.chage-aska.net/discography/single/yah_yah_yah.php"
+        }
+      ]
+    },
+    {
       "id": "media-v18231-1993-03-07-chageandaska-001",
       "date": "1993-03-07",
       "artist": "CHAGE and ASKA",
@@ -24084,6 +24260,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜1993〜1994年 公演日程",
           "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v202-20261118-mm-yuuki-no-kotoba-single",
+      "date": "1993-04-07",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『勇気の言葉』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：シングル。MULTI MAXのシングル初発売。",
+      "sources": [
+        {
+          "label": "Chage公式ディスコグラフィー｜MULTI MAX 勇気の言葉",
+          "url": "https://chage.jp/discography/multi_max/single/003.php"
         }
       ]
     },
@@ -24397,6 +24589,38 @@ window.CA_EVENT_DATA = {
         }
       ],
       "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "release-audit-v202-20261118-mm-re-birth-album",
+      "date": "1993-06-09",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『RE-BIRTH』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：ミニアルバム。MULTI MAXのミニアルバム。公式ディスコグラフィーのアルバム欄に掲載。",
+      "sources": [
+        {
+          "label": "Chage公式ディスコグラフィー｜MULTI MAXアルバム一覧",
+          "url": "https://chage.jp/discography/multi_max/album.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v202-20261118-ca-sons-daughters-single",
+      "date": "1993-08-20",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Sons and Daughters～それより僕が伝えたいのは～』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：シングル。シングル初発売。音源の発売日として記録。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜Sons and Daughters",
+          "url": "https://www.chage-aska.net/discography/single/sons_and_daughters.php"
+        }
+      ]
     },
     {
       "id": "live-longest-tour-1993-1994-001",
@@ -25146,6 +25370,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v202-20261118-ca-longest-tour-memorial-cd",
+      "date": "1993-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE&ASKA THE LONGEST TOUR MEMORIAL』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：企画CD。公式サイトの「OTHERS」に分類されるCD作品。ユーザー提供一覧ではシングル欄にあるが、一般シングルとしては扱わない。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜THE LONGEST TOUR MEMORIAL",
+          "url": "https://www.chage-aska.net/discography/others/longest_tour.php"
         }
       ]
     },
@@ -77467,5 +77707,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.0.1"
+  "siteVersion": "2.0.2"
 };
