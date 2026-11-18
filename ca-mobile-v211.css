@@ -1,0 +1,57 @@
+/* 今日はC&Aの何の日？ - 画面 Ver.2.1.1 / スマートフォンの横はみ出し・左右の揺れ対策
+ * 記録・JS・フィルター・OGPを変更しない。Ver.2.1.0 の CSS より後に読み込む。
+ * overflow-x:clip は保険。見出し / grid / flex / URL の収まりを優先して修正する。
+ */
+@media (max-width: 800px) {
+  /* スクロールの可動域を画面幅に保ち、縦方向スクロールは維持 */
+  html, body { max-width: 100%; overflow-x: clip; overscroll-behavior-x: none; }
+  .shell, main, .hero, .calendar-grid, .calendar-card, .day-panel,
+  .browse-section, .results, .result-card, .about-section, .about-grid,
+  .ca40-monthly, .ca40-items, .ca40-item,
+  .ca42-upcoming, .ca42-items, .ca42-month, .ca42-item,
+  .ca43-check, .ca43-decade, .ca43-items, .ca43-item,
+  .ca210-index, .ca210-index-links {
+    min-width: 0;
+    max-width: 100%;
+  }
+  .hero > *, .calendar-grid > *, .result-card > *, .about-grid > *,
+  .ca40-item > *, .ca42-item > *, .ca43-item > *, .ca210-index-links > * {
+    min-width: 0;
+  }
+  /* カード右肩の件数表示や「今日に戻る」が見出しを外へ押し出さない */
+  .section-head, .ca40-head, .ca42-head, .ca43-head {
+    flex-wrap: wrap;
+  }
+  .ca40-total, .ca42-total {
+    max-width: 100%;
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+  .identity { min-width: 0; }
+  .identity-name { min-width: 0; overflow-wrap: anywhere; }
+  .mark { flex-shrink: 0; }
+  .ca39-record-details dl { grid-template-columns: minmax(72px, .28fr) minmax(0, 1fr); }
+  /* 長いタイトル、会場名、出典URLが画面幅より広くならないように */
+  .event-preview, .ca39-day-card, .ca39-day-card *,
+  .ca40-info, .ca40-info *, .ca42-item-body, .ca42-item-body *,
+  .ca43-item-body, .ca43-item-body *, .result-card, .result-card *,
+  .disclaimer, .disclaimer *, .source-links a,
+  .ca210-index-link, .calendar-legend {
+    overflow-wrap: anywhere;
+  }
+  .filters, .ca40-filter-row, .ca42-controls, .ca43-controls {
+    max-width: 100%;
+    min-width: 0;
+  }
+  .filters label, .ca40-filter-row label, .ca42-controls label, .ca43-controls label {
+    min-width: 0;
+  }
+  .ca210-float-actions { max-width: calc(100vw - 22px); }
+}
+@media (max-width: 380px) {
+  .filters { grid-template-columns: minmax(0, 1fr); }
+  .filters .search-wrap { grid-column: 1 / -1; }
+  .ca210-index-links { grid-template-columns: minmax(0, 1fr); }
+  .ca210-float-actions { gap: 5px; }
+  .hero-date { padding-left: 15px; padding-right: 15px; }
+}
