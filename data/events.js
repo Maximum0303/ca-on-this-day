@@ -33513,6 +33513,293 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "release-audit-v206-1999-toct-10691",
+      "date": "1999-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『風舞』CD再発売",
+      "releaseTitle": "風舞",
+      "catalogNumber": "TOCT-10691",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：アルバムCD再発売（CHAGE & ASKA COLLECTION）。再発売日：1999-12-16。規格品番：TOCT-10691。1999年の東芝EMI盤。初発売・他の再発売盤とは区別。発売日・品番はオリコン等の商品情報（二次資料）による確認。",
+      "sources": [
+        {
+          "label": "オリコン｜発売・規格情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/266770/1/"
+        },
+        {
+          "label": "販売店｜商品情報（二次資料）",
+          "url": "https://tower.jp/item/590496"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v206-1999-toct-10692",
+      "date": "1999-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『熱風』CD再発売",
+      "releaseTitle": "熱風",
+      "catalogNumber": "TOCT-10692",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：アルバムCD再発売（CHAGE & ASKA COLLECTION）。再発売日：1999-12-16。規格品番：TOCT-10692。1999年の東芝EMI盤。初発売・他の再発売盤とは区別。発売日・品番はオリコン等の商品情報（二次資料）による確認。",
+      "sources": [
+        {
+          "label": "オリコン｜発売・規格情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/266771/1/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v206-1999-toct-10693",
+      "date": "1999-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『黄昏の騎士』CD再発売",
+      "releaseTitle": "黄昏の騎士",
+      "catalogNumber": "TOCT-10693",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：アルバムCD再発売（CHAGE & ASKA COLLECTION）。再発売日：1999-12-16。規格品番：TOCT-10693。1999年の東芝EMI盤。初発売・他の再発売盤とは区別。発売日・品番はオリコン等の商品情報（二次資料）による確認。",
+      "sources": [
+        {
+          "label": "オリコン｜発売・規格情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/266772/1/"
+        },
+        {
+          "label": "販売店｜商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220058139"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v206-1999-toct-10694",
+      "date": "1999-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『熱い想い』CD再発売",
+      "releaseTitle": "熱い想い",
+      "catalogNumber": "TOCT-10694",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：アルバムCD再発売（CHAGE & ASKA COLLECTION）。再発売日：1999-12-16。規格品番：TOCT-10694。1999年の東芝EMI盤。初発売・他の再発売盤とは区別。発売日・品番はオリコン等の商品情報（二次資料）による確認。",
+      "sources": [
+        {
+          "label": "オリコン｜発売・規格情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/266773/1/"
+        },
+        {
+          "label": "販売店｜商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220058140"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v206-1999-toct-10695",
+      "date": "1999-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE & ASKA IV -21世紀-』CD再発売",
+      "releaseTitle": "CHAGE & ASKA IV -21世紀-",
+      "catalogNumber": "TOCT-10695",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：アルバムCD再発売（CHAGE & ASKA COLLECTION）。再発売日：1999-12-16。規格品番：TOCT-10695。1999年の東芝EMI盤。初発売・他の再発売盤とは区別。発売日・品番はオリコン等の商品情報（二次資料）による確認。旧題「CHAGE&ASUKA IV -21世紀-」の改題表記に注意。",
+      "sources": [
+        {
+          "label": "オリコン｜発売・規格情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/266774/1/"
+        },
+        {
+          "label": "販売店｜商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220058141"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v206-1999-toct-10696",
+      "date": "1999-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『INSIDE』CD再発売",
+      "releaseTitle": "INSIDE",
+      "catalogNumber": "TOCT-10696",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：アルバムCD再発売（CHAGE & ASKA COLLECTION）。再発売日：1999-12-16。規格品番：TOCT-10696。1999年の東芝EMI盤。初発売・他の再発売盤とは区別。発売日・品番はオリコン等の商品情報（二次資料）による確認。旧作名「INSIDE CHAGE&ASUKA V」と関連。",
+      "sources": [
+        {
+          "label": "オリコン｜発売・規格情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/266775/1/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v206-1999-toct-10697",
+      "date": "1999-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Z=One』CD再発売",
+      "releaseTitle": "Z=One",
+      "catalogNumber": "TOCT-10697",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：アルバムCD再発売（CHAGE & ASKA COLLECTION）。再発売日：1999-12-16。規格品番：TOCT-10697。1999年の東芝EMI盤。初発売・他の再発売盤とは区別。発売日・品番はオリコン等の商品情報（二次資料）による確認。",
+      "sources": [
+        {
+          "label": "オリコン｜発売・規格情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/266776/1/"
+        },
+        {
+          "label": "販売店｜商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220058143"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v206-1999-toct-10698",
+      "date": "1999-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『TURNING POINT』CD再発売",
+      "releaseTitle": "TURNING POINT",
+      "catalogNumber": "TOCT-10698",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：アルバムCD再発売（CHAGE & ASKA COLLECTION）。再発売日：1999-12-16。規格品番：TOCT-10698。1999年の東芝EMI盤。初発売・他の再発売盤とは区別。発売日・品番はオリコン等の商品情報（二次資料）による確認。",
+      "sources": [
+        {
+          "label": "オリコン｜発売・規格情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/266777/1/"
+        },
+        {
+          "label": "販売店｜商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/product/detail/220058144"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v206-1999-toct-10699",
+      "date": "1999-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『MIX BLOOD』CD再発売",
+      "releaseTitle": "MIX BLOOD",
+      "catalogNumber": "TOCT-10699",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：アルバムCD再発売（CHAGE & ASKA COLLECTION）。再発売日：1999-12-16。規格品番：TOCT-10699。1999年の東芝EMI盤。初発売・他の再発売盤とは区別。発売日・品番はオリコン等の商品情報（二次資料）による確認。",
+      "sources": [
+        {
+          "label": "オリコン｜発売・規格情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/266778/1/"
+        },
+        {
+          "label": "販売店｜商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220058145"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v206-1999-toct-10700",
+      "date": "1999-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Mr.ASIA』CD再発売",
+      "releaseTitle": "Mr.ASIA",
+      "catalogNumber": "TOCT-10700",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：アルバムCD再発売（CHAGE & ASKA COLLECTION）。再発売日：1999-12-16。規格品番：TOCT-10700。1999年の東芝EMI盤。初発売・他の再発売盤とは区別。発売日・品番はオリコン等の商品情報（二次資料）による確認。",
+      "sources": [
+        {
+          "label": "オリコン｜発売・規格情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/266779/1/"
+        },
+        {
+          "label": "販売店｜商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220058146"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v206-1999-toct-10701",
+      "date": "1999-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『RHAPSODY』CD再発売",
+      "releaseTitle": "RHAPSODY",
+      "catalogNumber": "TOCT-10701",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：アルバムCD再発売（CHAGE & ASKA COLLECTION）。再発売日：1999-12-16。規格品番：TOCT-10701。1999年の東芝EMI盤。初発売・他の再発売盤とは区別。発売日・品番はオリコン等の商品情報（二次資料）による確認。",
+      "sources": [
+        {
+          "label": "オリコン｜発売・規格情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/266780/1/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v206-1999-toct-10702",
+      "date": "1999-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『ENERGY』CD再発売",
+      "releaseTitle": "ENERGY",
+      "catalogNumber": "TOCT-10702",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：アルバムCD再発売（CHAGE & ASKA COLLECTION）。再発売日：1999-12-16。規格品番：TOCT-10702。1999年の東芝EMI盤。初発売・他の再発売盤とは区別。発売日・品番はオリコン等の商品情報（二次資料）による確認。",
+      "sources": [
+        {
+          "label": "オリコン｜発売・規格情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/266781/1/"
+        },
+        {
+          "label": "販売店｜商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220058148"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v206-1999-toct-10705",
+      "date": "1999-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CODE NAME.2 SISTER MOON』CD再発売",
+      "releaseTitle": "CODE NAME.2 SISTER MOON",
+      "catalogNumber": "TOCT-10705",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：アルバムCD再発売（CHAGE & ASKA COLLECTION）。再発売日：1999-12-16。規格品番：TOCT-10705。1999年の東芝EMI盤。初発売・他の再発売盤とは区別。発売日・品番はオリコン等の商品情報（二次資料）による確認。",
+      "sources": [
+        {
+          "label": "オリコン｜発売・規格情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/266783/1/"
+        },
+        {
+          "label": "販売店｜商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/product/detail/220058150"
+        }
+      ]
+    },
+    {
       "id": "release-v07-017",
       "date": "1999-12-20",
       "artist": "CHAGE and ASKA",
@@ -78708,5 +78995,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.0.5"
+  "siteVersion": "2.0.6"
 };
