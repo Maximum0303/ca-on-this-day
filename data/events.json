@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2026年11月17日時点の開催予定は備考に【開催予定】と表示し、延期・中止の予定を実施済みと混同しないでください。",
-  "lastUpdated": "2026-11-17",
+  "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2027年の公式発表済み予定を追加。開催予定の記録は日付経過のみで開催済みと断定せず、延期・中止と区別して表示します。既存の記録の確認日・履歴はそのまま保存しています。",
+  "lastUpdated": "2026-11-18",
   "events": [
     {
       "id": "media-v17-1978-001",
@@ -76505,7 +76505,756 @@
           "url": "https://fanclub.chage.jp/sitenews_det.php?id=19304"
         }
       ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-001",
+      "date": "2027-01-08",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "福井フェニックス・プラザ エルピス 大ホール",
+      "prefecture": "福井県",
+      "country": "日本",
+      "startTime": "18:30",
+      "note": "公式特設サイトに掲載された2027年公演。開場18:00／開演18:30。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-chage-billboard-osaka-1st",
+      "date": "2027-01-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 68 to 69",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "chage-billboard-68-to-69",
+      "venue": "ビルボードライブ大阪",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "1st Stage。開場16:00／開演17:00。同日2ステージを別記録。",
+      "sources": [
+        {
+          "label": "Billboard Live公式：公演詳細",
+          "url": "https://www.billboard-live.com/osaka/show?event_id=ev-21746"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-chage-billboard-osaka-2nd",
+      "date": "2027-01-08",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 68 to 69",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "chage-billboard-68-to-69",
+      "venue": "ビルボードライブ大阪",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "startTime": "20:00",
+      "note": "2nd Stage。開場19:00／開演20:00。同日2ステージを別記録。",
+      "sources": [
+        {
+          "label": "Billboard Live公式：公演詳細",
+          "url": "https://www.billboard-live.com/osaka/show?event_id=ev-21746"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-002",
+      "date": "2027-01-10",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "新潟県民会館 大ホール",
+      "prefecture": "新潟県",
+      "country": "日本",
+      "startTime": "17:30",
+      "note": "公式特設サイトに掲載された2027年公演。開場17:00／開演17:30。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-chage-billboard-tokyo-1st",
+      "date": "2027-01-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 68 to 69",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "chage-billboard-68-to-69",
+      "venue": "ビルボードライブ東京",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "1st Stage。開場16:00／開演17:00。同日2ステージを別記録。",
+      "sources": [
+        {
+          "label": "Billboard Live公式：公演詳細",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21747"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-chage-billboard-tokyo-2nd",
+      "date": "2027-01-10",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chage Billboard Live 68 to 69",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "chage-billboard-68-to-69",
+      "venue": "ビルボードライブ東京",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "20:00",
+      "note": "2nd Stage。開場19:00／開演20:00。同日2ステージを別記録。",
+      "sources": [
+        {
+          "label": "Billboard Live公式：公演詳細",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-21747"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-003",
+      "date": "2027-01-11",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "高崎芸術劇場 大劇場",
+      "prefecture": "群馬県",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "公式特設サイトに掲載された2027年公演。開場16:00／開演17:00。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-004",
+      "date": "2027-01-15",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "市川市文化会館 大ホール",
+      "prefecture": "千葉県",
+      "country": "日本",
+      "startTime": "18:00",
+      "note": "公式特設サイトに掲載された2027年公演。開場17:00／開演18:00。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-005",
+      "date": "2027-01-16",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "YCC県民文化ホール 大ホール（山梨県立県民文化ホール）",
+      "prefecture": "山梨県",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "公式特設サイトに掲載された2027年公演。開場16:00／開演17:00。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-006",
+      "date": "2027-01-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "よこすか芸術劇場",
+      "prefecture": "神奈川県",
+      "country": "日本",
+      "startTime": "18:00",
+      "note": "公式特設サイトに掲載された2027年公演。開場17:00／開演18:00。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-007",
+      "date": "2027-01-24",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "アクトシティ浜松 大ホール",
+      "prefecture": "静岡県",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "公式特設サイトに掲載された2027年公演。開場16:00／開演17:00。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-008",
+      "date": "2027-01-29",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "KDDI維新ホール",
+      "prefecture": "山口県",
+      "country": "日本",
+      "startTime": "18:30",
+      "note": "公式特設サイトに掲載された2027年公演。開場17:30／開演18:30。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-chage-hosomichi-001",
+      "date": "2027-01-29",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "鹿児島CAPARVO HALL",
+      "prefecture": "鹿児島県",
+      "country": "日本",
+      "startTime": "18:30",
+      "note": "2026年8月1日の鹿児島公演の振替開催予定。2026年の延期前記録は別途保存。 開場18:00／開演18:30。",
+      "sources": [
+        {
+          "label": "Chage公式：ずっと細道スケジュール",
+          "url": "https://chage.jp/hosomichi/schedule/"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-chage-kagoshima-fanmeet",
+      "date": "2027-01-29",
+      "artist": "Chage",
+      "category": "other",
+      "title": "「Chageのずっとリアルファンミ」鹿児島・振替開催予定",
+      "status": "scheduled",
+      "verification": "primary",
+      "venue": "鹿児島CAPARVO HALL",
+      "prefecture": "鹿児島県",
+      "country": "日本",
+      "startTime": "16:30",
+      "note": "2026年8月1日に開催見送りとなったファンミーティングの振替。受付16:10／開始16:30。コンサートとは別イベント。",
+      "sources": [
+        {
+          "label": "Chage公式：鹿児島公演・ファンミ振替案内",
+          "url": "https://chage.jp/information/live/detail-857.php"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-009",
+      "date": "2027-01-30",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "広島文化学園HBGホール",
+      "prefecture": "広島県",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "公式特設サイトに掲載された2027年公演。開場16:00／開演17:00。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-chage-hosomichi-002",
+      "date": "2027-01-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "chage-zutto-hosomichi-2026",
+      "venue": "熊本八代キャバレーニュー白馬",
+      "prefecture": "熊本県",
+      "country": "日本",
+      "startTime": "16:30",
+      "note": "公式発表の熊本・八代公演。 開場16:00／開演16:30。",
+      "sources": [
+        {
+          "label": "Chage公式：ずっと細道スケジュール",
+          "url": "https://chage.jp/hosomichi/schedule/"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-010",
+      "date": "2027-02-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "盛岡市民文化ホール 大ホール",
+      "prefecture": "岩手県",
+      "country": "日本",
+      "startTime": "18:00",
+      "note": "公式特設サイトに掲載された2027年公演。開場17:00／開演18:00。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-011",
+      "date": "2027-02-06",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "仙台サンプラザホール",
+      "prefecture": "宮城県",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "公式特設サイトに掲載された2027年公演。開場16:00／開演17:00。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-012",
+      "date": "2027-02-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "東京国際フォーラム ホールA",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "18:00",
+      "note": "公式特設サイトに掲載された2027年公演。開場17:00／開演18:00。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-013",
+      "date": "2027-02-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "東京国際フォーラム ホールA",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "公式特設サイトに掲載された2027年公演。開場15:00／開演16:00。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-014",
+      "date": "2027-02-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "那覇文化芸術劇場なはーと 大劇場",
+      "prefecture": "沖縄県",
+      "country": "日本",
+      "startTime": "18:30",
+      "note": "公式特設サイトに掲載された2027年公演。開場17:30／開演18:30。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-015",
+      "date": "2027-02-21",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "那覇文化芸術劇場なはーと 大劇場",
+      "prefecture": "沖縄県",
+      "country": "日本",
+      "startTime": "16:00",
+      "note": "公式特設サイトに掲載された2027年公演。開場15:00／開演16:00。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-016",
+      "date": "2027-02-25",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "ミズ ウェルビーホール（佐賀市文化会館）",
+      "prefecture": "佐賀県",
+      "country": "日本",
+      "startTime": "18:30",
+      "note": "公式特設サイトに掲載された2027年公演。開場17:45／開演18:30。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-017",
+      "date": "2027-02-26",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "iichikoグランシアタ",
+      "prefecture": "大分県",
+      "country": "日本",
+      "startTime": "18:30",
+      "note": "公式特設サイトに掲載された2027年公演。開場17:45／開演18:30。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-018",
+      "date": "2027-02-28",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "宮崎市民文化ホール",
+      "prefecture": "宮崎県",
+      "country": "日本",
+      "startTime": "17:30",
+      "note": "公式特設サイトに掲載された2027年公演。開場16:45／開演17:30。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-019",
+      "date": "2027-03-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "新来島高知重工ホール（高知県立県民文化ホール）オレンジホール",
+      "prefecture": "高知県",
+      "country": "日本",
+      "startTime": "18:30",
+      "note": "公式特設サイトに掲載された2027年公演。開場17:45／開演18:30。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-020",
+      "date": "2027-03-06",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "ふくやま芸術文化ホール リーデンローズ 大ホール",
+      "prefecture": "広島県",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "公式特設サイトに掲載された2027年公演。開場16:00／開演17:00。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-021",
+      "date": "2027-03-07",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "島根県芸術文化センター「グラントワ」大ホール",
+      "prefecture": "島根県",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "公式特設サイトに掲載された2027年公演。開場16:00／開演17:00。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-022",
+      "date": "2027-03-13",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "札幌文化芸術劇場hitaru",
+      "prefecture": "北海道",
+      "country": "日本",
+      "startTime": "18:00",
+      "note": "公式特設サイトに掲載された2027年公演。開場17:00／開演18:00。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-lockon-023",
+      "date": "2027-03-14",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-2026-2027",
+      "venue": "札幌文化芸術劇場hitaru",
+      "prefecture": "北海道",
+      "country": "日本",
+      "startTime": "17:00",
+      "note": "公式特設サイトに掲載された2027年公演。開場16:00／開演17:00。公演実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-onツアー公演日程",
+          "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-arena-001",
+      "date": "2027-05-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on” PLUS in ARENA",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-plus-arena-2027",
+      "venue": "有明アリーナ",
+      "prefecture": "東京都",
+      "country": "日本",
+      "note": "2026年10月25日の公式発表で日程・会場を確認。開演時刻は当該発表では未記載。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on PLUS in ARENA開催発表",
+          "url": "https://www.fellows.tokyo/news/detail/787"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-arena-002",
+      "date": "2027-05-23",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on” PLUS in ARENA",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-plus-arena-2027",
+      "venue": "有明アリーナ",
+      "prefecture": "東京都",
+      "country": "日本",
+      "note": "2026年10月25日の公式発表で日程・会場を確認。開演時刻は当該発表では未記載。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on PLUS in ARENA開催発表",
+          "url": "https://www.fellows.tokyo/news/detail/787"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-arena-003",
+      "date": "2027-06-05",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on” PLUS in ARENA",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-plus-arena-2027",
+      "venue": "IGアリーナ",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "note": "2026年10月25日の公式発表で日程・会場を確認。開演時刻は当該発表では未記載。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on PLUS in ARENA開催発表",
+          "url": "https://www.fellows.tokyo/news/detail/787"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-arena-004",
+      "date": "2027-06-06",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on” PLUS in ARENA",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-plus-arena-2027",
+      "venue": "IGアリーナ",
+      "prefecture": "愛知県",
+      "country": "日本",
+      "note": "2026年10月25日の公式発表で日程・会場を確認。開演時刻は当該発表では未記載。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on PLUS in ARENA開催発表",
+          "url": "https://www.fellows.tokyo/news/detail/787"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-arena-005",
+      "date": "2027-06-19",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on” PLUS in ARENA",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-plus-arena-2027",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "note": "2026年10月25日の公式発表で日程・会場を確認。開演時刻は当該発表では未記載。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on PLUS in ARENA開催発表",
+          "url": "https://www.fellows.tokyo/news/detail/787"
+        }
+      ]
+    },
+    {
+      "id": "v41-2027-aska-arena-006",
+      "date": "2027-06-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on” PLUS in ARENA",
+      "status": "scheduled",
+      "verification": "primary",
+      "tourId": "aska-lock-on-plus-arena-2027",
+      "venue": "大阪城ホール",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "note": "2026年10月25日の公式発表で日程・会場を確認。開演時刻は当該発表では未記載。",
+      "sources": [
+        {
+          "label": "ASKA公式：Lock-on PLUS in ARENA開催発表",
+          "url": "https://www.fellows.tokyo/news/detail/787"
+        }
+      ]
     }
   ],
-  "siteVersion": "1.8.2-35"
+  "siteVersion": "1.8.2-41"
 }
