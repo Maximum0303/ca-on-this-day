@@ -55,3 +55,40 @@
   .ca210-float-actions { gap: 5px; }
   .hero-date { padding-left: 15px; padding-right: 15px; }
 }
+
+/* 2026-11-18 追補修正: スマホで曜日と日付がずれる不具合
+ * 旧版の repeat(7, 1fr) + ボタンの aspect-ratio により、日付セルの最小幅が
+ * 優先され、曜日グリッドより日付グリッドだけ右へはみ出す場合があった。
+ * コンテンツ幅内に収まる固定の等幅7列にし、件数を各セルの中央に配置。
+ */
+@media (max-width: 700px) {
+  .calendar-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+  .calendar-card {
+    min-width: 0;
+  }
+  .calendar-card .weekday-head,
+  .calendar-card .days-grid {
+    width: 100%;
+    min-width: 0;
+    grid-template-columns: repeat(7, minmax(0, 1fr));
+    gap: 5px;
+  }
+  .calendar-card .days-grid .day-btn {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    aspect-ratio: auto;
+    min-height: 40px;
+    padding: 2px 0 10px;
+    justify-self: stretch;
+  }
+  .calendar-card .days-grid .ca39-day-count {
+    right: auto;
+    left: 50%;
+    transform: translateX(-50%);
+    white-space: nowrap;
+    text-align: center;
+  }
+}
