@@ -1,0 +1,21 @@
+/* 今日はC&Aの何の日？ — 画面 Ver.2.1.0: ページ内目次と最上部ボタン */
+.ca210-index{margin:0 0 42px;padding:22px 26px;border-radius:15px;border:1px solid rgba(232,188,115,.28);background:linear-gradient(145deg,#192943,#112037);scroll-margin-top:22px}
+.ca210-index-header{display:flex;justify-content:space-between;align-items:end;gap:12px;margin-bottom:17px}
+.ca210-index h2{font-size:21px;line-height:1.4;margin:5px 0 0;letter-spacing:.025em}
+.ca210-index-hint{color:var(--muted,#b3c0d2);font-size:11px;max-width:200px;text-align:right}
+.ca210-index-links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:9px}
+.ca210-index-link{display:flex;align-items:center;justify-content:space-between;gap:10px;min-height:48px;padding:10px 13px;border:1px solid rgba(222,227,238,.15);border-radius:9px;background:#1d3050;color:var(--ink,#f8f6ef);font-size:12px;line-height:1.5;text-decoration:none}
+.ca210-index-link::after{content:'↓';color:var(--gold,#e8bc73);font-size:16px;line-height:1;flex-shrink:0}
+.ca210-index-link:hover{background:#284261;border-color:var(--gold,#e8bc73);color:var(--gold-light,#f8e2ba)}
+.ca210-float-actions{position:fixed;z-index:50;right:clamp(10px,2vw,26px);bottom:calc(18px + env(safe-area-inset-bottom,0px));display:flex;align-items:center;gap:7px;filter:drop-shadow(0 4px 12px rgba(0,0,0,.35))}
+.ca210-float-actions[hidden]{display:none!important}
+.ca210-float-index,.ca210-back-top{min-height:45px;border:1px solid rgba(232,188,115,.6);border-radius:24px;background:#243a5d;color:#f8e2ba;font-weight:700;text-decoration:none;display:flex;align-items:center;justify-content:center;gap:4px}
+.ca210-float-index{padding:0 15px;font-size:12px}
+.ca210-back-top{padding:0 14px;cursor:pointer;font-family:inherit}
+.ca210-back-top>span:first-child{font-size:21px;line-height:1}
+.ca210-top-label{font-size:12px}
+.ca210-float-index:hover,.ca210-back-top:hover{background:#345277;border-color:#f8e2ba}
+.ca210-float-index:focus-visible,.ca210-back-top:focus-visible,.ca210-index-link:focus-visible{outline:3px solid #f8e2ba;outline-offset:3px}
+@media(max-width:800px){.ca210-index-links{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:520px){.ca210-index{padding:17px 14px;margin-bottom:26px}.ca210-index-header{align-items:start;flex-direction:column}.ca210-index-hint{text-align:left;max-width:none}.ca210-index-links{gap:7px}.ca210-index-link{padding:10px;min-height:52px;font-size:11px}.ca210-float-actions{right:11px;bottom:calc(12px + env(safe-area-inset-bottom,0px))}.ca210-back-top{min-width:49px}.ca210-top-label{display:none}}
+@media(prefers-reduced-motion:reduce){html:has(.ca210-index){scroll-behavior:auto}}
