@@ -16600,6 +16600,22 @@
       ]
     },
     {
+      "id": "release-audit-v203-20261118-ca-walk-vhs-1989",
+      "date": "1989-03-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『WALK』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：VHS・映像作品。1989年発売のVHS映像作品（V88M-1842）。同月8日のシングル『WALK』と区別。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜VHS「WALK」",
+          "url": "https://www.chage-aska.net/discography/video/walk.php"
+        }
+      ]
+    },
+    {
       "id": "media-v18-1989-004",
       "date": "1989-03-24",
       "artist": "CHAGE and ASKA",
@@ -18035,6 +18051,22 @@
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v203-20261118-ca-history1-vhs-1989",
+      "date": "1989-09-06",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『HISTORY I ～10years after～』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：VHS・映像作品。10周年記念のビデオ作品（V65M-1955）。1990年発売の「HISTORY II」と区別。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜HISTORY I",
+          "url": "https://www.chage-aska.net/discography/video/history_one.php"
         }
       ]
     },
@@ -24118,6 +24150,38 @@
       ]
     },
     {
+      "id": "release-audit-v203-20261118-ca-concert-movie-guys-vhs-1993",
+      "date": "1993-03-24",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE AND ASKA CONCERT MOVIE GUYS』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：VHS・映像作品。VHS映像作品（PCVP-51114）。2012年発売のBlu-rayと区別。コンサート上映イベントの開催日とも区別。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜CONCERT MOVIE GUYS",
+          "url": "https://www.chage-aska.net/discography/video/guys.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v203-20261118-ca-tug-v4-vhs-1993",
+      "date": "1993-03-24",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『THE VIDEO OF CHAGE and ASKA TUG OF C&A Vol.4』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：ファンクラブ限定VHS。ファンクラブ限定VHS版の初発売。2021年発売のVol.1〜5 DVD復刻BOXとは別。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜Vol.1〜5 DVD（オリジナルリリース欄）",
+          "url": "https://www.chage-aska.net/discography/video/limited_edition_tug_of_canda.php"
+        }
+      ]
+    },
+    {
       "id": "live-guys-special-event-1993-001",
       "date": "1993-03-30",
       "artist": "CHAGE and ASKA",
@@ -25938,6 +26002,22 @@
       ]
     },
     {
+      "id": "release-audit-v203-20261118-ca-red-hill-vhs-1994",
+      "date": "1994-02-18",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『RED HILL』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：VHS・映像作品。アルバム『RED HILL』（1993年10月10日発売）や2020年のDVD再発売とは別のVHS初発売。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜VHS「RED HILL」",
+          "url": "https://www.chage-aska.net/discography/video/red_hill.php"
+        }
+      ]
+    },
+    {
       "id": "live-longest-tour-1993-1994-047",
       "date": "1994-02-19",
       "artist": "CHAGE and ASKA",
@@ -26735,6 +26815,22 @@
       ]
     },
     {
+      "id": "release-audit-v203-20261118-ca-on-your-mark-vhs-1994",
+      "date": "1994-09-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『On Your Mark』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：VHS・映像作品。CHAGE and ASKAの活動ヒストリーを収録したVHS作品（PCVP-51513）。1997年のジブリ実験劇場の映像商品および2020年のDVD再発売とは別作品・別版。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜VHS「On Your Mark」",
+          "url": "https://www.chage-aska.net/discography/video/on_your_mark.php"
+        }
+      ]
+    },
+    {
       "id": "release-v06-1994-10-05-127",
       "date": "1994-10-05",
       "artist": "MULTI MAX",
@@ -26748,6 +26844,22 @@
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v203-20261118-chage-tsuki-book-first-1994",
+      "date": "1994-11-01",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『月が言い訳をしてる』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：書籍・単行本。幻冬舎刊、単行本、ISBN 9784877280307。出版社の書誌による発売日。Wikipedia等に11月4日表記もあるが本記録では出版社記載を採用。",
+      "sources": [
+        {
+          "label": "幻冬舎公式｜月が言い訳をしてる（単行本）",
+          "url": "https://www.gentosha.co.jp/book/detail/9784877280307/"
         }
       ]
     },
@@ -29795,6 +29907,22 @@
         }
       ],
       "prefecture": "愛知県"
+    },
+    {
+      "id": "release-audit-v203-20261118-chage-tsuki-book-paperback-1997",
+      "date": "1997-04-10",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『月が言い訳をしてる（幻冬舎文庫）』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：書籍・文庫版。文庫版、ISBN 9784877284268。1994年の単行本と区別。出版社書誌では4月10日、他の一覧には4月1日等の表記差がある。",
+      "sources": [
+        {
+          "label": "幻冬舎公式｜月が言い訳をしてる（文庫）",
+          "url": "https://www.gentosha.co.jp/book/detail/9784877284268/"
+        }
+      ]
     },
     {
       "id": "live-aska-id-1997-003",
@@ -47825,14 +47953,18 @@
       "date": "2009-10-21",
       "artist": "CHAGE and ASKA",
       "category": "release",
-      "title": "紙ジャケット再発（公式年表では7作品と表記）",
+      "title": "『紙ジャケットSHM-CD再発売7作品』発売",
       "status": "released",
       "verification": "primary",
-      "note": "『Mr. ASIA』『RHAPSODY』『ENERGY』『PRIDE』『TREE』『ライブ・イン・田園コロシアム～The夏祭り’81』の6タイトルが公式年表で列挙される一方、「7作品」と記載されている。7作目は未特定のため断定しない。",
+      "note": "2009年10月21日の紙ジャケットSHM-CD再発売7作品：『Mr.ASIA』『RHAPSODY』『ENERGY』『PRIDE』『TREE』『ライブ・イン・田園コロシアム～The夏祭り’81』『SEE YA』。公式HISTORYに記載の6作品に、ヤマハミュージックコミュニケーションズの製品情報で確認できた『SEE YA』（品番YCCR-10021）を加えた。",
       "sources": [
         {
           "label": "公式資料",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜SEE YA 紙ジャケットSHM-CD",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/530"
         }
       ]
     },
@@ -50664,6 +50796,22 @@
         }
       ],
       "prefecture": "埼玉県"
+    },
+    {
+      "id": "release-audit-v203-20261118-chage-tokyo-moon-venue-presale-2011",
+      "date": "2011-09-02",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『TOKYO MOON』会場先行販売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：シングル・公演会場先行販売。「Chageの細道2011」初日から公演会場限定で先行販売。一般発売日は同年11月2日で、既存の一般発売記録は維持。",
+      "sources": [
+        {
+          "label": "C&A公式HISTORY｜2011年9月2日「Chageの細道2011」",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ]
     },
     {
       "id": "live-v11-chage-hosomichi-2011-002",
@@ -58290,6 +58438,22 @@
         {
           "label": "Chage公式Discography",
           "url": "https://chage.jp/discography/chage/album/011.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v203-20261118-chage-epilogue-viva-digital-2018",
+      "date": "2018-05-16",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『終章（エピローグ）／Viva! Happy Birthday!』配信開始",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：配信限定シングル（2曲入り）。デジタル販売の2曲入り作品。『終章 (MEMORIAL VERSION)』と『Viva! Happy Birthday!』を収録。同日発売のベストアルバム『音道』とは別の配信作品。",
+      "sources": [
+        {
+          "label": "OTOTOY音楽配信ストア｜終章 / Viva! Happy Birthday!",
+          "url": "https://ototoy.jp/_/default/p/184818"
         }
       ]
     },
@@ -69350,6 +69514,22 @@
       ]
     },
     {
+      "id": "release-audit-v203-20261118-chage-windy-road-bd-2024",
+      "date": "2024-07-31",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『ChageLiveTour 2023 WINDY ROAD』発売",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：Blu-ray・ライブ映像作品。2023年9月30日のZepp Haneda公演を収録したBlu-ray。2023年のライブ開催日とは区別。品番 POXS-25003。",
+      "sources": [
+        {
+          "label": "Chage公式ディスコグラフィー｜WINDY ROAD Blu-ray",
+          "url": "https://chage.jp/discography/chage/bd/017.php"
+        }
+      ]
+    },
+    {
       "id": "v15-0271",
       "date": "2024-08-01",
       "artist": "Chage",
@@ -77706,5 +77886,5 @@
       ]
     }
   ],
-  "siteVersion": "2.0.2"
+  "siteVersion": "2.0.3"
 }
