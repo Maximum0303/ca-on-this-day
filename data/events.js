@@ -9,7 +9,7 @@ window.CA_EVENT_DATA = {
       "date": "1978-10-01",
       "artist": "CHAGE and ASKA",
       "category": "amateur",
-      "title": "第16回ポプコンつま恋本選会「流恋情歌」で入賞",
+      "title": "第16回ポピュラーソングコンテストつま恋本選会「流恋情歌」で入賞",
       "venue": "つま恋エキジビションホール",
       "prefecture": "静岡県",
       "country": "日本",
@@ -79,7 +79,7 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ポピュラーソングコンテスト九州大会」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "FBS福岡放送。第17回ポプコン九州大会の模様。「ひとり咲き」。二次資料の記録によるため、放送局等の一次資料は未照合。",
+      "note": "FBS福岡放送。第17回ポピュラーソングコンテスト九州大会の模様。「ひとり咲き」。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
@@ -92,7 +92,7 @@ window.CA_EVENT_DATA = {
       "date": "1979-05-06",
       "artist": "CHAGE and ASKA",
       "category": "amateur",
-      "title": "第17回ポプコンつま恋本選会「ひとり咲き」で入賞",
+      "title": "第17回ポピュラーソングコンテストつま恋本選会「ひとり咲き」で入賞",
       "venue": "つま恋エキジビションホール",
       "prefecture": "静岡県",
       "country": "日本",
@@ -114,7 +114,7 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コッキーポップ」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "日本テレビ。「ひとり咲き」、ポプコン本選会の紹介。二次資料の記録によるため、放送局等の一次資料は未照合。",
+      "note": "日本テレビ。「ひとり咲き」、ポピュラーソングコンテスト本選会の紹介。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
@@ -10960,7 +10960,7 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「合言葉は音楽気分」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。ポプコン同窓会。共演：石川優子ほか。二次資料の記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。ポピュラーソングコンテストの同窓会。共演：石川優子ほか。二次資料の記録によるため、放送局等の一次資料は未照合。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
@@ -77467,5 +77467,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-46"
+  "siteVersion": "2.0.1"
 };
