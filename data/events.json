@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2027年の公式発表済み予定を追加。開催予定の記録は日付経過のみで開催済みと断定せず、延期・中止と区別して表示します。既存の記録の確認日・履歴はそのまま保存しています。",
-  "lastUpdated": "2026-11-18",
+  "lastUpdated": "2026-11-19",
   "events": [
     {
       "id": "amateur-popcon16-1978-1001",
@@ -34403,6 +34403,108 @@
       ]
     },
     {
+      "id": "release-audit-v204-2001-yccr-00007",
+      "date": "2001-05-23",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE & ASKA MTV UNPLUGGED LIVE』CD再発売",
+      "releaseTitle": "CHAGE & ASKA MTV UNPLUGGED LIVE",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00007。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/221"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00008",
+      "date": "2001-05-23",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CODE NAME.2 SISTER MOON』CD再発売",
+      "releaseTitle": "CODE NAME.2 SISTER MOON",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00008。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/222"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00009",
+      "date": "2001-05-23",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CODE NAME.1 BROTHER SUN』CD再発売",
+      "releaseTitle": "CODE NAME.1 BROTHER SUN",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00009。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/223"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00010",
+      "date": "2001-05-23",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『RED HILL』CD再発売",
+      "releaseTitle": "RED HILL",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00010。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/224"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00011",
+      "date": "2001-05-23",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ONE』CD再発売",
+      "releaseTitle": "ONE",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00011。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/257"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00012",
+      "date": "2001-05-24",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『Oki doki!』CD再発売",
+      "releaseTitle": "Oki doki!",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00012。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/201"
+        }
+      ]
+    },
+    {
       "id": "media-v18212-2001-011",
       "date": "2001-06-09",
       "artist": "CHAGE and ASKA",
@@ -34415,6 +34517,193 @@
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00013",
+      "date": "2001-06-20",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『GUYS』CD再発売",
+      "releaseTitle": "GUYS",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00013。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/225"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00014",
+      "date": "2001-06-20",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SUPER BEST II』CD再発売",
+      "releaseTitle": "SUPER BEST II",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00014。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/226"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00015",
+      "date": "2001-06-20",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『TREE』CD再発売",
+      "releaseTitle": "TREE",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00015。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/227"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00016",
+      "date": "2001-06-20",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SEE YA』CD再発売",
+      "releaseTitle": "SEE YA",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00016。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/228"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00017",
+      "date": "2001-06-20",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『NEVER END』CD再発売",
+      "releaseTitle": "NEVER END",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00017。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/256"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00018",
+      "date": "2001-06-20",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『WELL,WELL,WELL』CD再発売",
+      "releaseTitle": "WELL,WELL,WELL",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00018。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/208"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00020",
+      "date": "2001-07-18",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『ENERGY』CD再発売",
+      "releaseTitle": "ENERGY",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00020。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/233"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00021",
+      "date": "2001-07-18",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『RHAPSODY』CD再発売",
+      "releaseTitle": "RHAPSODY",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00021。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/234"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00022",
+      "date": "2001-07-18",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Mr. ASIA』CD再発売",
+      "releaseTitle": "Mr. ASIA",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00022。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/236"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00023",
+      "date": "2001-07-18",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『SCENE II』CD再発売",
+      "releaseTitle": "SCENE II",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00023。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/255"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00024",
+      "date": "2001-07-18",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『RE-BIRTH』CD再発売",
+      "releaseTitle": "RE-BIRTH",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00024。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/209"
         }
       ]
     },
@@ -34532,6 +34821,108 @@
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00025",
+      "date": "2001-08-22",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『MIX BLOOD』CD再発売",
+      "releaseTitle": "MIX BLOOD",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00025。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/238"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00026",
+      "date": "2001-08-22",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『TURNING POINT』CD再発売",
+      "releaseTitle": "TURNING POINT",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00026。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/239"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00027",
+      "date": "2001-08-22",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Standing Ovation』CD再発売",
+      "releaseTitle": "Standing Ovation",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00027。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/242"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00028",
+      "date": "2001-08-22",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Z=One』CD再発売",
+      "releaseTitle": "Z=One",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00028。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/244"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00029",
+      "date": "2001-08-22",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『SCENE』CD再発売",
+      "releaseTitle": "SCENE",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00029。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/254"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00030",
+      "date": "2001-08-22",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『Human』CD再発売",
+      "releaseTitle": "Human",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00030。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/210"
         }
       ]
     },
@@ -34709,6 +35100,142 @@
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00031",
+      "date": "2001-09-19",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『INSIDE』CD再発売",
+      "releaseTitle": "INSIDE",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00031。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/245"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00032",
+      "date": "2001-09-19",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE&ASKA IV -21世紀-』CD再発売",
+      "releaseTitle": "CHAGE&ASKA IV -21世紀-",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00032。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/246"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00033",
+      "date": "2001-09-19",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『熱い想い』CD再発売",
+      "releaseTitle": "熱い想い",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00033。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/247"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00034",
+      "date": "2001-09-19",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『黄昏の騎士』CD再発売",
+      "releaseTitle": "黄昏の騎士",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00034。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/248"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00035",
+      "date": "2001-09-19",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『熱風』CD再発売",
+      "releaseTitle": "熱風",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00035。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/249"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00036",
+      "date": "2001-09-19",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『風舞』CD再発売",
+      "releaseTitle": "風舞",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00036。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/250"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00037",
+      "date": "2001-09-19",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『STILL』CD再発売",
+      "releaseTitle": "STILL",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00037。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/213"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v204-2001-yccr-00038",
+      "date": "2001-09-19",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『HEAVEN』CD再発売",
+      "releaseTitle": "HEAVEN",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00038。作品の初発売日とは区別。",
+      "sources": [
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/212"
         }
       ]
     },
@@ -77886,5 +78413,5 @@
       ]
     }
   ],
-  "siteVersion": "2.0.3"
+  "siteVersion": "2.0.4"
 }
