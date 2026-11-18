@@ -17826,6 +17826,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "milestone-ca-10th-anniv-1989-0825",
+      "date": "1989-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA デビュー10周年",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1979年8月25日のデビューから数えた5年刻みの周年日。周年数は暦上の計算によるもので、この日に記念公演・企画を行ったことを意味しない。作品発売やライブは別記録で掲載。 同日に10周年記念アルバム『PRIDE』を発売。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY（デビュー日・活動年表）",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
       "id": "media-v18-1989-025",
       "date": "1989-09-02",
       "artist": "CHAGE and ASKA",
@@ -26426,6 +26442,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "milestone-ca-15th-anniv-1994-0825",
+      "date": "1994-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA デビュー15周年",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1979年8月25日のデビューから数えた5年刻みの周年日。周年数は暦上の計算によるもので、この日に記念公演・企画を行ったことを意味しない。作品発売やライブは別記録で掲載。 8月26日～28日に富士急ハイランドで15周年記念イベントを開催（別日）。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY（デビュー日・活動年表）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
       "id": "release-v06-1994-10-05-127",
       "date": "1994-10-05",
       "artist": "MULTI MAX",
@@ -32018,6 +32050,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "milestone-ca-20th-anniv-1999-0825",
+      "date": "1999-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA デビュー20周年",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1979年8月25日のデビューから数えた5年刻みの周年日。周年数は暦上の計算によるもので、この日に記念公演・企画を行ったことを意味しない。作品発売やライブは別記録で掲載。 同日にアルバム『NO DOUBT』を発売。20周年記念ライブは別日程。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY（デビュー日・活動年表）",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
       "id": "media-v18211-1999-022",
       "date": "1999-08-27",
       "artist": "CHAGE and ASKA",
@@ -33749,6 +33797,26 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
+      "id": "milestone-ca-universal-kittymme-2001-0101",
+      "date": "2001-01-01",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "ユニバーサル ミュージック（キティMME）へ移籍",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "CHAGE and ASKA公式HISTORYは2001年1月1日にユニバーサル ミュージック／キティMMEへの移籍を記載。移籍第1弾シングル『ロケットの樹の下で』（4月25日発売）は作品発売記録として別に登録済み。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY（2000～2009）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "ユニバーサル ミュージック公式・2001年プレスリリース",
+          "url": "https://www.universal-music.co.jp/press-releases/2001-04-16/"
         }
       ]
     },
@@ -40554,6 +40622,22 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "milestone-ca-25th-anniv-2004-0825",
+      "date": "2004-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA デビュー25周年",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1979年8月25日のデビューから数えた5年刻みの周年日。周年数は暦上の計算によるもので、この日に記念公演・企画を行ったことを意味しない。作品発売やライブは別記録で掲載。 25周年ツアー「two-five」や8月28日の「熱風コンサート」は別日程。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY（デビュー日・活動年表）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
       "id": "live-extra-2004-08-28-01",
       "date": "2004-08-28",
       "artist": "CHAGE and ASKA",
@@ -47111,6 +47195,22 @@ window.CA_EVENT_DATA = {
       "prefecture": "神奈川県"
     },
     {
+      "id": "milestone-ca-30th-anniv-2009-0825",
+      "date": "2009-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA デビュー30周年",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1979年8月25日のデビューから数えた5年刻みの周年日。周年数は暦上の計算によるもので、この日に記念公演・企画を行ったことを意味しない。作品発売やライブは別記録で掲載。 30周年記念ベスト『NOTHING BUT C&A』が発売された年。2009年は活動休止を発表した年でもある。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY（デビュー日・活動年表）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ]
+    },
+    {
       "id": "release-2009-live-dvd-box-1",
       "date": "2009-08-26",
       "artist": "CHAGE and ASKA",
@@ -53609,6 +53709,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料",
           "url": "https://chage.jp/information/release/detail-3.php"
+        }
+      ]
+    },
+    {
+      "id": "milestone-ca-35th-anniv-2014-0825",
+      "date": "2014-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "CHAGE and ASKA デビュー35周年",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1979年8月25日のデビューから数えた5年刻みの周年日。周年数は暦上の計算によるもので、この日に記念公演・企画を行ったことを意味しない。作品発売やライブは別記録で掲載。 35周年の日付上の節目。記念企画やデュオとしての活動がこの日に実施されたと主張するものではない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY（デビュー日・活動年表）",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -66973,7 +67089,7 @@ window.CA_EVENT_DATA = {
       "id": "v15-0236",
       "date": "2023-08-25",
       "artist": "CHAGE and ASKA",
-      "category": "milestone",
+      "category": "other",
       "title": "CHAGE and ASKA デビュー44周年",
       "status": "recorded",
       "verification": "primary",
@@ -72031,7 +72147,7 @@ window.CA_EVENT_DATA = {
       "id": "v15-0238",
       "date": "2025-08-25",
       "artist": "CHAGE and ASKA",
-      "category": "milestone",
+      "category": "other",
       "title": "CHAGE and ASKA デビュー46周年",
       "status": "recorded",
       "verification": "primary",
@@ -75092,7 +75208,7 @@ window.CA_EVENT_DATA = {
       "id": "v16-0114",
       "date": "2026-08-25",
       "artist": "CHAGE and ASKA",
-      "category": "milestone",
+      "category": "other",
       "title": "CHAGE and ASKA デビュー47周年",
       "status": "recorded",
       "verification": "primary",
@@ -77313,5 +77429,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-44"
+  "siteVersion": "1.8.2-45"
 };
