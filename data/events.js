@@ -25454,6 +25454,279 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "release-audit-v205-1993-pcca-00534",
+      "date": "1993-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Standing Ovation』APO-CD再発売",
+      "releaseTitle": "Standing Ovation",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：APO-CD再発売。発売日：1993-12-17。規格品番：PCCA-00534。ポニーキャニオンの1993年APO-CD盤。既存の初発売・他規格と区別。発売日・規格は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220039230"
+        },
+        {
+          "label": "補足資料（二次資料）",
+          "url": "https://www.moma-bd.com/ca.standing.htm"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v205-1993-pcca-00535",
+      "date": "1993-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『TURNING POINT』APO-CD再発売",
+      "releaseTitle": "TURNING POINT",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：APO-CD再発売。発売日：1993-12-17。規格品番：PCCA-00535。ポニーキャニオンの1993年APO-CD盤。既存の初発売・他規格と区別。発売日・規格は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/product/detail/220039231?tenpo_cd=410068"
+        },
+        {
+          "label": "補足資料（二次資料）",
+          "url": "https://books.rakuten.co.jp/rb/7452960/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v205-1993-pcca-00536",
+      "date": "1993-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『MIX BLOOD』APO-CD再発売",
+      "releaseTitle": "MIX BLOOD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：APO-CD再発売。発売日：1993-12-17。規格品番：PCCA-00536。ポニーキャニオンの1993年APO-CD盤。既存の初発売・他規格と区別。発売日・規格は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/173224/1/"
+        },
+        {
+          "label": "補足資料（二次資料）",
+          "url": "https://www.moma-bd.com/ca.mixblood.htm"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v205-1993-pcca-00537",
+      "date": "1993-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Mr. ASIA』APO-CD再発売",
+      "releaseTitle": "Mr. ASIA",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：APO-CD再発売。発売日：1993-12-17。規格品番：PCCA-00537。ポニーキャニオンの1993年APO-CD盤。既存の初発売・他規格と区別。発売日・規格は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220039233"
+        },
+        {
+          "label": "補足資料（二次資料）",
+          "url": "https://books.rakuten.co.jp/rb/3908294/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v205-1993-pcca-00538",
+      "date": "1993-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『RHAPSODY』APO-CD再発売",
+      "releaseTitle": "RHAPSODY",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：APO-CD再発売。発売日：1993-12-17。規格品番：PCCA-00538。ポニーキャニオンの1993年APO-CD盤。既存の初発売・他規格と区別。発売日・規格は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220039234"
+        },
+        {
+          "label": "補足資料（二次資料）",
+          "url": "https://www.suruga-ya.jp/product/detail/220021463"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v205-1993-pcca-00539",
+      "date": "1993-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『ENERGY』APO-CD再発売",
+      "releaseTitle": "ENERGY",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：APO-CD再発売。発売日：1993-12-17。規格品番：PCCA-00539。ポニーキャニオンの1993年APO-CD盤。既存の初発売・他規格と区別。発売日・規格は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://books.rakuten.co.jp/rb/3908298/"
+        },
+        {
+          "label": "補足資料（二次資料）",
+          "url": "https://www.moma-bd.com/ca.energy.htm"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v205-1993-pcca-00540",
+      "date": "1993-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『PRIDE』APO-CD再発売",
+      "releaseTitle": "PRIDE",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：APO-CD再発売。発売日：1993-12-17。規格品番：PCCA-00540。ポニーキャニオンの1993年APO-CD盤。既存の初発売・他規格と区別。発売日・規格は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/product/detail/220039236"
+        },
+        {
+          "label": "補足資料（二次資料）",
+          "url": "https://books.rakuten.co.jp/rb/3908300/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v205-1993-pcca-00541",
+      "date": "1993-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『THE STORY of BALLAD』APO-CD再発売",
+      "releaseTitle": "THE STORY of BALLAD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：APO-CD再発売。発売日：1993-12-17。規格品番：PCCA-00541。ポニーキャニオンの1993年APO-CD盤。既存の初発売・他規格と区別。発売日・規格は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://contents.oricon.co.jp/prof/4069/products/173229/1/"
+        },
+        {
+          "label": "補足資料（二次資料）",
+          "url": "https://www.otokichi.com/cgi-bin/jp/original_list.cgi?all=1&artist_id=2296"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v205-1993-pcca-00542",
+      "date": "1993-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SEE YA』APO-CD再発売",
+      "releaseTitle": "SEE YA",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：APO-CD再発売。発売日：1993-12-17。規格品番：PCCA-00542。ポニーキャニオンの1993年APO-CD盤。既存の初発売・他規格と区別。発売日・規格は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/173230/1/"
+        },
+        {
+          "label": "補足資料（二次資料）",
+          "url": "https://newikis.com/ja/SEE_YA"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v205-1993-pcca-00543",
+      "date": "1993-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『TREE』APO-CD再発売",
+      "releaseTitle": "TREE",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：APO-CD再発売。発売日：1993-12-17。規格品番：PCCA-00543。ポニーキャニオンの1993年APO-CD盤。既存の初発売・他規格と区別。発売日・規格は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/product/detail/220039239"
+        },
+        {
+          "label": "補足資料（二次資料）",
+          "url": "https://www.netoff.co.jp/detail/0000860555/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v205-1993-pcca-00544",
+      "date": "1993-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SUPER BEST II』APO-CD再発売",
+      "releaseTitle": "SUPER BEST II",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：APO-CD再発売。発売日：1993-12-17。規格品番：PCCA-00544。ポニーキャニオンの1993年APO-CD盤。既存の初発売・他規格と区別。発売日・規格は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://store.shopping.yahoo.co.jp/windcolor-y-shopping/f27-pcca-00544.html"
+        },
+        {
+          "label": "補足資料（二次資料）",
+          "url": "https://contents.oricon.co.jp/prof/4069/products/173232/1/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v205-1993-pcca-00545",
+      "date": "1993-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『GUYS』APO-CD再発売",
+      "releaseTitle": "GUYS",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：APO-CD再発売。発売日：1993-12-17。規格品番：PCCA-00545。ポニーキャニオンの1993年APO-CD盤。既存の初発売・他規格と区別。発売日・規格は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/product/detail/220039241"
+        },
+        {
+          "label": "補足資料（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220039241"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v205-1993-pcca-00546",
+      "date": "1993-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『RED HILL』APO-CD再発売",
+      "releaseTitle": "RED HILL",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：APO-CD再発売。発売日：1993-12-17。規格品番：PCCA-00546。ポニーキャニオンの1993年APO-CD盤。既存の初発売・他規格と区別。発売日・規格は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/product/detail/220039242"
+        },
+        {
+          "label": "補足資料（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220039242"
+        }
+      ]
+    },
+    {
       "id": "live-longest-tour-1993-1994-029",
       "date": "1993-12-20",
       "artist": "CHAGE and ASKA",
@@ -33215,6 +33488,27 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v205-1999-toct-10703",
+      "date": "1999-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『PRIDE』CD再発売",
+      "releaseTitle": "PRIDE",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1999-12-16。規格品番：TOCT-10703。東芝EMIの1999年再発売盤（CHAGE & ASKA COLLECTION）。既存の初発売・他規格と区別。発売日・規格は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://tower.jp/item/590508"
+        },
+        {
+          "label": "補足資料（二次資料）",
+          "url": "https://www.suruga-ya.jp/product/detail/220058149"
         }
       ]
     },
@@ -78414,5 +78708,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.0.4"
+  "siteVersion": "2.0.5"
 };
