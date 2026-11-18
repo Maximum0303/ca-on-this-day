@@ -1,0 +1,17 @@
+/* Ver.1.8.2-41: visual clarification of scheduled-event records */
+.ca41-review{margin:12px 0 22px;padding:20px 24px;background:linear-gradient(140deg,#1c2b44,#16243b);border:1px solid rgba(232,188,115,.25);border-radius:14px}
+.ca41-review-head{display:flex;align-items:center;justify-content:space-between;gap:16px}
+.ca41-review-head h3{font-size:18px;line-height:1.5;margin:4px 0 6px}
+.ca41-review-head>strong{color:#f8e2ba;font-size:14px;white-space:nowrap}
+.ca41-review p{font-size:12px;line-height:1.85;color:#bac8d9;margin:8px 0}
+.ca41-review strong{color:#f8e2ba}
+.ca41-review details{margin-top:12px;border-top:1px solid rgba(222,227,238,.15);padding-top:10px}
+.ca41-review summary{cursor:pointer;font-size:13px;color:#f8e2ba;font-weight:600;min-height:30px}
+.ca41-review ol{padding-left:23px;margin:8px 0 15px;max-height:460px;overflow:auto;display:grid;gap:10px}
+.ca41-review li{font-size:12px;line-height:1.65;padding-right:10px}
+.ca41-review li a{color:#f8e2ba;overflow-wrap:anywhere}
+.ca41-review li span{display:block;color:#bac8d9;font-size:11px}
+.ca41-no-review{list-style:none;margin-left:-23px;color:#bac8d9}
+.ca41-review .ca41-history-help{font-size:11px;color:#9eafc6;border-top:1px solid rgba(222,227,238,.1);margin-top:16px;padding-top:12px}
+.ca41-needs-review{background:rgba(245,199,111,.12)!important;border-color:rgba(245,199,111,.48)!important;color:#f8e2ba!important}
+@media(max-width:600px){.ca41-review{padding:16px}.ca41-review-head{align-items:flex-start;flex-direction:column;gap:0}.ca41-review ol{max-height:420px}}
