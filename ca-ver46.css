@@ -1,0 +1,17 @@
+/* Ver.1.8.2-46: 誕生日・デビュー記念日の特別表示 */
+/* Ver.44の周年バナーはVer.46に統合。画面上に重複させない。 */
+#ca44-debut-anniversary {display:none!important}
+.ca46-special {padding:16px 18px;margin:13px 0 20px;border:1px solid rgba(221,177,100,.55);border-radius:14px;background:linear-gradient(110deg,rgba(215,169,87,.20),rgba(229,185,111,.07));color:var(--ink,#f4f5f8);line-height:1.65;box-shadow:0 6px 22px rgba(0,0,0,.10)}
+.ca46-special[hidden]{display:none!important}
+.ca46-major{border-color:rgba(246,210,132,.9);background:linear-gradient(120deg,rgba(216,172,88,.29),rgba(122,100,176,.15));box-shadow:0 0 0 1px rgba(249,212,137,.13),0 10px 30px rgba(0,0,0,.17)}
+.ca46-eyebrow {display:block;color:var(--gold-light,#f7d9a6);font-size:10px;letter-spacing:.12em;font-weight:700}
+.ca46-headline{display:flex;justify-content:space-between;align-items:center;gap:12px;margin:6px 0 7px;flex-wrap:wrap}
+.ca46-heading{font-size:16px;line-height:1.55;font-weight:750}
+.ca46-number{display:inline-block;font-weight:850;font-size:clamp(21px,4vw,31px);line-height:1.2;color:var(--gold-light,#ffdda1);white-space:nowrap;font-variant-numeric:tabular-nums}
+.ca46-body{margin:0 0 5px;font-size:13px;line-height:1.8}
+.ca46-note{display:block;color:var(--muted,#b9c4d7);font-size:11px;line-height:1.7}
+.ca46-source{display:inline-block;color:var(--gold-light,#f7d9a6);font-size:11px;margin-top:9px;text-decoration:underline;text-underline-offset:3px}
+.ca46-special-day{position:relative}
+.ca46-day-star{font-size:8px;position:absolute;right:3px;top:1px;color:#f5ca78;line-height:1;pointer-events:none}
+.ca46-legend{color:var(--gold-light,#f7d9a6)}
+@media(max-width:560px){.ca46-special{padding:13px 14px}.ca46-heading{font-size:14px}.ca46-day-star{font-size:7px;right:2px;top:2px}}

@@ -10,7 +10,7 @@
   if (!browse || !events.length || document.getElementById('ca43-check')) return;
   const $ = id => document.getElementById(id);
   const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  const categories = {live:'ライブ', release:'作品発売', media:'テレビ・ラジオ', milestone:'記録・記念日', other:'その他'};
+  const categories = {live:'ライブ', release:'作品発売', media:'テレビ・ラジオ', milestone:'記録・記念日', amateur:'デビュー前・アマチュア活動', other:'その他'};
   const artistOrder = ['CHAGE and ASKA','Chage','ASKA','MULTI MAX'];
   const validYear = e => /^\d{4}-\d{2}-\d{2}$/.test(String(e.date || '')) ? Number(e.date.slice(0,4)) : null;
   const verification = e => e.verification === 'primary' ? 'primary' : e.verification === 'secondary' ? 'secondary' : 'unknown';

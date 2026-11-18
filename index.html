@@ -13,6 +13,7 @@
 <link rel="stylesheet" href="ca-ver42.css">
 <link rel="stylesheet" href="ca-ver43.css">
 <link rel="stylesheet" href="ca-ver44.css">
+<link rel="stylesheet" href="ca-ver46.css">
 <script defer src="data/events.js"></script>
 <script defer src="app.js"></script>
 <script defer src="ca-ver39.js"></script>
@@ -21,6 +22,7 @@
 <script defer src="ca-ver42.js"></script>
 <script defer src="ca-ver43.js"></script>
 <script defer src="ca-ver44.js"></script>
+<script defer src="ca-ver46.js"></script>
 </head>
 <body>
 <div class="ambient"></div>
@@ -66,7 +68,7 @@
       <div class="filters">
         <label class="search-wrap"><span class="sr-only">キーワード検索</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.9" cy="10.9" r="7"/><path d="m16 16 5 5"/></svg><input id="keyword" type="search" placeholder="曲名・ツアー・会場・都道府県で検索" autocomplete="off"></label>
         <label><span>名義</span><select id="artist-filter"><option value="all">すべて</option><option>CHAGE and ASKA</option><option>Chage</option><option>ASKA</option><option>MULTI MAX</option></select></label>
-        <label><span>分類</span><select id="category-filter"><option value="all">すべて</option><option value="live">ライブ</option><option value="release">作品発売</option><option value="media">テレビ・ラジオ</option><option value="milestone">記録・記念日</option><option value="other">その他</option></select></label>
+        <label><span>分類</span><select id="category-filter"><option value="all">すべて</option><option value="live">ライブ</option><option value="release">作品発売</option><option value="media">テレビ・ラジオ</option><option value="milestone">記録・記念日</option><option value="amateur">デビュー前・アマチュア活動</option><option value="other">その他</option></select></label>
         <label><span>年代</span><select id="decade-filter"><option value="all">すべて</option><option value="1970">1970年代</option><option value="1980">1980年代</option><option value="1990">1990年代</option><option value="2000">2000年代</option><option value="2010">2010年代</option><option value="2020">2020年代</option></select></label>
         <!-- UX_PATCH_V18238: 追加検索フィルター -->
         <label><span>西暦年</span><select id="year-filter"><option value="all">すべての年</option></select></label>
@@ -95,7 +97,7 @@
     var version=archive.siteVersion||archive.version||'1.8.2';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.1.8.2-44 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.1.8.2-46 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();
