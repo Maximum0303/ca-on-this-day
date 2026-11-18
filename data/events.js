@@ -16617,6 +16617,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "release-audit-v207-1989-d35a-0485",
+      "date": "1989-03-21",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『SCENE』GOLD CD発売",
+      "releaseTitle": "SCENE",
+      "catalogNumber": "D35A-0485",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：GOLD CD発売。発売日：1989-03-21。規格品番：D35A-0485。初発売・他の再発売盤とは別に扱う。1988年初発売盤のGOLD CD仕様。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/245800/products/95280/1/"
+        }
+      ]
+    },
+    {
       "id": "media-v18-1989-004",
       "date": "1989-03-24",
       "artist": "CHAGE and ASKA",
@@ -18584,6 +18603,291 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/51.html"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1990-pcca-00109",
+      "date": "1990-07-21",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『SCENE』CD再発売",
+      "releaseTitle": "SCENE",
+      "catalogNumber": "PCCA-00109",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1990-07-21。規格品番：PCCA-00109。初発売・他の再発売盤とは別に扱う。1988年初発売版、1989年GOLD CD版と区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.fanfan1.com/products/detail.php?product_id=747581"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1990-pcca-00096",
+      "date": "1990-07-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『風舞』CD再発売",
+      "releaseTitle": "風舞",
+      "catalogNumber": "PCCA-00096",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1990-07-21。規格品番：PCCA-00096。初発売・他の再発売盤とは別に扱う。1990年のポニーキャニオン盤。旧年版・1993年APO-CD・1999年東芝EMI盤・2001年ヤマハ盤とは区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.fanfan1.com/products/detail.php?product_id=784902"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1990-pcca-00097",
+      "date": "1990-07-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『熱風』CD再発売",
+      "releaseTitle": "熱風",
+      "catalogNumber": "PCCA-00097",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1990-07-21。規格品番：PCCA-00097。初発売・他の再発売盤とは別に扱う。1990年のポニーキャニオン盤。旧年版・1993年APO-CD・1999年東芝EMI盤・2001年ヤマハ盤とは区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.fanfan1.com/products/detail.php?product_id=747274"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1990-pcca-00098",
+      "date": "1990-07-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『黄昏の騎士』CD再発売",
+      "releaseTitle": "黄昏の騎士",
+      "catalogNumber": "PCCA-00098",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1990-07-21。規格品番：PCCA-00098。初発売・他の再発売盤とは別に扱う。1990年のポニーキャニオン盤。旧年版・1993年APO-CD・1999年東芝EMI盤・2001年ヤマハ盤とは区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/product/detail/220038877"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1990-pcca-00099",
+      "date": "1990-07-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『熱い想い』CD再発売",
+      "releaseTitle": "熱い想い",
+      "catalogNumber": "PCCA-00099",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1990-07-21。規格品番：PCCA-00099。初発売・他の再発売盤とは別に扱う。1990年のポニーキャニオン盤。旧年版・1993年APO-CD・1999年東芝EMI盤・2001年ヤマハ盤とは区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://artist.cdjournal.com/d/-/1140004354"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1990-pcca-00100",
+      "date": "1990-07-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE&ASKA IV -21世紀-』CD再発売",
+      "releaseTitle": "CHAGE&ASKA IV -21世紀-",
+      "catalogNumber": "PCCA-00100",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1990-07-21。規格品番：PCCA-00100。初発売・他の再発売盤とは別に扱う。1990年のポニーキャニオン盤。旧年版・1993年APO-CD・1999年東芝EMI盤・2001年ヤマハ盤とは区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://contents.oricon.co.jp/prof/4069/products/172807/1/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1990-pcca-00101",
+      "date": "1990-07-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『INSIDE』CD再発売",
+      "releaseTitle": "INSIDE",
+      "catalogNumber": "PCCA-00101",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1990-07-21。規格品番：PCCA-00101。初発売・他の再発売盤とは別に扱う。1990年のポニーキャニオン盤。旧年版・1993年APO-CD・1999年東芝EMI盤・2001年ヤマハ盤とは区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/172808/1/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1990-pcca-00102",
+      "date": "1990-07-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Z=One』CD再発売",
+      "releaseTitle": "Z=One",
+      "catalogNumber": "PCCA-00102",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1990-07-21。規格品番：PCCA-00102。初発売・他の再発売盤とは別に扱う。1990年のポニーキャニオン盤。旧年版・1993年APO-CD・1999年東芝EMI盤・2001年ヤマハ盤とは区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://artist.cdjournal.com/d/-/1140004357"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1990-pcca-00103",
+      "date": "1990-07-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Standing Ovation』CD再発売",
+      "releaseTitle": "Standing Ovation",
+      "catalogNumber": "PCCA-00103",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1990-07-21。規格品番：PCCA-00103。初発売・他の再発売盤とは別に扱う。1990年のポニーキャニオン盤。旧年版・1993年APO-CD・1999年東芝EMI盤・2001年ヤマハ盤とは区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/172810/1/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1990-pcca-00104",
+      "date": "1990-07-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『TURNING POINT』CD再発売",
+      "releaseTitle": "TURNING POINT",
+      "catalogNumber": "PCCA-00104",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1990-07-21。規格品番：PCCA-00104。初発売・他の再発売盤とは別に扱う。1990年のポニーキャニオン盤。旧年版・1993年APO-CD・1999年東芝EMI盤・2001年ヤマハ盤とは区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220038882"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1990-pcca-00105",
+      "date": "1990-07-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『MIX BLOOD』CD再発売",
+      "releaseTitle": "MIX BLOOD",
+      "catalogNumber": "PCCA-00105",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1990-07-21。規格品番：PCCA-00105。初発売・他の再発売盤とは別に扱う。1990年のポニーキャニオン盤。旧年版・1993年APO-CD・1999年東芝EMI盤・2001年ヤマハ盤とは区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/172812/1/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1990-pcca-00106",
+      "date": "1990-07-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Mr.ASIA』CD再発売",
+      "releaseTitle": "Mr.ASIA",
+      "catalogNumber": "PCCA-00106",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1990-07-21。規格品番：PCCA-00106。初発売・他の再発売盤とは別に扱う。1990年のポニーキャニオン盤。旧年版・1993年APO-CD・1999年東芝EMI盤・2001年ヤマハ盤とは区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/172813/1/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1990-pcca-00107",
+      "date": "1990-07-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『RHAPSODY』CD再発売",
+      "releaseTitle": "RHAPSODY",
+      "catalogNumber": "PCCA-00107",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1990-07-21。規格品番：PCCA-00107。初発売・他の再発売盤とは別に扱う。1990年のポニーキャニオン盤。旧年版・1993年APO-CD・1999年東芝EMI盤・2001年ヤマハ盤とは区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://tower.jp/item/546007"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1990-pcca-00108",
+      "date": "1990-07-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『ENERGY』CD再発売",
+      "releaseTitle": "ENERGY",
+      "catalogNumber": "PCCA-00108",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1990-07-21。規格品番：PCCA-00108。初発売・他の再発売盤とは別に扱う。1990年のポニーキャニオン盤。旧年版・1993年APO-CD・1999年東芝EMI盤・2001年ヤマハ盤とは区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220038886"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1990-pcca-00110",
+      "date": "1990-07-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SUPER BEST』CD再発売",
+      "releaseTitle": "SUPER BEST",
+      "catalogNumber": "PCCA-00110",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1990-07-21。規格品番：PCCA-00110。初発売・他の再発売盤とは別に扱う。旧ベストアルバムの1990年ポニーキャニオンCD盤。『SUPER BEST II』とは別作品。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.fanfan1.com/products/detail.php?product_id=800768"
         }
       ]
     },
@@ -30716,6 +31020,25 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "release-audit-v207-1998-toct-10179",
+      "date": "1998-01-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CODE NAME.2 SISTER MOON』CD再発売",
+      "releaseTitle": "CODE NAME.2 SISTER MOON",
+      "catalogNumber": "TOCT-10179",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1998-01-21。規格品番：TOCT-10179。初発売・他の再発売盤とは別に扱う。1998年1月の東芝EMI盤。1999年12月16日のTOCT-10705盤とも区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220091365"
+        }
+      ]
+    },
+    {
       "id": "release-v07-001",
       "date": "1998-03-11",
       "artist": "ASKA",
@@ -30729,6 +31052,101 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1998-toct-10174",
+      "date": "1998-03-11",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SEE YA』CD再発売",
+      "releaseTitle": "SEE YA",
+      "catalogNumber": "TOCT-10174",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1998-03-11。規格品番：TOCT-10174。初発売・他の再発売盤とは別に扱う。1998年3月の東芝EMI「CHAGE & ASKA COLLECTION」再発売盤。1999年12月16日の別規格盤と区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/search_buy?category=&page=32&restrict%5B%5D=person_id%3D252&search_word="
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1998-toct-10175",
+      "date": "1998-03-11",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『TREE』CD再発売",
+      "releaseTitle": "TREE",
+      "catalogNumber": "TOCT-10175",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1998-03-11。規格品番：TOCT-10175。初発売・他の再発売盤とは別に扱う。1998年3月の東芝EMI「CHAGE & ASKA COLLECTION」再発売盤。1999年12月16日の別規格盤と区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://artist.cdjournal.com/d/chage--aska-collection-tree/1198020653"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1998-toct-10176",
+      "date": "1998-03-11",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『GUYS』CD再発売",
+      "releaseTitle": "GUYS",
+      "catalogNumber": "TOCT-10176",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1998-03-11。規格品番：TOCT-10176。初発売・他の再発売盤とは別に扱う。1998年3月の東芝EMI「CHAGE & ASKA COLLECTION」再発売盤。1999年12月16日の別規格盤と区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://artist.cdjournal.com/d/chage--aska-collection-guys/1198020654"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1998-toct-10177",
+      "date": "1998-03-11",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『RED HILL』CD再発売",
+      "releaseTitle": "RED HILL",
+      "catalogNumber": "TOCT-10177",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1998-03-11。規格品番：TOCT-10177。初発売・他の再発売盤とは別に扱う。1998年3月の東芝EMI「CHAGE & ASKA COLLECTION」再発売盤。1999年12月16日の別規格盤と区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://artist.cdjournal.com/d/chage--aska-collection-red-hill/1198020655"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-1998-toct-10178",
+      "date": "1998-03-11",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CODE NAME.1 BROTHER SUN』CD再発売",
+      "releaseTitle": "CODE NAME.1 BROTHER SUN",
+      "catalogNumber": "TOCT-10178",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "secondary",
+      "note": "作品形態：CD再発売。発売日：1998-03-11。規格品番：TOCT-10178。初発売・他の再発売盤とは別に扱う。1998年3月の東芝EMI「CHAGE & ASKA COLLECTION」再発売盤。1999年12月16日の別規格盤と区別。発売日・規格品番は商品情報等の二次資料による確認。",
+      "sources": [
+        {
+          "label": "商品情報（二次資料）",
+          "url": "https://artist.cdjournal.com/d/chage--aska-collection-code-name1-brother-sun/1198020656"
         }
       ]
     },
@@ -34836,6 +35254,101 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/69.html"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-2001-yccr-00004",
+      "date": "2001-04-18",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA the BEST Selection 1988-1998』CD再発売",
+      "releaseTitle": "ASKA the BEST Selection 1988-1998",
+      "catalogNumber": "YCCR-00004",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：CD再発売。発売日：2001-04-18。規格品番：YCCR-00004。初発売・他の再発売盤とは別に扱う。ヤマハミュージックコミュニケーションズ盤。初発売：1999-03-31。発売日・規格品番は発売元公式の商品情報による確認。",
+      "sources": [
+        {
+          "label": "発売元公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/260?ima=0000&link=ROBO004"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-2001-yccr-00005",
+      "date": "2001-04-18",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『kicks』CD再発売",
+      "releaseTitle": "kicks",
+      "catalogNumber": "YCCR-00005",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：CD再発売。発売日：2001-04-18。規格品番：YCCR-00005。初発売・他の再発売盤とは別に扱う。ヤマハミュージックコミュニケーションズ盤。初発売：1998-03-25。発売日・規格品番は発売元公式の商品情報による確認。",
+      "sources": [
+        {
+          "label": "発売元公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/263?ima=0000&link=ROBO004"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-2001-yccr-00002",
+      "date": "2001-04-18",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『VERY BEST ROLL OVER 20TH』CD再発売",
+      "releaseTitle": "VERY BEST ROLL OVER 20TH",
+      "catalogNumber": "YCCR-00002",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：CD再発売。発売日：2001-04-18。規格品番：YCCR-00002。初発売・他の再発売盤とは別に扱う。ヤマハミュージックコミュニケーションズ盤。初発売：1999-12-16。発売日・規格品番は発売元公式の商品情報による確認。",
+      "sources": [
+        {
+          "label": "発売元公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/218?link=ROBO004"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-2001-yccr-00003",
+      "date": "2001-04-18",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『NO DOUBT』CD再発売",
+      "releaseTitle": "NO DOUBT",
+      "catalogNumber": "YCCR-00003",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：CD再発売。発売日：2001-04-18。規格品番：YCCR-00003。初発売・他の再発売盤とは別に扱う。ヤマハミュージックコミュニケーションズ盤。初発売：1999-08-25。発売日・規格品番は発売元公式の商品情報による確認。",
+      "sources": [
+        {
+          "label": "発売元公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/220?link=ROBO004"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v207-2001-yccr-00006",
+      "date": "2001-04-18",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『2nd』CD再発売",
+      "releaseTitle": "2nd",
+      "catalogNumber": "YCCR-00006",
+      "releaseFormat": "CD",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：CD再発売。発売日：2001-04-18。規格品番：YCCR-00006。初発売・他の再発売盤とは別に扱う。ヤマハミュージックコミュニケーションズ盤。初発売：1998-10-21。発売日・規格品番は発売元公式の商品情報による確認。",
+      "sources": [
+        {
+          "label": "発売元公式｜作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/200?ima=0000"
         }
       ]
     },
@@ -78995,5 +79508,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.0.6"
+  "siteVersion": "2.0.7"
 };
