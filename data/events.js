@@ -118,6 +118,26 @@ window.CA_EVENT_DATA = {
       ]
     },
     {
+      "id": "milestone-debut-1979-0825",
+      "date": "1979-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "チャゲ＆飛鳥、『ひとり咲き』でデビュー",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1979年8月25日、シングル『ひとり咲き』でデビュー。同日の作品発売記録とは異なり、活動開始の節目として掲載。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "ASKA公式サイト｜BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ]
+    },
+    {
       "id": "media-v17-1979-005",
       "date": "1979-09-22",
       "artist": "CHAGE and ASKA",
@@ -6380,6 +6400,26 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日・会場",
           "url": "https://www.chage-aska.net/history/"
+        }
+      ]
+    },
+    {
+      "id": "milestone-first-yoyogi-concert-1983-0930",
+      "date": "1983-09-30",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "国立代々木競技場第一体育館で初の音楽公演を開催",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "「21世紀への招待 Part 1」の1983年9月30日公演。同会場で初めて本格的な音楽公演が行われた歴史的な出来事。通常のライブ記録は別IDで掲載。",
+      "sources": [
+        {
+          "label": "日本スポーツ振興センター｜月刊 国立競技場（1983年）",
+          "url": "https://www.jpnsport.go.jp/yoyogi/Portals/0/yoyogi/pdf/history/no298gekkankokuritsu%201983S581225.pdf"
+        },
+        {
+          "label": "ヤマハミュージックコミュニケーションズ｜作品紹介",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/527?ima=0000&link=ROBO004"
         }
       ]
     },
@@ -17952,6 +17992,22 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/50.html"
+        }
+      ]
+    },
+    {
+      "id": "milestone-multi-max-formation-1989-1021",
+      "date": "1989-10-21",
+      "artist": "MULTI MAX",
+      "category": "milestone",
+      "title": "CHAGEがMULTI MAXを結成",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "CHAGE、浅井ひろみ、村上啓介によるグループを結成。同日にシングル『SOME DAY』を発売。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY",
+          "url": "https://www.chage-aska.net/history/"
         }
       ]
     },
@@ -32851,7 +32907,7 @@ window.CA_EVENT_DATA = {
       "id": "other-v18211-2000-0501-ymc",
       "date": "2000-05-01",
       "artist": "CHAGE and ASKA",
-      "category": "other",
+      "category": "milestone",
       "title": "ヤマハミュージックコミュニケーションズへ移籍",
       "status": "recorded",
       "verification": "primary",
@@ -39026,7 +39082,7 @@ window.CA_EVENT_DATA = {
       "id": "event-v08-003",
       "date": "2003-12-01",
       "artist": "Chage",
-      "category": "milestone",
+      "category": "other",
       "title": "『ギャラリーチャゲラッチョ』開催開始",
       "status": "recorded",
       "verification": "primary",
@@ -41480,7 +41536,7 @@ window.CA_EVENT_DATA = {
       "id": "milestone-guam-fc-2005-course-a",
       "date": "2005-03-03",
       "artist": "CHAGE and ASKA",
-      "category": "milestone",
+      "category": "other",
       "title": "TUG OF C&A Member Meeting in Guam ’05 Aコース開始",
       "status": "recorded",
       "verification": "primary",
@@ -41496,7 +41552,7 @@ window.CA_EVENT_DATA = {
       "id": "milestone-guam-fc-2005-course-b",
       "date": "2005-03-07",
       "artist": "CHAGE and ASKA",
-      "category": "milestone",
+      "category": "other",
       "title": "TUG OF C&A Member Meeting in Guam ’05 Bコース開始",
       "status": "recorded",
       "verification": "primary",
@@ -45487,7 +45543,7 @@ window.CA_EVENT_DATA = {
       "id": "other-2009-blog-open",
       "date": "2009-03-19",
       "artist": "Chage",
-      "category": "other",
+      "category": "milestone",
       "title": "Chage公式ブログ「Many Many Happy Returns」開設",
       "status": "recorded",
       "verification": "primary",
@@ -52533,7 +52589,7 @@ window.CA_EVENT_DATA = {
       "id": "v11-other-008",
       "date": "2013-03-28",
       "artist": "CHAGE and ASKA",
-      "category": "milestone",
+      "category": "other",
       "title": "スペシャルライブ2013「On Your Mark」開催発表",
       "status": "recorded",
       "verification": "primary",
@@ -52604,7 +52660,7 @@ window.CA_EVENT_DATA = {
       "id": "v11-other-010",
       "date": "2013-06-11",
       "artist": "CHAGE and ASKA",
-      "category": "milestone",
+      "category": "other",
       "title": "スペシャルライブ2013「On Your Mark」延期発表",
       "status": "recorded",
       "verification": "primary",
@@ -52693,7 +52749,7 @@ window.CA_EVENT_DATA = {
       "id": "v11-other-011",
       "date": "2013-12-12",
       "artist": "CHAGE and ASKA",
-      "category": "milestone",
+      "category": "other",
       "title": "スペシャルライブ2013「On Your Mark」中止発表",
       "status": "canceled",
       "verification": "primary",
@@ -55549,7 +55605,7 @@ window.CA_EVENT_DATA = {
       "id": "v12-aska-fukuoka-youtube",
       "date": "2016-12-24",
       "artist": "ASKA",
-      "category": "milestone",
+      "category": "other",
       "title": "ASKAが新曲「FUKUOKA」をYouTubeで公開",
       "status": "recorded",
       "verification": "secondary",
@@ -62318,7 +62374,7 @@ window.CA_EVENT_DATA = {
       "id": "v14-chage2021-onlinefan",
       "date": "2021-05-07",
       "artist": "Chage",
-      "category": "milestone",
+      "category": "other",
       "title": "Chage オンラインファンミーティング2021 ～君に逢えるみたい～ 開始",
       "status": "recorded",
       "verification": "primary",
@@ -64130,7 +64186,7 @@ window.CA_EVENT_DATA = {
       "id": "v14-chage2022-onlinefanstart",
       "date": "2022-01-14",
       "artist": "Chage",
-      "category": "milestone",
+      "category": "other",
       "title": "Chage オンラインファンミーティング2022 ～めぐり合った奇跡は素敵！～ 開始",
       "status": "recorded",
       "verification": "primary",
@@ -72549,7 +72605,7 @@ window.CA_EVENT_DATA = {
       "id": "v15-0239",
       "date": "2025-09-28",
       "artist": "Chage",
-      "category": "milestone",
+      "category": "media",
       "title": "JFN「Chageの音道」放送終了",
       "status": "recorded",
       "verification": "primary",
@@ -73465,7 +73521,7 @@ window.CA_EVENT_DATA = {
       "id": "v15-0240",
       "date": "2025-12-06",
       "artist": "Chage",
-      "category": "milestone",
+      "category": "media",
       "title": "FM FUKUOKA「ちゃげっていうラジオ」放送開始",
       "status": "recorded",
       "verification": "primary",
@@ -75210,7 +75266,7 @@ window.CA_EVENT_DATA = {
       "id": "v16-0110",
       "date": "2026-09-18",
       "artist": "ASKA",
-      "category": "other",
+      "category": "milestone",
       "title": "ASKAライブ映像配信サービス「ASKA GARAGE」開始",
       "status": "recorded",
       "verification": "primary",
@@ -77257,5 +77313,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "1.8.2-41"
+  "siteVersion": "1.8.2-44"
 };
