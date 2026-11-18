@@ -12,6 +12,7 @@
 <link rel="stylesheet" href="ca-ver41.css">
 <link rel="stylesheet" href="ca-ver42.css">
 <link rel="stylesheet" href="ca-ver43.css">
+<link rel="stylesheet" href="ca-ver44.css">
 <script defer src="data/events.js"></script>
 <script defer src="app.js"></script>
 <script defer src="ca-ver39.js"></script>
@@ -19,6 +20,7 @@
 <script defer src="ca-ver41.js"></script>
 <script defer src="ca-ver42.js"></script>
 <script defer src="ca-ver43.js"></script>
+<script defer src="ca-ver44.js"></script>
 </head>
 <body>
 <div class="ambient"></div>
@@ -93,7 +95,7 @@
     var version=archive.siteVersion||archive.version||'1.8.2';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.1.8.2-43 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.1.8.2-44 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();

@@ -1,0 +1,7 @@
+/* 画面 Ver.1.8.2-44｜デビュー周年の自動表示 */
+.ca44-anniversary{border:1px solid rgba(229,192,126,.52);border-radius:12px;background:linear-gradient(115deg,rgba(216,173,105,.16),rgba(216,173,105,.045));padding:14px 16px;margin:12px 0 18px;color:var(--ink,#f7f7f8);line-height:1.7}
+.ca44-anniversary[hidden]{display:none!important}
+.ca44-anniversary strong{font-size:14px;font-weight:700;display:block;color:var(--gold-light,#f8dcaa)}
+.ca44-anniversary span{display:block;font-size:13px;margin-top:3px}
+.ca44-anniversary small{display:block;color:var(--muted,#b7c1d0);font-size:11px;margin-top:5px}
+@media(max-width:520px){.ca44-anniversary{padding:12px}.ca44-anniversary strong{font-size:13px}}
