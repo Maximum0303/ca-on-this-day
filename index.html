@@ -147,7 +147,7 @@
     var version=archive.siteVersion||archive.version||'1.8.2';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.2.2.2 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.2.2.3 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();
@@ -629,5 +629,107 @@ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',
 })();
 </script>
 <!-- /CA_SHARE_HOME_FIX_V219 -->
+
+<style id="ca-media-v223-style">
+/* 第55回：番組名が明記されたメディア記録だけを補助表示する */
+.ca-media-v223-box{margin-top:22px}
+.ca-media-v223-fields{display:grid;grid-template-columns:minmax(120px,180px) minmax(0,1fr);gap:10px 18px;margin:12px 0 0;font-size:1.05rem;line-height:1.8}
+.ca-media-v223-fields dt{color:#d1def0;font-weight:700}
+.ca-media-v223-fields dd{margin:0;color:#fff;overflow-wrap:anywhere}
+.ca-media-v223-note{color:#cdd9e7;font-size:.95rem;line-height:1.8;margin:13px 0}
+.ca-media-v223-nav{display:flex;gap:12px;flex-wrap:wrap;margin:16px 0}
+.ca-media-v223-nav a,.ca-media-v223-search{display:inline-flex;min-height:44px;align-items:center;padding:9px 14px;border:1px solid #748aa8;border-radius:9px;background:#243955;color:#ffe1a6;text-decoration:underline;text-underline-offset:3px;font-weight:700;overflow-wrap:anywhere}
+.ca-media-v223-related{display:grid;gap:10px;margin:15px 0}
+.ca-media-v223-item{border:1px solid #5b7191;background:#20324e;border-radius:10px;padding:13px 15px;line-height:1.65}
+.ca-media-v223-item time{display:block;color:#f1daa5;font-weight:700;margin-bottom:3px}
+.ca-media-v223-item a{color:#ffe1a6;text-decoration:underline;text-underline-offset:3px;font-size:1.06rem;overflow-wrap:anywhere}
+.ca-media-v223-item p{margin:5px 0 0;color:#d5e0ed;font-size:.94rem;overflow-wrap:anywhere}
+.ca-media-v223-item[aria-current="true"]{border-color:#f4d99c}
+.ca-media-v223-more{font:inherit;font-weight:700;cursor:pointer;min-height:44px;margin-top:5px;padding:8px 15px;border:1px solid #8396b1;border-radius:9px;background:#29415f;color:#ffe2aa}
+.ca-media-v223-more:focus-visible,.ca-media-v223-search:focus-visible,.ca-media-v223-nav a:focus-visible{outline:3px solid #f4d99c;outline-offset:3px}
+@media(max-width:600px){.ca-media-v223-fields{grid-template-columns:1fr;gap:2px}.ca-media-v223-fields dd{margin-bottom:10px}.ca-media-v223-item{padding:12px}}
+</style>
+<script id="ca-media-v223-script">
+(function(){
+'use strict';
+function start(){
+ const id=new URLSearchParams(location.search).get('event');
+ if(!id)return;
+ const archive=window.CA_EVENT_DATA||{};
+ const events=Array.isArray(archive.events)?archive.events:[];
+ const current=events.find(e=>String(e.id)===id);
+ if(!current||current.category!=='media')return;
+ const paper=document.querySelector('#ca-single-detail .ca-detail-paper');
+ if(!paper||paper.querySelector('.ca-media-v223-box'))return;
+ const mk=(tag,cls,s)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(s!==undefined&&s!==null)n.textContent=String(s);return n;};
+ const normalize=v=>String(v||'').normalize('NFKC').trim();
+ // Title-only extraction: never invent programme names from notes, station names, or source URLs.
+ function program(e){
+  const t=String(e.title||'');
+  const m=t.match(/^([^「」]{0,100})「([^」]{2,120})」/);
+  if(!m)return null;
+  // Ignore advertisements and theme songs even if the prefix mentions television.
+  if(/(?:CM|コマーシャル|広告|テーマソング)/i.test(m[1]))return null;
+  // Ignore a quoted song, advertisement or performance name without a broadcast-like prefix.
+  if(!/(テレビ|ラジオ|配信番組|FM|AM|BS|CS|NHK|TBS|フジ|日テレ|WOWOW|J-WAVE|TOKYO MX|ニッポン放送|放送|NACK5|JFN|K-mix|K-MIX|α-STATION|AIR-G|HTB|RCC|RKB|KBC|ABC|MBS|MX|TV)/i.test(m[1]))return null;
+  return {name:m[2].trim(),key:normalize(m[2])};
+ }
+ const p=program(current);
+ const station=String(current.broadcastStation||'').trim();
+ if(!p&&!station)return;
+ const section=mk('section','ca-detail-section ca-media-v223-box');
+ section.append(mk('h2','','番組・放送記録の詳細'));
+ const dl=mk('dl','ca-media-v223-fields');
+ const field=(label,value)=>{if(value)dl.append(mk('dt','',label),mk('dd','',value));};
+ field('登録日',String(current.date||''));
+ if(p)field('番組名（タイトルから抽出）',p.name);
+ if(station)field('放送局（登録値）',station);
+ field('確認状況',current.verification==='primary'?'一次資料確認':current.verification==='secondary'?'二次資料による確認':'原典確認状況未設定');
+ section.append(dl);
+ section.append(mk('p','ca-media-v223-note','登録日は既存のデータに記載された日付です。収録・放送・再放送・配信の別や放送局は、タイトル・備考・出典を確認してください。この欄から推測で補完していません。'));
+ if(p){
+  const search=new URL(location.href);search.search='';search.searchParams.set('q',p.name);search.searchParams.set('category','media');search.hash='browse';
+  const link=mk('a','ca-media-v223-search','「'+p.name+'」を検索');link.href=search.href;section.append(link);
+  const same=events.filter(e=>e.category==='media'&&String(e.artist||'')===String(current.artist||'')&&program(e)?.key===p.key)
+    .sort((a,b)=>String(a.date).localeCompare(String(b.date))||String(a.id).localeCompare(String(b.id)));
+  if(same.length>1){
+   const pos=same.findIndex(e=>String(e.id)===id);
+   section.append(mk('h2','','同じ番組名の登録記録（'+same.length+'件）'));
+   section.append(mk('p','ca-media-v223-note','同じ名義・番組名の文字列が一致する記録です。すべてが異なる放送内容とは限らず、再放送・連日放送・同日別記録が含まれる場合があります。'));
+   const urlFor=e=>{const u=new URL(location.href);u.search='';if(/^\d{4}-\d{2}-\d{2}$/.test(String(e.date||'')))u.searchParams.set('date',String(e.date).slice(5));u.searchParams.set('event',String(e.id));u.hash='browse';return u.href;};
+   const nav=mk('nav','ca-media-v223-nav');nav.setAttribute('aria-label','同じ番組名の前後の登録記録');
+   for(const [idx,label] of [[pos-1,'← 前の登録記録'],[pos+1,'次の登録記録 →']]){
+    if(idx<0||idx>=same.length)continue;
+    const a=mk('a','',label);a.href=urlFor(same[idx]);nav.append(a);
+   }
+   if(nav.childElementCount)section.append(nav);
+   const list=mk('div','ca-media-v223-related');
+   const more=mk('button','ca-media-v223-more');more.type='button';
+   let shown=0;
+   function expand(){
+    const next=Math.min(same.length,shown+12);
+    for(let i=shown;i<next;i++){
+     const x=same[i],selected=String(x.id)===id,card=mk('article','ca-media-v223-item');
+     if(selected)card.setAttribute('aria-current','true');
+     const pretty=String(x.date||'').replace(/^(\d{4})-(\d{2})-(\d{2})$/,(_,y,m,d)=>y+'年'+Number(m)+'月'+Number(d)+'日');
+     const time=mk('time','',pretty);if(/^\d{4}-\d{2}-\d{2}$/.test(String(x.date||'')))time.dateTime=x.date;
+     card.append(time);
+     if(selected)card.append(mk('strong','',String(x.title||'')+'（この記録）'));
+     else {const a=mk('a','',x.title||'タイトル未設定');a.href=urlFor(x);card.append(a);}
+     const hint=[String(x.broadcastStation||'').trim(),x.verification==='primary'?'一次資料確認':x.verification==='secondary'?'二次資料確認':'確認状況未設定'].filter(Boolean).join(' ／ ');
+     if(hint)card.append(mk('p','',hint));
+     list.append(card);
+    }
+    shown=next;more.hidden=shown>=same.length;more.textContent='さらに表示（残り'+(same.length-shown)+'件）';
+   }
+   more.addEventListener('click',expand);expand();section.append(list,more);
+  }
+ }
+ const first=paper.querySelector('.ca-detail-section');paper.insertBefore(section,first||null);
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start,{once:true});else start();
+})();
+</script>
+
 </body>
 </html>
