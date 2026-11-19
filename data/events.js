@@ -51104,13 +51104,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "12",
       "status": "released",
       "verification": "primary",
-      "note": "ベストアルバム",
+      "note": "セルフカバーアルバム",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage-and-aska/products/umck-1347/"
         }
-      ]
+      ],
+      "releaseFormat": "CD",
+      "catalogNumber": "UMCK-1347"
     },
     {
       "id": "live-aska-10days-2010-002",
@@ -52053,6 +52059,29 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage/products/umck-5297/"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage/products/umck-9380/"
+        }
+      ],
+      "releaseFormat": "CD MAXI（通常盤・初回限定盤）",
+      "releaseEditions": [
+        {
+          "releaseTitle": "まわせ大きな地球儀（通常盤）",
+          "catalogNumber": "UMCK-5297",
+          "releaseFormat": "CD MAXI",
+          "sourceUrl": "https://www.universal-music.co.jp/chage/products/umck-5297/"
+        },
+        {
+          "releaseTitle": "まわせ大きな地球儀（初回限定盤）",
+          "catalogNumber": "UMCK-9380",
+          "releaseFormat": "CD MAXI＋DVD",
+          "sourceUrl": "https://www.universal-music.co.jp/chage/products/umck-9380/"
         }
       ]
     },
@@ -52128,8 +52157,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage/products/umck-1377/"
         }
-      ]
+      ],
+      "releaseFormat": "CD",
+      "catalogNumber": "UMCK-1377"
     },
     {
       "id": "release-2010-kimi-no-shiranai",
@@ -52145,8 +52180,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage-and-aska/products/umck-1375/"
         }
-      ]
+      ],
+      "releaseFormat": "CD",
+      "catalogNumber": "UMCK-1375"
     },
     {
       "id": "live-aska-faces-2010-003",
@@ -53316,9 +53357,28 @@ window.CA_EVENT_DATA = {
         {
           "label": "発売元公式作品情報",
           "url": "https://www.universal-music.co.jp/p/POXS-22004/"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.fellows.tokyo/discography/detail/69/"
         }
       ],
-      "releaseTitle": "FACES』ライブ映像・音源／配信"
+      "releaseTitle": "FACES』ライブ映像・音源／配信",
+      "releaseFormat": "Blu-ray・DVD（同日発売）",
+      "releaseEditions": [
+        {
+          "releaseTitle": "ASKA CONCERT TOUR 10>>11 FACEs（Blu-ray）",
+          "catalogNumber": "POXS-22004",
+          "releaseFormat": "Blu-ray",
+          "sourceUrl": "https://www.universal-music.co.jp/p/POXS-22004/"
+        },
+        {
+          "releaseTitle": "ASKA CONCERT TOUR 10>>11 FACEs（DVD）",
+          "catalogNumber": "POBD-22028",
+          "releaseFormat": "DVD",
+          "sourceUrl": "https://www.fellows.tokyo/discography/detail/69/"
+        }
+      ]
     },
     {
       "id": "v11-dream-chain-2011",
@@ -54149,9 +54209,32 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage/products/poxs-22005/"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage/products/pobd-22042/"
         }
       ],
-      "releaseTitle": "まわせ大きな地球儀』ライブ映像"
+      "releaseTitle": "まわせ大きな地球儀』ライブ映像",
+      "releaseFormat": "Blu-ray・DVD（同日発売）",
+      "releaseEditions": [
+        {
+          "releaseTitle": "ChageLiveTour10-11 まわせ大きな地球儀（Blu-ray）",
+          "catalogNumber": "POXS-22005",
+          "releaseFormat": "Blu-ray",
+          "sourceUrl": "https://www.universal-music.co.jp/chage/products/poxs-22005/"
+        },
+        {
+          "releaseTitle": "ChageLiveTour10-11 まわせ大きな地球儀（DVD）",
+          "catalogNumber": "POBD-22042",
+          "releaseFormat": "DVD",
+          "sourceUrl": "https://www.universal-music.co.jp/chage/products/pobd-22042/"
+        }
+      ]
     },
     {
       "id": "v11-release-010",
@@ -54374,9 +54457,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "アーティスト公式ディスコグラフィー",
+          "url": "https://www.chage-aska.net/discography/video/guys_bluray.php"
         }
       ],
-      "releaseTitle": "CHAGE AND ASKA CONCERT MOVIE GUYS』Blu-ray"
+      "releaseTitle": "CHAGE AND ASKA CONCERT MOVIE GUYS』Blu-ray",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22006"
     },
     {
       "id": "v11-release-bluray-apr25-02",
@@ -54391,9 +54480,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "アーティスト公式ディスコグラフィー",
+          "url": "https://www.chage-aska.net/discography/video/yumenobannin_special_event_bluray.php"
         }
       ],
-      "releaseTitle": "CHAGE&ASKA 夢の番人 SPECIAL EVENT1993 GUYS』Blu-ray"
+      "releaseTitle": "CHAGE&ASKA 夢の番人 SPECIAL EVENT1993 GUYS』Blu-ray",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22007"
     },
     {
       "id": "v11-release-bluray-apr25-03",
@@ -54408,9 +54503,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "商品情報（二次資料・品番確認）",
+          "url": "https://www.oricon.co.jp/prof/245800/products/957342/1/"
         }
       ],
-      "releaseTitle": "ASKA CONCERT TOUR GOOD TIME』Blu-ray"
+      "releaseTitle": "ASKA CONCERT TOUR GOOD TIME』Blu-ray",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22008"
     },
     {
       "id": "v11-release-bluray-apr25-04",
@@ -54425,9 +54526,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "アーティスト公式ディスコグラフィー",
+          "url": "https://www.chage-aska.net/discography/video/tour_02_03_bluray.php"
         }
       ],
-      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE』Blu-ray"
+      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE』Blu-ray",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22009"
     },
     {
       "id": "v11-release-bluray-apr25-05",
@@ -54442,9 +54549,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "アーティスト公式ディスコグラフィー",
+          "url": "https://www.chage-aska.net/discography/video/countdown_live_bluray.php"
         }
       ],
-      "releaseTitle": "CHAGE and ASKA COUNTDOWN LIVE 03>>04 in SAPPORO DOME』Blu-ray"
+      "releaseTitle": "CHAGE and ASKA COUNTDOWN LIVE 03>>04 in SAPPORO DOME』Blu-ray",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22010"
     },
     {
       "id": "v11-release-bluray-apr25-06",
@@ -54459,9 +54572,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "アーティスト公式ディスコグラフィー",
+          "url": "https://www.chage-aska.net/discography/video/two_five_bluray.php"
         }
       ],
-      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 2004 two-five』Blu-ray"
+      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 2004 two-five』Blu-ray",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22011"
     },
     {
       "id": "v11-release-bluray-apr25-07",
@@ -54476,9 +54595,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "アーティスト公式ディスコグラフィー",
+          "url": "https://www.chage-aska.net/discography/video/neppu_bluray.php"
         }
       ],
-      "releaseTitle": "CHAGE and ASKA 25th Anniversary Special チャゲ＆飛鳥 熱風コンサート』Blu-ray"
+      "releaseTitle": "CHAGE and ASKA 25th Anniversary Special チャゲ＆飛鳥 熱風コンサート』Blu-ray",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22012"
     },
     {
       "id": "v11-release-bluray-apr25-08",
@@ -54493,9 +54618,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "商品情報（二次資料・品番確認）",
+          "url": "https://contents.oricon.co.jp/prof/245800/products/957352/1/"
         }
       ],
-      "releaseTitle": "ASKA Concert Tour 05>>06 My Game is ASKA』Blu-ray"
+      "releaseTitle": "ASKA Concert Tour 05>>06 My Game is ASKA』Blu-ray",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22013"
     },
     {
       "id": "live-v11-chage-live-2012-002",
@@ -54674,9 +54805,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/p/POXS-22014/"
         }
       ],
-      "releaseTitle": "Chage and ASKA Concert tour 2007 DOUBLE』Blu-ray"
+      "releaseTitle": "Chage and ASKA Concert tour 2007 DOUBLE』Blu-ray",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22014"
     },
     {
       "id": "v11-release-bluray-may23-02",
@@ -54691,9 +54828,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/p/POXS-22015/"
         }
       ],
-      "releaseTitle": "Chage and ASKA Concert 2007 alive in live』Blu-ray"
+      "releaseTitle": "Chage and ASKA Concert 2007 alive in live』Blu-ray",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22015"
     },
     {
       "id": "v11-release-bluray-may23-03",
@@ -54708,9 +54851,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/p/POXS-22016/"
         }
       ],
-      "releaseTitle": "ASKA SYMPHONIC CONCERT TOUR 2008 SCENE』Blu-ray"
+      "releaseTitle": "ASKA SYMPHONIC CONCERT TOUR 2008 SCENE』Blu-ray",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22016"
     },
     {
       "id": "v11-release-bluray-may23-04",
@@ -54725,9 +54874,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage/products/poxs-22017/"
         }
       ],
-      "releaseTitle": "Chage CONCERT TOUR 2008 アイシテル』Blu-ray"
+      "releaseTitle": "Chage CONCERT TOUR 2008 アイシテル』Blu-ray",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22017"
     },
     {
       "id": "v11-release-bluray-may23-05",
@@ -54742,9 +54897,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "商品情報（二次資料・品番確認）",
+          "url": "https://www.billboard-japan.com/goods/detail/239686"
         }
       ],
-      "releaseTitle": "ASKA CONCERT TOUR 2009 WALK』Blu-ray"
+      "releaseTitle": "ASKA CONCERT TOUR 2009 WALK』Blu-ray",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22018"
     },
     {
       "id": "v11-release-bluray-may23-06",
@@ -54759,9 +54920,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "商品情報（二次資料・品番確認）",
+          "url": "https://www.billboard-japan.com/goods/detail/239687"
         }
       ],
-      "releaseTitle": "Chageドキュメント2009～日々即是空～』Blu-ray"
+      "releaseTitle": "Chageドキュメント2009～日々即是空～』Blu-ray",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22019"
     },
     {
       "id": "v11-release-bluray-may23-07",
@@ -54776,9 +54943,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/p/POXS-22020/"
         }
       ],
-      "releaseTitle": "ASKA THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス』Blu-ray"
+      "releaseTitle": "ASKA THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス』Blu-ray",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22020"
     },
     {
       "id": "live-v11-chage-tea-2012-001",
@@ -80627,5 +80800,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.0.15"
+  "siteVersion": "2.0.16"
 };
