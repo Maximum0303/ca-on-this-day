@@ -12999,13 +12999,19 @@
       "title": "『SUPER BEST』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：ベストアルバム。初発売。『SUPER BEST II』や『SUPER BEST BOX』とは別作品。",
+      "note": "作品形態：ベストアルバム。初発売。『SUPER BEST II』や『SUPER BEST BOX』とは別作品。\n【1985〜1989年・規格品番補完】 1987年初発売CDの規格品番はD32P-6064（二次資料で照合）。公式ディスコグラフィーのPCCA-00110は1990年発売のCD再発売盤を指すため、この初発売盤とは区別する。",
       "sources": [
         {
           "label": "C&A公式ディスコグラフィー｜SUPER BEST",
           "url": "https://www.chage-aska.net/discography/album/super_best.php"
+        },
+        {
+          "label": "参考資料（二次資料・1987年初発売CD品番）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/94832/1/"
         }
-      ]
+      ],
+      "format": "CD（1987年初発売盤）",
+      "catalogNumber": "D32P-6064"
     },
     {
       "id": "media-v18-1987-006",
@@ -17033,12 +17039,29 @@
       "title": "『WALK』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：シングル。1989年のシングル初発売。1992年の再発売盤、同名の映像作品とは別。",
+      "note": "作品形態：シングル。1989年のシングル初発売。1992年の再発売盤、同名の映像作品とは別。\n【1985〜1989年・規格品番補完】 1989年初発売のEP盤7A-0953と8cm CD盤S10A-0247（品番は二次資料で照合）。公式ディスコグラフィーのPCDA-00294は1992年3月25日の再発売盤の品番であり、1989年初発売盤に適用しない。カセット版の品番・発売日は原典照合待ち。",
       "sources": [
         {
           "label": "C&A公式ディスコグラフィー｜WALK",
           "url": "https://www.chage-aska.net/discography/single/walk.php"
+        },
+        {
+          "label": "参考資料（二次資料・1989年EP盤品番）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/26350/1/"
+        },
+        {
+          "label": "参考資料（二次資料・1989年8cm CD盤品番）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/26350/3/"
+        },
+        {
+          "label": "参考資料（二次資料・1992年再発売盤との区別）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/178613/1/"
         }
+      ],
+      "format": "シングル（EP盤・8cm CD盤）",
+      "formats": [
+        "EP盤（7インチ）：7A-0953（品番は二次資料）",
+        "8cm CD盤：S10A-0247（品番は二次資料）"
       ]
     },
     {
@@ -17065,13 +17088,15 @@
       "title": "『WALK』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：VHS・映像作品。1989年発売のVHS映像作品（V88M-1842）。同月8日のシングル『WALK』と区別。",
+      "note": "作品形態：VHS・映像作品。1989年発売のVHS映像作品（V88M-1842）。同月8日のシングル『WALK』と区別。\n【1985〜1989年・規格品番補完】 1989年発売の映像VTR製品番号V88M-1842（公式ディスコグラフィーで直接確認）。1989年3月8日発売の同名シングル、2020年発売のDVDとは別商品。",
       "sources": [
         {
           "label": "C&A公式ディスコグラフィー｜VHS「WALK」",
           "url": "https://www.chage-aska.net/discography/video/walk.php"
         }
-      ]
+      ],
+      "format": "VTR",
+      "catalogNumber": "V88M-1842"
     },
     {
       "id": "release-audit-v207-1989-d35a-0485",
@@ -18694,13 +18719,15 @@
       "title": "『HISTORY I ～10years after～』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：VHS・映像作品。10周年記念のビデオ作品（V65M-1955）。1990年発売の「HISTORY II」と区別。",
+      "note": "作品形態：VHS・映像作品。10周年記念のビデオ作品（V65M-1955）。1990年発売の「HISTORY II」と区別。\n【1985〜1989年・規格品番補完】 1989年発売の映像VTR製品番号V65M-1955（公式ディスコグラフィーで直接確認）。後年の再発売・別規格盤と区別。",
       "sources": [
         {
           "label": "C&A公式ディスコグラフィー｜HISTORY I",
           "url": "https://www.chage-aska.net/discography/video/history_one.php"
         }
-      ]
+      ],
+      "format": "VTR",
+      "catalogNumber": "V65M-1955"
     },
     {
       "id": "media-v18-1989-014",
@@ -82411,5 +82438,5 @@
       ]
     }
   ],
-  "siteVersion": "2.0.25"
+  "siteVersion": "2.0.26"
 }
