@@ -1,4 +1,4 @@
-/* 今日はC&Aの何の日？｜公開用イベントデータ */
+/* 今日はC&Aの何の日？｜公開用データ */
 window.CA_EVENT_DATA = {
   "schemaVersion": 1,
   "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2027年の公式発表済み予定を追加。開催予定の記録は日付経過のみで開催済みと断定せず、延期・中止と区別して表示します。既存の記録の確認日・履歴はそのまま保存しています。",
@@ -34442,7 +34442,9 @@ window.CA_EVENT_DATA = {
           "label": "補足資料（二次資料）",
           "url": "https://www.suruga-ya.jp/product/detail/220058149"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-10703",
+      "releaseFormat": "CD（2枚組）"
     },
     {
       "id": "release-audit-v206-1999-toct-10691",
@@ -36026,7 +36028,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/221"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00007",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00008",
@@ -36043,7 +36047,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/222"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00008",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00009",
@@ -36060,7 +36066,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/223"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00009",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00010",
@@ -36077,7 +36085,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/224"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00010",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00011",
@@ -36094,7 +36104,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/257"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00011",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00012",
@@ -36111,7 +36123,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/201"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00012",
+      "releaseFormat": "CD"
     },
     {
       "id": "media-v18212-2001-011",
@@ -36144,7 +36158,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/225"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00013",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00014",
@@ -36161,7 +36177,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/226"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00014",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00015",
@@ -36178,7 +36196,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/227"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00015",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00016",
@@ -36195,7 +36215,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/228"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00016",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00017",
@@ -36212,7 +36234,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/256"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00017",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00018",
@@ -36229,7 +36253,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/208"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00018",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00020",
@@ -36246,7 +36272,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/233"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00020",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00021",
@@ -36263,7 +36291,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/234"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00021",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00022",
@@ -36280,7 +36310,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/236"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00022",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00023",
@@ -36297,7 +36329,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/255"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00023",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00024",
@@ -36314,7 +36348,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/209"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00024",
+      "releaseFormat": "CD"
     },
     {
       "id": "media-v18212-2001-012",
@@ -36448,7 +36484,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/238"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00025",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00026",
@@ -36465,7 +36503,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/239"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00026",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00027",
@@ -36482,7 +36522,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/242"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00027",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00028",
@@ -36499,7 +36541,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/244"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00028",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00029",
@@ -36516,7 +36560,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/254"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00029",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00030",
@@ -36533,7 +36579,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/210"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00030",
+      "releaseFormat": "CD"
     },
     {
       "id": "live-v07-festival-2001-02",
@@ -36727,7 +36775,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/245"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00031",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00032",
@@ -36744,7 +36794,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/246"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00032",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00033",
@@ -36761,7 +36813,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/247"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00033",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00034",
@@ -36778,7 +36832,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/248"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00034",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00035",
@@ -36795,7 +36851,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/249"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00035",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00036",
@@ -36812,7 +36870,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/250"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00036",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00037",
@@ -36829,7 +36889,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/213"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00037",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v204-2001-yccr-00038",
@@ -36846,7 +36908,9 @@ window.CA_EVENT_DATA = {
           "label": "ヤマハミュージックコミュニケーションズ公式｜作品情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/212"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-00038",
+      "releaseFormat": "CD"
     },
     {
       "id": "media-v18212-2001-022",
@@ -80022,5 +80086,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.0.11"
+  "siteVersion": "2.0.12"
 };
