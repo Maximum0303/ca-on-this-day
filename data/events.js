@@ -50096,7 +50096,7 @@ window.CA_EVENT_DATA = {
       "date": "2009-08-26",
       "artist": "CHAGE and ASKA",
       "category": "release",
-      "title": "初期アルバム5作品・紙ジャケット再発",
+      "title": "紙ジャケットSHM-CD再発売（第1弾・5作品）",
       "status": "released",
       "verification": "primary",
       "note": "『風舞』『熱風』『黄昏の騎士』『熱い想い』『CHAGE & ASKA Ⅳ-21世紀-』の5作品。2009年の再発日を記録。 【規格情報追補｜発売元公式】風舞（YCCR-10003）、熱風（YCCR-10004）、黄昏の騎士（YCCR-10006）、熱い想い（YCCR-10007）、CHAGE&ASKA IV -21世紀-（YCCR-10008）。複数商品の発売日別一括記録であり、各商品を重複して別イベント登録しない。",
@@ -50377,7 +50377,7 @@ window.CA_EVENT_DATA = {
       "date": "2009-09-23",
       "artist": "CHAGE and ASKA",
       "category": "release",
-      "title": "アルバム6作品・紙ジャケット再発",
+      "title": "紙ジャケットSHM-CD再発売（第2弾・6作品）",
       "status": "released",
       "verification": "primary",
       "note": "『LIVE IN YOYOGI STADIUM』『INSIDE』『Z=One』『Standing Ovation』『TURNING POINT』『MIX BLOOD』の6作品。 【規格情報追補｜発売元公式】LIVE IN YOYOGI STADIUM（YCCR-10009〜10）、INSIDE（YCCR-10011）、Z=One（YCCR-10012）、Standing Ovation（YCCR-10013）、TURNING POINT（YCCR-10014）、MIX BLOOD（YCCR-10015）。複数商品の発売日別一括記録であり、各商品を重複して別イベント登録しない。",
@@ -50540,7 +50540,7 @@ window.CA_EVENT_DATA = {
       "date": "2009-10-21",
       "artist": "CHAGE and ASKA",
       "category": "release",
-      "title": "『紙ジャケットSHM-CD再発売7作品』発売",
+      "title": "紙ジャケットSHM-CD再発売（第3弾・7作品）",
       "status": "released",
       "verification": "primary",
       "note": "2009年10月21日の紙ジャケットSHM-CD再発売7作品：『Mr.ASIA』『RHAPSODY』『ENERGY』『PRIDE』『TREE』『ライブ・イン・田園コロシアム～The夏祭り’81』『SEE YA』。公式HISTORYに記載の6作品に、ヤマハミュージックコミュニケーションズの製品情報で確認できた『SEE YA』（品番YCCR-10021）を加えた。 【規格情報追補｜発売元公式】Mr.ASIA（YCCR-10016）、RHAPSODY（YCCR-10017）、ENERGY（YCCR-10018）、PRIDE（YCCR-10019〜20）、SEE YA（YCCR-10021）、TREE（YCCR-10022）、ライブ・イン田園コロシアム ～THE 夏祭り’81＜完全盤＞（YCCR-10030〜31）。複数商品の発売日別一括記録であり、各商品を重複して別イベント登録しない。",
@@ -50794,7 +50794,7 @@ window.CA_EVENT_DATA = {
       "date": "2009-11-25",
       "artist": "CHAGE and ASKA",
       "category": "release",
-      "title": "『紙ジャケット再発7作品（GUYS / RED HILL ほか）』発売",
+      "title": "紙ジャケットSHM-CD再発売（第4弾・7作品）",
       "releaseTitle": "紙ジャケット再発7作品（GUYS / RED HILL ほか）",
       "status": "released",
       "verification": "primary",
@@ -80627,5 +80627,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.0.14"
+  "siteVersion": "2.0.15"
 };
