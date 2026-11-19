@@ -231,5 +231,112 @@ document.addEventListener('DOMContentLoaded',function(){
 })();
 </script>
 <!-- /CA_SINGLE_NAV_V214 -->
+<!-- CA_RELEASE_DETAILS_V215 -->
+<style id="ca-release-details-style">
+.ca-release-detail-title{margin:0 0 14px;color:#f6d99e;font-size:1.45rem}
+.ca-release-groups{display:grid;gap:20px}
+.ca-release-group{padding:18px 20px;border:1px solid #516782;background:#203350;border-radius:12px}
+.ca-release-group h3{font-size:1.13rem;margin:0 0 13px;color:#f5dcab}
+.ca-release-list{display:grid;grid-template-columns:minmax(120px,165px) minmax(0,1fr);gap:9px 17px;margin:0;font-size:1.12rem;line-height:1.8}
+.ca-release-list dt{color:#c8d7e9;font-weight:700}.ca-release-list dd{margin:0;color:#fff;white-space:pre-wrap;overflow-wrap:anywhere}
+.ca-release-hint{font-size:.98rem;line-height:1.8;color:#c4d2e7;margin:20px 0 0}
+.ca-release-related-list{display:grid;gap:12px}
+.ca-release-related-item{border:1px solid #566d8a;border-radius:12px;padding:17px 19px;background:#20334e}
+.ca-release-related-item time{display:block;font-size:1.05rem;color:#f2d69f;font-weight:700}
+.ca-release-related-item a{display:block;margin:6px 0;color:#ffe2aa;text-decoration:underline;text-underline-offset:4px;font-size:1.15rem;font-weight:700;overflow-wrap:anywhere}
+.ca-release-related-meta{margin:8px 0 0;color:#e1eaf5;white-space:pre-wrap;overflow-wrap:anywhere;font-size:1rem;line-height:1.75}
+.ca-release-related-current{border-color:#d2ac6e}
+.ca-release-related-current strong{display:inline-block;margin:8px 0 0;color:#f7ddab}
+.ca-release-related-empty{font-size:1rem;color:#c9d5e6;line-height:1.8}
+@media(max-width:600px){.ca-release-group{padding:15px 14px}.ca-release-list{grid-template-columns:1fr;gap:3px}.ca-release-list dd{margin:0 0 12px}.ca-release-related-item{padding:15px 13px}}
+</style>
+<script id="ca-release-details-script">
+(function(){
+'use strict';
+document.addEventListener('DOMContentLoaded',function(){
+ const id=new URLSearchParams(location.search).get('event');
+ if(!id)return;
+ const data=window.CA_EVENT_DATA;
+ const records=Array.isArray(data&&data.events)?data.events:[];
+ const e=records.find(item=>String(item.id)===id);
+ if(!e||e.category!=='release')return; // Other categories remain unchanged.
+ const paper=document.querySelector('#ca-single-detail .ca-detail-paper');
+ if(!paper||paper.querySelector('.ca-release-summary'))return;
+ const make=(tag,cls,value)=>{const el=document.createElement(tag);if(cls)el.className=cls;if(value!==undefined&&value!==null)el.textContent=String(value);return el;};
+ const text=v=>{
+  if(v===undefined||v===null||v==='')return '';
+  if(typeof v==='boolean')return v?'はい':'いいえ';
+  if(Array.isArray(v))return v.map(text).filter(Boolean).join('\n');
+  if(typeof v==='object')return Object.entries(v).map(([key,val])=>key+'：'+text(val)).join('\n');
+  return String(v).trim();
+ };
+ const niceDate=d=>{const m=String(d||'').match(/^(\d{4})-(\d{2})-(\d{2})$/);return m?Number(m[1])+'年'+Number(m[2])+'月'+Number(m[3])+'日':String(d||'');};
+ const groups=[
+  ['発売情報',[
+    ['date','発売日'],['releaseTitle','作品名'],['releaseType','発売区分'],['releaseKind','発売区分（補足）'],
+    ['releaseDate','発売日の登録値'],['originalReleaseDate','初発売日'],['isReissue','再発売'],['reissueOf','元の版']
+  ]],
+  ['規格・規格品番',[
+    ['format','規格'],['mediaFormat','媒体・規格'],['releaseFormat','発売形態'],['media','媒体'],
+    ['catalogNumber','規格品番'],['catalogNo','規格品番（別項目）'],['catalogCode','規格品番（別項目）'],
+    ['productNumber','商品番号'],['productCodes','規格品番一覧'],['catalogNumbers','規格品番一覧（別項目）']
+  ]],
+  ['レーベル・版・別仕様',[
+    ['label','レーベル'],['recordLabel','レーベル（別項目）'],['publisher','発売元'],['distributor','販売元'],
+    ['edition','仕様・版'],['editionType','版の種類'],['version','バージョン'],['releaseVersion','発売バージョン'],
+    ['variants','別仕様'],['editions','別仕様の一覧'],['otherFormats','別規格'],['formats','規格一覧'],
+    ['releaseVariants','発売仕様'],['specifications','仕様'],['package','パッケージ']
+  ]],
+  ['その他の登録情報',[
+    ['tourId','ツアーID'],['performanceNo','公演番号'],['broadcastStation','放送局'],
+    ['status','記録の状態（登録値）'],['verification','確認区分（登録値）']
+  ]]
+ ];
+ const main=make('section','ca-detail-section ca-release-summary');
+ main.append(make('h2','ca-release-detail-title','作品発売の詳細'));
+ const body=make('div','ca-release-groups');
+ groups.forEach(([name,fields])=>{
+  const vals=fields.map(([key,label])=>[label,text(e[key])]).filter(([,value])=>value!=='');
+  if(!vals.length)return;
+  const group=make('div','ca-release-group');group.append(make('h3','',name));
+  const dl=make('dl','ca-release-list');
+  vals.forEach(([label,value])=>dl.append(make('dt','',label),make('dd','',value)));
+  group.append(dl);body.append(group);
+ });
+ main.append(body);
+ main.append(make('p','ca-release-hint','登録済みの項目だけを表示しています。記載がない規格・再発売・別仕様について、存在しないと断定するものではありません。備考にある情報は元の備考欄で確認できます。'));
+ // Existing detail fields repeat the same content. Replace only on release pages.
+ const oldInfo=paper.querySelector('.ca-detail-fields');
+ if(oldInfo){const parent=oldInfo.closest('.ca-detail-section');if(parent)parent.remove();}
+ const first=paper.querySelector('.ca-detail-section');paper.insertBefore(main,first||null);
+ // Related editions are linked only when the artist AND structured releaseTitle match exactly.
+ const work=typeof e.releaseTitle==='string'?e.releaseTitle.normalize('NFKC').trim():'';
+ if(!work)return;
+ const related=records.filter(x=>x.category==='release'&&String(x.artist||'')===String(e.artist||'')&&
+  typeof x.releaseTitle==='string'&&x.releaseTitle.normalize('NFKC').trim()===work&&String(x.id)!==id)
+  .sort((a,b)=>String(a.date||'').localeCompare(String(b.date||''))||String(a.id).localeCompare(String(b.id)));
+ if(!related.length)return;
+ const section=make('section','ca-detail-section ca-release-related');
+ section.append(make('h2','','同じ作品の別の発売記録（登録済み '+related.length+'件）'));
+ const intro=make('p','ca-release-related-empty','同じ名義・作品名の登録記録だけを表示しています。初発売、再発売、別規格かどうかは各記録の情報でご確認ください。');section.append(intro);
+ const list=make('div','ca-release-related-list');
+ related.forEach(r=>{
+  const row=make('article','ca-release-related-item');
+  const stamp=make('time','',niceDate(r.date));if(/^\d{4}-\d{2}-\d{2}$/.test(String(r.date||'')))stamp.dateTime=r.date;
+  row.append(stamp);
+  const a=make('a','',r.title||'タイトル未設定');
+  const url=new URL(location.href);url.search='';url.searchParams.set('date',String(r.date||'').slice(5));url.searchParams.set('event',String(r.id));url.hash='browse';a.href=url.href;
+  row.append(a);
+  const parts=[r.releaseType,r.format,r.mediaFormat,r.releaseFormat,r.catalogNumber,r.catalogNo,r.catalogCode,r.productNumber,r.edition].map(text).filter(Boolean);
+  if(parts.length)row.append(make('p','ca-release-related-meta',parts.join(' ／ ')));
+  list.append(row);
+ });
+ section.append(list);
+ const sources=Array.from(paper.querySelectorAll('.ca-detail-section')).find(s=>s.querySelector('h2')?.textContent==='出典・参考資料');
+ paper.insertBefore(section,sources||null);
+});
+})();
+</script>
+<!-- /CA_RELEASE_DETAILS_V215 -->
 </body>
 </html>
