@@ -39158,7 +39158,9 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMBK-1034/5",
+      "releaseFormat": "DVD（2枚組）"
     },
     {
       "id": "live-not-at-all-arena-2002-001",
@@ -39615,7 +39617,9 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMCK-1140",
+      "releaseFormat": "CD"
     },
     {
       "id": "media-v18212-2002-015",
@@ -40787,7 +40791,9 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMBK-1056",
+      "releaseFormat": "DVD"
     },
     {
       "id": "live-the-live-2002-2003-042",
@@ -41528,7 +41534,9 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMBK-1058/9",
+      "releaseFormat": "DVD（2枚組）"
     },
     {
       "id": "live-extra-2003-08-09-01",
@@ -41662,6 +41670,27 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "catalogNumber": "UMCK-5100",
+      "releaseFormat": "CD MAXI（通常盤）"
+    },
+    {
+      "id": "release-audit-v2013-2003-umck-9040",
+      "date": "2003-09-10",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『デェラ・シエラ・ム（初回限定盤）』発売",
+      "releaseTitle": "デェラ・シエラ・ム",
+      "catalogNumber": "UMCK-9040",
+      "releaseFormat": "CD MAXI＋DVD（初回限定盤）",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：CD MAXI＋特典DVD（初回限定盤）。発売日：2003-09-10。規格品番：UMCK-9040。PV・ライブ映像収録のDVD付き。通常盤（UMCK-5100）とは別商品。スターダストレビューとの共同作品。",
+      "sources": [
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/p/umck-9040/"
         }
       ]
     },
@@ -41856,7 +41885,9 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMCK-5110",
+      "releaseFormat": "CD MAXI"
     },
     {
       "id": "live-extra-2003-12-18-01",
@@ -41949,7 +41980,8 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "releaseFormat": "DVD（ファンクラブ限定／2枚組）"
     },
     {
       "id": "event-v08-002",
@@ -42020,7 +42052,8 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "releaseFormat": "CD（韓国盤）"
     },
     {
       "id": "release-v08-009",
@@ -42036,6 +42069,27 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "catalogNumber": "UMBK-1075",
+      "releaseFormat": "DVD（通常盤）"
+    },
+    {
+      "id": "release-audit-v2013-2004-umbk-9066",
+      "date": "2004-01-28",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA CONCERT TOUR GOOD TIME（初回限定盤）』発売",
+      "releaseTitle": "ASKA CONCERT TOUR GOOD TIME",
+      "catalogNumber": "UMBK-9066",
+      "releaseFormat": "DVD（初回限定盤）",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：DVD初回限定盤。発売日：2004-01-28。規格品番：UMBK-9066。通常盤（UMBK-1075）と同日に発売された別規格商品。公演開催日ではなく映像作品発売日。",
+      "sources": [
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/p/umbk-9066/"
         }
       ]
     },
@@ -42153,7 +42207,9 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMBK-1076",
+      "releaseFormat": "DVD＋CD"
     },
     {
       "id": "release-v08-011",
@@ -42170,7 +42226,9 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMCK-5115",
+      "releaseFormat": "CD（シングル）"
     },
     {
       "id": "live-two-five-2004-001",
@@ -42903,7 +42961,9 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMCK-9080",
+      "releaseFormat": "CD BOX（7枚組：UMCK-9080〜9086）"
     },
     {
       "id": "live-two-five-2004-029",
@@ -43120,7 +43180,9 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMCK-9087",
+      "releaseFormat": "CD BOX（8枚組：UMCK-9087〜9094）"
     },
     {
       "id": "live-two-five-2004-037",
@@ -43207,7 +43269,9 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMCK-5119",
+      "releaseFormat": "CD MAXI"
     },
     {
       "id": "release-v08-015",
@@ -43224,7 +43288,9 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMCK-9095",
+      "releaseFormat": "CD BOX（7枚組：UMCK-9095〜9101）"
     },
     {
       "id": "milestone-ca-25th-anniv-2004-0825",
@@ -43567,7 +43633,9 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMBK-1077",
+      "releaseFormat": "DVDシングル"
     },
     {
       "id": "live-two-five-2004-050",
@@ -43909,7 +43977,9 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-10001",
+      "releaseFormat": "CD（再発売）"
     },
     {
       "id": "release-v08-018",
@@ -43926,7 +43996,9 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-10002",
+      "releaseFormat": "CD"
     },
     {
       "id": "live-extra-2004-11-13-01",
@@ -44087,7 +44159,9 @@ window.CA_EVENT_DATA = {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMCK-5126",
+      "releaseFormat": "CD MAXI"
     },
     {
       "id": "live-two-five-2004-068",
@@ -44268,7 +44342,9 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "releaseTitle": "CHAGE and ASKA 25th Anniversary Special チャゲ&飛鳥 熱風コンサート"
+      "releaseTitle": "CHAGE and ASKA 25th Anniversary Special チャゲ&飛鳥 熱風コンサート",
+      "catalogNumber": "UMBK-1079/80",
+      "releaseFormat": "DVD（2枚組）"
     },
     {
       "id": "media-v18214-2005-002",
@@ -44301,7 +44377,8 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 2004 two-five"
+      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 2004 two-five",
+      "releaseFormat": "DVD（ファンクラブ限定）"
     },
     {
       "id": "live-chage-ssff-expo-2005",
@@ -44552,7 +44629,9 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "releaseTitle": "SCENE I&II limited edition"
+      "releaseTitle": "SCENE I&II limited edition",
+      "catalogNumber": "UMCK-9131",
+      "releaseFormat": "CD（2枚）＋DVD（限定盤）"
     },
     {
       "id": "release-2005-11-23-scene-iii",
@@ -44569,7 +44648,28 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "releaseTitle": "SCENE III"
+      "releaseTitle": "SCENE III",
+      "catalogNumber": "UMCK-1199",
+      "releaseFormat": "CD（通常盤）"
+    },
+    {
+      "id": "release-audit-v2013-2005-umck-9130",
+      "date": "2005-11-23",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『SCENE III（初回限定盤）』発売",
+      "releaseTitle": "SCENE III",
+      "catalogNumber": "UMCK-9130",
+      "releaseFormat": "CD＋DVD（初回限定盤）",
+      "status": "released",
+      "verification": "primary",
+      "note": "作品形態：CD＋DVD初回限定盤。発売日：2005-11-23。規格品番：UMCK-9130。DVDには「birth」「心に花の咲く方へ」のPVを収録。通常盤（UMCK-1199）とは別商品。",
+      "sources": [
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/p/umck-9130/"
+        }
+      ]
     },
     {
       "id": "media-v18214-2005-004",
@@ -44622,7 +44722,8 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "releaseTitle": "missing pages"
+      "releaseTitle": "missing pages",
+      "releaseFormat": "DVD"
     },
     {
       "id": "live-my-game-is-aska-2005-2006-001",
@@ -80086,5 +80187,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.0.12"
+  "siteVersion": "2.0.13"
 };
