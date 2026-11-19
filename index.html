@@ -552,5 +552,45 @@ document.addEventListener('DOMContentLoaded',function(){
 })();
 </script>
 <!-- /CA_SHARE_SUBTLE_V218 -->
+<!-- CA_SHARE_HOME_FIX_V219 -->
+<style id="ca-share-home-fix-style">
+/* Keep the unobtrusive share links authoritative across every view. */
+body #share-date,body .ca-detail-share{display:none!important}
+body .ca-share-quiet{display:flex!important;align-items:center!important;flex-wrap:wrap!important;gap:2px 13px!important;margin-top:8px;margin-bottom:8px;background:none!important;border:none!important;border-radius:0!important;padding:0!important;box-shadow:none!important;color:#b8c8db!important;font-size:13px!important;line-height:1.6!important}
+body .ca-share-quiet a,body .ca-share-quiet button{display:inline-flex!important;align-items:center!important;min-height:36px!important;width:auto!important;border:none!important;border-radius:0!important;box-shadow:none!important;background:transparent!important;padding:2px 1px!important;margin:0!important;font:inherit!important;font-size:13px!important;font-weight:600!important;color:#dce7f4!important;text-decoration:underline!important;text-underline-offset:4px!important;cursor:pointer}
+body .ca-share-quiet a:hover,body .ca-share-quiet button:hover{color:#f4d59b!important}
+body .ca-share-quiet-status{font-size:12px!important}
+@media(max-width:540px){body .ca-share-quiet{gap:2px 10px!important}}
+</style>
+<script id="ca-share-home-fix-script">
+(function(){
+'use strict';
+function init(){
+  const logo=document.querySelector('.site-header .identity');
+  if(!logo||logo.dataset.caHomeFix==='1')return;
+  logo.dataset.caHomeFix='1';
+  // Do not reload a cached home page when the header logo is clicked.
+  // Reuse the already loaded calendar and its small share links.
+  logo.addEventListener('click',function(ev){
+    if(ev.defaultPrevented||ev.button!==0||ev.ctrlKey||ev.metaKey||ev.shiftKey||ev.altKey)return;
+    const today=document.getElementById('today-btn');
+    if(!today)return; // Preserve the link's native navigation as a fallback.
+    ev.preventDefault();
+    document.body.classList.remove('ca-single');
+    document.getElementById('ca-single-detail')?.remove();
+    document.getElementById('reset-filters')?.click(); // Match a fresh top-page load.
+    today.click(); // Clears an individual record and resets calendar state using app.js.
+    const home=new URL('./',window.location.href);
+    history.replaceState(null,'',home.pathname);
+    window.scrollTo({top:0,behavior:'auto'});
+  });
+  window.addEventListener('pageshow',function(){
+    if(document.querySelector('.ca-share-quiet'))document.body.classList.add('ca-share-quiet-ready');
+  });
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
+})();
+</script>
+<!-- /CA_SHARE_HOME_FIX_V219 -->
 </body>
 </html>
