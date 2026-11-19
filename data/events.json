@@ -66321,24 +66321,12 @@
       "title": "「君に逢いたいだけ」配信開始",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": " 【第41回・重複統合】同日同音源の重複候補ID v18221-2020-10-07-chage-088 を整理。削除側の出典を引き継ぎ。",
       "sources": [
         {
           "label": "Chage公式Discography",
           "url": "https://chage.jp/discography/"
-        }
-      ]
-    },
-    {
-      "id": "v18221-2020-10-07-chage-088",
-      "date": "2020-10-07",
-      "artist": "Chage",
-      "category": "release",
-      "title": "配信シングル『君に逢いたいだけ』リリース",
-      "status": "released",
-      "verification": "primary",
-      "note": "Chage公式年譜による配信開始日。",
-      "sources": [
+        },
         {
           "label": "主催・アーティスト公式資料",
           "url": "https://chage.jp/biography/2020.php"
@@ -66433,10 +66421,10 @@
       "date": "2020-12-09",
       "artist": "Chage",
       "category": "release",
-      "title": "アルバム『Boot up!!』発売",
+      "title": "アルバム『Boot up!!』通常盤CD発売",
       "status": "released",
       "verification": "primary",
-      "note": "初回限定盤・通常盤を1作品として登録 【2019〜2020年公式点検】Chage公式年譜による発売日。",
+      "note": "初回限定盤・通常盤を1作品として登録 【2019〜2020年公式点検】Chage公式年譜による発売日。 【第41回・公式規格照合】通常盤CDの品番。初回限定盤CD＋DVD（UICZ-9171）は別の追加候補。",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
@@ -66445,8 +66433,14 @@
         {
           "label": "Chage公式Discography",
           "url": "https://chage.jp/discography/chage/album/013.php"
+        },
+        {
+          "label": "公式商品情報・品番",
+          "url": "https://www.universal-music.co.jp/chage/products/uicz-4484/"
         }
-      ]
+      ],
+      "catalogNumber": "UICZ-4484",
+      "releaseFormat": "CD（通常盤）"
     },
     {
       "id": "v14-chage-2020-christmas-001",
@@ -66785,16 +66779,18 @@
       "date": "2021-06-30",
       "artist": "CHAGE and ASKA",
       "category": "release",
-      "title": "『THE VIDEO OF CHAGE and ASKA TUG OF C&A Vol.1〜5』DVD発売",
+      "title": "『THE VIDEO OF CHAGE and ASKA TUG OF C&A Vol.1〜5』数量限定DVD盤発売",
       "status": "released",
       "verification": "primary",
-      "note": "VHS5作品の復刻。数量限定盤・通常盤の2仕様を1作品として登録",
+      "note": "VHS5作品の復刻。数量限定盤・通常盤の2仕様を1作品として登録 【第41回・公式規格照合】数量限定盤には復刻フォトブックレットとポストカード付属。通常盤YMEHDVD-33/34は追加候補。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式｜DVD発売",
           "url": "https://www.chage-aska.net/information/2021062101.php"
         }
-      ]
+      ],
+      "catalogNumber": "YMEHDVD-31/32",
+      "releaseFormat": "DVD 2枚組（数量限定盤）"
     },
     {
       "id": "v14-release-016",
@@ -67316,10 +67312,10 @@
       "date": "2021-11-24",
       "artist": "Chage",
       "category": "release",
-      "title": "『Chage’s Christmas ～チャゲクリ～』発売",
+      "title": "『Chage’s Christmas ～チャゲクリ～』CD＋Blu-ray盤発売",
       "status": "released",
       "verification": "primary",
-      "note": "CD+DVD／CD+Blu-rayを同一作品として登録 【2021〜2022年公式点検】Chage公式年譜による発売日。",
+      "note": "CD+DVD／CD+Blu-rayを同一作品として登録 【2021〜2022年公式点検】Chage公式年譜による発売日。 【第41回・公式規格照合】既存1件をCD＋Blu-ray版として明確化。CD＋DVD版UICZ-5166は追加候補。",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
@@ -67328,8 +67324,14 @@
         {
           "label": "Chage公式Discography",
           "url": "https://chage.jp/discography/chage/single/016.php"
+        },
+        {
+          "label": "公式商品情報・品番",
+          "url": "https://www.universal-music.co.jp/chage/products/uicz-5167/"
         }
-      ]
+      ],
+      "catalogNumber": "UICZ-5167",
+      "releaseFormat": "CD MAXI＋Blu-ray"
     },
     {
       "id": "v14-aska-2021-encore-plan-004",
@@ -69448,14 +69450,20 @@
       "category": "release",
       "title": "Blu-ray＋Live CD『ASKA premium concert tour -higher ground-アンコール公演2022』発売",
       "status": "released",
-      "verification": "secondary",
-      "note": "4月13日収録公演の映像・音源作品発売。ツアー公演日とは別記録。",
+      "verification": "primary",
+      "note": "4月13日収録公演の映像・音源作品発売。ツアー公演日とは別記録。 【第41回・公式規格照合】公式ディスコグラフィーで発売日・規格を直接確認。ライブの開催日とは区別。",
       "sources": [
         {
           "label": "公演情報（二次資料）",
           "url": "https://e.usen.com/interview/interview-original/aska-aska-premium-concert.html"
+        },
+        {
+          "label": "公式商品情報・品番",
+          "url": "https://www.fellows.tokyo/discography/"
         }
-      ]
+      ],
+      "catalogNumber": "DDLB-0020",
+      "releaseFormat": "Blu-ray＋LIVE CD"
     },
     {
       "id": "v18222-2022-10-09-aska-063",
@@ -69609,16 +69617,22 @@
       "date": "2022-11-02",
       "artist": "Chage",
       "category": "release",
-      "title": "『YOU’RE THE ONE』発売",
+      "title": "『YOU’RE THE ONE』CD＋Blu-ray盤発売",
       "status": "released",
       "verification": "primary",
-      "note": "CD＋DVD／CD＋Blu-rayは同一作品として登録 【2021〜2022年公式点検】公式作品情報による発売・配信開始日。",
+      "note": "CD＋DVD／CD＋Blu-rayは同一作品として登録 【2021〜2022年公式点検】公式作品情報による発売・配信開始日。 【第41回・公式規格照合】既存をCD＋Blu-ray版として明確化。CD＋DVD版UICZ-4619は追加候補。",
       "sources": [
         {
           "label": "Chage公式Discography",
           "url": "https://chage.jp/discography/chage/album/015.php"
+        },
+        {
+          "label": "公式商品情報・品番",
+          "url": "https://www.universal-music.co.jp/chage/products/uicz-4620/"
         }
-      ]
+      ],
+      "catalogNumber": "UICZ-4620",
+      "releaseFormat": "CD＋Blu-ray"
     },
     {
       "id": "v14-chage-2022-hosomichi-005",
@@ -71377,10 +71391,10 @@
       "date": "2023-08-30",
       "artist": "Chage",
       "category": "release",
-      "title": "EP『青い空だけじゃない』発売",
+      "title": "EP『青い空だけじゃない』CD＋Blu-ray盤発売",
       "status": "released",
       "verification": "primary",
-      "note": "【2023〜2024年記録点検】公式ディスコグラフィー確認。配信とパッケージ発売はそれぞれ別日として登録。",
+      "note": "【2023〜2024年記録点検】公式ディスコグラフィー確認。配信とパッケージ発売はそれぞれ別日として登録。 【第41回・公式規格照合】既存レコードはCD＋Blu-ray盤。CD＋DVD版UICZ-4647は追加候補。",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
@@ -71389,8 +71403,14 @@
         {
           "label": "Chage公式アルバム一覧",
           "url": "https://chage.jp/discography/chage/album.php"
+        },
+        {
+          "label": "公式商品情報・品番",
+          "url": "https://www.universal-music.co.jp/chage/products/uicz-4646/"
         }
-      ]
+      ],
+      "catalogNumber": "UICZ-4646",
+      "releaseFormat": "CD＋Blu-ray"
     },
     {
       "id": "media-v18229-2023-09-01-chage-001",
@@ -71606,13 +71626,19 @@
       "title": "『ASKA Premium Concert Tour Wonderful World 2023』Blu-ray＋Live CD発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": " 【第41回・公式規格照合】Blu-ray＋LIVE CD（2枚）合計3枚組。映像単独のストリーミング販売は同日の別記録。",
       "sources": [
         {
           "label": "ASKA公式Discography",
           "url": "https://www.fellows.tokyo/discography/"
+        },
+        {
+          "label": "公式商品情報・品番",
+          "url": "https://archive.fellows.tokyo/special/tour2023_release/"
         }
-      ]
+      ],
+      "catalogNumber": "DDLB-0023",
+      "releaseFormat": "Blu-ray＋LIVE CD 2枚"
     },
     {
       "id": "v15-0258",
@@ -72256,13 +72282,19 @@
       "title": "『ASKA featuring DAVID FOSTER PREMIUM CONCERT 2023』Blu-ray発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": " 【第41回・公式規格照合】Blu-ray（販売形式）。映像ストリーミング販売は同日の別記録。",
       "sources": [
         {
           "label": "ASKA公式Discography",
           "url": "https://www.fellows.tokyo/discography/"
+        },
+        {
+          "label": "公式商品情報・品番",
+          "url": "https://www.fellows.tokyo/discography/detail/50/"
         }
-      ]
+      ],
+      "catalogNumber": "DDLB-0024",
+      "releaseFormat": "Blu-ray"
     },
     {
       "id": "v15-0261",
@@ -73650,10 +73682,10 @@
       "date": "2024-08-28",
       "artist": "Chage",
       "category": "release",
-      "title": "アルバム『飾りのない歌』発売",
+      "title": "アルバム『飾りのない歌』CD＋Blu-ray盤発売",
       "status": "released",
       "verification": "primary",
-      "note": "【2023〜2024年記録点検】公式ディスコグラフィー確認。配信とパッケージ発売はそれぞれ別日として登録。",
+      "note": "【2023〜2024年記録点検】公式ディスコグラフィー確認。配信とパッケージ発売はそれぞれ別日として登録。 【第41回・公式規格照合】既存をCD＋Blu-ray版として明確化。CD＋DVD版UICZ-4680、通常CD版UICZ-4681は追加候補。",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
@@ -73662,8 +73694,14 @@
         {
           "label": "Chage公式アルバム一覧",
           "url": "https://chage.jp/discography/chage/album.php"
+        },
+        {
+          "label": "公式商品情報・品番",
+          "url": "https://www.universal-music.co.jp/chage/discography/"
         }
-      ]
+      ],
+      "catalogNumber": "UICZ-4679",
+      "releaseFormat": "CD＋Blu-ray"
     },
     {
       "id": "media-v18229-2024-08-29-chage-001",
@@ -73806,13 +73844,19 @@
       "title": "『ASKA 10 DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館』映像作品発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": " 【第41回・公式規格照合】2010年2月25日の公演を収録。映像ストリーミングは前日の2024年9月3日正午開始。",
       "sources": [
         {
           "label": "ASKA公式Discography",
           "url": "https://www.fellows.tokyo/discography/"
+        },
+        {
+          "label": "公式商品情報・品番",
+          "url": "https://www.fellows.tokyo/feature/10days_special_release"
         }
-      ]
+      ],
+      "catalogNumber": "DDLB-0025",
+      "releaseFormat": "Blu-ray（完全限定生産）"
     },
     {
       "id": "media-v18229-2024-09-05-chage-001",
@@ -83738,7 +83782,275 @@
           "url": "https://www.chage-aska.net/information/2019052201.php"
         }
       ]
+    },
+    {
+      "id": "release-audit-v2041-20200306-01",
+      "date": "2020-03-06",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "アルバム『Breath of Bless』ハイレゾ先行配信開始",
+      "releaseTitle": "Breath of Bless",
+      "releaseFormat": "デジタル配信・ハイレゾ先行販売",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第41回・公式作品点検】2020年3月6日にe-onkyo musicでハイレゾ先行販売。2020年3月20日のCD発売とは別の発売形態。",
+      "sources": [
+        {
+          "label": "公式・発売元／配信元の作品情報",
+          "url": "https://www.qobuz.com/jp-ja/album/breath-of-bless-aska/eu5y65go4yfqa"
+        },
+        {
+          "label": "追加確認資料",
+          "url": "https://av.watch.impress.co.jp/docs/news/1239410.html"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2041-20201209-02",
+      "date": "2020-12-09",
+      "artist": "Chage",
+      "category": "release",
+      "title": "アルバム『Boot up!!』初回限定盤CD＋DVD発売",
+      "releaseTitle": "Boot up!!",
+      "releaseFormat": "CD＋DVD（初回限定盤）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第41回・公式作品点検】既存の同日発売レコードを通常CD盤として明確化する場合に追加する別規格。初回限定盤はライブ映像DVD付き。",
+      "sources": [
+        {
+          "label": "公式・発売元／配信元の作品情報",
+          "url": "https://www.universal-music.co.jp/chage/products/uicz-9171/"
+        }
+      ],
+      "catalogNumber": "UICZ-9171"
+    },
+    {
+      "id": "release-audit-v2041-20210423-03",
+      "date": "2021-04-23",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA CONCERT TOUR 12>>13 ROCKET』Blu-ray発売",
+      "releaseTitle": "ASKA CONCERT TOUR 12>>13 ROCKET",
+      "releaseFormat": "Blu-ray",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第41回・公式作品点検】2013年の公演を収録した2021年発売の映像作品。発売後の音声不具合による全品回収告知があったため、発売と販売継続は区別する。",
+      "sources": [
+        {
+          "label": "公式・発売元／配信元の作品情報",
+          "url": "https://www.fellows.tokyo/discography/detail/53/"
+        },
+        {
+          "label": "追加確認資料",
+          "url": "https://archive.fellows.tokyo/blog/?id=2844"
+        }
+      ],
+      "catalogNumber": "DDLB-0017"
+    },
+    {
+      "id": "release-audit-v2041-20210630-04",
+      "date": "2021-06-30",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『THE VIDEO OF CHAGE and ASKA TUG OF C&A Vol.1〜5』通常DVD盤発売",
+      "releaseTitle": "THE VIDEO OF CHAGE and ASKA TUG OF C&A Vol.1〜5",
+      "releaseFormat": "DVD 2枚組（通常盤）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第41回・公式作品点検】数量限定盤とは同じ本編映像だが、別品番で付属ブックレット・ポストカードなし。",
+      "sources": [
+        {
+          "label": "公式・発売元／配信元の作品情報",
+          "url": "https://www.chage-aska.net/information/2021062101.php"
+        }
+      ],
+      "catalogNumber": "YMEHDVD-33/34"
+    },
+    {
+      "id": "release-audit-v2041-20211124-05",
+      "date": "2021-11-24",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『Chage’s Christmas ～チャゲクリ～』CD＋DVD盤発売",
+      "releaseTitle": "Chage’s Christmas ～チャゲクリ～",
+      "releaseFormat": "CD MAXI＋DVD",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第41回・公式作品点検】同日発売のCD＋Blu-ray版とは別規格。グッズ同梱ストア限定セットは別途調査対象とする。",
+      "sources": [
+        {
+          "label": "公式・発売元／配信元の作品情報",
+          "url": "https://www.universal-music.co.jp/chage/products/uicz-5166/"
+        }
+      ],
+      "catalogNumber": "UICZ-5166"
+    },
+    {
+      "id": "release-audit-v2041-20221102-06",
+      "date": "2022-11-02",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『YOU’RE THE ONE』CD＋DVD盤発売",
+      "releaseTitle": "YOU’RE THE ONE",
+      "releaseFormat": "CD＋DVD",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第41回・公式作品点検】既登録のCD＋Blu-ray盤 UICZ-4620 とは別規格。同じ収録ライブの映像メディアがDVD。",
+      "sources": [
+        {
+          "label": "公式・発売元／配信元の作品情報",
+          "url": "https://www.universal-music.co.jp/chage/products/uicz-4619/"
+        }
+      ],
+      "catalogNumber": "UICZ-4619"
+    },
+    {
+      "id": "release-audit-v2041-20230830-07",
+      "date": "2023-08-30",
+      "artist": "Chage",
+      "category": "release",
+      "title": "EP『青い空だけじゃない』CD＋DVD盤発売",
+      "releaseTitle": "青い空だけじゃない",
+      "releaseFormat": "CD＋DVD",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第41回・公式作品点検】既存の同日レコードをCD＋Blu-ray盤として明確化したうえで、DVD版を別品番で記録する。",
+      "sources": [
+        {
+          "label": "公式・発売元／配信元の作品情報",
+          "url": "https://www.universal-music.co.jp/chage/products/uicz-4647/"
+        }
+      ],
+      "catalogNumber": "UICZ-4647"
+    },
+    {
+      "id": "release-audit-v2041-20230927-08",
+      "date": "2023-09-27",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA Premium Concert Tour Wonderful World 2023』映像ストリーミング配信開始",
+      "releaseTitle": "ASKA Premium Concert Tour Wonderful World 2023",
+      "releaseFormat": "映像ストリーミング販売（単独視聴商品）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第41回・公式作品点検】午前0時から映像単独ストリーミング販売。既存の同日発売Blu-ray＋ライブCD（DDLB-0023）とは異なる形態。音楽サブスクの解禁ではない。",
+      "sources": [
+        {
+          "label": "公式・発売元／配信元の作品情報",
+          "url": "https://archive.fellows.tokyo/special/tour2023_release/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2041-20231114-09",
+      "date": "2023-11-14",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『TOKYO SYMPHONIC WAVE 2022』高音質VR映像レンタル開始",
+      "releaseTitle": "TOKYO SYMPHONIC WAVE 2022",
+      "releaseFormat": "VR映像配信・ロスレス／ハイレゾ（レンタル）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第41回・公式作品点検】2022年4月21日公演からのASKA出演映像を2023年11月14日15時より新方式で配信。開催日や最初のVR公開日とは別。",
+      "sources": [
+        {
+          "label": "公式・発売元／配信元の作品情報",
+          "url": "https://vrmode.jp/feature/live_extreme_vr"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2041-20231114-10",
+      "date": "2023-11-14",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA VR 2020』高音質VR映像レンタル開始",
+      "releaseTitle": "ASKA VR 2020",
+      "releaseFormat": "VR映像配信・ロスレス／ハイレゾ（レンタル）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第41回・公式作品点検】2020年に公開したVR作品をロスレス／ハイレゾ付きの新仕様として2023年11月14日15時から配信。初公開日とは区別。",
+      "sources": [
+        {
+          "label": "公式・発売元／配信元の作品情報",
+          "url": "https://vrmode.jp/feature/live_extreme_vr"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2041-20240117-11",
+      "date": "2024-01-17",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA featuring DAVID FOSTER PREMIUM CONCERT 2023』映像ストリーミング販売開始",
+      "releaseTitle": "ASKA featuring DAVID FOSTER PREMIUM CONCERT 2023",
+      "releaseFormat": "映像ストリーミング販売（単独視聴商品）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第41回・公式作品点検】一般向け映像ストリーミング販売は2024年1月17日0時開始。Blu-ray購入者のシリアルによる視聴は前日1月16日12時から。既存Blu-ray盤（DDLB-0024）とは別。",
+      "sources": [
+        {
+          "label": "公式・発売元／配信元の作品情報",
+          "url": "https://archive.fellows.tokyo/special/premiumconcert_2023_release/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2041-20240828-12",
+      "date": "2024-08-28",
+      "artist": "Chage",
+      "category": "release",
+      "title": "アルバム『飾りのない歌』CD＋DVD盤発売",
+      "releaseTitle": "飾りのない歌",
+      "releaseFormat": "CD＋DVD",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第41回・公式作品点検】CD＋Blu-ray盤（UICZ-4679）とは別規格。DVDを同梱する品番。",
+      "sources": [
+        {
+          "label": "公式・発売元／配信元の作品情報",
+          "url": "https://www.universal-music.co.jp/chage/discography/"
+        }
+      ],
+      "catalogNumber": "UICZ-4680"
+    },
+    {
+      "id": "release-audit-v2041-20240828-13",
+      "date": "2024-08-28",
+      "artist": "Chage",
+      "category": "release",
+      "title": "アルバム『飾りのない歌』通常CD盤発売",
+      "releaseTitle": "飾りのない歌",
+      "releaseFormat": "CD（通常盤）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第41回・公式作品点検】映像ディスクを同梱しない通常盤CD。CD＋Blu-ray／CD＋DVD版とは別規格。",
+      "sources": [
+        {
+          "label": "公式・発売元／配信元の作品情報",
+          "url": "https://www.universal-music.co.jp/chage/discography/"
+        }
+      ],
+      "catalogNumber": "UICZ-4681"
+    },
+    {
+      "id": "release-audit-v2041-20240903-14",
+      "date": "2024-09-03",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA 10 DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館』映像ストリーミング配信開始",
+      "releaseTitle": "ASKA 10 DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 -ここにあなたの足跡を-",
+      "releaseFormat": "映像ストリーミング販売（単独視聴商品）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第41回・公式作品点検】2024年9月3日正午から映像ストリーミング販売。翌9月4日のBlu-ray発売（DDLB-0025）とは別形態。音源のサブスク公開ではない。",
+      "sources": [
+        {
+          "label": "公式・発売元／配信元の作品情報",
+          "url": "https://www.fellows.tokyo/feature/10days_special_release"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.0.40"
+  "siteVersion": "2.0.41"
 }
