@@ -1771,8 +1771,10 @@
 "other-v18211-2000-0501-ymc","2000-05-01","CHAGE and ASKA","milestone","ヤマハミュージックコミュニケーションズへ移籍","","","","レコード会社の移籍に関する公式HISTORYの記録。","primary","https://www.chage-aska.net/history/2000.php"
 "release-v07-020","2000-06-15","CHAGE and ASKA","release","『千年夜一夜ライブ ～福岡ドーム 僕らがホーム～』発売","","","","作品種別：FC販売VHS","primary","https://www.chage-aska.net/history/2000.php"
 "other-v18211-2000-0624-surround-start","2000-06-24","Chage","other","「千年夜一夜ライブ 5.1chデジタルサラウンド体感イベント Featuring CHAGE」開始","静岡県","静岡県コンベンションアーツセンター","","ファンクラブ限定の上映・トーク等のイベント。静岡県コンベンションアーツセンターから開始。開催回数について公式HISTORYの冒頭「9会場24公演」と終盤「7カ所27公演」に不一致があるため確定数として登録しない。実演ライブ公演とは区別。","primary","https://www.chage-aska.net/history/2000.php"
-"release-v07-021","2000-07-12","ASKA","release","『good time』発売","","","","作品種別：シングル","primary","https://www.chage-aska.net/history/2000.php"
-"release-v07-022","2000-07-12","CHAGE and ASKA","release","『千年夜一夜ライブ ～福岡ドーム 僕らがホーム～』発売","","","","作品種別：ライブDVD","primary","https://www.chage-aska.net/history/2000.php"
+"release-v07-021","2000-07-12","ASKA","release","『good time』発売","","","","作品種別：シングル
+【第34回・2000〜2004年作品発売情報追補】媒体：12cm CDシングル／製品番号：YCDR-00001。品番確認：作品商品情報（二次資料）。発売当時の規格品番は商品データベースによる二次照合。元記録の一次資料確認区分は変更しない。","primary","https://www.chage-aska.net/history/2000.php; https://contents.oricon.co.jp/prof/245800/products/313077/1/"
+"release-v07-022","2000-07-12","CHAGE and ASKA","release","『千年夜一夜ライブ ～福岡ドーム 僕らがホーム～』発売","","","","作品種別：ライブDVD
+【第34回・2000〜2004年作品発売情報追補】媒体：DVD／製品番号：YCBR-00001。品番確認：発売元・アーティスト公式資料。同作品の2000年6月15日FC限定VHSとは別規格。","primary","https://www.chage-aska.net/history/2000.php; https://www.chage-aska.net/discography/video/senyaichiya_live.php"
 "media-v18211-2000-003","2000-08-17","ASKA","media","テレビ「FBS MUSIC CLUB」出演・放送","","","","FBS福岡放送。九州地方の番組へのASKA出演記録。二次資料非公式記録に基づくため一次資料は未照合。","secondary","https://w.atwiki.jp/cavc/pages/67.html"
 "live-v07-korea-2000-001","2000-08-26","CHAGE and ASKA","live","CHAGE and ASKA LIVE IN KOREA","","ソウルオリンピック公園蚕室体操競技場","1","ツアー・公演シリーズ初日","primary","https://www.chage-aska.net/history/2000.php"
 "live-v07-korea-2000-002","2000-08-27","CHAGE and ASKA","live","CHAGE and ASKA LIVE IN KOREA","","ソウルオリンピック公園蚕室体操競技場","2","ツアー・公演シリーズ最終日","primary","https://www.chage-aska.net/history/2000.php"
@@ -1809,10 +1811,14 @@
 "live-v07-good-time-2000-020","2000-12-01","ASKA","live","ASKA CONCERT TOUR GOOD TIME","宮城県","仙台市体育館","20","ツアー・公演シリーズ最終日","primary","https://www.chage-aska.net/history/2000.php"
 "media-v18211-2000-012","2000-12-01","ASKA","media","テレビ「松任谷由実ワンナイトコンサート BROTHERS&SISTERS」出演・放送","","","","民放BS各5局。11月1日東京国際フォーラム公演でASKAが「春よ、来い」に参加した映像。二次資料非公式記録に基づくため一次資料は未照合。","secondary","https://w.atwiki.jp/cavc/pages/67.html"
 "media-v18211-2000-1225-treasure-box-end","2000-12-25","Chage","media","ラジオ「CHAGEのTREASURE BOX」放送終了","","","","TOKYO FM系レギュラー番組の最終回。1998年4月6日の放送開始とは別の出来事。","primary","https://www.chage-aska.net/history/2000.php"
-"release-v07-023","2001-01-01","CHAGE and ASKA","release","『CHAGE & ASKA ASIAN TOUR IN TAIPEI』発売","","","","作品種別：5.1chライブDVD","primary","https://www.chage-aska.net/history/2000.php"
-"release-v07-024","2001-01-01","CHAGE and ASKA","release","『CHAGE & ASKA MTV UNPLUGGED LIVE』発売","","","","作品種別：5.1chライブDVD","primary","https://www.chage-aska.net/history/2000.php"
-"release-v07-025","2001-01-01","ASKA","release","『ASKA 共謀者』発売","","","","作品種別：5.1chライブDVD（FC販売）","primary","https://www.chage-aska.net/history/2000.php"
-"release-v07-026","2001-01-01","Chage","release","『CHAGE Feeling Place』発売","","","","作品種別：5.1chライブDVD（FC販売）","primary","https://www.chage-aska.net/history/2000.php"
+"release-v07-023","2001-01-01","CHAGE and ASKA","release","『CHAGE & ASKA ASIAN TOUR IN TAIPEI』発売","","","","作品種別：5.1chライブDVD
+【第34回・2000〜2004年作品発売情報追補】媒体：DVD（5.1ch）／製品番号：YCBR-00002。品番確認：発売元・アーティスト公式資料。1996年映像ソフト初発売とは別のDVD版。","primary","https://www.chage-aska.net/history/2000.php; https://www.chage-aska.net/discography/video/asian_tour.php"
+"release-v07-024","2001-01-01","CHAGE and ASKA","release","『CHAGE & ASKA MTV UNPLUGGED LIVE』発売","","","","作品種別：5.1chライブDVD
+【第34回・2000〜2004年作品発売情報追補】媒体：DVD（5.1ch）／製品番号：YCBR-00003。品番確認：発売元・アーティスト公式資料。1996年CD・VTR等の作品発売日とは別。","primary","https://www.chage-aska.net/history/2000.php; https://www.chage-aska.net/discography/video/mtv_unplugged.php"
+"release-v07-025","2001-01-01","ASKA","release","『ASKA 共謀者』発売","","","","作品種別：5.1chライブDVD（FC販売）
+【第34回・2000〜2004年作品発売情報追補】媒体：DVD（5.1ch）／製品番号：YCBR-00004。品番確認：発売元・アーティスト公式資料。発売元公式の商品名「共謀者ID」。既存タイトルは変えない。","primary","https://www.chage-aska.net/history/2000.php; https://www.yamahamusic.co.jp/s/ymc/discography/276?ima=0000"
+"release-v07-026","2001-01-01","Chage","release","『CHAGE Feeling Place』発売","","","","作品種別：5.1chライブDVD（FC販売）
+【第34回・2000〜2004年作品発売情報追補】媒体：DVD（5.1ch）／製品番号：YCBR-00005。品番確認：発売元・アーティスト公式資料。1999年のFC限定VHSと混同しない。","primary","https://www.chage-aska.net/history/2000.php; https://chage.jp/discography/chage/bd/012.php; https://www.yamahamusic.co.jp/s/ymc/discography/277?ima=0000"
 "milestone-ca-universal-kittymme-2001-0101","2001-01-01","CHAGE and ASKA","milestone","ユニバーサル ミュージック（キティMME）へ移籍","","","","CHAGE and ASKA公式HISTORYは2001年1月1日にユニバーサル ミュージック／キティMMEへの移籍を記載。移籍第1弾シングル『ロケットの樹の下で』（4月25日発売）は作品発売記録として別に登録済み。","primary","https://www.chage-aska.net/history/2000.php; https://www.universal-music.co.jp/press-releases/2001-04-16/"
 "media-v18212-2001-001","2001-01-28","ASKA","media","テレビ「ASKA CONCERT TOUR GOOD TIME」出演・放送","","","","WOWOW。2000年ツアー大阪城ホール公演の放送。インタビューと恵比寿ガーデンホールの映像も含む。公演日とは別。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
 "media-v18212-2001-002","2001-04-16","CHAGE and ASKA","media","テレビ「SMAP×SMAP 2001 今夜は生スペシャル」出演・放送","","","","フジテレビ。ビストロSMAPとライブ企画。「ロケットの樹の下で」「らいおんハート」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
@@ -1824,7 +1830,8 @@
 "media-v18212-2001-003","2001-04-21","CHAGE and ASKA","media","テレビ「王様のブランチ」出演・放送","","","","TBS。C&Aゲスト出演。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
 "media-v18212-2001-004","2001-04-23","CHAGE and ASKA","media","テレビ「スーパーニュース」出演・放送","","","","フジテレビ。C&A関連出演。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
 "media-v18212-2001-005","2001-04-24","CHAGE and ASKA","media","テレビ「めざましテレビ」出演・放送","","","","フジテレビ。C&Aインタビュー。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
-"release-v07-027","2001-04-25","CHAGE and ASKA","release","『ロケットの樹の下で』発売","","","","作品種別：シングル","primary","https://www.chage-aska.net/history/2000.php"
+"release-v07-027","2001-04-25","CHAGE and ASKA","release","『ロケットの樹の下で』発売","","","","作品種別：シングル
+【第34回・2000〜2004年作品発売情報追補】媒体：CDシングル／製品番号：UMCK-5013。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。","primary","https://www.chage-aska.net/history/2000.php; https://www.chage-aska.net/discography/single/rocket_no_ki_no_shita_de.php"
 "media-v18212-2001-006","2001-04-26","CHAGE and ASKA","media","テレビ「うたばん」出演・放送","","","","TBS。C&Aとして初出演の記録。「ロケットの樹の下で」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
 "media-v18212-2001-007","2001-04-27","CHAGE and ASKA","media","テレビ「ミュージックステーション」出演・放送","","","","テレビ朝日。「ロケットの樹の下で」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
 "media-v18212-2001-008","2001-04-30","CHAGE and ASKA","media","テレビ「HEY!HEY!HEY! MUSIC CHAMP」出演・放送","","","","フジテレビ。「ロケットの樹の下で」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
@@ -1849,7 +1856,8 @@
 "release-audit-v204-2001-yccr-00023","2001-07-18","ASKA","release","『SCENE II』CD再発売","","","","作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00023。作品の初発売日とは区別。","primary","https://www.yamahamusic.co.jp/s/ymc/discography/255"
 "release-audit-v204-2001-yccr-00024","2001-07-18","MULTI MAX","release","『RE-BIRTH』CD再発売","","","","作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00024。作品の初発売日とは区別。","primary","https://www.yamahamusic.co.jp/s/ymc/discography/209"
 "media-v18212-2001-012","2001-08-08","ASKA","media","テレビ「笑っていいとも！」出演・放送","","","","フジテレビ。ASKAがテレフォンショッキングに出演。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
-"release-v07-028","2001-08-08","CHAGE and ASKA","release","『パラシュートの部屋で』発売","","","","作品種別：シングル","primary","https://www.chage-aska.net/history/2000.php"
+"release-v07-028","2001-08-08","CHAGE and ASKA","release","『パラシュートの部屋で』発売","","","","作品種別：シングル
+【第34回・2000〜2004年作品発売情報追補】媒体：CDシングル／製品番号：UMCK-5036。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。","primary","https://www.chage-aska.net/history/2000.php; https://www.chage-aska.net/discography/single/parachute_no_heya_de.php"
 "media-v18212-2001-013","2001-08-10","CHAGE and ASKA","media","テレビ「ミュージックステーション」出演・放送","","","","テレビ朝日。「パラシュートの部屋で」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
 "live-v07-festival-2001-01","2001-08-11","CHAGE and ASKA","live","KOIWAI ROCK FARM2001","岩手県","小岩井農場","","野外イベント出演","primary","https://www.chage-aska.net/history/2000.php"
 "media-v18212-2001-014","2001-08-12","ASKA","media","テレビ「笑っていいとも！増刊号」出演・放送","","","","フジテレビ。8月8日のASKAテレフォンショッキングの未公開場面とされる放送。生出演の重複ではない。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
@@ -1870,7 +1878,8 @@
 "live-v07-festival-2001-05","2001-09-09","CHAGE and ASKA","live","MIRACLE MUSIC FESTIVAL 2001","大阪府","大阪南港WTCオープンエアスタジアム","","野外イベント出演","primary","https://www.chage-aska.net/history/2000.php"
 "media-v18212-2001-020","2001-09-10","CHAGE and ASKA","media","テレビ「壷」出演・放送","","","","RCCテレビ。8月26日「SOUND MARINA 2001」の模様、インタビュー。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
 "media-v18212-2001-021","2001-09-17","CHAGE and ASKA","media","テレビ「壷」出演・放送","","","","RCCテレビ。8月26日「SOUND MARINA 2001」の模様。「太陽と埃の中で」。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
-"release-v07-029","2001-09-19","CHAGE and ASKA","release","『C-46』発売","","","","作品種別：シングル","primary","https://www.chage-aska.net/history/2000.php"
+"release-v07-029","2001-09-19","CHAGE and ASKA","release","『C-46』発売","","","","作品種別：シングル
+【第34回・2000〜2004年作品発売情報追補】媒体：CDシングル／製品番号：UMCK-5034。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。","primary","https://www.chage-aska.net/history/2000.php; https://www.chage-aska.net/discography/single/c_46.php"
 "release-audit-v204-2001-yccr-00031","2001-09-19","CHAGE and ASKA","release","『INSIDE』CD再発売","","","","作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00031。作品の初発売日とは区別。","primary","https://www.yamahamusic.co.jp/s/ymc/discography/245"
 "release-audit-v204-2001-yccr-00032","2001-09-19","CHAGE and ASKA","release","『CHAGE&ASKA IV -21世紀-』CD再発売","","","","作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00032。作品の初発売日とは区別。","primary","https://www.yamahamusic.co.jp/s/ymc/discography/246"
 "release-audit-v204-2001-yccr-00033","2001-09-19","CHAGE and ASKA","release","『熱い想い』CD再発売","","","","作品形態：アルバム再発売（CD）。ヤマハミュージックコミュニケーションズの2001年再発売盤。規格品番：YCCR-00033。作品の初発売日とは区別。","primary","https://www.yamahamusic.co.jp/s/ymc/discography/247"
@@ -1911,7 +1920,8 @@
 "live-v07-not-at-all-2001-018","2001-11-24","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL","愛知県","名古屋国際会議場センチュリーホール","18","2002年も継続するツアー（2001年の公演日程を収録）","primary","https://www.chage-aska.net/history/2000.php"
 "live-v07-not-at-all-2001-019","2001-11-26","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL","青森県","青森文化会館","19","2002年も継続するツアー（2001年の公演日程を収録）","primary","https://www.chage-aska.net/history/2000.php"
 "live-v07-not-at-all-2001-020","2001-11-28","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL","福島県","郡山市民文化センター","20","2002年も継続するツアー（2001年の公演日程を収録）","primary","https://www.chage-aska.net/history/2000.php"
-"release-v07-030","2001-11-28","CHAGE and ASKA","release","『夢の飛礫』発売","","","","作品種別：シングル","primary","https://www.chage-aska.net/history/2000.php"
+"release-v07-030","2001-11-28","CHAGE and ASKA","release","『夢の飛礫』発売","","","","作品種別：シングル
+【第34回・2000〜2004年作品発売情報追補】媒体：CDシングル／製品番号：UMCK-5046。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。","primary","https://www.chage-aska.net/history/2000.php; https://www.chage-aska.net/discography/single/yume_no_tsubute.php"
 "live-v07-not-at-all-2001-021","2001-12-01","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL","群馬県","桐生市市民文化会館","21","2002年も継続するツアー（2001年の公演日程を収録）","primary","https://www.chage-aska.net/history/2000.php"
 "live-v07-not-at-all-2001-022","2001-12-05","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL","茨城県","茨城県立県民文化センター","22","2002年も継続するツアー（2001年の公演日程を収録）","primary","https://www.chage-aska.net/history/2000.php"
 "live-v07-not-at-all-2001-023","2001-12-11","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL","長野県","長野県県民文化会館","23","2002年も継続するツアー（2001年の公演日程を収録）","primary","https://www.chage-aska.net/history/2000.php"
@@ -1927,7 +1937,8 @@
 "media-v18212-2001-036","2001-12-26","CHAGE and ASKA","media","テレビ「エクスプレス」出演・放送","","","","TBS。「NOT AT ALL」ツアー密着・インタビュー。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
 "live-v07-not-at-all-2001-031","2001-12-27","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL","新潟県","新潟県民会館","31","2002年も継続するツアー（2001年の公演日程を収録）","primary","https://www.chage-aska.net/history/2000.php"
 "media-v18212-2001-037","2001-12-27","CHAGE and ASKA","media","テレビ「ぜっぴんTV」出演・放送","","","","テレビ東京。時代劇「壬生義士伝」関連番宣・C&Aインタビュー。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
-"release-v07-031","2001-12-27","CHAGE and ASKA","release","『NOT AT ALL』発売","","","","作品種別：アルバム","primary","https://www.chage-aska.net/history/2000.php"
+"release-v07-031","2001-12-27","CHAGE and ASKA","release","『NOT AT ALL』発売","","","","作品種別：アルバム
+【第34回・2000〜2004年作品発売情報追補】媒体：CD（アルバム）／製品番号：UMCK-1057。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。","primary","https://www.chage-aska.net/history/2000.php; https://www.chage-aska.net/discography/album/not_at_all.php"
 "media-v18212-2001-038","2001-12-30","Chage","media","テレビ「タモリ倶楽部 空耳アワード2001」出演・放送","","","","テレビ朝日。CHAGEゲスト出演。（二次資料非公式資料の日付・内容を採用。放送局の一次資料は原則未照合。）","secondary","https://w.atwiki.jp/cavc/pages/69.html"
 "live-not-at-all-2001-032","2002-01-06","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL","栃木県","宇都宮市文化会館","32","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/427.html"
 "live-not-at-all-2001-033","2002-01-09","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL","千葉県","市川市文化会館","33","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/427.html"
@@ -2004,7 +2015,8 @@
 "live-extra-2002-11-01-01","2002-11-01","CHAGE and ASKA","live","AOYAMA FESTIVAL PRE-EVENT2002","東京都","青山学院記念館","","青山学院大学学園祭前夜祭","primary","https://www.chage-aska.net/history/2000.php"
 "live-the-live-2002-2003-001","2002-11-15","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE","神奈川県","ハーモニーホール座間","1","ツアー初日","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/429.html"
 "live-the-live-2002-2003-002","2002-11-17","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE","群馬県","群馬県民会館","2","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/429.html"
-"release-v08-002","2002-11-20","CHAGE and ASKA","release","『STAMP』発売","","","","アルバム","primary","https://www.chage-aska.net/history/2000.php"
+"release-v08-002","2002-11-20","CHAGE and ASKA","release","『STAMP』発売","","","","アルバム
+【第34回・2000〜2004年作品発売情報追補】媒体：CD（アルバム）／製品番号：UMCK-1140。品番確認：発売元・アーティスト公式資料。既登録品番を保持し、未入力の媒体のみ補完。","primary","https://www.chage-aska.net/history/2000.php; https://www.chage-aska.net/discography/album/stamp.php"
 "media-v18212-2002-015","2002-11-21","CHAGE and ASKA","media","テレビ「うたばん」出演・放送","","","","TBS。「YAH YAH YAH」。企画により照明なしの舞台とする演出。（二次資料非公式記録。放送局の一次資料は未照合。）","secondary","https://w.atwiki.jp/cavc/pages/70.html"
 "live-the-live-2002-2003-003","2002-11-22","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE","茨城県","茨城県立県民文化センター","3","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/429.html"
 "media-v18212-2002-016","2002-11-25","CHAGE and ASKA","media","テレビ「ミュージックカクテル」出演・放送","","","","NHK。「YAH YAH YAH」「太陽と埃の中で」「終章（エピローグ）」「WALK」など。（二次資料非公式記録。放送局の一次資料は未照合。）","secondary","https://w.atwiki.jp/cavc/pages/70.html"
@@ -2055,7 +2067,8 @@
 "live-the-live-2002-2003-040","2003-03-03","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE","静岡県","アクトシティ浜松","40","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/429.html"
 "live-the-live-2002-2003-041","2003-03-04","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE","静岡県","アクトシティ浜松","41","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/429.html"
 "media-v18213-2003-003","2003-03-12","CHAGE and ASKA","media","テレビ「おんがく」出演・放送","","","","TBS。Zepp Tokyoでの学生限定ライブを収録した番組。公開録画の実施日は資料から確定できないため、放送日だけを登録。（二次資料の記録、放送局一次資料は未照合。）","secondary","https://w.atwiki.jp/cavc/pages/72.html"
-"release-v08-003","2003-03-12","CHAGE and ASKA","release","『CHAGE and ASKA VIDEO CLIPS SELECTION MUSIC ON FILMS』発売","","","","映像作品","primary","https://www.chage-aska.net/history/2000.php"
+"release-v08-003","2003-03-12","CHAGE and ASKA","release","『CHAGE and ASKA VIDEO CLIPS SELECTION MUSIC ON FILMS』発売","","","","映像作品
+【第34回・2000〜2004年作品発売情報追補】媒体：DVD／製品番号：UMBK-1056。品番確認：発売元・アーティスト公式資料。既登録品番を保持し、未入力の媒体のみ補完。","primary","https://www.chage-aska.net/history/2000.php; https://www.chage-aska.net/discography/video/video_clip.php"
 "live-the-live-2002-2003-042","2003-03-13","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE","埼玉県","大宮ソニックシティ","42","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/429.html"
 "live-the-live-2002-2003-043","2003-03-14","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE","埼玉県","大宮ソニックシティ","43","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/429.html"
 "live-the-live-2002-2003-044","2003-03-21","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE","宮城県","仙台市体育館","44","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/429.html"
@@ -2125,8 +2138,10 @@
 "media-v18213-2004-003","2004-03-11","ASKA","media","テレビ「夢・音楽館」出演・放送","","","","NHK。ASKAソロ出演。桃井かおりとのトークや歌唱。（二次資料の記録、放送局一次資料は未照合。）","secondary","https://w.atwiki.jp/cavc/pages/73.html"
 "media-v18213-2004-004","2004-03-15","CHAGE and ASKA","media","テレビ「スターダスト・レビュー ライブ～LIVE ENTERTAINMENT TOUR “Heaven”～」映像放送","","","","WOWOW。スターダスト・レビューのコンサートからC&Aとの共演場面を放送。C&A単独ライブの開催日ではない。（二次資料の記録、放送局一次資料は未照合。）","secondary","https://w.atwiki.jp/cavc/pages/73.html"
 "event-v08-005","2004-03-25","CHAGE and ASKA","other","歌詞集『two-five』発売","","","","音源・映像作品ではない出版物","primary","https://www.chage-aska.net/history/2000.php"
-"release-v08-010","2004-03-31","CHAGE and ASKA","release","『CHAGE and ASKA COUNTDOWN LIVE 03>>04 in SAPPORO DOME』発売","","","","ライブ映像作品","primary","https://www.chage-aska.net/history/2000.php"
-"release-v08-011","2004-04-07","CHAGE and ASKA","release","『Seamless Singles』発売","","","","シングル","primary","https://www.chage-aska.net/history/2000.php"
+"release-v08-010","2004-03-31","CHAGE and ASKA","release","『CHAGE and ASKA COUNTDOWN LIVE 03>>04 in SAPPORO DOME』発売","","","","ライブ映像作品
+【第34回・2000〜2004年作品発売情報追補】媒体：DVD＋ライブCD／製品番号：UMBK-1076。品番確認：発売元・アーティスト公式資料。DVDと付属ライブCDのセット。公式ページの製品番号は既登録済み。","primary","https://www.chage-aska.net/history/2000.php; https://www.chage-aska.net/discography/video/countdown_live.php"
+"release-v08-011","2004-04-07","CHAGE and ASKA","release","『Seamless Singles』発売","","","","シングル
+【第34回・2000〜2004年作品発売情報追補】媒体：CDシングル／製品番号：UMCK-5115。品番確認：発売元・アーティスト公式資料。既登録品番を保持し、未入力の媒体のみ補完。","primary","https://www.chage-aska.net/history/2000.php; https://www.chage-aska.net/discography/single/seamless_singles.php"
 "live-two-five-2004-001","2004-04-09","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 2004 two-five","千葉県","市川市文化会館","1","ツアー初日","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/430.html"
 "live-two-five-2004-002","2004-04-12","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 2004 two-five","埼玉県","大宮ソニックシティ","2","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/430.html"
 "media-v18213-2004-005","2004-04-12","CHAGE and ASKA","media","テレビ「めざましテレビ」出演・放送","","","","フジテレビ。「two-five」ツアーのライブ映像が紹介された記録。生出演と断定しない。（二次資料の記録、放送局一次資料は未照合。）","secondary","https://w.atwiki.jp/cavc/pages/73.html"
@@ -2185,7 +2200,8 @@
 "live-two-five-2004-047","2004-09-18","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 2004 two-five","岡山県","倉敷市民会館","47","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/430.html"
 "live-two-five-2004-048","2004-09-21","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 2004 two-five","大阪府","大阪フェスティバルホール","48","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/430.html"
 "live-two-five-2004-049","2004-09-22","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 2004 two-five","大阪府","大阪フェスティバルホール","49","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/430.html"
-"release-v08-016","2004-09-22","CHAGE and ASKA","release","『36度線-1995夏-（DVDシングル）』発売","","","","映像作品","primary","https://www.chage-aska.net/history/2000.php"
+"release-v08-016","2004-09-22","CHAGE and ASKA","release","『36度線-1995夏-（DVDシングル）』発売","","","","映像作品
+【第34回・2000〜2004年作品発売情報追補】媒体：DVDシングル／製品番号：UMBK-1077。品番確認：発売元・アーティスト公式資料。品番は既存値を維持。公式HISTORYに明記されたDVDシングルという媒体を補完。","primary","https://www.chage-aska.net/history/2000.php"
 "live-two-five-2004-050","2004-09-27","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 2004 two-five","北海道","北海道厚生年金会館","50","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/430.html"
 "live-two-five-2004-051","2004-09-28","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 2004 two-five","北海道","北海道厚生年金会館","51","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/430.html"
 "live-two-five-2004-052","2004-10-03","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 2004 two-five","栃木県","宇都宮市文化会館","52","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/430.html"
@@ -2200,7 +2216,8 @@
 "live-two-five-2004-061","2004-11-02","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 2004 two-five","福岡県","マリンメッセ福岡","61","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/430.html"
 "live-two-five-2004-062","2004-11-03","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 2004 two-five","福岡県","マリンメッセ福岡","62","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/430.html"
 "release-v08-017","2004-11-03","CHAGE and ASKA","release","『THE STORY of BALLAD』再発盤発売","","","","再発アルバム（1990年初出）","primary","https://www.chage-aska.net/history/2000.php"
-"release-v08-018","2004-11-03","CHAGE and ASKA","release","『THE STORY of BALLAD II』発売","","","","アルバム","primary","https://www.chage-aska.net/history/2000.php"
+"release-v08-018","2004-11-03","CHAGE and ASKA","release","『THE STORY of BALLAD II』発売","","","","アルバム
+【第34回・2000〜2004年作品発売情報追補】媒体：CD（アルバム）／製品番号：YCCR-10002。品番確認：発売元・アーティスト公式資料。既登録品番を保持し、未入力の媒体のみ補完。","primary","https://www.chage-aska.net/history/2000.php; https://www.chage-aska.net/discography/album/ballad2.php"
 "live-extra-2004-11-13-01","2004-11-13","CHAGE and ASKA","live","第46回三田祭前夜祭 CHAGE and ASKA PREMIUM CONCERT in KEIO","神奈川県","慶應義塾大学 日吉キャンパス 日吉記念館","","学園祭イベント","primary","https://www.chage-aska.net/history/2000.php"
 "live-two-five-2004-063","2004-11-23","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 2004 two-five","大阪府","大阪城ホール","63","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/430.html"
 "live-two-five-2004-064","2004-11-24","CHAGE and ASKA","live","CHAGE and ASKA CONCERT TOUR 2004 two-five","大阪府","大阪城ホール","64","","primary","https://www.chage-aska.net/history/2000.php; https://w.atwiki.jp/canda/pages/430.html"

@@ -35522,13 +35522,19 @@
       "releaseTitle": "good time",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：シングル",
+      "note": "作品種別：シングル\n【第34回・2000〜2004年作品発売情報追補】媒体：12cm CDシングル／製品番号：YCDR-00001。品番確認：作品商品情報（二次資料）。発売当時の規格品番は商品データベースによる二次照合。元記録の一次資料確認区分は変更しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "参考資料（非公式・商品情報／規格品番）",
+          "url": "https://contents.oricon.co.jp/prof/245800/products/313077/1/"
         }
-      ]
+      ],
+      "catalogNumber": "YCDR-00001",
+      "format": "12cm CDシングル"
     },
     {
       "id": "release-v07-022",
@@ -35539,13 +35545,19 @@
       "releaseTitle": "千年夜一夜ライブ ～福岡ドーム 僕らがホーム～",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：ライブDVD",
+      "note": "作品種別：ライブDVD\n【第34回・2000〜2004年作品発売情報追補】媒体：DVD／製品番号：YCBR-00001。品番確認：発売元・アーティスト公式資料。同作品の2000年6月15日FC限定VHSとは別規格。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（発売日・規格・品番）",
+          "url": "https://www.chage-aska.net/discography/video/senyaichiya_live.php"
         }
-      ]
+      ],
+      "catalogNumber": "YCBR-00001",
+      "format": "DVD"
     },
     {
       "id": "media-v18211-2000-003",
@@ -36251,13 +36263,19 @@
       "releaseTitle": "CHAGE & ASKA ASIAN TOUR IN TAIPEI",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：5.1chライブDVD",
+      "note": "作品種別：5.1chライブDVD\n【第34回・2000〜2004年作品発売情報追補】媒体：DVD（5.1ch）／製品番号：YCBR-00002。品番確認：発売元・アーティスト公式資料。1996年映像ソフト初発売とは別のDVD版。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（発売日・規格・品番）",
+          "url": "https://www.chage-aska.net/discography/video/asian_tour.php"
         }
-      ]
+      ],
+      "catalogNumber": "YCBR-00002",
+      "format": "DVD（5.1ch）"
     },
     {
       "id": "release-v07-024",
@@ -36268,13 +36286,19 @@
       "releaseTitle": "CHAGE & ASKA MTV UNPLUGGED LIVE",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：5.1chライブDVD",
+      "note": "作品種別：5.1chライブDVD\n【第34回・2000〜2004年作品発売情報追補】媒体：DVD（5.1ch）／製品番号：YCBR-00003。品番確認：発売元・アーティスト公式資料。1996年CD・VTR等の作品発売日とは別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（発売日・規格・品番）",
+          "url": "https://www.chage-aska.net/discography/video/mtv_unplugged.php"
         }
-      ]
+      ],
+      "catalogNumber": "YCBR-00003",
+      "format": "DVD（5.1ch）"
     },
     {
       "id": "release-v07-025",
@@ -36285,13 +36309,19 @@
       "releaseTitle": "ASKA 共謀者",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：5.1chライブDVD（FC販売）",
+      "note": "作品種別：5.1chライブDVD（FC販売）\n【第34回・2000〜2004年作品発売情報追補】媒体：DVD（5.1ch）／製品番号：YCBR-00004。品番確認：発売元・アーティスト公式資料。発売元公式の商品名「共謀者ID」。既存タイトルは変えない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式ディスコグラフィー（発売日・品番）",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/276?ima=0000"
         }
-      ]
+      ],
+      "catalogNumber": "YCBR-00004",
+      "format": "DVD（5.1ch）"
     },
     {
       "id": "release-v07-026",
@@ -36302,13 +36332,23 @@
       "releaseTitle": "CHAGE Feeling Place",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：5.1chライブDVD（FC販売）",
+      "note": "作品種別：5.1chライブDVD（FC販売）\n【第34回・2000〜2004年作品発売情報追補】媒体：DVD（5.1ch）／製品番号：YCBR-00005。品番確認：発売元・アーティスト公式資料。1999年のFC限定VHSと混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "Chage公式ディスコグラフィー（2001年DVD）",
+          "url": "https://chage.jp/discography/chage/bd/012.php"
+        },
+        {
+          "label": "発売元公式商品ページ",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/277?ima=0000"
         }
-      ]
+      ],
+      "catalogNumber": "YCBR-00005",
+      "format": "DVD（5.1ch）"
     },
     {
       "id": "milestone-ca-universal-kittymme-2001-0101",
@@ -36514,13 +36554,19 @@
       "releaseTitle": "ロケットの樹の下で",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：シングル",
+      "note": "作品種別：シングル\n【第34回・2000〜2004年作品発売情報追補】媒体：CDシングル／製品番号：UMCK-5013。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（発売日・規格・品番）",
+          "url": "https://www.chage-aska.net/discography/single/rocket_no_ki_no_shita_de.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMCK-5013",
+      "format": "CDシングル"
     },
     {
       "id": "media-v18212-2001-006",
@@ -36966,13 +37012,19 @@
       "releaseTitle": "パラシュートの部屋で",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：シングル",
+      "note": "作品種別：シングル\n【第34回・2000〜2004年作品発売情報追補】媒体：CDシングル／製品番号：UMCK-5036。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（発売日・規格・品番）",
+          "url": "https://www.chage-aska.net/discography/single/parachute_no_heya_de.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMCK-5036",
+      "format": "CDシングル"
     },
     {
       "id": "media-v18212-2001-013",
@@ -37341,13 +37393,19 @@
       "releaseTitle": "C-46",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：シングル",
+      "note": "作品種別：シングル\n【第34回・2000〜2004年作品発売情報追補】媒体：CDシングル／製品番号：UMCK-5034。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（発売日・規格・品番）",
+          "url": "https://www.chage-aska.net/discography/single/c_46.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMCK-5034",
+      "format": "CDシングル"
     },
     {
       "id": "release-audit-v204-2001-yccr-00031",
@@ -38122,13 +38180,19 @@
       "releaseTitle": "夢の飛礫",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：シングル",
+      "note": "作品種別：シングル\n【第34回・2000〜2004年作品発売情報追補】媒体：CDシングル／製品番号：UMCK-5046。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（発売日・規格・品番）",
+          "url": "https://www.chage-aska.net/discography/single/yume_no_tsubute.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMCK-5046",
+      "format": "CDシングル"
     },
     {
       "id": "live-v07-not-at-all-2001-021",
@@ -38438,13 +38502,19 @@
       "releaseTitle": "NOT AT ALL",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：アルバム",
+      "note": "作品種別：アルバム\n【第34回・2000〜2004年作品発売情報追補】媒体：CD（アルバム）／製品番号：UMCK-1057。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（発売日・規格・品番）",
+          "url": "https://www.chage-aska.net/discography/album/not_at_all.php"
         }
-      ]
+      ],
+      "catalogNumber": "UMCK-1057",
+      "format": "CD（アルバム）"
     },
     {
       "id": "media-v18212-2001-038",
@@ -40200,15 +40270,20 @@
       "releaseTitle": "STAMP",
       "status": "released",
       "verification": "primary",
-      "note": "アルバム",
+      "note": "アルバム\n【第34回・2000〜2004年作品発売情報追補】媒体：CD（アルバム）／製品番号：UMCK-1140。品番確認：発売元・アーティスト公式資料。既登録品番を保持し、未入力の媒体のみ補完。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（発売日・規格・品番）",
+          "url": "https://www.chage-aska.net/discography/album/stamp.php"
         }
       ],
       "catalogNumber": "UMCK-1140",
-      "releaseFormat": "CD"
+      "releaseFormat": "CD",
+      "format": "CD（アルバム）"
     },
     {
       "id": "media-v18212-2002-015",
@@ -41374,15 +41449,20 @@
       "releaseTitle": "CHAGE and ASKA VIDEO CLIPS SELECTION MUSIC ON FILMS",
       "status": "released",
       "verification": "primary",
-      "note": "映像作品",
+      "note": "映像作品\n【第34回・2000〜2004年作品発売情報追補】媒体：DVD／製品番号：UMBK-1056。品番確認：発売元・アーティスト公式資料。既登録品番を保持し、未入力の媒体のみ補完。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（発売日・規格・品番）",
+          "url": "https://www.chage-aska.net/discography/video/video_clip.php"
         }
       ],
       "catalogNumber": "UMBK-1056",
-      "releaseFormat": "DVD"
+      "releaseFormat": "DVD",
+      "format": "DVD"
     },
     {
       "id": "live-the-live-2002-2003-042",
@@ -42790,15 +42870,20 @@
       "releaseTitle": "CHAGE and ASKA COUNTDOWN LIVE 03>>04 in SAPPORO DOME",
       "status": "released",
       "verification": "primary",
-      "note": "ライブ映像作品",
+      "note": "ライブ映像作品\n【第34回・2000〜2004年作品発売情報追補】媒体：DVD＋ライブCD／製品番号：UMBK-1076。品番確認：発売元・アーティスト公式資料。DVDと付属ライブCDのセット。公式ページの製品番号は既登録済み。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（発売日・規格・品番）",
+          "url": "https://www.chage-aska.net/discography/video/countdown_live.php"
         }
       ],
       "catalogNumber": "UMBK-1076",
-      "releaseFormat": "DVD＋CD"
+      "releaseFormat": "DVD＋CD",
+      "format": "DVD＋ライブCD"
     },
     {
       "id": "release-v08-011",
@@ -42809,15 +42894,20 @@
       "releaseTitle": "Seamless Singles",
       "status": "released",
       "verification": "primary",
-      "note": "シングル",
+      "note": "シングル\n【第34回・2000〜2004年作品発売情報追補】媒体：CDシングル／製品番号：UMCK-5115。品番確認：発売元・アーティスト公式資料。既登録品番を保持し、未入力の媒体のみ補完。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（発売日・規格・品番）",
+          "url": "https://www.chage-aska.net/discography/single/seamless_singles.php"
         }
       ],
       "catalogNumber": "UMCK-5115",
-      "releaseFormat": "CD（シングル）"
+      "releaseFormat": "CD（シングル）",
+      "format": "CDシングル"
     },
     {
       "id": "live-two-five-2004-001",
@@ -44216,7 +44306,7 @@
       "releaseTitle": "36度線-1995夏-（DVDシングル）",
       "status": "released",
       "verification": "primary",
-      "note": "映像作品",
+      "note": "映像作品\n【第34回・2000〜2004年作品発売情報追補】媒体：DVDシングル／製品番号：UMBK-1077。品番確認：発売元・アーティスト公式資料。品番は既存値を維持。公式HISTORYに明記されたDVDシングルという媒体を補完。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
@@ -44224,7 +44314,8 @@
         }
       ],
       "catalogNumber": "UMBK-1077",
-      "releaseFormat": "DVDシングル"
+      "releaseFormat": "DVDシングル",
+      "format": "DVDシングル"
     },
     {
       "id": "live-two-five-2004-050",
@@ -44579,15 +44670,20 @@
       "releaseTitle": "THE STORY of BALLAD II",
       "status": "released",
       "verification": "primary",
-      "note": "アルバム",
+      "note": "アルバム\n【第34回・2000〜2004年作品発売情報追補】媒体：CD（アルバム）／製品番号：YCCR-10002。品番確認：発売元・アーティスト公式資料。既登録品番を保持し、未入力の媒体のみ補完。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（発売日・規格・品番）",
+          "url": "https://www.chage-aska.net/discography/album/ballad2.php"
         }
       ],
       "catalogNumber": "YCCR-10002",
-      "releaseFormat": "CD"
+      "releaseFormat": "CD",
+      "format": "CD（アルバム）"
     },
     {
       "id": "live-extra-2004-11-13-01",
@@ -82849,5 +82945,5 @@
       ]
     }
   ],
-  "siteVersion": "2.0.33"
+  "siteVersion": "2.0.34"
 }
