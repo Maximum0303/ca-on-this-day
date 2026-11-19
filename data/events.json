@@ -13230,7 +13230,8 @@
         }
       ],
       "format": "CD（1987年初発売盤）",
-      "catalogNumber": "D32P-6064"
+      "catalogNumber": "D32P-6064",
+      "releaseTitle": "SUPER BEST"
     },
     {
       "id": "media-v18-1987-006",
@@ -14442,7 +14443,8 @@
         }
       ],
       "catalogNumber": "7A-0767",
-      "format": "7インチレコード（EP）"
+      "format": "7インチレコード（EP）",
+      "releaseTitle": "MY Mr.LONELY HEART"
     },
     {
       "id": "media-v18-1987-013",
@@ -14572,7 +14574,8 @@
         }
       ],
       "catalogNumber": "S10A-0072",
-      "format": "シングル（媒体は未確定）"
+      "format": "シングル（媒体は未確定）",
+      "releaseTitle": "ロマンシングヤード／Mr.ASIA"
     },
     {
       "id": "media-v18-1987-020",
@@ -15179,7 +15182,8 @@
         }
       ],
       "catalogNumber": "S10A-0004",
-      "format": "シングル（媒体は未確定）"
+      "format": "シングル（媒体は未確定）",
+      "releaseTitle": "恋人はワイン色／あきらめのBlue Day"
     },
     {
       "id": "media-v18-1988-004",
@@ -16107,7 +16111,8 @@
         }
       ],
       "catalogNumber": "S10A-0143",
-      "format": "シングル（媒体は未確定）"
+      "format": "シングル（媒体は未確定）",
+      "releaseTitle": "MIDNIGHT 2 CALL"
     },
     {
       "id": "media-v18-1988-016",
@@ -16402,7 +16407,8 @@
         "release-audit-variants-19880821-scene-lp-c28a0661",
         "release-audit-variants-19880821-scene-ct-28p6831",
         "release-audit-variants-19880821-scene-cd-d32a0387"
-      ]
+      ],
+      "releaseTitle": "SCENE"
     },
     {
       "id": "media-v18-1988-023",
@@ -17431,7 +17437,8 @@
       "catalogNumber": "7A-0953 / S10A-0247",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/single/walk.php",
-      "releaseFormat": "EP／8cm CD（1989年初発売盤）"
+      "releaseFormat": "EP／8cm CD（1989年初発売盤）",
+      "releaseTitle": "WALK"
     },
     {
       "id": "media-v18-1989-003",
@@ -17465,7 +17472,8 @@
         }
       ],
       "format": "VTR",
-      "catalogNumber": "V88M-1842"
+      "catalogNumber": "V88M-1842",
+      "releaseTitle": "WALK"
     },
     {
       "id": "release-audit-v207-1989-d35a-0485",
@@ -19102,7 +19110,8 @@
         }
       ],
       "format": "VTR",
-      "catalogNumber": "V65M-1955"
+      "catalogNumber": "V65M-1955",
+      "releaseTitle": "HISTORY I ～10years after～"
     },
     {
       "id": "media-v18-1989-014",
@@ -19274,7 +19283,8 @@
         }
       ],
       "catalogNumber": "PCDA-00008",
-      "format": "CDシングル"
+      "format": "CDシングル",
+      "releaseTitle": "SOME DAY"
     },
     {
       "id": "media-v18-1989-020",
@@ -19328,7 +19338,8 @@
         }
       ],
       "catalogNumber": "PCCA-00013",
-      "format": "CD（1989年発売盤）"
+      "format": "CD（1989年発売盤）",
+      "releaseTitle": "HEAVEN"
     },
     {
       "id": "media-v18-1989-026",
@@ -25694,7 +25705,8 @@
       "catalogNumber": "PCDA-00416",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/single/yah_yah_yah.php",
-      "releaseFormat": "8cm CD"
+      "releaseFormat": "8cm CD",
+      "releaseTitle": "YAH YAH YAH／夢の番人"
     },
     {
       "id": "media-v18231-1993-03-07-chageandaska-001",
@@ -25794,7 +25806,8 @@
       "catalogNumber": "PCVP-51114",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/video/guys.php",
-      "releaseFormat": "VHS"
+      "releaseFormat": "VHS",
+      "releaseTitle": "CHAGE AND ASKA CONCERT MOVIE GUYS"
     },
     {
       "id": "release-audit-v203-20261118-ca-tug-v4-vhs-1993",
@@ -25813,7 +25826,8 @@
       ],
       "catalogNumberStatus": "needs_verification",
       "catalogNumberStatusNote": "物理商品か媒体未詳の記録。該当する初発売・再発売・規格を原典で照合するまで空欄維持。",
-      "releaseFormat": "VHS（ファンクラブ限定）"
+      "releaseFormat": "VHS（ファンクラブ限定）",
+      "releaseTitle": "THE VIDEO OF CHAGE and ASKA TUG OF C&A Vol.4"
     },
     {
       "id": "live-guys-special-event-1993-001",
@@ -25980,7 +25994,8 @@
       "catalogNumber": "TODT-3010",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://chage.jp/discography/multi_max/single/003.php",
-      "releaseFormat": "CDシングル（MULTI MAX）"
+      "releaseFormat": "CDシングル（MULTI MAX）",
+      "releaseTitle": "勇気の言葉"
     },
     {
       "id": "media-v18231-1993-04-10-chageandaska-001",
@@ -26313,7 +26328,8 @@
         }
       ],
       "catalogNumber": "TOCT-8055",
-      "releaseFormat": "CD"
+      "releaseFormat": "CD",
+      "releaseTitle": "RE-BIRTH"
     },
     {
       "id": "release-audit-v202-20261118-ca-sons-daughters-single",
@@ -26335,7 +26351,8 @@
       "catalogNumber": "PCDA-00471",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/single/sons_and_daughters.php",
-      "releaseFormat": "8cm CD"
+      "releaseFormat": "8cm CD",
+      "releaseTitle": "Sons and Daughters～それより僕が伝えたいのは～"
     },
     {
       "id": "live-longest-tour-1993-1994-001",
@@ -27130,7 +27147,8 @@
         }
       ],
       "catalogNumber": "PCDA-00523",
-      "releaseFormat": "CD BOX（18枚組）"
+      "releaseFormat": "CD BOX（18枚組）",
+      "releaseTitle": "CHAGE&ASKA THE LONGEST TOUR MEMORIAL"
     },
     {
       "id": "release-audit-v205-1993-pcca-00534",
@@ -27996,7 +28014,8 @@
         }
       ],
       "catalogNumber": "PCVP-51385",
-      "format": "VTR"
+      "format": "VTR",
+      "releaseTitle": "RED HILL"
     },
     {
       "id": "live-longest-tour-1993-1994-047",
@@ -28827,7 +28846,8 @@
       "catalogNumber": "PCVP-51513",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/video/on_your_mark.php",
-      "releaseFormat": "VHS（1994年の映像作品）"
+      "releaseFormat": "VHS（1994年の映像作品）",
+      "releaseTitle": "On Your Mark"
     },
     {
       "id": "release-v06-1994-10-05-127",
@@ -28869,7 +28889,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
-      "releaseFormat": "書籍（単行本）"
+      "releaseFormat": "書籍（単行本）",
+      "releaseTitle": "月が言い訳をしてる"
     },
     {
       "id": "release-v06-1994-11-16-128",
@@ -30109,7 +30130,8 @@
       "catalogNumber": "ESCA-6285",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.suruga-ya.jp/product/detail/222005150",
-      "releaseFormat": "CD（日本盤サウンドトラック・ASKA参加）"
+      "releaseFormat": "CD（日本盤サウンドトラック・ASKA参加）",
+      "releaseTitle": "ジャッジ・ドレッド"
     },
     {
       "id": "live-mission-impossible-1995-1996-026",
@@ -30550,7 +30572,8 @@
         }
       ],
       "catalogNumberStatus": "needs_verification",
-      "catalogNumberStatusNote": "物理商品か媒体未詳の記録。該当する初発売・再発売・規格を原典で照合するまで空欄維持。"
+      "catalogNumberStatusNote": "物理商品か媒体未詳の記録。該当する初発売・再発売・規格を原典で照合するまで空欄維持。",
+      "releaseTitle": "倆心知"
     },
     {
       "id": "live-mission-impossible-1995-1996-044",
@@ -31007,7 +31030,8 @@
       "catalogNumber": "PCVP-51854",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.suruga-ya.jp/product/detail/938001361",
-      "releaseFormat": "VHS（1996年初発売）"
+      "releaseFormat": "VHS（1996年初発売）",
+      "releaseTitle": "ASIAN TOUR IN TAIPEI"
     },
     {
       "id": "live-asian-mission-impossible-1995-1996-003",
@@ -31120,7 +31144,8 @@
         }
       ],
       "catalogNumber": "PCCA-00899",
-      "releaseFormat": "CD"
+      "releaseFormat": "CD",
+      "releaseTitle": "Code Name.2 Sister Moon"
     },
     {
       "id": "media-v18231-1996-04-26-chageandaska-001",
@@ -31221,7 +31246,8 @@
         }
       ],
       "catalogNumber": "72438-5278525",
-      "releaseFormat": "CD（英国盤）"
+      "releaseFormat": "CD（英国盤）",
+      "releaseTitle": "ONE VOICE"
     },
     {
       "id": "v1829-1996-0727-asia-tour-book",
@@ -31240,7 +31266,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
-      "releaseFormat": "書籍"
+      "releaseFormat": "書籍",
+      "releaseTitle": "CHAGE and ASKA DOCUMENT ―アジアツアーの真実―"
     },
     {
       "id": "v1829-1996-0731-one-voice-japan",
@@ -31262,7 +31289,8 @@
         }
       ],
       "catalogNumber": "TOCT-9560",
-      "releaseFormat": "CD（日本盤）"
+      "releaseFormat": "CD（日本盤）",
+      "releaseTitle": "ONE VOICE"
     },
     {
       "id": "v1829-1996-1007-mtv-unplugged-cd",
@@ -31284,7 +31312,8 @@
         }
       ],
       "catalogNumber": "PCCA-01020",
-      "releaseFormat": "CD（ライブアルバム）"
+      "releaseFormat": "CD（ライブアルバム）",
+      "releaseTitle": "MTV UNPLUGGED LIVE"
     },
     {
       "id": "v1829-1996-1018-mtv-unplugged-video",
@@ -31310,7 +31339,8 @@
       "catalogNumber": "PCVP-51971 / PCLP-00622",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.suruga-ya.jp/kaitori/kaitori_detail/938001520",
-      "releaseFormat": "VHS／LD（1996年発売）"
+      "releaseFormat": "VHS／LD（1996年発売）",
+      "releaseTitle": "MTV UNPLUGGED LIVE"
     },
     {
       "id": "media-v18231-1996-10-20-chageandaska-001",
@@ -31371,7 +31401,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
-      "releaseFormat": "書籍（エッセイ集）"
+      "releaseFormat": "書籍（エッセイ集）",
+      "releaseTitle": "インタビュー"
     },
     {
       "id": "media-v18231-1996-11-08-chage-001",
@@ -32028,7 +32059,8 @@
       "catalogNumber": "TOVF-1261",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://tower.jp/artist/350566",
-      "releaseFormat": "VHS（1997年初発売盤）"
+      "releaseFormat": "VHS（1997年初発売盤）",
+      "releaseTitle": "DOCUMENT&LIVE 1996-1997 Oki Doki! BOOTLEG"
     },
     {
       "id": "live-aska-id-1997-001",
@@ -32089,7 +32121,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
-      "releaseFormat": "書籍（文庫）"
+      "releaseFormat": "書籍（文庫）",
+      "releaseTitle": "月が言い訳をしてる（幻冬舎文庫）"
     },
     {
       "id": "live-aska-id-1997-003",
@@ -32556,7 +32589,8 @@
       "catalogNumber": "PCVP-52176 / PCLP-00652",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.suruga-ya.jp/product/detail/938001751",
-      "releaseFormat": "VHS／LD（1997年発売、VHS PCVP-52176、LD PCLP-00652）"
+      "releaseFormat": "VHS／LD（1997年発売、VHS PCVP-52176、LD PCLP-00652）",
+      "releaseTitle": "On Your Mark"
     },
     {
       "id": "v18210-1997-0807-aska-conspirators-video",
@@ -32579,7 +32613,8 @@
       ],
       "catalogNumberStatus": "needs_verification",
       "catalogNumberStatusNote": "物理商品か媒体未詳の記録。該当する初発売・再発売・規格を原典で照合するまで空欄維持。",
-      "releaseFormat": "VHS（ファンクラブ限定）"
+      "releaseFormat": "VHS（ファンクラブ限定）",
+      "releaseTitle": "共謀者"
     },
     {
       "id": "v18210-1997-0807-three-aska-book",
@@ -32598,7 +32633,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
-      "releaseFormat": "書籍（ファンクラブ限定）"
+      "releaseFormat": "書籍（ファンクラブ限定）",
+      "releaseTitle": "三人のASKA"
     },
     {
       "id": "v18210-1997-1009-chage-kai-guest",
@@ -51863,7 +51899,8 @@
       ],
       "releaseFormat": "DVD BOX（3枚組）",
       "catalogNumber": "YCBR-10004〜6",
-      "format": "DVD BOX（3枚組）"
+      "format": "DVD BOX（3枚組）",
+      "releaseTitle": "CHAGE and ASKA LIVE DVD BOX 2"
     },
     {
       "id": "release-v18216-2009-003",
@@ -51886,7 +51923,8 @@
       ],
       "releaseFormat": "DVD BOX（3枚組）",
       "catalogNumber": "YCBR-10007〜9",
-      "format": "DVD BOX（3枚組）"
+      "format": "DVD BOX（3枚組）",
+      "releaseTitle": "CHAGE and ASKA LIVE DVD BOX 3"
     },
     {
       "id": "release-v18216-2009-004",
@@ -52256,7 +52294,8 @@
       "catalogNumber": "UMCK-1335",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://katsuhisa-hattori.com/works/anniversary/50anniversary-katsuhisa-hattori.html",
-      "releaseFormat": "CD（服部克久記念作品）"
+      "releaseFormat": "CD（服部克久記念作品）",
+      "releaseTitle": "服部克久"
     },
     {
       "id": "live-chage-hosomichi-2009-031",
@@ -55176,7 +55215,8 @@
       "catalogNumber": "POCS-22016",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.billboard-japan.com/goods/detail/238393",
-      "releaseFormat": "CD MAXI（公演会場先行販売）"
+      "releaseFormat": "CD MAXI（公演会場先行販売）",
+      "releaseTitle": "TOKYO MOON"
     },
     {
       "id": "live-v11-chage-hosomichi-2011-002",
@@ -56725,7 +56765,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
-      "releaseFormat": "ムック（書籍）"
+      "releaseFormat": "ムック（書籍）",
+      "releaseTitle": "ぴあ＆ASKA"
     },
     {
       "id": "v11-release-016",
@@ -57893,7 +57934,8 @@
       "catalogNumber": "CGPKG-900103",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.suruga-ya.jp/kaitori/search_buy?category=&page=14&restrict%5B%5D=person_id%3D320705&search_word=",
-      "releaseFormat": "CD（2014年会場・通販限定）"
+      "releaseFormat": "CD（2014年会場・通販限定）",
+      "releaseTitle": "永い一日（会場・通信販売限定CD）"
     },
     {
       "id": "v12-fc14-001",
@@ -58666,7 +58708,8 @@
       "catalogNumber": "YMPDVD-13",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://chage.jp/discography/multi_max/bd/002.php",
-      "releaseFormat": "DVD"
+      "releaseFormat": "DVD",
+      "releaseTitle": "CHAGE PRESENTS MULTI MAX MAXISM IN BUDOKAN（DVD再発売）"
     },
     {
       "id": "v12-2014-maxism-live",
@@ -58685,7 +58728,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "MAXISM IN BUDOKAN（ライブ音源配信）"
     },
     {
       "id": "v12-2014-oki-dvd",
@@ -58707,7 +58751,8 @@
       "catalogNumber": "YMPDVD-14〜15",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://chage.jp/discography/multi_max/bd/001.php",
-      "releaseFormat": "DVD（2枚組）"
+      "releaseFormat": "DVD（2枚組）",
+      "releaseTitle": "CHAGE PRESENTS MULTI MAX DOCUMENT & LIVE 1996-1997 177DAYS Oki doki!（DVD再発売）"
     },
     {
       "id": "v12-2014-oki-live",
@@ -58726,7 +58771,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "Oki doki!（ライブ音源配信）"
     },
     {
       "id": "milestone-ca-35th-anniv-2014-0825",
@@ -58761,7 +58807,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "アイシテル（Fan Meeting 2014 ライブ音源配信）"
     },
     {
       "id": "v12-2014-nagai-live",
@@ -58780,7 +58827,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "永い一日（Fan Meeting 2014 ライブ音源配信）"
     },
     {
       "id": "v12-equal14-01",
@@ -59036,7 +59084,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "equal（ChageLiveTour2014 ライブ音源配信）"
     },
     {
       "id": "v12-yamaha14",
@@ -59121,7 +59170,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "ChageLiveTour2014 ～equal～（ライブ音源）"
     },
     {
       "id": "v12-2015-equal-video",
@@ -59495,7 +59545,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "天使がくれたハンマー（配信シングル）"
     },
     {
       "id": "v12-fns15",
@@ -59537,7 +59588,8 @@
       "catalogNumber": "UICZ-4335 / UICZ-9054",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.universal-music.co.jp/chage/products/uicz-4335/",
-      "releaseFormat": "CD（通常盤）／CD＋DVD（初回限定盤）"
+      "releaseFormat": "CD（通常盤）／CD＋DVD（初回限定盤）",
+      "releaseTitle": "hurray!（ミニアルバム）"
     },
     {
       "id": "v12-melodix15",
@@ -60272,7 +60324,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "もうひとつのLOVE SONG／NとLの野球帽（配信シングル）"
     },
     {
       "id": "media-v18230-2016-07-13-chage-001",
@@ -60379,7 +60432,8 @@
       "catalogNumber": "UICZ-4356 / UICZ-9068",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.universal-music.co.jp/chage/products/uicz-4356/",
-      "releaseFormat": "CD（通常盤）／CD＋DVD（初回限定盤）"
+      "releaseFormat": "CD（通常盤）／CD＋DVD（初回限定盤）",
+      "releaseTitle": "Another Love Song（ミニアルバム）"
     },
     {
       "id": "v12-hmv16-shibuya",
@@ -60738,7 +60792,8 @@
       "catalogNumber": "UICZ-4376/7",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://store-annex.universal-music.co.jp/product/uicz4376/",
-      "releaseFormat": "CD（2枚組）"
+      "releaseFormat": "CD（2枚組）",
+      "releaseTitle": "Chage Live Tour 2016 ～もうひとつのLOVE SONG～（ライブアルバム）"
     },
     {
       "id": "v12-xmas16-01",
@@ -60956,7 +61011,8 @@
       "catalogNumber": "DDLB-0001",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.oricon.co.jp/prof/245800/products/1219695/1/",
-      "releaseFormat": "CD"
+      "releaseFormat": "CD",
+      "releaseTitle": "Too many people"
     },
     {
       "id": "v13-media-005",
@@ -61007,7 +61063,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
-      "releaseFormat": "書籍"
+      "releaseFormat": "書籍",
+      "releaseTitle": "700番 第一巻"
     },
     {
       "id": "v13-ch17-omoto",
@@ -61398,7 +61455,8 @@
       "catalogNumber": "UICZ-5090 / UICZ-9093",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.universal-music.co.jp/chage/products/uicz-5090/",
-      "releaseFormat": "CD MAXI（通常盤）／CD MAXI＋DVD（限定盤）"
+      "releaseFormat": "CD MAXI（通常盤）／CD MAXI＋DVD（限定盤）",
+      "releaseTitle": "たった一度の人生ならば"
     },
     {
       "id": "v13-ch17-popcon-001",
@@ -62365,7 +62423,8 @@
       "catalogNumber": "DDLB-0004",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.suruga-ya.jp/product/detail/220230445",
-      "releaseFormat": "CD"
+      "releaseFormat": "CD",
+      "releaseTitle": "Black&White"
     },
     {
       "id": "media-v18230-2017-10-29-chage-001",
@@ -62517,7 +62576,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "もらい酒みなと旅"
     },
     {
       "id": "media-v18230-2017-12-16-chage-001",
@@ -62695,7 +62755,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "一度きりの笑顔"
     },
     {
       "id": "v13-milestone-001",
@@ -62797,7 +62858,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "黄昏を待たずに"
     },
     {
       "id": "v13-release-009",
@@ -62816,7 +62878,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタルブックレット"
+      "releaseFormat": "デジタルブックレット",
+      "releaseTitle": "Too many people"
     },
     {
       "id": "v13-release-010",
@@ -62842,7 +62905,8 @@
       "catalogNumber": "YCCR-10032",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/943",
-      "releaseFormat": "Blu-spec CD2（再発売盤）"
+      "releaseFormat": "Blu-spec CD2（再発売盤）",
+      "releaseTitle": "CHAGE BEST SONGS / PROLOGUE"
     },
     {
       "id": "v13-media-012",
@@ -62896,7 +62960,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "虹の花"
     },
     {
       "id": "v13-ch18-fan-day-001",
@@ -63055,7 +63120,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "未来の人よ"
     },
     {
       "id": "v13-ch18-fan-day-006",
@@ -63116,7 +63182,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "映像配信（iTunes Store）"
+      "releaseFormat": "映像配信（iTunes Store）",
+      "releaseTitle": "missing pages"
     },
     {
       "id": "v13-ch18-sakaeminami",
@@ -63180,7 +63247,8 @@
       "catalogNumber": "UPCY-7521",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://chage.jp/discography/chage/album/011.php",
-      "releaseFormat": "CD"
+      "releaseFormat": "CD",
+      "releaseTitle": "音道"
     },
     {
       "id": "release-audit-v203-20261118-chage-epilogue-viva-digital-2018",
@@ -63199,7 +63267,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "終章（エピローグ）／Viva! Happy Birthday!"
     },
     {
       "id": "media-v18220-015",
@@ -63266,7 +63335,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "修羅を行く"
     },
     {
       "id": "media-v18220-017",
@@ -63568,7 +63638,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "イイ天気"
     },
     {
       "id": "v13-media-017",
@@ -63657,7 +63728,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "憲兵も王様も居ない城"
     },
     {
       "id": "v13-release-020",
@@ -63925,7 +63997,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "星は何でも知っている"
     },
     {
       "id": "v13-ch18-crimson-002",
@@ -64100,7 +64173,8 @@
       "catalogNumber": "YCCR-10034",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/976",
-      "releaseFormat": "UHQCD"
+      "releaseFormat": "UHQCD",
+      "releaseTitle": "Made in ASKA"
     },
     {
       "id": "v13-release-023",
@@ -64126,7 +64200,8 @@
       "catalogNumber": "YCCR-10033",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/975",
-      "releaseFormat": "UHQCD"
+      "releaseFormat": "UHQCD",
+      "releaseTitle": "We are the Fellows"
     },
     {
       "id": "v13-ch18-heian",
@@ -64245,7 +64320,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
-      "releaseFormat": "写真集"
+      "releaseFormat": "写真集",
+      "releaseTitle": "Chage 20th Anniversary Live Photo Book"
     },
     {
       "id": "v13-release-025",
@@ -64271,7 +64347,8 @@
       "catalogNumber": "YMEHBD-01",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://chageandaskaproducts.net/products/ymehbd-01",
-      "releaseFormat": "Blu-ray（受注生産盤）"
+      "releaseFormat": "Blu-ray（受注生産盤）",
+      "releaseTitle": "CHAGE大いに唄うin武道館 20th ANNIVERSARY Edition"
     },
     {
       "id": "v13-media-021",
@@ -64363,7 +64440,8 @@
         }
       ],
       "catalogNumber": "YCCR-10035",
-      "releaseFormat": "UHQCD（リミックス版）"
+      "releaseFormat": "UHQCD（リミックス版）",
+      "releaseTitle": "SCENE -Remix ver.-"
     },
     {
       "id": "v13-release-027",
@@ -64385,7 +64463,8 @@
         }
       ],
       "catalogNumber": "YCCR-10036",
-      "releaseFormat": "UHQCD（リミックス版）"
+      "releaseFormat": "UHQCD（リミックス版）",
+      "releaseTitle": "SCENE II -Remix ver.-"
     },
     {
       "id": "media-v18220-025",
@@ -64818,7 +64897,8 @@
       "catalogNumber": "HBRD-2001",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.fellows.tokyo/discography/detail/57/",
-      "releaseFormat": "Blu-ray（DVDは別品番・未確認）"
+      "releaseFormat": "Blu-ray（DVDは別品番・未確認）",
+      "releaseTitle": "ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-"
     },
     {
       "id": "v13-aska19-made-in-002",
@@ -65138,7 +65218,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
-      "releaseFormat": "書籍（詩集）"
+      "releaseFormat": "書籍（詩集）",
+      "releaseTitle": "ASKA 書きおろし詩集"
     },
     {
       "id": "v13-aska19-made-in-012",
@@ -65690,7 +65771,8 @@
       "catalogNumber": "DDLB-0011",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.fellows.tokyo/discography/detail/27/",
-      "releaseFormat": "CD（ライブ盤）"
+      "releaseFormat": "CD（ライブ盤）",
+      "releaseTitle": "Made in ASKA -40年のありったけ- in 日本武道館"
     },
     {
       "id": "v13-ch19-nayoro",
@@ -65762,7 +65844,8 @@
       "catalogNumber": "UPCY-7600",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://chage.jp/information/release/detail-337.php",
-      "releaseFormat": "CD"
+      "releaseFormat": "CD",
+      "releaseTitle": "feedback"
     },
     {
       "id": "media-v18230-2019-08-10-chage-001",
@@ -66104,7 +66187,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "電子書籍"
+      "releaseFormat": "電子書籍",
+      "releaseTitle": "ASKA 書きおろし詩集"
     },
     {
       "id": "media-v18230-2019-10-08-chage-001",
@@ -66158,7 +66242,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "歌になりたい / Breath of Bless"
     },
     {
       "id": "v13-ch19-shanghai",
@@ -66206,7 +66291,8 @@
       "catalogNumber": "DDLB-0014",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://tower.jp/item/4950169",
-      "releaseFormat": "CDシングル"
+      "releaseFormat": "CDシングル",
+      "releaseTitle": "歌になりたい / Breath of Bless"
     },
     {
       "id": "v13-aska19-higher-001",
@@ -66708,7 +66794,8 @@
       "catalogNumber": "COCP-41009",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://columbia.jp/artist-info/harumi/discography/COCP-41009.html",
-      "releaseFormat": "CD（オムニバス・Chage参加）"
+      "releaseFormat": "CD（オムニバス・Chage参加）",
+      "releaseTitle": "都はるみを好きになった人 ～tribute to HARUMI MIYAKO～"
     },
     {
       "id": "v14-aska-higher-2020-planned-002",
@@ -66780,7 +66867,8 @@
       "catalogNumber": "DDLB-0015",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.oricon.co.jp/prof/245800/products/1347552/1/",
-      "releaseFormat": "CDアルバム"
+      "releaseFormat": "CDアルバム",
+      "releaseTitle": "Breath of Bless"
     },
     {
       "id": "v14-media-ch20-005",
@@ -67053,7 +67141,8 @@
       "catalogNumber": "YMEHDVD-25",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/video/walk_dvd.php",
-      "releaseFormat": "DVD（2020年再発売）"
+      "releaseFormat": "DVD（2020年再発売）",
+      "releaseTitle": "WALK"
     },
     {
       "id": "v14-release-004",
@@ -67079,7 +67168,8 @@
       "catalogNumber": "YMEHDVD-26",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/video/see_ya_dvd.php",
-      "releaseFormat": "DVD（2020年再発売）"
+      "releaseFormat": "DVD（2020年再発売）",
+      "releaseTitle": "SEE YA"
     },
     {
       "id": "v14-chage2020-keiji06",
@@ -67209,7 +67299,8 @@
       "catalogNumber": "YMEHDVD-27",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/video/tree_2020.php",
-      "releaseFormat": "DVD（2020年再発売）"
+      "releaseFormat": "DVD（2020年再発売）",
+      "releaseTitle": "TREE"
     },
     {
       "id": "v14-release-006",
@@ -67235,7 +67326,8 @@
       "catalogNumber": "YMEHDVD-28",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/video/guys_2020.php",
-      "releaseFormat": "DVD（2020年再発売）"
+      "releaseFormat": "DVD（2020年再発売）",
+      "releaseTitle": "Go to Eleven ～GUYS～"
     },
     {
       "id": "v14-media-ch20-006",
@@ -67345,7 +67437,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "幸せの黄色い風船"
     },
     {
       "id": "v14-release-008",
@@ -67364,7 +67457,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "自分じゃないか"
     },
     {
       "id": "v14-chage-2020-tour-cancel-002",
@@ -67425,7 +67519,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "僕のwonderful world"
     },
     {
       "id": "v14-chage-2020-tour-cancel-004",
@@ -67522,7 +67617,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "君に逢いたいだけ"
     },
     {
       "id": "v18221-2020-10-11-aska-090",
@@ -67583,7 +67679,8 @@
       "catalogNumber": "DDLB-0016",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.fellows.tokyo/discography/detail/54/",
-      "releaseFormat": "Blu-ray＋LIVE CD（2枚）"
+      "releaseFormat": "Blu-ray＋LIVE CD（2枚）",
+      "releaseTitle": "ASKA premium ensemble concert -higher ground- 2019>>2020"
     },
     {
       "id": "v14-release-012",
@@ -67609,7 +67706,8 @@
       "catalogNumber": "YMEHDVD-29",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/video/red_hill_2020.php",
-      "releaseFormat": "DVD（2020年再発売）"
+      "releaseFormat": "DVD（2020年再発売）",
+      "releaseTitle": "RED HILL"
     },
     {
       "id": "v14-release-013",
@@ -67635,7 +67733,8 @@
       "catalogNumber": "YMEHDVD-30",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/video/on_your_mark_2020.php",
-      "releaseFormat": "DVD（2020年再発売）"
+      "releaseFormat": "DVD（2020年再発売）",
+      "releaseTitle": "On Your Mark"
     },
     {
       "id": "v14-release-014",
@@ -67661,7 +67760,8 @@
         }
       ],
       "catalogNumber": "UICZ-4484",
-      "releaseFormat": "CD（通常盤）"
+      "releaseFormat": "CD（通常盤）",
+      "releaseTitle": "Boot up!!"
     },
     {
       "id": "v14-chage-2020-christmas-001",
@@ -68011,7 +68111,8 @@
         }
       ],
       "catalogNumber": "YMEHDVD-31/32",
-      "releaseFormat": "DVD 2枚組（数量限定盤）"
+      "releaseFormat": "DVD 2枚組（数量限定盤）",
+      "releaseTitle": "THE VIDEO OF CHAGE and ASKA TUG OF C&A Vol.1〜5"
     },
     {
       "id": "v14-release-016",
@@ -68030,7 +68131,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "笑って歩こうよ"
     },
     {
       "id": "v14-release-017",
@@ -68060,7 +68162,8 @@
       "catalogNumber": "DDLB-0018",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://tower.jp/item/5211165",
-      "releaseFormat": "CDシングル"
+      "releaseFormat": "CDシングル",
+      "releaseTitle": "笑って歩こうよ"
     },
     {
       "id": "v14-chage-2021-boot-001",
@@ -68333,7 +68436,8 @@
       "catalogNumber": "DDLB-0019",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.oricon.co.jp/prof/245800/products/1426070/1/",
-      "releaseFormat": "CDシングル"
+      "releaseFormat": "CDシングル",
+      "releaseTitle": "PRIDE"
     },
     {
       "id": "v14-aska-2021-encore-plan-002",
@@ -68571,7 +68675,8 @@
         }
       ],
       "catalogNumber": "UICZ-5167",
-      "releaseFormat": "CD MAXI＋Blu-ray"
+      "releaseFormat": "CD MAXI＋Blu-ray",
+      "releaseTitle": "Chage’s Christmas ～チャゲクリ～"
     },
     {
       "id": "v14-aska-2021-encore-plan-004",
@@ -70247,7 +70352,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "そういうひと"
     },
     {
       "id": "v18222-2022-07-06-aska-066",
@@ -70431,7 +70537,8 @@
       "catalogNumber": "YMEHBD-17",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://chageandaskaproducts.net/products/ymehbd-17",
-      "releaseFormat": "Blu-ray＋LIVE CD（2枚）"
+      "releaseFormat": "Blu-ray＋LIVE CD（2枚）",
+      "releaseTitle": "Chage 08-11 Live ～Selected 21 Songs～"
     },
     {
       "id": "v18222-2022-08-06-aska-057",
@@ -70524,7 +70631,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "POP"
     },
     {
       "id": "v14-media-ch22-006",
@@ -70719,7 +70827,8 @@
         }
       ],
       "catalogNumber": "DDLB-0020",
-      "releaseFormat": "Blu-ray＋LIVE CD"
+      "releaseFormat": "Blu-ray＋LIVE CD",
+      "releaseTitle": "ASKA premium concert tour -higher ground-アンコール公演2022"
     },
     {
       "id": "v18222-2022-10-09-aska-063",
@@ -70888,7 +70997,8 @@
         }
       ],
       "catalogNumber": "UICZ-4620",
-      "releaseFormat": "CD＋Blu-ray"
+      "releaseFormat": "CD＋Blu-ray",
+      "releaseTitle": "YOU’RE THE ONE"
     },
     {
       "id": "v14-chage-2022-hosomichi-005",
@@ -71036,7 +71146,8 @@
       "catalogNumber": "DDLB-0021",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://contents.oricon.co.jp/prof/245800/products/1462883/1/",
-      "releaseFormat": "CDアルバム"
+      "releaseFormat": "CDアルバム",
+      "releaseTitle": "Wonderful world"
     },
     {
       "id": "v18222-2022-12-05-aska-068",
@@ -72322,7 +72433,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "幸せな不条理"
     },
     {
       "id": "v15-0244",
@@ -72452,7 +72564,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "青い空だけじゃない"
     },
     {
       "id": "v15-0247",
@@ -72682,7 +72795,8 @@
         }
       ],
       "catalogNumber": "UICZ-4646",
-      "releaseFormat": "CD＋Blu-ray"
+      "releaseFormat": "CD＋Blu-ray",
+      "releaseTitle": "青い空だけじゃない"
     },
     {
       "id": "media-v18229-2023-09-01-chage-001",
@@ -72910,7 +73024,8 @@
         }
       ],
       "catalogNumber": "DDLB-0023",
-      "releaseFormat": "Blu-ray＋LIVE CD 2枚"
+      "releaseFormat": "Blu-ray＋LIVE CD 2枚",
+      "releaseTitle": "ASKA Premium Concert Tour Wonderful World 2023"
     },
     {
       "id": "v15-0258",
@@ -73566,7 +73681,8 @@
         }
       ],
       "catalogNumber": "DDLB-0024",
-      "releaseFormat": "Blu-ray"
+      "releaseFormat": "Blu-ray",
+      "releaseTitle": "ASKA featuring DAVID FOSTER PREMIUM CONCERT 2023"
     },
     {
       "id": "v15-0261",
@@ -74584,7 +74700,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "飾りのない歌"
     },
     {
       "id": "release-audit-v203-20261118-chage-windy-road-bd-2024",
@@ -74606,7 +74723,8 @@
       "catalogNumber": "POXS-25003",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://chage.jp/discography/chage/bd/017.php",
-      "releaseFormat": "Blu-ray"
+      "releaseFormat": "Blu-ray",
+      "releaseTitle": "ChageLiveTour 2023 WINDY ROAD"
     },
     {
       "id": "v15-0271",
@@ -74982,7 +75100,8 @@
         }
       ],
       "catalogNumber": "UICZ-4679",
-      "releaseFormat": "CD＋Blu-ray"
+      "releaseFormat": "CD＋Blu-ray",
+      "releaseTitle": "飾りのない歌"
     },
     {
       "id": "media-v18229-2024-08-29-chage-001",
@@ -75137,7 +75256,8 @@
         }
       ],
       "catalogNumber": "DDLB-0025",
-      "releaseFormat": "Blu-ray（完全限定生産）"
+      "releaseFormat": "Blu-ray（完全限定生産）",
+      "releaseTitle": "ASKA 10 DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館"
     },
     {
       "id": "media-v18229-2024-09-05-chage-001",
@@ -76829,7 +76949,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "ChageLiveTour2024 ～ちゃげっていうひと～"
     },
     {
       "id": "v15-0137",
@@ -77032,7 +77153,8 @@
         }
       ],
       "releaseFormat": "Blu-ray",
-      "catalogNumber": "POXS-25011"
+      "catalogNumber": "POXS-25011",
+      "releaseTitle": "ChageLiveTour2024 ～ちゃげっていうひと～"
     },
     {
       "id": "v15-0204",
@@ -77227,7 +77349,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "Vandange_1958"
     },
     {
       "id": "v15-0171",
@@ -77401,7 +77524,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "飾りのない歌 -Acoustic Ver.-"
     },
     {
       "id": "v15-0202",
@@ -77743,7 +77867,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "Vandange_1958 Vol.2"
     },
     {
       "id": "v15-0233",
@@ -77765,7 +77890,8 @@
         }
       ],
       "releaseFormat": "Blu-ray（ライブ映像＋ツアードキュメンタリー2枚組）",
-      "catalogNumber": "DDLB-0026"
+      "catalogNumber": "DDLB-0026",
+      "releaseTitle": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-"
     },
     {
       "id": "v15-0146",
@@ -78461,7 +78587,8 @@
         }
       ],
       "releaseFormat": "2CD（通常盤）",
-      "catalogNumber": "UICZ-4702/3"
+      "catalogNumber": "UICZ-4702/3",
+      "releaseTitle": "Instinto"
     },
     {
       "id": "v15-0183",
@@ -80432,7 +80559,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "晴れ晴れ（ハレバレ）"
     },
     {
       "id": "v16-0145",
@@ -80574,7 +80702,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "Magic Knight（魔法夜曲）"
     },
     {
       "id": "v16-0127",
@@ -80916,7 +81045,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitle": "音銀河"
     },
     {
       "id": "v16-0131",
@@ -81279,7 +81409,8 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "ミュージックビデオ（オンライン公開）"
+      "releaseFormat": "ミュージックビデオ（オンライン公開）",
+      "releaseTitle": "One Love～二人だけの軌跡～"
     },
     {
       "id": "v16-0105",
@@ -85848,5 +85979,5 @@
       "releaseType": "reissue"
     }
   ],
-  "siteVersion": "2.0.49"
+  "siteVersion": "2.0.50"
 }
