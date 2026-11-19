@@ -42643,14 +42643,23 @@
       "releaseTitle": "Reframing",
       "status": "released",
       "verification": "primary",
-      "note": "ファンクラブ限定ライブ映像作品",
+      "note": "ファンクラブ限定ライブ映像作品\n【第37回・規格品番補完】2003年12月25日発売のファンクラブ限定DVD（2枚組）は商品型番 C-00200。発売日の公式確認と、製品番号の二次資料確認を区別する。VHS版の独立した商品型番・発売日は引き続き原典確認待ち。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "参考資料（非公式・DVD品番）",
+          "url": "https://www.suruga-ya.jp/product/detail/138007976"
+        },
+        {
+          "label": "参考資料（非公式・品番の別記載）",
+          "url": "https://www.netoff.co.jp/detail/0010690838/"
         }
       ],
-      "releaseFormat": "DVD（ファンクラブ限定／2枚組）"
+      "releaseFormat": "DVD（ファンクラブ限定／2枚組）",
+      "catalogNumber": "C-00200"
     },
     {
       "id": "event-v08-002",
@@ -42715,14 +42724,23 @@
       "releaseTitle": "THE BEST（韓国盤）",
       "status": "released",
       "verification": "primary",
-      "note": "韓国発売アルバム",
+      "note": "韓国発売アルバム\n【第37回・韓国盤品番補完】2004年1月13日発売の韓国盤CDの現地商品番号 DJ0013（韓国の音盤情報・販売店で確認）。EAN/JANに相当する別の識別番号 8808678530131 を商品データベースで確認。海外盤一覧にある989 967-9の番号の役割・同一商品の対応は現物未確認。発売日自体は公式HISTORY、品番は二次資料確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "参考資料（非公式・韓国商品番号）",
+          "url": "https://www.maniadb.com/album/115983"
+        },
+        {
+          "label": "参考資料（非公式・韓国販売情報）",
+          "url": "https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=406512039"
         }
       ],
-      "releaseFormat": "CD（韓国盤）"
+      "releaseFormat": "CD（韓国盤）",
+      "catalogNumber": "DJ0013"
     },
     {
       "id": "release-v08-009",
@@ -42849,17 +42867,27 @@
       "id": "event-v08-005",
       "date": "2004-03-25",
       "artist": "CHAGE and ASKA",
-      "category": "other",
+      "category": "release",
       "title": "歌詞集『two-five』発売",
-      "status": "recorded",
+      "status": "released",
       "verification": "primary",
-      "note": "音源・映像作品ではない出版物",
+      "note": "音源・映像作品ではない出版物\n【第37回・発売分類補正】2004年3月25日発売の公式歌詞集。1979年から2003年までの258曲の歌詞を収録。音源ではなく書籍だが、作品発売日のため「発売」分類へ変更。公式通販のC004801はショップ商品管理コードとみなし、ISBN・規格品番には転記しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（書籍・発売日）",
+          "url": "https://www.chage-aska.net/discography/others/kashi_syuu_two_five.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式通販（作品概要）",
+          "url": "https://chageandaskaproducts.net/products/c004801"
         }
-      ]
+      ],
+      "releaseTitle": "CHAGE&ASKA 歌詞集 two-five",
+      "releaseFormat": "書籍（歌詞集）"
     },
     {
       "id": "release-v08-010",
@@ -83138,7 +83166,31 @@
           "url": "https://artist.cdjournal.com/d/-/2204010367"
         }
       ]
+    },
+    {
+      "id": "release-audit-v2037-20040128-umvk9068",
+      "date": "2004-01-28",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA CONCERT TOUR GOOD TIME（初回限定盤）』VHS発売",
+      "releaseTitle": "ASKA CONCERT TOUR GOOD TIME",
+      "releaseFormat": "VHS（初回限定・2本組）",
+      "format": "VHS（初回限定・2本組）",
+      "catalogNumber": "UMVK-9068",
+      "status": "released",
+      "verification": "secondary",
+      "note": "【第37回・2004年VHS初回限定版】2004年1月28日発売のVHS初回生産限定版。タワーレコードの商品登録では UMVK-9068（セットの代表品番）、商品形態はVHS。公式HISTORYで同日発売のビデオ・DVDを確認。DVD初回限定版 UMBK-9066、VHS通常盤 UMVK-1075 とは異なる商品。2本目の構成品番は一部資料にUMVK-9069とあるが別資料では異なるため原典確認待ち。セット代表品番のみを確定値として登録。",
+      "sources": [
+        {
+          "label": "公式HISTORY（発売日・VHS/DVD発売）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "参考資料（非公式・初回限定版VHS商品番号）",
+          "url": "https://tower.jp/artist/254933"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.0.36"
+  "siteVersion": "2.0.37"
 }
