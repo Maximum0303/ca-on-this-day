@@ -45074,14 +45074,37 @@ window.CA_EVENT_DATA = {
       "title": "『SCENE of SCENE ～selected 6 songs from SCENE I,II,III～』発売",
       "status": "released",
       "verification": "primary",
-      "note": "企画アルバム。初回限定盤（DVD付）と期間限定盤を同じ発売記録にまとめる。レーベル公式による確認。",
+      "note": "企画アルバム。初回限定盤（DVD付）と期間限定盤を同じ発売記録にまとめる。レーベル公式による確認。 【規格情報追補｜発売元公式】SCENE of SCENE（初回限定盤）（UMCK-9140）、SCENE of SCENE（期間限定盤）（UMCK-9141）。複数商品の発売日別一括記録であり、各商品を重複して別イベント登録しない。",
       "sources": [
         {
           "label": "公式資料",
           "url": "https://www.universal-music.co.jp/p/umck-9140/"
+        },
+        {
+          "label": "発売元公式商品情報｜SCENE of SCENE（初回限定盤）",
+          "url": "https://www.universal-music.co.jp/chage-and-aska/products/umck-9140/"
+        },
+        {
+          "label": "発売元公式商品情報｜SCENE of SCENE（期間限定盤）",
+          "url": "https://www.universal-music.co.jp/chage-and-aska/products/umck-9141/"
         }
       ],
-      "releaseTitle": "SCENE of SCENE ～selected 6 songs from SCENE I,II,III～"
+      "releaseTitle": "SCENE of SCENE ～selected 6 songs from SCENE I,II,III～",
+      "releaseFormat": "CD（初回限定DVD付＋期間限定CDの2形態を一括記録）",
+      "releaseEditions": [
+        {
+          "releaseTitle": "SCENE of SCENE（初回限定盤）",
+          "catalogNumber": "UMCK-9140",
+          "releaseFormat": "CD＋DVD",
+          "sourceUrl": "https://www.universal-music.co.jp/chage-and-aska/products/umck-9140/"
+        },
+        {
+          "releaseTitle": "SCENE of SCENE（期間限定盤）",
+          "catalogNumber": "UMCK-9141",
+          "releaseFormat": "CD",
+          "sourceUrl": "https://www.universal-music.co.jp/chage-and-aska/products/umck-9141/"
+        }
+      ]
     },
     {
       "id": "media-v18214-2006-002",
@@ -45253,9 +45276,34 @@ window.CA_EVENT_DATA = {
         {
           "label": "公式資料",
           "url": "https://www.universal-music.co.jp/p/UMBK-1094/"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage-and-aska/products/umbk-1094/"
         }
       ],
-      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 2004 two-five"
+      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 2004 two-five",
+      "releaseFormat": "DVD（一般発売盤）",
+      "catalogNumber": "UMBK-1094"
+    },
+    {
+      "id": "release-audit-v2014-2006-umbk-9138",
+      "date": "2006-02-01",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA CONCERT TOUR 2004 two-five（初回限定盤）』発売",
+      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 2004 two-five",
+      "catalogNumber": "UMBK-9138",
+      "releaseFormat": "DVD（2枚）＋CD（初回限定盤）",
+      "status": "released",
+      "verification": "primary",
+      "note": "一般発売DVD（UMBK-1094）と同日発売された初回限定盤。付属ライブCDを含む3枚組。2005年8月25日のファンクラブ限定盤とは区別。",
+      "sources": [
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage-and-aska/products/umbk-9138/"
+        }
+      ]
     },
     {
       "id": "live-my-game-is-aska-2005-2006-019",
@@ -45705,9 +45753,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/p/umbk-1098/"
         }
       ],
-      "releaseTitle": "ASKA CONCERT TOUR 05>>06 My Game is ASKA"
+      "releaseTitle": "ASKA CONCERT TOUR 05>>06 My Game is ASKA",
+      "releaseFormat": "DVD（2枚組）",
+      "catalogNumber": "UMBK-1098"
     },
     {
       "id": "live-ca-point-green-2006",
@@ -45833,9 +45887,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage-and-aska/products/umck-1217/"
         }
       ],
-      "releaseTitle": "DOUBLE"
+      "releaseTitle": "DOUBLE",
+      "releaseFormat": "CD",
+      "catalogNumber": "UMCK-1217"
     },
     {
       "id": "release-2007-01-24-double-dvd",
@@ -45850,9 +45910,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage-and-aska/products/umbk-1116/"
         }
       ],
-      "releaseTitle": "DOUBLE DVD"
+      "releaseTitle": "DOUBLE DVD",
+      "releaseFormat": "DVD",
+      "catalogNumber": "UMBK-1116"
     },
     {
       "id": "media-v18231-2007-01-27-chageandaska-001",
@@ -47030,9 +47096,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "商品情報（二次資料・規格品番）",
+          "url": "https://contents.oricon.co.jp/prof/4069/products/720159/1/"
         }
       ],
-      "releaseTitle": "CHAGE and ASKA Concert tour 2007 DOUBLE"
+      "releaseTitle": "CHAGE and ASKA Concert tour 2007 DOUBLE",
+      "releaseFormat": "DVD（2枚組）",
+      "catalogNumber": "POBS-10001/2"
     },
     {
       "id": "live-aska-hattori-2007",
@@ -47520,8 +47592,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "アーティスト公式ディスコグラフィー",
+          "url": "https://www.chage-aska.net/discography/video/2007_alive_in_live.php"
         }
-      ]
+      ],
+      "releaseFormat": "DVD",
+      "catalogNumber": "POBD-22001"
     },
     {
       "id": "live-aska-scene-2008-003",
@@ -47664,8 +47742,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式ディスコグラフィー",
+          "url": "https://www.universal-music.co.jp/chage/discography/page/7/"
         }
-      ]
+      ],
+      "releaseFormat": "CD MAXI",
+      "catalogNumber": "UMCK-5218"
     },
     {
       "id": "live-aska-scene-2008-006",
@@ -47761,6 +47845,31 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage/products/umck-1274/"
+        }
+      ],
+      "releaseFormat": "CD（通常盤）",
+      "catalogNumber": "UMCK-1274"
+    },
+    {
+      "id": "release-audit-v2014-2008-umck-9244",
+      "date": "2008-10-08",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『アイシテル（初回限定盤）』発売",
+      "releaseTitle": "アイシテル",
+      "catalogNumber": "UMCK-9244",
+      "releaseFormat": "CD＋DVD（初回限定盤）",
+      "status": "released",
+      "verification": "primary",
+      "note": "通常盤UMCK-1274とは異なるDVD付き初回限定盤。DVDに「waltz」ミュージックビデオとメイキングを収録。",
+      "sources": [
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage/products/umck-9244/"
         }
       ]
     },
@@ -48273,8 +48382,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage-and-aska/products/umck-1296/"
         }
-      ]
+      ],
+      "releaseFormat": "CD",
+      "catalogNumber": "UMCK-1296"
     },
     {
       "id": "release-2009-anatagа-naku-koto-wa-nai",
@@ -48307,8 +48422,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/p/POBD-22003/"
         }
-      ]
+      ],
+      "releaseFormat": "DVD（2枚組）",
+      "catalogNumber": "POBD-22003"
     },
     {
       "id": "live-extra-2009-super-generation-01",
@@ -48399,6 +48520,31 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage/products/umck-1299/"
+        }
+      ],
+      "releaseFormat": "CD（通常盤）",
+      "catalogNumber": "UMCK-1299"
+    },
+    {
+      "id": "release-audit-v2014-2009-umck-9273",
+      "date": "2009-03-25",
+      "artist": "Chage",
+      "category": "release",
+      "title": "『Many Happy Returns（初回限定盤）』発売",
+      "releaseTitle": "Many Happy Returns",
+      "catalogNumber": "UMCK-9273",
+      "releaseFormat": "CD＋DVD（初回限定盤）",
+      "status": "released",
+      "verification": "primary",
+      "note": "通常盤UMCK-1299とは異なるDVD付き初回限定盤。DVDにSPECIAL INTERVIEWを収録。",
+      "sources": [
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.universal-music.co.jp/chage/products/umck-9273/"
         }
       ]
     },
@@ -49093,8 +49239,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "アーティスト公式ディスコグラフィー",
+          "url": "https://chage.jp/discography/chage/bd/011.php"
         }
-      ]
+      ],
+      "releaseFormat": "DVD",
+      "catalogNumber": "POBD-22005"
     },
     {
       "id": "live-aska-walk-2009-020",
@@ -49930,8 +50082,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/507"
         }
-      ]
+      ],
+      "releaseFormat": "DVD BOX（3枚組）",
+      "catalogNumber": "YCBR-10001〜3"
     },
     {
       "id": "release-v18216-2009-001",
@@ -49941,11 +50099,64 @@ window.CA_EVENT_DATA = {
       "title": "初期アルバム5作品・紙ジャケット再発",
       "status": "released",
       "verification": "primary",
-      "note": "『風舞』『熱風』『黄昏の騎士』『熱い想い』『CHAGE & ASKA Ⅳ-21世紀-』の5作品。2009年の再発日を記録。",
+      "note": "『風舞』『熱風』『黄昏の騎士』『熱い想い』『CHAGE & ASKA Ⅳ-21世紀-』の5作品。2009年の再発日を記録。 【規格情報追補｜発売元公式】風舞（YCCR-10003）、熱風（YCCR-10004）、黄昏の騎士（YCCR-10006）、熱い想い（YCCR-10007）、CHAGE&ASKA IV -21世紀-（YCCR-10008）。複数商品の発売日別一括記録であり、各商品を重複して別イベント登録しない。",
       "sources": [
         {
           "label": "公式資料",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式商品情報｜風舞",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/512"
+        },
+        {
+          "label": "発売元公式商品情報｜熱風",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/511"
+        },
+        {
+          "label": "発売元公式商品情報｜黄昏の騎士",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/510"
+        },
+        {
+          "label": "発売元公式商品情報｜熱い想い",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/509"
+        },
+        {
+          "label": "発売元公式商品情報｜CHAGE&ASKA IV -21世紀-",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/508"
+        }
+      ],
+      "releaseFormat": "SHM-CD（紙ジャケット・初回製造限定／複数作品の一括発売記録）",
+      "releaseEditions": [
+        {
+          "releaseTitle": "風舞",
+          "catalogNumber": "YCCR-10003",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/512"
+        },
+        {
+          "releaseTitle": "熱風",
+          "catalogNumber": "YCCR-10004",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/511"
+        },
+        {
+          "releaseTitle": "黄昏の騎士",
+          "catalogNumber": "YCCR-10006",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/510"
+        },
+        {
+          "releaseTitle": "熱い想い",
+          "catalogNumber": "YCCR-10007",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/509"
+        },
+        {
+          "releaseTitle": "CHAGE&ASKA IV -21世紀-",
+          "catalogNumber": "YCCR-10008",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/508"
         }
       ]
     },
@@ -50130,8 +50341,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "公式資料",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/521"
         }
-      ]
+      ],
+      "releaseFormat": "DVD BOX（3枚組）",
+      "catalogNumber": "YCBR-10004〜6"
     },
     {
       "id": "release-v18216-2009-003",
@@ -50146,8 +50363,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "公式資料",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式商品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/520"
         }
-      ]
+      ],
+      "releaseFormat": "DVD BOX（3枚組）",
+      "catalogNumber": "YCBR-10007〜9"
     },
     {
       "id": "release-v18216-2009-004",
@@ -50157,11 +50380,74 @@ window.CA_EVENT_DATA = {
       "title": "アルバム6作品・紙ジャケット再発",
       "status": "released",
       "verification": "primary",
-      "note": "『LIVE IN YOYOGI STADIUM』『INSIDE』『Z=One』『Standing Ovation』『TURNING POINT』『MIX BLOOD』の6作品。",
+      "note": "『LIVE IN YOYOGI STADIUM』『INSIDE』『Z=One』『Standing Ovation』『TURNING POINT』『MIX BLOOD』の6作品。 【規格情報追補｜発売元公式】LIVE IN YOYOGI STADIUM（YCCR-10009〜10）、INSIDE（YCCR-10011）、Z=One（YCCR-10012）、Standing Ovation（YCCR-10013）、TURNING POINT（YCCR-10014）、MIX BLOOD（YCCR-10015）。複数商品の発売日別一括記録であり、各商品を重複して別イベント登録しない。",
       "sources": [
         {
           "label": "公式資料",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式商品情報｜LIVE IN YOYOGI STADIUM",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/527"
+        },
+        {
+          "label": "発売元公式商品情報｜INSIDE",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/526"
+        },
+        {
+          "label": "発売元公式商品情報｜Z=One",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/525"
+        },
+        {
+          "label": "発売元公式商品情報｜Standing Ovation",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/524"
+        },
+        {
+          "label": "発売元公式商品情報｜TURNING POINT",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/523"
+        },
+        {
+          "label": "発売元公式商品情報｜MIX BLOOD",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/522"
+        }
+      ],
+      "releaseFormat": "SHM-CD（紙ジャケット・初回製造限定／複数作品の一括発売記録）",
+      "releaseEditions": [
+        {
+          "releaseTitle": "LIVE IN YOYOGI STADIUM",
+          "catalogNumber": "YCCR-10009〜10",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/527"
+        },
+        {
+          "releaseTitle": "INSIDE",
+          "catalogNumber": "YCCR-10011",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/526"
+        },
+        {
+          "releaseTitle": "Z=One",
+          "catalogNumber": "YCCR-10012",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/525"
+        },
+        {
+          "releaseTitle": "Standing Ovation",
+          "catalogNumber": "YCCR-10013",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/524"
+        },
+        {
+          "releaseTitle": "TURNING POINT",
+          "catalogNumber": "YCCR-10014",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/523"
+        },
+        {
+          "releaseTitle": "MIX BLOOD",
+          "catalogNumber": "YCCR-10015",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/522"
         }
       ]
     },
@@ -50257,7 +50543,7 @@ window.CA_EVENT_DATA = {
       "title": "『紙ジャケットSHM-CD再発売7作品』発売",
       "status": "released",
       "verification": "primary",
-      "note": "2009年10月21日の紙ジャケットSHM-CD再発売7作品：『Mr.ASIA』『RHAPSODY』『ENERGY』『PRIDE』『TREE』『ライブ・イン・田園コロシアム～The夏祭り’81』『SEE YA』。公式HISTORYに記載の6作品に、ヤマハミュージックコミュニケーションズの製品情報で確認できた『SEE YA』（品番YCCR-10021）を加えた。",
+      "note": "2009年10月21日の紙ジャケットSHM-CD再発売7作品：『Mr.ASIA』『RHAPSODY』『ENERGY』『PRIDE』『TREE』『ライブ・イン・田園コロシアム～The夏祭り’81』『SEE YA』。公式HISTORYに記載の6作品に、ヤマハミュージックコミュニケーションズの製品情報で確認できた『SEE YA』（品番YCCR-10021）を加えた。 【規格情報追補｜発売元公式】Mr.ASIA（YCCR-10016）、RHAPSODY（YCCR-10017）、ENERGY（YCCR-10018）、PRIDE（YCCR-10019〜20）、SEE YA（YCCR-10021）、TREE（YCCR-10022）、ライブ・イン田園コロシアム ～THE 夏祭り’81＜完全盤＞（YCCR-10030〜31）。複数商品の発売日別一括記録であり、各商品を重複して別イベント登録しない。",
       "sources": [
         {
           "label": "公式資料",
@@ -50266,6 +50552,75 @@ window.CA_EVENT_DATA = {
         {
           "label": "ヤマハミュージックコミュニケーションズ公式｜SEE YA 紙ジャケットSHM-CD",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/530"
+        },
+        {
+          "label": "発売元公式商品情報｜Mr.ASIA",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/534"
+        },
+        {
+          "label": "発売元公式商品情報｜RHAPSODY",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/533"
+        },
+        {
+          "label": "発売元公式商品情報｜ENERGY",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/532"
+        },
+        {
+          "label": "発売元公式商品情報｜PRIDE",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/531"
+        },
+        {
+          "label": "発売元公式商品情報｜TREE",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/529"
+        },
+        {
+          "label": "発売元公式商品情報｜ライブ・イン田園コロシアム ～THE 夏祭り’81＜完全盤＞",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/528"
+        }
+      ],
+      "releaseFormat": "SHM-CD（紙ジャケット・初回製造限定／複数作品の一括発売記録）",
+      "releaseEditions": [
+        {
+          "releaseTitle": "Mr.ASIA",
+          "catalogNumber": "YCCR-10016",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/534"
+        },
+        {
+          "releaseTitle": "RHAPSODY",
+          "catalogNumber": "YCCR-10017",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/533"
+        },
+        {
+          "releaseTitle": "ENERGY",
+          "catalogNumber": "YCCR-10018",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/532"
+        },
+        {
+          "releaseTitle": "PRIDE",
+          "catalogNumber": "YCCR-10019〜20",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/531"
+        },
+        {
+          "releaseTitle": "SEE YA",
+          "catalogNumber": "YCCR-10021",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/530"
+        },
+        {
+          "releaseTitle": "TREE",
+          "catalogNumber": "YCCR-10022",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/529"
+        },
+        {
+          "releaseTitle": "ライブ・イン田園コロシアム ～THE 夏祭り’81＜完全盤＞",
+          "catalogNumber": "YCCR-10030〜31",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/528"
         }
       ]
     },
@@ -50443,11 +50798,84 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "紙ジャケット再発7作品（GUYS / RED HILL ほか）",
       "status": "released",
       "verification": "primary",
-      "note": "アルバム再発／GUYS、RED HILL、CODE NAME.1 BROTHER SUN、CODE NAME.2 SISTER MOON、MTV UNPLUGGED LIVE、NO DOUBT、Snow Mailの7作品",
+      "note": "アルバム再発／GUYS、RED HILL、CODE NAME.1 BROTHER SUN、CODE NAME.2 SISTER MOON、MTV UNPLUGGED LIVE、NO DOUBT、Snow Mailの7作品 【規格情報追補｜発売元公式】GUYS（YCCR-10023）、RED HILL（YCCR-10024）、CODE NAME.1 BROTHER SUN（YCCR-10025）、CODE NAME.2 SISTER MOON（YCCR-10026）、CHAGE & ASKA MTV UNPLUGGED LIVE（YCCR-10027）、NO DOUBT（YCCR-10028）、Snow Mail add 3 songs（YCCR-10029）。複数商品の発売日別一括記録であり、各商品を重複して別イベント登録しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式商品情報｜GUYS",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/563"
+        },
+        {
+          "label": "発売元公式商品情報｜RED HILL",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/564"
+        },
+        {
+          "label": "発売元公式商品情報｜CODE NAME.1 BROTHER SUN",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/565"
+        },
+        {
+          "label": "発売元公式商品情報｜CODE NAME.2 SISTER MOON",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/566"
+        },
+        {
+          "label": "発売元公式商品情報｜CHAGE & ASKA MTV UNPLUGGED LIVE",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/567"
+        },
+        {
+          "label": "発売元公式商品情報｜NO DOUBT",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/568"
+        },
+        {
+          "label": "発売元公式商品情報｜Snow Mail add 3 songs",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/569"
+        }
+      ],
+      "releaseFormat": "SHM-CD（紙ジャケット・初回製造限定／複数作品の一括発売記録）",
+      "releaseEditions": [
+        {
+          "releaseTitle": "GUYS",
+          "catalogNumber": "YCCR-10023",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/563"
+        },
+        {
+          "releaseTitle": "RED HILL",
+          "catalogNumber": "YCCR-10024",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/564"
+        },
+        {
+          "releaseTitle": "CODE NAME.1 BROTHER SUN",
+          "catalogNumber": "YCCR-10025",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/565"
+        },
+        {
+          "releaseTitle": "CODE NAME.2 SISTER MOON",
+          "catalogNumber": "YCCR-10026",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/566"
+        },
+        {
+          "releaseTitle": "CHAGE & ASKA MTV UNPLUGGED LIVE",
+          "catalogNumber": "YCCR-10027",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/567"
+        },
+        {
+          "releaseTitle": "NO DOUBT",
+          "catalogNumber": "YCCR-10028",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/568"
+        },
+        {
+          "releaseTitle": "Snow Mail add 3 songs",
+          "catalogNumber": "YCCR-10029",
+          "releaseFormat": "SHM-CD（紙ジャケット）",
+          "sourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/569"
         }
       ]
     },
@@ -50465,8 +50893,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "アーティスト公式ディスコグラフィー",
+          "url": "https://www.fellows.tokyo/discography/detail/71/"
         }
-      ]
+      ],
+      "releaseFormat": "DVD（2枚組）",
+      "catalogNumber": "POBD-22007/8"
     },
     {
       "id": "release-v18216-2009-007",
@@ -50481,9 +50915,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "公式資料",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式ディスコグラフィー",
+          "url": "https://www.universal-music.co.jp/chage-and-aska/discography/"
         }
       ],
-      "releaseTitle": "STANDARD"
+      "releaseTitle": "STANDARD",
+      "releaseFormat": "CD（ミニアルバム）",
+      "catalogNumber": "UMCK-1336"
     },
     {
       "id": "live-chage-hosomichi-2009-034",
@@ -80187,5 +80627,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.0.13"
+  "siteVersion": "2.0.14"
 };
