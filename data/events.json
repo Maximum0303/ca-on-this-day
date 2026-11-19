@@ -32042,13 +32042,19 @@
       "releaseTitle": "Girl",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：シングル",
+      "note": "作品種別：シングル\n【第33回・1995〜1999年初発売品番追補】8cm CDの当時品番：TODT-5100。品番の確認：商品情報等の二次資料。後年の別規格・再発売盤とは区別する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "商品情報（当時品番・二次資料）",
+          "url": "https://www.oricon.co.jp/prof/245800/products/272203/1/"
         }
-      ]
+      ],
+      "catalogNumber": "TODT-5100",
+      "format": "8cm CD"
     },
     {
       "id": "release-audit-v207-1998-toct-10174",
@@ -32154,13 +32160,19 @@
       "releaseTitle": "kicks",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：アルバム",
+      "note": "作品種別：アルバム\n【第33回・1995〜1999年初発売品番追補】CDの当時品番：TOCT-10220。品番の確認：商品情報等の二次資料。後年の別規格・再発売盤とは区別する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "商品情報（当時品番・二次資料）",
+          "url": "https://contents.oricon.co.jp/prof/245800/products/266473/1/"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-10220",
+      "format": "CD"
     },
     {
       "id": "media-v18231-1998-03-27-aska-001",
@@ -32672,13 +32684,23 @@
       "releaseTitle": "PROLOGUE",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：ベストアルバム",
+      "note": "作品種別：ベストアルバム\n【第33回・1995〜1999年初発売品番追補】CDの当時品番：TOCT-10308。品番の確認：商品情報等の二次資料。後年の別規格・再発売盤とは区別する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "Chage公式ディスコグラフィー（発売日）",
+          "url": "https://chage.jp/discography/chage/album/007.php"
+        },
+        {
+          "label": "商品情報（当時品番・二次資料）",
+          "url": "https://tower.jp/item/590271"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-10308",
+      "format": "CD"
     },
     {
       "id": "live-v07-kicks-1998-016",
@@ -33157,13 +33179,19 @@
       "releaseTitle": "トウキョータワー",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：シングル",
+      "note": "作品種別：シングル\n【第33回・1995〜1999年初発売品番追補】8cm CDの当時品番：TODT-5195。品番の確認：商品情報等の二次資料。後年の別規格・再発売盤とは区別する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "商品情報（当時品番・二次資料）",
+          "url": "https://contents.oricon.co.jp/prof/4066/products/272294/1/"
         }
-      ]
+      ],
+      "catalogNumber": "TODT-5195",
+      "format": "8cm CD"
     },
     {
       "id": "release-v07-005",
@@ -33191,13 +33219,19 @@
       "releaseTitle": "2nd",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：アルバム",
+      "note": "作品種別：アルバム\n【第33回・1995〜1999年初発売品番追補】CDの当時品番：TOCT-10410。品番の確認：商品情報等の二次資料。後年の別規格・再発売盤とは区別する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "商品情報（当時品番・二次資料）",
+          "url": "https://contents.oricon.co.jp/prof/4066/products/266598/1/"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-10410",
+      "format": "CD"
     },
     {
       "id": "release-v07-007",
@@ -33208,13 +33242,19 @@
       "releaseTitle": "CHAGE“大いに唄う”in 武道館",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：ライブビデオ",
+      "note": "作品種別：ライブビデオ\n【第33回・1995〜1999年初発売品番追補】VTR（VHS）の当時品番：TOVF-1292。品番の確認：公式ディスコグラフィー。後年の別規格・再発売盤とは区別する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "Chage公式ディスコグラフィー（VTR・品番）",
+          "url": "https://chage.jp/discography/chage/bd/013.php"
         }
-      ]
+      ],
+      "catalogNumber": "TOVF-1292",
+      "format": "VTR（VHS）"
     },
     {
       "id": "live-v07-feeling-place-1998-001",
@@ -33583,13 +33623,19 @@
       "releaseTitle": "この愛のために/VISION",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：シングル",
+      "note": "作品種別：シングル\n【第33回・1995〜1999年初発売品番追補】8cm CDの当時品番：TODT-5260。品番の確認：公式ディスコグラフィー。後年の別規格・再発売盤とは区別する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売日・品番）",
+          "url": "https://www.chage-aska.net/discography/single/konoai_no_tameni.php"
         }
-      ]
+      ],
+      "catalogNumber": "TODT-5260",
+      "format": "8cm CD"
     },
     {
       "id": "media-v18211-1999-005",
@@ -33680,13 +33726,19 @@
       "releaseTitle": "ASKA the BEST",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：ベストアルバム",
+      "note": "作品種別：ベストアルバム\n【第33回・1995〜1999年初発売品番追補】CDの当時品番：TOCT-24100。品番の確認：商品情報等の二次資料。商品上の正式表題「ASKA the BEST Selection 1988-1998」も照合。既存の表示タイトルは変更しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "商品情報（当時品番・二次資料）",
+          "url": "https://www.oricon.co.jp/prof/245800/products/266965/1/"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-24100",
+      "format": "CD"
     },
     {
       "id": "release-v07-010",
@@ -33922,13 +33974,19 @@
       "releaseTitle": "群れ",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：シングル",
+      "note": "作品種別：シングル\n【第33回・1995〜1999年初発売品番追補】8cm CDの当時品番：TODT-5320。品番の確認：公式ディスコグラフィー。後年の別規格・再発売盤とは区別する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売日・品番）",
+          "url": "https://www.chage-aska.net/discography/single/mure.php"
         }
-      ]
+      ],
+      "catalogNumber": "TODT-5320",
+      "format": "8cm CD"
     },
     {
       "id": "live-v07-anniversary-premium-1999-002",
@@ -34116,13 +34174,23 @@
       "releaseTitle": "NO DOUBT",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：アルバム",
+      "note": "作品種別：アルバム\n【第33回・1995〜1999年初発売品番追補】CDの当時品番：TOCT-24170。品番の確認：商品情報等の二次資料。公式のYCCR-00003は後年の再発売盤。1999年のTOCT-24170と区別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（初発売日・後年盤との区別）",
+          "url": "https://www.chage-aska.net/discography/album/no_doubt.php"
+        },
+        {
+          "label": "商品情報（当時品番・二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/267014/1/"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-24170",
+      "format": "CD"
     },
     {
       "id": "release-v07-014",
@@ -34133,13 +34201,19 @@
       "releaseTitle": "CHAGE and ASKA 20th Anniversary Premium Live",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：FC販売ビデオ",
+      "note": "作品種別：FC販売ビデオ\n【第33回・1995〜1999年初発売品番追補】VTR（FC限定）の当時品番：C-00070。品番の確認：公式ディスコグラフィー。後年の別規格・再発売盤とは区別する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売日・品番）",
+          "url": "https://www.chage-aska.net/discography/video/20th_anniversary_premium.php"
         }
-      ]
+      ],
+      "catalogNumber": "C-00070",
+      "format": "VTR（FC限定）"
     },
     {
       "id": "milestone-ca-20th-anniv-1999-0825",
@@ -34879,13 +34953,23 @@
       "releaseTitle": "CHAGE and ASKA VERY BEST ROLL OVER 20TH",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：ベストアルバム",
+      "note": "作品種別：ベストアルバム\n【第33回・1995〜1999年初発売品番追補】CD（2枚組）の当時品番：TOCT-24301/2。品番の確認：商品情報等の二次資料。公式YCCR-00002は後年のCD盤。初発売TOCT-24301/2と区別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "レーベル公式（初発売日の照合）",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/218?ima=0000"
+        },
+        {
+          "label": "商品情報（当時品番・二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/267113/1/"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-24301/2",
+      "format": "CD（2枚組）"
     },
     {
       "id": "release-v07-016",
@@ -34896,13 +34980,19 @@
       "releaseTitle": "CHAGE TREASURE BOX Vol.1",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：セレクトアルバム",
+      "note": "作品種別：セレクトアルバム\n【第33回・1995〜1999年初発売品番追補】CDの当時品番：TOCT-24303。品番の確認：公式ディスコグラフィー。後年の別規格・再発売盤とは区別する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "Chage公式ディスコグラフィー（発売日・品番）",
+          "url": "https://chage.jp/discography/chage/others/001.php"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-24303",
+      "format": "CD"
     },
     {
       "id": "release-audit-v205-1999-toct-10703",
@@ -35223,13 +35313,19 @@
       "releaseTitle": "夢の番人 SPECIAL EVENT 1993 GUYS",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：FC販売ビデオ",
+      "note": "作品種別：FC販売ビデオ\n【第33回・1995〜1999年初発売品番追補】VTR（FC限定）の当時品番：C-00080。品番の確認：公式ディスコグラフィー。後年の別規格・再発売盤とは区別する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売日・品番）",
+          "url": "https://www.chage-aska.net/discography/video/yumenobannin_special_event.php"
         }
-      ]
+      ],
+      "catalogNumber": "C-00080",
+      "format": "VTR（FC限定）"
     },
     {
       "id": "release-v07-018",
@@ -35240,13 +35336,19 @@
       "releaseTitle": "史上最大の作戦 THE LONGEST TOUR 1993-1994",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：FC販売ビデオ",
+      "note": "作品種別：FC販売ビデオ\n【第33回・1995〜1999年初発売品番追補】VTR（FC限定）の当時品番：C-00090。品番の確認：公式ディスコグラフィー。後年の別規格・再発売盤とは区別する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売日・品番）",
+          "url": "https://www.chage-aska.net/discography/video/sijyousaidainosakusen.php"
         }
-      ]
+      ],
+      "catalogNumber": "C-00090",
+      "format": "VTR（FC限定）"
     },
     {
       "id": "live-v07-sennen-ya-1999-001",
@@ -35313,13 +35415,19 @@
       "releaseTitle": "CHAGE and ASKA LIVE BEST 1995-1999",
       "status": "released",
       "verification": "primary",
-      "note": "作品種別：ライブDVD",
+      "note": "作品種別：ライブDVD\n【第33回・1995〜1999年初発売品番追補】DVDの当時品番：TOBF-5018。品番の確認：公式ディスコグラフィー。後年の別規格・再発売盤とは区別する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜作品発売記録",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売日・品番）",
+          "url": "https://www.chage-aska.net/discography/video/live_best.php"
         }
-      ]
+      ],
+      "catalogNumber": "TOBF-5018",
+      "format": "DVD"
     },
     {
       "id": "media-v18211-2000-001",
@@ -82741,5 +82849,5 @@
       ]
     }
   ],
-  "siteVersion": "2.0.32"
+  "siteVersion": "2.0.33"
 }
