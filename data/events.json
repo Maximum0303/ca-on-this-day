@@ -81950,7 +81950,139 @@
           "url": "https://tower.jp/artist/discography/249878?format=113&recondition=True"
         }
       ]
+    },
+    {
+      "id": "release-audit-variants-19880821-scene-lp-c28a0661",
+      "date": "1988-08-21",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『SCENE』LP盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "SCENE",
+      "releaseType": "オリジナルアルバム初発売時のLP盤",
+      "format": "LP（アナログ盤）",
+      "catalogNumber": "C28A-0661",
+      "note": "作品形態：LP（アナログレコード）。飛鳥涼名義で発売された『SCENE』の初発売時LP盤。発売日：1988-08-21。規格品番：C28A-0661（オリコン作品情報・中古レコード商品情報により照合）。同日発売のCD・カセット、後年の再発売盤と区別する。",
+      "sources": [
+        {
+          "label": "公式商品資料（作品の初発売日）",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/254"
+        },
+        {
+          "label": "参考資料（非公式・LP発売日と品番）",
+          "url": "https://www.oricon.co.jp/prof/245800/products/61279/1/"
+        },
+        {
+          "label": "参考資料（非公式・媒体の照合）",
+          "url": "https://takechas.com/?pid=189343111"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-variants-19880821-scene-ct-28p6831",
+      "date": "1988-08-21",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『SCENE』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "SCENE",
+      "releaseType": "オリジナルアルバム初発売時のカセット盤",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "28P-6831",
+      "note": "作品形態：カセットテープ（CT）。飛鳥涼名義で発売された『SCENE』の初発売時カセット盤。発売日：1988-08-21。規格品番：28P-6831（オリコン作品情報により照合）。同日発売のLP・CD、後年の再発売盤と区別する。",
+      "sources": [
+        {
+          "label": "公式商品資料（作品の初発売日）",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/254"
+        },
+        {
+          "label": "参考資料（非公式・カセット発売日と品番）",
+          "url": "https://www.oricon.co.jp/prof/245800/products/61279/2/"
+        },
+        {
+          "label": "参考資料（非公式・媒体の照合）",
+          "url": "https://tokyocollectors.shop-pro.jp/?pid=193663488"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-variants-19880821-scene-cd-d32a0387",
+      "date": "1988-08-21",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『SCENE』初発売CD盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "SCENE",
+      "releaseType": "オリジナルアルバム初発売時のCD盤",
+      "format": "CD（初発売盤）",
+      "catalogNumber": "D32A-0387",
+      "note": "作品形態：CD（初発売時の規格）。飛鳥涼名義で発売された『SCENE』の初発売時CD盤。発売日：1988-08-21。規格品番：D32A-0387（紀伊國屋書店の書誌商品情報、専門店の商品情報により照合）。1989年のGOLD CD盤、1990年のPCCA-00109盤、2001年のYCCR-00029盤と区別する。",
+      "sources": [
+        {
+          "label": "公式商品資料（作品の初発売日）",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/254"
+        },
+        {
+          "label": "参考資料（非公式・CD発売日と品番）",
+          "url": "https://www.kinokuniya.co.jp/f/dsg-10-4988013349339"
+        },
+        {
+          "label": "参考資料（非公式・初発売CDの照合）",
+          "url": "https://www.fanfan1.com/products/detail.php?product_id=779265"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-variants-19900207-ballad-ct-pcta00026",
+      "date": "1990-02-07",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『THE STORY of BALLAD』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "THE STORY of BALLAD",
+      "releaseType": "アルバム初発売時のカセット盤",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "PCTA-00026",
+      "note": "作品形態：カセットテープ（CT）。初発売時のカセット規格。発売日：1990-02-07。規格品番：PCTA-00026（商品情報により確認）。同日発売のCD盤や2004年の再発売盤とは別商品として記録する。",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー（作品発売日）",
+          "url": "https://www.chage-aska.net/discography/album/story_of_ballad.php"
+        },
+        {
+          "label": "参考資料（非公式・カセット発売日と品番）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/251006373"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-variants-19910306-aska-hajimari-ct-pcsa00114",
+      "date": "1991-03-06",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『はじまりはいつも雨』シングルカセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "はじまりはいつも雨",
+      "releaseType": "シングル初発売時のカセット盤",
+      "format": "シングルカセット（CT）",
+      "catalogNumber": "PCSA-00114",
+      "note": "作品形態：シングルカセット（CT）。発売日：1991-03-06。規格品番：PCSA-00114（商品情報により照合）。同日発売のCDシングル（PCDA-00164）と区別する。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・シングルカセット発売日と品番）",
+          "url": "https://www.suruga-ya.jp/product/detail/251001195"
+        },
+        {
+          "label": "参考資料（非公式・CDとの規格比較）",
+          "url": "https://contents.oricon.co.jp/prof/245800/products/178491/1/"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.0.22"
+  "siteVersion": "2.0.23"
 }
