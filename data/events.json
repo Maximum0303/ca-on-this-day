@@ -81098,7 +81098,303 @@
           "url": "https://tower.jp/artist/discography/249878?format=112"
         }
       ]
+    },
+    {
+      "id": "release-audit-early-ct-20261119-19800425-lkf5039",
+      "date": "1980-04-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『風舞』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "風舞",
+      "releaseType": "初発売時の別規格（カセット・オリジナルアルバム）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "LKF-5039",
+      "note": "作品形態：カセットテープ（CT）。風舞の初発売時の別規格商品。作品発売日：1980-04-25、カセット規格品番：LKF-5039。カセットの発売日・規格品番は二次資料で照合。LP盤・後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式作品年表（作品初発売日）",
+          "url": "https://www.chage-aska.net/discography/album02.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.wikipedia-is-dead.com/wiki/%E9%A2%A8%E8%88%9E"
+        },
+        {
+          "label": "参考資料（非公式・一覧照合）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-early-ct-20261119-19810225-lkf7021",
+      "date": "1981-02-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『熱風』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "熱風",
+      "releaseType": "初発売時の別規格（カセット・オリジナルアルバム）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "LKF-7021",
+      "note": "作品形態：カセットテープ（CT）。熱風の初発売時の別規格商品。作品発売日：1981-02-25、カセット規格品番：LKF-7021。カセットの発売日・規格品番は二次資料で照合。LP盤・後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式作品年表（作品初発売日）",
+          "url": "https://www.chage-aska.net/discography/album02.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.suruga-ya.jp/product/detail/251009342"
+        },
+        {
+          "label": "参考資料（非公式・一覧照合）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-early-ct-20261119-19810910-lkf5058",
+      "date": "1981-09-10",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『ライブ・イン田園コロシアム ～The 夏祭り’81』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "ライブ・イン田園コロシアム ～The 夏祭り’81",
+      "releaseType": "初発売時の別規格（カセット・ライブアルバム）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "LKF-5058",
+      "note": "作品形態：カセットテープ（CT）。ライブ・イン田園コロシアム ～The 夏祭り’81の初発売時の別規格商品。作品発売日：1981-09-10、カセット規格品番：LKF-5058。カセットの発売日・規格品番は二次資料で照合。LP盤・後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式作品年表（作品初発売日）",
+          "url": "https://www.chage-aska.net/discography/album02.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-early-ct-20261119-19820214-lkf8025",
+      "date": "1982-02-14",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『黄昏の騎士』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "黄昏の騎士",
+      "releaseType": "初発売時の別規格（カセット・オリジナルアルバム）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "LKF-8025",
+      "note": "作品形態：カセットテープ（CT）。黄昏の騎士の初発売時の別規格商品。作品発売日：1982-02-14、カセット規格品番：LKF-8025。カセットの発売日・規格品番は二次資料で照合。LP盤・後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式作品年表（作品初発売日）",
+          "url": "https://www.chage-aska.net/discography/album02.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.suruga-ya.jp/product/detail/251007606"
+        },
+        {
+          "label": "参考資料（非公式・一覧照合）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-early-ct-20261119-19820525-lkf8033",
+      "date": "1982-05-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『熱い想い』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "熱い想い",
+      "releaseType": "初発売時の別規格（カセット・サウンドトラック）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "LKF-8033",
+      "note": "作品形態：カセットテープ（CT）。熱い想いの初発売時の別規格商品。作品発売日：1982-05-25、カセット規格品番：LKF-8033。カセットの発売日・規格品番は二次資料で照合。LP盤・後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式作品年表（作品初発売日）",
+          "url": "https://www.chage-aska.net/discography/album02.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.suruga-ya.jp/product/detail/251009344"
+        },
+        {
+          "label": "参考資料（非公式・一覧照合）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-early-ct-20261119-19821221-lkf5070",
+      "date": "1982-12-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『1979-1982 BEST』カセット専用ベスト盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "1979-1982 BEST",
+      "releaseType": "カセット専用企画ベスト",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "LKF-5070",
+      "note": "作品形態：カセットテープのみのベスト盤。発売日：1982-12-21。規格品番：LKF-5070。アルバムのカセット別規格ではなく単独のカセット専用企画ベスト。発売日・規格品番は複数の二次資料に基づく。CDとして発売されたものと誤認しない。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・発売履歴）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
+        },
+        {
+          "label": "参考資料（非公式・資料解説）",
+          "url": "https://w.atwiki.jp/cavc/pages/178.html"
+        },
+        {
+          "label": "参考資料（非公式・現物紹介）",
+          "url": "https://note.com/yuku1979/n/ne8424846b5fa"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-early-ct-20261119-19830629-lkf8058",
+      "date": "1983-06-29",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE&ASUKA IV -21世紀-』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "CHAGE&ASUKA IV -21世紀-",
+      "releaseType": "初発売時の別規格（カセット・オリジナルアルバム）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "LKF-8058",
+      "note": "作品形態：カセットテープ（CT）。CHAGE&ASUKA IV -21世紀-の初発売時の別規格商品。作品発売日：1983-06-29、カセット規格品番：LKF-8058。カセットの発売日・規格品番は二次資料で照合。LP盤・後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式作品年表（作品初発売日）",
+          "url": "https://www.chage-aska.net/discography/album02.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.suruga-ya.jp/product/detail/251006778"
+        },
+        {
+          "label": "参考資料（非公式・一覧照合）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-early-ct-20261119-19831116-lki3011",
+      "date": "1983-11-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『1983.9.30 CHAGE and ASKA LIVE IN YOYOGI STADIUM』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "1983.9.30 CHAGE and ASKA LIVE IN YOYOGI STADIUM",
+      "releaseType": "初発売時の別規格（カセット・ライブアルバム）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "LKI-3011",
+      "note": "作品形態：カセットテープ（CT）。1983.9.30 CHAGE and ASKA LIVE IN YOYOGI STADIUMの初発売時の別規格商品。作品発売日：1983-11-16、カセット規格品番：LKI-3011。カセットの発売日・規格品番は二次資料で照合。LP盤・後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式作品年表（作品初発売日）",
+          "url": "https://www.chage-aska.net/discography/album02.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-early-ct-20261119-19840325-lkf8071",
+      "date": "1984-03-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『INSIDE CHAGE&ASKA V』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "INSIDE CHAGE&ASKA V",
+      "releaseType": "初発売時の別規格（カセット・オリジナルアルバム）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "LKF-8071",
+      "note": "作品形態：カセットテープ（CT）。INSIDE CHAGE&ASKA Vの初発売時の別規格商品。作品発売日：1984-03-25、カセット規格品番：LKF-8071。カセットの発売日・規格品番は二次資料で照合。LP盤・後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式作品年表（作品初発売日）",
+          "url": "https://www.chage-aska.net/discography/album02.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://tokyocollectors.shop-pro.jp/?gid=2618961&mode=grp&sort=n"
+        },
+        {
+          "label": "参考資料（非公式・一覧照合）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-early-ct-20261119-19850125-lkf8089",
+      "date": "1985-01-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Z=One』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "Z=One",
+      "releaseType": "初発売時の別規格（カセット・オリジナルアルバム）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "LKF-8089",
+      "note": "作品形態：カセットテープ（CT）。Z=Oneの初発売時の別規格商品。作品発売日：1985-01-25、カセット規格品番：LKF-8089。カセットの発売日・規格品番は二次資料で照合。LP盤・後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式作品年表（作品初発売日）",
+          "url": "https://www.chage-aska.net/discography/album02.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.wikipedia-is-dead.com/wiki/Z%3DOne"
+        },
+        {
+          "label": "参考資料（非公式・一覧照合）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-early-ct-20261119-19851205-28p6500",
+      "date": "1985-12-05",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Standing Ovation』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "Standing Ovation",
+      "releaseType": "初発売時の別規格（カセット・ベストアルバム）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "28P6500",
+      "note": "作品形態：カセットテープ（CT）。Standing Ovationの初発売時の別規格商品。作品発売日：1985-12-05、カセット規格品番：28P6500。カセットの発売日・規格品番は二次資料で照合。LP盤・後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式作品年表（作品初発売日）",
+          "url": "https://www.chage-aska.net/discography/album02.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.0.19"
+  "siteVersion": "2.0.20"
 }
