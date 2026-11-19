@@ -55930,9 +55930,9 @@
       "artist": "ASKA",
       "category": "release",
       "title": "『ぴあ＆ASKA』発売",
-      "status": "recorded",
+      "status": "released",
       "verification": "primary",
-      "note": "音楽関連ムック『ぴあ＆ASKA』発売。雑誌・書籍の発売記録として分類。",
+      "note": "音楽関連ムック『ぴあ＆ASKA』発売。雑誌・書籍の発売記録として分類。 【第44回・公式資料点検】公式HISTORYに2012年10月16日のムック発売が明記されるため、発売記録の状態を released に統一。既存の分類・日付・IDは変更しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -58278,7 +58278,7 @@
       "title": "『ChageLiveTour2014 ～equal～（DVD/Blu-ray）』発売",
       "status": "released",
       "verification": "primary",
-      "note": "【第40回・備考訂正】2015年1月14日発売はDVD/Blu-rayの映像作品。ライブ音源「equal」のiTunes先行配信は2014年11月5日（別レコード）である。",
+      "note": "【第40回・備考訂正】2015年1月14日発売はDVD/Blu-rayの映像作品。ライブ音源「equal」のiTunes先行配信は2014年11月5日（別レコード）である。 【第44回・公式資料点検】DVD POBD-22080とBlu-ray POXS-22024を発売元で照合。同日の映像発売をまとめた既存記録を維持し、2014年11月5日配信・2015年1月14日ライブ音源配信とは混同しない。",
       "sources": [
         {
           "label": "公式ディスコグラフィー",
@@ -58287,8 +58287,19 @@
         {
           "label": "Chage公式スタッフ・ライブ音源配信日",
           "url": "https://chage.jp/staffmemo/『chagelivetour2014-equal-』全公演終了！/"
+        },
+        {
+          "label": "公式資料（第44回・規格照合）",
+          "url": "https://chage.jp/information/release/detail-38.php"
+        },
+        {
+          "label": "公式資料（第44回・規格照合）",
+          "url": "https://www.universal-music.co.jp/chage/news/2014-11-05/"
         }
-      ]
+      ],
+      "releaseFormat": "映像DVD／Blu-ray（同日発売・2規格を1記録に集約）",
+      "catalogNumber": "POBD-22080 / POXS-22024",
+      "releaseTitle": "ChageLiveTour2014 ～equal～"
     },
     {
       "id": "v12-fes15-1",
@@ -58969,7 +58980,7 @@
       "title": "『Chage Live Tour 2015 ～天使がくれたハンマー～（DVD/Blu-ray）』発売",
       "status": "released",
       "verification": "primary",
-      "note": "2015年10月23日・豊洲PIT公演の映像を収録。初回限定盤には2枚組ライブCDとフォトブックを同梱。",
+      "note": "2015年10月23日・豊洲PIT公演の映像を収録。初回限定盤には2枚組ライブCDとフォトブックを同梱。 【第44回・公式資料点検】公式で4仕様を確認。通常DVD UPBY-5039、通常Blu-ray UPXY-6039、初回限定DVD UPBY-9013、初回限定Blu-ray UPXY-9013。限定盤は2CD・フォトブック付属。",
       "sources": [
         {
           "label": "公式ディスコグラフィー",
@@ -58978,8 +58989,15 @@
         {
           "label": "Chage公式映像作品情報",
           "url": "https://chage.jp/information/release/detail-130.php"
+        },
+        {
+          "label": "公式資料（第44回・規格照合）",
+          "url": "https://www.universal-music.co.jp/chage/products/upby-9013/"
         }
-      ]
+      ],
+      "releaseFormat": "映像DVD／Blu-ray（通常盤・初回限定盤の計4仕様を1記録に集約）",
+      "catalogNumber": "UPBY-5039 / UPXY-6039 / UPBY-9013 / UPXY-9013",
+      "releaseTitle": "Chage Live Tour 2015 ～天使がくれたハンマー～"
     },
     {
       "id": "v12-valentine16",
@@ -61342,13 +61360,24 @@
       "title": "映像作品『Too many people Music Video ＋ いろいろ』DVD/Blu-ray発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【第44回・公式資料点検】公式ディスコグラフィーでDVD DDLB-0002、Blu-ray DDLB-0003の規格品番を照合。同日発売の媒体違いを既存1記録のまま明示。",
       "sources": [
         {
           "label": "販売元作品情報",
           "url": "https://anysee.jp/ec/feature/aska/"
+        },
+        {
+          "label": "公式資料（第44回・規格照合）",
+          "url": "https://www.fellows.tokyo/discography/detail/62/"
+        },
+        {
+          "label": "公式資料（第44回・規格照合）",
+          "url": "https://www.fellows.tokyo/discography/detail/61/"
         }
-      ]
+      ],
+      "releaseFormat": "映像DVD／Blu-ray（同日発売・2規格）",
+      "catalogNumber": "DDLB-0002 / DDLB-0003",
+      "releaseTitle": "Too many people Music Video ＋ いろいろ"
     },
     {
       "id": "v13-media-009",
@@ -62665,13 +62694,24 @@
       "title": "映像作品『Black&White Music Video』DVD/Blu-ray発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【第44回・公式資料点検】公式ディスコグラフィーでDVD DDLB-0009、Blu-ray DDLB-0010を照合。",
       "sources": [
         {
           "label": "販売元作品情報",
           "url": "https://anysee.jp/ec/feature/aska/"
+        },
+        {
+          "label": "公式資料（第44回・規格照合）",
+          "url": "https://www.fellows.tokyo/discography/detail/60/"
+        },
+        {
+          "label": "公式資料（第44回・規格照合）",
+          "url": "https://www.fellows.tokyo/discography/detail/59/"
         }
-      ]
+      ],
+      "releaseFormat": "映像DVD／Blu-ray（同日発売・2規格）",
+      "catalogNumber": "DDLB-0009 / DDLB-0010",
+      "releaseTitle": "Black&White Music Video"
     },
     {
       "id": "v13-media-019",
@@ -63381,7 +63421,7 @@
       "title": "映像『Chage Live Tour 2018 ◆CRIMSON◆』Blu-ray/DVD発売",
       "status": "released",
       "verification": "primary",
-      "note": "発売元・Chage公式ディスコグラフィーにより、発売日を2018年11月28日に訂正。2018年8月26日豊洲PIT公演を収録。",
+      "note": "発売元・Chage公式ディスコグラフィーにより、発売日を2018年11月28日に訂正。2018年8月26日豊洲PIT公演を収録。 【第44回・公式資料点検】DVDの正しい規格品番はUPBY-5073、Blu-rayはUPXY-6073。Chageディスコグラフィーの一括表記にはDVD側の接頭辞相違があるため、発売元の商品ページと公式発売告知を優先。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -63390,8 +63430,19 @@
         {
           "label": "Chage公式ディスコグラフィー",
           "url": "https://chage.jp/discography/chage/bd/014.php"
+        },
+        {
+          "label": "公式資料（第44回・規格照合）",
+          "url": "https://www.universal-music.co.jp/chage/products/upby-5073/"
+        },
+        {
+          "label": "公式資料（第44回・規格照合）",
+          "url": "https://www.universal-music.co.jp/jp/release-usmjapan-jp2018/cat/201811/?artist=Chage"
         }
-      ]
+      ],
+      "releaseFormat": "映像DVD／Blu-ray（同日発売・2規格）",
+      "catalogNumber": "UPBY-5073 / UPXY-6073",
+      "releaseTitle": "Chage Live Tour 2018 ◆CRIMSON◆"
     },
     {
       "id": "v13-ch18-kawashima",
@@ -64745,14 +64796,25 @@
       "category": "release",
       "title": "映像『Made in ASKA -40年のありったけ- in 日本武道館』DVD/Blu-ray発売",
       "status": "released",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "【第44回・公式資料点検】公式ディスコグラフィーでDVD DDLB-0012とBlu-ray DDLB-0013、発売日2019年8月21日を確認。旧記録の secondary を一次資料確認の primary に更新。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2019"
+        },
+        {
+          "label": "公式資料（第44回・規格照合）",
+          "url": "https://www.fellows.tokyo/discography/detail/56/"
+        },
+        {
+          "label": "公式資料（第44回・規格照合）",
+          "url": "https://www.fellows.tokyo/discography/detail/55/"
         }
-      ]
+      ],
+      "releaseFormat": "映像DVD／Blu-ray（同日発売・2規格）",
+      "catalogNumber": "DDLB-0012 / DDLB-0013",
+      "releaseTitle": "Made in ASKA -40年のありったけ- in 日本武道館"
     },
     {
       "id": "media-v18230-2019-08-22-chage-001",
@@ -84311,5 +84373,5 @@
       ]
     }
   ],
-  "siteVersion": "2.0.42"
+  "siteVersion": "2.0.44"
 }
