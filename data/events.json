@@ -19233,13 +19233,19 @@
       "releaseTitle": "THE STORY of BALLAD",
       "status": "released",
       "verification": "primary",
-      "note": "アルバム",
+      "note": "アルバム\n【第32回・1990〜1994年初発売規格品番照合】当時の初発売CDの規格品番：PCCA-00037。後年の再発売品番と混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "オリコン商品情報（初発売CD品番）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/172745/1/"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00037",
+      "format": "CD"
     },
     {
       "id": "media-v18-1990-002",
@@ -19823,13 +19829,19 @@
       "releaseTitle": "SEE YA",
       "status": "released",
       "verification": "primary",
-      "note": "アルバム",
+      "note": "アルバム\n【第32回・1990〜1994年初発売規格品番照合】当時の初発売CDの規格品番：PCCA-00113。後年の再発売品番と混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "オリコン商品情報（初発売CD品番）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/172820/1/"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00113",
+      "format": "CD"
     },
     {
       "id": "live-see-ya-1990-1991-004",
@@ -20204,13 +20216,19 @@
       "releaseTitle": "SEE YA",
       "status": "released",
       "verification": "primary",
-      "note": "ビデオ",
+      "note": "ビデオ\n【第32回・1990〜1994年初発売規格品番照合】映像作品（当時VTR）の規格品番：PCVP-10294。後年の再発売品番と混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（VTR）",
+          "url": "https://www.chage-aska.net/discography/video/see_ya.php"
         }
-      ]
+      ],
+      "catalogNumber": "PCVP-10294",
+      "format": "VTR"
     },
     {
       "id": "live-see-ya-1990-1991-016",
@@ -25059,13 +25077,19 @@
       "releaseTitle": "GO TO ELEVEN ～GUYS～",
       "status": "released",
       "verification": "primary",
-      "note": "ビデオ",
+      "note": "ビデオ\n【第32回・1990〜1994年初発売規格品番照合】映像作品（当時VTR）の規格品番：PCVP-51068。後年の再発売品番と混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（VTR）",
+          "url": "https://www.chage-aska.net/discography/video/go_to_eleven.php"
         }
-      ]
+      ],
+      "catalogNumber": "PCVP-51068",
+      "format": "VTR"
     },
     {
       "id": "release-1990-1992-029",
@@ -27424,13 +27448,15 @@
       "title": "『RED HILL』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：VHS・映像作品。アルバム『RED HILL』（1993年10月10日発売）や2020年のDVD再発売とは別のVHS初発売。",
+      "note": "作品形態：VHS・映像作品。アルバム『RED HILL』（1993年10月10日発売）や2020年のDVD再発売とは別のVHS初発売。\n【第32回・1990〜1994年初発売規格品番照合】映像作品（当時VTR）の規格品番：PCVP-51385。後年の再発売品番と混同しない。",
       "sources": [
         {
           "label": "C&A公式ディスコグラフィー｜VHS「RED HILL」",
           "url": "https://www.chage-aska.net/discography/video/red_hill.php"
         }
-      ]
+      ],
+      "catalogNumber": "PCVP-51385",
+      "format": "VTR"
     },
     {
       "id": "live-longest-tour-1993-1994-047",
@@ -82675,7 +82701,45 @@
           "url": "https://www.chage-aska.net/discography/video/the_natsumatsuri.php"
         }
       ]
+    },
+    {
+      "id": "release-audit-v232-19910321-pcvp10489",
+      "date": "1991-03-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『太陽と埃の中で 1』VTR発売",
+      "releaseTitle": "太陽と埃の中で 1",
+      "format": "VTR",
+      "catalogNumber": "PCVP-10489",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第32回・1990〜1994年別規格追補】当時のVTR（映像作品）。規格品番：PCVP-10489。発売日・規格・製品番号は公式ディスコグラフィーで確認。既存の公演日・アルバム発売日・後年再発売とは区別。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（VTR）",
+          "url": "https://www.chage-aska.net/discography/video/taiyoutohokorinonakade1.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v232-19910321-pcvp10490",
+      "date": "1991-03-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『太陽と埃の中で 2』VTR発売",
+      "releaseTitle": "太陽と埃の中で 2",
+      "format": "VTR",
+      "catalogNumber": "PCVP-10490",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第32回・1990〜1994年別規格追補】当時のVTR（映像作品）。規格品番：PCVP-10490。発売日・規格・製品番号は公式ディスコグラフィーで確認。既存の公演日・アルバム発売日・後年再発売とは区別。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（VTR）",
+          "url": "https://www.chage-aska.net/discography/video/taiyoutohokorinonakade2.php"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.0.31"
+  "siteVersion": "2.0.32"
 }
