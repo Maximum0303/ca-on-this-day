@@ -25812,7 +25812,8 @@
         }
       ],
       "catalogNumberStatus": "needs_verification",
-      "catalogNumberStatusNote": "物理商品か媒体未詳の記録。該当する初発売・再発売・規格を原典で照合するまで空欄維持。"
+      "catalogNumberStatusNote": "物理商品か媒体未詳の記録。該当する初発売・再発売・規格を原典で照合するまで空欄維持。",
+      "releaseFormat": "VHS（ファンクラブ限定）"
     },
     {
       "id": "live-guys-special-event-1993-001",
@@ -28867,7 +28868,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。"
+      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
+      "releaseFormat": "書籍（単行本）"
     },
     {
       "id": "release-v06-1994-11-16-128",
@@ -31237,7 +31239,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。"
+      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
+      "releaseFormat": "書籍"
     },
     {
       "id": "v1829-1996-0731-one-voice-japan",
@@ -31367,7 +31370,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。"
+      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
+      "releaseFormat": "書籍（エッセイ集）"
     },
     {
       "id": "media-v18231-1996-11-08-chage-001",
@@ -32084,7 +32088,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。"
+      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
+      "releaseFormat": "書籍（文庫）"
     },
     {
       "id": "live-aska-id-1997-003",
@@ -32587,7 +32592,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。"
+      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
+      "releaseFormat": "書籍（ファンクラブ限定）"
     },
     {
       "id": "v18210-1997-1009-chage-kai-guest",
@@ -50161,7 +50167,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。"
+      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
+      "releaseFormat": "写真集"
     },
     {
       "id": "live-aska-walk-2009-006",
@@ -54683,7 +54690,8 @@
       ],
       "releaseTitle": "アイのうた～東日本大震災チャリティ・アルバム』配信開始",
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v11-release-002",
@@ -54702,7 +54710,8 @@
       ],
       "releaseTitle": "廃墟の鳩』配信開始",
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v11-release-003",
@@ -54721,7 +54730,8 @@
       ],
       "releaseTitle": "上を向いて歩こう』配信開始",
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v11-other-002",
@@ -54965,7 +54975,8 @@
       ],
       "releaseTitle": "3月のタンポポ』配信開始",
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v11-apbank-2011",
@@ -55003,7 +55014,8 @@
       ],
       "releaseTitle": "巴里にひとり』配信開始",
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "media-v18217-2011-006",
@@ -55563,7 +55575,8 @@
       ],
       "releaseTitle": "旅人よ』配信開始",
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "live-v11-chage-hosomichi-2011-015",
@@ -55821,7 +55834,8 @@
       ],
       "releaseTitle": "まわせ大きな地球儀』ライブ音源配信開始",
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "live-v11-aska-xmas-2012-001",
@@ -55861,7 +55875,8 @@
       ],
       "releaseTitle": "歌の中には不自由がない』配信開始",
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "live-v11-aska-xmas-2012-002",
@@ -55917,7 +55932,8 @@
       ],
       "releaseTitle": "木綿のハンカチーフ』配信開始",
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v11-love-radio-2012",
@@ -56359,7 +56375,8 @@
       ],
       "releaseTitle": "GO! GO! GO!』配信開始",
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v11-release-bluray-may23-01",
@@ -56702,7 +56719,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。"
+      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
+      "releaseFormat": "ムック（書籍）"
     },
     {
       "id": "v11-release-016",
@@ -57309,7 +57327,8 @@
       ],
       "releaseTitle": "Chageの茶会2012 ～座・藍燈横濱～』ライブ音源配信開始",
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "live-v11-aska-rocket-2013-018",
@@ -57601,7 +57620,8 @@
       ],
       "releaseTitle": "ROCKET』ライブ音源先行配信開始",
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "live-v11-chage-tea-again-2013-006",
@@ -58659,7 +58679,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v12-2014-oki-dvd",
@@ -58699,7 +58720,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "milestone-ca-35th-anniv-2014-0825",
@@ -58733,7 +58755,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v12-2014-nagai-live",
@@ -58751,7 +58774,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v12-equal14-01",
@@ -59006,7 +59030,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v12-yamaha14",
@@ -59090,7 +59115,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v12-2015-equal-video",
@@ -59463,7 +59489,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v12-fns15",
@@ -60239,7 +60266,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "media-v18230-2016-07-13-chage-001",
@@ -60973,7 +61001,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。"
+      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
+      "releaseFormat": "書籍"
     },
     {
       "id": "v13-ch17-omoto",
@@ -62482,7 +62511,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "media-v18230-2017-12-16-chage-001",
@@ -62659,7 +62689,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v13-milestone-001",
@@ -62760,7 +62791,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v13-release-009",
@@ -62778,7 +62810,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタルブックレット"
     },
     {
       "id": "v13-release-010",
@@ -62857,7 +62890,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v13-ch18-fan-day-001",
@@ -62954,7 +62988,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信（iTunes Store）"
     },
     {
       "id": "v13-ch18-fan-day-004",
@@ -63014,7 +63049,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v13-ch18-fan-day-006",
@@ -63074,7 +63110,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "映像配信（iTunes Store）"
     },
     {
       "id": "v13-ch18-sakaeminami",
@@ -63156,7 +63193,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "media-v18220-015",
@@ -63222,7 +63260,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "media-v18220-017",
@@ -63431,7 +63470,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "media-v18230-2018-06-20-chage-001",
@@ -63522,7 +63562,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v13-media-017",
@@ -63610,7 +63651,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v13-release-020",
@@ -63877,7 +63919,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v13-ch18-crimson-002",
@@ -64141,7 +64184,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v13-media-020",
@@ -64195,7 +64239,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。"
+      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
+      "releaseFormat": "写真集"
     },
     {
       "id": "v13-release-025",
@@ -65087,7 +65132,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。"
+      "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
+      "releaseFormat": "書籍（詩集）"
     },
     {
       "id": "v13-aska19-made-in-012",
@@ -66052,7 +66098,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "電子書籍"
     },
     {
       "id": "media-v18230-2019-10-08-chage-001",
@@ -66105,7 +66152,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v13-ch19-shanghai",
@@ -67291,7 +67339,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v14-release-008",
@@ -67309,7 +67358,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v14-chage-2020-tour-cancel-002",
@@ -67369,7 +67419,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v14-chage-2020-tour-cancel-004",
@@ -67465,7 +67516,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v18221-2020-10-11-aska-090",
@@ -67972,7 +68024,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v14-release-017",
@@ -70188,7 +70241,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v18222-2022-07-06-aska-066",
@@ -70464,7 +70518,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v14-media-ch22-006",
@@ -72261,7 +72316,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v15-0244",
@@ -72390,7 +72446,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v15-0247",
@@ -74521,7 +74578,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "release-audit-v203-20261118-chage-windy-road-bd-2024",
@@ -76765,7 +76823,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v15-0137",
@@ -77162,7 +77221,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v15-0171",
@@ -77335,7 +77395,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v15-0202",
@@ -77676,7 +77737,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v15-0233",
@@ -79944,7 +80006,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v16-0140",
@@ -80363,7 +80426,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v16-0145",
@@ -80504,7 +80568,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v16-0127",
@@ -80845,7 +80910,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "デジタル配信"
     },
     {
       "id": "v16-0131",
@@ -81207,7 +81273,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "ミュージックビデオ（オンライン公開）"
     },
     {
       "id": "v16-0105",
@@ -81338,7 +81405,8 @@
         }
       ],
       "catalogNumberStatus": "not_applicable",
-      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+      "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
+      "releaseFormat": "ミュージックビデオ（オンライン公開）"
     },
     {
       "id": "v16-0006",
@@ -85775,5 +85843,5 @@
       "releaseType": "reissue"
     }
   ],
-  "siteVersion": "2.0.47"
+  "siteVersion": "2.0.48"
 }
