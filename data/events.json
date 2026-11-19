@@ -51708,7 +51708,14 @@
       "catalogNumberStatusNote": "既存備考の作品名別品番と同じ順序",
       "catalogNumber": "YCCR-10003 / YCCR-10004 / YCCR-10006 / YCCR-10007 / YCCR-10008",
       "catalogNumberVerification": "primary",
-      "catalogNumberSourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/512"
+      "catalogNumberSourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/512",
+      "releaseTitles": [
+        "風舞",
+        "熱風",
+        "黄昏の騎士",
+        "熱い想い",
+        "CHAGE & ASKA Ⅳ-21世紀-"
+      ]
     },
     {
       "id": "live-chage-hosomichi-2009-016",
@@ -52008,7 +52015,15 @@
       "catalogNumberStatusNote": "発売形態・品番照合済み",
       "catalogNumber": "YCCR-10009〜10 / YCCR-10011 / YCCR-10012 / YCCR-10013 / YCCR-10014 / YCCR-10015",
       "catalogNumberVerification": "primary",
-      "catalogNumberSourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/527"
+      "catalogNumberSourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/527",
+      "releaseTitles": [
+        "LIVE IN YOYOGI STADIUM",
+        "INSIDE",
+        "Z=One",
+        "Standing Ovation",
+        "TURNING POINT",
+        "MIX BLOOD"
+      ]
     },
     {
       "id": "live-chage-hosomichi-2009-024",
@@ -52186,7 +52201,16 @@
       "catalogNumberStatusNote": "発売形態・品番照合済み",
       "catalogNumber": "YCCR-10016 / YCCR-10017 / YCCR-10018 / YCCR-10019〜20 / YCCR-10021 / YCCR-10022 / YCCR-10030〜31",
       "catalogNumberVerification": "primary",
-      "catalogNumberSourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/530"
+      "catalogNumberSourceUrl": "https://www.yamahamusic.co.jp/s/ymc/discography/530",
+      "releaseTitles": [
+        "Mr.ASIA",
+        "RHAPSODY",
+        "ENERGY",
+        "PRIDE",
+        "TREE",
+        "ライブ・イン・田園コロシアム～The夏祭り’81",
+        "SEE YA"
+      ]
     },
     {
       "id": "live-chage-hosomichi-2009-028",
@@ -63546,7 +63570,11 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitles": [
+        "Too many people",
+        "Black&White"
+      ]
     },
     {
       "id": "media-v18230-2018-06-20-chage-001",
@@ -64265,7 +64293,11 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "デジタル配信"
+      "releaseFormat": "デジタル配信",
+      "releaseTitles": [
+        "SCENE -Remix ver.-",
+        "SCENE II -Remix ver.-"
+      ]
     },
     {
       "id": "v13-media-020",
@@ -81542,7 +81574,11 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "releaseFormat": "ミュージックビデオ（オンライン公開）"
+      "releaseFormat": "ミュージックビデオ（オンライン公開）",
+      "releaseTitles": [
+        "音銀河",
+        "命の宿り"
+      ]
     },
     {
       "id": "v16-0006",
@@ -85979,5 +86015,5 @@
       "releaseType": "reissue"
     }
   ],
-  "siteVersion": "2.0.50"
+  "siteVersion": "2.0.51"
 }
