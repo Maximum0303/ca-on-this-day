@@ -4263,13 +4263,23 @@
       "releaseTitle": "熱い想い",
       "status": "released",
       "verification": "primary",
-      "note": "アルバム／映画『真紅な動輪』サウンドトラック",
+      "note": "アルバム／映画『真紅な動輪』サウンドトラック\n【第31回・初発売LP規格品番補完】1982年発売のアナログLP規格品番はL-12521（レコード専門店・作品データベースで確認）。同名シングルのL-1585とは別商品。現物表記の末尾Eの有無は追加確認対象。品番の根拠は二次資料であり、作品発売日の公式確認と区別する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（非公式・初発売LP品番）",
+          "url": "https://ticro.com/products/o00003554"
+        },
+        {
+          "label": "参考資料（非公式・別販売店で照合）",
+          "url": "https://www.cd-coda.com/sell/ana/ho/ho_ti_c%26a.html"
         }
-      ]
+      ],
+      "format": "LP（アナログレコード）",
+      "catalogNumber": "L-12521"
     },
     {
       "id": "media-v17-1982-005",
@@ -6132,13 +6142,23 @@
       "releaseTitle": "CHAGE and ASKA IV -21世紀-",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【第31回・初発売LP規格品番補完】アナログLPの品番はL-12544（中古盤の品番記載、二次資料）。同作品の初期CD 35XL-9（1983年7月23日登録）や2001年CD YCCR-00032などと混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（非公式・初発売LP品番）",
+          "url": "https://ticro.com/products/c042886"
+        },
+        {
+          "label": "参考資料（非公式・別販売店照合）",
+          "url": "https://musicbase.net/chage-asuka-iv-21%E4%B8%96%E7%B4%80?lng=1"
         }
-      ]
+      ],
+      "format": "LP（アナログレコード）",
+      "catalogNumber": "L-12544"
     },
     {
       "id": "live-invite-1983-001",
@@ -7262,7 +7282,7 @@
       "releaseTitle": "INSIDE CHAGE&ASKA V",
       "status": "released",
       "verification": "secondary",
-      "note": "",
+      "note": "【第31回・初発売LP規格品番補完】アナログLP規格品番L-12553は専門店等の二次資料で確認。既登録のカセットLKF-8071、1985年6月25日初期CD 32XL-87および後年再発売とは区別。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
@@ -7271,8 +7291,18 @@
         {
           "label": "公式・主催者発表",
           "url": "https://www.chage-aska.net/discography/album/inside.php"
+        },
+        {
+          "label": "参考資料（非公式・初発売LP品番）",
+          "url": "https://www.cd-coda.com/sell/ana/ho/ho_ti_c%26a.html"
+        },
+        {
+          "label": "参考資料（非公式・別販売店照合）",
+          "url": "https://ticro.com/search?q=INSIDE+L-12553"
         }
-      ]
+      ],
+      "format": "LP（アナログレコード）",
+      "catalogNumber": "L-12553"
     },
     {
       "id": "live-invite-1984-006",
@@ -7549,13 +7579,23 @@
       "releaseTitle": "ふたりの愛ランド",
       "status": "released",
       "verification": "primary",
-      "note": "石川優子とチャゲ名義のデュエット曲",
+      "note": "石川優子とチャゲ名義のデュエット曲\n【第31回・初発売EP規格品番補完】「石川優子とチャゲ」名義で1984年4月21日発売。7インチEP／ラジオシティ／RD-4084。収録曲は「ふたりの愛ランド」「渚の誓い」。CHAGE and ASKA本体名義ではなくChageの参加作品として登録（元の名義欄は維持）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "記憶の記録LIBRARY（日本音楽制作者連盟・作品情報）",
+          "url": "https://www.kiokunokiroku.jp/artist/000200/archive/005339"
+        },
+        {
+          "label": "参考資料（非公式・7インチ盤の照合）",
+          "url": "https://www.stereo-records.com/detail.php?itemCd=84617"
         }
-      ]
+      ],
+      "format": "7インチシングルレコード（EP）",
+      "catalogNumber": "RD-4084"
     },
     {
       "id": "live-invite-1984-017",
@@ -7587,11 +7627,19 @@
       "releaseTitle": "GOOD TIMES",
       "status": "released",
       "verification": "primary",
-      "note": "映像作品",
+      "note": "映像作品\n【第31回・公式資料の相違（要原典確認）】作品『GOOD TIMES 代々木LIVE』の発売日はC&A公式HISTORYが1984年4月25日、公式ディスコグラフィーが1984年4月1日と記載。現時点では既存の日付（4月25日）を変更しない。公式ディスコグラフィーに製品番号10PV-14の記載があるが、別作品『ONESIDE GAME』の公式ページにも同じ番号が記載されるため、この記録への品番追加は保留。現物の裏面・帯・発売案内で確認が必要。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（4月1日・品番記載）",
+          "url": "https://www.chage-aska.net/discography/video/good_times.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（同番号の別映像作品）",
+          "url": "https://www.chage-aska.net/discography/video/oneside_game.php"
         }
       ]
     },
@@ -82608,7 +82656,26 @@
           "url": "https://www.suruga-ya.jp/product/detail/220021171"
         }
       ]
+    },
+    {
+      "id": "release-audit-v231-19830701-12pv3",
+      "date": "1983-07-01",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『THE夏祭り 大阪城LIVE』VTR発売",
+      "releaseTitle": "THE夏祭り 大阪城LIVE",
+      "format": "VTR（公式表記）",
+      "catalogNumber": "12PV-3",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第31回・1980年代映像作品追補】1983年7月1日発売のVTR映像作品。規格品番12PV-3はCHAGE and ASKA公式ディスコグラフィー記載。1982年の大阪城ライブ公演を収録した作品の発売記録であり、公演開催日、1983年の別ライブアルバム、2009年のDVD BOX再発売とは区別する。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー（発売日・規格・製品番号）",
+          "url": "https://www.chage-aska.net/discography/video/the_natsumatsuri.php"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.0.30"
+  "siteVersion": "2.0.31"
 }
