@@ -91,7 +91,7 @@
       toggle.textContent = expanded ? '詳細条件を閉じる' : '詳細条件を表示';
     };
     setExpanded(expandedInitially);
-    toggle.addEventListener('click', () => setExpanded(!expanded));
+    toggle.addEventListener('click', () => { setExpanded(!expanded); scheduleRender(); });
 
     let scheduled = false;
     const render = () => {
@@ -126,10 +126,12 @@
         });
         active.append(btn);
       }
-      const count = fields.filter(f=>f.extra).length;
+      const mode = expanded
+        ? '詳細条件を含むすべての検索項目を表示中'
+        : 'よく使う条件だけを表示中';
       summary.textContent = selected.length
-        ? selected.length + '件の条件・並び順を指定中' + (expanded?'':'（詳細は折りたたみ中）')
-        : 'よく使う条件だけを表示中' + (expanded?'（詳細条件も表示）':'');
+        ? '選択中の条件 ' + selected.length + '件 ／ ' + mode
+        : mode;
     };
     const scheduleRender = () => {
       if (scheduled) return;
