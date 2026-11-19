@@ -45020,16 +45020,21 @@
       "title": "『CHAGE and ASKA 25th Anniversary Special チャゲ&飛鳥 熱風コンサート』発売",
       "status": "released",
       "verification": "primary",
-      "note": "形態：DVD",
+      "note": "形態：DVD\n【第35回・2005〜2009年作品発売情報追補】媒体：DVD（2枚組）／製品番号：UMBK-1079/80。品番確認：発売元・アーティスト公式資料。既登録品番を保持し、DVDという媒体を補完。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売情報）",
+          "url": "https://www.chage-aska.net/discography/video/neppu.php"
         }
       ],
       "releaseTitle": "CHAGE and ASKA 25th Anniversary Special チャゲ&飛鳥 熱風コンサート",
       "catalogNumber": "UMBK-1079/80",
-      "releaseFormat": "DVD（2枚組）"
+      "releaseFormat": "DVD（2枚組）",
+      "format": "DVD（2枚組）"
     },
     {
       "id": "media-v18214-2005-002",
@@ -45307,16 +45312,21 @@
       "title": "『SCENE I&II limited edition』発売",
       "status": "released",
       "verification": "primary",
-      "note": "形態：アルバム",
+      "note": "形態：アルバム\n【第35回・2005〜2009年作品発売情報追補】媒体：2CD＋DVD（限定盤）／製品番号：UMCK-9131。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売情報）",
+          "url": "https://www.universal-music.co.jp/chage-and-aska/products/umck-9131/"
         }
       ],
       "releaseTitle": "SCENE I&II limited edition",
       "catalogNumber": "UMCK-9131",
-      "releaseFormat": "CD（2枚）＋DVD（限定盤）"
+      "releaseFormat": "CD（2枚）＋DVD（限定盤）",
+      "format": "2CD＋DVD（限定盤）"
     },
     {
       "id": "release-2005-11-23-scene-iii",
@@ -45326,16 +45336,21 @@
       "title": "『SCENE III』発売",
       "status": "released",
       "verification": "primary",
-      "note": "形態：アルバム",
+      "note": "形態：アルバム\n【第35回・2005〜2009年作品発売情報追補】媒体：CD（通常盤）／製品番号：UMCK-1199。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売情報）",
+          "url": "https://www.universal-music.co.jp/chage-and-aska/products/umck-1199/"
         }
       ],
       "releaseTitle": "SCENE III",
       "catalogNumber": "UMCK-1199",
-      "releaseFormat": "CD（通常盤）"
+      "releaseFormat": "CD（通常盤）",
+      "format": "CD（通常盤）"
     },
     {
       "id": "release-audit-v2013-2005-umck-9130",
@@ -45348,13 +45363,14 @@
       "releaseFormat": "CD＋DVD（初回限定盤）",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：CD＋DVD初回限定盤。発売日：2005-11-23。規格品番：UMCK-9130。DVDには「birth」「心に花の咲く方へ」のPVを収録。通常盤（UMCK-1199）とは別商品。",
+      "note": "作品形態：CD＋DVD初回限定盤。発売日：2005-11-23。規格品番：UMCK-9130。DVDには「birth」「心に花の咲く方へ」のPVを収録。通常盤（UMCK-1199）とは別商品。\n【第35回・2005〜2009年作品発売情報追補】媒体：CD＋DVD（初回限定盤）／製品番号：UMCK-9130。品番確認：発売元・アーティスト公式資料。同日発売の通常盤UMCK-1199とは別記録。",
       "sources": [
         {
           "label": "発売元公式商品情報",
           "url": "https://www.universal-music.co.jp/p/umck-9130/"
         }
-      ]
+      ],
+      "format": "CD＋DVD（初回限定盤）"
     },
     {
       "id": "media-v18214-2005-004",
@@ -45956,7 +45972,7 @@
       "title": "『CHAGE and ASKA CONCERT TOUR 2004 two-five』一般発売",
       "status": "released",
       "verification": "primary",
-      "note": "ライブDVDの一般発売。2005年8月25日のファンクラブ限定版とは発売形態・発売日が異なるため別記録。公式ディスコグラフィー確認済み。",
+      "note": "ライブDVDの一般発売。2005年8月25日のファンクラブ限定版とは発売形態・発売日が異なるため別記録。公式ディスコグラフィー確認済み。\n【第35回・2005〜2009年作品発売情報追補】媒体：DVD（通常盤）／製品番号：UMBK-1094。品番確認：発売元・アーティスト公式資料。FC限定版・初回限定盤とは区別。",
       "sources": [
         {
           "label": "公式資料",
@@ -45969,7 +45985,8 @@
       ],
       "releaseTitle": "CHAGE and ASKA CONCERT TOUR 2004 two-five",
       "releaseFormat": "DVD（一般発売盤）",
-      "catalogNumber": "UMBK-1094"
+      "catalogNumber": "UMBK-1094",
+      "format": "DVD（通常盤）"
     },
     {
       "id": "release-audit-v2014-2006-umbk-9138",
@@ -45982,13 +45999,14 @@
       "releaseFormat": "DVD（2枚）＋CD（初回限定盤）",
       "status": "released",
       "verification": "primary",
-      "note": "一般発売DVD（UMBK-1094）と同日発売された初回限定盤。付属ライブCDを含む3枚組。2005年8月25日のファンクラブ限定盤とは区別。",
+      "note": "一般発売DVD（UMBK-1094）と同日発売された初回限定盤。付属ライブCDを含む3枚組。2005年8月25日のファンクラブ限定盤とは区別。\n【第35回・2005〜2009年作品発売情報追補】媒体：DVD＋CD（初回限定盤）／製品番号：UMBK-9138。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "発売元公式商品情報",
           "url": "https://www.universal-music.co.jp/chage-and-aska/products/umbk-9138/"
         }
-      ]
+      ],
+      "format": "DVD＋CD（初回限定盤）"
     },
     {
       "id": "live-my-game-is-aska-2005-2006-019",
@@ -46433,7 +46451,7 @@
       "title": "『ASKA CONCERT TOUR 05>>06 My Game is ASKA』発売",
       "status": "released",
       "verification": "primary",
-      "note": "形態：DVD",
+      "note": "形態：DVD\n【第35回・2005〜2009年作品発売情報追補】媒体：DVD／製品番号：UMBK-1098。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -46446,7 +46464,8 @@
       ],
       "releaseTitle": "ASKA CONCERT TOUR 05>>06 My Game is ASKA",
       "releaseFormat": "DVD（2枚組）",
-      "catalogNumber": "UMBK-1098"
+      "catalogNumber": "UMBK-1098",
+      "format": "DVD"
     },
     {
       "id": "live-ca-point-green-2006",
@@ -46533,14 +46552,20 @@
       "title": "『Here&There』発売",
       "status": "released",
       "verification": "primary",
-      "note": "形態：シングル",
+      "note": "形態：シングル\n【第35回・2005〜2009年作品発売情報追補】媒体：CDシングル（限定盤）／製品番号：UMCK-9156。品番確認：発売元・アーティスト公式資料。同日発売『Man and Woman』と品番が異なる。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売情報）",
+          "url": "https://www.chage-aska.net/discography/single/here_and_there.php"
         }
       ],
-      "releaseTitle": "Here&There"
+      "releaseTitle": "Here&There",
+      "catalogNumber": "UMCK-9156",
+      "format": "CDシングル（限定盤）"
     },
     {
       "id": "release-2007-01-10-man-and-woman",
@@ -46550,14 +46575,20 @@
       "title": "『Man and Woman』発売",
       "status": "released",
       "verification": "primary",
-      "note": "形態：シングル",
+      "note": "形態：シングル\n【第35回・2005〜2009年作品発売情報追補】媒体：CDシングル（限定盤）／製品番号：UMCK-9155。品番確認：発売元・アーティスト公式資料。同日発売『Here&There』と品番が異なる。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売情報）",
+          "url": "https://www.chage-aska.net/discography/single/man_and_woman.php"
         }
       ],
-      "releaseTitle": "Man and Woman"
+      "releaseTitle": "Man and Woman",
+      "catalogNumber": "UMCK-9155",
+      "format": "CDシングル（限定盤）"
     },
     {
       "id": "release-2007-01-24-double",
@@ -46567,7 +46598,7 @@
       "title": "『DOUBLE』発売",
       "status": "released",
       "verification": "primary",
-      "note": "形態：アルバム",
+      "note": "形態：アルバム\n【第35回・2005〜2009年作品発売情報追補】媒体：CD（アルバム）／製品番号：UMCK-1217。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -46576,11 +46607,16 @@
         {
           "label": "発売元公式商品情報",
           "url": "https://www.universal-music.co.jp/chage-and-aska/products/umck-1217/"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売情報）",
+          "url": "https://www.chage-aska.net/discography/album/double.php"
         }
       ],
       "releaseTitle": "DOUBLE",
       "releaseFormat": "CD",
-      "catalogNumber": "UMCK-1217"
+      "catalogNumber": "UMCK-1217",
+      "format": "CD（アルバム）"
     },
     {
       "id": "release-2007-01-24-double-dvd",
@@ -46590,7 +46626,7 @@
       "title": "『DOUBLE DVD』発売",
       "status": "released",
       "verification": "primary",
-      "note": "形態：ビデオクリップ集DVD",
+      "note": "形態：ビデオクリップ集DVD\n【第35回・2005〜2009年作品発売情報追補】媒体：DVD（ビデオクリップ集）／製品番号：UMBK-1116。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -46599,11 +46635,16 @@
         {
           "label": "発売元公式商品情報",
           "url": "https://www.universal-music.co.jp/chage-and-aska/products/umbk-1116/"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売情報）",
+          "url": "https://www.chage-aska.net/discography/video/double_dvd.php"
         }
       ],
       "releaseTitle": "DOUBLE DVD",
       "releaseFormat": "DVD",
-      "catalogNumber": "UMBK-1116"
+      "catalogNumber": "UMBK-1116",
+      "format": "DVD（ビデオクリップ集）"
     },
     {
       "id": "media-v18231-2007-01-27-chageandaska-001",
@@ -47776,7 +47817,7 @@
       "title": "『CHAGE and ASKA Concert tour 2007 DOUBLE』発売",
       "status": "released",
       "verification": "primary",
-      "note": "形態：DVD",
+      "note": "形態：DVD\n【第35回・2005〜2009年作品発売情報追補】媒体：DVD（2枚組）／製品番号：POBS-10001/2。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -47785,11 +47826,16 @@
         {
           "label": "商品情報（二次資料・規格品番）",
           "url": "https://contents.oricon.co.jp/prof/4069/products/720159/1/"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売情報）",
+          "url": "https://www.chage-aska.net/discography/video/2007_double.php"
         }
       ],
       "releaseTitle": "CHAGE and ASKA Concert tour 2007 DOUBLE",
       "releaseFormat": "DVD（2枚組）",
-      "catalogNumber": "POBS-10001/2"
+      "catalogNumber": "POBS-10001/2",
+      "format": "DVD（2枚組）"
     },
     {
       "id": "live-aska-hattori-2007",
@@ -48272,7 +48318,7 @@
       "releaseTitle": "CHAGE and ASKA Concert 2007 alive in live",
       "status": "released",
       "verification": "primary",
-      "note": "ライブDVD",
+      "note": "ライブDVD\n【第35回・2005〜2009年作品発売情報追補】媒体：DVD／製品番号：POBD-22001。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
@@ -48284,7 +48330,8 @@
         }
       ],
       "releaseFormat": "DVD",
-      "catalogNumber": "POBD-22001"
+      "catalogNumber": "POBD-22001",
+      "format": "DVD"
     },
     {
       "id": "live-aska-scene-2008-003",
@@ -48422,7 +48469,7 @@
       "releaseTitle": "waltz",
       "status": "released",
       "verification": "primary",
-      "note": "シングル",
+      "note": "シングル\n【第35回・2005〜2009年作品発売情報追補】媒体：CD MAXI／製品番号：UMCK-5218。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
@@ -48431,10 +48478,15 @@
         {
           "label": "発売元公式ディスコグラフィー",
           "url": "https://www.universal-music.co.jp/chage/discography/page/7/"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売情報）",
+          "url": "https://www.universal-music.co.jp/chage/products/umck-5218/"
         }
       ],
       "releaseFormat": "CD MAXI",
-      "catalogNumber": "UMCK-5218"
+      "catalogNumber": "UMCK-5218",
+      "format": "CD MAXI"
     },
     {
       "id": "live-aska-scene-2008-006",
@@ -48487,13 +48539,19 @@
       "releaseTitle": "UNI-VERSE",
       "status": "released",
       "verification": "primary",
-      "note": "シングル",
+      "note": "シングル\n【第35回・2005〜2009年作品発売情報追補】媒体：CDシングル／製品番号：UMCK-5220。品番確認：作品商品情報（二次資料）。発売日・品番を商品データベースで確認。一次資料の品番記載は未照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "参考資料（二次資料・商品情報）",
+          "url": "https://www.billboard-japan.com/goods/detail/230169"
         }
-      ]
+      ],
+      "catalogNumber": "UMCK-5220",
+      "format": "CDシングル"
     },
     {
       "id": "live-aska-scene-2008-008",
@@ -48525,7 +48583,7 @@
       "releaseTitle": "アイシテル",
       "status": "released",
       "verification": "primary",
-      "note": "アルバム",
+      "note": "アルバム\n【第35回・2005〜2009年作品発売情報追補】媒体：CD（アルバム・通常盤）／製品番号：UMCK-1274。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
@@ -48537,7 +48595,8 @@
         }
       ],
       "releaseFormat": "CD（通常盤）",
-      "catalogNumber": "UMCK-1274"
+      "catalogNumber": "UMCK-1274",
+      "format": "CD（アルバム・通常盤）"
     },
     {
       "id": "release-audit-v2014-2008-umck-9244",
@@ -48550,13 +48609,14 @@
       "releaseFormat": "CD＋DVD（初回限定盤）",
       "status": "released",
       "verification": "primary",
-      "note": "通常盤UMCK-1274とは異なるDVD付き初回限定盤。DVDに「waltz」ミュージックビデオとメイキングを収録。",
+      "note": "通常盤UMCK-1274とは異なるDVD付き初回限定盤。DVDに「waltz」ミュージックビデオとメイキングを収録。\n【第35回・2005〜2009年作品発売情報追補】媒体：CD＋DVD（初回限定盤）／製品番号：UMCK-9244。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "発売元公式商品情報",
           "url": "https://www.universal-music.co.jp/chage/products/umck-9244/"
         }
-      ]
+      ],
+      "format": "CD＋DVD（初回限定盤）"
     },
     {
       "id": "live-aska-scene-2008-009",
@@ -49062,7 +49122,7 @@
       "releaseTitle": "CHAGE and ASKA VERY BEST NOTHING BUT C&A",
       "status": "released",
       "verification": "primary",
-      "note": "ベストアルバム",
+      "note": "ベストアルバム\n【第35回・2005〜2009年作品発売情報追補】媒体：CD（ベストアルバム）／製品番号：UMCK-1296。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
@@ -49074,7 +49134,8 @@
         }
       ],
       "releaseFormat": "CD",
-      "catalogNumber": "UMCK-1296"
+      "catalogNumber": "UMCK-1296",
+      "format": "CD（ベストアルバム）"
     },
     {
       "id": "release-2009-anatagа-naku-koto-wa-nai",
@@ -49085,13 +49146,19 @@
       "releaseTitle": "あなたが泣くことはない",
       "status": "released",
       "verification": "primary",
-      "note": "シングル",
+      "note": "シングル\n【第35回・2005〜2009年作品発売情報追補】媒体：CDシングル／製品番号：UMCK-5231。品番確認：作品商品情報（二次資料）。品番は商品データベースで確認。発売元一次資料の品番記載は別途確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "参考資料（二次資料・商品情報）",
+          "url": "https://tower.jp/artist/254933"
         }
-      ]
+      ],
+      "catalogNumber": "UMCK-5231",
+      "format": "CDシングル"
     },
     {
       "id": "release-2009-scene-dvd",
@@ -49102,7 +49169,7 @@
       "releaseTitle": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
       "status": "released",
       "verification": "primary",
-      "note": "ライブDVD",
+      "note": "ライブDVD\n【第35回・2005〜2009年作品発売情報追補】媒体：DVD／製品番号：POBD-22003。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
@@ -49114,7 +49181,8 @@
         }
       ],
       "releaseFormat": "DVD（2枚組）",
-      "catalogNumber": "POBD-22003"
+      "catalogNumber": "POBD-22003",
+      "format": "DVD"
     },
     {
       "id": "live-extra-2009-super-generation-01",
@@ -49200,7 +49268,7 @@
       "releaseTitle": "Many Happy Returns",
       "status": "released",
       "verification": "primary",
-      "note": "アルバム",
+      "note": "アルバム\n【第35回・2005〜2009年作品発売情報追補】媒体：CD（アルバム・通常盤）／製品番号：UMCK-1299。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
@@ -49212,7 +49280,8 @@
         }
       ],
       "releaseFormat": "CD（通常盤）",
-      "catalogNumber": "UMCK-1299"
+      "catalogNumber": "UMCK-1299",
+      "format": "CD（アルバム・通常盤）"
     },
     {
       "id": "release-audit-v2014-2009-umck-9273",
@@ -49225,13 +49294,14 @@
       "releaseFormat": "CD＋DVD（初回限定盤）",
       "status": "released",
       "verification": "primary",
-      "note": "通常盤UMCK-1299とは異なるDVD付き初回限定盤。DVDにSPECIAL INTERVIEWを収録。",
+      "note": "通常盤UMCK-1299とは異なるDVD付き初回限定盤。DVDにSPECIAL INTERVIEWを収録。\n【第35回・2005〜2009年作品発売情報追補】媒体：CD＋DVD（初回限定盤）／製品番号：UMCK-9273。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "発売元公式商品情報",
           "url": "https://www.universal-music.co.jp/chage/products/umck-9273/"
         }
-      ]
+      ],
+      "format": "CD＋DVD（初回限定盤）"
     },
     {
       "id": "live-aska-walk-2009-002",
@@ -49919,7 +49989,7 @@
       "releaseTitle": "CHAGE CONCERT TOUR 2008 アイシテル",
       "status": "released",
       "verification": "primary",
-      "note": "ライブDVD",
+      "note": "ライブDVD\n【第35回・2005〜2009年作品発売情報追補】媒体：DVD／製品番号：POBD-22005。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
@@ -49931,7 +50001,8 @@
         }
       ],
       "releaseFormat": "DVD",
-      "catalogNumber": "POBD-22005"
+      "catalogNumber": "POBD-22005",
+      "format": "DVD"
     },
     {
       "id": "live-aska-walk-2009-020",
@@ -50762,7 +50833,7 @@
       "releaseTitle": "CHAGE and ASKA LIVE DVD BOX 1",
       "status": "released",
       "verification": "primary",
-      "note": "ライブDVD BOX",
+      "note": "ライブDVD BOX\n【第35回・2005〜2009年作品発売情報追補】媒体：DVD BOX（3枚組）／製品番号：YCBR-10001〜3。品番確認：発売元・アーティスト公式資料。登録済みのまとめ表記を維持。個別ディスク品番を新規レコード化しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
@@ -50774,7 +50845,8 @@
         }
       ],
       "releaseFormat": "DVD BOX（3枚組）",
-      "catalogNumber": "YCBR-10001〜3"
+      "catalogNumber": "YCBR-10001〜3",
+      "format": "DVD BOX（3枚組）"
     },
     {
       "id": "release-v18216-2009-001",
@@ -51021,7 +51093,7 @@
       "title": "『CHAGE and ASKA LIVE DVD BOX 2』発売",
       "status": "released",
       "verification": "primary",
-      "note": "ライブ映像作品のDVD BOX第2弾。第3弾とは別作品。",
+      "note": "ライブ映像作品のDVD BOX第2弾。第3弾とは別作品。\n【第35回・2005〜2009年作品発売情報追補】媒体：DVD BOX（3枚組）／製品番号：YCBR-10004〜6。品番確認：発売元・アーティスト公式資料。既存の品番表記と媒体を補完。",
       "sources": [
         {
           "label": "公式資料",
@@ -51033,7 +51105,8 @@
         }
       ],
       "releaseFormat": "DVD BOX（3枚組）",
-      "catalogNumber": "YCBR-10004〜6"
+      "catalogNumber": "YCBR-10004〜6",
+      "format": "DVD BOX（3枚組）"
     },
     {
       "id": "release-v18216-2009-003",
@@ -51043,7 +51116,7 @@
       "title": "『CHAGE and ASKA LIVE DVD BOX 3』発売",
       "status": "released",
       "verification": "primary",
-      "note": "ライブ映像作品のDVD BOX第3弾。第2弾とは別作品。",
+      "note": "ライブ映像作品のDVD BOX第3弾。第2弾とは別作品。\n【第35回・2005〜2009年作品発売情報追補】媒体：DVD BOX（3枚組）／製品番号：YCBR-10007〜9。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "公式資料",
@@ -51055,7 +51128,8 @@
         }
       ],
       "releaseFormat": "DVD BOX（3枚組）",
-      "catalogNumber": "YCBR-10007〜9"
+      "catalogNumber": "YCBR-10007〜9",
+      "format": "DVD BOX（3枚組）"
     },
     {
       "id": "release-v18216-2009-004",
@@ -51573,7 +51647,7 @@
       "releaseTitle": "ASKA CONCERT TOUR 2009 WALK",
       "status": "released",
       "verification": "primary",
-      "note": "ライブDVD",
+      "note": "ライブDVD\n【第35回・2005〜2009年作品発売情報追補】媒体：DVD（2枚組）／製品番号：POBD-22007/8。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
@@ -51585,7 +51659,8 @@
         }
       ],
       "releaseFormat": "DVD（2枚組）",
-      "catalogNumber": "POBD-22007/8"
+      "catalogNumber": "POBD-22007/8",
+      "format": "DVD（2枚組）"
     },
     {
       "id": "release-v18216-2009-007",
@@ -51595,7 +51670,7 @@
       "title": "『STANDARD』発売",
       "status": "released",
       "verification": "primary",
-      "note": "ASKAミニアルバム。2009年発売の『WALK』ライブDVDとは別作品。",
+      "note": "ASKAミニアルバム。2009年発売の『WALK』ライブDVDとは別作品。\n【第35回・2005〜2009年作品発売情報追補】媒体：CD（ミニアルバム）／製品番号：UMCK-1336。品番確認：発売元・アーティスト公式資料。初発売・再発売・同作品の別規格を混同しない。",
       "sources": [
         {
           "label": "公式資料",
@@ -51604,11 +51679,16 @@
         {
           "label": "発売元公式ディスコグラフィー",
           "url": "https://www.universal-music.co.jp/chage-and-aska/discography/"
+        },
+        {
+          "label": "公式ディスコグラフィー（発売情報）",
+          "url": "https://www.universal-music.co.jp/chage-and-aska/products/umck-1336/"
         }
       ],
       "releaseTitle": "STANDARD",
       "releaseFormat": "CD（ミニアルバム）",
-      "catalogNumber": "UMCK-1336"
+      "catalogNumber": "UMCK-1336",
+      "format": "CD（ミニアルバム）"
     },
     {
       "id": "live-chage-hosomichi-2009-034",
@@ -82945,5 +83025,5 @@
       ]
     }
   ],
-  "siteVersion": "2.0.34"
+  "siteVersion": "2.0.35"
 }
