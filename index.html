@@ -58,6 +58,13 @@
 .year-only-section[hidden]{display:none!important}
 /* /YEAR_ONLY_RECORDS_V2029 */
 </style>
+<style id="ca54-release-works-style">
+/* CA54: concise work list for multi-item release records */
+.ca-release-works{margin:.7rem 0 .9rem;padding:10px 13px;border-left:3px solid #e8bc73;border-radius:4px;background:#233753;color:#e5edf8;font-size:.96rem;line-height:1.8;overflow-wrap:anywhere}
+.ca-release-works strong{color:#ffe1a6}
+.ca-release-summary .ca-release-list dd{white-space:pre-wrap;overflow-wrap:anywhere}
+@media(max-width:600px){.ca-release-works{font-size:.92rem;padding:9px 11px}}
+</style>
 </head>
 <body>
 <div class="ambient"></div>
@@ -140,7 +147,7 @@
     var version=archive.siteVersion||archive.version||'1.8.2';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.2.2.1 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.2.2.2 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();
@@ -299,7 +306,7 @@ document.addEventListener('DOMContentLoaded',function(){
  const niceDate=d=>{const m=String(d||'').match(/^(\d{4})-(\d{2})-(\d{2})$/);return m?Number(m[1])+'年'+Number(m[2])+'月'+Number(m[3])+'日':String(d||'');};
  const groups=[
   ['発売情報',[
-    ['date','発売日'],['releaseTitle','作品名'],['releaseType','発売区分'],['releaseKind','発売区分（補足）'],
+    ['date','発売日'],['releaseTitle','作品名'],['releaseTitles','対象作品（複数）'],['releaseType','発売区分'],['releaseKind','発売区分（補足）'],
     ['releaseDate','発売日の登録値'],['originalReleaseDate','初発売日'],['isReissue','再発売'],['reissueOf','元の版']
   ]],
   ['規格・規格品番',[
@@ -338,8 +345,12 @@ document.addEventListener('DOMContentLoaded',function(){
  // Related editions are linked only when the artist AND structured releaseTitle match exactly.
  const work=typeof e.releaseTitle==='string'?e.releaseTitle.normalize('NFKC').trim():'';
  if(!work)return;
- const related=records.filter(x=>x.category==='release'&&String(x.artist||'')===String(e.artist||'')&&
-  typeof x.releaseTitle==='string'&&x.releaseTitle.normalize('NFKC').trim()===work&&String(x.id)!==id)
+ const related=records.filter(x=>{
+  if(x.category!=='release'||String(x.artist||'')!==String(e.artist||'')||String(x.id)===id)return false;
+  const single=typeof x.releaseTitle==='string'&&x.releaseTitle.normalize('NFKC').trim()===work;
+  const grouped=Array.isArray(x.releaseTitles)&&x.releaseTitles.some(t=>typeof t==='string'&&t.normalize('NFKC').trim()===work);
+  return single||grouped;
+ })
   .sort((a,b)=>String(a.date||'').localeCompare(String(b.date||''))||String(a.id).localeCompare(String(b.id)));
  if(!related.length)return;
  const section=make('section','ca-detail-section ca-release-related');
