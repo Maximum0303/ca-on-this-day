@@ -80818,7 +80818,87 @@
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/229"
         }
       ]
+    },
+    {
+      "id": "release-audit-20261119-2017-1101-ca-download",
+      "date": "2017-11-01",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "旧作約300曲のダウンロード販売追加",
+      "status": "released",
+      "verification": "primary",
+      "releaseTitle": "CHAGE and ASKA旧作音源（配信対象作品）",
+      "releaseType": "旧作ダウンロード販売追加",
+      "format": "デジタル・ダウンロード",
+      "note": "2017年11月1日、CHAGE and ASKAの1979〜2000年発売のシングル・アルバムなど約300曲が音楽配信サイトのダウンロード販売に追加された。ヤマハミュージックコミュニケーションズの2017年10月31日公式告知による。既存CDの新規プレス・再発売日ではなく、デジタル販売の追加日として登録。",
+      "sources": [
+        {
+          "label": "発売元公式・音楽配信楽曲追加のお知らせ",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/news/detail/897"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-20261119-2024-0825-ca-streaming-first",
+      "date": "2024-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『VERY BEST ROLL OVER 20TH』サブスク配信開始",
+      "status": "released",
+      "verification": "primary",
+      "releaseTitle": "CHAGE&ASKA VERY BEST ROLL OVER 20TH",
+      "releaseType": "旧作ストリーミング配信開始（先行第1弾）",
+      "format": "サブスクリプション配信",
+      "note": "CHAGE and ASKAデビュー45周年の2024年8月25日、1999年発売のベストアルバム『VERY BEST ROLL OVER 20TH』のストリーミング配信が開始。CDの初発売日・2017年のダウンロード販売再開とは区別。残りのアルバム・シングルは2024年10月1日に解禁。",
+      "sources": [
+        {
+          "label": "C&A公式・45周年サブスク解禁案内",
+          "url": "https://www.chage-aska.net/information/2024082501.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-20261119-2024-1001-ca-streaming-all",
+      "date": "2024-10-01",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "旧作アルバム・シングルのサブスク配信解禁",
+      "status": "released",
+      "verification": "primary",
+      "releaseTitle": "CHAGE and ASKA旧作アルバム・シングル（配信対象作品）",
+      "releaseType": "旧作ストリーミング配信開始（残りの作品）",
+      "format": "サブスクリプション配信",
+      "note": "2024年10月1日、8月25日に先行配信された『VERY BEST ROLL OVER 20TH』を除くCHAGE and ASKAの旧作アルバム・シングルが主要サブスクリプションサービスで配信開始。Chage公式の当日告知とCHAGE and ASKA公式の事前案内で確認。新規CD盤の発売日ではない。",
+      "sources": [
+        {
+          "label": "Chage公式・全楽曲サブスク解禁告知",
+          "url": "https://chage.jp/information/news/detail-661.php"
+        },
+        {
+          "label": "C&A公式・45周年サブスク解禁案内",
+          "url": "https://www.chage-aska.net/information/2024082501.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-20261119-2024-1224-aska-streaming",
+      "date": "2024-12-24",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "ヤマハ・ユニバーサル盤ソロ旧作のサブスク配信解禁",
+      "status": "released",
+      "verification": "primary",
+      "releaseTitle": "ASKAソロ旧作アルバム・シングル（配信対象作品）",
+      "releaseType": "旧作ストリーミング配信開始",
+      "format": "サブスクリプション配信",
+      "note": "2024年12月24日午前0時から、ASKAがヤマハおよびユニバーサルミュージックのレーベルで発売した旧作アルバム・シングルのサブスクリプション配信を解禁。『SCENE』『SCENE II』『SCENE III』等を含む。各作品のオリジナル発売日および2018年Remix版の発売日とは別の記録。",
+      "sources": [
+        {
+          "label": "ASKA公式Fellows・ソロ楽曲サブスク解禁告知",
+          "url": "https://www.fellows.tokyo/news/detail/328"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.0.17"
+  "siteVersion": "2.0.18"
 }
