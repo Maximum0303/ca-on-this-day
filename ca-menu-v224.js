@@ -1,4 +1,4 @@
-/* 今日はC&Aの何の日？ — Ver.2.2.4 左上メニュー。データ変更なし */
+/* 今日はC&Aの何の日？ — Ver.2.2.5向け目次ナビ修正（2.2.4を修正）。データ変更なし */
 (()=>{'use strict';
 const boot=()=>{
  const header=document.querySelector('.site-header');
@@ -24,7 +24,25 @@ const boot=()=>{
  const links=panel.querySelector('nav');const closeButton=panel.querySelector('button');let previous=null;
  const close=()=>{if(panel.hidden)return;panel.hidden=true;overlay.hidden=true;document.body.classList.remove('ca224-open');button.setAttribute('aria-expanded','false');button.setAttribute('aria-label','目次を開く');previous?.focus?.({preventScroll:true});};
  const open=()=>{if(!panel.hidden)return;previous=document.activeElement;buildLinks();panel.hidden=false;overlay.hidden=false;document.body.classList.add('ca224-open');button.setAttribute('aria-expanded','true');button.setAttribute('aria-label','目次を閉じる');closeButton.focus({preventScroll:true});};
- const buildLinks=()=>{links.replaceChildren();const src=index.querySelectorAll('.ca210-index-links a[href^="#"]');for(const item of src){const a=document.createElement('a');a.textContent=item.textContent.trim();const u=new URL('./',location.href);u.search='';u.hash=item.hash;a.href=u.href;a.addEventListener('click',close);links.append(a);}};
+ // 通常の目次移動はページ内アンカーだけを変更し、HTMLを再読込しない。
+ // 個別記録表示中（?event=...）はメイン画面へ戻って対象セクションを開く。
+ const buildLinks=()=>{
+  links.replaceChildren();
+  const src=index.querySelectorAll('.ca210-index-links a[href^="#"]');
+  const detailView=new URLSearchParams(location.search).has('event');
+  for(const item of src){
+   const a=document.createElement('a');
+   a.textContent=item.textContent.trim();
+   if(detailView){
+    const u=new URL('./',location.href);u.search='';u.hash=item.hash;
+    a.href=u.href;
+   }else{
+    a.href=item.hash; // 同一ページ内移動なのでリロード不要
+   }
+   a.addEventListener('click',close);
+   links.append(a);
+  }
+ };
  button.addEventListener('click',()=>panel.hidden?open():close());closeButton.addEventListener('click',close);overlay.addEventListener('click',close);
  document.addEventListener('keydown',e=>{if(panel.hidden)return;if(e.key==='Escape'){e.preventDefault();close();return;}if(e.key!=='Tab')return;const items=[closeButton,...links.querySelectorAll('a')];if(e.shiftKey&&document.activeElement===items[0]){e.preventDefault();items.at(-1).focus();}else if(!e.shiftKey&&document.activeElement===items.at(-1)){e.preventDefault();items[0].focus();}});
  header.prepend(button);document.body.append(overlay,panel);document.body.classList.add('ca224-ready');buildLinks();
