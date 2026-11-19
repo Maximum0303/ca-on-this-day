@@ -7657,7 +7657,7 @@
       "releaseTitle": "GOOD TIMES",
       "status": "released",
       "verification": "primary",
-      "note": "映像作品\n【第31回・公式資料の相違（要原典確認）】作品『GOOD TIMES 代々木LIVE』の発売日はC&A公式HISTORYが1984年4月25日、公式ディスコグラフィーが1984年4月1日と記載。現時点では既存の日付（4月25日）を変更しない。公式ディスコグラフィーに製品番号10PV-14の記載があるが、別作品『ONESIDE GAME』の公式ページにも同じ番号が記載されるため、この記録への品番追加は保留。現物の裏面・帯・発売案内で確認が必要。\n【第45回・規格品番全件点検】規格品番欄へ10PV-14を補完。発売元・公式資料による照合。注意：公式商品ページは1984/4/1、公式HISTORYは4/25の発売日とされ、発売日原典確認が必要。現行日付は変更しない。",
+      "note": "映像作品\n【第31回・公式資料の相違（要原典確認）】作品『GOOD TIMES 代々木LIVE』の発売日はC&A公式HISTORYが1984年4月25日、公式ディスコグラフィーが1984年4月1日と記載。現時点では既存の日付（4月25日）を変更しない。公式ディスコグラフィーに製品番号10PV-14の記載があるが、別作品『ONESIDE GAME』の公式ページにも同じ番号が記載されるため、この記録への品番追加は保留。現物の裏面・帯・発売案内で確認が必要。\n【第45回・規格品番全件点検】規格品番欄へ10PV-14を補完。発売元・公式資料による照合。注意：公式商品ページは1984/4/1、公式HISTORYは4/25の発売日とされ、発売日原典確認が必要。現行日付は変更しない。\n【第46回・当時資料との照合】1994年ポニーキャニオンの映像作品一覧では『ONESIDE GAME』VHSをV98M-1431、LDをG88M-0146と明記。『GOOD TIMES』公式商品ページの10PV-14と別品番であることを確認。一方、本作の公式HISTORY（4月25日）と商品ページ（4月1日）の発売日相違は原典確認待ち。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -7673,7 +7673,7 @@
         }
       ],
       "catalogNumberStatus": "confirmed_primary",
-      "catalogNumberStatusNote": "注意：公式商品ページは1984/4/1、公式HISTORYは4/25の発売日とされ、発売日原典確認が必要。現行日付は変更しない",
+      "catalogNumberStatusNote": "公式品番10PV-14。発売日の公式記載相違は保留。ONESIDE GAMEの当時資料のVHS品番と区別する。",
       "catalogNumber": "10PV-14",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/video/good_times.php",
@@ -12468,7 +12468,7 @@
       "releaseTitle": "ONESIDE GAME",
       "status": "released",
       "verification": "primary",
-      "note": "映像作品\n【1985〜1989年・初発売規格品番補完】 VTR（発売元公式表記） 10PV-14（公式製品番号）。後年の再発売盤とは区別。",
+      "note": "映像作品\n【1985〜1989年・初発売規格品番補完】 VTR（発売元公式表記） 10PV-14（公式製品番号）。後年の再発売盤とは区別。\n【第46回・規格品番訂正】1994年ポニーキャニオン販促資料に基づき、VHS品番を10PV-14からV98M-1431に変更。LDのG88M-0146は別規格として登録。公式Webの記載との相違は引き続き履歴に保存。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -12477,10 +12477,22 @@
         {
           "label": "公式ディスコグラフィー（製品番号）",
           "url": "https://www.chage-aska.net/discography/video/oneside_game.php"
+        },
+        {
+          "label": "参考資料（VHS品番の販売記録）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/938006444"
+        },
+        {
+          "label": "1994年ポニーキャニオン当時の「DISCOGRAPHY VIDEO&LD」販促資料（所蔵画像による照合）"
         }
       ],
-      "catalogNumber": "10PV-14",
-      "format": "VTR（発売元公式表記）"
+      "catalogNumber": "V98M-1431",
+      "format": "VHS（1986年発売盤）",
+      "releaseFormat": "VHS（1986年発売盤）",
+      "catalogNumberVerification": "primary",
+      "catalogNumberStatus": "confirmed_primary",
+      "catalogNumberStatusNote": "1994年ポニーキャニオン当時の資料にVHS V98M-1431、LD G88M-0146と記載。公式Web掲載の10PV-14は同資料と矛盾する。LDは別記録。",
+      "catalogNumberSourceUrl": "https://www.suruga-ya.jp/kaitori/kaitori_detail/938006444"
     },
     {
       "id": "media-v18-1986-030",
@@ -19368,7 +19380,7 @@
       "releaseTitle": "CHAGE and ASKA HISTORY II ～PRIDE～",
       "status": "released",
       "verification": "primary",
-      "note": "ビデオ\n【第45回・規格品番全件点検】規格品番欄へPCUP-10149を補完。発売元・公式資料による照合。",
+      "note": "ビデオ\n【第45回・規格品番全件点検】規格品番欄へPCUP-10149を補完。発売元・公式資料による照合。\n【第46回・品番表記差異／確認保留】公式WebはPCUP-10149、1994年ポニーキャニオン販促資料はPCVP-10149と記載。既存のPCUP-10149を維持し、現物確認まで自動訂正しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
@@ -23301,14 +23313,14 @@
     },
     {
       "id": "release-1990-1992-018",
-      "date": "1991-12-13",
+      "date": "1991-11-21",
       "artist": "CHAGE and ASKA",
       "category": "release",
       "title": "『TREE』発売",
       "releaseTitle": "TREE",
       "status": "released",
       "verification": "primary",
-      "note": "ビデオ\n【第45回・規格品番全件点検】規格品番欄へPCVP-50670を補完。発売元・公式資料による照合。要再確認：公式商品ページの発売日1991/11/21と既存登録1991/12/13が相違。日付は変更せず品番のみ添付。",
+      "note": "ビデオ\n【第45回・規格品番全件点検】規格品番欄へPCVP-50670を補完。発売元・公式資料による照合。要再確認：公式商品ページの発売日1991/11/21と既存登録1991/12/13が相違。日付は変更せず品番のみ添付。\n【第46回・発売日訂正】旧日付1991/12/13を、公式映像作品紹介の1991/11/21へ訂正。1994年ポニーキャニオン販促資料でもTREEのLD初発売1991/11/21を確認。既存IDは維持。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
@@ -23320,7 +23332,7 @@
         }
       ],
       "catalogNumberStatus": "confirmed_primary",
-      "catalogNumberStatusNote": "要再確認：公式商品ページの発売日1991/11/21と既存登録1991/12/13が相違。日付は変更せず品番のみ添付",
+      "catalogNumberStatusNote": "公式映像作品ページに1991/11/21・PCVP-50670。当時資料でも1991/11/21の発売を照合。",
       "catalogNumber": "PCVP-50670",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/video/tree.php",
@@ -85404,7 +85416,301 @@
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。"
+    },
+    {
+      "id": "release-audit-v206-19861021-oneside-game-ld",
+      "date": "1986-10-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『ONESIDE GAME』LD盤発売",
+      "releaseTitle": "ONESIDE GAME",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第46回・当時資料による追加】1994年9月21日ポニーキャニオン「CHAGE&ASKA DISCOGRAPHY VIDEO&LD」記載。映像作品の既刊一覧に初発売日・LD品番の記載あり。既存のVHS・別仕様とは区別。",
+      "sources": [
+        {
+          "label": "1994年ポニーキャニオン当時の「DISCOGRAPHY VIDEO&LD」販促資料（所蔵画像による照合）"
+        }
+      ],
+      "releaseFormat": "LD（レーザーディスク・初発売盤）",
+      "catalogNumber": "G88M-0146",
+      "catalogNumberStatus": "confirmed_primary",
+      "catalogNumberVerification": "primary",
+      "catalogNumberStatusNote": "1994年ポニーキャニオン販促資料に媒体・発売日・規格品番が記載",
+      "releaseType": "format_variant"
+    },
+    {
+      "id": "release-audit-v206-19890321-walk-ld",
+      "date": "1989-03-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『WALK』LD盤発売",
+      "releaseTitle": "WALK",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第46回・当時資料による追加】1994年9月21日ポニーキャニオン「CHAGE&ASKA DISCOGRAPHY VIDEO&LD」記載。映像作品の既刊一覧に初発売日・LD品番の記載あり。既存のVHS・別仕様とは区別。",
+      "sources": [
+        {
+          "label": "1994年ポニーキャニオン当時の「DISCOGRAPHY VIDEO&LD」販促資料（所蔵画像による照合）"
+        }
+      ],
+      "releaseFormat": "LD（レーザーディスク・初発売盤）",
+      "catalogNumber": "G78M-00311",
+      "catalogNumberStatus": "confirmed_primary",
+      "catalogNumberVerification": "primary",
+      "catalogNumberStatusNote": "1994年ポニーキャニオン販促資料に媒体・発売日・規格品番が記載",
+      "releaseType": "format_variant"
+    },
+    {
+      "id": "release-audit-v206-19890906-history1-ld",
+      "date": "1989-09-06",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『HISTORY I ～10years after～』LD盤発売",
+      "releaseTitle": "HISTORY I ～10years after～",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第46回・当時資料による追加】1994年9月21日ポニーキャニオン「CHAGE&ASKA DISCOGRAPHY VIDEO&LD」記載。映像作品の既刊一覧に初発売日・LD品番の記載あり。既存のVHS・別仕様とは区別。",
+      "sources": [
+        {
+          "label": "1994年ポニーキャニオン当時の「DISCOGRAPHY VIDEO&LD」販促資料（所蔵画像による照合）"
+        }
+      ],
+      "releaseFormat": "LD（レーザーディスク・初発売盤）",
+      "catalogNumber": "G55M-00336",
+      "catalogNumberStatus": "confirmed_primary",
+      "catalogNumberVerification": "primary",
+      "catalogNumberStatusNote": "1994年ポニーキャニオン販促資料に媒体・発売日・規格品番が記載",
+      "releaseType": "format_variant"
+    },
+    {
+      "id": "release-audit-v206-19900307-history2-ld",
+      "date": "1990-03-07",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『HISTORY II ～PRIDE～』LD盤発売",
+      "releaseTitle": "HISTORY II ～PRIDE～",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第46回・当時資料による追加】1994年9月21日ポニーキャニオン「CHAGE&ASKA DISCOGRAPHY VIDEO&LD」記載。映像作品の既刊一覧に初発売日・LD品番の記載あり。既存のVHS・別仕様とは区別。",
+      "sources": [
+        {
+          "label": "1994年ポニーキャニオン当時の「DISCOGRAPHY VIDEO&LD」販促資料（所蔵画像による照合）"
+        }
+      ],
+      "releaseFormat": "LD（レーザーディスク・初発売盤）",
+      "catalogNumber": "PCLP-00028",
+      "catalogNumberStatus": "confirmed_primary",
+      "catalogNumberVerification": "primary",
+      "catalogNumberStatusNote": "1994年ポニーキャニオン販促資料に媒体・発売日・規格品番が記載",
+      "releaseType": "format_variant"
+    },
+    {
+      "id": "release-audit-v206-19900921-see-ya-ld",
+      "date": "1990-09-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SEE YA』LD盤発売",
+      "releaseTitle": "SEE YA",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第46回・当時資料による追加】1994年9月21日ポニーキャニオン「CHAGE&ASKA DISCOGRAPHY VIDEO&LD」記載。映像作品の既刊一覧に初発売日・LD品番の記載あり。既存のVHS・別仕様とは区別。",
+      "sources": [
+        {
+          "label": "1994年ポニーキャニオン当時の「DISCOGRAPHY VIDEO&LD」販促資料（所蔵画像による照合）"
+        }
+      ],
+      "releaseFormat": "LD（レーザーディスク・初発売盤）",
+      "catalogNumber": "PCLP-00060",
+      "catalogNumberStatus": "confirmed_primary",
+      "catalogNumberVerification": "primary",
+      "catalogNumberStatusNote": "1994年ポニーキャニオン販促資料に媒体・発売日・規格品番が記載",
+      "releaseType": "format_variant"
+    },
+    {
+      "id": "release-audit-v206-19910321-taiyo1-ld",
+      "date": "1991-03-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『太陽と埃の中で I』LD盤発売",
+      "releaseTitle": "太陽と埃の中で I",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第46回・当時資料による追加】1994年9月21日ポニーキャニオン「CHAGE&ASKA DISCOGRAPHY VIDEO&LD」記載。映像作品の既刊一覧に初発売日・LD品番の記載あり。既存のVHS・別仕様とは区別。",
+      "sources": [
+        {
+          "label": "1994年ポニーキャニオン当時の「DISCOGRAPHY VIDEO&LD」販促資料（所蔵画像による照合）"
+        }
+      ],
+      "releaseFormat": "LD（レーザーディスク・初発売盤）",
+      "catalogNumber": "PCLP-00133",
+      "catalogNumberStatus": "confirmed_primary",
+      "catalogNumberVerification": "primary",
+      "catalogNumberStatusNote": "1994年ポニーキャニオン販促資料に媒体・発売日・規格品番が記載",
+      "releaseType": "format_variant"
+    },
+    {
+      "id": "release-audit-v206-19911121-tree-ld",
+      "date": "1991-11-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『TREE』LD盤発売",
+      "releaseTitle": "TREE",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第46回・当時資料による追加】1994年9月21日ポニーキャニオン「CHAGE&ASKA DISCOGRAPHY VIDEO&LD」記載。映像作品の既刊一覧に初発売日・LD品番の記載あり。既存のVHS・別仕様とは区別。",
+      "sources": [
+        {
+          "label": "1994年ポニーキャニオン当時の「DISCOGRAPHY VIDEO&LD」販促資料（所蔵画像による照合）"
+        }
+      ],
+      "releaseFormat": "LD（レーザーディスク・初発売盤）",
+      "catalogNumber": "PCLP-00230",
+      "catalogNumberStatus": "confirmed_primary",
+      "catalogNumberVerification": "primary",
+      "catalogNumberStatusNote": "1994年ポニーキャニオン販促資料に媒体・発売日・規格品番が記載",
+      "releaseType": "format_variant"
+    },
+    {
+      "id": "release-audit-v206-19921216-go-to-eleven-ld",
+      "date": "1992-12-16",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Go to Eleven ～GUYS～』LD盤発売",
+      "releaseTitle": "Go to Eleven ～GUYS～",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第46回・当時資料による追加】1994年9月21日ポニーキャニオン「CHAGE&ASKA DISCOGRAPHY VIDEO&LD」記載。映像作品の既刊一覧に初発売日・LD品番の記載あり。既存のVHS・別仕様とは区別。",
+      "sources": [
+        {
+          "label": "1994年ポニーキャニオン当時の「DISCOGRAPHY VIDEO&LD」販促資料（所蔵画像による照合）"
+        }
+      ],
+      "releaseFormat": "LD（レーザーディスク・初発売盤）",
+      "catalogNumber": "PCLP-00405",
+      "catalogNumberStatus": "confirmed_primary",
+      "catalogNumberVerification": "primary",
+      "catalogNumberStatusNote": "1994年ポニーキャニオン販促資料に媒体・発売日・規格品番が記載",
+      "releaseType": "format_variant"
+    },
+    {
+      "id": "release-audit-v206-19930324-concert-movie-guys-ld",
+      "date": "1993-03-24",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE AND ASKA CONCERT MOVIE GUYS』LD盤発売",
+      "releaseTitle": "CHAGE AND ASKA CONCERT MOVIE GUYS",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第46回・当時資料による追加】1994年9月21日ポニーキャニオン「CHAGE&ASKA DISCOGRAPHY VIDEO&LD」記載。映像作品の既刊一覧に初発売日・LD品番の記載あり。既存のVHS・別仕様とは区別。",
+      "sources": [
+        {
+          "label": "1994年ポニーキャニオン当時の「DISCOGRAPHY VIDEO&LD」販促資料（所蔵画像による照合）"
+        }
+      ],
+      "releaseFormat": "LD（レーザーディスク・初発売盤）",
+      "catalogNumber": "PCLP-00419",
+      "catalogNumberStatus": "confirmed_primary",
+      "catalogNumberVerification": "primary",
+      "catalogNumberStatusNote": "1994年ポニーキャニオン販促資料に媒体・発売日・規格品番が記載",
+      "releaseType": "format_variant"
+    },
+    {
+      "id": "release-audit-v206-19940218-red-hill-ld",
+      "date": "1994-02-18",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『RED HILL』LD盤発売",
+      "releaseTitle": "RED HILL",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第46回・当時資料による追加】1994年9月21日ポニーキャニオン「CHAGE&ASKA DISCOGRAPHY VIDEO&LD」記載。映像作品の既刊一覧に初発売日・LD品番の記載あり。既存のVHS・別仕様とは区別。",
+      "sources": [
+        {
+          "label": "1994年ポニーキャニオン当時の「DISCOGRAPHY VIDEO&LD」販促資料（所蔵画像による照合）"
+        }
+      ],
+      "releaseFormat": "LD（レーザーディスク・初発売盤）",
+      "catalogNumber": "PCLP-00500",
+      "catalogNumberStatus": "confirmed_primary",
+      "catalogNumberVerification": "primary",
+      "catalogNumberStatusNote": "1994年ポニーキャニオン販促資料に媒体・発売日・規格品番が記載",
+      "releaseType": "format_variant"
+    },
+    {
+      "id": "release-audit-v206-19940921-see-ya-vhs-reissue",
+      "date": "1994-09-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SEE YA』VHS・GOOD PRICE再発売",
+      "releaseTitle": "SEE YA",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第46回・当時資料による追加】1994年9月21日ポニーキャニオン「CHAGE&ASKA DISCOGRAPHY VIDEO&LD」記載。GOOD PRICE再発売を告知。既存のVHS・別仕様とは区別。",
+      "sources": [
+        {
+          "label": "1994年ポニーキャニオン当時の「DISCOGRAPHY VIDEO&LD」販促資料（所蔵画像による照合）"
+        },
+        {
+          "label": "参考資料（同版の販売日・品番の確認）",
+          "url": "https://www.suruga-ya.jp/product/detail/938000897"
+        }
+      ],
+      "releaseFormat": "VHS（1994年GOOD PRICE再発売盤）",
+      "catalogNumber": "PCVP-51510",
+      "catalogNumberStatus": "confirmed_primary",
+      "catalogNumberVerification": "primary",
+      "catalogNumberStatusNote": "1994年ポニーキャニオン販促資料に媒体・発売日・規格品番が記載",
+      "releaseType": "reissue"
+    },
+    {
+      "id": "release-audit-v206-19940921-tree-vhs-reissue",
+      "date": "1994-09-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『TREE』VHS・GOOD PRICE再発売",
+      "releaseTitle": "TREE",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第46回・当時資料による追加】1994年9月21日ポニーキャニオン「CHAGE&ASKA DISCOGRAPHY VIDEO&LD」記載。GOOD PRICE再発売を告知。既存のVHS・別仕様とは区別。",
+      "sources": [
+        {
+          "label": "1994年ポニーキャニオン当時の「DISCOGRAPHY VIDEO&LD」販促資料（所蔵画像による照合）"
+        }
+      ],
+      "releaseFormat": "VHS（1994年GOOD PRICE再発売盤）",
+      "catalogNumber": "PCVP-51511",
+      "catalogNumberStatus": "confirmed_primary",
+      "catalogNumberVerification": "primary",
+      "catalogNumberStatusNote": "1994年ポニーキャニオン販促資料に媒体・発売日・規格品番が記載",
+      "releaseType": "reissue"
+    },
+    {
+      "id": "release-audit-v206-19940921-go-to-eleven-vhs-reissue",
+      "date": "1994-09-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Go to Eleven ～GUYS～』VHS・GOOD PRICE再発売",
+      "releaseTitle": "Go to Eleven ～GUYS～",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第46回・当時資料による追加】1994年9月21日ポニーキャニオン「CHAGE&ASKA DISCOGRAPHY VIDEO&LD」記載。GOOD PRICE再発売を告知。既存のVHS・別仕様とは区別。",
+      "sources": [
+        {
+          "label": "1994年ポニーキャニオン当時の「DISCOGRAPHY VIDEO&LD」販促資料（所蔵画像による照合）"
+        },
+        {
+          "label": "参考資料（同版の販売日・品番の確認）",
+          "url": "https://www.suruga-ya.jp/kaitori/search_buy?category=3&page=6&restrict%5B%5D=person_id%3D252&search_word="
+        }
+      ],
+      "releaseFormat": "VHS（1994年GOOD PRICE再発売盤）",
+      "catalogNumber": "PCVP-51512",
+      "catalogNumberStatus": "confirmed_primary",
+      "catalogNumberVerification": "primary",
+      "catalogNumberStatusNote": "1994年ポニーキャニオン販促資料に媒体・発売日・規格品番が記載",
+      "releaseType": "reissue"
     }
   ],
-  "siteVersion": "2.0.45"
+  "siteVersion": "2.0.46"
 }
