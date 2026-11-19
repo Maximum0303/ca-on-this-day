@@ -58278,11 +58278,15 @@
       "title": "『ChageLiveTour2014 ～equal～（DVD/Blu-ray）』発売",
       "status": "released",
       "verification": "primary",
-      "note": "映像ソフト発売の記録。2015年1月14日配信のライブ音源とは別に管理。",
+      "note": "【第40回・備考訂正】2015年1月14日発売はDVD/Blu-rayの映像作品。ライブ音源「equal」のiTunes先行配信は2014年11月5日（別レコード）である。",
       "sources": [
         {
           "label": "公式ディスコグラフィー",
           "url": "https://www.universal-music.co.jp/chage/release-history/"
+        },
+        {
+          "label": "Chage公式スタッフ・ライブ音源配信日",
+          "url": "https://chage.jp/staffmemo/『chagelivetour2014-equal-』全公演終了！/"
         }
       ]
     },
@@ -63295,13 +63299,19 @@
       "title": "アルバム『SCENE -Remix ver.-』発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": " 【第40回・公式品番確認】SCENE Remix ver. のUHQCD。品番 YCCR-10035。1988年／1991年の初発売盤とは別のリミックス商品。",
       "sources": [
         {
           "label": "ヤマハ公式Discography",
           "url": "https://www.yamahamusic.co.jp/s/ymc/artist/113"
+        },
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式商品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/978"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-10035",
+      "releaseFormat": "UHQCD（リミックス版）"
     },
     {
       "id": "v13-release-027",
@@ -63311,13 +63321,19 @@
       "title": "アルバム『SCENE II -Remix ver.-』発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": " 【第40回・公式品番確認】SCENE II Remix ver. のUHQCD。品番 YCCR-10036。1988年／1991年の初発売盤とは別のリミックス商品。",
       "sources": [
         {
           "label": "ヤマハ公式Discography",
           "url": "https://www.yamahamusic.co.jp/s/ymc/artist/113"
+        },
+        {
+          "label": "ヤマハミュージックコミュニケーションズ公式商品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/979"
         }
-      ]
+      ],
+      "catalogNumber": "YCCR-10036",
+      "releaseFormat": "UHQCD（リミックス版）"
     },
     {
       "id": "media-v18220-025",
@@ -83320,7 +83336,409 @@
       "category": "release",
       "status": "released",
       "releaseFormat": "DVD"
+    },
+    {
+      "id": "release-audit-v2040-20190825-korea-dvd",
+      "date": "2019-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE & ASKA LIVE IN KOREA 韓日親善コンサート Aug.2000』DVD発売",
+      "releaseTitle": "CHAGE & ASKA LIVE IN KOREA 韓日親善コンサート Aug.2000",
+      "releaseFormat": "DVD",
+      "catalogNumber": "YMEHDVD-20",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・映像DVD】2000年8月の韓国公演映像をDVD1枚組として発売。『LIVE DVD BOX 4』のDisc-3と同じ映像だが、独立した一般販売商品（規格品番 YMEHDVD-20）であるため別記録。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式リリース発表",
+          "url": "https://www.chage-aska.net/information/2019080901.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20191010-dvdbox4-shipping",
+      "date": "2019-10-10",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA LIVE DVD BOX 4』完全受注生産版の出荷開始",
+      "releaseTitle": "CHAGE and ASKA LIVE DVD BOX 4",
+      "releaseFormat": "DVD 3枚組・完全受注生産",
+      "catalogNumber": "YMEHDVD-21～23",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・発送開始記録】公式通販は2019年10月10日から順次発送と案内。店頭発売日や全注文者への到着日ではない。3枚組のうち韓国公演映像は2019年8月25日の単品DVD（YMEHDVD-20）と同内容。『電光石火』幕張プレビュー映像を含む。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式通販商品案内",
+          "url": "https://chageandaskaproducts.net/products/ymehdvd-21"
+        },
+        {
+          "label": "Chage公式予約受付・出荷案内",
+          "url": "https://chage.jp/information/release/detail-361.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-01",
+      "date": "2019-05-22",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "旧作シングル『ロケットの樹の下で』ダウンロード販売追加",
+      "releaseTitle": "ロケットの樹の下で",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-02",
+      "date": "2019-05-22",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "旧作シングル『パラシュートの部屋で』ダウンロード販売追加",
+      "releaseTitle": "パラシュートの部屋で",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-03",
+      "date": "2019-05-22",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "旧作シングル『C-46』ダウンロード販売追加",
+      "releaseTitle": "C-46",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-04",
+      "date": "2019-05-22",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "旧作シングル『夢の飛礫』ダウンロード販売追加",
+      "releaseTitle": "夢の飛礫",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-05",
+      "date": "2019-05-22",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "旧作シングル『36度線 -1995夏-』ダウンロード販売追加",
+      "releaseTitle": "36度線 -1995夏-",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-06",
+      "date": "2019-05-22",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "旧作シングル『僕はMusic』ダウンロード販売追加",
+      "releaseTitle": "僕はMusic",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-07",
+      "date": "2019-05-22",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "旧作アルバム『NOT AT ALL』ダウンロード販売追加",
+      "releaseTitle": "NOT AT ALL",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-08",
+      "date": "2019-05-22",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "旧作アルバム『STAMP』ダウンロード販売追加",
+      "releaseTitle": "STAMP",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-09",
+      "date": "2019-05-22",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "旧作アルバム『DOUBLE』ダウンロード販売追加",
+      "releaseTitle": "DOUBLE",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-10",
+      "date": "2019-05-22",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "旧作シングル『心に花の咲く方へ』ダウンロード販売追加",
+      "releaseTitle": "心に花の咲く方へ",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-11",
+      "date": "2019-05-22",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "旧作シングル『UNI-VERSE』ダウンロード販売追加",
+      "releaseTitle": "UNI-VERSE",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-12",
+      "date": "2019-05-22",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "旧作シングル『あなたが泣くことはない』ダウンロード販売追加",
+      "releaseTitle": "あなたが泣くことはない",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-13",
+      "date": "2019-05-22",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "旧作アルバム『SCENE Ⅲ』ダウンロード販売追加",
+      "releaseTitle": "SCENE Ⅲ",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-14",
+      "date": "2019-05-22",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "旧作アルバム『STANDARD』ダウンロード販売追加",
+      "releaseTitle": "STANDARD",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-15",
+      "date": "2019-05-22",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "旧作アルバム『12』ダウンロード販売追加",
+      "releaseTitle": "12",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-16",
+      "date": "2019-05-22",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "旧作アルバム『君の知らない君の歌』ダウンロード販売追加",
+      "releaseTitle": "君の知らない君の歌",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日付公式発表による各種音楽配信サイトへの追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-17",
+      "date": "2019-05-22",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "旧作シングル『デェラ・シエラ・ム』ダウンロード販売追加",
+      "releaseTitle": "デェラ・シエラ・ム",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日からiTunes Storeで追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。STARDUST REVUEとのコラボレーション。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-18",
+      "date": "2019-05-22",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "旧作アルバム『BOOKEND』ダウンロード販売追加",
+      "releaseTitle": "BOOKEND",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日からiTunes Storeで追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。2019年5月22日はiTunes Storeへのダウンロード販売追加。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-19",
+      "date": "2019-05-22",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "旧作アルバム『SCRAMBLE』ダウンロード販売追加",
+      "releaseTitle": "SCRAMBLE",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日からiTunes Storeで追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。2019年5月22日はiTunes Storeへのダウンロード販売追加。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2040-20190522-20",
+      "date": "2019-05-22",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "旧作ライブアルバム『CONCERT TOUR 1994 Well,Well,Well』ダウンロード販売追加",
+      "releaseTitle": "CONCERT TOUR 1994 Well,Well,Well",
+      "releaseFormat": "デジタル配信（ダウンロード販売追加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第40回・追加配信】2019年5月22日からiTunes Storeで追加販売。旧作の新規販売先追加であり、作品の初発売日・初デジタル配信日とは断定しない。2019年5月22日はiTunes Storeへのダウンロード販売追加。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式・2019年5月22日配信追加発表",
+          "url": "https://www.chage-aska.net/information/2019052201.php"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.0.39"
+  "siteVersion": "2.0.40"
 }
