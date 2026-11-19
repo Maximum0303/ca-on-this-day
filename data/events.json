@@ -75736,13 +75736,19 @@
       "title": "『ChageLiveTour2024 ～ちゃげっていうひと～』LIVE Blu-ray発売",
       "status": "released",
       "verification": "primary",
-      "note": "【2025〜2026年記録点検】公式年譜・発売元情報で発売／配信日を確認。",
+      "note": "【2025〜2026年記録点検】公式年譜・発売元情報で発売／配信日を確認。 【第42回・追加照合】Chage Live Tour 2024の映像Blu-ray。2024年9月23日Zepp DiverCity公演収録。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
           "url": "https://chage.jp/biography/"
+        },
+        {
+          "label": "第42回・商品公式情報",
+          "url": "https://www.universal-music.co.jp/chage/discography/"
         }
-      ]
+      ],
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-25011"
     },
     {
       "id": "v15-0204",
@@ -76454,13 +76460,19 @@
       "title": "『ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-』Live Blu-ray発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": " 【第42回・追加照合】2025年2月15日日本武道館公演の映像。個別ストリーミングは8月28日開始と別管理。",
       "sources": [
         {
           "label": "ディスクガレージ：ASKA 2025映像リリース",
           "url": "https://www.diskgarage.com/digaonline/news/219589"
+        },
+        {
+          "label": "第42回・商品公式情報",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska_release"
         }
-      ]
+      ],
+      "releaseFormat": "Blu-ray（ライブ映像＋ツアードキュメンタリー2枚組）",
+      "catalogNumber": "DDLB-0026"
     },
     {
       "id": "v15-0146",
@@ -77137,10 +77149,10 @@
       "date": "2025-10-08",
       "artist": "Chage",
       "category": "release",
-      "title": "アルバム『Instinto』発売",
+      "title": "アルバム『Instinto』通常盤2CD発売",
       "status": "released",
       "verification": "primary",
-      "note": "【2025〜2026年記録点検】公式年譜・発売元情報で発売／配信日を確認。",
+      "note": "【2025〜2026年記録点検】公式年譜・発売元情報で発売／配信日を確認。 【第42回・追加照合】通常2CDはUICZ-4702/3。Deluxe Editionは同一の2CD＋特製タオルの別商品番号UICZ-9250。音源内容が共通であるため新たな発売日イベントを作らず備考に併記。",
       "sources": [
         {
           "label": "公式・主催者発表",
@@ -77149,8 +77161,14 @@
         {
           "label": "Chage公式アルバム一覧",
           "url": "https://chage.jp/discography/chage/album.php"
+        },
+        {
+          "label": "第42回・商品公式情報",
+          "url": "https://www.universal-music.co.jp/chage/products/uicz-4702/"
         }
-      ]
+      ],
+      "releaseFormat": "2CD（通常盤）",
+      "catalogNumber": "UICZ-4702/3"
     },
     {
       "id": "v15-0183",
@@ -78231,16 +78249,21 @@
       "date": "2026-01-20",
       "artist": "ASKA",
       "category": "other",
-      "title": "『ASKA CONCERT TOUR 2024>>2025 -Who is ASKA !?-』ドキュメンタリーブック追加公演版 発売",
+      "title": "『Who is ASKA !?』ドキュメンタリーブック追加公演版 発売発表（販売は1月28日から）",
       "status": "recorded",
       "verification": "primary",
-      "note": "書籍の発売日。音源・映像ではなく出版物",
+      "note": "書籍の発売日。音源・映像ではなく出版物 【第42回・追加照合】当日1月20日は発売告知。EC予約開始は1月21日、映画館での現物販売は1月28日。既存の告知日とIDと分類(other)は維持し、誤って「発売日」と書かれたタイトルを訂正。",
       "sources": [
         {
           "label": "公式発売・公開案内",
           "url": "https://www.fellows.tokyo/news/list/1/7/"
+        },
+        {
+          "label": "第42回・商品公式情報",
+          "url": "https://www.fellows.tokyo/news/detail/613"
         }
-      ]
+      ],
+      "releaseFormat": "書籍の発売発表・予約受付案内"
     },
     {
       "id": "v16-0038",
@@ -78310,15 +78333,20 @@
       "category": "release",
       "title": "『FIRST SAIL “COMTEC PORTBASE OPENING CEREMONY” ～ ASKA Live Docking ～』配信リリース",
       "status": "released",
-      "verification": "secondary",
+      "verification": "primary",
       "releaseTitle": "FIRST SAIL “COMTEC PORTBASE OPENING CEREMONY” ～ ASKA Live Docking ～",
-      "note": "2025年4月16日公演の収録映像配信。二次資料による補助確認",
+      "note": "2025年4月16日公演の収録映像配信。二次資料による補助確認 【第42回・追加照合】2025年4月16日COMTEC PORTBASE公演収録。公式発表の配信リリースは2026年1月31日0時。1月28日の映画館上映とは別。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        },
+        {
+          "label": "第42回・商品公式情報",
+          "url": "https://www.fellows.tokyo/news/detail/608"
         }
-      ]
+      ],
+      "releaseFormat": "有料映像ストリーミング・購入者向けダウンロード"
     },
     {
       "id": "v16-0041",
@@ -78872,13 +78900,19 @@
       "status": "released",
       "verification": "primary",
       "releaseTitle": "ChageLiveTour2025 Mr.November",
-      "note": "ライブ映像作品",
+      "note": "ライブ映像作品 【第42回・追加照合】2025年11月14日川崎クラブチッタ公演を収録。3月25日のライブ音源配信とは別。",
       "sources": [
         {
           "label": "公式発売・公開案内",
           "url": "https://chage.jp/discography/chage/bd/018.php"
+        },
+        {
+          "label": "第42回・商品公式情報",
+          "url": "https://store.universal-music.co.jp/collections/chage/products/poxs25012"
         }
-      ]
+      ],
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-25012"
     },
     {
       "id": "v16-0064",
@@ -79543,11 +79577,11 @@
       "date": "2026-09-09",
       "artist": "Chage",
       "category": "release",
-      "title": "アルバム『Ko』発売",
+      "title": "アルバム『Ko』通常盤2CD発売",
       "status": "released",
       "verification": "primary",
       "releaseTitle": "Ko",
-      "note": "CDアルバム 【2025〜2026年記録点検】公式年譜・発売元情報で発売／配信日を確認。",
+      "note": "CDアルバム 【2025〜2026年記録点検】公式年譜・発売元情報で発売／配信日を確認。 【第42回・追加照合】通常2CDはUICZ-4711/2。Deluxe Editionは同一の2CD＋ブランケットの別商品番号UICZ-9254。音源内容が同一のため発売日イベントを分けず商品情報として併記。",
       "sources": [
         {
           "label": "公式・主催者発表",
@@ -79557,7 +79591,9 @@
           "label": "公式発売・公開案内",
           "url": "https://www.universal-music.co.jp/chage/products/uicz-4711/"
         }
-      ]
+      ],
+      "releaseFormat": "2CD（通常盤）",
+      "catalogNumber": "UICZ-4711/2"
     },
     {
       "id": "v16-0080",
@@ -79637,13 +79673,19 @@
       "status": "released",
       "verification": "primary",
       "releaseTitle": "音銀河／命の宿り",
-      "note": "発売日および全曲配信開始日",
+      "note": "発売日および全曲配信開始日 【第42回・追加照合】Sony Music DirectのCD品番MHCL-3167。9月9日の1曲先行配信、9月16日のデジタルシングルは別レコード。",
       "sources": [
         {
           "label": "公式発売・公開案内",
           "url": "https://www.fellows.tokyo/news/detail/740"
+        },
+        {
+          "label": "第42回・商品公式情報",
+          "url": "https://www.sonymusic.co.jp/artist/KojiTamakiASKA/info/586890"
         }
-      ]
+      ],
+      "releaseFormat": "CDシングル",
+      "catalogNumber": "MHCL-3167"
     },
     {
       "id": "v16-0110",
@@ -79750,13 +79792,19 @@
       "status": "released",
       "verification": "primary",
       "releaseTitle": "ASKA CONCERT 2026 昭和が見ていたクリスマス!?",
-      "note": "映像作品とライブCDのセット",
+      "note": "映像作品とライブCDのセット 【第42回・追加照合】発売作品の規格品番DDLB-0028。Blu-ray Disc＋ライブ音源2CDの3枚組。",
       "sources": [
         {
           "label": "公式発売・公開案内",
           "url": "https://www.fellows.tokyo/news/list/1/7/"
+        },
+        {
+          "label": "第42回・商品公式情報",
+          "url": "https://cdfront.tower.jp/item/8144356"
         }
-      ]
+      ],
+      "releaseFormat": "Blu-ray＋ライブCD2枚",
+      "catalogNumber": "DDLB-0028"
     },
     {
       "id": "v16-0096",
@@ -84050,7 +84098,218 @@
           "url": "https://www.fellows.tokyo/feature/10days_special_release"
         }
       ]
+    },
+    {
+      "id": "release-audit-v2042-20250423-01",
+      "date": "2025-04-23",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『KANタービレ～今夜は帰さナイトフィーバー～』Blu-ray発売（ASKA出演）",
+      "releaseTitle": "KANタービレ～今夜は帰さナイトフィーバー～",
+      "releaseFormat": "Blu-ray（出演作品）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第42回・一次資料照合】ASKAが出演した複数アーティスト参加のライブBlu-ray。2024年11月12日の公演実施日とは別。発売元zetima。",
+      "sources": [
+        {
+          "label": "公式・発売元・配信元の作品情報",
+          "url": "https://up-front-works.jp/release/7400/"
+        }
+      ],
+      "catalogNumber": "EPXE-5265"
+    },
+    {
+      "id": "release-audit-v2042-20250723-02",
+      "date": "2025-07-23",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『Who is ASKA !?』ドキュメンタリーブック第1弾発売",
+      "releaseTitle": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- ドキュメンタリーブック",
+      "releaseFormat": "書籍（ツアードキュメンタリーブック）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第42回・一次資料照合】当初の発売予定から延期され、7月23日に発売・順次発送。ツアー公演日とは別。",
+      "sources": [
+        {
+          "label": "公式・発売元・配信元の作品情報",
+          "url": "https://www.fellows.tokyo/news/detail/444"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2042-20250828-03",
+      "date": "2025-08-28",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『Who is ASKA !?』日本武道館ライブ映像ストリーミング配信開始",
+      "releaseTitle": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- ライブ映像",
+      "releaseFormat": "映像ストリーミング（ライブ本編・有料）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第42回・一次資料照合】Travel TVでのライブ映像個別販売。事前告知は8月26日開始予定だったが延期され、公式に8月28日正午からの配信開始が案内された。8月27日発売Blu-rayとは別。",
+      "sources": [
+        {
+          "label": "公式・発売元・配信元の作品情報",
+          "url": "https://www.fellows.tokyo/news/detail/526"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2042-20250828-04",
+      "date": "2025-08-28",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『Who is ASKA !?』ツアードキュメンタリー映像ストリーミング配信開始",
+      "releaseTitle": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- ツアードキュメンタリー",
+      "releaseFormat": "映像ストリーミング（ドキュメンタリー・有料）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第42回・一次資料照合】本編ライブ映像とは別売りのツアードキュメンタリー映像。予定されていた8月26日から延期後の8月28日配信案内に合わせた日付。日付・配信媒体は上記ライブ映像の配信延期告知も参照。",
+      "sources": [
+        {
+          "label": "公式・発売元・配信元の作品情報",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska_release"
+        },
+        {
+          "label": "公式・配信延期後の開始告知",
+          "url": "https://www.fellows.tokyo/news/detail/526"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2042-20250828-05",
+      "date": "2025-08-28",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『Who is ASKA !?』日本武道館ライブ音源のみストリーミング配信開始",
+      "releaseTitle": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- ライブ音源",
+      "releaseFormat": "音源ストリーミング（ライブ音源のみ・有料）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第42回・一次資料照合】Travel TVでライブ本編映像・ドキュメンタリーと別商品として販売されたライブ音源のみの配信。公式の8月28日正午配信開始告知を採用。一般の定額音楽サブスクと混同しない。",
+      "sources": [
+        {
+          "label": "公式・発売元・配信元の作品情報",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska_release"
+        },
+        {
+          "label": "公式・配信延期後の開始告知",
+          "url": "https://www.fellows.tokyo/news/detail/526"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2042-20251001-06",
+      "date": "2025-10-01",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "ASKA提供曲・森川美穂『復讐』配信開始",
+      "releaseTitle": "復讐（森川美穂）",
+      "releaseFormat": "デジタルシングル（他アーティストへの提供曲）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第42回・一次資料照合】歌唱は森川美穂。作詞・作曲ASKA、編曲澤近泰輔。ASKA自身のシングル発売ではない。ヤマハの品番YCCI-10594／YCCI-10595は配信形態別の表示。",
+      "sources": [
+        {
+          "label": "公式・発売元・配信元の作品情報",
+          "url": "https://www.fellows.tokyo/news/detail/561"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2042-20251031-07",
+      "date": "2025-10-31",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『tiny desk concerts JAPAN』ASKA出演回・ライブ音源配信開始",
+      "releaseTitle": "tiny desk concerts JAPAN（ASKA）",
+      "releaseFormat": "音楽ストリーミング（5曲入りライブ音源）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第42回・一次資料照合】NHKの出演回の5曲を、番組放送とは別に音源のみサブスク配信。Apple Music・Spotify等で2025年10月31日から配信。",
+      "sources": [
+        {
+          "label": "公式・発売元・配信元の作品情報",
+          "url": "https://www.fellows.tokyo/news/detail/575"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2042-20260128-08",
+      "date": "2026-01-28",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『Who is ASKA !?』ドキュメンタリーブック追加公演版・会場販売開始",
+      "releaseTitle": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- ドキュメンタリーブック encore performance edition",
+      "releaseFormat": "書籍（追加公演版・会場販売開始）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第42回・一次資料照合】ECの予約開始日は1月21日13時。商品の発送は1月28日以降、劇場上映館での現物販売は1月28日。1月20日の告知日を発売日としない。",
+      "sources": [
+        {
+          "label": "公式・発売元・配信元の作品情報",
+          "url": "https://www.fellows.tokyo/news/detail/613"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2042-20260409-09",
+      "date": "2026-04-09",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA×Fellows ～感謝祭～』DVD・ファンクラブ限定販売受付開始",
+      "releaseTitle": "ASKA×Fellows ～感謝祭～",
+      "releaseFormat": "DVD（ファンクラブ限定・販売受付開始）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第42回・一次資料照合】2025年9月4日Zepp DiverCity夜公演の映像。2026年4月9日に販売受付を開始、発送は6月上旬予定との発表。確定したDVD発送日ではないので「発売日」ではなく受付開始として登録。",
+      "sources": [
+        {
+          "label": "公式・発売元・配信元の作品情報",
+          "url": "https://www.fellows.tokyo/news/detail/691"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2042-20260916-10",
+      "date": "2026-09-16",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "玉置浩二・ASKA『音銀河』3曲入りシングル配信開始",
+      "releaseTitle": "音銀河",
+      "releaseFormat": "デジタルシングル（CDと同日・別媒体）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第42回・一次資料照合】9月9日の「音銀河」1曲先行配信とは別。9月16日から「音銀河」シングルのデジタル販売・配信。CDシングルの発売も同日だが、別の提供媒体として記録。",
+      "sources": [
+        {
+          "label": "公式・発売元・配信元の作品情報",
+          "url": "https://www.sonymusic.co.jp/artist/KojiTamakiASKA/info/586890"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2042-20261030-11",
+      "date": "2026-10-30",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "宮﨑薫アルバム『Garden』配信開始（ASKA制作参加・「Cry」カバー収録）",
+      "releaseTitle": "Garden（宮﨑薫）",
+      "releaseFormat": "デジタルアルバム（他アーティスト作品・制作参加）",
+      "status": "released",
+      "verification": "primary",
+      "note": "【第42回・一次資料照合】宮﨑薫によるデジタルアルバム。ASKA楽曲「Cry」のカバーを収録し、一部楽曲のプロデュースにASKAが参加。ASKA本人名義のアルバムではない。",
+      "sources": [
+        {
+          "label": "公式・発売元・配信元の作品情報",
+          "url": "https://www.kaorumiyazaki.com/discograpgy"
+        },
+        {
+          "label": "ASKA公式サイト・参加作品告知",
+          "url": "https://www.fellows.tokyo/news/detail/792"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.0.41"
+  "siteVersion": "2.0.42"
 }
