@@ -81394,7 +81394,299 @@
           "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
         }
       ]
+    },
+    {
+      "id": "release-audit-1986to1989-19860421-c28a0486",
+      "date": "1986-04-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『TURNING POINT』LP盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "TURNING POINT",
+      "releaseType": "初発売時の別規格（LP）",
+      "format": "アナログLPレコード",
+      "catalogNumber": "C28A0486",
+      "note": "作品形態：アナログLPレコード。作品の初発売日：1986-04-21。LP盤規格品番：C28A0486。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー（作品発売日）",
+          "url": "https://www.chage-aska.net/discography/album/turning_point.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.cd-brain.com/shop/product/chage-aska-turning-point-lp-album/"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-1986to1989-19860421-28p6526",
+      "date": "1986-04-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『TURNING POINT』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "TURNING POINT",
+      "releaseType": "初発売時の別規格（カセット）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "28P6526",
+      "note": "作品形態：カセットテープ（CT）。作品の初発売日：1986-04-21。カセット盤規格品番：28P6526。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、カセット規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー（作品発売日）",
+          "url": "https://www.chage-aska.net/discography/album/turning_point.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-1986to1989-19860921-c28a0513",
+      "date": "1986-09-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『MIX BLOOD』LP盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "MIX BLOOD",
+      "releaseType": "初発売時の別規格（LP）",
+      "format": "アナログLPレコード",
+      "catalogNumber": "C28A0513",
+      "note": "作品形態：アナログLPレコード。作品の初発売日：1986-09-21。LP盤規格品番：C28A0513。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー（作品発売日）",
+          "url": "https://www.chage-aska.net/discography/album/mix_blood.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.stereo-records.com/detail.php?itemCd=53039"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-1986to1989-19860921-28p6583",
+      "date": "1986-09-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『MIX BLOOD』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "MIX BLOOD",
+      "releaseType": "初発売時の別規格（カセット）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "28P6583",
+      "note": "作品形態：カセットテープ（CT）。作品の初発売日：1986-09-21。カセット盤規格品番：28P6583。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、カセット規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー（作品発売日）",
+          "url": "https://www.chage-aska.net/discography/album/mix_blood.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-1986to1989-19870305-36p1407",
+      "date": "1987-03-05",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SUPER BEST 20』カセット専用別編集盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "SUPER BEST 20",
+      "releaseType": "カセット専用別編集ベスト（SUPER BESTのカセット版・追加4曲）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "36P-1407",
+      "note": "作品形態：カセット専用ベスト盤（CT）。1987年3月5日発売、規格品番：36P-1407。CD『SUPER BEST』とは収録曲数が異なる別編集の20曲入りカセット。CD版の同日発売記録を消さずに別記録で扱う。商品種別・発売日・品番は二次資料で照合。",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー（作品発売日）",
+          "url": "https://www.chage-aska.net/discography/album/super_best.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.suruga-ya.jp/product/detail/251005776"
+        },
+        {
+          "label": "参考資料（非公式・別仕様）",
+          "url": "https://www.wikipedia-is-dead.com/wiki/SUPER%20BEST%20%28CHAGE%20and%20ASKA%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%29"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-1986to1989-19870521-c28a0568",
+      "date": "1987-05-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Mr.ASIA』LP盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "Mr.ASIA",
+      "releaseType": "初発売時の別規格（LP）",
+      "format": "アナログLPレコード",
+      "catalogNumber": "C28A0568",
+      "note": "作品形態：アナログLPレコード。作品の初発売日：1987-05-21。LP盤規格品番：C28A0568。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー（作品発売日）",
+          "url": "https://www.chage-aska.net/discography/album/mr_asia.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.suruga-ya.com/ja/product/252010932"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-1986to1989-19870521-28p6672",
+      "date": "1987-05-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Mr.ASIA』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "Mr.ASIA",
+      "releaseType": "初発売時の別規格（カセット）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "28P6672",
+      "note": "作品形態：カセットテープ（CT）。作品の初発売日：1987-05-21。カセット盤規格品番：28P6672。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、カセット規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー（作品発売日）",
+          "url": "https://www.chage-aska.net/discography/album/mr_asia.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.wikipedia-is-dead.com/wiki/Mr.ASIA"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-1986to1989-19880305-c28a0624",
+      "date": "1988-03-05",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『RHAPSODY』LP盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "RHAPSODY",
+      "releaseType": "初発売時の別規格（LP）",
+      "format": "アナログLPレコード",
+      "catalogNumber": "C28A0624",
+      "note": "作品形態：アナログLPレコード。作品の初発売日：1988-03-05。LP盤規格品番：C28A0624。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー（作品発売日）",
+          "url": "https://www.chage-aska.net/discography/album/phapsody.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://ticro.com/products/c031365"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-1986to1989-19880305-28p6780",
+      "date": "1988-03-05",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『RHAPSODY』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "RHAPSODY",
+      "releaseType": "初発売時の別規格（カセット）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "28P6780",
+      "note": "作品形態：カセットテープ（CT）。作品の初発売日：1988-03-05。カセット盤規格品番：28P6780。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、カセット規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー（作品発売日）",
+          "url": "https://www.chage-aska.net/discography/album/phapsody.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.ebay.de/itm/168674518147"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-1986to1989-19881121-c28a0678",
+      "date": "1988-11-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『ENERGY』LP盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "ENERGY",
+      "releaseType": "初発売時の別規格（LP）",
+      "format": "アナログLPレコード",
+      "catalogNumber": "C28A0678",
+      "note": "作品形態：アナログLPレコード。作品の初発売日：1988-11-21。LP盤規格品番：C28A0678。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー（作品発売日）",
+          "url": "https://www.chage-aska.net/discography/album/energy.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://diskunion.net/detail/1006533385"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-1986to1989-19881121-28p6854",
+      "date": "1988-11-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『ENERGY』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "ENERGY",
+      "releaseType": "初発売時の別規格（カセット）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "28P6854",
+      "note": "作品形態：カセットテープ（CT）。作品の初発売日：1988-11-21。カセット盤規格品番：28P6854。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、カセット規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー（作品発売日）",
+          "url": "https://www.chage-aska.net/discography/album/energy.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://tokyocollectors.shop-pro.jp/?cid=&keyword=&mode=srh&page=440"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-1986to1989-19890825-36p60109",
+      "date": "1989-08-25",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『PRIDE』カセット盤発売",
+      "status": "released",
+      "verification": "secondary",
+      "releaseTitle": "PRIDE",
+      "releaseType": "初発売時の別規格（カセット）",
+      "format": "カセットテープ（CT）",
+      "catalogNumber": "36P60109",
+      "note": "作品形態：カセットテープ（CT）。作品の初発売日：1989-08-25。カセット盤規格品番：36P60109。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、カセット規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+      "sources": [
+        {
+          "label": "公式ディスコグラフィー（作品発売日）",
+          "url": "https://www.chage-aska.net/discography/album/pride.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://diskunion-ochanomizuekimae.blog.jp/archives/16215053.html"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.0.20"
+  "siteVersion": "2.0.21"
 }
