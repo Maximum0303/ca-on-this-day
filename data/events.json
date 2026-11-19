@@ -32566,15 +32566,20 @@
       "title": "ASKAビデオ『共謀者』ファンクラブ限定販売",
       "status": "released",
       "verification": "primary",
-      "note": "公式HISTORYに記載のファンクラブオリジナル映像作品。一般店頭での通常販売とは区別。",
+      "note": "公式HISTORYに記載のファンクラブオリジナル映像作品。一般店頭での通常販売とは区別。\n【第51回・媒体確認】1997年8月7日のファンクラブ限定版はVHS（VHS仕様は二次資料で確認）。公式HISTORYは発売日とファンクラブ限定販売を確認。2001年一般発売DVDとは別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（二次資料・VHS仕様）",
+          "url": "https://ja.wikipedia.org/wiki/%E5%85%B1%E8%AC%80%E8%80%85_ID"
         }
       ],
       "catalogNumberStatus": "needs_verification",
-      "catalogNumberStatusNote": "物理商品か媒体未詳の記録。該当する初発売・再発売・規格を原典で照合するまで空欄維持。"
+      "catalogNumberStatusNote": "物理商品か媒体未詳の記録。該当する初発売・再発売・規格を原典で照合するまで空欄維持。",
+      "releaseFormat": "VHS（ファンクラブ限定）"
     },
     {
       "id": "v18210-1997-0807-three-aska-book",
@@ -54688,7 +54693,7 @@
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
-      "releaseTitle": "アイのうた～東日本大震災チャリティ・アルバム』配信開始",
+      "releaseTitle": "アイのうた～東日本大震災チャリティ・アルバム",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信"
@@ -54708,7 +54713,7 @@
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
-      "releaseTitle": "廃墟の鳩』配信開始",
+      "releaseTitle": "廃墟の鳩",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信"
@@ -54728,7 +54733,7 @@
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
-      "releaseTitle": "上を向いて歩こう』配信開始",
+      "releaseTitle": "上を向いて歩こう",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信"
@@ -54973,7 +54978,7 @@
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
-      "releaseTitle": "3月のタンポポ』配信開始",
+      "releaseTitle": "3月のタンポポ",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信"
@@ -55012,7 +55017,7 @@
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
-      "releaseTitle": "巴里にひとり』配信開始",
+      "releaseTitle": "巴里にひとり",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信"
@@ -55573,7 +55578,7 @@
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
-      "releaseTitle": "旅人よ』配信開始",
+      "releaseTitle": "旅人よ",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信"
@@ -55742,7 +55747,7 @@
           "url": "https://www.billboard-japan.com/goods/detail/238393"
         }
       ],
-      "releaseTitle": "TOKYO MOON』シングル",
+      "releaseTitle": "TOKYO MOON",
       "catalogNumber": "POCS-22016",
       "releaseFormat": "CDシングル",
       "format": "CDシングル"
@@ -55812,7 +55817,7 @@
           "url": "https://www.billboard-japan.com/goods/detail/238913"
         }
       ],
-      "releaseTitle": "BOOKEND』アルバム",
+      "releaseTitle": "BOOKEND",
       "catalogNumber": "POCS-22018",
       "releaseFormat": "CD（アルバム）",
       "format": "CD（アルバム）"
@@ -55832,7 +55837,7 @@
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
-      "releaseTitle": "まわせ大きな地球儀』ライブ音源配信開始",
+      "releaseTitle": "まわせ大きな地球儀",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信"
@@ -55873,7 +55878,7 @@
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
-      "releaseTitle": "歌の中には不自由がない』配信開始",
+      "releaseTitle": "歌の中には不自由がない",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信"
@@ -55930,7 +55935,7 @@
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
-      "releaseTitle": "木綿のハンカチーフ』配信開始",
+      "releaseTitle": "木綿のハンカチーフ",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信"
@@ -55998,7 +56003,7 @@
           "url": "https://www.netoff.co.jp/detail/0012698579/"
         }
       ],
-      "releaseTitle": "GO! GO! GO!』会場限定CD",
+      "releaseTitle": "GO! GO! GO!",
       "catalogNumberStatus": "documented_secondary",
       "catalogNumberStatusNote": "中古流通販売記録のCGPKG900102をハイフンを付して統一表記",
       "catalogNumber": "CGPKG-900102",
@@ -56046,7 +56051,7 @@
           "url": "https://www.chage-aska.net/discography/video/guys_bluray.php"
         }
       ],
-      "releaseTitle": "CHAGE AND ASKA CONCERT MOVIE GUYS』Blu-ray",
+      "releaseTitle": "CHAGE AND ASKA CONCERT MOVIE GUYS",
       "releaseFormat": "Blu-ray",
       "catalogNumber": "POXS-22006"
     },
@@ -56069,7 +56074,7 @@
           "url": "https://www.chage-aska.net/discography/video/yumenobannin_special_event_bluray.php"
         }
       ],
-      "releaseTitle": "CHAGE&ASKA 夢の番人 SPECIAL EVENT1993 GUYS』Blu-ray",
+      "releaseTitle": "CHAGE&ASKA 夢の番人 SPECIAL EVENT1993 GUYS",
       "releaseFormat": "Blu-ray",
       "catalogNumber": "POXS-22007"
     },
@@ -56092,7 +56097,7 @@
           "url": "https://www.oricon.co.jp/prof/245800/products/957342/1/"
         }
       ],
-      "releaseTitle": "ASKA CONCERT TOUR GOOD TIME』Blu-ray",
+      "releaseTitle": "ASKA CONCERT TOUR GOOD TIME",
       "releaseFormat": "Blu-ray",
       "catalogNumber": "POXS-22008"
     },
@@ -56115,7 +56120,7 @@
           "url": "https://www.chage-aska.net/discography/video/tour_02_03_bluray.php"
         }
       ],
-      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE』Blu-ray",
+      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE",
       "releaseFormat": "Blu-ray",
       "catalogNumber": "POXS-22009"
     },
@@ -56138,7 +56143,7 @@
           "url": "https://www.chage-aska.net/discography/video/countdown_live_bluray.php"
         }
       ],
-      "releaseTitle": "CHAGE and ASKA COUNTDOWN LIVE 03>>04 in SAPPORO DOME』Blu-ray",
+      "releaseTitle": "CHAGE and ASKA COUNTDOWN LIVE 03>>04 in SAPPORO DOME",
       "releaseFormat": "Blu-ray",
       "catalogNumber": "POXS-22010"
     },
@@ -56161,7 +56166,7 @@
           "url": "https://www.chage-aska.net/discography/video/two_five_bluray.php"
         }
       ],
-      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 2004 two-five』Blu-ray",
+      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 2004 two-five",
       "releaseFormat": "Blu-ray",
       "catalogNumber": "POXS-22011"
     },
@@ -56184,7 +56189,7 @@
           "url": "https://www.chage-aska.net/discography/video/neppu_bluray.php"
         }
       ],
-      "releaseTitle": "CHAGE and ASKA 25th Anniversary Special チャゲ＆飛鳥 熱風コンサート』Blu-ray",
+      "releaseTitle": "CHAGE and ASKA 25th Anniversary Special チャゲ＆飛鳥 熱風コンサート",
       "releaseFormat": "Blu-ray",
       "catalogNumber": "POXS-22012"
     },
@@ -56207,7 +56212,7 @@
           "url": "https://contents.oricon.co.jp/prof/245800/products/957352/1/"
         }
       ],
-      "releaseTitle": "ASKA Concert Tour 05>>06 My Game is ASKA』Blu-ray",
+      "releaseTitle": "ASKA Concert Tour 05>>06 My Game is ASKA",
       "releaseFormat": "Blu-ray",
       "catalogNumber": "POXS-22013"
     },
@@ -56373,7 +56378,7 @@
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
-      "releaseTitle": "GO! GO! GO!』配信開始",
+      "releaseTitle": "GO! GO! GO!",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信"
@@ -56397,7 +56402,7 @@
           "url": "https://www.universal-music.co.jp/p/POXS-22014/"
         }
       ],
-      "releaseTitle": "Chage and ASKA Concert tour 2007 DOUBLE』Blu-ray",
+      "releaseTitle": "Chage and ASKA Concert tour 2007 DOUBLE",
       "releaseFormat": "Blu-ray",
       "catalogNumber": "POXS-22014"
     },
@@ -56420,7 +56425,7 @@
           "url": "https://www.universal-music.co.jp/p/POXS-22015/"
         }
       ],
-      "releaseTitle": "Chage and ASKA Concert 2007 alive in live』Blu-ray",
+      "releaseTitle": "Chage and ASKA Concert 2007 alive in live",
       "releaseFormat": "Blu-ray",
       "catalogNumber": "POXS-22015"
     },
@@ -56443,7 +56448,7 @@
           "url": "https://www.universal-music.co.jp/p/POXS-22016/"
         }
       ],
-      "releaseTitle": "ASKA SYMPHONIC CONCERT TOUR 2008 SCENE』Blu-ray",
+      "releaseTitle": "ASKA SYMPHONIC CONCERT TOUR 2008 SCENE",
       "releaseFormat": "Blu-ray",
       "catalogNumber": "POXS-22016"
     },
@@ -56466,7 +56471,7 @@
           "url": "https://www.universal-music.co.jp/chage/products/poxs-22017/"
         }
       ],
-      "releaseTitle": "Chage CONCERT TOUR 2008 アイシテル』Blu-ray",
+      "releaseTitle": "Chage CONCERT TOUR 2008 アイシテル",
       "releaseFormat": "Blu-ray",
       "catalogNumber": "POXS-22017"
     },
@@ -56489,7 +56494,7 @@
           "url": "https://www.billboard-japan.com/goods/detail/239686"
         }
       ],
-      "releaseTitle": "ASKA CONCERT TOUR 2009 WALK』Blu-ray",
+      "releaseTitle": "ASKA CONCERT TOUR 2009 WALK",
       "releaseFormat": "Blu-ray",
       "catalogNumber": "POXS-22018"
     },
@@ -56512,7 +56517,7 @@
           "url": "https://www.billboard-japan.com/goods/detail/239687"
         }
       ],
-      "releaseTitle": "Chageドキュメント2009～日々即是空～』Blu-ray",
+      "releaseTitle": "Chageドキュメント2009～日々即是空～",
       "releaseFormat": "Blu-ray",
       "catalogNumber": "POXS-22019"
     },
@@ -56535,7 +56540,7 @@
           "url": "https://www.universal-music.co.jp/p/POXS-22020/"
         }
       ],
-      "releaseTitle": "ASKA THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス』Blu-ray",
+      "releaseTitle": "ASKA THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス",
       "releaseFormat": "Blu-ray",
       "catalogNumber": "POXS-22020"
     },
@@ -56745,7 +56750,7 @@
           "url": "https://tower.jp/item/3138494"
         }
       ],
-      "releaseTitle": "SCRAMBLE』アルバム",
+      "releaseTitle": "SCRAMBLE",
       "catalogNumber": "POCS-22020",
       "releaseFormat": "CD＋Blu-ray（豪華ブックレット付）",
       "format": "CD＋Blu-ray（豪華ブックレット付）"
@@ -56773,7 +56778,7 @@
           "url": "https://www.fellows.tokyo/discography/detail/63/"
         }
       ],
-      "releaseTitle": "昭和が見ていたクリスマス!? Prelude to The Bookend』ライブ映像",
+      "releaseTitle": "昭和が見ていたクリスマス!? Prelude to The Bookend",
       "catalogNumber": "POXS-22021",
       "releaseFormat": "Blu-ray",
       "format": "Blu-ray"
@@ -56860,7 +56865,7 @@
           "url": "https://www.oricon.co.jp/prof/245800/products/1007099/1/"
         }
       ],
-      "releaseTitle": "「僕にできること」いま歌うシリーズ』会場限定先行",
+      "releaseTitle": "「僕にできること」いま歌うシリーズ",
       "catalogNumberStatus": "documented_secondary",
       "catalogNumberStatusNote": "一般発売2013/3/27の同一作品の品番。会場先行盤に独自番号がないか現物確認継続",
       "catalogNumber": "POCS-22022",
@@ -57076,7 +57081,7 @@
           "url": "https://chage.jp/discography/chage/bd/005.php"
         }
       ],
-      "releaseTitle": "Chageの茶会2012 ～座・藍燈横濱～』ライブ映像",
+      "releaseTitle": "Chageの茶会2012 ～座・藍燈横濱～",
       "catalogNumberStatus": "confirmed_primary",
       "catalogNumberStatusNote": "発売形態・品番照合済み",
       "catalogNumber": "CGPKG902101",
@@ -57325,7 +57330,7 @@
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
-      "releaseTitle": "Chageの茶会2012 ～座・藍燈横濱～』ライブ音源配信開始",
+      "releaseTitle": "Chageの茶会2012 ～座・藍燈横濱～",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信"
@@ -57618,7 +57623,7 @@
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
-      "releaseTitle": "ROCKET』ライブ音源先行配信開始",
+      "releaseTitle": "ROCKET",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信"
@@ -57663,7 +57668,7 @@
           "url": "https://contents.oricon.co.jp/prof/245800/products/1007099/1/"
         }
       ],
-      "releaseTitle": "「僕にできること」いま歌うシリーズ』一般",
+      "releaseTitle": "「僕にできること」いま歌うシリーズ",
       "catalogNumber": "POCS-22022",
       "releaseFormat": "CD（アルバム）",
       "format": "CD（アルバム）"
@@ -85843,5 +85848,5 @@
       "releaseType": "reissue"
     }
   ],
-  "siteVersion": "2.0.48"
+  "siteVersion": "2.0.49"
 }
