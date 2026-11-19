@@ -1,4 +1,4 @@
-/* 今日はC&Aの何の日？｜公開用データ */
+/* 今日はC&Aの何の日？｜公開用イベントデータ */
 window.CA_EVENT_DATA = {
   "schemaVersion": 1,
   "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2027年の公式発表済み予定を追加。開催予定の記録は日付経過のみで開催済みと断定せず、延期・中止と区別して表示します。既存の記録の確認日・履歴はそのまま保存しています。",
@@ -21221,13 +21221,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "STILL",
       "status": "released",
       "verification": "primary",
-      "note": "アルバム",
+      "note": "アルバム 規格品番：TOCT-6086（商品情報等の二次資料で確認）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "商品情報（二次資料・規格品番）",
+          "url": "https://www.suruga-ya.jp/product/detail/220056218?tenpo_cd=410114"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-6086",
+      "releaseFormat": "CD"
     },
     {
       "id": "media-v18-1991-019",
@@ -21570,13 +21576,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "SCENE II",
       "status": "released",
       "verification": "primary",
-      "note": "アルバム",
+      "note": "アルバム 規格品番：PCCA-00273（商品情報等の二次資料で確認）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "オリコン作品情報（二次資料・規格品番）",
+          "url": "https://contents.oricon.co.jp/prof/245800/products/172973/1/"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00273",
+      "releaseFormat": "CD"
     },
     {
       "id": "media-v18-1991-011",
@@ -21827,13 +21839,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "TREE",
       "status": "released",
       "verification": "primary",
-      "note": "アルバム",
+      "note": "アルバム 規格品番：PCCA-00304（商品情報等の二次資料で確認）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "オリコン作品情報（二次資料・規格品番）",
+          "url": "https://contents.oricon.co.jp/prof/4069/products/173003/1/"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00304",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-1990-1992-015",
@@ -23486,13 +23504,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "SUPER BEST II",
       "status": "released",
       "verification": "primary",
-      "note": "アルバム",
+      "note": "アルバム 規格品番：PCCA-00355（商品情報等の二次資料で確認）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "オリコン作品情報（二次資料・規格品番）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/173051/1/"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00355",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-1990-1992-021",
@@ -23503,13 +23527,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "LOVE SONG",
       "status": "released",
       "verification": "primary",
-      "note": "1989年発売盤とは別の1992年再発売記録",
+      "note": "1989年発売盤とは別の1992年再発売記録 規格品番：PCDA-00292（商品情報等の二次資料で確認）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "オリコン作品情報（二次資料・規格品番）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/178611/1/"
         }
-      ]
+      ],
+      "catalogNumber": "PCDA-00292",
+      "releaseFormat": "8cm CD"
     },
     {
       "id": "live-big-tree-1992-009",
@@ -24233,13 +24263,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "Human",
       "status": "released",
       "verification": "primary",
-      "note": "アルバム",
+      "note": "アルバム 規格品番：TOCT-6479（商品情報等の二次資料で確認）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "オリコン作品情報（二次資料・規格品番）",
+          "url": "https://www.oricon.co.jp/prof/16739/products/268211/1/"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-6479",
+      "releaseFormat": "CD"
     },
     {
       "id": "media-v18-1992-015",
@@ -24364,13 +24400,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "GUYS",
       "status": "released",
       "verification": "primary",
-      "note": "アルバム",
+      "note": "アルバム 規格品番：PCCA-00399（商品情報等の二次資料で確認）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "オリコン作品情報（二次資料・規格品番）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/173091/1/"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00399",
+      "releaseFormat": "CD"
     },
     {
       "id": "live-multi-max-max-tool-1992-001",
@@ -24439,13 +24481,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "MAX TOOL Vol.1",
       "status": "released",
       "verification": "primary",
-      "note": "アルバム",
+      "note": "アルバム 規格品番：TOCT-6877（商品情報等の二次資料で確認）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "商品情報（二次資料・規格品番）",
+          "url": "https://tower.jp/item/591580"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-6877",
+      "releaseFormat": "CD"
     },
     {
       "id": "live-multi-max-max-tool-1992-003",
@@ -25260,13 +25308,19 @@ window.CA_EVENT_DATA = {
       "title": "『RE-BIRTH』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：ミニアルバム。MULTI MAXのミニアルバム。公式ディスコグラフィーのアルバム欄に掲載。",
+      "note": "作品形態：ミニアルバム。MULTI MAXのミニアルバム。公式ディスコグラフィーのアルバム欄に掲載。 規格品番：TOCT-8055（商品情報等の二次資料で確認）。",
       "sources": [
         {
           "label": "Chage公式ディスコグラフィー｜MULTI MAXアルバム一覧",
           "url": "https://chage.jp/discography/multi_max/album.php"
+        },
+        {
+          "label": "オリコン作品情報（二次資料・規格品番）",
+          "url": "https://www.oricon.co.jp/prof/16739/products/268617/1/"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-8055",
+      "releaseFormat": "CD"
     },
     {
       "id": "release-audit-v202-20261118-ca-sons-daughters-single",
@@ -25318,13 +25372,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "RED HILL",
       "status": "released",
       "verification": "secondary",
-      "note": "",
+      "note": " 規格品番：PCCA-00476（商品情報等の二次資料で確認）。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://w.atwiki.jp/canda/pages/424.html"
+        },
+        {
+          "label": "オリコン作品情報（二次資料・規格品番）",
+          "url": "https://contents.oricon.co.jp/prof/4069/products/173165/1/"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00476",
+      "releaseFormat": "CD"
     },
     {
       "id": "live-longest-tour-1993-1994-002",
@@ -26043,13 +26103,15 @@ window.CA_EVENT_DATA = {
       "title": "『CHAGE&ASKA THE LONGEST TOUR MEMORIAL』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：企画CD。公式サイトの「OTHERS」に分類されるCD作品。ユーザー提供一覧ではシングル欄にあるが、一般シングルとしては扱わない。",
+      "note": "作品形態：企画CD。公式サイトの「OTHERS」に分類されるCD作品。ユーザー提供一覧ではシングル欄にあるが、一般シングルとしては扱わない。 18枚組CD BOX。製品番号：PCDA-00523（公式ディスコグラフィーで確認）。",
       "sources": [
         {
           "label": "C&A公式ディスコグラフィー｜THE LONGEST TOUR MEMORIAL",
           "url": "https://www.chage-aska.net/discography/others/longest_tour.php"
         }
-      ]
+      ],
+      "catalogNumber": "PCDA-00523",
+      "releaseFormat": "CD BOX（18枚組）"
     },
     {
       "id": "release-audit-v205-1993-pcca-00534",
@@ -26070,7 +26132,9 @@ window.CA_EVENT_DATA = {
           "label": "補足資料（二次資料）",
           "url": "https://www.moma-bd.com/ca.standing.htm"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00534",
+      "releaseFormat": "APO-CD"
     },
     {
       "id": "release-audit-v205-1993-pcca-00535",
@@ -26091,7 +26155,9 @@ window.CA_EVENT_DATA = {
           "label": "補足資料（二次資料）",
           "url": "https://books.rakuten.co.jp/rb/7452960/"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00535",
+      "releaseFormat": "APO-CD"
     },
     {
       "id": "release-audit-v205-1993-pcca-00536",
@@ -26112,7 +26178,9 @@ window.CA_EVENT_DATA = {
           "label": "補足資料（二次資料）",
           "url": "https://www.moma-bd.com/ca.mixblood.htm"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00536",
+      "releaseFormat": "APO-CD"
     },
     {
       "id": "release-audit-v205-1993-pcca-00537",
@@ -26133,7 +26201,9 @@ window.CA_EVENT_DATA = {
           "label": "補足資料（二次資料）",
           "url": "https://books.rakuten.co.jp/rb/3908294/"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00537",
+      "releaseFormat": "APO-CD"
     },
     {
       "id": "release-audit-v205-1993-pcca-00538",
@@ -26154,7 +26224,9 @@ window.CA_EVENT_DATA = {
           "label": "補足資料（二次資料）",
           "url": "https://www.suruga-ya.jp/product/detail/220021463"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00538",
+      "releaseFormat": "APO-CD"
     },
     {
       "id": "release-audit-v205-1993-pcca-00539",
@@ -26175,7 +26247,9 @@ window.CA_EVENT_DATA = {
           "label": "補足資料（二次資料）",
           "url": "https://www.moma-bd.com/ca.energy.htm"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00539",
+      "releaseFormat": "APO-CD"
     },
     {
       "id": "release-audit-v205-1993-pcca-00540",
@@ -26196,7 +26270,9 @@ window.CA_EVENT_DATA = {
           "label": "補足資料（二次資料）",
           "url": "https://books.rakuten.co.jp/rb/3908300/"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00540",
+      "releaseFormat": "APO-CD"
     },
     {
       "id": "release-audit-v205-1993-pcca-00541",
@@ -26217,7 +26293,9 @@ window.CA_EVENT_DATA = {
           "label": "補足資料（二次資料）",
           "url": "https://www.otokichi.com/cgi-bin/jp/original_list.cgi?all=1&artist_id=2296"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00541",
+      "releaseFormat": "APO-CD"
     },
     {
       "id": "release-audit-v205-1993-pcca-00542",
@@ -26238,7 +26316,9 @@ window.CA_EVENT_DATA = {
           "label": "補足資料（二次資料）",
           "url": "https://newikis.com/ja/SEE_YA"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00542",
+      "releaseFormat": "APO-CD"
     },
     {
       "id": "release-audit-v205-1993-pcca-00543",
@@ -26259,7 +26339,9 @@ window.CA_EVENT_DATA = {
           "label": "補足資料（二次資料）",
           "url": "https://www.netoff.co.jp/detail/0000860555/"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00543",
+      "releaseFormat": "APO-CD"
     },
     {
       "id": "release-audit-v205-1993-pcca-00544",
@@ -26280,7 +26362,9 @@ window.CA_EVENT_DATA = {
           "label": "補足資料（二次資料）",
           "url": "https://contents.oricon.co.jp/prof/4069/products/173232/1/"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00544",
+      "releaseFormat": "APO-CD"
     },
     {
       "id": "release-audit-v205-1993-pcca-00545",
@@ -26301,7 +26385,9 @@ window.CA_EVENT_DATA = {
           "label": "補足資料（二次資料）",
           "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220039241"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00545",
+      "releaseFormat": "APO-CD"
     },
     {
       "id": "release-audit-v205-1993-pcca-00546",
@@ -26322,7 +26408,9 @@ window.CA_EVENT_DATA = {
           "label": "補足資料（二次資料）",
           "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220039242"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00546",
+      "releaseFormat": "APO-CD"
     },
     {
       "id": "live-longest-tour-1993-1994-029",
@@ -79802,5 +79890,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.0.9"
+  "siteVersion": "2.0.10"
 };
