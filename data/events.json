@@ -80797,7 +80797,28 @@
           "url": "https://www.fellows.tokyo/news/detail/787"
         }
       ]
+    },
+    {
+      "id": "release-audit-v2017-2001-yccr-00019",
+      "date": "2001-07-18",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『PRIDE』CD再発売（2001年ヤマハ盤）",
+      "status": "released",
+      "verification": "primary",
+      "releaseTitle": "PRIDE",
+      "releaseType": "CD再発売",
+      "format": "CD（2枚組）",
+      "catalogNumber": "YCCR-00019",
+      "label": "ヤマハミュージックコミュニケーションズ",
+      "note": "作品形態：アルバムCD再発売（2枚組）。発売日：2001年7月18日。規格品番：YCCR-00019。ヤマハミュージックコミュニケーションズ盤。ユーザー所蔵の現物帯・裏ジャケット写真を2026年11月19日に確認。裏ジャケットの「01.07.18」は発売日、「(再)03.07.17まで」は再販価格維持期限を示す。発売元ウェブ商品情報には7月11日の表記があるが、現物の印字に従い7月18日で登録。1989年の初発売・1993年APO-CD・1999年東芝EMI再発売・2009年SHM-CD一括再発売とは別の記録。",
+      "sources": [
+        {
+          "label": "発売元公式・商品情報（Web掲載日と現物表示に相違）",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/229"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.0.16"
+  "siteVersion": "2.0.17"
 }
