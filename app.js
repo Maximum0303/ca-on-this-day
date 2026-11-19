@@ -84,12 +84,17 @@ function resultCard(e){
  return `<article class="result-card ${yearOnly?'year-precision':''}" data-id="${esc(e.id)}"><div class="result-date">${datePart}</div><div><div class="result-meta"><span class="tag">${esc(category(e))}</span><span class="tag secondary">${esc(e.artist)}</span><span class="tag status-tag status-${kind}">${statusText}</span><span class="tag secondary">${esc(verificationLabel(e))}</span></div><h3>${esc(e.title)}</h3>${details?`<p>${esc(details)}</p>`:''}${e.note?`<p class="record-note">${esc(e.note)}</p>`:''}<div class="record-actions"><a class="record-permalink" href="${esc(recordUrl(e))}">この記録を開く ↗</a></div><details><summary>出典・確認状況</summary><p>${esc(verificationLabel(e))}${e.performanceNo?' ／ ツアー公演 '+esc(e.performanceNo)+'回目':''}</p>${link?`<div class="source-links">${link}</div>`:''}</details></div></article>`;
 }
 function searchableText(e){return [e.id,e.date,e.title,e.artist,e.venue,e.prefecture,e.note,e.releaseTitle,e.tourId,e.broadcastStation].filter(Boolean).join(' ').normalize('NFKC').toLocaleLowerCase('ja-JP');}
+/* YEAR_ONLY_CONDITIONAL_V221: year-only records are visible only with the relevant filter */
+function yearOnlyFiltersActive(){
+ return $('year-filter').value!=='all'||$('category-filter').value==='milestone';
+}
 function getMatches(){
  const terms=state.keyword.trim().normalize('NFKC').toLocaleLowerCase('ja-JP').split(/\s+/).filter(Boolean);
  const artist=$('artist-filter').value,cat=$('category-filter').value,dec=$('decade-filter').value;
  const year=$('year-filter').value,kind=$('status-filter').value,verification=$('verification-filter').value,sort=$('sort-filter').value;
  return events.filter(e=>{
   if(state.eventId)return e.id===state.eventId;
+  if(isYearOnly(e)&&!yearOnlyFiltersActive())return false;
   if(artist!=='all'&&e.artist!==artist)return false;
   if(cat!=='all'&&e.category!==cat)return false;
   if(dec!=='all'&&Math.floor(Number(e.date.slice(0,4))/10)*10!==Number(dec))return false;
@@ -109,6 +114,7 @@ function renderResults(){
  $('load-more').hidden=count<=state.limit;
  $('load-more').textContent='さらに表示する（残り '+(count-state.limit)+'件）';
  $('export-results').disabled=count===0;
+ renderYearOnly(matches);
 }
 function restoreFilters(){
  const names=[['artist','artist-filter'],['category','category-filter'],['decade','decade-filter'],['year','year-filter'],['status','status-filter'],['verification','verification-filter'],['sort','sort-filter']];
@@ -128,13 +134,18 @@ function saveResultsCSV(){
 }
 
 /* YEAR_ONLY_RECORDS_V2029: selected year is not a fabricated date */
-function renderYearOnly(){
- const box=$('year-only-list');if(!box)return;
- const list=events.filter(isYearOnly).sort((a,b)=>String(a.date).localeCompare(String(b.date))||String(a.id).localeCompare(String(b.id)));
- box.innerHTML=list.length?list.map(e=>{
+function renderYearOnly(matches){
+ const section=$('year-only'),box=$('year-only-list');if(!section||!box)return;
+ // Move below the search filters so selecting a condition reveals the section in place.
+ const filters=$('browse')?.querySelector('.filters');
+ if(filters&&section.previousElementSibling!==filters)filters.insertAdjacentElement('afterend',section);
+ const list=yearOnlyFiltersActive()?(matches||getMatches()).filter(isYearOnly):[];
+ section.hidden=list.length===0;
+ if(!list.length){box.replaceChildren();return;}
+ box.innerHTML=list.map(e=>{
   const note=String(e.note||'');const brief=note.length>260?note.slice(0,260)+'…':note;
   return '<article class="year-only-card"><span class="year-only-stamp">'+esc(e.date)+'年／月日未詳</span><span class="tag">'+esc(category(e))+'</span><h3>'+esc(e.title)+'</h3><p>'+esc(brief)+'</p><a href="'+esc(recordUrl(e))+'">記録の詳細・出典を見る ↗</a></article>';
- }).join(''):'<p>現在、年のみ判明している記録はありません。</p>';
+ }).join('');
 }
 /* /YEAR_ONLY_RECORDS_V2029 */
 
@@ -157,5 +168,5 @@ $('reset-filters').addEventListener('click',()=>{
 });
 $('load-more').addEventListener('click',()=>{state.limit+=18;renderResults();});
 $('export-results').addEventListener('click',saveResultsCSV);
-renderYearOnly();renderHero();renderCalendar();renderDay();renderStats();renderResults();syncURL();
+renderHero();renderCalendar();renderDay();renderStats();renderResults();syncURL();
 })();

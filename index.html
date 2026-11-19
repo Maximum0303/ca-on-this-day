@@ -55,6 +55,7 @@
 .year-only-card a{color:#ffe0a2;font-weight:700;min-height:38px;display:inline-flex;align-items:center;text-underline-offset:4px}
 .result-card.year-precision .result-date .md{font-size:1rem;line-height:1.5;overflow-wrap:anywhere}
 @media(max-width:600px){.year-only-section{padding:18px 15px;margin:24px 0 30px}.year-only-card{padding:15px 14px}}
+.year-only-section[hidden]{display:none!important}
 /* /YEAR_ONLY_RECORDS_V2029 */
 </style>
 </head>
@@ -99,9 +100,9 @@
     </section>
 
     <!-- YEAR_ONLY_RECORDS_V2029 -->
-    <section id="year-only" class="year-only-section" aria-labelledby="year-only-title">
+    <section id="year-only" class="year-only-section" aria-labelledby="year-only-title" hidden>
       <div class="section-head"><div><span class="kicker">YEAR-ONLY HISTORY / 月日未詳</span><h2 id="year-only-title">年だけ判明している出来事</h2></div></div>
-      <p class="year-only-intro">月日を確認できない重要な出来事も、年が分かれば掲載しています。特定の月日を仮に設定することはありません。日付から探すカレンダーの件数には含めず、検索一覧には含めます。</p>
+      <p class="year-only-intro">月日を確認できない重要な出来事を掲載しています。「西暦年」または「記録・記念日」を選ぶと表示されます。架空の日付は設定せず、日付カレンダーの件数には含めません。</p>
       <div id="year-only-list" class="year-only-list" aria-live="polite"><p>読み込み中…</p></div>
     </section>
     <!-- /YEAR_ONLY_RECORDS_V2029 -->
@@ -139,7 +140,7 @@
     var version=archive.siteVersion||archive.version||'1.8.2';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.2.2.0 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.2.2.1 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();
@@ -176,7 +177,7 @@ document.addEventListener('DOMContentLoaded',function(){
  const back=node('button','ca-detail-back',/^\d{4}$/.test(String(e.date||''))?'← 年のみの記録一覧に戻る':'← この日の一覧に戻る');back.type='button';
  back.addEventListener('click',function(){
   document.body.classList.remove('ca-single');section.remove();
-  if(/^\d{4}$/.test(String(e.date||''))){const u=new URL(location.href);u.search='';u.hash='year-only';location.assign(u.href);return;}
+  if(/^\d{4}$/.test(String(e.date||''))){const u=new URL(location.href);u.search='';u.searchParams.set('year',String(e.date));u.hash='year-only';location.assign(u.href);return;}
   const all=document.getElementById('all-day');
   if(all){all.click();document.getElementById('browse')?.scrollIntoView({block:'start'});}
   else {const u=new URL(location.href);u.searchParams.delete('event');u.hash='calendar';location.assign(u.href);}
