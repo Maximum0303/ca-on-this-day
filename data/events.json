@@ -146,13 +146,19 @@
       "releaseTitle": "ひとり咲き",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【初発売品番補完｜公式製品番号】初発売時のシングル製品番号：L-303。公式ディスコグラフィーで確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/hitorizaki.php"
         }
-      ]
+      ],
+      "catalogNumber": "L-303",
+      "format": "シングルレコード（EP）"
     },
     {
       "id": "milestone-debut-1979-0825",
@@ -362,13 +368,19 @@
       "releaseTitle": "流恋情歌",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【初発売品番補完｜公式製品番号】初発売時のシングル製品番号：L-335。公式ディスコグラフィーで確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/rurenjoka.php"
         }
-      ]
+      ],
+      "catalogNumber": "L-335",
+      "format": "シングルレコード（EP）"
     },
     {
       "id": "media-v17-1980-006",
@@ -395,7 +407,7 @@
       "releaseTitle": "風舞",
       "status": "released",
       "verification": "secondary",
-      "note": "",
+      "note": "【初発売品番補完｜販売店商品情報（品番は二次資料）】初発売時の規格情報：LP（初発売時）：L-11015E（品番は二次資料）／カセット（別規格記録済み）：LKF-5039（品番は二次資料）。カセットは既存の別規格盤記録 release-audit-early-ct-20261119-19800425-lkf5039 と同じ製品。 LPの発売年月日を媒体別に一次資料確認した意味ではありません。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
@@ -404,7 +416,15 @@
         {
           "label": "公式・主催者発表",
           "url": "https://www.chage-aska.net/discography/album/kazemai.php"
+        },
+        {
+          "label": "参考資料（非公式・LP品番）",
+          "url": "https://www.stereo-records.com/detail.php?itemCd=50115"
         }
+      ],
+      "formats": [
+        "LP（初発売時）：L-11015E（品番は二次資料）",
+        "カセット（別規格記録済み）：LKF-5039（品番は二次資料）"
       ]
     },
     {
@@ -764,13 +784,19 @@
       "releaseTitle": "万里の河",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【初発売品番補完｜公式製品番号】初発売時のシングル製品番号：L-373。公式ディスコグラフィーで確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/banri_no_kawa.php"
         }
-      ]
+      ],
+      "catalogNumber": "L-373",
+      "format": "シングルレコード（EP）"
     },
     {
       "id": "media-v17-1980-013",
@@ -1405,12 +1431,20 @@
       "releaseTitle": "熱風",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【初発売品番補完｜販売店商品情報（品番は二次資料）】初発売時の規格情報：LP（初発売時）：L-12017E（品番は二次資料）／カセット（別規格記録済み）：LKF-7021（品番は二次資料）。カセットは既存の別規格盤記録 release-audit-early-ct-20261119-19810225-lkf7021 と同じ製品。 LPの発売年月日を媒体別に一次資料確認した意味ではありません。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（非公式・LP品番）",
+          "url": "https://takechas.com/?pid=75478747"
         }
+      ],
+      "formats": [
+        "LP（初発売時）：L-12017E（品番は二次資料）",
+        "カセット（別規格記録済み）：LKF-7021（品番は二次資料）"
       ]
     },
     {
@@ -2069,13 +2103,19 @@
       "releaseTitle": "放浪人（TABIBITO）",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【初発売品番補完｜公式製品番号】初発売時のシングル製品番号：L-1515。公式ディスコグラフィーで確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/tabibito.php"
         }
-      ]
+      ],
+      "catalogNumber": "L-1515",
+      "format": "シングルレコード（EP）"
     },
     {
       "id": "live-heat-1981-028",
@@ -2903,12 +2943,20 @@
       "releaseTitle": "ライブ・イン田園コロシアム～The夏祭り’81",
       "status": "released",
       "verification": "primary",
-      "note": "ライブアルバム",
+      "note": "ライブアルバム\n【初発売品番補完｜公式製品番号】初発売時の規格情報：LP（初発売時）：L-11025（公式）／カセット（別規格記録済み）：LKF-5058（品番は二次資料）。カセットは既存の別規格盤記録 release-audit-early-ct-20261119-19810910-lkf5058 と同じ製品。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/album/live_in_denen_colosseum.php"
         }
+      ],
+      "formats": [
+        "LP（初発売時）：L-11025（公式）",
+        "カセット（別規格記録済み）：LKF-5058（品番は二次資料）"
       ]
     },
     {
@@ -3087,13 +3135,19 @@
       "releaseTitle": "男と女",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【初発売品番補完｜公式製品番号】初発売時のシングル製品番号：L-1560。公式ディスコグラフィーで確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/otoko_to_onna.php"
         }
-      ]
+      ],
+      "catalogNumber": "L-1560",
+      "format": "シングルレコード（EP）"
     },
     {
       "id": "live-cocky-1981-001",
@@ -3704,12 +3758,20 @@
       "releaseTitle": "黄昏の騎士",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【初発売品番補完｜販売店商品情報（品番は二次資料）】初発売時の規格情報：LP（初発売時）：L-12514E（品番は二次資料）／カセット（別規格記録済み）：LKF-8025（品番は二次資料）。カセットは既存の別規格盤記録 release-audit-early-ct-20261119-19820214-lkf8025 と同じ製品。 LPの発売年月日を媒体別に一次資料確認した意味ではありません。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（非公式・LP品番）",
+          "url": "https://www.stereo-records.com/detail.php?itemCd=50114"
         }
+      ],
+      "formats": [
+        "LP（初発売時）：L-12514E（品番は二次資料）",
+        "カセット（別規格記録済み）：LKF-8025（品番は二次資料）"
       ]
     },
     {
@@ -4137,13 +4199,19 @@
       "releaseTitle": "熱い想い",
       "status": "released",
       "verification": "primary",
-      "note": "シングル",
+      "note": "シングル\n【初発売品番補完｜公式製品番号】初発売時のシングル製品番号：L-1585。公式ディスコグラフィーで確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/atsui_omoi.php"
         }
-      ]
+      ],
+      "catalogNumber": "L-1585",
+      "format": "シングルレコード（EP）"
     },
     {
       "id": "media-v17-1982-004",
@@ -5080,13 +5148,19 @@
       "releaseTitle": "北風物語",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【初発売品番補完｜公式製品番号】初発売時のシングル製品番号：L-1615。公式ディスコグラフィーで確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/kitakaze_monogatari.php"
         }
-      ]
+      ],
+      "catalogNumber": "L-1615",
+      "format": "シングルレコード（EP）"
     },
     {
       "id": "live-goiken-1982-039",
@@ -5760,13 +5834,19 @@
       "releaseTitle": "マリオネット",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【初発売品番補完｜公式製品番号】初発売時のシングル製品番号：L-1621。公式ディスコグラフィーで確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/marionet.php"
         }
-      ]
+      ],
+      "catalogNumber": "L-1621",
+      "format": "シングルレコード（EP）"
     },
     {
       "id": "live-nemu-1983-001",
@@ -6411,13 +6491,19 @@
       "releaseTitle": "華やかに傷ついて",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【初発売品番補完｜公式製品番号】初発売時のシングル製品番号：L-1637。公式ディスコグラフィーで確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/hanayaka_ni_kizutsuite.php"
         }
-      ]
+      ],
+      "catalogNumber": "L-1637",
+      "format": "シングルレコード（EP）"
     },
     {
       "id": "live-invite-1983-016",
@@ -6674,12 +6760,20 @@
       "releaseTitle": "1983.9.30 CHAGE and ASKA LIVE IN YOYOGI STADIUM",
       "status": "released",
       "verification": "primary",
-      "note": "ライブアルバム",
+      "note": "ライブアルバム\n【初発売品番補完｜公式製品番号】初発売時の規格情報：LP（初発売時）：L-5562（公式）／カセット（別規格記録済み）：LKI-3011（品番は二次資料）。カセットは既存の別規格盤記録 release-audit-early-ct-20261119-19831116-lki3011 と同じ製品。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/album/yoyogi_stadium.php"
         }
+      ],
+      "formats": [
+        "LP（初発売時）：L-5562（公式）",
+        "カセット（別規格記録済み）：LKI-3011（品番は二次資料）"
       ]
     },
     {
@@ -6999,13 +7093,19 @@
       "releaseTitle": "MOON LIGHT BLUES",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【初発売品番補完｜公式製品番号】初発売時のシングル製品番号：L-1647。公式ディスコグラフィーで確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/moon_light_blues.php"
         }
-      ]
+      ],
+      "catalogNumber": "L-1647",
+      "format": "シングルレコード（EP）"
     },
     {
       "id": "media-v17-1984-002",
@@ -8982,13 +9082,19 @@
       "releaseTitle": "標的（ターゲット）",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【初発売品番補完｜公式製品番号】初発売時のシングル製品番号：L-1690。公式ディスコグラフィーで確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/target.php"
         }
-      ]
+      ],
+      "catalogNumber": "L-1690",
+      "format": "シングルレコード（EP）"
     },
     {
       "id": "media-v17-1984-036",
@@ -82084,5 +82190,5 @@
       ]
     }
   ],
-  "siteVersion": "2.0.23"
+  "siteVersion": "2.0.24"
 }
