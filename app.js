@@ -9,6 +9,7 @@ const WEEK=['日','月','火','水','木','金','土'];
 const pad=n=>String(n).padStart(2,'0');
 const md=(m,d)=>`${pad(m)}-${pad(d)}`;
 const fromDate=s=>{const p=String(s||'').split('-').map(Number);return {year:p[0],month:p[1],day:p[2]};};
+const isYearOnly=e=>e?.datePrecision==='year'||/^\d{4}$/.test(String(e?.date||''));
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const dayOfWeek=(y,m,d)=>WEEK[new Date(Date.UTC(y,m-1,d)).getUTCDay()];
 const todayParts=()=>{const parts=new Intl.DateTimeFormat('en-US',{timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(new Date());const p=Object.fromEntries(parts.map(x=>[x.type,x.value]));return {year:Number(p.year),month:Number(p.month),day:Number(p.day)};};
@@ -21,7 +22,8 @@ const state={month:initMonth,day:initDay,viewMonth:initMonth,dayOnly:null,limit:
 const sourceLink=s=>{const u=String(s.url||'');return /^https:\/\//.test(u)?`<a target="_blank" rel="noopener noreferrer" href="${esc(u)}">${esc(s.label||'参考資料')} ↗</a>`:'';};
 function syncURL(){
  const u=new URL(location.href);
- u.searchParams.set('date',md(state.month,state.day));
+ const selected=state.eventId?events.find(e=>e.id===state.eventId):null;
+ if(selected&&isYearOnly(selected))u.searchParams.delete('date');else u.searchParams.set('date',md(state.month,state.day));
  if(state.keyword&&!state.eventId)u.searchParams.set('q',state.keyword);else u.searchParams.delete('q');
  const fields=[['artist','artist-filter'],['category','category-filter'],['decade','decade-filter'],['year','year-filter'],['status','status-filter'],['verification','verification-filter'],['sort','sort-filter']];
  for(const [key,id] of fields){const v=$(id)?.value||'all';if(v==='all'||(key==='sort'&&v==='asc'))u.searchParams.delete(key);else u.searchParams.set(key,v);}
@@ -58,9 +60,10 @@ function setDate(month,day){state.eventId='';state.month=month;state.day=day;sta
 function shiftDate(diff){const utc=new Date(Date.UTC(2000,state.month-1,state.day+diff));setDate(utc.getUTCMonth()+1,utc.getUTCDate());}
 function category(e){return CAT[e.category]||'その他';}
 /* UX Ver.1.8.2-38: search/filter/display only; source data untouched */
-const STATUS_NAMES={recorded:'公演・放送済み',scheduled:'開催予定',postponed:'延期',cancelled:'中止',released:'発売済み',unknown:'状態未設定'};
+const STATUS_NAMES={historical:'歴史的出来事',recorded:'公演・放送済み',scheduled:'開催予定',postponed:'延期',cancelled:'中止',released:'発売済み',unknown:'状態未設定'};
 function normalizedStatus(e){
  const raw=String(e.status||'').toLowerCase().trim();
+ if(raw==='historical')return 'historical';
  if(raw.includes('cancel')||raw.includes('中止'))return 'cancelled';
  if(raw.includes('postpon')||raw.includes('延期'))return 'postponed';
  if(raw==='scheduled'||raw==='planned'||raw.includes('予定'))return 'scheduled';
@@ -70,12 +73,15 @@ function normalizedStatus(e){
 }
 function verificationLabel(e){return e.verification==='primary'?'一次資料確認済':e.verification==='secondary'?'二次資料確認':'確認状況未設定';}
 function recordUrl(e){
- const u=new URL(location.href);u.search='';u.searchParams.set('date',String(e.date).slice(5,7)+'-'+String(e.date).slice(8,10));u.searchParams.set('event',e.id);u.hash='browse';return u.href;
+ const u=new URL(location.href);u.search='';if(!isYearOnly(e))u.searchParams.set('date',String(e.date).slice(5,7)+'-'+String(e.date).slice(8,10));u.searchParams.set('event',e.id);u.hash='browse';return u.href;
 }
 function resultCard(e){
  const d=fromDate(e.date), details=[e.prefecture,e.venue].filter(Boolean).join('・');
  const kind=normalizedStatus(e), link=(e.sources||[]).map(sourceLink).join('');
- return `<article class="result-card" data-id="${esc(e.id)}"><div class="result-date"><span class="y">${d.year}</span><span class="md">${pad(d.month)}.${pad(d.day)}</span><span class="week">${dayOfWeek(d.year,d.month,d.day)}曜日</span></div><div><div class="result-meta"><span class="tag">${esc(category(e))}</span><span class="tag secondary">${esc(e.artist)}</span><span class="tag status-tag status-${kind}">${STATUS_NAMES[kind]}</span><span class="tag secondary">${esc(verificationLabel(e))}</span></div><h3>${esc(e.title)}</h3>${details?`<p>${esc(details)}</p>`:''}${e.note?`<p class="record-note">${esc(e.note)}</p>`:''}<div class="record-actions"><a class="record-permalink" href="${esc(recordUrl(e))}">この記録を開く ↗</a></div><details><summary>出典・確認状況</summary><p>${esc(verificationLabel(e))}${e.performanceNo?' ／ ツアー公演 '+esc(e.performanceNo)+'回目':''}</p>${link?`<div class="source-links">${link}</div>`:''}</details></div></article>`;
+ const yearOnly=isYearOnly(e);
+ const datePart=yearOnly?'<span class="y">'+d.year+'</span><span class="md">月日未詳</span>':'<span class="y">'+d.year+'</span><span class="md">'+pad(d.month)+'.'+pad(d.day)+'</span><span class="week">'+dayOfWeek(d.year,d.month,d.day)+'曜日</span>';
+ const statusText=yearOnly&&e.category==='milestone'?'年単位の歴史記録':STATUS_NAMES[kind];
+ return `<article class="result-card ${yearOnly?'year-precision':''}" data-id="${esc(e.id)}"><div class="result-date">${datePart}</div><div><div class="result-meta"><span class="tag">${esc(category(e))}</span><span class="tag secondary">${esc(e.artist)}</span><span class="tag status-tag status-${kind}">${statusText}</span><span class="tag secondary">${esc(verificationLabel(e))}</span></div><h3>${esc(e.title)}</h3>${details?`<p>${esc(details)}</p>`:''}${e.note?`<p class="record-note">${esc(e.note)}</p>`:''}<div class="record-actions"><a class="record-permalink" href="${esc(recordUrl(e))}">この記録を開く ↗</a></div><details><summary>出典・確認状況</summary><p>${esc(verificationLabel(e))}${e.performanceNo?' ／ ツアー公演 '+esc(e.performanceNo)+'回目':''}</p>${link?`<div class="source-links">${link}</div>`:''}</details></div></article>`;
 }
 function searchableText(e){return [e.id,e.date,e.title,e.artist,e.venue,e.prefecture,e.note,e.releaseTitle,e.tourId,e.broadcastStation].filter(Boolean).join(' ').normalize('NFKC').toLocaleLowerCase('ja-JP');}
 function getMatches(){
@@ -120,6 +126,18 @@ function saveResultsCSV(){
  const blob=new Blob(['\uFEFF'+rows.join('\r\n')+'\r\n'],{type:'text/csv;charset=utf-8'});
  const u=URL.createObjectURL(blob),a=document.createElement('a');a.href=u;a.download='CA_history_search_'+new Date().toISOString().slice(0,10)+'.csv';document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),10000);
 }
+
+/* YEAR_ONLY_RECORDS_V2029: selected year is not a fabricated date */
+function renderYearOnly(){
+ const box=$('year-only-list');if(!box)return;
+ const list=events.filter(isYearOnly).sort((a,b)=>String(a.date).localeCompare(String(b.date))||String(a.id).localeCompare(String(b.id)));
+ box.innerHTML=list.length?list.map(e=>{
+  const note=String(e.note||'');const brief=note.length>260?note.slice(0,260)+'…':note;
+  return '<article class="year-only-card"><span class="year-only-stamp">'+esc(e.date)+'年／月日未詳</span><span class="tag">'+esc(category(e))+'</span><h3>'+esc(e.title)+'</h3><p>'+esc(brief)+'</p><a href="'+esc(recordUrl(e))+'">記録の詳細・出典を見る ↗</a></article>';
+ }).join(''):'<p>現在、年のみ判明している記録はありません。</p>';
+}
+/* /YEAR_ONLY_RECORDS_V2029 */
+
 function renderStats(){const live=events.filter(e=>e.category==='live').length,release=events.filter(e=>e.category==='release').length;$('record-total').textContent=`試験収録 ${events.length} 件`;$('total-stat').textContent=events.length;$('live-stat').textContent=live;$('release-stat').textContent=release;}
 if(!events.length){$('day-summary').textContent='記録データが見つかりません。data/events.js を確認してください。';$('results').innerHTML='<p class="no-matches">データファイルを読み込めませんでした。</p>';return;}
 populateYears();restoreFilters();if(state.eventId&&!events.some(e=>e.id===state.eventId))state.eventId='';$('keyword').value=state.keyword;
@@ -139,5 +157,5 @@ $('reset-filters').addEventListener('click',()=>{
 });
 $('load-more').addEventListener('click',()=>{state.limit+=18;renderResults();});
 $('export-results').addEventListener('click',saveResultsCSV);
-renderHero();renderCalendar();renderDay();renderStats();renderResults();syncURL();
+renderYearOnly();renderHero();renderCalendar();renderDay();renderStats();renderResults();syncURL();
 })();
