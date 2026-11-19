@@ -27733,13 +27733,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "HEART/NATURAL/On Your Mark",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：PCDA-00629。媒体：8cm CD。公式資料で発売当時の品番を確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（当時の製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/heart.php"
         }
-      ]
+      ],
+      "catalogNumber": "PCDA-00629",
+      "releaseFormat": "8cm CD"
     },
     {
       "id": "release-v06-1994-08-25-126",
@@ -27750,13 +27756,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "Yin & Yang",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：PCCA-00625。媒体：CD（2枚組）。公式資料で発売当時の品番を確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（当時の製品番号）",
+          "url": "https://www.chage-aska.net/discography/album/yin_and_yang.php"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00625",
+      "releaseFormat": "CD（2枚組）"
     },
     {
       "id": "milestone-ca-15th-anniv-1994-0825",
@@ -27799,13 +27811,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "愛の空で",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：TODT-3333。媒体：8cm CD。商品情報等の二次資料で発売当時の品番を照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "作品・商品情報（二次資料／当時の品番）",
+          "url": "https://www.suruga-ya.jp/product/detail/250020156"
         }
-      ]
+      ],
+      "catalogNumber": "TODT-3333",
+      "releaseFormat": "8cm CD"
     },
     {
       "id": "release-audit-v203-20261118-chage-tsuki-book-first-1994",
@@ -27832,13 +27850,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "めぐり逢い",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：PCDA-00666。媒体：8cm CD。公式資料で発売当時の品番を確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（当時の製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/meguriai.php"
         }
-      ]
+      ],
+      "catalogNumber": "PCDA-00666",
+      "releaseFormat": "8cm CD"
     },
     {
       "id": "release-v06-1994-11-16-129",
@@ -27849,13 +27873,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "Well, Well, Well",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：TOCT-8651。媒体：CD。商品情報等の二次資料で発売当時の品番を照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "作品・商品情報（二次資料／当時の品番）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220057036"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-8651",
+      "releaseFormat": "CD"
     },
     {
       "id": "live-multi-max-well-well-well-1994-001",
@@ -28076,13 +28106,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "SUPER BEST BOX SINGLE HISTORY 1979-1994 AND Snow Mail",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：PCCA-00700。媒体：CD BOX（4枚組）。商品情報等の二次資料で発売当時の品番を照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "作品・商品情報（二次資料／当時の品番）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/173382/1/"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00700",
+      "releaseFormat": "CD BOX（4枚組）"
     },
     {
       "id": "live-multi-max-well-well-well-1994-011",
@@ -28219,13 +28255,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "晴天を誉めるなら夕暮れを待て",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：TODT-3370。媒体：8cm CD。商品情報等の二次資料で発売当時の品番を照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "作品・商品情報（二次資料／当時の品番）",
+          "url": "https://contents.oricon.co.jp/prof/245800/products/271567/1/"
         }
-      ]
+      ],
+      "catalogNumber": "TODT-3370",
+      "releaseFormat": "8cm CD"
     },
     {
       "id": "media-v18231-1995-01-06-aska-001",
@@ -28293,13 +28335,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "NEVER END",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：TOCT-8800。媒体：CD。商品情報等の二次資料で発売当時の品番を照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "作品・商品情報（二次資料／当時の品番）",
+          "url": "https://contents.oricon.co.jp/prof/245800/products/269149/1/"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-8800",
+      "releaseFormat": "CD"
     },
     {
       "id": "media-v18231-1995-03-07-multimax-001",
@@ -28386,13 +28434,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "Something There",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：PCDA-00718。媒体：8cm CD。公式資料で発売当時の品番を確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（当時の製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/something_there.php"
         }
-      ]
+      ],
+      "catalogNumber": "PCDA-00718",
+      "releaseFormat": "8cm CD"
     },
     {
       "id": "release-v06-1995-06-28-134",
@@ -28403,13 +28457,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "Code Name.1 Brother Sun",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：PCCA-00777。媒体：CD。商品情報等の二次資料で発売当時の品番を照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "作品・商品情報（二次資料／当時の品番）",
+          "url": "https://www.netoff.co.jp/detail/0000860469/"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00777",
+      "releaseFormat": "CD"
     },
     {
       "id": "live-mission-impossible-preview-1995-001",
@@ -29840,13 +29900,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "river",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：PCDA-00744。媒体：8cm CD。公式資料で発売当時の品番を確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（当時の製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/river.php"
         }
-      ]
+      ],
+      "catalogNumber": "PCDA-00744",
+      "releaseFormat": "8cm CD"
     },
     {
       "id": "v1829-1996-0311-aska-hiromi-guest",
@@ -29990,13 +30056,19 @@ window.CA_EVENT_DATA = {
       "title": "アルバム『Code Name.2 Sister Moon』発売",
       "status": "released",
       "verification": "primary",
-      "note": "公式HISTORY記載の発売日。",
+      "note": "公式HISTORY記載の発売日。 規格品番：PCCA-00899。媒体：CD。商品情報等の二次資料で発売当時の品番を照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "作品・商品情報（二次資料／当時の品番）",
+          "url": "https://www.suruga-ya.jp/product/detail/220039507"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00899",
+      "releaseFormat": "CD"
     },
     {
       "id": "media-v18231-1996-04-26-chageandaska-001",
@@ -30085,13 +30157,19 @@ window.CA_EVENT_DATA = {
       "title": "カバーアルバム『ONE VOICE』UK盤発売",
       "status": "released",
       "verification": "primary",
-      "note": "海外アーティストによるC&A楽曲カバー集。C&A自身の英語歌唱音源「The River」「Castles In The Air」も収録。7月31日の国内盤とは別の発売記録。",
+      "note": "海外アーティストによるC&A楽曲カバー集。C&A自身の英語歌唱音源「The River」「Castles In The Air」も収録。7月31日の国内盤とは別の発売記録。 規格品番：72438-5278525。媒体：CD（英国盤）。公式資料で発売当時の品番を確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（当時の製品番号）",
+          "url": "https://www.chage-aska.net/discography/others/one_voice_england.php"
         }
-      ]
+      ],
+      "catalogNumber": "72438-5278525",
+      "releaseFormat": "CD（英国盤）"
     },
     {
       "id": "v1829-1996-0727-asia-tour-book",
@@ -30117,13 +30195,19 @@ window.CA_EVENT_DATA = {
       "title": "カバーアルバム『ONE VOICE』日本盤発売",
       "status": "released",
       "verification": "primary",
-      "note": "UK盤をもとに追加楽曲を収録した日本向け盤。1996年7月8日のUK盤発売とは区別。",
+      "note": "UK盤をもとに追加楽曲を収録した日本向け盤。1996年7月8日のUK盤発売とは区別。 規格品番：TOCT-9560。媒体：CD（日本盤）。公式資料で発売当時の品番を確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式ディスコグラフィー（当時の製品番号）",
+          "url": "https://www.chage-aska.net/discography/others/one_voice.php"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-9560",
+      "releaseFormat": "CD（日本盤）"
     },
     {
       "id": "v1829-1996-1007-mtv-unplugged-cd",
@@ -30133,13 +30217,19 @@ window.CA_EVENT_DATA = {
       "title": "ライブアルバム『MTV UNPLUGGED LIVE』発売",
       "status": "released",
       "verification": "primary",
-      "note": "1996年6月19日収録ライブのCD発売日。ライブ開催日の記録と別登録。",
+      "note": "1996年6月19日収録ライブのCD発売日。ライブ開催日の記録と別登録。 規格品番：PCCA-01020。媒体：CD（ライブアルバム）。商品情報等の二次資料で発売当時の品番を照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "作品・商品情報（二次資料／当時の品番）",
+          "url": "https://www.oricon.co.jp/prof/4069/products/173679/1/"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-01020",
+      "releaseFormat": "CD（ライブアルバム）"
     },
     {
       "id": "v1829-1996-1018-mtv-unplugged-video",
@@ -30185,13 +30275,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "どうだい",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：TODT-3875。媒体：8cm CD。商品情報等の二次資料で発売当時の品番を照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "作品・商品情報（二次資料／当時の品番）",
+          "url": "https://tower.jp/artist/350566"
         }
-      ]
+      ],
+      "catalogNumber": "TODT-3875",
+      "releaseFormat": "8cm CD"
     },
     {
       "id": "v1829-1996-1107-aska-interview-book",
@@ -30256,13 +30352,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "Oki doki!",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：TOCT-9777。媒体：CD。商品情報等の二次資料で発売当時の品番を照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "作品・商品情報（二次資料／当時の品番）",
+          "url": "https://www.suruga-ya.jp/product/detail/220057575"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-9777",
+      "releaseFormat": "CD"
     },
     {
       "id": "live-multi-max-okidoki-1996-1997-001",
@@ -30399,13 +30501,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "Oki doki!（アナログ盤）",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：TOJT-9777。媒体：LP（アナログ盤）。商品情報等の二次資料で発売当時の品番を照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "作品・商品情報（二次資料／当時の品番）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/252007986"
         }
-      ]
+      ],
+      "catalogNumber": "TOJT-9777",
+      "releaseFormat": "LP（アナログ盤）"
     },
     {
       "id": "live-multi-max-okidoki-1996-1997-007",
@@ -30730,13 +30838,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "Every Day Of Your Life（RICHARD MARX with ASKA）",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：TODP-2538。媒体：8cm CD（コラボ・シングル）。商品情報等の二次資料で発売当時の品番を照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "作品・商品情報（二次資料／当時の品番）",
+          "url": "https://www.oricon.co.jp/prof/177891/products/270726/1/"
         }
-      ]
+      ],
+      "catalogNumber": "TODP-2538",
+      "releaseFormat": "8cm CD（コラボ・シングル）"
     },
     {
       "id": "media-v18231-1997-01-23-aska-001",
@@ -30785,13 +30899,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "ID",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：TODT-3923。媒体：8cm CD。商品情報等の二次資料で発売当時の品番を照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "作品・商品情報（二次資料／当時の品番）",
+          "url": "https://tower.jp/item/593145"
         }
-      ]
+      ],
+      "catalogNumber": "TODT-3923",
+      "releaseFormat": "8cm CD"
     },
     {
       "id": "release-v06-1997-03-12-141",
@@ -30802,13 +30922,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "ONE",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：TOCT-9835。媒体：CD（アルバム）。商品情報等の二次資料で発売当時の品番を照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "作品・商品情報（二次資料／当時の品番）",
+          "url": "https://contents.oricon.co.jp/prof/245800/products/269893/1/"
         }
-      ]
+      ],
+      "catalogNumber": "TOCT-9835",
+      "releaseFormat": "CD（アルバム）"
     },
     {
       "id": "v18210-1997-0319-multimax-bootleg",
@@ -31082,13 +31208,19 @@ window.CA_EVENT_DATA = {
       "releaseTitle": "ONE（シングル）",
       "status": "released",
       "verification": "primary",
-      "note": "公式Historyに記載された発売日",
+      "note": "公式Historyに記載された発売日 規格品番：TODT-3956。媒体：8cm CD（シングル）。商品情報等の二次資料で発売当時の品番を照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式History｜作品発売",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "作品・商品情報（二次資料／当時の品番）",
+          "url": "https://www.oricon.co.jp/prof/245800/products/272072/1/"
         }
-      ]
+      ],
+      "catalogNumber": "TODT-3956",
+      "releaseFormat": "8cm CD（シングル）"
     },
     {
       "id": "live-aska-id-1997-012",
@@ -79890,5 +80022,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.0.10"
+  "siteVersion": "2.0.11"
 };
