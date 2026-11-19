@@ -121,5 +121,65 @@
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();
 })();
 </script>
+<!-- CA_SINGLE_DETAIL_V213 -->
+<style>
+body.ca-single main > :not(#ca-single-detail){display:none!important}
+#ca-single-detail{display:none;max-width:1020px;margin:30px auto 70px;padding:0 20px}
+body.ca-single #ca-single-detail{display:block}
+body.ca-single .topnav{display:none}
+.ca-detail-back{border:0;background:none;color:#f3d99a;font-size:1.1rem;font-weight:700;min-height:48px;cursor:pointer;text-decoration:underline}
+.ca-detail-paper{margin-top:22px;padding:clamp(22px,5vw,52px);border-radius:20px;background:#182743;border:1px solid #5a6b85}
+.ca-detail-date{display:block;color:#f6db9a;font-size:clamp(1.5rem,3vw,2.15rem);font-weight:750}
+.ca-detail-title{font-size:clamp(1.8rem,4.5vw,3rem);line-height:1.4;color:white;margin:16px 0 22px;overflow-wrap:anywhere}
+.ca-detail-chips{display:flex;gap:10px;flex-wrap:wrap}.ca-detail-chip{padding:6px 12px;border:1px solid #8190a4;border-radius:24px;color:white}
+.ca-detail-place{font-size:1.25rem;line-height:1.8;color:#f0f2f6}
+.ca-detail-section{border-top:1px solid #63738a;margin-top:30px;padding-top:24px}.ca-detail-section h2{color:#f2d593;font-size:1.45rem;margin:0 0 14px}
+.ca-detail-note{font-size:clamp(1.1rem,2.2vw,1.35rem);line-height:1.9;color:#f6f7fa;white-space:pre-wrap;overflow-wrap:anywhere}
+.ca-detail-fields{display:grid;grid-template-columns:165px 1fr;gap:12px 20px;margin:0;font-size:1.13rem;line-height:1.8}
+.ca-detail-fields dt{color:#c5d3e5;font-weight:700}.ca-detail-fields dd{margin:0;color:white;white-space:pre-wrap;overflow-wrap:anywhere}
+.ca-detail-sources{display:grid;gap:13px}.ca-detail-sources a{font-size:1.15rem;line-height:1.7;color:#ffe1a7;text-decoration:underline;overflow-wrap:anywhere}
+@media(max-width:600px){#ca-single-detail{padding:0 12px}.ca-detail-paper{padding:24px 18px}.ca-detail-fields{grid-template-columns:1fr;gap:3px}.ca-detail-fields dd{margin-bottom:12px}}
+</style>
+<script>
+(function(){
+document.addEventListener('DOMContentLoaded',function(){
+ const id=new URLSearchParams(location.search).get('event');if(!id)return;
+ const records=window.CA_EVENT_DATA&&window.CA_EVENT_DATA.events;
+ const e=Array.isArray(records)?records.find(x=>String(x.id)===id):null;if(!e)return;
+ const main=document.querySelector('main');if(!main)return;
+ const node=(tag,cls,txt)=>{const x=document.createElement(tag);if(cls)x.className=cls;if(txt!==undefined&&txt!==null)x.textContent=String(txt);return x;};
+ const section=node('section');section.id='ca-single-detail';section.setAttribute('aria-label','記録の個別表示');
+ const back=node('button','ca-detail-back','← この日の一覧に戻る');back.type='button';
+ back.addEventListener('click',function(){
+  document.body.classList.remove('ca-single');section.remove();
+  const all=document.getElementById('all-day');
+  if(all){all.click();document.getElementById('browse')?.scrollIntoView({block:'start'});}
+  else {const u=new URL(location.href);u.searchParams.delete('event');u.hash='calendar';location.assign(u.href);}
+ });section.append(back);
+ const paper=node('article','ca-detail-paper');const date=String(e.date||'');const m=date.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+ const stamp=node('time','ca-detail-date',m?Number(m[1])+'年'+Number(m[2])+'月'+Number(m[3])+'日':date);
+ if(m)stamp.dateTime=date;paper.append(stamp,node('h1','ca-detail-title',e.title||'タイトル未設定'));
+ const chips=node('div','ca-detail-chips');
+ const cats={live:'ライブ',release:'作品発売',media:'テレビ・ラジオ',milestone:'記録・記念日',amateur:'デビュー前・アマチュア活動',other:'その他'};
+ [e.artist,cats[e.category]||e.category].filter(Boolean).forEach(v=>chips.append(node('span','ca-detail-chip',v)));paper.append(chips);
+ const place=[e.prefecture,e.venue].filter(Boolean).join('・');if(place)paper.append(node('p','ca-detail-place',place));
+ const part=title=>{const s=node('section','ca-detail-section');s.append(node('h2','',title));paper.append(s);return s;};
+ if(e.note)part('備考').append(node('div','ca-detail-note',e.note));
+ const candidates=[['releaseTitle','作品名'],['format','規格'],['mediaFormat','媒体・規格'],['releaseFormat','発売形態'],['catalogNumber','規格品番'],['catalogNo','規格品番'],['catalogCode','規格品番'],['productNumber','規格品番'],['label','レーベル'],['recordLabel','レーベル'],['publisher','発売元'],['edition','仕様・版'],['releaseType','発売区分'],['variants','別仕様'],['editions','別仕様'],['otherFormats','別規格'],['formats','規格一覧'],['releaseVariants','発売仕様'],['specifications','仕様'],['productCodes','規格品番一覧'],['tourId','ツアーID'],['performanceNo','公演番号'],['broadcastStation','放送局'],['status','記録の状態'],['verification','資料の確認区分']];
+ const fmt=v=>v==null?'':Array.isArray(v)?v.map(fmt).filter(Boolean).join('\n'):typeof v==='object'?Object.entries(v).map(([k,w])=>k+'：'+fmt(w)).join('\n'):String(v);
+ const fields=candidates.map(([k,l])=>[l,fmt(e[k])]).filter(([,v])=>v.trim());
+ if(fields.length){const dl=node('dl','ca-detail-fields');fields.forEach(([k,v])=>dl.append(node('dt','',k),node('dd','',v)));part('記録情報').append(dl);}
+ const sources=node('div','ca-detail-sources');
+ (Array.isArray(e.sources)?e.sources:[]).forEach(s=>{
+  if(!s||!s.url)return;let u;try{u=new URL(String(s.url));}catch(_){return;}if(u.protocol!=='https:')return;
+  const unofficial=/(^|\.)(atwiki\.jp|ladomi\.net|livefans\.jp|wikipedia\.org)$/i.test(u.hostname);
+  const a=node('a','',unofficial?'参考資料（非公式） ↗':String(s.label||'参考資料')+' ↗');a.href=u.href;a.target='_blank';a.rel='noopener noreferrer';sources.append(a);
+ });
+ part('出典・参考資料').append(sources.childElementCount?sources:node('p','','出典リンクは登録されていません。'));
+ section.append(paper);main.append(section);document.body.classList.add('ca-single');window.scrollTo(0,0);
+});
+})();
+</script>
+<!-- /CA_SINGLE_DETAIL_V213 -->
 </body>
 </html>
