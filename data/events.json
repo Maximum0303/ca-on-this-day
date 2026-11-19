@@ -52879,11 +52879,11 @@
       "date": "2010-10-06",
       "artist": "Chage",
       "category": "release",
-      "title": "『まわせ大きな地球儀』発売",
+      "title": "『まわせ大きな地球儀（通常盤）』発売",
       "releaseTitle": "まわせ大きな地球儀",
       "status": "released",
       "verification": "primary",
-      "note": "シングル",
+      "note": "シングル\n【第39回・作品規格の照合】既存の1件に2つの規格が含まれていたため、元IDを通常盤に割り当てる。初回限定CD＋DVDは別IDで登録。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
@@ -52898,21 +52898,9 @@
           "url": "https://www.universal-music.co.jp/chage/products/umck-9380/"
         }
       ],
-      "releaseFormat": "CD MAXI（通常盤・初回限定盤）",
-      "releaseEditions": [
-        {
-          "releaseTitle": "まわせ大きな地球儀（通常盤）",
-          "catalogNumber": "UMCK-5297",
-          "releaseFormat": "CD MAXI",
-          "sourceUrl": "https://www.universal-music.co.jp/chage/products/umck-5297/"
-        },
-        {
-          "releaseTitle": "まわせ大きな地球儀（初回限定盤）",
-          "catalogNumber": "UMCK-9380",
-          "releaseFormat": "CD MAXI＋DVD",
-          "sourceUrl": "https://www.universal-music.co.jp/chage/products/umck-9380/"
-        }
-      ]
+      "releaseFormat": "CD MAXI（通常盤）",
+      "catalogNumber": "UMCK-5297",
+      "format": "CD MAXI（通常盤）"
     },
     {
       "id": "live-aska-faces-2010-001",
@@ -54174,10 +54162,10 @@
       "date": "2011-06-01",
       "artist": "ASKA",
       "category": "release",
-      "title": "『FACES』ライブ映像・音源発売／配信",
+      "title": "『ASKA CONCERT TOUR 10>>11 FACES』Blu-ray発売",
       "status": "released",
       "verification": "primary",
-      "note": "Blu-ray・DVD・音源。映像・ライブ音源は2011年1月26日日本武道館公演を収録。",
+      "note": "Blu-ray・DVD・音源。映像・ライブ音源は2011年1月26日日本武道館公演を収録。\n【第39回・作品規格の照合】元の一括発売レコードのIDをBlu-ray盤へ引き継ぎ、DVDとライブ音源配信を別記録にする。2011年1月26日の日本武道館公演を収録。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -54192,22 +54180,10 @@
           "url": "https://www.fellows.tokyo/discography/detail/69/"
         }
       ],
-      "releaseTitle": "FACES』ライブ映像・音源／配信",
-      "releaseFormat": "Blu-ray・DVD（同日発売）",
-      "releaseEditions": [
-        {
-          "releaseTitle": "ASKA CONCERT TOUR 10>>11 FACEs（Blu-ray）",
-          "catalogNumber": "POXS-22004",
-          "releaseFormat": "Blu-ray",
-          "sourceUrl": "https://www.universal-music.co.jp/p/POXS-22004/"
-        },
-        {
-          "releaseTitle": "ASKA CONCERT TOUR 10>>11 FACEs（DVD）",
-          "catalogNumber": "POBD-22028",
-          "releaseFormat": "DVD",
-          "sourceUrl": "https://www.fellows.tokyo/discography/detail/69/"
-        }
-      ]
+      "releaseTitle": "ASKA CONCERT TOUR 10>>11 FACES",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22004",
+      "format": "Blu-ray"
     },
     {
       "id": "v11-dream-chain-2011",
@@ -54994,7 +54970,7 @@
       "title": "『TOKYO MOON』シングル発売",
       "status": "released",
       "verification": "primary",
-      "note": "コンサート会場で先行販売あり。2011年9月2日の「Chageの細道2011」ツアー初日からコンサート会場で先行販売。一般発売日は11月2日。",
+      "note": "コンサート会場で先行販売あり。2011年9月2日の「Chageの細道2011」ツアー初日からコンサート会場で先行販売。一般発売日は11月2日。\n【第39回・作品規格の照合】2011年9月2日の会場先行販売と11月2日の一般発売を区別。品番はオリコン関連商品データで照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -55003,9 +54979,16 @@
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2011.php"
+        },
+        {
+          "label": "音楽商品データ（品番・発売日）",
+          "url": "https://www.billboard-japan.com/goods/detail/238393"
         }
       ],
-      "releaseTitle": "TOKYO MOON』シングル"
+      "releaseTitle": "TOKYO MOON』シングル",
+      "catalogNumber": "POCS-22016",
+      "releaseFormat": "CDシングル",
+      "format": "CDシングル"
     },
     {
       "id": "other-v18217-2011-017",
@@ -55030,10 +55013,10 @@
       "date": "2011-12-07",
       "artist": "Chage",
       "category": "release",
-      "title": "『まわせ大きな地球儀』ライブ映像発売",
+      "title": "『ChageLiveTour10-11 まわせ大きな地球儀』Blu-ray発売",
       "status": "released",
       "verification": "primary",
-      "note": "Blu-ray／DVD",
+      "note": "Blu-ray／DVD\n【第39回・作品規格の照合】元のBlu-ray/DVD一括記録のIDをBlu-rayへ引き継ぐ。DVDは別IDで登録。2011年1月30日渋谷C.C.Lemonホール公演。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -55048,22 +55031,10 @@
           "url": "https://www.universal-music.co.jp/chage/products/pobd-22042/"
         }
       ],
-      "releaseTitle": "まわせ大きな地球儀』ライブ映像",
-      "releaseFormat": "Blu-ray・DVD（同日発売）",
-      "releaseEditions": [
-        {
-          "releaseTitle": "ChageLiveTour10-11 まわせ大きな地球儀（Blu-ray）",
-          "catalogNumber": "POXS-22005",
-          "releaseFormat": "Blu-ray",
-          "sourceUrl": "https://www.universal-music.co.jp/chage/products/poxs-22005/"
-        },
-        {
-          "releaseTitle": "ChageLiveTour10-11 まわせ大きな地球儀（DVD）",
-          "catalogNumber": "POBD-22042",
-          "releaseFormat": "DVD",
-          "sourceUrl": "https://www.universal-music.co.jp/chage/products/pobd-22042/"
-        }
-      ]
+      "releaseTitle": "ChageLiveTour10-11 まわせ大きな地球儀",
+      "releaseFormat": "Blu-ray",
+      "catalogNumber": "POXS-22005",
+      "format": "Blu-ray"
     },
     {
       "id": "v11-release-010",
@@ -55073,14 +55044,21 @@
       "title": "『BOOKEND』アルバム発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【第39回・作品規格の照合】CD初発売品番。後年の再発売・配信開始とは区別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "音楽商品データ（品番・発売日）",
+          "url": "https://www.billboard-japan.com/goods/detail/238913"
         }
       ],
-      "releaseTitle": "BOOKEND』アルバム"
+      "releaseTitle": "BOOKEND』アルバム",
+      "catalogNumber": "POCS-22018",
+      "releaseFormat": "CD（アルバム）",
+      "format": "CD（アルバム）"
     },
     {
       "id": "v11-release-011",
@@ -55970,14 +55948,25 @@
       "title": "『SCRAMBLE』アルバム発売",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【第39回・作品規格の照合】2012年発売のCDとBlu-rayのセットで、後年の再発売とは別。品番は商品データ等で確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "オリコン商品情報",
+          "url": "https://contents.oricon.co.jp/prof/245800/products/985027/1/"
+        },
+        {
+          "label": "商品情報（フォーマット）",
+          "url": "https://tower.jp/item/3138494"
         }
       ],
-      "releaseTitle": "SCRAMBLE』アルバム"
+      "releaseTitle": "SCRAMBLE』アルバム",
+      "catalogNumber": "POCS-22020",
+      "releaseFormat": "CD＋Blu-ray（豪華ブックレット付）",
+      "format": "CD＋Blu-ray（豪華ブックレット付）"
     },
     {
       "id": "v11-release-017",
@@ -55987,14 +55976,25 @@
       "title": "『昭和が見ていたクリスマス!? Prelude to The Bookend』ライブ映像発売",
       "status": "released",
       "verification": "primary",
-      "note": "Blu-ray",
+      "note": "Blu-ray\n【第39回・作品規格の照合】2012年1月の日本武道館公演を収録。2009年公演のBlu-ray（2012年5月23日、POXS-22020）とは別作品。ASKA公式作品ページに日付の不一致があるため、発売元系商品データ・公式HISTORYの10月17日を維持。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "オリコン商品情報（2012年10月17日）",
+          "url": "https://contents.oricon.co.jp/prof/245800/products/985028/1/"
+        },
+        {
+          "label": "ASKA公式ディスコグラフィー（日付相違あり）",
+          "url": "https://www.fellows.tokyo/discography/detail/63/"
         }
       ],
-      "releaseTitle": "昭和が見ていたクリスマス!? Prelude to The Bookend』ライブ映像"
+      "releaseTitle": "昭和が見ていたクリスマス!? Prelude to The Bookend』ライブ映像",
+      "catalogNumber": "POXS-22021",
+      "releaseFormat": "Blu-ray",
+      "format": "Blu-ray"
     },
     {
       "id": "live-v11-aska-rocket-2012-001",
@@ -56844,14 +56844,21 @@
       "title": "『「僕にできること」いま歌うシリーズ』一般発売",
       "status": "released",
       "verification": "primary",
-      "note": "2012年12月に会場限定先行販売",
+      "note": "2012年12月に会場限定先行販売\n【第39回・作品規格の照合】2012年12月22日会場先行発売と2013年3月27日一般発売を区別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "オリコン商品情報",
+          "url": "https://contents.oricon.co.jp/prof/245800/products/1007099/1/"
         }
       ],
-      "releaseTitle": "「僕にできること」いま歌うシリーズ』一般"
+      "releaseTitle": "「僕にできること」いま歌うシリーズ』一般",
+      "catalogNumber": "POCS-22022",
+      "releaseFormat": "CD（アルバム）",
+      "format": "CD（アルバム）"
     },
     {
       "id": "v11-other-008",
@@ -83226,7 +83233,94 @@
           "url": "https://tower.jp/artist/254933"
         }
       ]
+    },
+    {
+      "id": "release-audit-v2039-20101006-umck9380",
+      "date": "2010-10-06",
+      "artist": "Chage",
+      "title": "『まわせ大きな地球儀（初回限定盤）』発売",
+      "releaseTitle": "まわせ大きな地球儀",
+      "catalogNumber": "UMCK-9380",
+      "verification": "primary",
+      "note": "【第39回・別規格】通常盤UMCK-5297と同日発売の初回限定CD＋DVD。DVDにはミュージックビデオ等を収録。通常盤の元IDを保持し、別商品として追加。",
+      "sources": [
+        {
+          "label": "発売元公式（規格・発売日・品番）",
+          "url": "https://www.universal-music.co.jp/chage/products/umck-9380/"
+        },
+        {
+          "label": "発売元公式（通常盤との対照）",
+          "url": "https://www.universal-music.co.jp/chage/products/umck-5297/"
+        }
+      ],
+      "category": "release",
+      "status": "released",
+      "releaseFormat": "CD MAXI＋DVD（初回限定盤）"
+    },
+    {
+      "id": "release-audit-v2039-20110601-pobd22028",
+      "date": "2011-06-01",
+      "artist": "ASKA",
+      "title": "『ASKA CONCERT TOUR 10>>11 FACES』DVD発売",
+      "releaseTitle": "ASKA CONCERT TOUR 10>>11 FACES",
+      "catalogNumber": "POBD-22028",
+      "verification": "primary",
+      "note": "【第39回・別規格】2011年1月26日日本武道館公演のDVD版。Blu-ray POXS-22004、同日のライブ音源配信とは別記録。",
+      "sources": [
+        {
+          "label": "発売元公式（Blu-rayとDVDの別商品情報）",
+          "url": "https://www.universal-music.co.jp/p/POXS-22004/"
+        },
+        {
+          "label": "公式HISTORY（発売日）",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "category": "release",
+      "status": "released",
+      "releaseFormat": "DVD"
+    },
+    {
+      "id": "release-audit-v2039-20110601-faces-digital",
+      "date": "2011-06-01",
+      "artist": "ASKA",
+      "title": "『ASKA CONCERT TOUR 10>>11 FACES』ライブ音源配信開始",
+      "releaseTitle": "ASKA CONCERT TOUR 10>>11 FACES",
+      "verification": "primary",
+      "note": "【第39回・音源配信と映像別】公式HISTORYに2011年6月1日のBlu-ray/DVD発売とライブ音源iTunes配信が併記。音源の配信開始は映像ソフトと別レコード。楽曲別の配信日を推測しない。",
+      "sources": [
+        {
+          "label": "公式HISTORY（Blu-ray/DVDと音源配信）",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "category": "release",
+      "status": "released",
+      "releaseFormat": "デジタル配信（ライブアルバム／iTunes）"
+    },
+    {
+      "id": "release-audit-v2039-20111207-pobd22042",
+      "date": "2011-12-07",
+      "artist": "Chage",
+      "title": "『ChageLiveTour10-11 まわせ大きな地球儀』DVD発売",
+      "releaseTitle": "ChageLiveTour10-11 まわせ大きな地球儀",
+      "catalogNumber": "POBD-22042",
+      "verification": "primary",
+      "note": "【第39回・別規格】同日発売のBlu-ray POXS-22005とは別のDVD商品。2011年1月30日渋谷C.C.Lemonホール公演を収録。12月16日のライブ音源配信とも区別。",
+      "sources": [
+        {
+          "label": "発売元公式（DVDの品番・発売日）",
+          "url": "https://www.universal-music.co.jp/chage/products/pobd-22042/"
+        },
+        {
+          "label": "発売元公式（Blu-ray版との対照）",
+          "url": "https://www.universal-music.co.jp/chage/products/poxs-22005/"
+        }
+      ],
+      "category": "release",
+      "status": "released",
+      "releaseFormat": "DVD"
     }
   ],
-  "siteVersion": "2.0.38"
+  "siteVersion": "2.0.39"
 }
