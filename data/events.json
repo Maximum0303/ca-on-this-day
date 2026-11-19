@@ -83023,7 +83023,122 @@
           "url": "https://www.chage-aska.net/discography/video/taiyoutohokorinonakade2.php"
         }
       ]
+    },
+    {
+      "id": "release-audit-v2036-20020424-umvk1034",
+      "date": "2002-04-24",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL』VHS発売",
+      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL",
+      "format": "VHS（2本組）",
+      "catalogNumber": "UMVK-1034/5",
+      "status": "released",
+      "verification": "secondary",
+      "note": "【第34回再点検・2002〜2004年VHS別規格補完】公式HISTORYによる映像ソフトの発売日を確認。VHSの規格品番 UMVK-1034/5 は商品情報等の二次資料で照合。DVDと同日発売の別規格として記録。 販売店資料にUMVK-1034の記載あり。セット品番の2本目は別資料による照合。",
+      "sources": [
+        {
+          "label": "公式HISTORY（発売年月日）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "参考資料（非公式・VHS商品番号）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/938003752"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2036-20030312-umvk1056",
+      "date": "2003-03-12",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA VIDEO CLIP SELECTION MUSIC ON FILMS』VHS発売",
+      "releaseTitle": "CHAGE and ASKA VIDEO CLIPS SELECTION MUSIC ON FILMS",
+      "format": "VHS",
+      "catalogNumber": "UMVK-1056",
+      "status": "released",
+      "verification": "secondary",
+      "note": "【第34回再点検・2002〜2004年VHS別規格補完】公式HISTORYによる映像ソフトの発売日を確認。VHSの規格品番 UMVK-1056 は商品情報等の二次資料で照合。DVDと同日発売の別規格として記録。 商品記録の品番、2003年3月12日のVHS発売を補助資料で照合。",
+      "sources": [
+        {
+          "label": "公式HISTORY（発売年月日）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "参考資料（非公式・VHS商品番号）",
+          "url": "https://newikis.com/ja/CHAGE_and_ASKA"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2036-20030806-umvk1058",
+      "date": "2003-08-06",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE』VHS発売",
+      "releaseTitle": "CHAGE and ASKA CONCERT TOUR 02-03 THE LIVE",
+      "format": "VHS（2本組）",
+      "catalogNumber": "UMVK-1058/9",
+      "status": "released",
+      "verification": "secondary",
+      "note": "【第34回再点検・2002〜2004年VHS別規格補完】公式HISTORYによる映像ソフトの発売日を確認。VHSの規格品番 UMVK-1058/9 は商品情報等の二次資料で照合。DVDと同日発売の別規格として記録。 販売店のセット代表品番UMVK-1058と2本組仕様を確認。2本目の末尾番号は補助資料で照合。",
+      "sources": [
+        {
+          "label": "公式HISTORY（発売年月日）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "参考資料（非公式・VHS商品番号）",
+          "url": "https://tower.jp/item/1009360"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2036-20040128-umvk1075",
+      "date": "2004-01-28",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "『ASKA CONCERT TOUR GOOD TIME（通常版）』VHS発売",
+      "releaseTitle": "ASKA CONCERT TOUR GOOD TIME",
+      "format": "VHS（通常版）",
+      "catalogNumber": "UMVK-1075",
+      "status": "released",
+      "verification": "secondary",
+      "note": "【第34回再点検・2002〜2004年VHS別規格補完】公式HISTORYによる映像ソフトの発売日を確認。VHSの規格品番 UMVK-1075 は商品情報等の二次資料で照合。DVDと同日発売の別規格として記録。 通常版VHS。DVD通常版UMBK-1075や初回限定盤とは別商品。",
+      "sources": [
+        {
+          "label": "公式HISTORY（発売年月日）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "参考資料（非公式・VHS商品番号）",
+          "url": "https://tower.jp/item/1061341"
+        }
+      ]
+    },
+    {
+      "id": "release-audit-v2036-20040331-umvk1076",
+      "date": "2004-03-31",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE and ASKA COUNTDOWN LIVE 03>>04 in SAPPORO DOME』VHS発売",
+      "releaseTitle": "CHAGE and ASKA COUNTDOWN LIVE 03>>04 in SAPPORO DOME",
+      "format": "VHS",
+      "catalogNumber": "UMVK-1076",
+      "status": "released",
+      "verification": "secondary",
+      "note": "【第34回再点検・2002〜2004年VHS別規格補完】公式HISTORYによる映像ソフトの発売日を確認。VHSの規格品番 UMVK-1076 は商品情報等の二次資料で照合。DVDと同日発売の別規格として記録。 DVD＋CD版UMBK-1076とは別商品であり、VHS版は映像のみ。",
+      "sources": [
+        {
+          "label": "公式HISTORY（発売年月日）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "参考資料（非公式・VHS商品番号）",
+          "url": "https://artist.cdjournal.com/d/-/2204010367"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.0.35"
+  "siteVersion": "2.0.36"
 }
