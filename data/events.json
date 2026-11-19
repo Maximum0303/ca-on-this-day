@@ -43662,11 +43662,27 @@
       "releaseTitle": "CHAGE and ASKA 25th Anniversary BOX-1",
       "status": "released",
       "verification": "primary",
-      "note": "BOX CD",
+      "note": "BOX CD\n【第38回・公式資料間の品番相違】BOX-1は2004年6月23日発売、CD7枚組／UMCK-9080〜9086。アーティスト公式のBOX-1作品ページには「UMCK-9087-9094」と記載されているが、これはBOX-2の品番と一致する。発売元の製品ページ、国立国会図書館の書誌、オリコンの情報によりBOX-1の現行登録「UMCK-9080」を維持。公式ページの記載差を明示し、修正の根拠として保存する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "アーティスト公式（BOX-1・番号相違あり）",
+          "url": "https://www.chage-aska.net/discography/others/25th_box01.php"
+        },
+        {
+          "label": "発売元公式（BOX-1・UMCK-9080）",
+          "url": "https://www.universal-music.co.jp/p/UMCK-9080/"
+        },
+        {
+          "label": "国立国会図書館（UMCK-9080〜9086）",
+          "url": "https://ndlsearch.ndl.go.jp/en/books/R100000002-I000007454936"
+        },
+        {
+          "label": "オリコン（BOX-1製品番号）",
+          "url": "https://contents.oricon.co.jp/prof/4069/products/548836/1/"
         }
       ],
       "catalogNumber": "UMCK-9080",
@@ -43881,11 +43897,23 @@
       "releaseTitle": "CHAGE and ASKA 25th Anniversary BOX-2",
       "status": "released",
       "verification": "primary",
-      "note": "BOX CD",
+      "note": "BOX CD\n【第38回・BOX-2の収録枚数を原典照合】2004年7月28日発売、収録アルバム7作品・CD合計8枚。『PRIDE』が2枚組のためアルバム作品数と枚数が異なる。製品番号UMCK-9087〜9094（セット代表番号UMCK-9087）は発売元公式とオリコンによる確認。既存の発売日・品番・枚数の記録は正しいため保持する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "発売元公式（8枚組・PRIDE2枚）",
+          "url": "https://www.universal-music.co.jp/p/umck-9087/"
+        },
+        {
+          "label": "アーティスト公式（7収録作品）",
+          "url": "https://www.chage-aska.net/discography/others/25th_box02.php"
+        },
+        {
+          "label": "オリコン（発売日・品番）",
+          "url": "https://contents.oricon.co.jp/prof/4069/products/551448/1/"
         }
       ],
       "catalogNumber": "UMCK-9087",
@@ -43989,11 +44017,19 @@
       "releaseTitle": "CHAGE and ASKA 25th Anniversary BOX-3",
       "status": "released",
       "verification": "primary",
-      "note": "BOX CD",
+      "note": "BOX CD\n【第38回・BOX-3の発売品番照合】2004年8月25日発売、CD7枚組。製品番号UMCK-9095〜9101（代表番号UMCK-9095）はアーティスト公式作品ページと発売元公式の商品記録で再照合。BOX-1・BOX-2と別商品として現行IDを維持する。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "アーティスト公式（BOX-3）",
+          "url": "https://www.chage-aska.net/discography/others/25th_box03.php"
+        },
+        {
+          "label": "発売元公式（BOX-3）",
+          "url": "https://www.universal-music.co.jp/p/umck-9095/"
         }
       ],
       "catalogNumber": "UMCK-9095",
@@ -83192,5 +83228,5 @@
       ]
     }
   ],
-  "siteVersion": "2.0.37"
+  "siteVersion": "2.0.38"
 }
