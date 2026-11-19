@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2027年の公式発表済み予定を追加。開催予定の記録は日付経過のみで開催済みと断定せず、延期・中止と区別して表示します。既存の記録の確認日・履歴はそのまま保存しています。",
-  "lastUpdated": "2026-11-19",
+  "lastUpdated": "2026-11-20",
   "events": [
     {
       "id": "milestone-1978-popcon15-formation-yearonly",
@@ -11386,7 +11386,7 @@
       "releaseTitle": "TURNING POINT",
       "status": "released",
       "verification": "secondary",
-      "note": "【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A0486（品番は二次資料）／カセット 28P6526（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。\n【第28回・初期CD規格品番の補完】 初期CD盤の品番：D32A-0176（二次商品情報で照合）。CD盤固有の発売日は1986年4月21日と5月2日の資料があり、未確定です。この記録の日付1986-04-21はアルバム作品の公式発売日であり、初期CD盤の発売日を証明するものではありません。初期CDを別の発売イベントとしては登録していません。\n【第45回・規格品番全件点検】規格品番欄へC28A0486を補完。品番の根拠は二次資料。CD初期盤 D32A-0176 の発売日は資料間に相違があり、本欄へ混入させない。",
+      "note": "【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A0486（品番は二次資料）／カセット 28P6526（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。\n【第28回・初期CD規格品番の補完】 初期CD盤の品番：D32A-0176（二次商品情報で照合）。CD盤固有の発売日は1986年4月21日と5月2日の資料があり、未確定です。この記録の日付1986-04-21はアルバム作品の公式発売日であり、初期CD盤の発売日を証明するものではありません。初期CDを別の発売イベントとしては登録していません。\n【第45回・規格品番全件点検】規格品番欄へC28A0486を補完。品番の根拠は二次資料。CD初期盤 D32A-0176 の発売日は資料間に相違があり、本欄へ混入させない。\n【第48回・同一規格発売記録の統合】「『TURNING POINT』LP盤発売」（旧ID：release-audit-1986to1989-19860421-c28a0486）は、この記録と同日・同名義・同品番（C28A0486）のため統合。別規格・別日発売は統合していません。旧記録の備考：作品形態：アナログLPレコード。作品の初発売日：1986-04-21。LP盤規格品番：C28A0486。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
@@ -11423,7 +11423,37 @@
       "catalogNumber": "C28A0486",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/album/turning_point.php",
-      "releaseFormat": "LP（初発売盤）"
+      "releaseFormat": "LP（初発売盤）",
+      "format": "アナログLPレコード",
+      "mergedFromIds": [
+        "release-audit-1986to1989-19860421-c28a0486"
+      ],
+      "mergedRecordSnapshots": [
+        {
+          "id": "release-audit-1986to1989-19860421-c28a0486",
+          "date": "1986-04-21",
+          "artist": "CHAGE and ASKA",
+          "category": "release",
+          "title": "『TURNING POINT』LP盤発売",
+          "status": "released",
+          "verification": "secondary",
+          "releaseTitle": "TURNING POINT",
+          "releaseType": "初発売時の別規格（LP）",
+          "format": "アナログLPレコード",
+          "catalogNumber": "C28A0486",
+          "note": "作品形態：アナログLPレコード。作品の初発売日：1986-04-21。LP盤規格品番：C28A0486。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+          "sources": [
+            {
+              "label": "公式ディスコグラフィー（作品発売日）",
+              "url": "https://www.chage-aska.net/discography/album/turning_point.php"
+            },
+            {
+              "label": "参考資料（非公式・規格品番）",
+              "url": "https://www.cd-brain.com/shop/product/chage-aska-turning-point-lp-album/"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "media-v18-1986-012",
@@ -12392,7 +12422,7 @@
       "releaseTitle": "MIX BLOOD",
       "status": "released",
       "verification": "primary",
-      "note": "【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A0513（品番は二次資料）／カセット 28P6583（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。\n【1986〜1988年・初発売CD盤品番追補】 CD初発売盤：D32A-0219（品番とCD発売日は二次商品資料で照合）。LP・カセット盤、後年のCD再発売盤とは区別。\n【第45回・規格品番全件点検】規格品番欄へC28A0513を補完。品番の根拠は二次資料。",
+      "note": "【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A0513（品番は二次資料）／カセット 28P6583（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。\n【1986〜1988年・初発売CD盤品番追補】 CD初発売盤：D32A-0219（品番とCD発売日は二次商品資料で照合）。LP・カセット盤、後年のCD再発売盤とは区別。\n【第45回・規格品番全件点検】規格品番欄へC28A0513を補完。品番の根拠は二次資料。\n【第48回・同一規格発売記録の統合】「『MIX BLOOD』LP盤発売」（旧ID：release-audit-1986to1989-19860921-c28a0513）は、この記録と同日・同名義・同品番（C28A0513）のため統合。別規格・別日発売は統合していません。旧記録の備考：作品形態：アナログLPレコード。作品の初発売日：1986-09-21。LP盤規格品番：C28A0513。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -12425,7 +12455,37 @@
       "catalogNumber": "C28A0513",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.stereo-records.com/detail.php?itemCd=53039",
-      "releaseFormat": "LP（初発売盤）"
+      "releaseFormat": "LP（初発売盤）",
+      "format": "アナログLPレコード",
+      "mergedFromIds": [
+        "release-audit-1986to1989-19860921-c28a0513"
+      ],
+      "mergedRecordSnapshots": [
+        {
+          "id": "release-audit-1986to1989-19860921-c28a0513",
+          "date": "1986-09-21",
+          "artist": "CHAGE and ASKA",
+          "category": "release",
+          "title": "『MIX BLOOD』LP盤発売",
+          "status": "released",
+          "verification": "secondary",
+          "releaseTitle": "MIX BLOOD",
+          "releaseType": "初発売時の別規格（LP）",
+          "format": "アナログLPレコード",
+          "catalogNumber": "C28A0513",
+          "note": "作品形態：アナログLPレコード。作品の初発売日：1986-09-21。LP盤規格品番：C28A0513。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+          "sources": [
+            {
+              "label": "公式ディスコグラフィー（作品発売日）",
+              "url": "https://www.chage-aska.net/discography/album/mix_blood.php"
+            },
+            {
+              "label": "参考資料（非公式・規格品番）",
+              "url": "https://www.stereo-records.com/detail.php?itemCd=53039"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "media-v18-1986-028",
@@ -13509,7 +13569,7 @@
       "releaseTitle": "Mr.ASIA",
       "status": "released",
       "verification": "secondary",
-      "note": "【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A0568（品番は二次資料）／カセット 28P6672（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。\n【1986〜1988年・初発売CD盤品番追補】 CD初発売盤：D32A-0287（品番とCD発売日はオリコンの商品情報で照合）。LP・カセット盤、後年のCD再発売盤とは区別。\n【第45回・規格品番全件点検】規格品番欄へC28A0568を補完。品番の根拠は二次資料。",
+      "note": "【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A0568（品番は二次資料）／カセット 28P6672（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。\n【1986〜1988年・初発売CD盤品番追補】 CD初発売盤：D32A-0287（品番とCD発売日はオリコンの商品情報で照合）。LP・カセット盤、後年のCD再発売盤とは区別。\n【第45回・規格品番全件点検】規格品番欄へC28A0568を補完。品番の根拠は二次資料。\n【第48回・同一規格発売記録の統合】「『Mr.ASIA』LP盤発売」（旧ID：release-audit-1986to1989-19870521-c28a0568）は、この記録と同日・同名義・同品番（C28A0568）のため統合。別規格・別日発売は統合していません。旧記録の備考：作品形態：アナログLPレコード。作品の初発売日：1987-05-21。LP盤規格品番：C28A0568。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
@@ -13530,6 +13590,10 @@
         {
           "label": "参考資料（二次資料・CD初版品番と発売日）",
           "url": "https://www.oricon.co.jp/prof/4069/products/61210/3/"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.suruga-ya.com/ja/product/252010932"
         }
       ],
       "formats": [
@@ -13542,7 +13606,37 @@
       "catalogNumber": "C28A0568",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/album/mr_asia.php",
-      "releaseFormat": "LP（初発売盤）"
+      "releaseFormat": "LP（初発売盤）",
+      "format": "アナログLPレコード",
+      "mergedFromIds": [
+        "release-audit-1986to1989-19870521-c28a0568"
+      ],
+      "mergedRecordSnapshots": [
+        {
+          "id": "release-audit-1986to1989-19870521-c28a0568",
+          "date": "1987-05-21",
+          "artist": "CHAGE and ASKA",
+          "category": "release",
+          "title": "『Mr.ASIA』LP盤発売",
+          "status": "released",
+          "verification": "secondary",
+          "releaseTitle": "Mr.ASIA",
+          "releaseType": "初発売時の別規格（LP）",
+          "format": "アナログLPレコード",
+          "catalogNumber": "C28A0568",
+          "note": "作品形態：アナログLPレコード。作品の初発売日：1987-05-21。LP盤規格品番：C28A0568。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+          "sources": [
+            {
+              "label": "公式ディスコグラフィー（作品発売日）",
+              "url": "https://www.chage-aska.net/discography/album/mr_asia.php"
+            },
+            {
+              "label": "参考資料（非公式・規格品番）",
+              "url": "https://www.suruga-ya.com/ja/product/252010932"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "live-we-shall-return-1987-014",
@@ -15159,7 +15253,7 @@
       "title": "『RHAPSODY』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：オリジナルアルバム。オリジナルアルバムの初発売。シングル『ラプソディ』とは別作品。\n【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A0624（品番は二次資料）／カセット 28P6780（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。\n【1986〜1988年・初発売CD盤品番追補】 CD初発売盤：D32A-0350（品番とCD発売日はオリコンの商品情報で照合）。LP・カセット盤、後年のCD再発売盤とは区別。\n【第45回・規格品番全件点検】規格品番欄へC28A0624を補完。品番の根拠は二次資料。",
+      "note": "作品形態：オリジナルアルバム。オリジナルアルバムの初発売。シングル『ラプソディ』とは別作品。\n【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A0624（品番は二次資料）／カセット 28P6780（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。\n【1986〜1988年・初発売CD盤品番追補】 CD初発売盤：D32A-0350（品番とCD発売日はオリコンの商品情報で照合）。LP・カセット盤、後年のCD再発売盤とは区別。\n【第45回・規格品番全件点検】規格品番欄へC28A0624を補完。品番の根拠は二次資料。\n【第48回・同一規格発売記録の統合】「『RHAPSODY』LP盤発売」（旧ID：release-audit-1986to1989-19880305-c28a0624）は、この記録と同日・同名義・同品番（C28A0624）のため統合。別規格・別日発売は統合していません。旧記録の備考：作品形態：アナログLPレコード。作品の初発売日：1988-03-05。LP盤規格品番：C28A0624。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
       "sources": [
         {
           "label": "C&A公式ディスコグラフィー｜RHAPSODY",
@@ -15176,6 +15270,10 @@
         {
           "label": "参考資料（二次資料・CD初版品番と発売日）",
           "url": "https://www.oricon.co.jp/prof/4069/products/61250/3/"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://ticro.com/products/c031365"
         }
       ],
       "formats": [
@@ -15188,7 +15286,38 @@
       "catalogNumber": "C28A0624",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.fanfan1.com/products/detail/565797",
-      "releaseFormat": "LP（初発売盤）"
+      "releaseFormat": "LP（初発売盤）",
+      "releaseTitle": "RHAPSODY",
+      "format": "アナログLPレコード",
+      "mergedFromIds": [
+        "release-audit-1986to1989-19880305-c28a0624"
+      ],
+      "mergedRecordSnapshots": [
+        {
+          "id": "release-audit-1986to1989-19880305-c28a0624",
+          "date": "1988-03-05",
+          "artist": "CHAGE and ASKA",
+          "category": "release",
+          "title": "『RHAPSODY』LP盤発売",
+          "status": "released",
+          "verification": "secondary",
+          "releaseTitle": "RHAPSODY",
+          "releaseType": "初発売時の別規格（LP）",
+          "format": "アナログLPレコード",
+          "catalogNumber": "C28A0624",
+          "note": "作品形態：アナログLPレコード。作品の初発売日：1988-03-05。LP盤規格品番：C28A0624。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+          "sources": [
+            {
+              "label": "公式ディスコグラフィー（作品発売日）",
+              "url": "https://www.chage-aska.net/discography/album/phapsody.php"
+            },
+            {
+              "label": "参考資料（非公式・規格品番）",
+              "url": "https://ticro.com/products/c031365"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "media-v18-1988-008",
@@ -16226,7 +16355,7 @@
       "title": "『SCENE』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：オリジナルアルバム。飛鳥涼（ASKA）ソロ1stアルバムの初発売。後年のリミックス盤・再発売と区別。\n【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A-0661（品番は二次資料）／カセット 28P-6831（品番は二次資料）／CD（初発売時） D32A-0387（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。\n【第45回・規格品番全件点検】規格品番欄へC28A-0661 / 28P-6831 / D32A-0387を補完。品番の根拠は二次資料。既存備考で初発売各媒体の品番として記録済み。",
+      "note": "作品形態：オリジナルアルバム。飛鳥涼（ASKA）ソロ1stアルバムの初発売。後年のリミックス盤・再発売と区別。\n【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A-0661（品番は二次資料）／カセット 28P-6831（品番は二次資料）／CD（初発売時） D32A-0387（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。\n【第45回・規格品番全件点検】規格品番欄へC28A-0661 / 28P-6831 / D32A-0387を補完。品番の根拠は二次資料。既存備考で初発売各媒体の品番として記録済み。\n【第48回・記録の役割整理】この記録は『SCENE』作品全体の初発売日を示す。LP・カセット・CDの初発売時の規格別レコード3件も存在するが、それぞれ製品の品番が異なるため統合・削除しない。作品単位と規格別の表示であり、同日に4回発売されたという意味ではない。",
       "sources": [
         {
           "label": "ASKA公式｜ディスコグラフィー配信解禁作品の初発売日",
@@ -16267,7 +16396,13 @@
       "catalogNumber": "C28A-0661 / 28P-6831 / D32A-0387",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.fellows.tokyo/news/detail/328",
-      "releaseFormat": "LP／カセット／CD（初発売時の各規格）"
+      "releaseFormat": "LP／カセット／CD（初発売時の各規格）",
+      "recordScope": "work_initial_release",
+      "linkedVariantIds": [
+        "release-audit-variants-19880821-scene-lp-c28a0661",
+        "release-audit-variants-19880821-scene-ct-28p6831",
+        "release-audit-variants-19880821-scene-cd-d32a0387"
+      ]
     },
     {
       "id": "media-v18-1988-023",
@@ -16710,7 +16845,7 @@
       "releaseTitle": "ENERGY",
       "status": "released",
       "verification": "primary",
-      "note": "【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A0678（品番は二次資料）／カセット 28P6854（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。\n【1986〜1988年・初発売CD盤品番追補】 CD初発売盤：D32A-0406（品番とCD発売日はオリコンの商品情報で照合）。LP・カセット盤、後年のCD再発売盤とは区別。\n【第45回・規格品番全件点検】規格品番欄へC28A0678を補完。品番の根拠は二次資料。",
+      "note": "【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A0678（品番は二次資料）／カセット 28P6854（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。\n【1986〜1988年・初発売CD盤品番追補】 CD初発売盤：D32A-0406（品番とCD発売日はオリコンの商品情報で照合）。LP・カセット盤、後年のCD再発売盤とは区別。\n【第45回・規格品番全件点検】規格品番欄へC28A0678を補完。品番の根拠は二次資料。\n【第48回・同一規格発売記録の統合】「『ENERGY』LP盤発売」（旧ID：release-audit-1986to1989-19881121-c28a0678）は、この記録と同日・同名義・同品番（C28A0678）のため統合。別規格・別日発売は統合していません。旧記録の備考：作品形態：アナログLPレコード。作品の初発売日：1988-11-21。LP盤規格品番：C28A0678。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
@@ -16743,7 +16878,37 @@
       "catalogNumber": "C28A0678",
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://diskunion.net/detail/1006533385",
-      "releaseFormat": "LP（初発売盤）"
+      "releaseFormat": "LP（初発売盤）",
+      "format": "アナログLPレコード",
+      "mergedFromIds": [
+        "release-audit-1986to1989-19881121-c28a0678"
+      ],
+      "mergedRecordSnapshots": [
+        {
+          "id": "release-audit-1986to1989-19881121-c28a0678",
+          "date": "1988-11-21",
+          "artist": "CHAGE and ASKA",
+          "category": "release",
+          "title": "『ENERGY』LP盤発売",
+          "status": "released",
+          "verification": "secondary",
+          "releaseTitle": "ENERGY",
+          "releaseType": "初発売時の別規格（LP）",
+          "format": "アナログLPレコード",
+          "catalogNumber": "C28A0678",
+          "note": "作品形態：アナログLPレコード。作品の初発売日：1988-11-21。LP盤規格品番：C28A0678。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
+          "sources": [
+            {
+              "label": "公式ディスコグラフィー（作品発売日）",
+              "url": "https://www.chage-aska.net/discography/album/energy.php"
+            },
+            {
+              "label": "参考資料（非公式・規格品番）",
+              "url": "https://diskunion.net/detail/1006533385"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "live-concert-1988-051",
@@ -21743,7 +21908,7 @@
       "releaseTitle": "太陽と埃の中で I",
       "status": "released",
       "verification": "primary",
-      "note": "ビデオ\n【第45回・規格品番全件点検】規格品番欄へPCVP-10489を補完。発売元・公式資料による照合。",
+      "note": "ビデオ\n【第45回・規格品番全件点検】規格品番欄へPCVP-10489を補完。発売元・公式資料による照合。\n【第48回・同一規格発売記録の統合】「『太陽と埃の中で 1』VTR発売」（旧ID：release-audit-v232-19910321-pcvp10489）は、この記録と同日・同名義・同品番（PCVP-10489）のため統合。別規格・別日発売は統合していません。旧記録の備考：【第32回・1990〜1994年別規格追補】当時のVTR（映像作品）。規格品番：PCVP-10489。発売日・規格・製品番号は公式ディスコグラフィーで確認。既存の公演日・アルバム発売日・後年再発売とは区別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
@@ -21759,7 +21924,32 @@
       "catalogNumber": "PCVP-10489",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/video/taiyoutohokorinonakade1.php",
-      "releaseFormat": "VHS/VTR"
+      "releaseFormat": "VHS/VTR",
+      "format": "VTR",
+      "mergedFromIds": [
+        "release-audit-v232-19910321-pcvp10489"
+      ],
+      "mergedRecordSnapshots": [
+        {
+          "id": "release-audit-v232-19910321-pcvp10489",
+          "date": "1991-03-21",
+          "artist": "CHAGE and ASKA",
+          "category": "release",
+          "title": "『太陽と埃の中で 1』VTR発売",
+          "releaseTitle": "太陽と埃の中で 1",
+          "format": "VTR",
+          "catalogNumber": "PCVP-10489",
+          "status": "released",
+          "verification": "primary",
+          "note": "【第32回・1990〜1994年別規格追補】当時のVTR（映像作品）。規格品番：PCVP-10489。発売日・規格・製品番号は公式ディスコグラフィーで確認。既存の公演日・アルバム発売日・後年再発売とは区別。",
+          "sources": [
+            {
+              "label": "CHAGE and ASKA公式ディスコグラフィー（VTR）",
+              "url": "https://www.chage-aska.net/discography/video/taiyoutohokorinonakade1.php"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "release-1990-1992-009",
@@ -21770,7 +21960,7 @@
       "releaseTitle": "太陽と埃の中で II",
       "status": "released",
       "verification": "primary",
-      "note": "ビデオ\n【第45回・規格品番全件点検】規格品番欄へPCVP-10490を補完。発売元・公式資料による照合。",
+      "note": "ビデオ\n【第45回・規格品番全件点検】規格品番欄へPCVP-10490を補完。発売元・公式資料による照合。\n【第48回・同一規格発売記録の統合】「『太陽と埃の中で 2』VTR発売」（旧ID：release-audit-v232-19910321-pcvp10490）は、この記録と同日・同名義・同品番（PCVP-10490）のため統合。別規格・別日発売は統合していません。旧記録の備考：【第32回・1990〜1994年別規格追補】当時のVTR（映像作品）。規格品番：PCVP-10490。発売日・規格・製品番号は公式ディスコグラフィーで確認。既存の公演日・アルバム発売日・後年再発売とは区別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
@@ -21786,7 +21976,32 @@
       "catalogNumber": "PCVP-10490",
       "catalogNumberVerification": "primary",
       "catalogNumberSourceUrl": "https://www.chage-aska.net/discography/video/taiyoutohokorinonakade2.php",
-      "releaseFormat": "VHS/VTR"
+      "releaseFormat": "VHS/VTR",
+      "format": "VTR",
+      "mergedFromIds": [
+        "release-audit-v232-19910321-pcvp10490"
+      ],
+      "mergedRecordSnapshots": [
+        {
+          "id": "release-audit-v232-19910321-pcvp10490",
+          "date": "1991-03-21",
+          "artist": "CHAGE and ASKA",
+          "category": "release",
+          "title": "『太陽と埃の中で 2』VTR発売",
+          "releaseTitle": "太陽と埃の中で 2",
+          "format": "VTR",
+          "catalogNumber": "PCVP-10490",
+          "status": "released",
+          "verification": "primary",
+          "note": "【第32回・1990〜1994年別規格追補】当時のVTR（映像作品）。規格品番：PCVP-10490。発売日・規格・製品番号は公式ディスコグラフィーで確認。既存の公演日・アルバム発売日・後年再発売とは区別。",
+          "sources": [
+            {
+              "label": "CHAGE and ASKA公式ディスコグラフィー（VTR）",
+              "url": "https://www.chage-aska.net/discography/video/taiyoutohokorinonakade2.php"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "media-v18-1991-004",
@@ -83374,30 +83589,6 @@
       ]
     },
     {
-      "id": "release-audit-1986to1989-19860421-c28a0486",
-      "date": "1986-04-21",
-      "artist": "CHAGE and ASKA",
-      "category": "release",
-      "title": "『TURNING POINT』LP盤発売",
-      "status": "released",
-      "verification": "secondary",
-      "releaseTitle": "TURNING POINT",
-      "releaseType": "初発売時の別規格（LP）",
-      "format": "アナログLPレコード",
-      "catalogNumber": "C28A0486",
-      "note": "作品形態：アナログLPレコード。作品の初発売日：1986-04-21。LP盤規格品番：C28A0486。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
-      "sources": [
-        {
-          "label": "公式ディスコグラフィー（作品発売日）",
-          "url": "https://www.chage-aska.net/discography/album/turning_point.php"
-        },
-        {
-          "label": "参考資料（非公式・規格品番）",
-          "url": "https://www.cd-brain.com/shop/product/chage-aska-turning-point-lp-album/"
-        }
-      ]
-    },
-    {
       "id": "release-audit-1986to1989-19860421-28p6526",
       "date": "1986-04-21",
       "artist": "CHAGE and ASKA",
@@ -83418,30 +83609,6 @@
         {
           "label": "参考資料（非公式・規格品番）",
           "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
-        }
-      ]
-    },
-    {
-      "id": "release-audit-1986to1989-19860921-c28a0513",
-      "date": "1986-09-21",
-      "artist": "CHAGE and ASKA",
-      "category": "release",
-      "title": "『MIX BLOOD』LP盤発売",
-      "status": "released",
-      "verification": "secondary",
-      "releaseTitle": "MIX BLOOD",
-      "releaseType": "初発売時の別規格（LP）",
-      "format": "アナログLPレコード",
-      "catalogNumber": "C28A0513",
-      "note": "作品形態：アナログLPレコード。作品の初発売日：1986-09-21。LP盤規格品番：C28A0513。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
-      "sources": [
-        {
-          "label": "公式ディスコグラフィー（作品発売日）",
-          "url": "https://www.chage-aska.net/discography/album/mix_blood.php"
-        },
-        {
-          "label": "参考資料（非公式・規格品番）",
-          "url": "https://www.stereo-records.com/detail.php?itemCd=53039"
         }
       ]
     },
@@ -83498,30 +83665,6 @@
       ]
     },
     {
-      "id": "release-audit-1986to1989-19870521-c28a0568",
-      "date": "1987-05-21",
-      "artist": "CHAGE and ASKA",
-      "category": "release",
-      "title": "『Mr.ASIA』LP盤発売",
-      "status": "released",
-      "verification": "secondary",
-      "releaseTitle": "Mr.ASIA",
-      "releaseType": "初発売時の別規格（LP）",
-      "format": "アナログLPレコード",
-      "catalogNumber": "C28A0568",
-      "note": "作品形態：アナログLPレコード。作品の初発売日：1987-05-21。LP盤規格品番：C28A0568。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
-      "sources": [
-        {
-          "label": "公式ディスコグラフィー（作品発売日）",
-          "url": "https://www.chage-aska.net/discography/album/mr_asia.php"
-        },
-        {
-          "label": "参考資料（非公式・規格品番）",
-          "url": "https://www.suruga-ya.com/ja/product/252010932"
-        }
-      ]
-    },
-    {
       "id": "release-audit-1986to1989-19870521-28p6672",
       "date": "1987-05-21",
       "artist": "CHAGE and ASKA",
@@ -83546,30 +83689,6 @@
       ]
     },
     {
-      "id": "release-audit-1986to1989-19880305-c28a0624",
-      "date": "1988-03-05",
-      "artist": "CHAGE and ASKA",
-      "category": "release",
-      "title": "『RHAPSODY』LP盤発売",
-      "status": "released",
-      "verification": "secondary",
-      "releaseTitle": "RHAPSODY",
-      "releaseType": "初発売時の別規格（LP）",
-      "format": "アナログLPレコード",
-      "catalogNumber": "C28A0624",
-      "note": "作品形態：アナログLPレコード。作品の初発売日：1988-03-05。LP盤規格品番：C28A0624。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
-      "sources": [
-        {
-          "label": "公式ディスコグラフィー（作品発売日）",
-          "url": "https://www.chage-aska.net/discography/album/phapsody.php"
-        },
-        {
-          "label": "参考資料（非公式・規格品番）",
-          "url": "https://ticro.com/products/c031365"
-        }
-      ]
-    },
-    {
       "id": "release-audit-1986to1989-19880305-28p6780",
       "date": "1988-03-05",
       "artist": "CHAGE and ASKA",
@@ -83590,30 +83709,6 @@
         {
           "label": "参考資料（非公式・規格品番）",
           "url": "https://www.ebay.de/itm/168674518147"
-        }
-      ]
-    },
-    {
-      "id": "release-audit-1986to1989-19881121-c28a0678",
-      "date": "1988-11-21",
-      "artist": "CHAGE and ASKA",
-      "category": "release",
-      "title": "『ENERGY』LP盤発売",
-      "status": "released",
-      "verification": "secondary",
-      "releaseTitle": "ENERGY",
-      "releaseType": "初発売時の別規格（LP）",
-      "format": "アナログLPレコード",
-      "catalogNumber": "C28A0678",
-      "note": "作品形態：アナログLPレコード。作品の初発売日：1988-11-21。LP盤規格品番：C28A0678。当該作品の初発売と同日付の別規格商品として記録。作品自体の発売日は公式ディスコグラフィー、LP規格と品番は二次商品資料で照合。後年のCD再発売と区別。",
-      "sources": [
-        {
-          "label": "公式ディスコグラフィー（作品発売日）",
-          "url": "https://www.chage-aska.net/discography/album/energy.php"
-        },
-        {
-          "label": "参考資料（非公式・規格品番）",
-          "url": "https://diskunion.net/detail/1006533385"
         }
       ]
     },
@@ -83955,7 +84050,9 @@
           "label": "参考資料（非公式・媒体の照合）",
           "url": "https://takechas.com/?pid=189343111"
         }
-      ]
+      ],
+      "recordScope": "format_variant",
+      "parentReleaseId": "release-audit-v202-20261118-aska-scene-1988-original"
     },
     {
       "id": "release-audit-variants-19880821-scene-ct-28p6831",
@@ -83983,7 +84080,9 @@
           "label": "参考資料（非公式・媒体の照合）",
           "url": "https://tokyocollectors.shop-pro.jp/?pid=193663488"
         }
-      ]
+      ],
+      "recordScope": "format_variant",
+      "parentReleaseId": "release-audit-v202-20261118-aska-scene-1988-original"
     },
     {
       "id": "release-audit-variants-19880821-scene-cd-d32a0387",
@@ -84011,7 +84110,9 @@
           "label": "参考資料（非公式・初発売CDの照合）",
           "url": "https://www.fanfan1.com/products/detail.php?product_id=779265"
         }
-      ]
+      ],
+      "recordScope": "format_variant",
+      "parentReleaseId": "release-audit-v202-20261118-aska-scene-1988-original"
     },
     {
       "id": "release-audit-variants-19900207-ballad-ct-pcta00026",
@@ -84195,44 +84296,6 @@
         {
           "label": "CHAGE and ASKA公式ディスコグラフィー（発売日・規格・製品番号）",
           "url": "https://www.chage-aska.net/discography/video/the_natsumatsuri.php"
-        }
-      ]
-    },
-    {
-      "id": "release-audit-v232-19910321-pcvp10489",
-      "date": "1991-03-21",
-      "artist": "CHAGE and ASKA",
-      "category": "release",
-      "title": "『太陽と埃の中で 1』VTR発売",
-      "releaseTitle": "太陽と埃の中で 1",
-      "format": "VTR",
-      "catalogNumber": "PCVP-10489",
-      "status": "released",
-      "verification": "primary",
-      "note": "【第32回・1990〜1994年別規格追補】当時のVTR（映像作品）。規格品番：PCVP-10489。発売日・規格・製品番号は公式ディスコグラフィーで確認。既存の公演日・アルバム発売日・後年再発売とは区別。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式ディスコグラフィー（VTR）",
-          "url": "https://www.chage-aska.net/discography/video/taiyoutohokorinonakade1.php"
-        }
-      ]
-    },
-    {
-      "id": "release-audit-v232-19910321-pcvp10490",
-      "date": "1991-03-21",
-      "artist": "CHAGE and ASKA",
-      "category": "release",
-      "title": "『太陽と埃の中で 2』VTR発売",
-      "releaseTitle": "太陽と埃の中で 2",
-      "format": "VTR",
-      "catalogNumber": "PCVP-10490",
-      "status": "released",
-      "verification": "primary",
-      "note": "【第32回・1990〜1994年別規格追補】当時のVTR（映像作品）。規格品番：PCVP-10490。発売日・規格・製品番号は公式ディスコグラフィーで確認。既存の公演日・アルバム発売日・後年再発売とは区別。",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA公式ディスコグラフィー（VTR）",
-          "url": "https://www.chage-aska.net/discography/video/taiyoutohokorinonakade2.php"
         }
       ]
     },
@@ -85712,5 +85775,5 @@
       "releaseType": "reissue"
     }
   ],
-  "siteVersion": "2.0.46"
+  "siteVersion": "2.0.47"
 }
