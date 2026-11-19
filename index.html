@@ -338,5 +338,136 @@ document.addEventListener('DOMContentLoaded',function(){
 })();
 </script>
 <!-- /CA_RELEASE_DETAILS_V215 -->
+<!-- CA_LIVE_DETAILS_V216 -->
+<style id="ca-live-details-style">
+.ca-live-groups{display:grid;gap:16px}
+.ca-live-group{border:1px solid #5b6d86;background:#223450;border-radius:12px;padding:18px 20px}
+.ca-live-group h3{font-size:1.18rem;line-height:1.5;margin:0 0 12px;color:#f6dcaa}
+.ca-live-fields{display:grid;grid-template-columns:minmax(120px,165px) minmax(0,1fr);gap:10px 18px;margin:0;line-height:1.75;font-size:1.12rem}
+.ca-live-fields dt{color:#d0dceb;font-weight:700}.ca-live-fields dd{margin:0;color:#fff;white-space:pre-wrap;overflow-wrap:anywhere}
+.ca-live-notice{line-height:1.8;font-size:.98rem;color:#cad7e8;margin:14px 0 0}
+.ca-live-related-summary{font-size:1.1rem;line-height:1.65;color:#f5dcab;font-weight:750;margin:0 0 14px}
+.ca-live-route{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:16px}
+.ca-live-route a{display:inline-flex;min-height:44px;align-items:center;padding:8px 14px;border:1px solid #8da1b9;border-radius:9px;color:#ffe1a6;text-decoration:underline;text-underline-offset:3px;font-size:1.06rem}
+.ca-live-related details{border:1px solid #5b6d86;border-radius:12px;background:#20314b;padding:15px 17px;margin:14px 0}
+.ca-live-related details summary{cursor:pointer;line-height:1.7;font-size:1.08rem;color:#ffe2a6;font-weight:700}
+.ca-live-list{display:grid;gap:10px;margin-top:16px}
+.ca-live-item{padding:13px 15px;border:1px solid #546984;border-radius:10px;background:#192b45}
+.ca-live-item[aria-current="true"]{border-color:#f4d99f}
+.ca-live-item time{display:block;color:#f3dca7;font-size:1.01rem;font-weight:750}
+.ca-live-item a{color:#ffe2aa;font-size:1.1rem;font-weight:700;line-height:1.6;text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}
+.ca-live-item-current{display:block;color:#f0e5d2;font-size:1.08rem;font-weight:750;line-height:1.6}
+.ca-live-item p{font-size:.98rem;color:#d9e4f2;line-height:1.7;white-space:pre-wrap;overflow-wrap:anywhere;margin:5px 0 0}
+.ca-live-more{font:inherit;font-weight:700;cursor:pointer;min-height:44px;margin-top:12px;padding:8px 17px;border:1px solid #8799b0;border-radius:9px;background:#2e4564;color:#ffe2aa}
+.ca-live-warning{color:#ffdb9a;font-weight:700}
+@media(max-width:600px){.ca-live-group{padding:16px 14px}.ca-live-fields{grid-template-columns:1fr;gap:2px}.ca-live-fields dd{margin:0 0 12px}.ca-live-related details{padding:12px}}
+</style>
+<script id="ca-live-details-script">
+(function(){
+'use strict';
+document.addEventListener('DOMContentLoaded',function(){
+ const query=new URLSearchParams(location.search);
+ const id=query.get('event');
+ if(!id)return;
+ const data=window.CA_EVENT_DATA;
+ const events=Array.isArray(data&&data.events)?data.events:[];
+ const e=events.find(x=>String(x.id)===id);
+ if(!e||e.category!=='live')return;
+ const paper=document.querySelector('#ca-single-detail .ca-detail-paper');
+ if(!paper||paper.querySelector('.ca-live-summary'))return;
+ const node=(tag,cls,txt)=>{const x=document.createElement(tag);if(cls)x.className=cls;if(txt!==undefined&&txt!==null)x.textContent=String(txt);return x;};
+ const value=v=>v===undefined||v===null?'':Array.isArray(v)?v.map(value).filter(Boolean).join('\n'):typeof v==='object'?Object.entries(v).map(([k,x])=>k+'：'+value(x)).join('\n'):String(v).trim();
+ const niceDate=v=>{const m=String(v||'').match(/^(\d{4})-(\d{2})-(\d{2})$/);return m?Number(m[1])+'年'+Number(m[2])+'月'+Number(m[3])+'日':String(v||'');};
+ const status=v=>{const s=String(v||'').toLowerCase().trim();if(s.includes('cancel')||s.includes('中止'))return '中止';if(s.includes('postpon')||s.includes('延期'))return '延期';if(s==='scheduled'||s==='planned'||s.includes('予定'))return '開催予定';if(s==='recorded'||s==='held'||s==='performed'||s.includes('実施'))return '実施済み';return s?'状態：'+String(v):'状態未設定';};
+ const verified=v=>v==='primary'?'一次資料確認':v==='secondary'?'二次資料確認':'確認区分未設定';
+ const href=x=>{const u=new URL(location.href);u.search='';u.searchParams.set('date',String(x.date||'').slice(5));u.searchParams.set('event',String(x.id));u.hash='browse';return u.href;};
+ const compare=(a,b)=>String(a.date||'').localeCompare(String(b.date||''))||String(a.id||'').localeCompare(String(b.id||''));
+ const summary=node('section','ca-detail-section ca-live-summary');
+ summary.append(node('h2','','ライブ公演の詳細'));
+ const groups=node('div','ca-live-groups');
+ const items=[
+  ['公演情報',[
+    ['date','登録日'],['artist','名義'],['tourId','ツアーID'],['performanceNo','公演番号'],['prefecture','都道府県'],['venue','会場'],['startTime','開演時刻'],['doorTime','開場時刻'],['showTime','公演時刻']
+  ]],
+  ['公演の状態と確認状況',[
+    ['status','公演状態（登録値）'],['verification','資料の確認区分（登録値）'],['originalDate','当初予定日'],['rescheduledDate','振替日'],['postponedFrom','延期前の日付'],['postponedTo','延期先の日付']
+  ]]
+ ];
+ items.forEach(([name,fields])=>{
+  const vals=fields.map(([key,label])=>[label,value(e[key])]).filter(([,val])=>val!=='');
+  if(!vals.length)return;
+  const group=node('div','ca-live-group');group.append(node('h3','',name));
+  const dl=node('dl','ca-live-fields');
+  vals.forEach(([label,val])=>dl.append(node('dt','',label),node('dd','',val)));
+  group.append(dl);groups.append(group);
+ });
+ summary.append(groups);
+ const flag=node('p','ca-live-notice','登録状態：'+status(e.status)+' ／ 出典の確認：'+verified(e.verification));
+ if(/中止|延期/.test(status(e.status)))flag.classList.add('ca-live-warning');
+ summary.append(flag);
+ summary.append(node('p','ca-live-notice','状態や日程の表示は記録に登録された情報に基づきます。同じ日・同じ会場の公演も、登録IDが異なれば別記録として扱います。備考と出典もあわせてご確認ください。'));
+ // Avoid duplicate detail fields on live pages only.
+ const old=paper.querySelector('.ca-detail-fields');
+ if(old){const parent=old.closest('.ca-detail-section');if(parent)parent.remove();}
+ const first=paper.querySelector('.ca-detail-section');paper.insertBefore(summary,first||null);
+ const details=node('section','ca-detail-section ca-live-related');
+ details.append(node('h2','','関連するライブ記録'));
+ let linked=false;
+ function listPanel(records,title,startOpen){
+  const panel=node('details');if(startOpen)panel.open=true;
+  panel.append(node('summary','',title+'（登録 '+records.length+'件）'));
+  const listing=node('div','ca-live-list');
+  const more=node('button','ca-live-more');more.type='button';
+  let shown=0;
+  function render(){
+   const next=Math.min(records.length,shown+12);
+   for(let n=shown;n<next;n++){
+    const x=records[n];const current=String(x.id)===id;
+    const row=node('article','ca-live-item');if(current)row.setAttribute('aria-current','true');
+    const stamp=node('time','',niceDate(x.date));if(/^\d{4}-\d{2}-\d{2}$/.test(String(x.date||'')))stamp.dateTime=String(x.date);
+    row.append(stamp);
+    if(current)row.append(node('strong','ca-live-item-current',String(x.title||'タイトル未設定')+'（現在の記録）'));
+    else {const a=node('a','',x.title||'タイトル未設定');a.href=href(x);row.append(a);}
+    const s=[x.prefecture,x.venue].filter(Boolean).join('・');
+    const flags=[s,x.performanceNo!=null?'公演番号 '+value(x.performanceNo):'',status(x.status)].filter(Boolean);
+    if(flags.length)row.append(node('p','',flags.join(' ／ ')));
+    listing.append(row);
+   }
+   shown=next;
+   more.hidden=shown>=records.length;
+   more.textContent='さらに表示（残り'+(records.length-shown)+'件）';
+  }
+  more.addEventListener('click',render);render();
+  panel.append(listing,more);details.append(panel);
+ }
+ // Explicit tourId and exact artist matching. Never infer a tour from a similar title.
+ if(value(e.tourId)){
+  const tour=events.filter(x=>x.category==='live'&&String(x.artist||'')===String(e.artist||'')&&value(x.tourId)===value(e.tourId)).sort(compare);
+  if(tour.length>1){
+   linked=true;
+   const n=tour.findIndex(x=>String(x.id)===id);
+   if(n>=0){
+    details.append(node('p','ca-live-related-summary','同じツアーの登録 '+tour.length+'件中 '+(n+1)+'件目（日付順）'));
+    const nav=node('nav','ca-live-route');nav.setAttribute('aria-label','同じツアーの前後公演');
+    [[n-1,'← 前のツアー記録'],[n+1,'次のツアー記録 →']].forEach(([pos,label])=>{if(pos<0||pos>=tour.length)return;const a=node('a','',label);a.href=href(tour[pos]);nav.append(a);});
+    if(nav.childElementCount)details.append(nav);
+   }
+   listPanel(tour,'同じツアーの公演',false);
+  }
+ }
+ // Require prefecture as well to avoid matching homonymous venues across regions.
+ if(value(e.prefecture)&&value(e.venue)){
+  const venue=events.filter(x=>x.category==='live'&&value(x.prefecture)===value(e.prefecture)&&value(x.venue)===value(e.venue)).sort(compare);
+  if(venue.length>1){linked=true;listPanel(venue,'同じ会場のライブ',false);}
+ }
+ if(linked){
+  details.append(node('p','ca-live-notice','ツアーは登録されたツアーIDと名義、会場は都道府県と会場名の完全一致で抽出しています。表示は日付順で、実際の公演実施順を保証するものではありません。延期・中止・昼夜公演の記録も自動的に統合しません。'));
+  const source=Array.from(paper.querySelectorAll('.ca-detail-section')).find(x=>x.querySelector('h2')?.textContent==='出典・参考資料');
+  paper.insertBefore(details,source||null);
+ }
+});
+})();
+</script>
+<!-- /CA_LIVE_DETAILS_V216 -->
 </body>
 </html>
