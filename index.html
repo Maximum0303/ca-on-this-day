@@ -469,5 +469,140 @@ document.addEventListener('DOMContentLoaded',function(){
 })();
 </script>
 <!-- /CA_LIVE_DETAILS_V216 -->
+<!-- CA_SHARE_USABILITY_V217 -->
+<style id="ca-share-v217-style">
+/* CA_SHARE_USABILITY_V217: share controls scoped to calendar/day and record detail. */
+.ca-share-ready #share-date{display:none!important}
+.ca-share-ready .ca-detail-share{display:none!important}
+.ca-share-panel{margin:18px 0 22px;padding:18px 20px;border:1px solid #8d99a6;border-radius:14px;background:#21334f;color:#f5f7fc;box-shadow:0 8px 22px rgba(0,0,0,.12)}
+.ca-share-panel--record{margin:26px 0 16px;border-color:#a48b62;background:#243650}
+.ca-share-head{font-size:clamp(1.13rem,2.5vw,1.35rem);font-weight:800;color:#fff;margin:0 0 4px;line-height:1.5}
+.ca-share-intro{font-size:1rem;line-height:1.7;margin:0 0 14px;color:#e2e9f2}
+.ca-share-actions{display:flex;flex-wrap:wrap;align-items:stretch;gap:10px}
+.ca-share-btn{font:inherit;font-size:1.03rem;font-weight:800;line-height:1.45;display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:50px;padding:12px 18px;cursor:pointer;border-radius:10px;text-align:center}
+.ca-share-btn--x{color:#172339;background:#f8dfac;border:2px solid #f8dfac}
+.ca-share-btn--copy{color:#fff;background:#30496b;border:2px solid #a4bad1}
+.ca-share-btn:hover{filter:brightness(1.08)}
+.ca-share-btn:focus-visible{outline:3px solid #fff;outline-offset:3px}
+.ca-share-hint{font-size:.93rem;line-height:1.6;color:#d6e1ef;margin:12px 0 0}
+.ca-share-status{font-size:.96rem;font-weight:700;min-height:1.5em;color:#ffe5b3;margin:8px 0 0}
+.ca-share-fallback{width:100%;padding:10px;border:1px solid #d5e2ed;border-radius:6px;font-size:1rem;background:#fff;color:#1a2736}
+@media (max-width:570px){.ca-share-panel{padding:16px 14px}.ca-share-actions{display:grid;grid-template-columns:1fr}.ca-share-btn{width:100%}}
+</style>
+<script id="ca-share-v217-script">
+/* CA_SHARE_USABILITY_V217: display-only enhancement; never modifies archive records. */
+(function(){
+  'use strict';
+  document.addEventListener('DOMContentLoaded',function(){
+    const $=id=>document.getElementById(id);
+    const daySummary=$('day-summary');
+    const archive=window.CA_EVENT_DATA||{};
+    const events=Array.isArray(archive.events)?archive.events:[];
+    const params=new URLSearchParams(location.search);
+    const eventId=params.get('event');
+    const matched=eventId?events.find(e=>String(e.id)===eventId):null;
+    function make(tag,cls,label){
+      const el=document.createElement(tag);
+      if(cls)el.className=cls;
+      if(label!==undefined)el.textContent=String(label);
+      return el;
+    }
+    function selectedDay(){
+      const displayed=String($('selected-date')?.textContent||'');
+      const match=displayed.match(/(\d{1,2})月(\d{1,2})日/);
+      if(match)return String(Number(match[1])).padStart(2,'0')+'-'+String(Number(match[2])).padStart(2,'0');
+      const key=new URLSearchParams(location.search).get('date');
+      return /^\d{2}-\d{2}$/.test(key||'')?key:null;
+    }
+    function datePageUrl(){
+      const date=selectedDay();if(!date)return '';
+      const u=new URL(location.href);
+      u.search='';u.searchParams.set('date',date);u.hash='calendar';
+      return u.href;
+    }
+    function recordPageUrl(e){
+      const u=new URL(location.href);
+      u.search='';u.searchParams.set('date',String(e.date).slice(5));
+      u.searchParams.set('event',String(e.id));u.hash='browse';
+      return u.href;
+    }
+    function dateLabel(date){
+      const m=String(date||'').match(/^(\d{4})-(\d{2})-(\d{2})$/);
+      return m?`${Number(m[1])}年${Number(m[2])}月${Number(m[3])}日`:String(date||'');
+    }
+    async function copyUrl(url,status,panel){
+      try{
+        if(!url)throw Error('No valid URL');
+        if(!navigator.clipboard?.writeText)throw Error('Clipboard not available');
+        await navigator.clipboard.writeText(url);
+        status.textContent='リンクをコピーしました。メッセージなどに貼り付けてください。';
+      }catch(_){
+        let copied=false;
+        if(url){
+          const ta=document.createElement('textarea');ta.value=url;
+          ta.style.position='fixed';ta.style.left='-9999px';
+          document.body.append(ta);ta.select();
+          try{copied=document.execCommand('copy');}catch(e){}
+          ta.remove();
+        }
+        if(copied){status.textContent='リンクをコピーしました。';return;}
+        status.textContent='自動コピーできない場合は、次のURLを選択してコピーしてください。';
+        let fallback=panel.querySelector('.ca-share-fallback');
+        if(!fallback){fallback=make('input','ca-share-fallback');fallback.type='text';fallback.readOnly=true;fallback.setAttribute('aria-label','共有するURL');panel.append(fallback);}
+        fallback.value=url;fallback.focus();fallback.select();
+      }
+    }
+    function openX(text,url,status){
+      if(!url){status.textContent='共有リンクを作成できませんでした。';return;}
+      const intent=new URL('https://twitter.com/intent/tweet');
+      intent.searchParams.set('text',text);
+      intent.searchParams.set('url',url);
+      window.open(intent.href,'_blank','noopener,noreferrer');
+      status.textContent='Xの投稿画面で文章とリンクを確認して、「ポスト」を押してください。';
+    }
+    function panel(title,intro,getShare){
+      const section=make('section','ca-share-panel');
+      section.setAttribute('aria-label',title);
+      section.append(make('h2','ca-share-head',title));
+      section.append(make('p','ca-share-intro',intro));
+      const actions=make('div','ca-share-actions');
+      const post=make('button','ca-share-btn ca-share-btn--x','𝕏  Xに投稿する');post.type='button';
+      const copy=make('button','ca-share-btn ca-share-btn--copy','リンクをコピー');copy.type='button';
+      actions.append(post,copy);section.append(actions);
+      section.append(make('p','ca-share-hint','Xは投稿内容を確認してから公開できます。URLだけ送りたい場合は「リンクをコピー」を使ってください。'));
+      const status=make('p','ca-share-status');status.setAttribute('role','status');status.setAttribute('aria-live','polite');section.append(status);
+      post.addEventListener('click',function(){const result=getShare();openX(result.text,result.url,status);});
+      copy.addEventListener('click',function(){const result=getShare();copyUrl(result.url,status,section);});
+      return section;
+    }
+    let ready=false;
+    if(daySummary){
+      const dayPanel=panel('この日を共有','選択している月日の出来事一覧を、まとめて共有します。',function(){
+        const date=selectedDay()||'00-00';
+        const [month,day]=date.split('-').map(Number);
+        return {url:datePageUrl(),text:`今日はC&Aの何の日？ ${month}月${day}日の出来事を振り返る`};
+      });
+      dayPanel.classList.add('ca-share-panel--day');
+      daySummary.insertAdjacentElement('afterend',dayPanel);
+      ready=true;
+    }
+    const detail=$('ca-single-detail');
+    if(matched&&detail){
+      const locationBox=detail.querySelector('.ca-detail-chips')||detail.querySelector('.ca-detail-title');
+      const paper=detail.querySelector('.ca-detail-paper');
+      const detailPanel=panel('この記録を共有','今開いている1件の詳細ページを、そのまま共有します。',function(){
+        const title=Array.from(String(matched.title||'')).slice(0,100).join('');
+        return {url:recordPageUrl(matched),text:`今日はC&Aの何の日？｜${title}（${dateLabel(matched.date)}）`};
+      });
+      detailPanel.classList.add('ca-share-panel--record');
+      if(locationBox)locationBox.insertAdjacentElement('afterend',detailPanel);
+      else if(paper)paper.append(detailPanel);
+      ready=true;
+    }
+    if(ready)document.body.classList.add('ca-share-ready');
+  });
+})();
+</script>
+<!-- /CA_SHARE_USABILITY_V217 -->
 </body>
 </html>
