@@ -4,6 +4,31 @@
   "lastUpdated": "2026-11-19",
   "events": [
     {
+      "id": "milestone-1978-popcon15-formation-yearonly",
+      "date": "1978",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "第15回ポプコンをきっかけにCHAGE & ASKA結成",
+      "status": "historical",
+      "verification": "primary",
+      "note": "1978年、第15回ヤマハポピュラーソングコンテストを契機にChageとASKAが組むことになった。ASKA公式BIOGRAPHYには「九州、中国地区大会」でグランプリ獲得、CHAGE & ASKA結成と記載されている。一方、Chageのプロフィールや当人の回想では、Chageが福岡大会でグランプリ、ASKAが最優秀歌唱賞を受賞し、ヤマハ担当者の提案で二人が組んだという経緯が語られている。大会の段階・受賞の説明には差異があるため、本記録ではいずれかに断定しない。結成の具体的な月日は未確認のため、1978年のみの記録（架空の日付は付けない）。",
+      "sources": [
+        {
+          "label": "ASKA公式BIOGRAPHY（1978年の記述）",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "Chage本人インタビュー（結成の経緯）",
+          "url": "https://patrick.jp/blogs/feature/my-reborn_1"
+        },
+        {
+          "label": "参考資料（二次資料・大会の経緯）",
+          "url": "https://jfn-pods.com/person/show/1053"
+        }
+      ]
+    },
+    {
       "id": "amateur-popcon16-1978-1001",
       "date": "1978-10-01",
       "artist": "CHAGE and ASKA",
@@ -82467,5 +82492,5 @@
       ]
     }
   ],
-  "siteVersion": "2.0.28"
+  "siteVersion": "2.0.29"
 }
