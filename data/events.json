@@ -9256,12 +9256,32 @@
       "releaseTitle": "Z=One",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【1985〜1989年・初発売規格品番補完】 LP（初発売時） L-12563（品番は二次資料）／カセット LKF-8089（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.stereo-records.com/detail.php?itemCd=58257"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://www.chage-aska.net/discography/album02.php"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://www.wikipedia-is-dead.com/wiki/Z%3DOne"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
         }
+      ],
+      "formats": [
+        "LP（初発売時）：L-12563（品番は二次資料）",
+        "カセット：LKF-8089（品番は二次資料）"
       ]
     },
     {
@@ -9305,13 +9325,19 @@
       "releaseTitle": "オンリー・ロンリー",
       "status": "released",
       "verification": "primary",
-      "note": "同時発売シングル",
+      "note": "同時発売シングル\n【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） L-1702（公式製品番号）。後年の再発売盤とは区別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/only_lonely.php"
         }
-      ]
+      ],
+      "catalogNumber": "L-1702",
+      "format": "シングル（媒体は未確定）"
     },
     {
       "id": "release-v04-yuuwaku-1985",
@@ -9322,13 +9348,19 @@
       "releaseTitle": "誘惑のベルが鳴る",
       "status": "released",
       "verification": "primary",
-      "note": "同時発売シングル",
+      "note": "同時発売シングル\n【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） L-1701（公式製品番号）。後年の再発売盤とは区別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/yuwaku_no_bell_ga_naru.php"
         }
-      ]
+      ],
+      "catalogNumber": "L-1701",
+      "format": "シングル（媒体は未確定）"
     },
     {
       "id": "live-shakin-1985-001",
@@ -10827,12 +10859,28 @@
       "releaseTitle": "Standing Ovation",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【1985〜1989年・初発売規格品番補完】 CD（1985年発売盤） D32A-0145（品番は二次資料）／カセット 28P6500（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.fanfan1.com/products/detail.php?product_id=778515"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://www.chage-aska.net/discography/album02.php"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
         }
+      ],
+      "formats": [
+        "CD（1985年発売盤）：D32A-0145（品番は二次資料）",
+        "カセット：28P6500（品番は二次資料）"
       ]
     },
     {
@@ -11045,7 +11093,7 @@
       "releaseTitle": "モーニングムーン",
       "status": "released",
       "verification": "secondary",
-      "note": "",
+      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0067（公式製品番号）。後年の再発売盤とは区別。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
@@ -11055,7 +11103,9 @@
           "label": "公式・主催者発表",
           "url": "https://www.chage-aska.net/discography/single/morning_moon.php"
         }
-      ]
+      ],
+      "catalogNumber": "S10A-0067",
+      "format": "シングル（媒体は未確定）"
     },
     {
       "id": "media-v18-1986-004",
@@ -11215,7 +11265,7 @@
       "releaseTitle": "TURNING POINT",
       "status": "released",
       "verification": "secondary",
-      "note": "",
+      "note": "【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A0486（品番は二次資料）／カセット 28P6526（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
@@ -11224,7 +11274,19 @@
         {
           "label": "公式・主催者発表",
           "url": "https://www.chage-aska.net/discography/album/turning_point.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.cd-brain.com/shop/product/chage-aska-turning-point-lp-album/"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
         }
+      ],
+      "formats": [
+        "LP（初発売時）：C28A0486（品番は二次資料）",
+        "カセット：28P6526（品番は二次資料）"
       ]
     },
     {
@@ -11468,7 +11530,7 @@
       "releaseTitle": "黄昏を待たずに",
       "status": "released",
       "verification": "secondary",
-      "note": "",
+      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0068（公式製品番号）。後年の再発売盤とは区別。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
@@ -11478,7 +11540,9 @@
           "label": "公式・主催者発表",
           "url": "https://www.chage-aska.net/discography/single/tasogare_wo_matazuni.php"
         }
-      ]
+      ],
+      "catalogNumber": "S10A-0068",
+      "format": "シングル（媒体は未確定）"
     },
     {
       "id": "live-big-explosion-1986-010",
@@ -12100,13 +12164,19 @@
       "releaseTitle": "Count Down",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0069（公式製品番号）。後年の再発売盤とは区別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/count_down.php"
         }
-      ]
+      ],
+      "catalogNumber": "S10A-0069",
+      "format": "シングル（媒体は未確定）"
     },
     {
       "id": "live-summer-explosion-1986-004",
@@ -12186,12 +12256,28 @@
       "releaseTitle": "MIX BLOOD",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A0513（品番は二次資料）／カセット 28P6583（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.stereo-records.com/detail.php?itemCd=53039"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://www.chage-aska.net/discography/album/mix_blood.php"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA"
         }
+      ],
+      "formats": [
+        "LP（初発売時）：C28A0513（品番は二次資料）",
+        "カセット：28P6583（品番は二次資料）"
       ]
     },
     {
@@ -12235,13 +12321,19 @@
       "releaseTitle": "ONESIDE GAME",
       "status": "released",
       "verification": "primary",
-      "note": "映像作品",
+      "note": "映像作品\n【1985〜1989年・初発売規格品番補完】 VTR（発売元公式表記） 10PV-14（公式製品番号）。後年の再発売盤とは区別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/video/oneside_game.php"
         }
-      ]
+      ],
+      "catalogNumber": "10PV-14",
+      "format": "VTR（発売元公式表記）"
     },
     {
       "id": "media-v18-1986-030",
@@ -12410,13 +12502,19 @@
       "releaseTitle": "指環が泣いた",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0070（公式製品番号）。後年の再発売盤とは区別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/yubiwaga_naita.php"
         }
-      ]
+      ],
+      "catalogNumber": "S10A-0070",
+      "format": "シングル（媒体は未確定）"
     },
     {
       "id": "media-v18-1986-032",
@@ -12475,13 +12573,19 @@
       "releaseTitle": "Snow Mail",
       "status": "released",
       "verification": "primary",
-      "note": "アナログ盤限定のミニアルバム",
+      "note": "アナログ盤限定のミニアルバム\n【1985〜1989年・初発売規格品番補完】 LP（初発売時） C18A-0534（公式製品番号）。後年の再発売盤とは区別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/album/snow_mail.php"
         }
-      ]
+      ],
+      "catalogNumber": "C18A-0534",
+      "format": "LP（初発売時）"
     },
     {
       "id": "live-xmas-1986-007",
@@ -12928,7 +13032,7 @@
       "releaseTitle": "SAILOR MAN",
       "status": "released",
       "verification": "secondary",
-      "note": "",
+      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0071（公式製品番号）。後年の再発売盤とは区別。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
@@ -12938,7 +13042,9 @@
           "label": "公式・主催者発表",
           "url": "https://www.chage-aska.net/discography/single/sailor_man.php"
         }
-      ]
+      ],
+      "catalogNumber": "S10A-0071",
+      "format": "シングル（媒体は未確定）"
     },
     {
       "id": "live-we-shall-return-1987-001",
@@ -13238,7 +13344,7 @@
       "releaseTitle": "Mr.ASIA",
       "status": "released",
       "verification": "secondary",
-      "note": "",
+      "note": "【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A0568（品番は二次資料）／カセット 28P6672（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
@@ -13247,7 +13353,19 @@
         {
           "label": "公式・主催者発表",
           "url": "https://www.chage-aska.net/discography/album/mr_asia.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.fanfan1.com/products/detail/565798"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://www.wikipedia-is-dead.com/wiki/Mr.ASIA"
         }
+      ],
+      "formats": [
+        "LP（初発売時）：C28A0568（品番は二次資料）",
+        "カセット：28P6672（品番は二次資料）"
       ]
     },
     {
@@ -14042,13 +14160,19 @@
       "title": "『MY Mr.LONELY HEART』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：シングル。飛鳥涼名義のソロデビューシングル。公式HISTORYの発売日による。",
+      "note": "作品形態：シングル。飛鳥涼名義のソロデビューシングル。公式HISTORYの発売日による。\n【1985〜1989年・初発売規格品番補完】 7インチレコード（EP） 7A-0767（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。",
       "sources": [
         {
           "label": "C&A公式HISTORY｜1978〜1989年",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.fanfan1.com/ep_nm_onna__a.htm"
         }
-      ]
+      ],
+      "catalogNumber": "7A-0767",
+      "format": "7インチレコード（EP）"
     },
     {
       "id": "media-v18-1987-013",
@@ -14170,13 +14294,15 @@
       "title": "『ロマンシングヤード／Mr.ASIA』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：シングル。初発売。『Mr.ASIA』はカップリング曲名であり、同名アルバムの発売とは別。",
+      "note": "作品形態：シングル。初発売。『Mr.ASIA』はカップリング曲名であり、同名アルバムの発売とは別。\n【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0072（公式製品番号）。後年の再発売盤とは区別。",
       "sources": [
         {
           "label": "C&A公式ディスコグラフィー｜ロマンシングヤード",
           "url": "https://www.chage-aska.net/discography/single/romancing_yard.php"
         }
-      ]
+      ],
+      "catalogNumber": "S10A-0072",
+      "format": "シングル（媒体は未確定）"
     },
     {
       "id": "media-v18-1987-020",
@@ -14775,13 +14901,15 @@
       "title": "『恋人はワイン色／あきらめのBlue Day』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：シングル。初発売。B面曲も公式ディスコグラフィーに従って記載。",
+      "note": "作品形態：シングル。初発売。B面曲も公式ディスコグラフィーに従って記載。\n【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0004（公式製品番号）。後年の再発売盤とは区別。",
       "sources": [
         {
           "label": "C&A公式ディスコグラフィー｜恋人はワイン色",
           "url": "https://www.chage-aska.net/discography/single/koibito_ha_wine_iro.php"
         }
-      ]
+      ],
+      "catalogNumber": "S10A-0004",
+      "format": "シングル（媒体は未確定）"
     },
     {
       "id": "media-v18-1988-004",
@@ -14855,12 +14983,24 @@
       "title": "『RHAPSODY』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：オリジナルアルバム。オリジナルアルバムの初発売。シングル『ラプソディ』とは別作品。",
+      "note": "作品形態：オリジナルアルバム。オリジナルアルバムの初発売。シングル『ラプソディ』とは別作品。\n【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A0624（品番は二次資料）／カセット 28P6780（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。",
       "sources": [
         {
           "label": "C&A公式ディスコグラフィー｜RHAPSODY",
           "url": "https://www.chage-aska.net/discography/album/phapsody.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.fanfan1.com/products/detail/565797"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://www.ebay.de/itm/168674518147"
         }
+      ],
+      "formats": [
+        "LP（初発売時）：C28A0624（品番は二次資料）",
+        "カセット：28P6780（品番は二次資料）"
       ]
     },
     {
@@ -15639,13 +15779,19 @@
       "title": "『MIDNIGHT 2 CALL』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：シングル。飛鳥涼名義のシングル。公式HISTORYの発売日による。",
+      "note": "作品形態：シングル。飛鳥涼名義のシングル。公式HISTORYの発売日による。\n【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0143（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。",
       "sources": [
         {
           "label": "C&A公式HISTORY｜1978〜1989年",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://ototoy.jp/_/default/p/2483476"
         }
-      ]
+      ],
+      "catalogNumber": "S10A-0143",
+      "format": "シングル（媒体は未確定）"
     },
     {
       "id": "media-v18-1988-016",
@@ -15893,12 +16039,41 @@
       "title": "『SCENE』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：オリジナルアルバム。飛鳥涼（ASKA）ソロ1stアルバムの初発売。後年のリミックス盤・再発売と区別。",
+      "note": "作品形態：オリジナルアルバム。飛鳥涼（ASKA）ソロ1stアルバムの初発売。後年のリミックス盤・再発売と区別。\n【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A-0661（品番は二次資料）／カセット 28P-6831（品番は二次資料）／CD（初発売時） D32A-0387（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。",
       "sources": [
         {
           "label": "ASKA公式｜ディスコグラフィー配信解禁作品の初発売日",
           "url": "https://www.fellows.tokyo/news/detail/328"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.oricon.co.jp/prof/245800/products/61279/1/"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/254"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://www.oricon.co.jp/prof/245800/products/61279/2/"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://tokyocollectors.shop-pro.jp/?pid=193663488"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://www.kinokuniya.co.jp/f/dsg-10-4988013349339"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://www.fanfan1.com/products/detail.php?product_id=779265"
         }
+      ],
+      "formats": [
+        "LP（初発売時）：C28A-0661（品番は二次資料）",
+        "カセット：28P-6831（品番は二次資料）",
+        "CD（初発売時）：D32A-0387（品番は二次資料）"
       ]
     },
     {
@@ -16342,12 +16517,28 @@
       "releaseTitle": "ENERGY",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【1985〜1989年・初発売規格品番補完】 LP（初発売時） C28A0678（品番は二次資料）／カセット 28P6854（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://diskunion.net/detail/1006533385"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://www.chage-aska.net/discography/album/energy.php"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://tokyocollectors.shop-pro.jp/?cid=&keyword=&mode=srh&page=440"
         }
+      ],
+      "formats": [
+        "LP（初発売時）：C28A0678（品番は二次資料）",
+        "カセット：28P6854（品番は二次資料）"
       ]
     },
     {
@@ -17679,13 +17870,19 @@
       "releaseTitle": "LOVE SONG",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S9A-11022（公式製品番号）。後年の再発売盤とは区別。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/love_song.php"
         }
-      ]
+      ],
+      "catalogNumber": "S9A-11022",
+      "format": "シングル（媒体は未確定）"
     },
     {
       "id": "media-v18-1989-007",
@@ -18417,12 +18614,28 @@
       "releaseTitle": "PRIDE",
       "status": "released",
       "verification": "primary",
-      "note": "",
+      "note": "【1985〜1989年・初発売規格品番補完】 CD（1989年発売盤） D36A-1048（品番は二次資料）／カセット 36P60109（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220262452"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://www.chage-aska.net/discography/album/pride.php"
+        },
+        {
+          "label": "参考資料（非公式・別規格盤）",
+          "url": "https://diskunion-ochanomizuekimae.blog.jp/archives/16215053.html"
         }
+      ],
+      "formats": [
+        "CD（1989年発売盤）：D36A-1048（品番は二次資料）",
+        "カセット：36P60109（品番は二次資料）"
       ]
     },
     {
@@ -18651,13 +18864,15 @@
       "title": "『SOME DAY』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：シングル。MULTI MAXのデビューシングル。C&Aによる同名曲の別収録・ライブ記録とは区別。",
+      "note": "作品形態：シングル。MULTI MAXのデビューシングル。C&Aによる同名曲の別収録・ライブ記録とは区別。\n【1985〜1989年・初発売規格品番補完】 CDシングル PCDA-00008（公式製品番号）。後年の再発売盤とは区別。",
       "sources": [
         {
           "label": "Chage公式ディスコグラフィー｜MULTI MAX SOME DAY",
           "url": "https://chage.jp/discography/multi_max/single/007.php"
         }
-      ]
+      ],
+      "catalogNumber": "PCDA-00008",
+      "format": "CDシングル"
     },
     {
       "id": "media-v18-1989-020",
@@ -18699,13 +18914,19 @@
       "title": "『HEAVEN』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：オリジナルアルバム。MULTI MAXの1stアルバム初発売。",
+      "note": "作品形態：オリジナルアルバム。MULTI MAXの1stアルバム初発売。\n【1985〜1989年・初発売規格品番補完】 CD（1989年発売盤） PCCA-00013（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。",
       "sources": [
         {
           "label": "Chage公式ディスコグラフィー｜MULTI MAX HEAVEN",
           "url": "https://chage.jp/discography/multi_max/album/007.php"
+        },
+        {
+          "label": "参考資料（非公式・規格品番）",
+          "url": "https://www.suruga-ya.jp/product/detail/220038810"
         }
-      ]
+      ],
+      "catalogNumber": "PCCA-00013",
+      "format": "CD（1989年発売盤）"
     },
     {
       "id": "media-v18-1989-026",
@@ -82190,5 +82411,5 @@
       ]
     }
   ],
-  "siteVersion": "2.0.24"
+  "siteVersion": "2.0.25"
 }
