@@ -181,5 +181,55 @@ document.addEventListener('DOMContentLoaded',function(){
 })();
 </script>
 <!-- /CA_SINGLE_DETAIL_V213 -->
+<!-- CA_SINGLE_NAV_V214 -->
+<style id="ca-single-nav-style">
+.ca-detail-nav{display:flex;gap:12px;justify-content:space-between;align-items:center;flex-wrap:wrap;margin:24px 0 5px}
+.ca-detail-navlink,.ca-detail-copy{font:inherit;display:inline-flex;align-items:center;justify-content:center;text-decoration:none;border:1px solid #788ba5;background:#243854;border-radius:10px;color:#ffe2aa;padding:12px 16px;min-height:48px;cursor:pointer}
+.ca-detail-navlink[aria-disabled="true"]{opacity:.4;pointer-events:none}
+.ca-detail-position{color:#e1eaf5;font-size:1rem;flex:1;text-align:center;min-width:115px}
+.ca-detail-share{display:flex;justify-content:flex-start;align-items:center;gap:12px;flex-wrap:wrap;margin:22px 0 4px}
+.ca-detail-copy-note{color:#dce7f8;font-size:1rem}
+@media(max-width:620px){.ca-detail-nav{display:grid;grid-template-columns:1fr 1fr}.ca-detail-position{grid-column:1/-1;grid-row:1}.ca-detail-navlink{padding:10px 8px;font-size:.98rem}}
+</style>
+<script id="ca-single-nav-script">
+(function(){
+'use strict';
+document.addEventListener('DOMContentLoaded',function(){
+ const id=new URLSearchParams(location.search).get('event');
+ const list=window.CA_EVENT_DATA&&window.CA_EVENT_DATA.events;
+ const sec=document.getElementById('ca-single-detail');
+ if(!id||!Array.isArray(list)||!sec)return;
+ const current=list.find(e=>String(e.id)===id);
+ if(!current)return;
+ const day=String(current.date||'').slice(5);
+ const matches=list.filter(e=>String(e.date||'').slice(5)===day).sort((a,b)=>String(a.date).localeCompare(String(b.date))||String(a.id).localeCompare(String(b.id)));
+ const idx=matches.findIndex(e=>String(e.id)===id);
+ if(idx<0)return;
+ const urlFor=e=>{const u=new URL(location.href);u.search='';u.searchParams.set('date',String(e.date).slice(5));u.searchParams.set('event',String(e.id));u.hash='browse';return u.href;};
+ function makeLink(e,text){const a=document.createElement('a');a.className='ca-detail-navlink';a.textContent=text;if(e)a.href=urlFor(e);else{a.removeAttribute('href');a.setAttribute('aria-disabled','true');}return a;}
+ const nav=document.createElement('nav');nav.className='ca-detail-nav';nav.setAttribute('aria-label','同じ月日の記録を移動');
+ const prev=makeLink(matches[idx-1],'← 前の記録'),next=makeLink(matches[idx+1],'次の記録 →');
+ const count=document.createElement('span');count.className='ca-detail-position';count.textContent='この日 全'+matches.length+'件中 '+(idx+1)+'件目';
+ nav.append(prev,count,next);
+ const paper=sec.querySelector('.ca-detail-paper');if(paper)paper.insertAdjacentElement('afterend',nav);
+ const share=document.createElement('div');share.className='ca-detail-share';
+ const button=document.createElement('button');button.type='button';button.className='ca-detail-copy';button.textContent='この記録のURLをコピー';
+ const note=document.createElement('span');note.className='ca-detail-copy-note';note.setAttribute('role','status');note.setAttribute('aria-live','polite');
+ button.addEventListener('click',async function(){
+  const u=urlFor(current);
+  try{
+   if(!navigator.clipboard||!navigator.clipboard.writeText)throw Error('Clipboard unavailable');
+   await navigator.clipboard.writeText(u);note.textContent='コピーしました';
+  }catch(_){
+   const temp=document.createElement('textarea');temp.value=u;temp.style.position='fixed';temp.style.left='-9999px';document.body.append(temp);temp.select();
+   let copied=false;try{copied=document.execCommand('copy');}catch(_e){}temp.remove();
+   note.textContent=copied?'コピーしました':'コピーできませんでした。アドレスバーからURLをコピーしてください。';
+  }
+ });
+ share.append(button,note);if(paper)paper.insertAdjacentElement('afterend',share);
+});
+})();
+</script>
+<!-- /CA_SINGLE_NAV_V214 -->
 </body>
 </html>
