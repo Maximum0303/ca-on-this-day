@@ -91520,7 +91520,58 @@
         }
       ],
       "broadcastStation": "NHK"
+    },
+    {
+      "id": "media-v2114-20040313-music-fair-2000-2",
+      "date": "2004-03-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "フジテレビ「ミュージックフェア21」2000回記念・第二夜（関連放送）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2004年3月13日18:00〜18:30の「2000回記念第二夜」がCHAGE and ASKAのテレビ出演履歴に掲載。3月6日の「2000回記念第一夜」は別放送回として登録済み。C&A本人の新規出演／過去映像／歌唱曲は未照合。一次資料未確認につき二次資料扱い。",
+      "sources": [
+        {
+          "label": "テレビ放送履歴（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/tv/"
+        }
+      ],
+      "broadcastStation": "フジテレビ系列"
+    },
+    {
+      "id": "media-v2114-20040327-music-fair-2000-4",
+      "date": "2004-03-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "フジテレビ「ミュージックフェア21」2000回記念・第四夜（関連放送）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2004年3月27日18:00〜18:30の「2000回記念第四夜」がCHAGE and ASKAのテレビ出演履歴に掲載。3月6日の第一夜、3月13日の第二夜と別の放送日。C&Aに関する映像・本人出演の具体的内訳は未確認であり、歌唱を断定しない。",
+      "sources": [
+        {
+          "label": "テレビ放送履歴（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/tv/"
+        }
+      ],
+      "broadcastStation": "フジテレビ系列"
+    },
+    {
+      "id": "media-v2114-20040424-under-cdtv-late",
+      "date": "2004-04-24",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "TBS「Under-CDTV」C&A関連放送（深夜枠）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ放送履歴には「2004年4月23日25:10〜26:10」と記載。実際の暦日では4月24日1:10〜2:10。CHAGE and ASKAのテレビ出演履歴に掲載されているが、スタジオ出演・過去映像・PV等の詳細は未確認。本人の直接出演や演奏を断定しない。",
+      "sources": [
+        {
+          "label": "テレビ放送履歴（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/tv/"
+        }
+      ],
+      "broadcastStation": "TBS系列"
     }
   ],
-  "siteVersion": "2.1.13"
+  "siteVersion": "2.1.14"
 }
