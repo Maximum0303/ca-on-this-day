@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2027年の公式発表済み予定を追加。開催予定の記録は日付経過のみで開催済みと断定せず、延期・中止と区別して表示します。既存の記録の確認日・履歴はそのまま保存しています。",
-  "lastUpdated": "2026-11-20",
+  "lastUpdated": "2026-11-21",
   "events": [
     {
       "id": "milestone-1978-popcon15-formation-yearonly",
@@ -91655,7 +91655,49 @@
           "url": "https://www.tbs.co.jp/ex-lounge/"
         }
       ]
+    },
+    {
+      "id": "media-v219-20130406-aska-tokyo-mx-saturdaylive",
+      "date": "2013-04-06",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TOKYO MX「サタデーLIVE」ASKA出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "broadcastStation": "TOKYO MX",
+      "note": "2013年4月6日にTOKYO MX「サタデーLIVE」にASKAが出演したとする人物年譜の記録。番組自体も同日に放送開始。ただし当日の番組公式出演者一覧・映像等による一次照合は未完了。歌唱の有無・具体的な放送内容は断定しない。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・人物年譜）",
+          "url": "https://ja.wikipedia.org/wiki/ASKA"
+        },
+        {
+          "label": "参考資料（非公式・番組基本情報）",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%BF%E3%83%87%E3%83%BCLIVE"
+        }
+      ]
+    },
+    {
+      "id": "media-v219-20141225-chage-cx-nonstop",
+      "date": "2014-12-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「ノンストップ！」Chageインタビュー放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "broadcastStation": "フジテレビ系列",
+      "note": "2014年12月25日の番組でChageの独占インタビューを放送した記録。音楽活動の継続やファンの支え、C&Aの今後について語った。当日のオリコンニュースと日刊スポーツが放送済みとして報じている。収録日は12月21日と報道されており、放送日の12月25日とは区別。放送局のアーカイブによる一次照合は未完了。",
+      "sources": [
+        {
+          "label": "オリコンニュース（2014年12月25日・放送当日の報道）",
+          "url": "https://www.oricon.co.jp/news/2046405/full/"
+        },
+        {
+          "label": "日刊スポーツ（2014年12月25日・放送当日の報道）",
+          "url": "https://www.nikkansports.com/entertainment/news/f-et-tp0-20141225-1413371.html"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.1.16"
+  "siteVersion": "2.1.17"
 }
