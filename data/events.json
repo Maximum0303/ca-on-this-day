@@ -86189,7 +86189,195 @@
           "url": "https://www.bpcj.or.jp/program/detail/011138/"
         }
       ]
+    },
+    {
+      "id": "media-tieup-1991-0701-101st-proposal",
+      "date": "1991-07-01",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ドラマ『101回目のプロポーズ』第1話放送開始（主題歌「SAY YES」）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "フジテレビ系連続ドラマの第1話初回放送。CHAGE and ASKA「SAY YES」が主題歌。1991年7月24日のシングル発売とは別の、主題歌タイアップ作品の放送開始記録。C&Aのドラマ本編への俳優出演を意味するものではない。",
+      "sources": [
+        {
+          "label": "放送ライブラリー：第1回放送日",
+          "url": "https://www.bpcj.or.jp/program/detail/009278/"
+        },
+        {
+          "label": "CHAGE and ASKA公式：SAY YESの主題歌タイアップ",
+          "url": "https://www.chage-aska.net/discography/single/say_yes.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ",
+      "startTime": "21:00"
+    },
+    {
+      "id": "media-tieup-1993-0113-furikaereba",
+      "date": "1993-01-13",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ドラマ『振り返れば奴がいる』第1話放送開始（主題歌「YAH YAH YAH」）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "フジテレビ系連続ドラマ第1話「おまえが嫌いだ」の初回放送。主題歌はCHAGE and ASKA「YAH YAH YAH」。「君はなにも知らないまま」も同ドラマの挿入歌として採用（第1話での使用は未確認）。オープニングにはCHAGEとASKAの2人の映像が登場する（映像についての補足資料は二次資料）。ドラマ本編への役柄としての俳優出演とは区別する。",
+      "sources": [
+        {
+          "label": "Apple TV：第1話のオリジナル放送日",
+          "url": "https://tv.apple.com/jp/episode/%E7%AC%AC1%E8%A9%B1/umc.cmc.1f3s1g4tn5ifmy5l3mbkg2of0?showId=umc.cmc.cewkxa703vj82a23y9v3eh86"
+        },
+        {
+          "label": "CHAGE and ASKA公式：YAH YAH YAH 主題歌",
+          "url": "https://www.chage-aska.net/discography/single/yah_yah_yah.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式：君はなにも知らないまま 挿入歌",
+          "url": "https://www.chage-aska.net/discography/album/red_hill.php"
+        },
+        {
+          "label": "参考記事：オープニングにC&Aが映る（二次資料）",
+          "url": "https://note.com/plue_dapple/n/n0bb7df0d4fce"
+        }
+      ],
+      "broadcastStation": "フジテレビ",
+      "startTime": "21:00"
+    },
+    {
+      "id": "media-tieup-1994-0903-hero-interview",
+      "date": "1994-09-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "映画『ヒーローインタビュー』公開（「HEART」「NATURAL」「PRIDE」）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "1994年9月3日、全国東宝系で公開。CHAGE and ASKA「HEART」が主題歌、「NATURAL」がオープニングテーマ、「PRIDE」が挿入歌として使用。同一映画の3曲を1件にまとめる。CDの発売とは別の映画公開記録。",
+      "sources": [
+        {
+          "label": "ポニーキャニオン：映画公開日・挿入歌",
+          "url": "https://www.ponycanyon.co.jp/visual/PCBC000050566"
+        },
+        {
+          "label": "CHAGE and ASKA公式：HEART・NATURALの使用区分",
+          "url": "https://www.chage-aska.net/discography/single/heart.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式：PRIDEの挿入歌タイアップ",
+          "url": "https://www.chage-aska.net/discography/album/pride.php"
+        }
+      ]
+    },
+    {
+      "id": "media-tieup-1994-1017-imotoyo",
+      "date": "1994-10-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ドラマ『妹よ』第1話放送開始（主題歌「めぐり逢い」）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "フジテレビ系連続ドラマの第1話初回放送。CHAGE and ASKA「めぐり逢い」が主題歌。1994年11月16日のシングル発売日とは区別する。",
+      "sources": [
+        {
+          "label": "放送ライブラリー：妹よ第1話の放送日・主題歌担当",
+          "url": "https://www.bpcj.or.jp/program/detail/010889/"
+        },
+        {
+          "label": "CHAGE and ASKA公式：めぐり逢いの主題歌タイアップ",
+          "url": "https://www.chage-aska.net/discography/single/meguriai.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ",
+      "startTime": "21:00"
+    },
+    {
+      "id": "media-tieup-1995-0506-street-fighter",
+      "date": "1995-05-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "映画『ストリートファイター』日本公開（「Something There」関連）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本公開日。日本公開版ではCHAGE and ASKAの「Something There」のプロモーション・フィルムが本編前のオープニング・フィルムとして上映され、曲は映画の挿入歌としても案内されている。「映画本編のエンディングで使用」とは断定しない。映像公開日と1995年5月10日のシングル発売日を分けて記録。",
+      "sources": [
+        {
+          "label": "映画の時間：日本公開日とオープニング・フィルム",
+          "url": "https://movie.jorudan.co.jp/film/10861/"
+        },
+        {
+          "label": "オリコン：Something Thereの映画タイアップ",
+          "url": "https://contents.oricon.co.jp/prof/4069/products/179016/1/"
+        },
+        {
+          "label": "CHAGE and ASKA公式：Something There",
+          "url": "https://www.chage-aska.net/discography/single/something_there.php"
+        }
+      ]
+    },
+    {
+      "id": "media-tieup-1995-0715-on-your-mark-theater",
+      "date": "1995-07-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "短編アニメーション『On Your Mark』劇場公開",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "宮﨑駿監督、スタジオジブリ制作の短編アニメーションが『耳をすませば』と併映で劇場公開。CHAGE and ASKAの楽曲「On Your Mark」に合わせて制作された映像作品。1994年の楽曲発売や既存の映像商品発売とは別の劇場公開記録。",
+      "sources": [
+        {
+          "label": "スタジオジブリ公式：作品・公開日・主題歌",
+          "url": "https://www.ghibli.jp/works/onyourmark/"
+        },
+        {
+          "label": "スタジオジブリ公式：公開時の併映について",
+          "url": "https://www.ghibli.jp/qa/"
+        }
+      ]
+    },
+    {
+      "id": "media-tieup-1995-0925-tsuma-no-koi",
+      "date": "1995-09-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "NHKドラマ『妻の恋』第1話放送開始（主題歌「好きになる」）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "NHK「ドラマ新銀河」枠の連続ドラマ第1話初回放送。CHAGE and ASKA「好きになる」が主題歌。放送ライブラリーはNHK番組と明記。C&A公式ディスコグラフィー内のタイアップ欄には放送局表記の不整合がある一方、制作者コメントでNHKドラマの主題歌だったことが説明されている。",
+      "sources": [
+        {
+          "label": "放送ライブラリー：妻の恋第1話・NHK放送日時",
+          "url": "https://www.bpcj.or.jp/program/detail/008973/"
+        },
+        {
+          "label": "CHAGE and ASKA公式：好きになるの使用・作家コメント",
+          "url": "https://www.chage-aska.net/discography/album/code_name2.php"
+        }
+      ],
+      "broadcastStation": "NHK",
+      "startTime": "20:40"
+    },
+    {
+      "id": "media-tieup-2009-0411-nisesatsu",
+      "date": "2009-04-11",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "映画『ニセ札』一般公開開始（主題歌「あなたが泣くことはない」）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2009年4月11日、テアトル新宿ほかで一般公開を開始。ASKA「あなたが泣くことはない」が主題歌。一般公開前に試写・映画祭上映があったため、ここでは「一般公開開始」として記録する。",
+      "sources": [
+        {
+          "label": "映画『ニセ札』公式サイト：主題歌情報",
+          "url": "https://www.cinemacafe.net/official/nisesatsu/"
+        },
+        {
+          "label": "映画『ニセ札』公式ニュース：4月11日の初日舞台挨拶",
+          "url": "https://www.cinemacafe.net/official/nisesatsu/news.html"
+        },
+        {
+          "label": "KINENOTE：公開年月日と主題歌",
+          "url": "https://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=39946"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.0.52"
+  "siteVersion": "2.0.53"
 }
