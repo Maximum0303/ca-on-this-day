@@ -86377,7 +86377,224 @@
           "url": "https://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=39946"
         }
       ]
+    },
+    {
+      "id": "media-tieup-1991-0518-oishii-kekkon",
+      "date": "1991-05-18",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "映画『おいしい結婚』公開（主題歌「はじまりはいつも雨」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1991年5月18日の日本での劇場一般公開。ASKA「はじまりはいつも雨」が映画主題歌として使用された。国立映画アーカイブの作品情報に主題歌「はじまりはいつも雨」の作詞・作曲：飛鳥涼、編曲：澤近泰輔と記載されている。映画公開日の資料は二次資料。楽曲の発売日とは別の記録。",
+      "sources": [
+        {
+          "label": "国立映画アーカイブ：映画主題歌と作詞・作曲",
+          "url": "https://nfad.nfaj.go.jp/det.php?data_id=127389"
+        },
+        {
+          "label": "映画.com：1991年5月18日の劇場公開日",
+          "url": "https://eiga.com/movie/6264/"
+        }
+      ]
+    },
+    {
+      "id": "media-tieup-1995-0915-judge-dredd-japan",
+      "date": "1995-09-15",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "映画『ジャッジ・ドレッド』日本公開（エンディング曲「TIME」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1995年9月15日の日本劇場公開日。ASKA「TIME」が映画のエンディング曲を担当したことはCHAGE and ASKA公式HISTORYに記載されている。映画公開日については映画作品データベースの記載を参照。サウンドトラック発売日とは区別する。",
+      "sources": [
+        {
+          "label": "映画.com：日本公開日",
+          "url": "https://eiga.com/movie/45354/"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY：ASKA「TIME」エンディング曲",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ]
+    },
+    {
+      "id": "media-tieup-1996-0111-risky-game",
+      "date": "1996-01-11",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ドラマ『リスキー・ゲーム』第1話放送開始（主題歌「river」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "TBS系連続ドラマの初回放送日。主題歌はCHAGE and ASKA「river」。初回放送日は番組編成資料などの二次資料による確認、主題歌使用はCHAGE and ASKA公式ディスコグラフィーによる確認。シングル発売とは別の出来事。",
+      "sources": [
+        {
+          "label": "放送枠の記録：1996年1月11日放送開始（二次資料）",
+          "url": "https://sabajanee233.dokkoisho.com/h_tbs_thu19.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式：「river」主題歌",
+          "url": "https://www.chage-aska.net/discography/single/river.php"
+        }
+      ],
+      "broadcastStation": "TBS",
+      "startTime": "22:00"
+    },
+    {
+      "id": "media-tieup-1997-0109-timekeepers",
+      "date": "1997-01-09",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "ドラマ『木曜の怪談ファイナル タイムキーパーズ』放送開始（ASKA「ID」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ系「木曜の怪談ファイナル」の開始日。『タイムキーパーズ』を放送。同番組のエンディングテーマとしてASKA「ID」が使用されたという二次資料の記録に基づく。各回での楽曲使用範囲は未詳。「ASKAの俳優出演」を意味するものではない。",
+      "sources": [
+        {
+          "label": "allcinema：番組の放送開始日",
+          "url": "https://www.allcinema.net/cinema/87734"
+        },
+        {
+          "label": "番組シリーズのエンディング曲「ID」（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%9B%9C%E3%81%AE%E6%80%AA%E8%AB%87"
+        },
+        {
+          "label": "Filmarks：第1回放送日と歌手ASKA",
+          "url": "https://filmarks.com/dramas/3983/6035"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-tieup-1997-0409-garasu-no-kutsu",
+      "date": "1997-04-09",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "ドラマ『ガラスの靴』第1話放送開始（「ONE」「着地点」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ系水曜ドラマの第1話初回放送。ASKA「ONE」がオープニング／主題歌、「着地点」がエンディングテーマとして使用された作品。個々の楽曲が第1話で実際に使用されたかは放送映像未照合のため、作品全体のタイアップ情報として記録する。「君をのせて」は最終回のため別日に登録する。",
+      "sources": [
+        {
+          "label": "放送期間・第1話日付と使用曲（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%A9%E3%82%B9%E3%81%AE%E9%9D%B4_(1997%E5%B9%B4%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%E3%83%89%E3%83%A9%E3%83%9E)"
+        },
+        {
+          "label": "歌ネット：ASKA「ONE」主題歌",
+          "url": "https://www.uta-net.com/song/9712/"
+        },
+        {
+          "label": "歌ネット：ASKA「着地点」エンディング",
+          "url": "https://www.uta-net.com/song/2343/"
+        }
+      ],
+      "broadcastStation": "日本テレビ",
+      "startTime": "22:00"
+    },
+    {
+      "id": "media-tieup-1997-0625-garasu-no-kutsu-final",
+      "date": "1997-06-25",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "ドラマ『ガラスの靴』最終回放送（ASKA「君をのせて」がエンディング曲に）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本テレビ系水曜ドラマ『ガラスの靴』の最終回初回放送日。ASKA「君をのせて」は最終回エンディングで使用されたとされる。初回放送日と楽曲使用の関係は二次資料に基づくため、映像原本は未照合。1997年4月9日の第1話開始記録と重複せず、この回固有の使用曲として追加する。",
+      "sources": [
+        {
+          "label": "第12話（最終回）1997年6月25日放送（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%A9%E3%82%B9%E3%81%AE%E9%9D%B4_(1997%E5%B9%B4%E3%81%AE%E3%83%86%E3%83%AC%E3%83%93%E3%83%89%E3%83%A9%E3%83%9E)"
+        },
+        {
+          "label": "ASKA「君をのせて」最終回エンディングという記録（二次資料）",
+          "url": "https://ja.wikipedia.org/wiki/ASKA"
+        }
+      ],
+      "broadcastStation": "日本テレビ",
+      "startTime": "22:00"
+    },
+    {
+      "id": "media-tieup-2002-0102-mibu-gishiden",
+      "date": "2002-01-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "新春時代劇『壬生義士伝』初回放送（主題歌「夢の飛礫」）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2002年1月2日、テレビ東京「新世紀ワイド時代劇」10時間ドラマ『壬生義士伝～新選組でいちばん強かった男～』の初回放送。主題歌はCHAGE and ASKA「夢の飛礫」。松竹の販売元資料とC&A公式の両方で主題歌を確認。同名の2003年劇場映画とは別作品として扱う。",
+      "sources": [
+        {
+          "label": "放送ライブラリー：当日最初の番組・14時開始",
+          "url": "https://www.bpcj.or.jp/program/detail/013567/"
+        },
+        {
+          "label": "テレビ東京公式：2002年1月2日放送の10時間ドラマ",
+          "url": "https://www.bs-tvtokyo.co.jp/official/mibugishiden/"
+        },
+        {
+          "label": "松竹公式：主題歌「夢の飛礫」",
+          "url": "https://store.shochiku.co.jp/shop/g/gDA0168_srd-gn/"
+        },
+        {
+          "label": "CHAGE and ASKA公式：「夢の飛礫」使用作品",
+          "url": "https://www.chage-aska.net/discography/single/yume_no_tsubute.php"
+        }
+      ],
+      "broadcastStation": "テレビ東京",
+      "startTime": "14:00"
+    },
+    {
+      "id": "media-tieup-2004-0102-ryoma-ga-yuku",
+      "date": "2004-01-02",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "新春時代劇『竜馬がゆく』初回放送（主題歌「心に花の咲く方へ」）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2004年1月2日、テレビ東京開局40周年記念ドラマ『竜馬がゆく』の初回放送。ASKA「心に花の咲く方へ」が主題歌。放送年月日・使用曲はシングルの商品情報、放送局の番組資料で確認した。同作品の再放送は別途通常登録しない。",
+      "sources": [
+        {
+          "label": "テレビ東京公式：作品紹介",
+          "url": "https://www.tv-tokyo.co.jp/ryoma/story/index.html"
+        },
+        {
+          "label": "テレビ東京公式：2004年1月2日の放送記録",
+          "url": "https://www.tv-tokyo.co.jp/main/yoriyoi/shingikai2004.html"
+        },
+        {
+          "label": "Billboard JAPAN：シングルの商品情報／主題歌／放送日",
+          "url": "https://www.billboard-japan.com/goods/detail/215222"
+        }
+      ],
+      "broadcastStation": "テレビ東京",
+      "startTime": "14:00"
+    },
+    {
+      "id": "media-tieup-2026-0319-102nd-proposal-fod",
+      "date": "2026-03-19",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ドラマ『102回目のプロポーズ』第1話・第2話のFOD配信開始（主題歌「SAY YES」）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "2026年3月19日20時、フジテレビ運営の動画配信サービスFODで第1話・第2話を先行配信開始。主題歌はCHAGE and ASKAの「SAY YES」（既存楽曲の再起用）。地上波での第1話放送は4月1日23時開始で、作品の初公開は配信の方が早いため、本記録は初配信日とする。1991年ドラマ第1話と楽曲のオリジナル発売日とは別の出来事。",
+      "sources": [
+        {
+          "label": "フジテレビ公式：先行配信3/19と地上波4/1",
+          "url": "https://www.fujitv.co.jp/fujitv/news/20260160.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式：SAY YES主題歌再起用",
+          "url": "https://www.chage-aska.net/information/2026031901.php"
+        },
+        {
+          "label": "フジテレビ公式：作品・主題歌",
+          "url": "https://www.fujitv.co.jp/102nd_proposal/"
+        }
+      ],
+      "broadcastStation": "FOD（配信）",
+      "startTime": "20:00"
     }
   ],
-  "siteVersion": "2.0.53"
+  "siteVersion": "2.0.54"
 }
