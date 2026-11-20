@@ -90025,7 +90025,306 @@
         }
       ],
       "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2110-19950311-cdtv-aska",
+      "date": "1995-03-11",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TBS「COUNT DOWN TV」ASKA出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ソロ名義で「HELLO」を披露したとする記録。 放送日と出演内容は二次資料による記録。放送局の当時の番組表による直接確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
+      "id": "media-v2110-19950505-mstation-ca",
+      "date": "1995-05-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ朝日「ミュージックステーション」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "「Something There」を歌唱したとする二次資料もある。放送日と出演者はテレビ朝日公式バックナンバーで確認。 放送局の公式番組記録に出演者と放送日を確認。",
+      "sources": [
+        {
+          "label": "テレビ朝日「ミュージックステーション」放送履歴",
+          "url": "https://www.tv-asahi.co.jp/music/contents/m_lineup/backnumber/?p=111"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-v2110-19950519-mstation-ca",
+      "date": "1995-05-19",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ朝日「ミュージックステーション」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "「Something There」を歌唱したとする二次資料もある。放送日と出演者はテレビ朝日公式バックナンバーで確認。 放送局の公式番組記録に出演者と放送日を確認。",
+      "sources": [
+        {
+          "label": "テレビ朝日「ミュージックステーション」放送履歴",
+          "url": "https://www.tv-asahi.co.jp/music/contents/m_lineup/backnumber/?p=111"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-v2110-19951130-news-station",
+      "date": "1995-11-30",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ朝日「ニュースステーション」台湾公演関連映像",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "台湾公演の報告が放送されたとする記録。二次資料の一方には放送局をCXとする表記があるが、ニュースステーションの放送局はテレビ朝日系列であり、当日の放送内容は未一次照合。 放送日と出演内容は二次資料による記録。放送局の当時の番組表による直接確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://song2.sakura.ne.jp/tv01.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日系列"
+    },
+    {
+      "id": "media-v2110-19960219-hongkong-music-task",
+      "date": "1996-02-19",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "香港のテレビ番組「非常音楽任務」出演・映像放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "アジア公演の映像とインタビュー、PV等を放送したとする記録。香港現地の番組表および現地時間に関する原典照合は未実施。 放送日と出演内容は二次資料による記録。放送局の当時の番組表による直接確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        }
+      ],
+      "broadcastStation": "香港のテレビ（局名未確認）"
+    },
+    {
+      "id": "media-v2110-19960220-wave-japan",
+      "date": "1996-02-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「WAVE JAPAN」で「river」PV放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "楽曲「river」のプロモーション映像が紹介されたとする記録。本人のスタジオ出演を意味しない。 放送日と出演内容は二次資料による記録。放送局の当時の番組表による直接確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://song2.sakura.ne.jp/tv02.html"
+        }
+      ],
+      "broadcastStation": "テレビ埼玉（資料記載）"
+    },
+    {
+      "id": "media-v2110-19960226-video-jockey",
+      "date": "1996-02-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "TBS「ビデオジョッキー」で「river」PV放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "楽曲「river」のプロモーション映像を放送したとする記録。本人のスタジオ出演を意味しない。 放送日と出演内容は二次資料による記録。放送局の当時の番組表による直接確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://song2.sakura.ne.jp/tv02.html"
+        }
+      ],
+      "broadcastStation": "TBS（資料記載）"
+    },
+    {
+      "id": "media-v2110-19960308-mstation-ca",
+      "date": "1996-03-08",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ朝日「ミュージックステーション」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "「river」を歌唱し、出演過去10年のVTRを振り返ったとする二次資料もある。放送日と出演者はテレビ朝日公式バックナンバーで確認。 放送局の公式番組記録に出演者と放送日を確認。",
+      "sources": [
+        {
+          "label": "テレビ朝日「ミュージックステーション」放送履歴",
+          "url": "https://www.tv-asahi.co.jp/music/contents/m_lineup/backnumber/?p=108"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-v2110-19960309-cdtv-ca",
+      "date": "1996-03-09",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "TBS「COUNT DOWN TV」出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "「river」を紹介・歌唱したとする記録。放送形態の詳細は原典確認待ち。 放送日と出演内容は二次資料による記録。放送局の当時の番組表による直接確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://song2.sakura.ne.jp/tv02.html"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
+      "id": "media-v2110-19960719-news-station",
+      "date": "1996-07-19",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ朝日「ニュースステーション」ASKA出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKA出演とする二次資料の記録。歌唱の有無や出演形態は未一次照合。 放送日と出演内容は二次資料による記録。放送局の当時の番組表による直接確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://song2.sakura.ne.jp/tv02.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-v2110-19961106-mezamashi",
+      "date": "1996-11-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「めざましテレビ」Chage出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ChageがMULTI MAXの活動に関連してゲスト出演したとする記録。 放送日と出演内容は二次資料による記録。放送局の当時の番組表による直接確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2110-19961116-cdtv-multimax",
+      "date": "1996-11-16",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "TBS「COUNT DOWN TV」MULTI MAX出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "「どうだい」を紹介・歌唱したとする記録。出演形態の詳細は未一次照合。 放送日と出演内容は二次資料による記録。放送局の当時の番組表による直接確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://song2.sakura.ne.jp/tv02.html"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
+      "id": "media-v2110-19961122-fan-multimax",
+      "date": "1996-11-22",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "日本テレビ「FAN」MULTI MAX出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "「どうだい」を披露したとする記録。一部の二次資料には「FUN」と表記があり、正式な番組表記は原典確認待ち。 放送日と出演内容は二次資料による記録。放送局の当時の番組表による直接確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://song2.sakura.ne.jp/tv02.html"
+        }
+      ],
+      "broadcastStation": "日本テレビ"
+    },
+    {
+      "id": "media-v2110-19961125-heyheyhey",
+      "date": "1996-11-25",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "フジテレビ「HEY!HEY!HEY! MUSIC CHAMP」MULTI MAX出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "CHAGE presents MULTI MAXが出演し「どうだい」を披露したとする二次資料の記録。出演日について別の番組データベースでも一致する。 放送日と出演内容は二次資料による記録。放送局の当時の番組表による直接確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://thetvdb.com/series/hey-hey-hey-music-champ/episodes/4645754"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2110-19961219-tk-music-clamp",
+      "date": "1996-12-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「TK MUSIC CLAMP」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "フジテレビ公式トーク記録で出演を確認。放送日は水曜日12月18日深夜という番組日表記と、木曜日12月19日未明という暦日表記があり、暦日の12月19日で記録。放送日自体は二次資料での照合。 放送日と出演内容は二次資料による記録。放送局の当時の番組表による直接確認は保留。",
+      "sources": [
+        {
+          "label": "フジテレビ「TKMC ARCHIVES」Chage出演記録",
+          "url": "https://www.fujitv.co.jp/TKMC/BACK/TALK/chage_57.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://ja.wikipedia.org/wiki/TK_MUSIC_CLAMP"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
     }
   ],
-  "siteVersion": "2.1.9"
+  "siteVersion": "2.1.10"
 }
