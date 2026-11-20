@@ -90324,7 +90324,974 @@
         }
       ],
       "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19970127-p-stock-aska-27",
+      "date": "1997-01-27",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」ASKA特集（1月27日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "HYPER PUSH ARTIST枠でASKAを紹介。資料記載の内容：CONCERT TOUR ID。スタジオ生出演か映像紹介かは未確認。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19970128-p-stock-aska-28",
+      "date": "1997-01-28",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」ASKA特集（1月28日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "HYPER PUSH ARTIST枠でASKAを紹介。資料記載の内容：Solo live in first time。スタジオ生出演か映像紹介かは未確認。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19970129-p-stock-aska-29",
+      "date": "1997-01-29",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」ASKA特集（1月29日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "HYPER PUSH ARTIST枠でASKAを紹介。資料記載の内容：CONCERT TOUR ID。スタジオ生出演か映像紹介かは未確認。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19970130-p-stock-aska-30",
+      "date": "1997-01-30",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」ASKA特集（1月30日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "HYPER PUSH ARTIST枠でASKAを紹介。資料記載の内容：Solo。スタジオ生出演か映像紹介かは未確認。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19970131-p-stock-aska-31",
+      "date": "1997-01-31",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」ASKA特集（1月31日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "HYPER PUSH ARTIST枠でASKAを紹介。資料記載の内容：番組内でのASKA紹介。スタジオ生出演か映像紹介かは未確認。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19970205-mezamashi-aska",
+      "date": "1997-02-05",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「めざましテレビ」ASKA出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKAが取り上げられたとする記録。出演形態の詳細は未照合。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19970207-mstation-aska",
+      "date": "1997-02-07",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ朝日「ミュージックステーション」ASKA出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "「ID」を披露したとする二次資料の記録。 放送局公式の当該放送日・出演者一覧で確認（歌唱内容は別資料による）。",
+      "sources": [
+        {
+          "label": "テレビ朝日「ミュージックステーション」公式バックナンバー",
+          "url": "https://www.tv-asahi.co.jp/music/contents/m_lineup/backnumber/?p=104"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-v2111-19970215-count-down-tv-aska",
+      "date": "1997-02-15",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TBS「COUNT DOWN TV」ASKA出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "「ID」を扱ったとする記録。歌唱か映像紹介かは原典未確認。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
+      "id": "media-v2111-19970310-heyheyhey-aska",
+      "date": "1997-03-10",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「HEY!HEY!HEY! MUSIC CHAMP」ASKA出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "「ONE」「ID」を扱ったとする二次資料。ASKA初出演とされる。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19970318-utaban-aska",
+      "date": "1997-03-18",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TBS「うたばん」ASKA出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "「ID」を扱ったとする記録。歌唱方法は一次資料未確認。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
+      "id": "media-v2111-19970328-mstation-spring-aska",
+      "date": "1997-03-28",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ朝日「ミュージックステーション」春スペシャル ASKA出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "リチャード・マークスとの共演も公式出演者欄に記載。曲名の詳細は二次資料扱い。 放送局公式の当該放送日・出演者一覧で確認（歌唱内容は別資料による）。",
+      "sources": [
+        {
+          "label": "テレビ朝日「ミュージックステーション」公式バックナンバー",
+          "url": "https://www.tv-asahi.co.jp/music/contents/m_lineup/backnumber/?p=103"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-v2111-19970328-mstation-spring-multimax",
+      "date": "1997-03-28",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "テレビ朝日「ミュージックステーション」春スペシャル MULTI MAX出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ASKAの出演と同じ放送回にMULTI MAXも出演。二次資料では最後のテレビ出演として記録。 放送局公式の当該放送日・出演者一覧で確認（歌唱内容は別資料による）。",
+      "sources": [
+        {
+          "label": "テレビ朝日「ミュージックステーション」公式バックナンバー",
+          "url": "https://www.tv-asahi.co.jp/music/contents/m_lineup/backnumber/?p=103"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-v2111-19970418-fan-aska",
+      "date": "1997-04-18",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日本テレビ「FAN」ASKA出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "「晴天を誉めるなら夕暮れを待て」「風の引力」「ONE」を取り上げたとする記録。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "日本テレビ"
+    },
+    {
+      "id": "media-v2111-19970523-mstation-aska-may",
+      "date": "1997-05-23",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ朝日「ミュージックステーション」ASKA出演",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "「着地点」を披露したとする二次資料。 放送局公式の当該放送日・出演者一覧で確認（歌唱内容は別資料による）。",
+      "sources": [
+        {
+          "label": "テレビ朝日「ミュージックステーション」公式バックナンバー",
+          "url": "https://www.tv-asahi.co.jp/music/contents/m_lineup/backnumber/?p=103"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-v2111-19970602-mezamashi-aska-interview",
+      "date": "1997-06-02",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「めざましテレビ」ASKAインタビュー",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKAのインタビューを放送したとする記録。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980508-p-stock-04",
+      "date": "1998-05-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第4回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第4回。 個別の企画内容は原典未確認。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980515-p-stock-05",
+      "date": "1998-05-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第5回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第5回。 個別の企画内容は原典未確認。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980522-p-stock-06",
+      "date": "1998-05-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第6回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第6回。 個別の企画内容は原典未確認。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980529-p-stock-07",
+      "date": "1998-05-29",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第7回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第7回。 個別の企画内容は原典未確認。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980605-p-stock-08",
+      "date": "1998-06-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第8回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第8回。 資料記載：上海公演のバックステージリポート。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980612-p-stock-09",
+      "date": "1998-06-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第9回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第9回。 資料記載：ゲスト：酒井法子。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980619-p-stock-10",
+      "date": "1998-06-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第10回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第10回。 個別の企画内容は原典未確認。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980626-p-stock-11",
+      "date": "1998-06-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第11回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第11回。 資料記載：ゲスト：THE LOVE。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980703-p-stock-12",
+      "date": "1998-07-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第12回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第12回。 資料記載：ゲスト：吉野沙香。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980710-p-stock-13",
+      "date": "1998-07-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第13回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第13回。 個別の企画内容は原典未確認。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980717-p-stock-14",
+      "date": "1998-07-17",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第14回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第14回。 資料記載：ゲスト：吉沢理絵。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980724-p-stock-15",
+      "date": "1998-07-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第15回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第15回。 資料記載：ゲスト：Pete Best。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980731-p-stock-16",
+      "date": "1998-07-31",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第16回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第16回。 個別の企画内容は原典未確認。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980807-p-stock-17",
+      "date": "1998-08-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第17回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第17回。 資料記載：ゲスト：中村雅俊。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980814-p-stock-18",
+      "date": "1998-08-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第18回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第18回。 個別の企画内容は原典未確認。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980821-p-stock-19",
+      "date": "1998-08-21",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第19回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第19回。 個別の企画内容は原典未確認。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980828-p-stock-20",
+      "date": "1998-08-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第20回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第20回。 資料記載：ゲスト：石井竜也。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980904-p-stock-21",
+      "date": "1998-09-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第21回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第21回。 資料記載：ゲスト：藤井尚之。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980911-p-stock-22",
+      "date": "1998-09-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第22回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第22回。 個別の企画内容は原典未確認。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980918-p-stock-23",
+      "date": "1998-09-18",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第23回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第23回。 資料記載：「Little Baby」／ゲスト：古舘伊知郎。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980925-p-stock-24",
+      "date": "1998-09-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「P-STOCK」第24回放送（Chageレギュラー）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1998年のChage初のテレビレギュラーの第24回。 資料記載：最終回に当たる回。 公式年譜には4月6日開始とある一方、資料上の第1回は4月17日。個別放送日は二次資料による。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY（番組の存在・放送終了日）",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19980608-iz-june-08",
+      "date": "1998-06-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBS「i・z」Chage出演（6月8日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "東京・路地裏もんじゃ「もん吉」からのChage出演を紹介する連続放送とされる。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
+      "id": "media-v2111-19980609-iz-june-09",
+      "date": "1998-06-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBS「i・z」Chage出演（6月9日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "東京・路地裏もんじゃ「もん吉」からのChage出演を紹介する連続放送とされる。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
+      "id": "media-v2111-19980610-iz-june-10",
+      "date": "1998-06-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBS「i・z」Chage出演（6月10日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "東京・路地裏もんじゃ「もん吉」からのChage出演を紹介する連続放送とされる。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
+      "id": "media-v2111-19980611-iz-june-11",
+      "date": "1998-06-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBS「i・z」Chage出演（6月11日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "東京・路地裏もんじゃ「もん吉」からのChage出演を紹介する連続放送とされる。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
+      "id": "media-v2111-19980612-iz-june-12",
+      "date": "1998-06-12",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBS「i・z」Chage出演（6月12日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "東京・路地裏もんじゃ「もん吉」からのChage出演を紹介する連続放送とされる。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
+      "id": "media-v2111-19980720-star-invitation-20",
+      "date": "1998-07-20",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "PerfecTV!「スターインビテーション」ASKAゲスト（7月20日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKAをゲストとして取り上げたシリーズ放送とされる。放送時間・再放送との区別は未確認。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "PerfecTV! ch273"
+    },
+    {
+      "id": "media-v2111-19980721-star-invitation-21",
+      "date": "1998-07-21",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "PerfecTV!「スターインビテーション」ASKAゲスト（7月21日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKAをゲストとして取り上げたシリーズ放送とされる。放送時間・再放送との区別は未確認。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "PerfecTV! ch273"
+    },
+    {
+      "id": "media-v2111-19980722-star-invitation-22",
+      "date": "1998-07-22",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "PerfecTV!「スターインビテーション」ASKAゲスト（7月22日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKAをゲストとして取り上げたシリーズ放送とされる。放送時間・再放送との区別は未確認。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "PerfecTV! ch273"
+    },
+    {
+      "id": "media-v2111-19980723-star-invitation-23",
+      "date": "1998-07-23",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "PerfecTV!「スターインビテーション」ASKAゲスト（7月23日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKAをゲストとして取り上げたシリーズ放送とされる。放送時間・再放送との区別は未確認。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "PerfecTV! ch273"
+    },
+    {
+      "id": "media-v2111-19980724-star-invitation-24",
+      "date": "1998-07-24",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "PerfecTV!「スターインビテーション」ASKAゲスト（7月24日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKAをゲストとして取り上げたシリーズ放送とされる。放送時間・再放送との区別は未確認。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "PerfecTV! ch273"
+    },
+    {
+      "id": "media-v2111-19980725-star-invitation-25",
+      "date": "1998-07-25",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "PerfecTV!「スターインビテーション」ASKAゲスト（7月25日）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKAをゲストとして取り上げたシリーズ放送とされる。放送時間・再放送との区別は未確認。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "PerfecTV! ch273"
+    },
+    {
+      "id": "media-v2111-19981030-mayonaka-kingdom-oct",
+      "date": "1998-10-30",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHK BS2「新 真夜中の王国」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "インタビューのほか「トウキョータワー」のPV、「WINDY ROAD」ライブ映像を紹介したとする記録。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "NHK BS2"
+    },
+    {
+      "id": "media-v2111-19981106-fun-chage",
+      "date": "1998-11-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "日本テレビ「FUN」Chage出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "「トウキョータワー」を披露し、トークに出演したとする記録。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "日本テレビ"
+    },
+    {
+      "id": "media-v2111-19981113-mezamashi-chage",
+      "date": "1998-11-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「めざましテレビ」Chage出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chage出演とする記録。出演形態の詳細は未一次確認。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v2111-19981117-utaban-chage",
+      "date": "1998-11-17",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBS「うたばん」Chage出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "「トウキョータワー」を披露したとする二次資料の記録。 二次資料にある放送日を採用。放送局の当時の番組表は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        }
+      ],
+      "broadcastStation": "TBS"
     }
   ],
-  "siteVersion": "2.1.10"
+  "siteVersion": "2.1.11"
 }
