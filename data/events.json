@@ -91291,7 +91291,100 @@
         }
       ],
       "broadcastStation": "TBS"
+    },
+    {
+      "id": "media-v2112-19990402-mstation-aska-solo",
+      "date": "1999-04-02",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ朝日「ミュージックステーション」ASKAソロ出演（「止まった時計」）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "テレビ朝日公式出演者一覧は同じ放送回に「ASKA(CHAGE & ASKA)」と「CHAGE & ASKA」を別々に掲載。ASKAは「止まった時計」を披露。既存のC&A名義レコードとは同一放送回だが異なる出演名義のため、独立記録として追加する。",
+      "sources": [
+        {
+          "label": "テレビ朝日「ミュージックステーション」公式バックナンバー",
+          "url": "https://www.tv-asahi.co.jp/music/contents/m_lineup/0544/index.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-v2112-20000610-bs-special-june-rebroadcast",
+      "date": "2000-06-10",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "NHK「BSスペシャル CHAGE&ASKA 1999〜2000」深夜再放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送履歴に2000年6月9日25:05〜26:25と掲載。暦日では6月10日1:05〜2:25。既存の2000年4月7日のBS2放送とは別の放送枠で、番組内容は同一または再編集の可能性がある。初回放送ではなく再放送・別枠放送として扱い、内容差は原典確認待ち。",
+      "sources": [
+        {
+          "label": "テレビ番組放送履歴（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/tv/p/2/"
+        }
+      ],
+      "broadcastStation": "NHK（放送情報掲載）"
+    },
+    {
+      "id": "media-v2112-20000827-super-j-channel",
+      "date": "2000-08-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ朝日「スーパーJチャンネル」CHAGE&ASKA関連放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "二次資料の2000年8月27日欄に番組名と放送局を掲載。出演・インタビュー・報道映像のいずれかは未特定。既存の同日フジテレビ「スーパーナイト」とは別番組。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/67.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-v2112-20001105-live-in-korea-fuji-terrestrial",
+      "date": "2000-11-05",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "フジテレビ系列「CHAGE&ASKA LIVE IN KOREA」地上波深夜放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "放送履歴に2000年11月4日27:25〜28:25と掲載。暦日では11月5日3:25〜4:25。既存の2000年10月22日のフジテレビ721（CS）放送とは別の地上波放送。",
+      "sources": [
+        {
+          "label": "テレビ番組放送履歴（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/tv/p/2/"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/67.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ系列"
+    },
+    {
+      "id": "media-v2112-20001217-music-fair-2000-retrospective",
+      "date": "2000-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "フジテレビ「ミュージックフェア’00 20世紀総集編」C&A関連放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ出演履歴に2000年12月17日23:00〜23:30「一挙公開20世紀総集編あの名曲厳選保存版」を掲載。過去映像紹介などを含む可能性があるが、本人の新規出演・実際のC&A関連映像の具体的内容は未確認。生出演と断定しない。",
+      "sources": [
+        {
+          "label": "テレビ番組放送履歴（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/tv/p/2/"
+        }
+      ],
+      "broadcastStation": "フジテレビ系列"
     }
   ],
-  "siteVersion": "2.1.11"
+  "siteVersion": "2.1.12"
 }
