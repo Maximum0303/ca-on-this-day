@@ -1,4 +1,4 @@
-/* 今日はC&Aの何の日？ 画面 Ver.2.2.11 / 実施確認の二段階管理
+/* 今日はC&Aの何の日？ 画面 Ver.2.2.12 / 個別記録の確認経過表示
  * Display-only status overlay. Never modifies window.CA_EVENT_DATA or its events.
  * Read after app.js, ca-ver39.js, ca-ver40.js and data/review-followup.js.
  * 'closed_unverified' means follow-up completed WITHOUT proof of performance.
@@ -138,22 +138,79 @@ if(browse&&!$('ca41-review')){
  .ca2211-closed-sources{margin-top:5px}
  .ca2211-closed-sources a{color:#dce7f4;text-decoration:underline;text-underline-offset:3px}
  .ca2211-followup-closed{color:#dce8f6!important;background:rgba(103,140,180,.13)!important;border-color:rgba(150,180,210,.4)!important}
+ .ca2212-detail-verification{margin:18px 0 10px;padding:15px 17px;border:1px solid rgba(232,188,115,.36);border-left:3px solid #e8bc73;border-radius:8px;background:rgba(232,188,115,.055);color:#dce7f4;line-height:1.8}
+ .ca2212-detail-verification h2{margin:0 0 4px;font-size:16px;color:#ffe3ae;line-height:1.6}
+ .ca2212-detail-verification .ca2212-status-heading{margin:0 0 10px;font-size:13px;font-weight:700;color:#ffe1aa}
+ .ca2212-detail-verification dl{display:grid;grid-template-columns:minmax(115px,145px) minmax(0,1fr);gap:7px 12px;margin:0;font-size:12px}
+ .ca2212-detail-verification dt{color:#b6c7dc;font-weight:600}
+ .ca2212-detail-verification dd{margin:0;color:#e3ebf7;overflow-wrap:anywhere;white-space:pre-wrap}
+ .ca2212-detail-verification .ca2212-verification-explain{font-size:11px;color:#bacbdc;margin:11px 0 0}
+ @media(max-width:560px){.ca2212-detail-verification{padding:12px}.ca2212-detail-verification dl{grid-template-columns:1fr;gap:2px}.ca2212-detail-verification dd{margin:0 0 8px}}
  `;
  document.head.append(style);
 }
 function patchIndividualDetail(){
  const eventId=new URLSearchParams(location.search).get('event');
  const e=byId.get(eventId),section=$('ca-single-detail');
- if(!e||state(e).code!=='review_closed'||!section||section.querySelector('.ca2211-detail-note'))return;
- const p=document.createElement('p');p.className='ca2211-detail-note';
- p.textContent='事後確認終了（実施未確定）：公式の開催告知は確認済みですが、事後の実施を裏付ける資料は確認できていません。開催されたと断定するものではありません。';
- p.style.cssText='margin:12px 0;padding:11px 14px;border-left:3px solid #e8bc73;background:rgba(232,188,115,.08);color:#dce7f4;font-size:12px;line-height:1.8';
- const paper=section.querySelector('.ca-detail-paper');if(paper)paper.prepend(p);else section.prepend(p);
+ if(!e||!section)return;
+ const paper=section.querySelector('.ca-detail-paper');
+ if(!paper)return; // 詳細ページが組み上がるまでは表示しない
+ const view=state(e);
+ if(view.code!=='review'&&view.code!=='review_closed')return;
+ if(paper.querySelector('.ca2212-detail-verification'))return;
+ // 旧Ver.2.2.11の簡易文言があれば置換し、なければ記録名の下に表示。
+ const old=paper.querySelector('.ca2211-detail-note');
+ const panel=document.createElement('section');
+ panel.className='ca2211-detail-note ca2212-detail-verification';
+ panel.setAttribute('aria-label','開催後の実施確認状況');
+ const heading=document.createElement('h2');
+ heading.textContent='開催後の確認状況';
+ panel.append(heading);
+ const summary=document.createElement('p');
+ summary.className='ca2212-status-heading';
+ summary.textContent=view.label;
+ panel.append(summary);
+ const dl=document.createElement('dl');
+ const add=(label,value)=>{
+  const dt=document.createElement('dt');dt.textContent=label;
+  const dd=document.createElement('dd');dd.textContent=value;
+  dl.append(dt,dd);
+ };
+ add('元の登録状態','開催予定（公演データは変更していません）');
+ add('実際の開催','実施未確定');
+ const follow=view.code==='review_closed'?followUp(e):null;
+ if(follow){
+  add('確認作業','事後確認終了（追加調査をいったん終了）');
+  add('確認日',String(follow.reviewedAt||'未設定'));
+  add('終了理由',String(follow.reason||'理由の記録なし'));
+ }else{
+  add('確認作業','追加の実施確認が必要');
+ }
+ const v=e.verification==='primary'?'一次資料確認':e.verification==='secondary'?'二次資料確認':'未確認・未設定';
+ add('資料の照合区分',v+'（実際の開催を確認したこととは異なります）');
+ panel.append(dl);
+ const explanation=document.createElement('p');
+ explanation.className='ca2212-verification-explain';
+ explanation.textContent=follow
+  ? '事後確認の終了は、開催済み・中止・延期を確定した意味ではありません。新しい資料が見つかれば見直します。'
+  : '日付の経過だけでは開催済みと判断できません。公式発表や主催者の記録などを確認してから更新します。';
+ panel.append(explanation);
+ if(old){old.replaceWith(panel);}
+ else{
+  const after=paper.querySelector('.ca-detail-place')||paper.querySelector('.ca-detail-chips')||paper.querySelector('.ca-detail-title');
+  if(after)after.insertAdjacentElement('afterend',panel);
+  else paper.prepend(panel);
+ }
 }
 function refresh(){patchResult();patchDay();patchMonthly();patchRelated();patchIndividualDetail();}
 for(const id of ['results','day-events','ca40-items','ca39-dialog-items']){
  const el=$(id);if(el)new MutationObserver(refresh).observe(el,{childList:true,subtree:true});
 }
+// 個別記録は後続のDOMContentLoaded処理でmainへ追加されるため、
+// mainの直下に詳細セクションが挿入される時点も監視する。
+// 詳細パネル内の変更は監視対象外なので自己再描画ループを起こさない。
+const main=document.querySelector('main');
+if(main)new MutationObserver(patchIndividualDetail).observe(main,{childList:true});
 const oldToday=todayISO();let lastToday=oldToday;
 function refreshDay(){const now=todayISO();if(now!==lastToday){lastToday=now;reviewLimit=15;showReview();refresh();}}
 setInterval(refreshDay,60000);
