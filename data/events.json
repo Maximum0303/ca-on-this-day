@@ -88907,7 +88907,177 @@
         }
       ],
       "broadcastStation": "台湾テレビ（局詳細未確認）"
+    },
+    {
+      "id": "media-v216-20070124-sakigake-ongakubanzuke",
+      "date": "2007-01-24",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "フジテレビ「魁！音楽番付」CHAGE and ASKAゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "番組のゲスト出演記録。同日発売のアルバム「DOUBLE」とは別の放送記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/76.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v216-20100213-zoom-in-saturday-aska",
+      "date": "2010-02-13",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日本テレビ「ズームイン!!サタデー」ASKAインタビュー放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKAのインタビューが放送されたとの記録。2010年2月10日放送「SONGS」とは別番組。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        }
+      ],
+      "broadcastStation": "日本テレビ"
+    },
+    {
+      "id": "media-v216-20100330-tokudane-aska",
+      "date": "2010-03-30",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「情報プレゼンター とくダネ！」ASKAコメント放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2010年3月末で閉館する東京厚生年金会館に関するASKAのコメントが紹介されたとの記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v216-20101005-watchin-miyagi",
+      "date": "2010-10-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBCテレビ「ウォッチン！みやぎ」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        }
+      ],
+      "broadcastStation": "東北放送（TBCテレビ）"
+    },
+    {
+      "id": "media-v216-20101006-sawadadesu",
+      "date": "2010-10-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "KBCテレビ「サワダデス。」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。同日発売の「まわせ大きな地球儀」とは別の放送記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        }
+      ],
+      "broadcastStation": "九州朝日放送（KBC）"
+    },
+    {
+      "id": "media-v216-20101026-pikan-tv",
+      "date": "2010-10-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "東海テレビ「ぴーかんテレビ」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。2008年の同番組出演とは別日。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        }
+      ],
+      "broadcastStation": "東海テレビ"
+    },
+    {
+      "id": "media-v216-20101027-evening6",
+      "date": "2010-10-27",
+      "artist": "Chage",
+      "category": "media",
+      "title": "とちぎテレビ「イブニング6」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        }
+      ],
+      "broadcastStation": "とちぎテレビ"
+    },
+    {
+      "id": "media-v216-20101107-a-ha-n",
+      "date": "2010-11-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ愛知「a-ha-N」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。2008年の同番組出演とは別日。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        }
+      ],
+      "broadcastStation": "テレビ愛知"
+    },
+    {
+      "id": "media-v216-20101210-kinyou-trevian",
+      "date": "2010-12-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FBS「金曜トレビアン」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        }
+      ],
+      "broadcastStation": "福岡放送（FBS）"
+    },
+    {
+      "id": "media-v216-20101219-uchikuru-comment",
+      "date": "2010-12-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「ウチくる!?」Chageコメント出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのコメント出演記録。番組本編へのゲスト来訪と混同しない。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
     }
   ],
-  "siteVersion": "2.1.5"
+  "siteVersion": "2.1.6"
 }
