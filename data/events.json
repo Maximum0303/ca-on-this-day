@@ -87639,7 +87639,247 @@
         }
       ],
       "broadcastStation": "福岡放送"
+    },
+    {
+      "id": "media-followup-20090624-wednesday-jpop",
+      "date": "2009-06-24",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "NHK BS2「WEDNESDAY J-POP」ASKAライブ生中継",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKA CONCERT TOUR 2009 WALKのNHKホール公演からライブ映像が生中継された記録。テレビ放送日として登録。ツアーの開催日や2009年8月6日のWOWOWライブ特番とは別。放送日・局名は二次資料で照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        },
+        {
+          "label": "参考資料（非公式・公演と放送の照合）",
+          "url": "https://w.atwiki.jp/cavc/pages/455.html"
+        }
+      ],
+      "broadcastStation": "NHK BS2"
+    },
+    {
+      "id": "media-followup-20090724-chage-aishiteru",
+      "date": "2009-07-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS日テレ「CHAGE 08～09 アイシテル⇒アイサレテル」ライブ放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのソロライブ「アイシテル」ツアーと「茶会」の映像を組み合わせた番組。2009年7月24日放送との記録。ライブ開催・映像ソフト発売とは別レコード。原典のBS日テレ番組表は未確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        },
+        {
+          "label": "Chage公式：2009年の活動履歴（関連ライブ）",
+          "url": "https://chage.jp/biography/2009.php"
+        }
+      ],
+      "broadcastStation": "BS日テレ"
+    },
+    {
+      "id": "media-followup-20090810-smasma",
+      "date": "2009-08-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「SMAP×SMAP」ChageとのS-LIVE放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "SMAPとChageが「ふたりの愛ランド」を披露した「SMAP×SMAP」S-LIVE出演回。非公式出演アーカイブの放送局欄には誤ってTBSとあるが、番組の放送局はフジテレビ。二次資料の独立した放送回記録と照合した。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・番組回別記録）",
+          "url": "https://w.atwiki.jp/smasma/pages/478.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-followup-20090830-ajiwai01",
+      "date": "2009-08-30",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKB「味わいぶらり旅」Chage鹿児島紀行・前編放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageが鹿児島を訪ね、「音楽と焼酎」をテーマに旅する回として記録される。後編の2009年9月6日とは別の放送。二次資料確認、当時のRKB番組表は未確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        }
+      ],
+      "broadcastStation": "RKB毎日放送"
+    },
+    {
+      "id": "media-followup-20090906-ajiwai02",
+      "date": "2009-09-06",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKB「味わいぶらり旅」Chage鹿児島・霧島紀行・後編放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "前週2009年8月30日に続くChage出演の旅番組。鹿児島・霧島のアートに触れる内容として記録。放送日は二次資料確認、前編とは別レコード。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        }
+      ],
+      "broadcastStation": "RKB毎日放送"
+    },
+    {
+      "id": "media-followup-20091028-songs-zaitsu",
+      "date": "2009-10-28",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "NHK「SONGS 財津和夫スペシャル」第1週・ASKA出演映像放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "財津和夫のアルバム制作密着特集の第1週。ASKAが楽曲「愛していたい」の作曲・コーラス等で参加し、関連する映像が放送された記録。番組は財津和夫特集でありASKA単独特集ではない。2009年11月4日の第2週についてはASKA出演部分を確認できるまで別登録しない。",
+      "sources": [
+        {
+          "label": "当時の音楽ニュース：番組放送予告",
+          "url": "https://www.lc.tower.jp/article/news/2009/10/06/100020018"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        }
+      ],
+      "broadcastStation": "NHK総合"
+    },
+    {
+      "id": "media-followup-20091225-aska-christmas",
+      "date": "2009-12-25",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TBSチャンネル「ASKA LIVE 昭和が見ていたクリスマス」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKAの2009年12月18日・東京国際フォーラム公演などを収録したクリスマス特別ライブ。2009年12月25日のTBSチャンネル放送は公演実施日・映像ソフト発売日と区別して登録。放送日は二次資料および当時の番組告知から照合。",
+      "sources": [
+        {
+          "label": "参考資料（当時の放送案内・番組紹介）",
+          "url": "https://plaza.rakuten.co.jp/1958331112/diary/201001290000/"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        }
+      ],
+      "broadcastStation": "TBSチャンネル"
+    },
+    {
+      "id": "media-followup-20100321-solomon-iwasaki",
+      "date": "2010-03-21",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ東京「ソロモン流」岩崎宏美特集にASKAコメント出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2010年3月21日放送の岩崎宏美に密着する「ソロモン流」で、ASKAがコメント出演した記録。ASKA単独特番ではなく特集へのコメント参加として掲載。番組日付は当時の番組案内と二次資料により確認。",
+      "sources": [
+        {
+          "label": "参考資料（当時の番組案内）",
+          "url": "https://plaza.rakuten.co.jp/1958331112/backnumber/201003/"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        }
+      ],
+      "broadcastStation": "テレビ東京"
+    },
+    {
+      "id": "media-followup-20100425-astra-national-anthem",
+      "date": "2010-04-25",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "スカチャン「吉田秀彦引退興行 ASTRA」生中継・ASKA国歌独唱",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "日本武道館で行われた「吉田秀彦引退興行 ASTRA」の試合前にASKAが「君が代」を国歌独唱。興行を2010年4月25日にスカチャン／スカチャンHDで生中継したとの当時の報道がある。映像内の該当場面の収録は二次資料に基づく。単なる公演出演日ではなくテレビ中継として登録。",
+      "sources": [
+        {
+          "label": "当時の生中継案内（興行情報）",
+          "url": "https://gbring.com/sokuho/news/2010_04/0420_jrock.htm"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        }
+      ],
+      "broadcastStation": "スカチャン／スカチャンHD"
+    },
+    {
+      "id": "media-followup-20100808-50voices",
+      "date": "2010-08-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHK総合「あなたが主役 50ボイス 夏のライブボイス」Chage出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "夏のライブをテーマにした「あなたが主役 50ボイス」の出演記録。インタビュー映像でChageがコメント。放送日は二次資料での照合にとどまるため、当時のNHK番組表による直接確認は継続する。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        }
+      ],
+      "broadcastStation": "NHK総合"
+    },
+    {
+      "id": "media-followup-20101031-night-shuffle",
+      "date": "2010-10-31",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FBS「ナイトシャッフル ～おかえり！Chageさん～」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "福岡出身のChageを迎えて少年時代の味や懐かしい友人との再会を紹介する特集回。当時の視聴者記録に10月31日放送が残る。二次資料確認。",
+      "sources": [
+        {
+          "label": "参考資料（放送翌日の視聴記録）",
+          "url": "https://plaza.rakuten.co.jp/miroao/diary/201011010000/"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        }
+      ],
+      "broadcastStation": "福岡放送（FBS）"
+    },
+    {
+      "id": "media-followup-20101104-contact-cafe",
+      "date": "2010-11-04",
+      "artist": "Chage",
+      "category": "media",
+      "title": "メ～テレ「CONTACT CAFE」Chageゲスト出演放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "久松史奈を迎えた「CONTACT CAFE」にChageが出演。「ふたりの愛ランド」のウクレレ版を披露したという出演アーカイブの記録。放送日・出演詳細は二次資料による。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        },
+        {
+          "label": "久松史奈公式：Chage作品への参加履歴",
+          "url": "https://www.fuminahisamatsu.com/biography/"
+        }
+      ],
+      "broadcastStation": "メ～テレ"
     }
   ],
-  "siteVersion": "2.1.2"
+  "siteVersion": "2.1.3"
 }
