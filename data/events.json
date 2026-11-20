@@ -87441,7 +87441,205 @@
         }
       ],
       "broadcastStation": "WOWOWライブ"
+    },
+    {
+      "id": "media-followup-19950916-kbc-superbest3",
+      "date": "1995-09-16",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "九州朝日放送『CHAGE&ASKA CONCERT TOUR’95〜’96 SUPER BEST 3 MISSION IMPOSSIBLE』特番放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "九州地区向けにSUPER BEST 3国内ツアーのライブ映像、リハーサルを紹介したドキュメンタリー。公演の開催日とは別の放送記録。放送日時は二次資料確認にとどまる。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        },
+        {
+          "label": "参考資料（非公式・ツアー資料）",
+          "url": "https://w.atwiki.jp/canda/pages/425.html"
+        }
+      ],
+      "broadcastStation": "九州朝日放送"
+    },
+    {
+      "id": "media-followup-19951006-asia-live",
+      "date": "1995-10-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "NHK BS2『ASIAライブ』CHAGE&ASKA出演映像放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "NHK BS2「ASIAライブ」で、SUPER BEST 3国内公演の映像から「can do now」が紹介された記録。番組全編がC&Aの単独特番だったわけではなく、出演映像の放送として扱う。放送日の一次確認は未了。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        },
+        {
+          "label": "参考資料（非公式・公演映像記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/404.html"
+        }
+      ],
+      "broadcastStation": "NHK BS2"
+    },
+    {
+      "id": "media-followup-19951007-mtv-awards",
+      "date": "1995-10-07",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "MTV『MTV Japan the Video Music Award』CHAGE&ASKA受賞関連インタビュー放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "「Something There」のMTV Video Music Award受賞に関するインタビュー、ミュージックビデオの放送記録。受賞した年と当該番組の放送日を混同しない。日付は二次資料による。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        },
+        {
+          "label": "参考資料（非公式・テレビ出演記録）",
+          "url": "https://song2.sakura.ne.jp/tv01.html"
+        }
+      ],
+      "broadcastStation": "MTV Japan"
+    },
+    {
+      "id": "media-followup-19951223-hitstudio-xmas",
+      "date": "1995-12-23",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "フジテレビ『’95夜のヒットスタジオ 純白のX’masスペシャル』出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1995年12月23日19:00〜20:54の年末特番。CHAGE&ASKAは名古屋レインボーホールから中継で「On Your Mark」を披露したとの二次資料記録。放送局公式の当時の番組表による直接確認は未了。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/57.html"
+        },
+        {
+          "label": "参考資料（非公式・番組履歴）",
+          "url": "https://ja.wikipedia.org/wiki/夜のヒットスタジオ"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-followup-19961219-dragon-chage",
+      "date": "1996-12-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "スペースシャワーTV『夕陽のドラゴン』Chageゲスト出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ユースケ・サンタマリアらが出演した音楽トーク番組「夕陽のドラゴン」にChageがゲスト出演した記録。番組自体はレギュラー番組であり、この回が特番だったとするものではない。日付は二次資料確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/58.html"
+        }
+      ],
+      "broadcastStation": "スペースシャワーTV"
+    },
+    {
+      "id": "media-followup-19970307-blitz-multimax",
+      "date": "1997-03-07",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "TBS『BLITZ SPECIAL 迫力ライブ映像＆インタビュー』MULTI MAX特集放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "MULTI MAXのライブ映像とインタビューを扱った「BLITZ SPECIAL」の放送記録。具体的な収録公演や放送時刻は確認できないため記入しない。放送日は二次資料による。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
+      "id": "media-followup-19970809-aska-id-wowow",
+      "date": "1997-08-09",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "WOWOW『ASKA CONCERT TOUR ID』ライブ放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKA初の本格的なソロコンサートツアー「CONCERT TOUR ID」のライブ映像がWOWOWで放送された記録。開催日、放送日、ソフト発売日を区別する。放送日は二次資料確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/59.html"
+        },
+        {
+          "label": "参考資料（非公式・ツアー映像記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/87.html"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-followup-19981010-solo-live98",
+      "date": "1998-10-10",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "WOWOW『CHAGE/ASKA SOLO LIVE ’98』放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageの「CHAGE“大いに唄う”in 武道館」とASKAの「CONCERT TOUR KICKS」という別々のソロライブを組み合わせた番組。デュオによる合同公演ではない。サイトの名義分類上は両名を含む番組として「CHAGE and ASKA」に分類。放送日は二次資料確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "参考資料（非公式・ライブ映像記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/88.html"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-followup-19981231-chage-countdown98",
+      "date": "1998-12-31",
+      "artist": "Chage",
+      "category": "media",
+      "title": "『LIVE DI:GA SPECIAL ゆく年くる年 CHAGE 1998 FINAL COUNT DOWN』生中継",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "渋谷公会堂で1998年12月31日から1999年1月1日にかけて開催されたChageのカウントダウン公演を生中継した番組。年跨ぎ生放送のため放送開始日は1998年12月31日として記録。局名は二次資料での確認範囲。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/60.html"
+        },
+        {
+          "label": "参考資料（非公式・公演および中継記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/414.html"
+        }
+      ],
+      "broadcastStation": "テレビ神奈川・テレビ埼玉・TOKYO MX・Viewsicほか"
+    },
+    {
+      "id": "media-followup-19990611-fbs-music-club",
+      "date": "1999-06-11",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "福岡放送『FBS MUSIC CLUB』CHAGE&ASKA特集放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "九州地方で放送されたインタビュー番組「FBS MUSIC CLUB」。国内ツアー「電光石火」の映像を交えて「no doubt」「Sea of Gray」などを紹介したとの記録。放送日・局名は二次資料確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/66.html"
+        }
+      ],
+      "broadcastStation": "福岡放送"
     }
   ],
-  "siteVersion": "2.1.1"
+  "siteVersion": "2.1.2"
 }
