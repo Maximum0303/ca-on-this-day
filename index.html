@@ -35,7 +35,8 @@
 <script defer src="app.js"></script>
 <script defer src="ca-ver39.js"></script>
 <script defer src="ca-ver40.js"></script>
-<script defer src="ca-ver41.js"></script>
+<script defer src="data/review-followup.js?v=2.2.11"></script>
+<script defer src="ca-ver41.js?v=2.2.11"></script>
 <script defer src="ca-ver42.js"></script>
 <script defer src="ca-ver43.js"></script>
 <script defer src="ca-ver44.js"></script>
@@ -154,7 +155,7 @@
     var version=archive.siteVersion||archive.version||'1.8.2';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.2.2.10 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.2.2.11 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();
