@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "managementVersion": "2.1.0",
+  "entries": [
+    {
+      "date": "2026-11-20",
+      "fromVersion": "2.0.55",
+      "toVersion": "2.1.0",
+      "beforeCount": 4133,
+      "afterCount": 4134,
+      "migration": true,
+      "changes": [
+        {
+          "action": "add",
+          "id": "media-tieup-1991-1025-chinmoku-no-kantai-radio",
+          "date": "1991-10-25",
+          "title": "ラジオドラマ『沈黙の艦隊』初回放送（主題歌「BIG TREE」）",
+          "verification": "secondary"
+        }
+      ]
+    }
+  ]
+}

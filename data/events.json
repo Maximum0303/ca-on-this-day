@@ -86738,7 +86738,29 @@
           "url": "https://eiga.com/movie/100674/"
         }
       ]
+    },
+    {
+      "id": "media-tieup-1991-1025-chinmoku-no-kantai-radio",
+      "date": "1991-10-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ラジオドラマ『沈黙の艦隊』初回放送（主題歌「BIG TREE」）",
+      "broadcastStation": "ニッポン放送",
+      "startTime": "22:00",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1991年10月25日（金）22:00開始のニッポン放送ドラマスペシャル（約3時間）。初回放送日はニッポン放送が2023年12月14日に公表した番組案内で確認。CHAGE and ASKA「BIG TREE」が主題歌とされるが、楽曲の起用は現時点で二次資料による確認で、当時の番組クレジット・原音源は未照合。2024年1月3日の記念再放送、1993年のドラマCD発売とは別の出来事。",
+      "sources": [
+        {
+          "label": "ニッポン放送公式（1991年の初回放送日時）",
+          "url": "https://news.1242.com/article/484236"
+        },
+        {
+          "label": "参考資料（非公式・主題歌）",
+          "url": "https://ja.wikipedia.org/wiki/%E6%B2%88%E9%BB%99%E3%81%AE%E8%89%A6%E9%9A%8A"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.0.55"
+  "siteVersion": "2.1.0"
 }
