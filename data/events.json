@@ -91571,7 +91571,49 @@
         }
       ],
       "broadcastStation": "TBS系列"
+    },
+    {
+      "id": "media-v215-20060105-bsasahi-otokotachi",
+      "date": "2006-01-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS朝日「男たちの食宴」Chage出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "当日のファン記録に放送とChage出演が記載。 放送日・出演内容は二次資料による照合。放送局等の一次資料での確認は未完了。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://chageandaska825.seesaa.net/article/11361965.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://mixi.jp/list_bbs.pl?id=2069771"
+        }
+      ],
+      "broadcastStation": "BS朝日"
+    },
+    {
+      "id": "media-v215-20060923-fuji721-apbank",
+      "date": "2006-09-23",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ721「ap bank fes’06」ASKA出演映像放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2006年7月16日にASKAが出演したフェスのテレビ放送。2006年9月23日21:00〜24:00にCS放送されたとする当時の視聴・番組情報。フェス当日および12月20日の映像作品発売とは分ける。 放送日・出演内容は二次資料による照合。放送局等の一次資料での確認は未完了。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://owatabi.blog.fc2.com/blog-entry-221.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（フェス出演の確認）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "フジテレビ721"
     }
   ],
-  "siteVersion": "2.1.14"
+  "siteVersion": "2.1.15"
 }
