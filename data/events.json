@@ -91384,7 +91384,143 @@
         }
       ],
       "broadcastStation": "フジテレビ系列"
+    },
+    {
+      "id": "media-v2113-20011007-domoto-brothers-recap",
+      "date": "2001-10-07",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "フジテレビ「堂本兄弟」総集編（C&A関連・内容要確認）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2001年10月7日22:30〜23:00放送の総集編。CHAGE and ASKAのテレビ出演履歴に掲載されている。過去出演の映像・本人の新規出演の有無や具体的な紹介内容は原典未確認のため断定しない。2001年8月19日の通常出演回とは別放送。",
+      "sources": [
+        {
+          "label": "テレビ放送履歴（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/tv/p/2/"
+        }
+      ],
+      "broadcastStation": "フジテレビ系列"
+    },
+    {
+      "id": "media-v2113-20011018-utaban-treasure-recap",
+      "date": "2001-10-18",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "TBS「うたばん」お宝トーク総集編（C&A関連放送）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2001年10月18日19:54〜20:54放送の総集編。番組概要に未公開トークなどの紹介がある。C&A出演履歴に記載されているが具体的なC&A映像内容は未照合。同日登録済み「うたばん寸前」は別番組・別枠のため削除・統合しない。",
+      "sources": [
+        {
+          "label": "テレビ放送履歴（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/tv/p/2/"
+        }
+      ],
+      "broadcastStation": "TBS系列"
+    },
+    {
+      "id": "media-v2113-20011126-nhk-ca-live-latenight",
+      "date": "2001-11-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "NHK「CHAGE&ASKA LIVE」深夜放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "番組履歴の表記は2001年11月25日24:15〜25:15。暦日換算では11月26日0:15〜1:15。2001年10月25日のBSスペシャル、11月13日のBS-hi放送と同一素材かは未確認。再放送・編集版と断定しない。",
+      "sources": [
+        {
+          "label": "テレビ放送履歴（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/tv/p/2/"
+        }
+      ],
+      "broadcastStation": "NHK"
+    },
+    {
+      "id": "media-v2113-20011226-melodix-late",
+      "date": "2001-12-26",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ東京「Melodix!」C&A関連放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "番組履歴の表記は2001年12月25日26:25〜26:55。暦日換算では12月26日2:25〜2:55。C&Aの出演履歴に載るが、スタジオ出演・MV紹介・過去映像など内容は未確認。実出演や歌唱を断定しない。",
+      "sources": [
+        {
+          "label": "テレビ放送履歴（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/tv/"
+        }
+      ],
+      "broadcastStation": "テレビ東京系列"
+    },
+    {
+      "id": "media-v2113-20020602-not-at-all-fuji-late",
+      "date": "2002-06-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "フジテレビ「CHAGE and ASKA CONCERT TOUR 01≫02 NOT AT ALL」深夜放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "番組履歴の表記は2002年6月1日27:55〜28:55で、暦日では6月2日3:55〜4:55。既存の5月3日フジテレビ721（CS）での放送とは局・放送日・放送枠が異なる。内容が同一か編集版かは未確認。",
+      "sources": [
+        {
+          "label": "テレビ放送履歴（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/tv/"
+        }
+      ],
+      "broadcastStation": "フジテレビ系列"
+    },
+    {
+      "id": "media-v2113-20020714-earth-day-concert-fuji-late",
+      "date": "2002-07-14",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "フジテレビ「コスモ アースコンシャス アクト アースデー・コンサート」深夜放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "番組履歴の表記は2002年7月13日27:55〜28:55。暦日では7月14日3:55〜4:55。2002年4月22日のコンサート開催日・ライブ配信、および5月19日のフジテレビ721（CS）放送とは区別。",
+      "sources": [
+        {
+          "label": "テレビ放送履歴（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/tv/"
+        }
+      ],
+      "broadcastStation": "フジテレビ系列"
+    },
+    {
+      "id": "media-v2113-20021121-nhk-music-cocktail-early",
+      "date": "2002-11-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "NHK「ミュージック・カクテル『チャゲ&アスカ』」短縮枠放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ放送履歴に2002年11月21日23:15〜23:27の放送が記載。約12分枠であり、本編・短縮・途中中断等の詳細は不明。既存11月25日放送とは別枠として扱う。",
+      "sources": [
+        {
+          "label": "テレビ放送履歴（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/tv/"
+        }
+      ],
+      "broadcastStation": "NHK"
+    },
+    {
+      "id": "media-v2113-20021124-nhk-music-cocktail-late",
+      "date": "2002-11-24",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "NHK「ミュージック・カクテル『チャゲ&アスカ』」深夜放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ放送履歴の表記は2002年11月23日25:00〜25:30。暦日では11月24日1:00〜1:30。2002年11月21日・25日の番組枠と区別。放送内容・中断の有無は原典確認待ち。",
+      "sources": [
+        {
+          "label": "テレビ放送履歴（二次資料）",
+          "url": "https://www.oricon.co.jp/prof/4069/tv/"
+        }
+      ],
+      "broadcastStation": "NHK"
     }
   ],
-  "siteVersion": "2.1.12"
+  "siteVersion": "2.1.13"
 }
