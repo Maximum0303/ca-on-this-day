@@ -1,6 +1,7 @@
-/* 今日はC&Aの何の日？ Ver.1.8.2-41
+/* 今日はC&Aの何の日？ 画面 Ver.2.2.11 / 実施確認の二段階管理
  * Display-only status overlay. Never modifies window.CA_EVENT_DATA or its events.
- * Read after app.js, ca-ver39.js, and ca-ver40.js.
+ * Read after app.js, ca-ver39.js, ca-ver40.js and data/review-followup.js.
+ * 'closed_unverified' means follow-up completed WITHOUT proof of performance.
  */
 (()=>{
 'use strict';
@@ -10,9 +11,14 @@ if(!events.length)return;
 const byId=new Map(events.map(e=>[String(e.id),e]));
 const $=id=>document.getElementById(id);
 const esc=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const followups=window.CA_REVIEW_FOLLOWUP?.entries||{};
 function todayISO(){
  const values=Object.fromEntries(new Intl.DateTimeFormat('en-US',{timeZone:'Asia/Tokyo',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(new Date()).filter(p=>p.type!=='literal').map(p=>[p.type,p.value]));
  return `${values.year}-${values.month}-${values.day}`;
+}
+function followUp(e){
+ const entry=Object.prototype.hasOwnProperty.call(followups,String(e?.id))?followups[String(e.id)]:null;
+ return entry?.disposition==='closed_unverified'?entry:null;
 }
 function state(e,reference=todayISO()){
  const raw=String(e?.status||'').toLowerCase().trim(),date=String(e?.date||'');
@@ -20,7 +26,10 @@ function state(e,reference=todayISO()){
  if(raw.includes('postpon')||raw.includes('延期'))return {code:'postponed',label:'延期'};
  if(raw==='scheduled'||raw==='planned'||raw.includes('予定')){
   if(/^\d{4}-\d{2}-\d{2}$/.test(date)){
-   if(date<reference)return {code:'review',label:'開催日経過・実施確認待ち'};
+   if(date<reference){
+    if(followUp(e))return {code:'review_closed',label:'事後確認終了（実施未確定）'};
+    return {code:'review',label:'開催日経過・実施確認待ち'};
+   }
    if(date===reference)return {code:'scheduled',label:'本日開催予定（実施未確認）'};
   }
   return {code:'scheduled',label:'開催予定'};
@@ -42,13 +51,19 @@ function fixNotes(container){
  const nodes=[];while(walker.nextNode())nodes.push(walker.currentNode);
  for(const t of nodes){const n=historicalNote(t.nodeValue);if(n!==t.nodeValue)t.nodeValue=n;}
 }
+function styleBadge(b,view){
+ if(!b)return;
+ writeText(b,view.label);
+ b.classList.toggle('ca41-needs-review',view.code==='review');
+ b.classList.toggle('ca2211-followup-closed',view.code==='review_closed');
+ b.title=view.code==='review'?'日付が経過したことのみ判定。開催実施を確認した意味ではありません。':view.code==='review_closed'?'確認作業を終了した区分であり、実際に開催されたことを確認したものではありません。':'';
+}
 function patchResult(){
  const root=$('results');if(!root)return;
  root.querySelectorAll('.result-card[data-id]').forEach(card=>{
   const e=byId.get(card.dataset.id);if(!e)return;
   const view=state(e);
-  const badge=card.querySelector('.status-tag');
-  if(badge){writeText(badge,view.label);badge.classList.toggle('ca41-needs-review',view.code==='review');badge.title=view.code==='review'?'日付が経過したことのみ判定。開催実施を確認した意味ではありません。':'';}
+  styleBadge(card.querySelector('.status-tag'),view);
   card.querySelectorAll('.ca39-record-details dl dt').forEach(dt=>{if(dt.textContent?.trim()==='状態')writeText(dt.nextElementSibling,view.label);});
   card.querySelectorAll('.record-note').forEach(fixNotes);
  });
@@ -57,19 +72,16 @@ function patchDay(){
  const root=$('day-events');if(!root)return;
  root.querySelectorAll('.ca39-day-card[data-event-id]').forEach(card=>{
   const e=byId.get(card.dataset.eventId);if(!e)return;
-  const b=card.querySelector('.ca39-day-flags span');
-  if(b){const v=state(e);writeText(b,v.label);b.classList.toggle('ca41-needs-review',v.code==='review');}
+  styleBadge(card.querySelector('.ca39-day-flags span'),state(e));
   card.querySelectorAll('.ca39-day-note,.ca39-note p').forEach(fixNotes);
  });
- // Fallback for early layouts that still display the original simple previews.
  root.querySelectorAll('.event-preview').forEach(fixNotes);
 }
 function patchMonthly(){
  const root=$('ca40-items');if(!root)return;
  root.querySelectorAll('.ca40-item').forEach(card=>{
   const e=getEventFromLink(card);if(!e)return;
-  const b=card.querySelector('.ca40-flags span');
-  if(b){const v=state(e);writeText(b,v.label);b.classList.toggle('ca41-needs-review',v.code==='review');}
+  styleBadge(card.querySelector('.ca40-flags span'),state(e));
  });
 }
 function patchRelated(){
@@ -78,22 +90,30 @@ function patchRelated(){
   const e=getEventFromLink(card);if(!e)return;
   const small=card.querySelector('small');if(!small)return;
   const original=small.textContent||'';
-  const v=state(e);
-  if(String(e.status||'').toLowerCase().includes('sched') && (original.startsWith('開催予定')||original.startsWith('開催日経過・実施確認待ち')||original.startsWith('本日開催予定'))){
-   writeText(small,original.replace(/^(開催予定|開催日経過・実施確認待ち|本日開催予定（実施未確認）)/,v.label));
+  const view=state(e);
+  if((String(e.status||'').toLowerCase().includes('sched')||String(e.status||'').toLowerCase().includes('planned')) && /^(開催予定|開催日経過・実施確認待ち|事後確認終了（実施未確定）|本日開催予定（実施未確認）)/.test(original)){
+   writeText(small,original.replace(/^(開催予定|開催日経過・実施確認待ち|事後確認終了（実施未確定）|本日開催予定（実施未確認）)/,view.label));
   }
  });
 }
 function reviewRecords(){return events.filter(e=>state(e).code==='review').sort((a,b)=>String(b.date).localeCompare(String(a.date))||String(a.id).localeCompare(String(b.id)));}
+function closedRecords(){return events.filter(e=>state(e).code==='review_closed').sort((a,b)=>String(b.date).localeCompare(String(a.date))||String(a.id).localeCompare(String(b.id)));}
 function eventUrl(e){const u=new URL(location.href);u.search='';u.hash='browse';u.searchParams.set('date',e.date.slice(5));u.searchParams.set('event',e.id);return u.href;}
 let reviewLimit=15;
 function showReview(){
  const panel=$('ca41-review');if(!panel)return;
- const list=reviewRecords();
- $('ca41-review-count').textContent=`${list.length}件（登録分）`;
- const cards=list.slice(0,reviewLimit).map(e=>`<li><a href="${esc(eventUrl(e))}"><time datetime="${esc(e.date)}">${esc(e.date)}</time>　${esc(e.artist)}｜${esc(e.title)}</a><span>${esc([e.prefecture,e.venue].filter(Boolean).join('・'))}</span></li>`).join('');
- $('ca41-review-items').innerHTML=cards||'<li class="ca41-no-review">現在、開催日が経過し実施確認待ちとなっている「開催予定」登録はありません。</li>';
- const more=$('ca41-review-more');more.hidden=list.length<=reviewLimit;more.textContent=`さらに表示（残り${Math.max(0,list.length-reviewLimit)}件）`;
+ const pending=reviewRecords(),closed=closedRecords();
+ $('ca41-review-count').textContent=`確認待ち ${pending.length}件 ／ 事後確認終了 ${closed.length}件`;
+ const cards=pending.slice(0,reviewLimit).map(e=>`<li><a href="${esc(eventUrl(e))}"><time datetime="${esc(e.date)}">${esc(e.date)}</time>　${esc(e.artist)}｜${esc(e.title)}</a><span>${esc([e.prefecture,e.venue].filter(Boolean).join('・'))}</span></li>`).join('');
+ $('ca41-review-items').innerHTML=cards||'<li class="ca41-no-review">現在、追加の実施確認が必要な「開催予定」の登録はありません。</li>';
+ const more=$('ca41-review-more');more.hidden=pending.length<=reviewLimit;more.textContent=`さらに表示（残り${Math.max(0,pending.length-reviewLimit)}件）`;
+ $('ca41-closed-count').textContent=`${closed.length}件`;
+ $('ca41-closed-items').innerHTML=closed.map(e=>{
+  const item=followUp(e);
+  const sources=Array.isArray(e.sources)?e.sources:[];
+  const links=sources.filter(s=>s&&/^https:\/\//.test(String(s.url||''))).map((s,i)=>`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">登録済み資料${sources.length>1?' '+(i+1):''}を開く ↗</a>`).join(' ／ ');
+  return `<li><a href="${esc(eventUrl(e))}"><time datetime="${esc(e.date)}">${esc(e.date)}</time>　${esc(e.artist)}｜${esc(e.title)}</a><span>${esc([e.prefecture,e.venue].filter(Boolean).join('・'))}</span><span class="ca2211-closed-tag">事後確認終了（実施未確定） ／ 確認日：${esc(item.reviewedAt||'不明')}</span><span class="ca2211-closed-reason">${esc(item.reason||'開催実績の確認は行っていません。')}</span>${links?`<span class="ca2211-closed-sources">${links}</span>`:''}</li>`;
+ }).join('')||'<li class="ca41-no-review">事後確認終了に分類された記録はありません。</li>';
  const label=document.querySelector('label:has(> #status-filter) > span');if(label)label.textContent='登録時の状態';
  const select=$('status-filter');if(select){const option=select.querySelector('option[value="scheduled"]');if(option)option.textContent='開催予定として登録（過去分含む）';}
 }
@@ -103,21 +123,42 @@ if(browse&&!$('ca41-review')){
  section.id='ca41-review';section.className='ca41-review';
  section.setAttribute('aria-label','開催実施の確認待ち');
  section.innerHTML=`<div class="ca41-review-head"><div><span class="kicker">SCHEDULE FOLLOW-UP</span><h3>開催日が過ぎた予定の確認</h3></div><strong id="ca41-review-count"></strong></div>
- <p>日付だけでは実施・延期・中止は判断できません。<strong>元の開催予定記録は残したまま</strong>、現在の表示を「実施確認待ち」に切り替えます。実際の開催状況は公式情報での確認が必要です。</p>
+ <p>日付だけでは実施・延期・中止を判断できません。<strong>元の開催予定記録はそのまま維持</strong>し、「追加確認が必要」と「事後確認を終了（実施未確定）」を区別します。後者は、開催したことを意味しません。</p>
  <details id="ca41-review-details"><summary>実施確認待ちの記録を表示</summary><ol id="ca41-review-items"></ol><button type="button" id="ca41-review-more" class="btn btn-ghost" hidden>さらに表示</button></details>
- <p class="ca41-history-help">備考の「○年○月○日時点」は当時の確認履歴です。日付が進んでも履歴自体は削除せず、現在の表示状態と区別しています。</p>`;
+ <details id="ca41-closed-details" class="ca2211-review-closed"><summary>事後確認を終了した記録（実施未確定） <span id="ca41-closed-count"></span></summary><p>開催後の実施報告が通常出ないイベントなど、追加調査をいったん終了した記録です。開催告知の確認と実際の開催確認は異なります。新しい根拠が見つかれば分類を見直します。</p><ol id="ca41-closed-items"></ol></details>
+ <p class="ca41-history-help">備考の「○年○月○日時点」は当時の確認履歴です。日付が進んでも履歴を削除せず、現在の表示状態と区別しています。</p>`;
  const head=browse.querySelector('.section-head');if(head)head.insertAdjacentElement('afterend',section);else browse.prepend(section);
  $('ca41-review-more').addEventListener('click',()=>{reviewLimit+=15;showReview();});
+ const style=document.createElement('style');style.id='ca2211-closed-style';
+ style.textContent=`
+ .ca2211-review-closed{margin-top:12px!important}
+ .ca2211-review-closed summary span{color:#b3c4d8;font-size:12px;margin-left:4px}
+ .ca2211-closed-tag{color:#ffe4b4!important;font-weight:650}
+ .ca2211-closed-reason{font-size:11px!important;line-height:1.65!important;color:#becfe2!important;margin-top:3px}
+ .ca2211-closed-sources{margin-top:5px}
+ .ca2211-closed-sources a{color:#dce7f4;text-decoration:underline;text-underline-offset:3px}
+ .ca2211-followup-closed{color:#dce8f6!important;background:rgba(103,140,180,.13)!important;border-color:rgba(150,180,210,.4)!important}
+ `;
+ document.head.append(style);
 }
-function refresh(){patchResult();patchDay();patchMonthly();patchRelated();}
+function patchIndividualDetail(){
+ const eventId=new URLSearchParams(location.search).get('event');
+ const e=byId.get(eventId),section=$('ca-single-detail');
+ if(!e||state(e).code!=='review_closed'||!section||section.querySelector('.ca2211-detail-note'))return;
+ const p=document.createElement('p');p.className='ca2211-detail-note';
+ p.textContent='事後確認終了（実施未確定）：公式の開催告知は確認済みですが、事後の実施を裏付ける資料は確認できていません。開催されたと断定するものではありません。';
+ p.style.cssText='margin:12px 0;padding:11px 14px;border-left:3px solid #e8bc73;background:rgba(232,188,115,.08);color:#dce7f4;font-size:12px;line-height:1.8';
+ const paper=section.querySelector('.ca-detail-paper');if(paper)paper.prepend(p);else section.prepend(p);
+}
+function refresh(){patchResult();patchDay();patchMonthly();patchRelated();patchIndividualDetail();}
 for(const id of ['results','day-events','ca40-items','ca39-dialog-items']){
  const el=$(id);if(el)new MutationObserver(refresh).observe(el,{childList:true,subtree:true});
 }
 const oldToday=todayISO();let lastToday=oldToday;
 function refreshDay(){const now=todayISO();if(now!==lastToday){lastToday=now;reviewLimit=15;showReview();refresh();}}
-// Active tabs can cross midnight in Japan without requiring re-publishing or editing events.
 setInterval(refreshDay,60000);
-document.addEventListener('visibilitychange',()=>{if(!document.hidden)refreshDay();});
+document.addEventListener('visibilitychange',()=>{if(!document.hidden){refreshDay();patchIndividualDetail();}});
 showReview();refresh();
-window.CA41View={state,historicalNote,todayISO};
+document.addEventListener('DOMContentLoaded',patchIndividualDetail,{once:true});
+window.CA41View={state,historicalNote,todayISO,followUp,reviewRecords,closedRecords};
 })();
