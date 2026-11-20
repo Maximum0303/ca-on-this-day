@@ -89077,7 +89077,214 @@
         }
       ],
       "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v217-20150531-haranbakusho",
+      "date": "2015-05-31",
+      "artist": "Chage",
+      "category": "media",
+      "title": "日本テレビ「誰だって波瀾爆笑」Chageサプライズ出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "長谷川初範の出演回でChageがシークレットゲストとして登場したとの記録。長谷川初範の所属事務所は当日の出演回を告知しているがChage出演の直接記載はない。 二次資料に基づく放送記録。放送局の当時の番組表等による一次照合は未完了。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/339.html"
+        },
+        {
+          "label": "長谷川初範所属事務所（当日の番組放送告知）",
+          "url": "https://www.kdash.jp/kdash/topic/archives/25"
+        }
+      ],
+      "broadcastStation": "日本テレビ"
+    },
+    {
+      "id": "media-v217-20150626-rcc-imanama",
+      "date": "2015-06-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RCCテレビ「イマなまっ！」Chage生ゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "広島の情報番組でChageが生ゲスト出演したとの記録。 二次資料に基づく放送記録。放送局の当時の番組表等による一次照合は未完了。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/339.html"
+        }
+      ],
+      "broadcastStation": "中国放送（RCCテレビ）"
+    },
+    {
+      "id": "media-v217-20150630-khb-namaiki",
+      "date": "2015-06-30",
+      "artist": "Chage",
+      "category": "media",
+      "title": "KHB「突撃！ナマイキTV」Chage生出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "東日本放送の地域情報番組にChageが生出演したとの記録。 二次資料に基づく放送記録。放送局の当時の番組表等による一次照合は未完了。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/339.html"
+        }
+      ],
+      "broadcastStation": "東日本放送（KHB）"
+    },
+    {
+      "id": "media-v217-20150724-fbs-nightshuffle",
+      "date": "2015-07-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FBS「ナイトシャッフル」Chage出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2015年7月24日放送回のChage出演記録。2010年・2011年の出演とは別日。 二次資料に基づく放送記録。放送局の当時の番組表等による一次照合は未完了。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/339.html"
+        }
+      ],
+      "broadcastStation": "福岡放送（FBS）"
+    },
+    {
+      "id": "media-v217-20150928-mezamashi-aqua",
+      "date": "2015-09-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「めざましテレビ アクア」Chageライブ映像紹介",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "9月27日に東京・日本橋三井ホールで行われた「Chage Live Tour 2015 ～天使がくれたハンマー～」初日の映像が紹介されたとする記録。コンサートの開催日9月27日とは別の放送日。 二次資料に基づく放送記録。放送局の当時の番組表等による一次照合は未完了。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/339.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v217-20150928-tbs-utage",
+      "date": "2015-09-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "TBS「UTAGE!」Chage「天使がくれたハンマー」歌唱",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "Chage公式スタッフメモ（9月26日公開）が9月28日23:53放送を告知し、楽曲「天使がくれたハンマー」の歌唱を記載。9月29日放送の「UTAGE! 秋の祭典」とは別番組。 放送日と出演内容は出演者の公式・本人記録で直接確認。",
+      "sources": [
+        {
+          "label": "Chage公式スタッフメモ（9月28日放送と歌唱曲）",
+          "url": "https://chage.jp/staffmemo/chage-live-tour-2015-%E3%80%9C%E5%A4%A9%E4%BD%BF%E3%81%8C%E3%81%8F%E3%82%8C%E3%81%9F%E3%83%8F%E3%83%B3%E3%83%9E%E3%83%BC%E3%80%9C%E6%98%8E%E6%97%A5%E3%81%8B%E3%82%89%E3%82%B9%E3%82%BF%E3%83%BC/"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/339.html"
+        }
+      ],
+      "broadcastStation": "TBS"
+    },
+    {
+      "id": "media-v217-20170525-cx-minnanonews-popcon",
+      "date": "2017-05-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「みんなのニュース」Chage出演・ポプコンエイジ紹介",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "「僕らのポプコンエイジ2017」横須賀公演（5月14日）の様子がダイジェストで紹介されたとの記録。5月14日のライブ開催記録とは別。 二次資料に基づく放送記録。放送局の当時の番組表等による一次照合は未完了。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/341.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v217-20170623-bbt-minnanonews",
+      "date": "2017-06-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "富山テレビ「みんなのニュース BBTチャンネル8」Chage取材紹介",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageが富山県の自然・風景を撮影し、県内の魅力を発信するプロジェクトの取材が放送されたとの記録。 二次資料に基づく放送記録。放送局の当時の番組表等による一次照合は未完了。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/341.html"
+        }
+      ],
+      "broadcastStation": "富山テレビ放送（BBT）"
+    },
+    {
+      "id": "media-v217-20170817-goodday-aska",
+      "date": "2017-08-17",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「直撃LIVE グッディ！」ASKAインタビュー・MV撮影報道",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "前日8月16日のMV「未来の勲章」撮影について報道したとする記録。ASKA本人の当日ブログには放送予定として言及があるが、放送済みの直接確認は別途保留。 二次資料に基づく放送記録。放送局の当時の番組表等による一次照合は未完了。",
+      "sources": [
+        {
+          "label": "ASKA本人ブログ（当日の放送予定に言及）",
+          "url": "https://aska-burnishstone.hatenablog.com/entry/2017/08/17/120504"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/341.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v217-20170817-nonstop-aska",
+      "date": "2017-08-17",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「ノンストップ！」ASKAインタビュー放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "8月16日のMV「未来の勲章」撮影に関する映像とインタビュー。ASKA本人が8月17日の放送を視聴した旨を当日ブログに記載。 放送日と出演内容は出演者の公式・本人記録で直接確認。",
+      "sources": [
+        {
+          "label": "ASKA本人ブログ（8月17日に番組を視聴）",
+          "url": "https://aska-burnishstone.hatenablog.com/entry/2017/08/17/120504"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/341.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v217-20170817-viking-aska",
+      "date": "2017-08-17",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「バイキング」ASKAインタビュー・MV撮影報道",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "前日8月16日のMV「未来の勲章」撮影について報道したとする記録。ASKA本人の当日ブログには放送予定として言及があるが、放送済みの直接確認は別途保留。 二次資料に基づく放送記録。放送局の当時の番組表等による一次照合は未完了。",
+      "sources": [
+        {
+          "label": "ASKA本人ブログ（当日の放送予定に言及）",
+          "url": "https://aska-burnishstone.hatenablog.com/entry/2017/08/17/120504"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/341.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
     }
   ],
-  "siteVersion": "2.1.6"
+  "siteVersion": "2.1.7"
 }
