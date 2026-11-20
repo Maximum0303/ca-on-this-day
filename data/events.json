@@ -91697,7 +91697,27 @@
           "url": "https://www.nikkansports.com/entertainment/news/f-et-tp0-20141225-1413371.html"
         }
       ]
+    },
+    {
+      "id": "live-20261121-chage-thesoul-specialguest",
+      "date": "2026-11-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "theSoulライブ with SPECIAL GUEST",
+      "status": "scheduled",
+      "verification": "primary",
+      "venue": "本所地域プラザ BIG SHIP 4階 多目的ホール",
+      "prefecture": "東京都",
+      "country": "日本",
+      "startTime": "13:30",
+      "note": "theSoulの公演にSPECIAL GUESTとしてChage、十川ともじが出演予定。開場13:00／開演13:30。全席指定4,000円（税込）、定員120名。会場所在地：東京都墨田区本所1-13-4。Chage公式ファンクラブの出演告知で確認。公演実施は未確認のため開催予定として登録。",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブ equal：出演告知",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=21848"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.1.17"
+  "siteVersion": "2.1.18"
 }
