@@ -87075,7 +87075,373 @@
         }
       ],
       "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-followup-19940724-worldmusicawards",
+      "date": "1994-07-24",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ朝日「日曜ワイド CHAGE&ASKA SPECIAL Mr.ASIA 1994 The World Music Awards」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1994年モナコのWorld Music Awardsでの受賞を取り上げた特番。1993年10月のNHK BS2特集とは別の放送。放送日は二次資料によるため当時の番組表での再確認が望ましい。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/55.html"
+        },
+        {
+          "label": "参考資料（非公式・出演記録）",
+          "url": "https://song2.sakura.ne.jp/tv01.html"
+        }
+      ],
+      "broadcastStation": "テレビ朝日"
+    },
+    {
+      "id": "media-followup-20070821-double-fuji",
+      "date": "2007-08-21",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "フジテレビ「CHAGE and ASKA Concert tour 2007 DOUBLE」特別放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "フジテレビ公式の番組紹介に放送日を掲載。2007年5月24日のNHKホール公演映像を中心に構成した特番。同年8月4日のフジテレビ721放送とは放送日・放送媒体が異なる。",
+      "sources": [
+        {
+          "label": "フジテレビ公式：番組紹介",
+          "url": "https://www.fujitv.co.jp/b_hp/0821chageandaska/"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-followup-20071214-hattori",
+      "date": "2007-12-14",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ721「服部良一生誕100周年記念コンサート」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKAが参加した2007年11月1日開催のコンサートをCS放送。コンサート開催日とは別レコード。放送日は当時の放送告知・二次資料に基づく。",
+      "sources": [
+        {
+          "label": "参考資料（当時の放送案内）",
+          "url": "https://blog.livedoor.jp/denchu_music/archives/51099338.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/76.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ721"
+    },
+    {
+      "id": "media-followup-20080202-aliveinlive",
+      "date": "2008-02-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "フジテレビ721「CHAGE and ASKA Concert 2007 alive in live」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2007年の国内公演を収録したCSライブ放送。2008年4月のNHK BS-hi特番とは異なる放送として扱う。放送日は二次資料による。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/434.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ721"
+    },
+    {
+      "id": "media-followup-20080325-collabolabo05",
+      "date": "2008-03-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第5回 Chage×松浦亜弥 放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥のコラボレーション特集。2008年4月8日に始まるChageのレギュラー・ナビゲーター出演とは別の放送。",
+      "sources": [
+        {
+          "label": "参考資料（当時の視聴記録）",
+          "url": "https://greendays.blog.jp/archives/51307465.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-followup-20080425-nhk-worldpremium",
+      "date": "2008-04-25",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "NHK BS-hi「ワールドプレミアムライブ スーパーライブ CHAGE and ASKA」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "「alive in live」代々木公演の模様を中心に上海公演やインタビューを交えた特番。二次資料の複数箇所は4月25日とするが、別記述に4月24日との異同あり。当時のNHK番組表で日付を再確認する。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "参考資料（非公式・ライブ映像記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/434.html"
+        }
+      ],
+      "broadcastStation": "NHK BS-hi"
+    },
+    {
+      "id": "media-followup-20080912-apbank08",
+      "date": "2008-09-12",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビCSHD「ap bank fes '08」特別放送（ASKA出演）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2008年7月のフェスティバルでのASKA出演部分を含むライブ番組。9月12日放送は当時の告知による。10月11日のフジテレビ721放送も別途公式記録があり、放送回の同一性・再放送関係は未確認。",
+      "sources": [
+        {
+          "label": "参考資料（当時の放送告知）",
+          "url": "https://blog.excite.co.jp/natsufes-matsuri/9243771/"
+        },
+        {
+          "label": "フジテレビ公式：別日放送の番組紹介",
+          "url": "https://www.fujitv.co.jp/b_hp/081011apbank08/"
+        }
+      ],
+      "broadcastStation": "フジテレビCSHD"
+    },
+    {
+      "id": "media-followup-20081005-yuzawa",
+      "date": "2008-10-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "歌謡ポップスチャンネル「加山雄三プロデュース 第6回湯沢フィールド音楽祭2008」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2008年7月20日開催の音楽祭にChageがゲスト出演した様子を放送。開催日と放送日を区別。放送日は二次資料による。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "加山雄三公式：音楽祭開催・出演者告知",
+          "url": "https://www.kayamayuzo.com/news/detail.php?id=1208431861"
+        }
+      ],
+      "broadcastStation": "歌謡ポップスチャンネル"
+    },
+    {
+      "id": "media-followup-20081012-musiclovers",
+      "date": "2008-10-12",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日本テレビ「Music Lovers」ASKA出演回 放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKAが出演したスタジオライブ回。2008年10月12日を二次資料と当時の視聴記録で確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送回一覧）",
+          "url": "https://www.wikipedia-is-dead.com/wiki/Music%20Lovers"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "日本テレビ"
+    },
+    {
+      "id": "media-followup-20081116-musyujin",
+      "date": "2008-11-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ東京「みゅーじん」Chage特集 放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのソロ活動への密着特集。放送日と出演者を番組放送回一覧・二次資料で照合。",
+      "sources": [
+        {
+          "label": "参考資料（番組放送回一覧）",
+          "url": "https://ja.wikipedia.org/wiki/みゅーじん"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "テレビ東京"
+    },
+    {
+      "id": "media-followup-20081130-kogarashi",
+      "date": "2008-11-30",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「ライブW 木枯らしのコンチェルト」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2008年11月25日の東京国際フォーラムでの音楽イベントを編集した放送。Chageが出演。放送日・時刻は当時の報道資料で確認。",
+      "sources": [
+        {
+          "label": "チケットぴあ：当時の放送案内",
+          "url": "https://ticket-news.pia.jp/pia/news.do?newsCd=200811280005"
+        },
+        {
+          "label": "マイナビニュース：当時の番組案内",
+          "url": "https://news.mynavi.jp/article/20081128-kogarashi/"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-followup-20081228-asiafestival",
+      "date": "2008-12-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "毎日放送「大阪アジア音楽祭2008 ～谷村新司 アジアンポップス夢の共演～」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2008年11月の大阪アジア音楽祭を紹介する番組。Chage出演。放送日は二次資料で確認。出演したコンサート自体の開催日とは別記録。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "Chage公式：2008年バイオグラフィー（音楽祭出演）",
+          "url": "https://chage.jp/biography/2008.php"
+        }
+      ],
+      "broadcastStation": "毎日放送"
+    },
+    {
+      "id": "media-followup-20090806-aska-walk",
+      "date": "2009-08-06",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "WOWOW「ASKA CONCERT TOUR 2009 WALK」特別放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "WOWOWの当時の公式発表で2009年8月6日21時からの放送を確認。NHKホールでの6月28日の公演映像を中心とする構成。ライブ開催日とは別レコード。",
+      "sources": [
+        {
+          "label": "WOWOWプレスリリース（PR TIMES）",
+          "url": "https://prtimes.jp/main/html/rd/p/000000049.000001355.html"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-followup-20100210-songs123",
+      "date": "2010-02-10",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "NHK「SONGS」第123回 ASKA特集 放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "オリコンのテレビ出演情報では2010年2月10日23:00〜23:30と記載。別の二次資料は2月11日とするため、日付の違いは引き続きNHKの当時の番組表で原典確認待ち。",
+      "sources": [
+        {
+          "label": "オリコン：ASKAテレビ出演情報（ニホンモニター提供）",
+          "url": "https://www.oricon.co.jp/prof/245800/tv/"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        }
+      ],
+      "broadcastStation": "NHK総合"
+    },
+    {
+      "id": "media-followup-20100328-hibisokuzeku",
+      "date": "2010-03-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS-TBS「Chageドキュメント2009～日々即是空～」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2010年3月18日発売の同名映像作品を紹介するテレビ特番。映像ソフト発売日とは別レコード。放送日は二次資料による。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        },
+        {
+          "label": "Chage公式：映像作品情報",
+          "url": "https://chage.jp/discography/chage/bd/010.php"
+        }
+      ],
+      "broadcastStation": "BS-TBS"
+    },
+    {
+      "id": "media-followup-20100919-kanlive",
+      "date": "2010-09-19",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "BSフジ「KAN BAND LIVE TOUR 2010 ルックスだけでひっぱって」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "KANのライブでのASKAゲスト出演映像とコメント。BSフジの2010年9月19日放送は二次資料による。一方フジテレビ公式には9月18日深夜（27:20〜）の放送記録があり、別日・放送媒体の区別を要する。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        },
+        {
+          "label": "フジテレビ公式：9月18日深夜の番組紹介",
+          "url": "https://www.fujitv.co.jp/b_hp/100918KAN/"
+        }
+      ],
+      "broadcastStation": "BSフジ"
+    },
+    {
+      "id": "media-followup-20101010-mother-earth",
+      "date": "2010-10-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "東海テレビ「Thanksgiving to Mother Earth 森への恩返しコンサート」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2010年9月26日に開催された音楽イベントを扱う特番。Chage出演。放送日は二次資料による。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/288.html"
+        },
+        {
+          "label": "Chage公式：2010年バイオグラフィー（イベント出演）",
+          "url": "https://chage.jp/biography/2010.php"
+        }
+      ],
+      "broadcastStation": "東海テレビ"
+    },
+    {
+      "id": "media-followup-20250504-7stars05",
+      "date": "2025-05-04",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "WOWOW「7 S.T.A.R.S. ～7つの答え～」第5話（ASKA出演）放送・配信",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "佐藤アツヒロがASKAを訪問し、楽曲提供にまつわる思いを語るドキュメンタリー第5話。WOWOWの発表を報じる当時の番組案内で2025年5月4日20時放送・配信を確認。",
+      "sources": [
+        {
+          "label": "WOWOW公式：番組紹介",
+          "url": "https://www.wowow.co.jp/music/7stars/"
+        },
+        {
+          "label": "マイナビニュース：WOWOW発表に基づく放送案内",
+          "url": "https://news.mynavi.jp/article/20250408-3177443/"
+        }
+      ],
+      "broadcastStation": "WOWOWライブ"
     }
   ],
-  "siteVersion": "2.1.0"
+  "siteVersion": "2.1.1"
 }
