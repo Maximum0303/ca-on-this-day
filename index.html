@@ -47,6 +47,7 @@
 <script defer src="ca-section-share-v227.js?v=2.2.7"></script>
 <script defer src="ca-share-unify-v228.js?v=2.2.8"></script>
 <script defer src="ca-month-share-v229.js?v=2.2.9"></script>
+<script defer src="ca-review-guide-v2210.js?v=2.2.10"></script>
 <style id="ca-year-only-v2029-style">
 /* YEAR_ONLY_RECORDS_V2029 */
 .year-only-section{margin:32px 0 38px;padding:26px clamp(17px,3vw,32px);border:1px solid rgba(232,188,115,.33);background:linear-gradient(135deg,rgba(232,188,115,.08),rgba(30,46,75,.75));border-radius:18px}
@@ -153,7 +154,7 @@
     var version=archive.siteVersion||archive.version||'1.8.2';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.2.2.9 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.2.2.10 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();
