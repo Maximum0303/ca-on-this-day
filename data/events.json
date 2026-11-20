@@ -91613,7 +91613,49 @@
         }
       ],
       "broadcastStation": "フジテレビ721"
+    },
+    {
+      "id": "media-v218-20111005-apbank-fes11-fuji",
+      "date": "2011-10-05",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "フジテレビ「ap bank fes ’11 スペシャルエディション」ASKA出演映像放送",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "フジテレビ（関東ローカル）",
+      "note": "フジテレビ公式の放送日表記は2011年10月4日（火）25:55〜26:55。暦日では10月5日（水）1:55〜2:55であるため、本記録は実際の暦日の10月5日に登録。フジテレビ公式番組ページの出演者欄にASKAあり。2011年9月16日のフジテレビNEXT「4時間スペシャル」とは別の地上波60分版。",
+      "sources": [
+        {
+          "label": "フジテレビ公式番組情報（2011年10月4日表記・ASKA出演）",
+          "url": "https://www.fujitv.co.jp/b_hp/111004apbank/index.html"
+        },
+        {
+          "label": "ap bank fes 2011公式（10月4日25:55〜26:55の放送告知）",
+          "url": "https://fes.apbank.jp/11/top/index.php"
+        }
+      ]
+    },
+    {
+      "id": "media-v218-20121217-ex-lounge-aska",
+      "date": "2012-12-17",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TBS「EX-LOUNGE」ASKAゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "broadcastStation": "TBS系列",
+      "note": "オリコンのASKA出演履歴（ニホンモニター提供）に2012年12月17日（月）23:50〜翌0:20のTBS系列「EX-LOUNGE」を記載。TBS番組公式サイトは番組自体を確認できるが当日のASKA出演を直接示すページは未確認のため、二次資料による確認とする。",
+      "sources": [
+        {
+          "label": "オリコン：ASKAテレビ出演情報（ニホンモニター提供）",
+          "url": "https://www.oricon.co.jp/prof/245800/tv/"
+        },
+        {
+          "label": "TBS公式番組案内（番組概要）",
+          "url": "https://www.tbs.co.jp/ex-lounge/"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.1.15"
+  "siteVersion": "2.1.16"
 }
