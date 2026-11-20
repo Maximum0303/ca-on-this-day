@@ -18,6 +18,121 @@
           "verification": "secondary"
         }
       ]
+    },
+    {
+      "date": "2026-11-20",
+      "fromVersion": "2.1.0",
+      "toVersion": "2.1.0",
+      "beforeCount": 4134,
+      "afterCount": 4149,
+      "migration": false,
+      "changes": [
+        {
+          "action": "add",
+          "id": "media-followup-19930827-mstation-300",
+          "date": "1993-08-27",
+          "title": "テレビ「ミュージックステーション」300回記念スペシャル出演",
+          "verification": "primary"
+        },
+        {
+          "action": "add",
+          "id": "media-followup-19931025-nhk-mrasia-monaco",
+          "date": "1993-10-25",
+          "title": "NHK BS2「CHAGE&ASKAスペシャル -Mr.ASIA- 世界音楽祭 in MONACO」放送",
+          "verification": "secondary"
+        },
+        {
+          "action": "add",
+          "id": "media-followup-19931026-nhk-mrasia-trajectory",
+          "date": "1993-10-26",
+          "title": "NHK BS2「CHAGE&ASKAスペシャル -Mr.ASIA- ’92〜’93 CHAGE&ASKAの軌跡」放送",
+          "verification": "secondary"
+        },
+        {
+          "action": "add",
+          "id": "media-followup-19931126-mstation",
+          "date": "1993-11-26",
+          "title": "テレビ「ミュージックステーション」出演",
+          "verification": "primary"
+        },
+        {
+          "action": "add",
+          "id": "media-followup-19931223-merry-christmas",
+          "date": "1993-12-23",
+          "title": "日本テレビ「CHAGE&ASKA 史上最大のメリークリスマス」放送",
+          "verification": "secondary"
+        },
+        {
+          "action": "add",
+          "id": "media-followup-19931224-mstation-superlive",
+          "date": "1993-12-24",
+          "title": "テレビ「ミュージックステーションスペシャル スーパーライブ93」に映像登場",
+          "verification": "primary"
+        },
+        {
+          "action": "add",
+          "id": "media-followup-19931225-nhk-54min-shock",
+          "date": "1993-12-25",
+          "title": "NHK「CHAGE&ASKAスペシャル 54分の衝撃」放送",
+          "verification": "secondary"
+        },
+        {
+          "action": "add",
+          "id": "media-followup-19940805-mstation",
+          "date": "1994-08-05",
+          "title": "テレビ「ミュージックステーション」出演",
+          "verification": "primary"
+        },
+        {
+          "action": "add",
+          "id": "media-followup-19940819-mstation",
+          "date": "1994-08-19",
+          "title": "テレビ「ミュージックステーション」出演",
+          "verification": "primary"
+        },
+        {
+          "action": "add",
+          "id": "media-followup-19940823-wowow-15th-1",
+          "date": "1994-08-23",
+          "title": "WOWOW「CHAGE&ASKA 15th Anniversary Special —起—」放送",
+          "verification": "secondary"
+        },
+        {
+          "action": "add",
+          "id": "media-followup-19940824-wowow-15th-2",
+          "date": "1994-08-24",
+          "title": "WOWOW「CHAGE&ASKA 15th Anniversary Special —承—」放送",
+          "verification": "secondary"
+        },
+        {
+          "action": "add",
+          "id": "media-followup-19940825-wowow-15th-3",
+          "date": "1994-08-25",
+          "title": "WOWOW「CHAGE&ASKA 15th Anniversary Special —転—」放送",
+          "verification": "secondary"
+        },
+        {
+          "action": "add",
+          "id": "media-followup-19940902-mstation-15th-ca",
+          "date": "1994-09-02",
+          "title": "テレビ「ミュージックステーション」CHAGE&ASKA 15周年特集出演",
+          "verification": "primary"
+        },
+        {
+          "action": "add",
+          "id": "media-followup-19940902-mstation-15th-mm",
+          "date": "1994-09-02",
+          "title": "テレビ「ミュージックステーション」15周年特集にMULTI MAX出演",
+          "verification": "primary"
+        },
+        {
+          "action": "add",
+          "id": "media-followup-19941014-mstation-mm",
+          "date": "1994-10-14",
+          "title": "テレビ「ミュージックステーション」にMULTI MAX出演",
+          "verification": "primary"
+        }
+      ]
     }
   ]
 }
