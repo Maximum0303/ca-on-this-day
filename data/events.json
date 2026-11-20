@@ -86594,7 +86594,151 @@
       ],
       "broadcastStation": "FOD（配信）",
       "startTime": "20:00"
+    },
+    {
+      "id": "media-tieup-1982-0522-shinku-na-dourin",
+      "date": "1982-05-22",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "映画『真紅な動輪』劇場公開（主題歌「熱い想い」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1982年5月22日の日本劇場公開を作品開始日として記録。主題歌はCHAGE and ASKA「熱い想い」で、楽曲の起用は公式ディスコグラフィーに記載。公開日は映画情報資料による確認のため、一次資料による公開日確認は継続。1982年4月25日のシングル発売日、5月25日のアルバム発売日とは別記録。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式DISCOGRAPHY（タイアップ）",
+          "url": "https://www.chage-aska.net/discography/single/atsui_omoi.php"
+        },
+        {
+          "label": "参考資料（非公式・映画公開日）",
+          "url": "https://eiga.com/movie/74828/"
+        }
+      ]
+    },
+    {
+      "id": "media-tieup-1988-0112-abunai-zakkyo-couple",
+      "date": "1988-01-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ドラマ『あぶない雑居カップル』放送開始（「恋人はワイン色」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "テレビ朝日系ドラマの初回放送日1988年1月12日を記録。CHAGE and ASKA「恋人はワイン色」がテーマ曲に起用されたことは公式ディスコグラフィーで確認。発売日（1988年2月5日）と作品開始日を区別し、曲が初回から使用されたかの原映像での確認は保留。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式DISCOGRAPHY（タイアップ）",
+          "url": "https://www.chage-aska.net/discography/single/koibito_ha_wine_iro.php"
+        },
+        {
+          "label": "参考資料（非公式・番組放送期間）",
+          "url": "https://straw-wara.net/today03/tv-0112.html?PageSpeed=noscript"
+        }
+      ]
+    },
+    {
+      "id": "media-tieup-1991-0930-haikei-oguricap",
+      "date": "1991-09-30",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "単発ドラマ『拝啓オグリキャップ様』初回放送（主題歌「砂時計のくびれた場所」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1991年9月30日、TBS系「月曜ドラマスペシャル」での初回放送。CHAGE and ASKA「砂時計のくびれた場所」が主題歌だったことは放送事業者の番組紹介で確認。初回放送の年月日は番組表を再構成した資料によるため、当時の番組表原典は別途照合。2026年の再放送日とは別。",
+      "sources": [
+        {
+          "label": "ホームドラマチャンネル（主題歌・当時の番組）",
+          "url": "https://www.homedrama-ch.com/program/107933"
+        },
+        {
+          "label": "参考資料（非公式・1991年放送日一覧）",
+          "url": "https://ja.wikid.org/%E6%9C%88%E6%9B%9C%E3%83%89%E3%83%A9%E3%83%9E%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB"
+        }
+      ]
+    },
+    {
+      "id": "media-tieup-1991-1221-jingi-multimax",
+      "date": "1991-12-21",
+      "artist": "MULTI MAX",
+      "category": "media",
+      "title": "映画『仁義 JINGI』公開（主題歌「LOVE」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1991年12月21日の劇場公開を記録。CHAGE'S SUPER BAND MULTI MAX／MULTI MAXの「LOVE」が主題歌。発売日1991年11月6日のシングルとは別記録。作品名が類似する後年のオリジナルビデオシリーズおよび続編とは区別する。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・映画公開日）",
+          "url": "https://eiga.com/movie/37229/"
+        },
+        {
+          "label": "楽譜出版・商品案内（主題歌）",
+          "url": "https://www.at-elise.com/elise/JPDPGK01888/"
+        }
+      ]
+    },
+    {
+      "id": "media-tieup-1993-1229-furikaereba-last-battle",
+      "date": "1993-12-29",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ドラマSP『振り返れば奴がいる 最後の戦い』初回放送（「なぜに君は帰らない」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "1993年12月29日に放送された単発スペシャル版の記録。連続ドラマ（同年1月13日開始）とは別作品。エンディングの「なぜに君は帰らない」は二次資料で確認したが、当時の番組クレジット等による直接確認は保留。",
+      "sources": [
+        {
+          "label": "Apple TV（作品・放送日）",
+          "url": "https://tv.apple.com/jp/episode/%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8C%E3%81%AF%E5%A5%B4%E3%81%8B%E3%81%84%E3%82%8B-%E6%9C%80%E5%BE%8C%E3%81%AE%E6%88%A6%E3%81%84/umc.cmc.2ik6dr7vbq3up9fs060zp5khr"
+        },
+        {
+          "label": "参考資料（非公式・楽曲使用）",
+          "url": "https://jpop.ninpou.jp/key/hurikaerebayatu.html"
+        }
+      ]
+    },
+    {
+      "id": "media-tieup-1999-1215-kagayakeru-toki",
+      "date": "1999-12-15",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "単発ドラマ『輝ける瞬間（とき）』初回放送（主題歌「僕がここに来る前に」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "名古屋テレビ制作・テレビ朝日系列で1999年12月15日放送の沢田教一を描く単発ドラマ。公式アルバム『NO DOUBT』の作品情報で「僕がここに来る前に」をドラマ主題歌として確認。放送局側の当時の案内には『輝ける時間（とき）』という表記もあるため、作品タイトルの原本表記を別途点検する。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式DISCOGRAPHY（タイアップ）",
+          "url": "https://www.chage-aska.net/discography/album/no_doubt.php"
+        },
+        {
+          "label": "岩手朝日テレビ（当時の番組放送案内）",
+          "url": "https://www.iat.co.jp/banshin/11%E6%9C%88%E7%AC%AC33%E5%9B%9E/"
+        }
+      ]
+    },
+    {
+      "id": "media-tieup-2023-1201-hon-wo-tsuzuru-preview",
+      "date": "2023-12-01",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "映画『本を綴る』先行劇場公開（主題歌「I feel so good」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "2023年12月1日に栃木県のフォーラム那須塩原で開始した一般向け有料の先行劇場公開を、最初の公開日として採用。ASKA「I feel so good」が映画主題歌であることは先行公開前の発表で確認。全国順次公開は2024年10月5日開始で、初公開日とは区別する。映画の撮影年・主題歌の発売日とは別記録。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・先行上映開始日）",
+          "url": "https://www.shimotsuke.co.jp/articles/-/822962"
+        },
+        {
+          "label": "主題歌・先行公開発表",
+          "url": "https://news.joysound.com/article/548123"
+        },
+        {
+          "label": "参考資料（非公式・全国公開日）",
+          "url": "https://eiga.com/movie/100674/"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.0.54"
+  "siteVersion": "2.0.55"
 }
