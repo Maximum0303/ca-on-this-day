@@ -88156,7 +88156,758 @@
         }
       ],
       "broadcastStation": "WOWOWライブ"
+    },
+    {
+      "id": "media-v215-20071210-ekista",
+      "date": "2007-12-10",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "UHB北海道文化放送「えき☆スタ発」CHAGE and ASKAゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "北海道のテレビ番組でCHAGE and ASKAがゲスト出演。別番組「のりゆきのトークDE北海道」と同じ日だが、別の放送記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/76.html"
+        }
+      ],
+      "broadcastStation": "北海道文化放送（UHB）"
+    },
+    {
+      "id": "media-v215-20080414-zoom-in-aska",
+      "date": "2008-04-14",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日本テレビ「ズームイン!!SUPER」ASKAインタビュー放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKAシンフォニックコンサート「SCENE」プレビューの模様とASKAのインタビューが紹介されたとの記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "日本テレビ"
+    },
+    {
+      "id": "media-v215-20080422-collabolabo-07",
+      "date": "2008-04-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第7回 放送（頭脳警察×大槻ケンヂ）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第7回。特集・共演出演者：頭脳警察×大槻ケンヂ。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20080513-collabolabo-08",
+      "date": "2008-05-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第8回 放送（SONG FOR MEMORIES・山本潤子・細坪基佳ほか）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第8回。特集・共演出演者：SONG FOR MEMORIES・山本潤子・細坪基佳ほか。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20080527-collabolabo-09",
+      "date": "2008-05-27",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第9回 放送（島谷ひとみ×原田真二）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第9回。特集・共演出演者：島谷ひとみ×原田真二。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20080610-collabolabo-10",
+      "date": "2008-06-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第10回 放送（谷村新司×渡辺美里）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第10回。特集・共演出演者：谷村新司×渡辺美里。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20080624-collabolabo-11",
+      "date": "2008-06-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第11回 放送（谷村新司×Chage・松浦亜弥）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第11回。特集・共演出演者：谷村新司×Chage・松浦亜弥。Chageと松浦亜弥が谷村新司と共演した「秋止符」「冬の稲妻」が放送されたとの記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20080708-collabolabo-12",
+      "date": "2008-07-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第12回 放送（ジェロ×宇崎竜童）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第12回。特集・共演出演者：ジェロ×宇崎竜童。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20080722-collabolabo-13",
+      "date": "2008-07-22",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第13回 放送（秋川雅史×手嶌葵）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第13回。特集・共演出演者：秋川雅史×手嶌葵。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20080805-collabolabo-14",
+      "date": "2008-08-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第14回 放送（夏川りみ×南こうせつ）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第14回。特集・共演出演者：夏川りみ×南こうせつ。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20080807-iitomo-chage",
+      "date": "2008-08-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "フジテレビ「笑っていいとも！」Chageテレホンショッキング出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageがテレホンショッキングにゲスト出演。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "media-v215-20080819-collabolabo-15",
+      "date": "2008-08-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第15回 放送（中村中×奥村初音）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第15回。特集・共演出演者：中村中×奥村初音。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20080909-collabolabo-16",
+      "date": "2008-09-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第16回 放送（森山直太朗×堀内孝雄）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第16回。特集・共演出演者：森山直太朗×堀内孝雄。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20080923-collabolabo-17",
+      "date": "2008-09-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第17回 放送（AI×Char）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第17回。特集・共演出演者：AI×Char。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20081001-duomo",
+      "date": "2008-10-01",
+      "artist": "Chage",
+      "category": "media",
+      "title": "KBCテレビ「DUOMO」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "福岡の番組「DUOMO」にChageがゲスト出演。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "九州朝日放送（KBC）"
+    },
+    {
+      "id": "media-v215-20081003-onryu",
+      "date": "2008-10-03",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ東京「音流～ON RYU～」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "テレビ東京"
+    },
+    {
+      "id": "media-v215-20081005-mashup-onou",
+      "date": "2008-10-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "仙台放送ほか「mashup! 音王（MUSIO）」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "仙台放送ほか"
+    },
+    {
+      "id": "media-v215-20081007-kokoro-no-tabi",
+      "date": "2008-10-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "関西テレビ「ココロの旅」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "関西テレビ"
+    },
+    {
+      "id": "media-v215-20081009-narutomo",
+      "date": "2008-10-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "読売テレビ「なるトモ！」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "読売テレビ"
+    },
+    {
+      "id": "media-v215-20081010-chichin-puipui",
+      "date": "2008-10-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "毎日放送「ちちんぷいぷい」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "毎日放送（MBS）"
+    },
+    {
+      "id": "media-v215-20081011-merenge",
+      "date": "2008-10-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "日本テレビ「メレンゲの気持ち」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。「おはようサタデー」と同日だが別の番組。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "日本テレビ"
+    },
+    {
+      "id": "media-v215-20081011-ohayo-saturday",
+      "date": "2008-10-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "NHK「おはようサタデー」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。詳細な番組枠・放送地域は一次資料確認待ち。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "NHK（詳細未確認）"
+    },
+    {
+      "id": "media-v215-20081014-collabolabo-18",
+      "date": "2008-10-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第18回 放送（和田アキ子×大友康平）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第18回。特集・共演出演者：和田アキ子×大友康平。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20081016-pikan-tv",
+      "date": "2008-10-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "東海テレビ「ぴーかんテレビ」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "東海テレビ"
+    },
+    {
+      "id": "media-v215-20081018-take-danchi",
+      "date": "2008-10-18",
+      "artist": "Chage",
+      "category": "media",
+      "title": "RKBテレビ「たけ団地」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "RKB毎日放送"
+    },
+    {
+      "id": "media-v215-20081026-a-ha-n",
+      "date": "2008-10-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ愛知「a-ha-N」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "テレビ愛知"
+    },
+    {
+      "id": "media-v215-20081028-collabolabo-19",
+      "date": "2008-10-28",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第19回 放送（STARDUST REVUE×馬場俊英）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第19回。特集・共演出演者：STARDUST REVUE×馬場俊英。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20081106-sugotere",
+      "date": "2008-11-06",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "沖縄ローカル番組「スゴてれ」ASKAインタビュー放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "ASKAのシンフォニックコンサートに関するインタビューや上海・大阪公演映像、琉球交響楽団へのメッセージなどを放送したとの記録。放送局の正式表記は要確認。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "沖縄県内テレビ局（要確認）"
+    },
+    {
+      "id": "media-v215-20081111-collabolabo-20",
+      "date": "2008-11-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第20回 放送（ゴスペラーズ×Skoop On Somebody）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第20回。特集・共演出演者：ゴスペラーズ×Skoop On Somebody。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20081111-nandemo-kanteidan",
+      "date": "2008-11-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "テレビ東京「開運！なんでも鑑定団」Chageゲスト出演",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageのゲスト出演記録。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        }
+      ],
+      "broadcastStation": "テレビ東京"
+    },
+    {
+      "id": "media-v215-20081125-collabolabo-21",
+      "date": "2008-11-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第21回 放送（alan・高杉さと美・SOFFet）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第21回。特集・共演出演者：alan・高杉さと美・SOFFet。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20081209-collabolabo-22",
+      "date": "2008-12-09",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第22回 放送（jealkb×相川七瀬）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第22回。特集・共演出演者：jealkb×相川七瀬。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20081216-collabolabo-23",
+      "date": "2008-12-16",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第23回 放送（リクエストスペシャル）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第23回。特集・共演出演者：リクエストスペシャル。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20090113-collabolabo-24",
+      "date": "2009-01-13",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第24回 放送（TOSHI×安倍なつみ）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第24回。特集・共演出演者：TOSHI×安倍なつみ。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20090127-collabolabo-25",
+      "date": "2009-01-27",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第25回 放送（TRF×モーニング娘。）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第25回。特集・共演出演者：TRF×モーニング娘。。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20090210-collabolabo-26",
+      "date": "2009-02-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第26回 放送（大黒摩季×JAYWALK）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第26回。特集・共演出演者：大黒摩季×JAYWALK。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20090224-collabolabo-27",
+      "date": "2009-02-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第27回 放送（ZAZEN BOYS×ムッシュかまやつ）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第27回。特集・共演出演者：ZAZEN BOYS×ムッシュかまやつ。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20090310-collabolabo-28",
+      "date": "2009-03-10",
+      "artist": "Chage",
+      "category": "media",
+      "title": "WOWOW「コラボ☆ラボ～夢の音楽工房～」第28回 放送（松浦亜弥 コラボスペシャル）",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "Chageと松浦亜弥がウォッチャーを務めたWOWOW音楽番組の第28回。特集・共演出演者：松浦亜弥 コラボスペシャル。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY（レギュラー番組の出演記録）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "broadcastStation": "WOWOW"
+    },
+    {
+      "id": "media-v215-20090625-taiwan-interview",
+      "date": "2009-06-25",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "台湾テレビ番組「佼个朋友吧」ASKAインタビュー放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "台湾のテレビ番組にASKAのインタビューが放送されたとの記録。原題の字体と放送局名は一次資料確認待ち。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/78.html"
+        }
+      ],
+      "broadcastStation": "台湾テレビ（局詳細未確認）"
     }
   ],
-  "siteVersion": "2.1.4"
+  "siteVersion": "2.1.5"
 }
