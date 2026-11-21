@@ -104,10 +104,11 @@
     return match?`${pad(Number(match[1]))}-${pad(Number(match[2]))}`:'';
   };
   const noteMarkup=e=>{
+    const description=String(e.description||'');
     const note=String(e.note||'');
-    if (!note) return '';
-    if (note.length<=150) return `<p class="ca39-day-note">${esc(note)}</p>`;
-    return `<details class="ca39-note"><summary>備考を開く（${note.length}文字）</summary><p>${esc(note)}</p></details>`;
+    const reader=description?`<p class="ca39-day-note">${esc(description)}</p>`:'';
+    const history=note?`<details class="ca39-note ca23-audit"><summary>調査・確認記録（元の備考）</summary><p>${esc(note)}</p></details>`:'';
+    return reader+history;
   };
   const dayCard=e=>{
     const venue=[e.prefecture,e.venue].filter(Boolean).join('・');

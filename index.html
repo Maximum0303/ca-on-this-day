@@ -31,9 +31,9 @@
 <link rel="stylesheet" href="ca-nav-v210.css">
 <link rel="stylesheet" href="ca-mobile-v211.css">
 <link rel="stylesheet" href="ca-calendar-v212.css?v=2.1.2">
-<script defer src="data/events.js"></script>
-<script defer src="app.js"></script>
-<script defer src="ca-ver39.js"></script>
+<script defer src="data/events.js?v=2.2.0"></script>
+<script defer src="app.js?v=2.3.0"></script>
+<script defer src="ca-ver39.js?v=2.3.0"></script>
 <script defer src="ca-ver40.js"></script>
 <script defer src="data/review-followup.js?v=2.2.11"></script>
 <script defer src="ca-ver41.js?v=2.2.12"></script>
@@ -75,6 +75,14 @@
 .ca-release-works strong{color:#ffe1a6}
 .ca-release-summary .ca-release-list dd{white-space:pre-wrap;overflow-wrap:anywhere}
 @media(max-width:600px){.ca-release-works{font-size:.92rem;padding:9px 11px}}
+</style>
+<style id="ca23-audit-style">
+.ca23-audit{margin:12px 0 16px;border:1px solid rgba(220,230,247,.24);border-radius:10px;background:rgba(20,33,56,.5);padding:0 12px;overflow-wrap:anywhere}
+.ca23-audit>summary{cursor:pointer;padding:10px 4px;color:#f6d99f;font-size:13px;font-weight:700;min-height:40px}
+.ca23-audit>summary:hover{color:#fff1d3}
+.ca23-audit p,.ca23-audit .ca-detail-note{white-space:pre-wrap;overflow-wrap:anywhere;font-size:13px;line-height:1.8;color:#dbe6f5;padding:4px 6px 13px;margin:0}
+.ca23-audit:focus-within{border-color:#d9b774}
+.ca-detail-fields dd{white-space:pre-wrap;overflow-wrap:anywhere}
 </style>
 </head>
 <body>
@@ -208,11 +216,12 @@ document.addEventListener('DOMContentLoaded',function(){
  [e.artist,cats[e.category]||e.category].filter(Boolean).forEach(v=>chips.append(node('span','ca-detail-chip',v)));paper.append(chips);
  const place=[e.prefecture,e.venue].filter(Boolean).join('・');if(place)paper.append(node('p','ca-detail-place',place));
  const part=title=>{const s=node('section','ca-detail-section');s.append(node('h2','',title));paper.append(s);return s;};
- if(e.note)part('備考').append(node('div','ca-detail-note',e.note));
- const candidates=[['releaseTitle','作品名'],['format','規格'],['mediaFormat','媒体・規格'],['releaseFormat','発売形態'],['catalogNumber','規格品番'],['catalogNo','規格品番'],['catalogCode','規格品番'],['productNumber','規格品番'],['label','レーベル'],['recordLabel','レーベル'],['publisher','発売元'],['edition','仕様・版'],['releaseType','発売区分'],['variants','別仕様'],['editions','別仕様'],['otherFormats','別規格'],['formats','規格一覧'],['releaseVariants','発売仕様'],['specifications','仕様'],['productCodes','規格品番一覧'],['tourId','ツアーID'],['performanceNo','公演番号'],['broadcastStation','放送局'],['status','記録の状態'],['verification','資料の確認区分']];
+ if(e.description)part('この日の出来事').append(node('div','ca-detail-note',e.description));
+ if(e.note){const details=node('details','ca23-audit');details.append(node('summary','','元の備考を開く（調査・確認記録）'),node('div','ca-detail-note',e.note));part('調査・確認記録').append(details);}
+ const candidates=[['releaseTitle','作品名'],['releaseTitles','対象作品'],['releaseType','発売区分'],['format','規格'],['formats','規格一覧'],['mediaFormat','媒体・規格'],['releaseFormat','発売形態'],['catalogNumber','規格品番'],['catalogNo','規格品番（別欄）'],['catalogCode','規格品番（別欄）'],['productNumber','製品番号'],['catalogNumberStatus','規格品番の調査状況'],['catalogNumberStatusNote','規格品番の照合メモ'],['catalogNumberVerification','規格品番の根拠区分'],['catalogNumberSourceUrl','規格品番の根拠URL'],['label','レーベル'],['recordLabel','レーベル'],['publisher','発売元'],['edition','仕様・版'],['releaseEditions','版・規格の一覧'],['variants','別仕様'],['editions','別仕様'],['otherFormats','別規格'],['releaseVariants','発売仕様'],['specifications','仕様'],['productCodes','規格品番一覧'],['tourId','ツアーID'],['performanceNo','公演番号'],['startTime','開演時刻'],['session','昼夜・公演区分'],['broadcastStation','放送局'],['status','記録の状態'],['verification','資料の確認区分']];
  const fmt=v=>v==null?'':Array.isArray(v)?v.map(fmt).filter(Boolean).join('\n'):typeof v==='object'?Object.entries(v).map(([k,w])=>k+'：'+fmt(w)).join('\n'):String(v);
  const fields=candidates.map(([k,l])=>[l,fmt(e[k])]).filter(([,v])=>v.trim());
- if(fields.length){const dl=node('dl','ca-detail-fields');fields.forEach(([k,v])=>dl.append(node('dt','',k),node('dd','',v)));part('記録情報').append(dl);}
+ if(fields.length){const dl=node('dl','ca-detail-fields');fields.forEach(([k,v])=>dl.append(node('dt','',k),node('dd','',v)));part(e.category==='release'?'作品・規格情報':'記録情報').append(dl);}
  const sources=node('div','ca-detail-sources');
  (Array.isArray(e.sources)?e.sources:[]).forEach(s=>{
   if(!s||!s.url)return;let u;try{u=new URL(String(s.url));}catch(_){return;}if(u.protocol!=='https:')return;
