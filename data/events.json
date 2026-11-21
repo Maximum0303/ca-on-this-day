@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2027年の公式発表済み予定を追加。開催予定の記録は日付経過のみで開催済みと断定せず、延期・中止と区別して表示します。既存の記録の確認日・履歴はそのまま保存しています。",
-  "lastUpdated": "2026-11-21",
+  "lastUpdated": "2026-11-22",
   "events": [
     {
       "id": "milestone-1978-popcon15-formation-yearonly",
@@ -85940,7 +85940,7 @@
       "artist": "ASKA",
       "category": "live",
       "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
-      "status": "scheduled",
+      "status": "recorded",
       "verification": "primary",
       "tourId": "aska-lock-on-2026-2027",
       "venue": "松山市民会館 大ホール",
@@ -85948,14 +85948,18 @@
       "country": "日本",
       "performanceNo": 15,
       "startTime": "17:30",
-      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演17:30。現時点では開催予定であり、開催済みを意味しない。",
+      "note": "【開催確認・2026年11月22日】11月21日の松山公演は実施済み。ASKA本人が同日21:33付の公式ブログ「松山公演終了」で開催を報告。17年ぶりの松山公演だったと記載。\n【過去の登録履歴（開催予定時）】【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演17:30。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
           "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        },
+        {
+          "label": "ASKA公式ブログ：松山公演終了（2026年11月21日）",
+          "url": "https://www.fellows.tokyo/blog/detail/1590/"
         }
       ],
-      "description": "2026年11月21日、ASKAの「ASKA CONCERT TOUR 2026-2027 “Lock-on”」は、松山市民会館 大ホールで開催される予定。\nこのツアーの第15公演にあたる。"
+      "description": "2026年11月21日、ASKAの全国ツアー「ASKA CONCERT TOUR 2026-2027 “Lock-on”」松山公演が、愛媛県の松山市民会館 大ホールで開催された。開演17:30。ASKAは同日夜、公式ブログ「松山公演終了」で公演を終えたことを報告。松山での公演は17年ぶりで、会場からの長い拍手が印象に残ったと振り返っている。このツアーの第15公演にあたる。"
     },
     {
       "id": "v16-0016",
@@ -96095,21 +96099,25 @@
       "artist": "Chage",
       "category": "live",
       "title": "theSoulライブ with SPECIAL GUEST",
-      "status": "scheduled",
+      "status": "recorded",
       "verification": "primary",
       "venue": "本所地域プラザ BIG SHIP 4階 多目的ホール",
       "prefecture": "東京都",
       "country": "日本",
       "startTime": "13:30",
-      "note": "theSoulの公演にSPECIAL GUESTとしてChage、十川ともじが出演予定。開場13:00／開演13:30。全席指定4,000円（税込）、定員120名。会場所在地：東京都墨田区本所1-13-4。Chage公式ファンクラブの出演告知で確認。公演実施は未確認のため開催予定として登録。",
+      "note": "【開催確認・2026年11月22日】当該公演について利用者から実施報告があり、Chage公式スタッフの当日X投稿URLが提示された。X投稿本文は取得環境の制限により直接照合できていないため、内容の引用・歌唱曲等の追記はしていない。公式の事前出演告知および会場公演案内と開催日・出演者は一致。\n【過去の登録履歴（開催予定時）】theSoulの公演にSPECIAL GUESTとしてChage、十川ともじが出演予定。開場13:00／開演13:30。全席指定4,000円（税込）、定員120名。会場所在地：東京都墨田区本所1-13-4。Chage公式ファンクラブの出演告知で確認。公演実施は未確認のため開催予定として登録。",
       "sources": [
         {
           "label": "Chage公式ファンクラブ equal：出演告知",
           "url": "https://fanclub.chage.jp/sitenews_det.php?id=21848"
+        },
+        {
+          "label": "Chage公式スタッフX（2026年11月21日投稿・本文の直接照合待ち）",
+          "url": "https://x.com/Chage_jp_staff/status/2124076769766740080"
         }
       ],
-      "description": "2026年11月21日、Chageの「theSoulライブ with SPECIAL GUEST」は、本所地域プラザ BIG SHIP 4階 多目的ホールで開催される予定。"
+      "description": "2026年11月21日、東京都墨田区の本所地域プラザ BIG SHIPで「theSoul スペシャルライブ with SPECIAL GUEST」が行われた。theSoulのステージに、Chageと十川ともじがスペシャルゲストとして参加。会場は4階の多目的ホールで、開場13:00・開演13:30。"
     }
   ],
-  "siteVersion": "2.2.1"
+  "siteVersion": "2.2.2"
 }
