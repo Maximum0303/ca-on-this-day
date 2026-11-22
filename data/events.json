@@ -96282,7 +96282,109 @@
         }
       ],
       "description": "2023年1月7日、東京・町田の「まほろ座 MACHIDA」で開催された「長江健次Cafe Vol.10」にASKAがゲスト出演した。"
+    },
+    {
+      "id": "live-extra-2017-1112-aska-miura-special",
+      "date": "2017-11-12",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "三浦和人 Special Concert 2017 ～風の水彩画～ 飛び入り出演",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "日本橋三井ホール",
+      "prefecture": "東京都",
+      "country": "日本",
+      "note": "【2026年11月23日追補調査】三浦和人公式の公演履歴で2017年11月12日・日本橋三井ホールの公演を確認。ASKAが翌13日の本人ブログで前日に三浦和人のライブへ出演し、2曲を歌唱したと直接報告。「万里の河」にも言及。三浦和人公演へのゲスト出演であり、ASKAの単独公演ではない。",
+      "sources": [
+        {
+          "label": "ASKA本人ブログ（公演翌日の出演報告）",
+          "url": "https://aska-burnishstone.hatenablog.com/entry/2017/11/13/132910"
+        },
+        {
+          "label": "三浦和人公式コンサート履歴",
+          "url": "https://regm.jp/c_history.html"
+        }
+      ],
+      "description": "2017年11月12日、日本橋三井ホールでの三浦和人のコンサートにASKAが飛び入り出演し、「万里の河」など2曲を歌った。"
+    },
+    {
+      "id": "live-extra-2017-1208-aska-murakami-stream",
+      "date": "2017-12-08",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "村上啓介「MAGICAL GUITAR MAN」発売記念ライブ ゲスト出演・生配信",
+      "status": "recorded",
+      "verification": "secondary",
+      "country": "日本",
+      "note": "【2026年11月23日追補調査】村上啓介のアルバム配信開始を記念するライブが、2017年12月8日19:50からYouTubeで生配信されたことは公開元の動画タイトル・公開日・概要欄で確認。当日の視聴者レポートによりASKAのサプライズ出演、「ボージュナール」「いつかどこかで」「no no darlin’」の歌唱を照合。配信映像の演奏場面は調査環境で直接再生確認できていないため、出演確認区分はsecondaryとする。会場は特定できていないため空欄。別資料にある「12月17日」という放送日は混同の可能性があり採用しない。",
+      "sources": [
+        {
+          "label": "Burnish Stone公開の当日ライブ生配信映像",
+          "url": "https://www.youtube.com/watch?v=yUdNAA8wd5U"
+        },
+        {
+          "label": "当日視聴者のライブ記録（二次資料）",
+          "url": "https://ameblo.jp/dogyamanet/entry-12335089616.html"
+        },
+        {
+          "label": "ASKA本人ブログ（翌日の感想）",
+          "url": "https://aska-burnishstone.hatenablog.com/entry/2017/12/09/102242"
+        }
+      ],
+      "description": "2017年12月8日、村上啓介のアルバム発売記念ライブがYouTubeで生配信され、ASKAがサプライズゲストとして歌唱した。映像の公開日時は確認済みで、会場名は未確認。"
+    },
+    {
+      "id": "live-extra-2017-1222-aska-tanaka-xmas",
+      "date": "2017-12-22",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "田中昌之「Knock On Your Heart」Before Xmas 飛び入り出演",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "BLUES ALLEY JAPAN",
+      "prefecture": "東京都",
+      "country": "日本",
+      "note": "【2026年11月23日追補調査】ASKAが2017年12月23日の本人公式ブログで、前日の目黒の田中昌之ライブに飛び入り出演し「Fellows」、村上啓介を交えた3人で「いつかどこかで」を歌ったと報告。2017年12月22日の田中昌之「Knock On Your Heart」Before Xmasがブルース アレイ ジャパンで開催されたことを公演記録で照合。田中昌之公演へのゲスト出演で、ASKA単独公演ではない。",
+      "sources": [
+        {
+          "label": "ASKA公式ブログ（翌日の出演・歌唱報告）",
+          "url": "https://archive.fellows.tokyo/blog/?id=686"
+        },
+        {
+          "label": "公演日・会場情報（二次資料）",
+          "url": "https://www.jazzshiryokan.net/jazzDB/live_detail.php?recordID=L2653"
+        }
+      ],
+      "description": "2017年12月22日、東京・目黒のBLUES ALLEY JAPANで開かれた田中昌之のクリスマスライブにASKAが飛び入り出演し、「Fellows」「いつかどこかで」を歌った。"
+    },
+    {
+      "id": "other-extra-2025-1108-aska-miura-45th-visit",
+      "date": "2025-11-08",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "三浦和人デビュー45周年記念コンサートにASKAがサプライズ登壇",
+      "status": "historical",
+      "verification": "primary",
+      "venue": "心斎橋PARCO 14F SPACE14",
+      "prefecture": "大阪府",
+      "country": "日本",
+      "note": "【2026年11月23日追補調査】2025年11月8日の三浦和人デビュー45周年記念大阪公演にASKAがサプライズ登壇。ASKA本人の当日ブログによれば、客席からステージへ上がり、三浦和人と約15分間のトーク。歌唱したという記述はなく、ゲスト歌唱公演と誤認しないようcategory=otherとする。開催日・会場は三浦和人公式公演履歴とチケット販売情報でも一致。",
+      "sources": [
+        {
+          "label": "ASKA公式ブログ（当日の登壇報告）",
+          "url": "https://www.fellows.tokyo/blog/detail/887/"
+        },
+        {
+          "label": "三浦和人公式コンサート履歴",
+          "url": "https://regm.jp/c_history.html"
+        },
+        {
+          "label": "チケットぴあ 公演日・会場情報",
+          "url": "https://t.pia.jp/pia/event/event.do?eventCd=2518426"
+        }
+      ],
+      "description": "2025年11月8日、心斎橋PARCO内のSPACE14で行われた三浦和人デビュー45周年記念コンサートに、ASKAがサプライズ登壇し、三浦和人とトークを交わした。歌唱は確認されていない。"
     }
   ],
-  "siteVersion": "2.2.4"
+  "siteVersion": "2.2.5"
 }
