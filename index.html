@@ -87,7 +87,11 @@
   <script defer src="ca-mobile-fold-v231.js?v=2.3.1"></script>
   <script defer src="ca-today-highlight-v232.js?v=2.3.2"></script>
   <script defer src="ca-search-ux-v233.js?v=2.3.3"></script>
-  <script defer src="ca-fold-memory-v234.js?v=2.3.4"></script>
+  <script defer src="ca-fold-memory-v234.js?v=2.3.5"></script>
+<style id="ca235-first-paint-style">
+/* JavaScriptが最初の正しい日付を設定するまで日付ラベルを隠す。位置は確保する。 */
+html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-week,#calendar-title,#selected-date){visibility:hidden!important}
+</style>
 </head>
 <body>
 <div class="ambient"></div>
@@ -105,23 +109,23 @@
         <div class="hero-pills"><span>CHAGE and ASKA</span><span>Chage</span><span>ASKA</span><span>MULTI MAX</span></div>
       </div>
       <div class="hero-date" aria-label="選択中の日付">
-        <div class="date-head"><span id="hero-month-en">NOVEMBER</span><span class="date-head-end">HISTORY / 365 + 1</span></div>
-        <strong id="hero-day">17</strong><span id="hero-date-ja">11月17日</span>
-        <div class="date-foot"><span id="hero-week">火曜日</span><span id="hero-count">この日の記録を確認中</span></div>
+        <div class="date-head"><span id="hero-month-en">…</span><span class="date-head-end">HISTORY / 365 + 1</span></div>
+        <strong id="hero-day">--</strong><span id="hero-date-ja">日付を準備中</span>
+        <div class="date-foot"><span id="hero-week">日付を確認中</span><span id="hero-count">この日の記録を確認中</span></div>
       </div>
     </section>
     <section id="calendar" class="calendar-section">
       <div class="section-head"><div><span class="kicker">01 / PICK A DAY</span><h2>日付から探す</h2></div><button id="today-btn" class="btn btn-ghost" type="button">今日に戻る <span aria-hidden="true">↗</span></button></div>
       <div class="calendar-grid">
         <div class="calendar-card">
-          <div class="month-nav"><button id="month-prev" class="icon-btn" type="button" aria-label="前の月">‹</button><div><strong id="calendar-title">11月</strong><span class="month-caption">日にちを選択してください</span></div><button id="month-next" class="icon-btn" type="button" aria-label="次の月">›</button></div>
+          <div class="month-nav"><button id="month-prev" class="icon-btn" type="button" aria-label="前の月">‹</button><div><strong id="calendar-title">--月</strong><span class="month-caption">日にちを選択してください</span></div><button id="month-next" class="icon-btn" type="button" aria-label="次の月">›</button></div>
           <div class="weekday-head"><span>日</span><span>月</span><span>火</span><span>水</span><span>木</span><span>金</span><span>土</span></div>
           <div id="calendar-cells" class="days-grid" role="group" aria-label="月日を選択"></div>
           <p class="calendar-legend"><span class="dot"></span>登録済みの出来事がある日　<span class="ring"></span>選択中の日</p>
         </div>
         <div class="day-panel">
           <div class="day-panel-top"><span class="kicker">ON THIS DAY</span><div class="stepper"><button id="date-prev" class="icon-btn" type="button" aria-label="前の日">‹</button><button id="date-next" class="icon-btn" type="button" aria-label="次の日">›</button></div></div>
-          <h3 id="selected-date">11月17日</h3>
+          <h3 id="selected-date">日付を準備中</h3>
           <div id="day-summary" class="summary-line" aria-live="polite">記録を読み込んでいます</div>
           <div id="day-events" class="day-events" aria-live="polite"></div>
           <div class="day-actions"><button id="share-date" type="button" class="text-button">この日をXで共有 ↗</button><button id="all-day" type="button" class="text-button">同じ日付の記録をすべて見る ↓</button></div>
@@ -129,6 +133,29 @@
       </div>
     </section>
 
+    <script id="ca235-date-prepaint">
+(function(){
+  "use strict";
+  try {
+    const parts=Object.fromEntries(new Intl.DateTimeFormat("en-US",{timeZone:"Asia/Tokyo",year:"numeric",month:"2-digit",day:"2-digit"}).formatToParts(new Date()).map(x=>[x.type,x.value]));
+    let month=Number(parts.month),day=Number(parts.day);
+    const dateParam=new URLSearchParams(location.search).get("date");
+    if(dateParam && /^\d{2}-\d{2}$/.test(dateParam)){
+      const [m,d]=dateParam.split("-").map(Number);
+      if(m>=1&&m<=12&&d>=1&&d<=new Date(Date.UTC(2000,m,0)).getUTCDate()){month=m;day=d;}
+    }
+    const names=["JANUARY","FEBRUARY","MARCH","APRIL","MAY","JUNE","JULY","AUGUST","SEPTEMBER","OCTOBER","NOVEMBER","DECEMBER"];
+    const set=(id,value)=>{const el=document.getElementById(id);if(el)el.textContent=value;};
+    set("hero-month-en",names[month-1]);
+    set("hero-day",String(day).padStart(2,"0"));
+    set("hero-date-ja",month+"月"+day+"日");
+    set("hero-week","日付を自由に選択");
+    set("calendar-title",month+"月");
+    set("selected-date",month+"月"+day+"日");
+  } catch(err) { /* 本体の app.js による通常描画を維持する */ }
+  finally {document.documentElement.classList.add("ca235-date-ready");}
+})();
+</script>
     <!-- YEAR_ONLY_RECORDS_V2029 -->
     <section id="year-only" class="year-only-section" aria-labelledby="year-only-title" hidden>
       <div class="section-head"><div><span class="kicker">YEAR-ONLY HISTORY / 月日未詳</span><h2 id="year-only-title">年だけ判明している出来事</h2></div></div>
