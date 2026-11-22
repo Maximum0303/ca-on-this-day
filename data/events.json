@@ -96384,7 +96384,66 @@
         }
       ],
       "description": "2025年11月8日、心斎橋PARCO内のSPACE14で行われた三浦和人デビュー45周年記念コンサートに、ASKAがサプライズ登壇し、三浦和人とトークを交わした。歌唱は確認されていない。"
+    },
+    {
+      "id": "other-extra-2019-0105-aska-ttv-redwhite-recording",
+      "date": "2019-01-05",
+      "artist": "ASKA",
+      "category": "other",
+      "title": "台湾TTV「超級巨星紅白藝能大賞」公開収録に出演",
+      "status": "historical",
+      "verification": "primary",
+      "venue": "台北アリーナ（台北小巨蛋）",
+      "country": "台湾",
+      "note": "【2026年11月23日 第3回追補調査】台北アリーナ公式の過去公演案内に、2019年1月5日17:30から台湾TTVの音楽特番「2019超級巨星紅白藝能大賞」を公開収録し、2019年2月4日19:30に台湾TTVで放送したと明記されている。ASKA本人の公式ブログで特別ゲスト出演予定が告知され、当時の報道も出演を裏付ける。テレビ番組の公開収録日を記録するため、単独ライブではなく関連イベント(category=other)とした。既存のテレビ放送記録の日付は2019-02-05だが、公式会場資料では2019-02-04であり、別途点検が必要。本追加では既存の放送記録・IDを変更しない。",
+      "sources": [
+        {
+          "label": "台北アリーナ公式・公演記録（収録日・放送日）",
+          "url": "https://www.arena.taipei/News_Content.aspx?n=4A7BFF61FA074F0F&s=CEFB5855A62CDC96&sms=F9A95D3F5A5C2C68"
+        },
+        {
+          "label": "ASKA公式ブログ（出演告知）",
+          "url": "https://archive.fellows.tokyo/blog/?id=1286"
+        },
+        {
+          "label": "出演報道（二次資料）",
+          "url": "https://memeon-music.com/2019/01/05/aska/"
+        }
+      ],
+      "description": "2019年1月5日、台湾・台北アリーナで行われた音楽番組「超級巨星紅白藝能大賞」の公開収録に、ASKAがスペシャルゲストとして出演した。テレビ放送日は収録日とは別に扱う。"
+    },
+    {
+      "id": "live-extra-2019-0804-aska-shuubi-20th",
+      "date": "2019-08-04",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "SHUUBI 20th Anniversary Premium Live ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "ビルボードライブ東京",
+      "prefecture": "東京都",
+      "country": "日本",
+      "note": "【2026年11月23日 第3回追補調査】2019年8月4日、SHUUBIのデビュー20周年記念ライブがビルボードライブ東京で開催。ASKA本人による開催前のゲスト歌唱予告、当日の感想、参加ミュージシャン藤田真由美の出演報告、SHUUBIの公式プロフィール情報を照合。ASKAとSHUUBIは「you&me」をデュエット。公演は16:30・19:30開演の2ステージだが、ASKAが両ステージで出演したかは一次資料で確認できていないため、現時点では同日1件として登録し、公演番号を付けない。SHUUBI主催のライブでありASKA単独公演ではない。",
+      "sources": [
+        {
+          "label": "ASKA本人ブログ（出演告知・リハーサル）",
+          "url": "https://aska-burnishstone.hatenablog.com/entry/2019/07/31/082112"
+        },
+        {
+          "label": "ASKA本人ブログ（当日の公演報告）",
+          "url": "https://archive.fellows.tokyo/blog/?id=1575"
+        },
+        {
+          "label": "SHUUBI公式プロフィール掲載先（出演・曲目）",
+          "url": "https://www.tosei-showa-music.ac.jp/teacher/000355.html"
+        },
+        {
+          "label": "参加ミュージシャン本人の公演報告",
+          "url": "https://ameblo.jp/mayumix-blog/entry-12502670975.html"
+        }
+      ],
+      "description": "2019年8月4日、ビルボードライブ東京で開催されたSHUUBIのデビュー20周年記念ライブにASKAがスペシャルゲストとして出演し、「you&me」をデュエットした。当日は昼夜2ステージあったが、ASKAの出演ステージの内訳は確認待ち。"
     }
   ],
-  "siteVersion": "2.2.5"
+  "siteVersion": "2.2.6"
 }
