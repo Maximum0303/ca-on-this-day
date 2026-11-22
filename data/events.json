@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2027年の公式発表済み予定を追加。開催予定の記録は日付経過のみで開催済みと断定せず、延期・中止と区別して表示します。既存の記録の確認日・履歴はそのまま保存しています。",
-  "lastUpdated": "2026-11-22",
+  "lastUpdated": "2026-11-23",
   "events": [
     {
       "id": "milestone-1978-popcon15-formation-yearonly",
@@ -85967,7 +85967,7 @@
       "artist": "ASKA",
       "category": "live",
       "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
-      "status": "scheduled",
+      "status": "recorded",
       "verification": "primary",
       "tourId": "aska-lock-on-2026-2027",
       "venue": "レクザムホール 大ホール",
@@ -85975,14 +85975,18 @@
       "country": "日本",
       "performanceNo": 16,
       "startTime": "17:00",
-      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演17:00。現時点では開催予定であり、開催済みを意味しない。",
+      "note": "【開催確認・2026年11月23日】2026年11月22日の高松公演は実施済み。ASKA本人が同日付の公式ブログ「香川（高松）公演終了」で公演後に報告。開演17:00。\n【過去の登録履歴（開催予定時）】【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演17:00。現時点では開催予定であり、開催済みを意味しない。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
           "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        },
+        {
+          "label": "ASKA公式ブログ：香川（高松）公演終了（2026年11月22日）",
+          "url": "https://www.fellows.tokyo/blog/detail/1591/"
         }
       ],
-      "description": "2026年11月22日、ASKAの「ASKA CONCERT TOUR 2026-2027 “Lock-on”」は、レクザムホール 大ホールで開催される予定。\nこのツアーの第16公演にあたる。"
+      "description": "2026年11月22日、ASKAの全国ツアー「ASKA CONCERT TOUR 2026-2027 “Lock-on”」の高松公演が、香川県のレクザムホール 大ホールで開催された。開演17:00。前日の松山公演に続く四国でのステージで、ASKAは同日付の公式ブログ「香川（高松）公演終了」で、観客の熱い反応への感謝と公演の楽しさを振り返った。このツアーの第16公演にあたる。"
     },
     {
       "id": "v16-0059",
@@ -96119,5 +96123,5 @@
       "description": "2026年11月21日、東京都墨田区の本所地域プラザ BIG SHIPで「theSoul スペシャルライブ with SPECIAL GUEST」が行われた。theSoulのステージに、Chageと十川ともじがスペシャルゲストとして参加。会場は4階の多目的ホールで、開場13:00・開演13:30。"
     }
   ],
-  "siteVersion": "2.2.2"
+  "siteVersion": "2.2.3"
 }
