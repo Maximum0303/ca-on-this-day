@@ -52,7 +52,7 @@ function renderDay(){
  $('selected-date').textContent=`${state.month}月${state.day}日`;
  $('day-summary').textContent=matches.length?`${matches.length}件の出来事が登録されています`:'現在、登録されている出来事はありません';
  if(matches.length){$('day-events').innerHTML=matches.map(preview).join('');}
- else {$('day-events').innerHTML=`<div class="empty-state"><strong>この日の記録は、まだ登録されていません。</strong>何も起きなかったという意味ではありません。確認できたものから追加していきます。<p>試験収録の例：<button class="text-button jump-date" data-md="11-19">11月19日</button> ・ <button class="text-button jump-date" data-md="10-10">10月10日</button> ・ <button class="text-button jump-date" data-md="04-10">4月10日</button></p></div>`;}
+ else {$('day-events').innerHTML=`<div class="empty-state"><strong>この日の記録は、まだ登録されていません。</strong>何も起きなかったという意味ではありません。確認できたものから追加していきます。<p>記録のある日の例：<button class="text-button jump-date" data-md="11-19">11月19日</button> ・ <button class="text-button jump-date" data-md="10-10">10月10日</button> ・ <button class="text-button jump-date" data-md="04-10">4月10日</button></p></div>`;}
  $('all-day').textContent=`この日の全${matches.length}件を検索一覧で見る ↓`;
  $('all-day').disabled=matches.length===0;
 }
@@ -151,7 +151,7 @@ function renderYearOnly(matches){
 }
 /* /YEAR_ONLY_RECORDS_V2029 */
 
-function renderStats(){const live=events.filter(e=>e.category==='live').length,release=events.filter(e=>e.category==='release').length;$('record-total').textContent=`試験収録 ${events.length} 件`;$('total-stat').textContent=events.length;$('live-stat').textContent=live;$('release-stat').textContent=release;}
+function renderStats(){const live=events.filter(e=>e.category==='live').length,release=events.filter(e=>e.category==='release').length;$('record-total').textContent=`収録記録 ${events.length}件`;$('total-stat').textContent=events.length;$('live-stat').textContent=live;$('release-stat').textContent=release;}
 if(!events.length){$('day-summary').textContent='記録データが見つかりません。data/events.js を確認してください。';$('results').innerHTML='<p class="no-matches">データファイルを読み込めませんでした。</p>';return;}
 populateYears();restoreFilters();if(state.eventId&&!events.some(e=>e.id===state.eventId))state.eventId='';$('keyword').value=state.keyword;
 $('calendar-cells').addEventListener('click',e=>{const el=e.target.closest('[data-day]');if(el)setDate(state.viewMonth,Number(el.dataset.day));});
