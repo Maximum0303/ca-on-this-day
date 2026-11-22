@@ -96443,7 +96443,106 @@
         }
       ],
       "description": "2019年8月4日、ビルボードライブ東京で開催されたSHUUBIのデビュー20周年記念ライブにASKAがスペシャルゲストとして出演し、「you&me」をデュエットした。当日は昼夜2ステージあったが、ASKAの出演ステージの内訳は確認待ち。"
+    },
+    {
+      "id": "live-extra-2023-1029-chage-thesoul-bigship",
+      "date": "2023-10-29",
+      "artist": "Chage",
+      "category": "live",
+      "title": "本所BIG SHIP開館10周年記念 theSoulスペシャルコンサート ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "prefecture": "東京都",
+      "country": "日本",
+      "venue": "本所地域プラザ BIG SHIP 4階 多目的ホール",
+      "startTime": "17:00",
+      "note": "【2026年11月23日追補調査】Chage公式の2023年10月1日付出演告知に、2023年10月29日開催、本所BIG SHIP開館10周年記念スペシャルコンサート、出演theSoul／SPECIAL GUEST Chage、17:00開演と明記。2023年10月29日の公演を振り返る二次資料も確認。theSoul主催・出演のコンサートであり、Chage単独公演として数えない。歌唱内容の詳細は確認待ち。",
+      "sources": [
+        {
+          "label": "Chage公式サイト（出演告知・日時・会場）",
+          "url": "https://chage.jp/information/live/detail-577.php"
+        },
+        {
+          "label": "参考資料（非公式・開催後の公演記録）",
+          "url": "https://note.com/thesouldesmile/n/nb9dbf35600c8"
+        }
+      ],
+      "description": "2023年10月29日、東京都墨田区の本所地域プラザ BIG SHIPで開催された開館10周年記念のtheSoulスペシャルコンサートに、Chageがゲスト出演した。"
+    },
+    {
+      "id": "other-extra-2024-0630-chage-beatles-vol3",
+      "date": "2024-06-30",
+      "artist": "Chage",
+      "category": "other",
+      "title": "「In Memorial The Beatles live in Japan Vol.3」トークゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "prefecture": "東京都",
+      "country": "日本",
+      "venue": "六本木 ABBEY ROAD Tokyo",
+      "note": "【2026年11月23日追補調査】主催協力の音楽出版社による開催後のイベントレポートで、2024年6月30日「In Memorial The Beatles live in Japan Vol.3」昼の部にChageがトークゲストとして登壇したことを確認。ライブ演奏はThe Mayfairが担当と明記。Chage本人による歌唱は確認できないため、ライブ公演数には算入せずcategory=other。2024年6月29日の別ゲスト回と混同しない。",
+      "sources": [
+        {
+          "label": "シンコーミュージック・エンタテイメント（イベント実施レポート）",
+          "url": "https://www.shinko-music.co.jp/report/20240629/"
+        },
+        {
+          "label": "Chage公式サイト（出演告知）",
+          "url": "https://chage.jp/information/news/detail-625.php"
+        }
+      ],
+      "description": "2024年6月30日、六本木ABBEY ROAD Tokyoで開かれたビートルズ来日記念イベントの昼の部にChageがトークゲストとして登壇。ライブ演奏はThe Mayfairが担当した。"
+    },
+    {
+      "id": "live-extra-2025-1019-chage-thesoul-bigship",
+      "date": "2025-10-19",
+      "artist": "Chage",
+      "category": "live",
+      "title": "theSoul SPECIAL LIVE ゲスト出演",
+      "status": "recorded",
+      "verification": "primary",
+      "prefecture": "東京都",
+      "country": "日本",
+      "venue": "本所地域プラザ BIG SHIP 4階 多目的ホール",
+      "startTime": "13:30",
+      "note": "【2026年11月23日追補調査】Chage公式の2025年9月21日付出演告知により、2025年10月19日13:30開演、theSoul SPECIAL LIVEのスペシャルゲストとしての参加を確認。開催後の資料に当日公演の記録が残る。theSoul側のライブであり、Chage単独公演として数えない。2026年11月21日のtheSoulライブとは別件。歌唱曲は一次資料で未確認のため追記しない。",
+      "sources": [
+        {
+          "label": "Chage公式サイト（出演告知・日時・会場）",
+          "url": "https://chage.jp/information/live/detail-750.php"
+        },
+        {
+          "label": "参考資料（非公式・公演日付の事後照合）",
+          "url": "https://note.com/thesouldesmile/n/na4ab79f308b5"
+        }
+      ],
+      "description": "2025年10月19日、東京都墨田区の本所地域プラザ BIG SHIPで開催された「theSoul SPECIAL LIVE」に、Chageがスペシャルゲストとして出演した。"
+    },
+    {
+      "id": "other-extra-2026-0627-chage-beatles-60th",
+      "date": "2026-06-27",
+      "artist": "Chage",
+      "category": "other",
+      "title": "ビートルズ来日60周年「In Memorial The Beatles Live in Japan」昼公演ゲスト",
+      "status": "scheduled",
+      "verification": "primary",
+      "prefecture": "東京都",
+      "country": "日本",
+      "venue": "BAUHAUS ROPPONGI",
+      "startTime": "13:00",
+      "note": "【2026年11月23日追補調査】Chage公式の2026年5月21日付出演告知で、2026年6月27日昼公演（開演13:00）のスペシャルゲストとして出演予定だったことを確認。トークのStory Tellerは藤本国彦、ライブ演奏はTHE BEATMASTERSと案内されている。イベント自体の開催後報道はあるが、Chageが当日に登壇したことを確認できる一次資料を未取得のため、status=scheduled（出演予定を裏付ける情報）を維持し、実施済みとは断定しない。歌唱有無も未確認。ライブ公演数には算入しない。",
+      "sources": [
+        {
+          "label": "Chage公式サイト（出演告知・出演枠）",
+          "url": "https://chage.jp/information/news/detail-820.php"
+        },
+        {
+          "label": "MUSIC LIFE CLUB（主催協力・公演告知）",
+          "url": "https://www.musiclifeclub.com/news/20260522T_01.html"
+        }
+      ],
+      "description": "2026年6月27日、六本木BAUHAUSのビートルズ来日60周年記念イベント昼公演に、Chageが特別ゲストとして出演予定と発表された。演奏出演はTHE BEATMASTERSと案内されており、Chageの当日登壇は別途確認待ち。"
     }
   ],
-  "siteVersion": "2.2.6"
+  "siteVersion": "2.2.7"
 }
