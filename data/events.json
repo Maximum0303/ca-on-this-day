@@ -83109,26 +83109,6 @@
       "description": "2025年12月3日、ASKAが出演したテレビ番組「2025 FNS歌謡祭 第1夜」がフジテレビで放送された。"
     },
     {
-      "id": "media-v18229-2025-12-06-chage-001",
-      "date": "2025-12-06",
-      "artist": "Chage",
-      "category": "media",
-      "title": "ラジオ「やまやコミュニケーションズ presents ちゃげっていうラジオ」放送開始",
-      "venue": "",
-      "prefecture": "",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "放送局・配信媒体：FM FUKUOKA。出演形態：放送開始",
-      "sources": [
-        {
-          "label": "公式資料",
-          "url": "https://chage.jp/biography/"
-        }
-      ],
-      "broadcastStation": "FM FUKUOKA",
-      "description": "2025年12月6日、Chageが取り上げられたラジオ番組「やまやコミュニケーションズ presents ちゃげっていうラジオ」がFM FUKUOKAで放送された。"
-    },
-    {
       "id": "v15-0185",
       "date": "2025-12-06",
       "artist": "Chage",
@@ -83159,17 +83139,22 @@
       "date": "2025-12-06",
       "artist": "Chage",
       "category": "media",
-      "title": "FM FUKUOKA「ちゃげっていうラジオ」放送開始",
+      "title": "FM FUKUOKA「やまやコミュニケーションズ presents ちゃげっていうラジオ」放送開始",
       "status": "recorded",
       "verification": "primary",
-      "note": "公式Biography記載の放送開始日",
+      "note": "公式Biography記載の放送開始日。放送局：FM FUKUOKA。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
           "url": "https://chage.jp/biography/"
+        },
+        {
+          "label": "FM FUKUOKA 番組公式ページ",
+          "url": "https://fmfukuoka.co.jp/program/chage/"
         }
       ],
-      "description": "2025年12月6日、Chageが取り上げられたラジオ番組「ちゃげっていうラジオ」が放送された。"
+      "description": "2025年12月6日、FM FUKUOKAでChageのラジオ番組「やまやコミュニケーションズ presents ちゃげっていうラジオ」の放送が開始された。",
+      "broadcastStation": "FM FUKUOKA"
     },
     {
       "id": "v15-0156",
