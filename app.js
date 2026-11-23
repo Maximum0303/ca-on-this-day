@@ -90,8 +90,35 @@ function searchableText(e){const names=Array.isArray(e.releaseTitles)?e.releaseT
 function yearOnlyFiltersActive(){
  return $('year-filter').value!=='all'||$('category-filter').value==='milestone';
 }
+function caParseQueryTokens(source) {
+  const text = String(source ?? '').normalize('NFKC');
+  const tokens = [];
+  let word = '', phrase = false, closing = '';
+  const push = () => {
+    const value = word.trim();
+    if (value) tokens.push({value, phrase});
+    word = ''; phrase = false;
+  };
+  for (const ch of text) {
+    if (closing) {
+      if (ch === closing) { push(); closing = ''; }
+      else word += ch;
+      continue;
+    }
+    if (ch === '"' || ch === '“' || ch === '「') {
+      push(); closing = ch === '“' ? '”' : (ch === '「' ? '」' : '"');
+      phrase = true;
+    } else if (/\s/.test(ch)) {
+      push();
+    } else {
+      word += ch;
+    }
+  }
+  push();
+  return tokens;
+}
 function getMatches(){
- const terms=state.keyword.trim().normalize('NFKC').toLocaleLowerCase('ja-JP').split(/\s+/).filter(Boolean);
+ const terms=caParseQueryTokens(state.keyword).map(t=>t.value.toLocaleLowerCase('ja-JP'));
  const artist=$('artist-filter').value,cat=$('category-filter').value,dec=$('decade-filter').value;
  const year=$('year-filter').value,kind=$('status-filter').value,verification=$('verification-filter').value,sort=$('sort-filter').value;
  return events.filter(e=>{

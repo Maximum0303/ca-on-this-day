@@ -121,7 +121,7 @@
     searchBar.append(label);
     const hint = document.createElement('p');
     hint.className = 'ca233-search-hint';
-    hint.textContent = 'キーワードを入力すると、そのまま検索できます。名義・年代などでの絞り込みも可能です。';
+    hint.textContent = 'スペース区切りはAND検索。曲名は \"SAY YES\" のように引用符で囲むとフレーズ検索できます。';
     searchBar.append(hint);
     const outcome = document.createElement('p');
     outcome.className = 'ca233-search-outcome';

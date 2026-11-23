@@ -94,44 +94,77 @@
     toggle.addEventListener('click', () => { setExpanded(!expanded); scheduleRender(); });
 
     let scheduled = false;
+    function caParseQueryTokens(source) {
+      const text = String(source ?? '').normalize('NFKC');
+      const tokens = [];
+      let word = '', phrase = false, closing = '';
+      const push = () => {
+        const value = word.trim();
+        if (value) tokens.push({value, phrase});
+        word = ''; phrase = false;
+      };
+      for (const ch of text) {
+        if (closing) {
+          if (ch === closing) { push(); closing = ''; }
+          else word += ch;
+          continue;
+        }
+        if (ch === '"' || ch === '“' || ch === '「') {
+          push(); closing = ch === '“' ? '”' : (ch === '「' ? '」' : '"');
+          phrase = true;
+        } else if (/\s/.test(ch)) {
+          push();
+        } else {
+          word += ch;
+        }
+      }
+      push();
+      return tokens;
+    }
     const render = () => {
-      scheduled=false;
-      const selected = fields.filter(nonDefault);
+      scheduled = false;
+      const terms=caParseQueryTokens(document.getElementById('keyword').value);
+      const otherFields=fields.slice(1).filter(nonDefault);
+      const count=terms.length+otherFields.length;
       active.replaceChildren();
-      active.hidden = selected.length === 0;
-      if (selected.length) {
-        const label = document.createElement('span');
-        label.className = 'ca225-active-label';
-        label.textContent = '選択中の条件';
+      active.hidden=count===0;
+      if(count){
+        const label=document.createElement('span');
+        label.className='ca225-active-label';
+        label.textContent=terms.length>1?'選択中の条件（AND検索）':'選択中の条件';
         active.append(label);
       }
-      for (const f of selected) {
-        const btn = document.createElement('button');
-        btn.type = 'button';
-        btn.className = 'ca225-chip';
-        const desc = f.name + '：' + optionText(f);
+      const appendChip=(desc,remove)=>{
+        const btn=document.createElement('button');
+        btn.type='button'; btn.className='ca225-chip';
         btn.setAttribute('aria-label',desc+' を解除');
-        const text = document.createElement('span');
-        text.textContent = desc;
-        const cross = document.createElement('span');
-        cross.className = 'ca225-chip-x';
-        cross.setAttribute('aria-hidden','true');
-        cross.textContent = '×';
-        btn.append(text,cross);
-        btn.addEventListener('click',() => {
+        const label=document.createElement('span');label.textContent=desc;
+        const cross=document.createElement('span');
+        cross.className='ca225-chip-x';cross.setAttribute('aria-hidden','true');cross.textContent='×';
+        btn.append(label,cross);btn.addEventListener('click',remove);active.append(btn);
+      };
+      terms.forEach((term,i)=>{
+        const desc=(term.phrase?'フレーズ：':'キーワード：')+term.value;
+        appendChip(desc,()=>{
+          const rest=terms.filter((_,j)=>j!==i).map(item=>item.phrase?'"'+item.value+'"':item.value).join(' ');
+          const input=document.getElementById('keyword');
+          input.value=rest;
+          input.dispatchEvent(new Event('input',{bubbles:true}));
+          scheduleRender();
+        });
+      });
+      for(const f of otherFields){
+        const desc=f.name+'：'+optionText(f);
+        appendChip(desc,()=>{
           const el=document.getElementById(f.id);
-          el.value = f.reset;
+          el.value=f.reset;
           el.dispatchEvent(new Event(f.event||'change',{bubbles:true}));
           scheduleRender();
         });
-        active.append(btn);
       }
-      const mode = expanded
-        ? '詳細条件を含むすべての検索項目を表示中'
-        : 'よく使う条件だけを表示中';
-      summary.textContent = selected.length
-        ? '選択中の条件 ' + selected.length + '件 ／ ' + mode
-        : mode;
+      const mode=expanded?'詳細条件を含むすべての検索項目を表示中':'よく使う条件だけを表示中';
+      const keywordMode=terms.length>1?'AND検索 '+terms.length+'語 ／ ':terms.some(x=>x.phrase)?'フレーズ検索 ／ ':'';
+      summary.textContent=count?keywordMode+'選択中の条件 '+count+'件 ／ '+mode:mode;
     };
     const scheduleRender = () => {
       if (scheduled) return;
