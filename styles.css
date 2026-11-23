@@ -27,7 +27,7 @@
 .ca-artist-tag,.ca-artist-quick-btn{--ca-artist-color:#d5e0ee;--ca-artist-fill:rgba(166,187,210,.13);--ca-artist-border:rgba(176,195,214,.52)}
 .ca-artist-ca{--ca-artist-color:#ffdc9c;--ca-artist-fill:rgba(222,153,51,.18);--ca-artist-border:rgba(246,191,102,.68)}
 .ca-artist-chage{--ca-artist-color:#abf2d4;--ca-artist-fill:rgba(45,161,126,.18);--ca-artist-border:rgba(101,222,172,.62)}
-.ca-artist-aska{--ca-artist-color:#b6d6ff;--ca-artist-fill:rgba(65,125,218,.20);--ca-artist-border:rgba(120,173,255,.67)}
+.ca-artist-aska{--ca-artist-color:#f3dbff;--ca-artist-fill:rgba(143,72,177,.33);--ca-artist-border:rgba(227,166,255,.94)}
 .ca-artist-multi{--ca-artist-color:#ffc5df;--ca-artist-fill:rgba(202,83,139,.18);--ca-artist-border:rgba(249,145,188,.70)}
 .ca-artist-tag{display:inline-flex;vertical-align:middle;align-items:center;justify-content:center;max-width:100%;border:1px solid var(--ca-artist-border);border-radius:999px;background:var(--ca-artist-fill);color:var(--ca-artist-color);font-size:11px;font-weight:800;letter-spacing:.015em;line-height:1.5;padding:3px 10px;white-space:normal;overflow-wrap:anywhere}
 .result-meta .ca-artist-tag{font-size:12px;padding:4px 11px}
