@@ -20,7 +20,7 @@
 <meta name="twitter:image" content="https://maximum0303.github.io/ca-on-this-day/ogp.png">
 <meta name="twitter:image:alt" content="今日はC&amp;Aの何の日？ 音楽の歴史カレンダー">
 <title>今日はC&Aの何の日？｜CHAGE and ASKA HISTORY CALENDAR</title>
-<link rel="stylesheet" href="styles.css?v=artist-tag-stripes-20261124">
+<link rel="stylesheet" href="styles.css?v=2.3.8-artist-stripes-list-20261124">
 <link rel="stylesheet" href="ca-ver39.css">
 <link rel="stylesheet" href="ca-ver40.css">
 <link rel="stylesheet" href="ca-ver41.css">
@@ -32,9 +32,9 @@
 <link rel="stylesheet" href="ca-mobile-v211.css">
 <link rel="stylesheet" href="ca-calendar-v212.css?v=2.1.2">
 <script defer src="data/events.js?v=2.2.0"></script>
-<script defer src="app.js?v=artist-tags-20261124"></script>
+<script defer src="app.js?v=2.3.8-artist-stripes-list-20261124"></script>
 <script defer src="ca-ver39.js?v=2.3.0"></script>
-<script defer src="ca-ver40.js?v=2.3.6"></script>
+<script defer src="ca-ver40.js?v=2.3.8-artist-stripes-list-20261124"></script>
 <script defer src="data/review-followup.js?v=2.2.11"></script>
 <script defer src="ca-ver41.js?v=2.2.12"></script>
 <script defer src="ca-ver42.js"></script>
@@ -92,6 +92,17 @@
 /* JavaScriptが最初の正しい日付を設定するまで日付ラベルを隠す。位置は確保する。 */
 html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-week,#calendar-title,#selected-date){visibility:hidden!important}
 </style>
+<style id="ca-artist-timeline-stripes">
+/* CA_ARTIST_TIMELINE_STRIPES_20261124: period-list stripes. Actual data stays untouched. */
+.ca40-item.ca-artist-ca,.ca40-item.ca-artist-ca:hover{border-left:4px solid #e9b261}
+.ca40-item.ca-artist-chage,.ca40-item.ca-artist-chage:hover{border-left:4px solid #65deac}
+.ca40-item.ca-artist-aska,.ca40-item.ca-artist-aska:hover{border-left:4px solid #e3a6ff}
+.ca40-item.ca-artist-multi,.ca40-item.ca-artist-multi:hover{border-left:4px solid #f991bc}
+.ca40-item.ca-artist-other,.ca40-item.ca-artist-other:hover{border-left:4px solid #aabbd0}
+.ca40-info>.ca-artist-tag{display:inline-flex;margin:0 0 8px;font-size:12px;padding:4px 11px}
+.ca40-info .ca40-person:empty{display:none}
+@media(max-width:600px){.ca40-item.ca-artist-ca,.ca40-item.ca-artist-chage,.ca40-item.ca-artist-aska,.ca40-item.ca-artist-multi{border-left-width:4px}.ca40-info>.ca-artist-tag{font-size:11px}}
+/* /CA_ARTIST_TIMELINE_STRIPES_20261124 */</style>
 </head>
 <body>
 <div class="ambient"></div>

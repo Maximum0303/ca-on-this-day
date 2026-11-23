@@ -1,4 +1,4 @@
-/* 今日はC&Aの何の日？｜画面 Ver.2.3.6
+/* 今日はC&Aの何の日？｜画面 Ver.2.3.8
  * 月間アーカイブを「選択日から7日／10日」の閲覧窓へ置き換える。
  * 月・年の境界をまたぐ。全て表示用の投影のみで、元データは変更しない。
  * 既存 ca40-* ID / 共有URL / 折りたたみ機能と互換。
@@ -139,8 +139,9 @@
   function card({event:e,day:d}){
     const location=[e.prefecture,e.venue].filter(Boolean).join('・');
     const date=`${d.year}年${d.month}月${d.day}日（${d.weekday}）`;
-    return `<article class="ca40-item"><div class="ca40-date"><time datetime="${esc(e.date)}">${esc(date)}</time><span class="ca40-cat">${esc(cats[e.category]||'その他')}</span></div>
-    <div class="ca40-info"><h4>${esc(e.title||'タイトル未設定')}</h4><p class="ca40-person">${esc(e.artist||'名義未設定')}${location?' ｜ '+esc(location):''}</p>
+    const caArtistClass=({'CHAGE and ASKA':'ca-artist-ca','Chage':'ca-artist-chage','ASKA':'ca-artist-aska','MULTI MAX':'ca-artist-multi'})[String(e.artist||'').trim()]||'ca-artist-other';
+    return `<article class="ca40-item ${caArtistClass}"><div class="ca40-date"><time datetime="${esc(e.date)}">${esc(date)}</time><span class="ca40-cat">${esc(cats[e.category]||'その他')}</span></div>
+    <div class="ca40-info"><span class="ca-artist-tag ${caArtistClass}">${esc(e.artist||'名義未設定')}</span><h4>${esc(e.title||'タイトル未設定')}</h4><p class="ca40-person">${location?esc(location):''}</p>
     <div class="ca40-flags"><span>${esc(status(e))}</span><span>${esc(verification(e))}</span>${e.performanceNo!=null?`<span>公演番号 ${esc(e.performanceNo)}</span>`:''}</div>
     <a class="ca40-open" href="${esc(recordUrl(e))}">この記録を開く ↗</a></div></article>`;
   }
@@ -184,3 +185,5 @@
   $('ca40-reset').addEventListener('click',()=>{state.year='all';state.artist='all';state.category='all';state.order='asc';state.limit=10;renderAll();});
   renderAll();
 })();
+
+/* CA_ARTIST_TIMELINE_STRIPES_20261124 */
