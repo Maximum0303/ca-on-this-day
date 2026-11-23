@@ -50,7 +50,7 @@
 <script defer src="ca-month-share-v229.js?v=2.3.6"></script>
 <script defer src="ca-review-guide-v2210.js?v=2.2.10"></script>
 <script defer src="ca-status-guide-v2213.js?v=2.2.13"></script>
-<script defer src="ca-version-auto-v2214.js?v=2.3.9"></script>
+<script defer src="ca-version-auto-v2214.js?v=2.4.0"></script>
 <script defer src="ca-date-jump-v2215.js?v=2.2.15"></script>
 <style id="ca-year-only-v2029-style">
 /* YEAR_ONLY_RECORDS_V2029 */
@@ -806,73 +806,100 @@ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',
 })();
 </script>
 
-<!-- CA239_ALL_LIST_STRIPES_START: Display-only, no changes to event data -->
-<style id="ca239-all-list-stripes">
-/* 画面 Ver.2.3.9：タグに依存する :has() を使わずカード自身へ色を直接割り当てる。 */
-:is(#results .result-card,#day-events .event-preview,#year-only-list .year-only-card,#ca-single-detail .ca-detail-paper,#ca40-items .ca40-item)[data-ca239-artist="ca"]{border-left:4px solid #e9b261 !important}
-:is(#results .result-card,#day-events .event-preview,#year-only-list .year-only-card,#ca-single-detail .ca-detail-paper,#ca40-items .ca40-item)[data-ca239-artist="chage"]{border-left:4px solid #65deac !important}
-:is(#results .result-card,#day-events .event-preview,#year-only-list .year-only-card,#ca-single-detail .ca-detail-paper,#ca40-items .ca40-item)[data-ca239-artist="aska"]{border-left:4px solid #e3a6ff !important}
-:is(#results .result-card,#day-events .event-preview,#year-only-list .year-only-card,#ca-single-detail .ca-detail-paper,#ca40-items .ca40-item)[data-ca239-artist="multi"]{border-left:4px solid #f991bc !important}
-:is(#results .result-card,#day-events .event-preview,#year-only-list .year-only-card,#ca-single-detail .ca-detail-paper,#ca40-items .ca40-item)[data-ca239-artist="other"]{border-left:4px solid #aabbd0 !important}
-#day-events .event-preview[data-ca239-artist]{padding-left:12px !important;border-radius:5px 0 0 5px}
-#results .result-card[data-ca239-artist],#year-only-list .year-only-card[data-ca239-artist]{padding-left:max(15px,1.1em) !important}
-#ca-single-detail .ca-detail-paper[data-ca239-artist]{border-left-width:5px !important}
-:is(#results,#day-events,#year-only-list,#ca-single-detail,#ca40-items) .ca-artist-tag{opacity:1 !important;visibility:visible !important}
-@media(max-width:580px){#day-events .event-preview[data-ca239-artist]{padding-left:10px !important}#results .result-card[data-ca239-artist]{padding-left:12px !important}#ca-single-detail .ca-detail-paper[data-ca239-artist]{border-left-width:4px !important}}
+<!-- CA240_ARTIST_UI_START -->
+<style id="ca240-artist-ui-style">
+/* CA240: explicit per-record artist treatment; data remains unchanged */
+body .ca240-artist-tag{display:inline-flex!important;align-items:center!important;vertical-align:middle!important;font-family:inherit!important;font-size:12px!important;font-weight:800!important;line-height:1.45!important;border:1px solid!important;border-radius:999px!important;padding:3px 10px!important;max-width:100%;white-space:normal!important;overflow-wrap:anywhere;opacity:1!important;visibility:visible!important}
+body .ca39-day-meta .ca240-artist-tag{font-size:11px!important}
+body .ca40-info>.ca240-artist-tag,body .ca42-item-body>.ca240-artist-tag,body .ca43-item-body>.ca240-artist-tag{margin-bottom:6px}
+body #day-events .event-preview[data-ca240-artist]{padding-left:12px}
+body #ca-single-detail .ca-detail-chip.ca240-artist-tag{font-size:14px!important;padding:6px 12px!important}
+body #ca41-review-items li[data-ca240-artist],body #ca41-closed-items li[data-ca240-artist]{padding-left:10px}
+body #ca41-review-items li>.ca240-artist-tag,body #ca41-closed-items li>.ca240-artist-tag{margin:2px 8px 4px 0}
+@media(max-width:580px){body .ca240-artist-tag{font-size:11px!important}}
 </style>
-<script id="ca239-all-list-stripes-script">
+<script id="ca240-artist-ui-script">
 (()=>{
 'use strict';
-if(window.__ca239AllListStripesReady)return;
-window.__ca239AllListStripesReady=true;
-const NAMES={'CHAGE and ASKA':'ca','Chage':'chage','ASKA':'aska','MULTI MAX':'multi'};
-const TAG_CLASSES={'ca-artist-ca':'ca','ca-artist-chage':'chage','ca-artist-aska':'aska','ca-artist-multi':'multi','ca-artist-other':'other'};
-const SELECTOR='#results .result-card,#day-events .event-preview,#year-only-list .year-only-card,#ca-single-detail .ca-detail-paper,#ca40-items .ca40-item';
-const ARCHIVE=window.CA_EVENT_DATA;
-const byId=new Map((Array.isArray(ARCHIVE?.events)?ARCHIVE.events:[]).map(e=>[String(e.id),e]));
-function matchArtist(card){
-  const tag=card.querySelector('.ca-artist-tag');
-  if(tag){
-    for(const [c,v] of Object.entries(TAG_CLASSES)){if(tag.classList.contains(c))return v}
-    const name=tag.textContent.trim();if(Object.hasOwn(NAMES,name))return NAMES[name];
-  }
-  if(card.matches('#results .result-card')){
-    const e=byId.get(card.getAttribute('data-id'));if(e&&Object.hasOwn(NAMES,e.artist))return NAMES[e.artist];
-  }
-  if(card.matches('#ca-single-detail .ca-detail-paper')){
-    const id=new URLSearchParams(location.search).get('event');
-    const e=id&&byId.get(id);if(e&&Object.hasOwn(NAMES,e.artist))return NAMES[e.artist];
-  }
-  if(card.matches('#ca40-items .ca40-item')){
-    // 月間・期間一覧は既存タグを優先。旧描画では名前用パラグラフがある。
-    const person=card.querySelector('.ca40-person')?.textContent?.trim()||'';
-    for(const [name,value] of Object.entries(NAMES))if(person===name||person.startsWith(name+' ｜'))return value;
-  }
-  return null;
+if(window.__ca240ArtistUI)return;
+window.__ca240ArtistUI=true;
+const PALETTE=Object.freeze({
+ 'CHAGE and ASKA':{key:'ca',line:'#e9b261',fill:'#584329',ink:'#ffdc9c'},
+ 'Chage':{key:'chage',line:'#65deac',fill:'#1b5042',ink:'#abf2d4'},
+ 'ASKA':{key:'aska',line:'#e3a6ff',fill:'#59366d',ink:'#f3dbff'},
+ 'MULTI MAX':{key:'multi',line:'#f991bc',fill:'#65314d',ink:'#ffc5df'}
+});
+const hasName=n=>Object.prototype.hasOwnProperty.call(PALETTE,n);
+const clean=s=>String(s??'').trim();
+const CARD_SELECTOR=['#day-events .ca39-day-card','#day-events .event-preview','#results .result-card','#year-only-list .year-only-card','#ca40-items .ca40-item','#ca42-items .ca42-item','#ca43-items .ca43-item','#ca41-review-items li','#ca41-closed-items li','#ca39-dialog-items .ca39-modal-item','#ca-single-detail .ca-detail-paper','#ca-single-detail .ca-release-related-item','#ca-single-detail .ca-media-v223-item'].join(',');
+let byId=new Map(),lastEvents=null;
+function refreshIndex(){
+ const rows=window.CA_EVENT_DATA?.events;
+ if(Array.isArray(rows)&&rows!==lastEvents){lastEvents=rows;byId=new Map(rows.map(e=>[String(e.id),e]));}
+}
+function idFromLink(card){
+ for(const a of card.querySelectorAll('a[href]')){
+  try{const u=new URL(a.getAttribute('href'),location.href);if(u.origin===location.origin){const id=u.searchParams.get('event');if(id&&byId.has(id))return id;}}catch(_){}
+ }
+ return '';
+}
+function artistFor(card){
+ let id=card.getAttribute('data-event-id')||card.getAttribute('data-id')||'';
+ if(card.matches('.ca-detail-paper'))id=new URLSearchParams(location.search).get('event')||'';
+ else if(!id)id=idFromLink(card);
+ const e=byId.get(id);if(e&&hasName(clean(e.artist)))return clean(e.artist);
+ // The enhanced day list has its own exact artist field; never infer from a title.
+ const host=card.querySelector('.ca39-day-meta,.result-meta,.preview-top,.ca-detail-chips')||card;
+ for(const span of host.querySelectorAll('span.ca-artist-tag,span.ca240-artist-tag,span.tag.secondary,.ca39-day-meta > span,.ca-detail-chips > span,.preview-top > span')){
+  const name=clean(span.textContent);if(hasName(name))return name;
+ }
+ const person=card.querySelector('.ca40-person,.ca42-venue,.ca43-item-body > p');
+ if(person){const label=clean(person.textContent);for(const n of Object.keys(PALETTE)){if(label===n||label.startsWith(n+' ｜'))return n;}}
+ return '';
+}
+function setStyle(el,k,v){if(el.style.getPropertyValue(k)!==v||el.style.getPropertyPriority(k)!=='important')el.style.setProperty(k,v,'important');}
+function makeTag(card,name,p){
+ let host=card.querySelector('.ca39-day-meta,.result-meta,.preview-top,.ca-detail-chips');
+ if(card.matches('.ca-detail-paper'))host=card.querySelector('.ca-detail-chips');
+ if(!host)host=card.querySelector('.ca40-info,.ca42-item-body,.ca43-item-body')||card;
+ let tag=[...host.querySelectorAll('.ca-artist-tag,.ca240-artist-tag')].find(x=>x.closest(CARD_SELECTOR)===card&&clean(x.textContent)===name);
+ if(!tag&&host.matches('.ca39-day-meta,.result-meta,.preview-top,.ca-detail-chips'))tag=[...host.querySelectorAll('span')].find(x=>clean(x.textContent)===name);
+ if(!tag){
+  tag=document.createElement('span');tag.textContent=name;
+  if(host===card){
+   const title=card.querySelector('h3,h4,strong');
+   if(title&&title.parentElement===card)card.insertBefore(tag,title);else card.prepend(tag);
+  }else if(host.matches('.ca40-info,.ca42-item-body,.ca43-item-body')){
+   const title=host.querySelector('h3,h4');if(title)title.insertAdjacentElement('beforebegin',tag);else host.prepend(tag);
+  }else host.append(tag);
+ }
+ if(!tag.classList.contains('ca240-artist-tag'))tag.classList.add('ca240-artist-tag');
+ tag.classList.add('ca-artist-tag','ca-artist-'+p.key);
+ tag.setAttribute('aria-label','名義：'+name);
+ setStyle(tag,'color',p.ink);setStyle(tag,'background-color',p.fill);setStyle(tag,'border-color',p.line);
+ return tag;
 }
 function apply(){
-  document.querySelectorAll(SELECTOR).forEach(card=>{
-    const who=matchArtist(card);
-    if(!who)return;
-    if(card.dataset.ca239Artist!==who)card.dataset.ca239Artist=who;
-  });
+ refreshIndex();
+ for(const card of document.querySelectorAll(CARD_SELECTOR)){
+  const name=artistFor(card);if(!name)continue;const p=PALETTE[name];
+  if(card.dataset.ca240Artist!==p.key)card.dataset.ca240Artist=p.key;
+  setStyle(card,'border-left-color',p.line);setStyle(card,'border-left-style','solid');setStyle(card,'border-left-width',card.matches('.ca-detail-paper')?'5px':'4px');
+  makeTag(card,name,p);
+ }
 }
 function init(){
-  apply();
-  let queued=false;
-  const observer=new MutationObserver(mutations=>{
-    const useful=mutations.some(m=>(m.target.nodeType===1 && m.target.closest && m.target.closest(SELECTOR)) || Array.from(m.addedNodes).some(n=>n.nodeType===1 && ((n.matches && n.matches(SELECTOR)) || (n.querySelector && n.querySelector(SELECTOR)))));
-    if(!useful||queued)return;
-    queued=true;
-    queueMicrotask(()=>{queued=false;apply()});
-  });
-  observer.observe(document.body,{childList:true,subtree:true});
-  // ブラウザーの戻る、折りたたみ復元など既存スクリプトの再描画に対応。
-  window.addEventListener('pageshow',apply);
+ // The deferred events.js and all deferred view scripts have executed by DOMContentLoaded.
+ apply();let queued=false;
+ const schedule=()=>{if(queued)return;queued=true;requestAnimationFrame(()=>{queued=false;apply();});};
+ const observer=new MutationObserver(records=>{if(records.some(r=>r.addedNodes.length||r.removedNodes.length))schedule();});
+ observer.observe(document.body,{childList:true,subtree:true});
+ window.addEventListener('pageshow',schedule);
+ document.addEventListener('visibilitychange',()=>{if(!document.hidden)schedule();});
 }
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
 })();
 </script>
-<!-- CA239_ALL_LIST_STRIPES_END -->
+<!-- CA240_ARTIST_UI_END -->
 </body>
 </html>
