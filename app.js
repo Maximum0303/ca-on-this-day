@@ -46,7 +46,12 @@ function renderCalendar(){
  }
  $('calendar-cells').innerHTML=html.join('');
 }
-function preview(e){const d=fromDate(e.date);const subtitle=[e.prefecture,e.venue].filter(Boolean).join('・');return `<div class="event-preview"><div class="preview-top"><span>${d.year}年</span><span class="tag">${CAT[e.category]||'その他'}</span></div><strong>${esc(e.title)}</strong>${subtitle?`<p>${esc(subtitle)}</p>`:''}${e.description?`<p>${esc(e.description)}</p>`:''}</div>`;}
+/* CA_ARTIST_TAGS_20261124 */
+const CA_ARTIST_CLASS={'CHAGE and ASKA':'ca-artist-ca','Chage':'ca-artist-chage','ASKA':'ca-artist-aska','MULTI MAX':'ca-artist-multi'};
+function caArtistTag(e){const name=String(e.artist||'').trim();const cls=CA_ARTIST_CLASS[name]||'ca-artist-other';return '<span class="ca-artist-tag '+cls+'" aria-label="名義：'+esc(name)+'">'+esc(name||'名義未設定')+'</span>';}
+function caSyncArtistQuick(){const root=$('ca-artist-quick');if(!root)return;const value=$('artist-filter')?.value||'all';for(const btn of root.querySelectorAll('button[data-ca-artist]')){const selected=btn.dataset.caArtist===value;btn.classList.toggle('ca-is-active',selected);btn.setAttribute('aria-pressed',String(selected));}}
+/* /CA_ARTIST_TAGS_20261124 */
+function preview(e){const d=fromDate(e.date);const subtitle=[e.prefecture,e.venue].filter(Boolean).join('・');return `<div class="event-preview"><div class="preview-top"><span>${d.year}年</span><span class="tag">${CAT[e.category]||'その他'}</span>${caArtistTag(e)}</div><strong>${esc(e.title)}</strong>${subtitle?`<p>${esc(subtitle)}</p>`:''}${e.description?`<p>${esc(e.description)}</p>`:''}</div>`;}
 function renderDay(){
  const matches=events.filter(e=>{const d=fromDate(e.date);return d.month===state.month&&d.day===state.day;}).sort((a,b)=>a.date.localeCompare(b.date));
  $('selected-date').textContent=`${state.month}月${state.day}日`;
@@ -83,7 +88,7 @@ function resultCard(e){
  const workSummary=works.length?'<p class="ca-release-works"><strong>対象作品：</strong>'+works.map(esc).join(' ／ ')+'</p>':'';
  const datePart=yearOnly?'<span class="y">'+d.year+'</span><span class="md">月日未詳</span>':'<span class="y">'+d.year+'</span><span class="md">'+pad(d.month)+'.'+pad(d.day)+'</span><span class="week">'+dayOfWeek(d.year,d.month,d.day)+'曜日</span>';
  const statusText=yearOnly&&e.category==='milestone'?'年単位の歴史記録':STATUS_NAMES[kind];
- return `<article class="result-card ${yearOnly?'year-precision':''}" data-id="${esc(e.id)}"><div class="result-date">${datePart}</div><div><div class="result-meta"><span class="tag">${esc(category(e))}</span><span class="tag secondary">${esc(e.artist)}</span><span class="tag status-tag status-${kind}">${statusText}</span><span class="tag secondary">${esc(verificationLabel(e))}</span></div><h3>${esc(e.title)}</h3>${details?`<p>${esc(details)}</p>`:''}${workSummary}${e.description?`<p class="record-note">${esc(e.description)}</p>`:''}${e.note?`<details class="ca23-audit"><summary>調査・確認記録（元の備考）</summary><p>${esc(e.note)}</p></details>`:''}<div class="record-actions"><a class="record-permalink" href="${esc(recordUrl(e))}">この記録を開く ↗</a></div><details><summary>出典・確認状況</summary><p>${esc(verificationLabel(e))}${e.performanceNo?' ／ ツアー公演 '+esc(e.performanceNo)+'回目':''}</p>${link?`<div class="source-links">${link}</div>`:''}</details></div></article>`;
+ return `<article class="result-card ${yearOnly?'year-precision':''}" data-id="${esc(e.id)}"><div class="result-date">${datePart}</div><div><div class="result-meta"><span class="tag">${esc(category(e))}</span>${caArtistTag(e)}<span class="tag status-tag status-${kind}">${statusText}</span><span class="tag secondary">${esc(verificationLabel(e))}</span></div><h3>${esc(e.title)}</h3>${details?`<p>${esc(details)}</p>`:''}${workSummary}${e.description?`<p class="record-note">${esc(e.description)}</p>`:''}${e.note?`<details class="ca23-audit"><summary>調査・確認記録（元の備考）</summary><p>${esc(e.note)}</p></details>`:''}<div class="record-actions"><a class="record-permalink" href="${esc(recordUrl(e))}">この記録を開く ↗</a></div><details><summary>出典・確認状況</summary><p>${esc(verificationLabel(e))}${e.performanceNo?' ／ ツアー公演 '+esc(e.performanceNo)+'回目':''}</p>${link?`<div class="source-links">${link}</div>`:''}</details></div></article>`;
 }
 function searchableText(e){const names=Array.isArray(e.releaseTitles)?e.releaseTitles.filter(x=>typeof x==='string'):[];return [e.id,e.date,e.title,e.artist,e.venue,e.prefecture,e.description,e.note,e.releaseTitle,...names,e.catalogNumber,e.catalogNo,e.format,e.releaseFormat,e.tourId,e.broadcastStation].filter(Boolean).join(' ').normalize('NFKC').toLocaleLowerCase('ja-JP');}
 /* YEAR_ONLY_CONDITIONAL_V221: year-only records are visible only with the relevant filter */
@@ -144,6 +149,7 @@ function renderResults(){
  $('load-more').textContent='さらに表示する（残り '+(count-state.limit)+'件）';
  $('export-results').disabled=count===0;
  renderYearOnly(matches);
+ caSyncArtistQuick();
 }
 function restoreFilters(){
  const names=[['artist','artist-filter'],['category','category-filter'],['decade','decade-filter'],['year','year-filter'],['status','status-filter'],['verification','verification-filter'],['sort','sort-filter']];
@@ -173,7 +179,7 @@ function renderYearOnly(matches){
  if(!list.length){box.replaceChildren();return;}
  box.innerHTML=list.map(e=>{
   const note=String(e.description||'');const brief=note.length>260?note.slice(0,260)+'…':note;
-  return '<article class="year-only-card"><span class="year-only-stamp">'+esc(e.date)+'年／月日未詳</span><span class="tag">'+esc(category(e))+'</span><h3>'+esc(e.title)+'</h3><p>'+esc(brief)+'</p><a href="'+esc(recordUrl(e))+'">記録の詳細・出典を見る ↗</a></article>';
+  return '<article class="year-only-card"><span class="year-only-stamp">'+esc(e.date)+'年／月日未詳</span><span class="tag">'+esc(category(e))+'</span>'+caArtistTag(e)+'<h3>'+esc(e.title)+'</h3><p>'+esc(brief)+'</p><a href="'+esc(recordUrl(e))+'">記録の詳細・出典を見る ↗</a></article>';
  }).join('');
 }
 /* /YEAR_ONLY_RECORDS_V2029 */
@@ -197,5 +203,12 @@ $('reset-filters').addEventListener('click',()=>{
 });
 $('load-more').addEventListener('click',()=>{state.limit+=18;renderResults();});
 $('export-results').addEventListener('click',saveResultsCSV);
+/* CA_ARTIST_TAGS_20261124 click --> dropdown synchronization */
+$('ca-artist-quick')?.addEventListener('click',event=>{
+ const btn=event.target.closest('button[data-ca-artist]');if(!btn)return;
+ const select=$('artist-filter');if(!Array.from(select.options).some(option=>option.value===btn.dataset.caArtist))return;
+ select.value=btn.dataset.caArtist;select.dispatchEvent(new Event('change',{bubbles:true}));
+});
+/* /CA_ARTIST_TAGS_20261124 */
 renderHero();renderCalendar();renderDay();renderStats();renderResults();syncURL();
 })();

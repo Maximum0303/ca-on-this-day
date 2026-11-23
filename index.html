@@ -20,7 +20,7 @@
 <meta name="twitter:image" content="https://maximum0303.github.io/ca-on-this-day/ogp.png">
 <meta name="twitter:image:alt" content="今日はC&amp;Aの何の日？ 音楽の歴史カレンダー">
 <title>今日はC&Aの何の日？｜CHAGE and ASKA HISTORY CALENDAR</title>
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css?v=artist-tags-20261124">
 <link rel="stylesheet" href="ca-ver39.css">
 <link rel="stylesheet" href="ca-ver40.css">
 <link rel="stylesheet" href="ca-ver41.css">
@@ -32,7 +32,7 @@
 <link rel="stylesheet" href="ca-mobile-v211.css">
 <link rel="stylesheet" href="ca-calendar-v212.css?v=2.1.2">
 <script defer src="data/events.js?v=2.2.0"></script>
-<script defer src="app.js?v=2.3.7"></script>
+<script defer src="app.js?v=artist-tags-20261124"></script>
 <script defer src="ca-ver39.js?v=2.3.0"></script>
 <script defer src="ca-ver40.js?v=2.3.6"></script>
 <script defer src="data/review-followup.js?v=2.2.11"></script>
@@ -165,6 +165,16 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
     <!-- /YEAR_ONLY_RECORDS_V2029 -->
     <section id="browse" class="browse-section">
       <div class="section-head"><div><span class="kicker">02 / EXPLORE THE ARCHIVE</span><h2>出来事を探す</h2><p>ライブ・作品発売などの記録を横断検索できます。</p></div><span class="record-total" id="record-total">読み込み中</span></div>
+<!-- CA_ARTIST_TAGS_20261124 -->
+<div id="ca-artist-quick" class="ca-artist-quick" role="group" aria-label="名義をワンクリックで絞り込み">
+<span class="ca-artist-quick-label">名義を選ぶ</span>
+<button type="button" class="ca-artist-quick-btn ca-artist-all" data-ca-artist="all" aria-pressed="true">すべて</button>
+<button type="button" class="ca-artist-quick-btn ca-artist-ca" data-ca-artist="CHAGE and ASKA" aria-pressed="false">CHAGE and ASKA</button>
+<button type="button" class="ca-artist-quick-btn ca-artist-chage" data-ca-artist="Chage" aria-pressed="false">Chage</button>
+<button type="button" class="ca-artist-quick-btn ca-artist-aska" data-ca-artist="ASKA" aria-pressed="false">ASKA</button>
+<button type="button" class="ca-artist-quick-btn ca-artist-multi" data-ca-artist="MULTI MAX" aria-pressed="false">MULTI MAX</button>
+</div>
+<!-- /CA_ARTIST_TAGS_20261124 -->
       <div class="filters">
         <label class="search-wrap"><span class="sr-only">キーワード検索</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.9" cy="10.9" r="7"/><path d="m16 16 5 5"/></svg><input id="keyword" type="search" placeholder="曲名・ツアー・会場・都道府県で検索" autocomplete="off"></label>
         <label><span>名義</span><select id="artist-filter"><option value="all">すべて</option><option>CHAGE and ASKA</option><option>Chage</option><option>ASKA</option><option>MULTI MAX</option></select></label>
@@ -244,7 +254,10 @@ document.addEventListener('DOMContentLoaded',function(){
  if(m)stamp.dateTime=date;paper.append(stamp,node('h1','ca-detail-title',e.title||'タイトル未設定'));
  const chips=node('div','ca-detail-chips');
  const cats={live:'ライブ',release:'作品発売',media:'テレビ・ラジオ',milestone:'記録・記念日',amateur:'デビュー前・アマチュア活動',other:'その他'};
- [e.artist,cats[e.category]||e.category].filter(Boolean).forEach(v=>chips.append(node('span','ca-detail-chip',v)));paper.append(chips);
+ const artistName=String(e.artist||'').trim();
+ const artistClass=({'CHAGE and ASKA':'ca-artist-ca','Chage':'ca-artist-chage','ASKA':'ca-artist-aska','MULTI MAX':'ca-artist-multi'})[artistName]||'ca-artist-other';
+ chips.append(node('span','ca-detail-chip ca-artist-tag '+artistClass,artistName||'名義未設定'));
+ chips.append(node('span','ca-detail-chip',cats[e.category]||e.category));paper.append(chips);
  const place=[e.prefecture,e.venue].filter(Boolean).join('・');if(place)paper.append(node('p','ca-detail-place',place));
  const part=title=>{const s=node('section','ca-detail-section');s.append(node('h2','',title));paper.append(s);return s;};
  if(e.description)part('この日の出来事').append(node('div','ca-detail-note',e.description));

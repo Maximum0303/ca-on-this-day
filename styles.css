@@ -22,3 +22,24 @@
 #export-results:disabled{opacity:.45;cursor:not-allowed}
 @media(max-width:980px){.filters{grid-template-columns:repeat(3,minmax(0,1fr))}.filters .search-wrap{grid-column:1/-1}}
 @media(max-width:580px){.filters{grid-template-columns:repeat(2,minmax(0,1fr))}.filters .search-wrap{grid-column:1/-1}.results-toolbar{align-items:flex-start;flex-direction:column}.result-actions{width:100%;justify-content:space-between}}
+
+/* CA_ARTIST_TAGS_20261124: artist labeling + accessible quick filter */
+.ca-artist-tag,.ca-artist-quick-btn{--ca-artist-color:#d5e0ee;--ca-artist-fill:rgba(166,187,210,.13);--ca-artist-border:rgba(176,195,214,.52)}
+.ca-artist-ca{--ca-artist-color:#ffdc9c;--ca-artist-fill:rgba(222,153,51,.18);--ca-artist-border:rgba(246,191,102,.68)}
+.ca-artist-chage{--ca-artist-color:#abf2d4;--ca-artist-fill:rgba(45,161,126,.18);--ca-artist-border:rgba(101,222,172,.62)}
+.ca-artist-aska{--ca-artist-color:#b6d6ff;--ca-artist-fill:rgba(65,125,218,.20);--ca-artist-border:rgba(120,173,255,.67)}
+.ca-artist-multi{--ca-artist-color:#ffc5df;--ca-artist-fill:rgba(202,83,139,.18);--ca-artist-border:rgba(249,145,188,.70)}
+.ca-artist-tag{display:inline-flex;vertical-align:middle;align-items:center;justify-content:center;max-width:100%;border:1px solid var(--ca-artist-border);border-radius:999px;background:var(--ca-artist-fill);color:var(--ca-artist-color);font-size:11px;font-weight:800;letter-spacing:.015em;line-height:1.5;padding:3px 10px;white-space:normal;overflow-wrap:anywhere}
+.result-meta .ca-artist-tag{font-size:12px;padding:4px 11px}
+.preview-top{flex-wrap:wrap;row-gap:4px}.preview-top .ca-artist-tag{font-size:11px}
+.year-only-card .ca-artist-tag{margin:0 4px 4px 5px}
+.ca-detail-chips .ca-detail-chip.ca-artist-tag{color:var(--ca-artist-color);border:1px solid var(--ca-artist-border);background:var(--ca-artist-fill);padding:7px 13px;font-weight:800;font-size:14px}
+.ca-artist-quick{display:flex;align-items:center;flex-wrap:wrap;gap:7px;padding:10px 2px 12px;min-width:0}
+.ca-artist-quick-label{font-size:12px;color:var(--muted,#b3c0d2);font-weight:700;margin-right:5px}
+.ca-artist-quick-btn{font:inherit;font-size:12px;font-weight:750;line-height:1.45;min-height:36px;padding:7px 11px;min-width:0;max-width:100%;white-space:normal;border:1px solid var(--ca-artist-border);border-radius:999px;background:rgba(162,177,196,.07);color:var(--ca-artist-color);cursor:pointer;transition:background .14s,box-shadow .14s}
+.ca-artist-quick-btn:hover{background:var(--ca-artist-fill)}
+.ca-artist-quick-btn.ca-is-active{background:var(--ca-artist-fill);box-shadow:inset 0 0 0 1px var(--ca-artist-border)}
+.ca-artist-quick-btn:focus-visible{outline:3px solid #ffdf9b;outline-offset:3px}
+.ca-artist-quick-btn.ca-artist-all{--ca-artist-color:#f3e5c7;--ca-artist-border:rgba(243,229,199,.5);--ca-artist-fill:rgba(243,229,199,.15)}
+@media(max-width:580px){.ca-artist-quick{gap:7px;padding:12px 0}.ca-artist-quick-label{width:100%;margin-bottom:1px}.ca-artist-quick-btn{font-size:11px;min-height:36px;padding:7px 10px}.result-meta .ca-artist-tag{font-size:11px}}
+/* /CA_ARTIST_TAGS_20261124 */
