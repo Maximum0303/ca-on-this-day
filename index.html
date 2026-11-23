@@ -806,5 +806,73 @@ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',
 })();
 </script>
 
+<!-- CA239_ALL_LIST_STRIPES_START: Display-only, no changes to event data -->
+<style id="ca239-all-list-stripes">
+/* 画面 Ver.2.3.9：タグに依存する :has() を使わずカード自身へ色を直接割り当てる。 */
+:is(#results .result-card,#day-events .event-preview,#year-only-list .year-only-card,#ca-single-detail .ca-detail-paper,#ca40-items .ca40-item)[data-ca239-artist="ca"]{border-left:4px solid #e9b261 !important}
+:is(#results .result-card,#day-events .event-preview,#year-only-list .year-only-card,#ca-single-detail .ca-detail-paper,#ca40-items .ca40-item)[data-ca239-artist="chage"]{border-left:4px solid #65deac !important}
+:is(#results .result-card,#day-events .event-preview,#year-only-list .year-only-card,#ca-single-detail .ca-detail-paper,#ca40-items .ca40-item)[data-ca239-artist="aska"]{border-left:4px solid #e3a6ff !important}
+:is(#results .result-card,#day-events .event-preview,#year-only-list .year-only-card,#ca-single-detail .ca-detail-paper,#ca40-items .ca40-item)[data-ca239-artist="multi"]{border-left:4px solid #f991bc !important}
+:is(#results .result-card,#day-events .event-preview,#year-only-list .year-only-card,#ca-single-detail .ca-detail-paper,#ca40-items .ca40-item)[data-ca239-artist="other"]{border-left:4px solid #aabbd0 !important}
+#day-events .event-preview[data-ca239-artist]{padding-left:12px !important;border-radius:5px 0 0 5px}
+#results .result-card[data-ca239-artist],#year-only-list .year-only-card[data-ca239-artist]{padding-left:max(15px,1.1em) !important}
+#ca-single-detail .ca-detail-paper[data-ca239-artist]{border-left-width:5px !important}
+:is(#results,#day-events,#year-only-list,#ca-single-detail,#ca40-items) .ca-artist-tag{opacity:1 !important;visibility:visible !important}
+@media(max-width:580px){#day-events .event-preview[data-ca239-artist]{padding-left:10px !important}#results .result-card[data-ca239-artist]{padding-left:12px !important}#ca-single-detail .ca-detail-paper[data-ca239-artist]{border-left-width:4px !important}}
+</style>
+<script id="ca239-all-list-stripes-script">
+(()=>{
+'use strict';
+if(window.__ca239AllListStripesReady)return;
+window.__ca239AllListStripesReady=true;
+const NAMES={'CHAGE and ASKA':'ca','Chage':'chage','ASKA':'aska','MULTI MAX':'multi'};
+const TAG_CLASSES={'ca-artist-ca':'ca','ca-artist-chage':'chage','ca-artist-aska':'aska','ca-artist-multi':'multi','ca-artist-other':'other'};
+const SELECTOR='#results .result-card,#day-events .event-preview,#year-only-list .year-only-card,#ca-single-detail .ca-detail-paper,#ca40-items .ca40-item';
+const ARCHIVE=window.CA_EVENT_DATA;
+const byId=new Map((Array.isArray(ARCHIVE?.events)?ARCHIVE.events:[]).map(e=>[String(e.id),e]));
+function matchArtist(card){
+  const tag=card.querySelector('.ca-artist-tag');
+  if(tag){
+    for(const [c,v] of Object.entries(TAG_CLASSES)){if(tag.classList.contains(c))return v}
+    const name=tag.textContent.trim();if(Object.hasOwn(NAMES,name))return NAMES[name];
+  }
+  if(card.matches('#results .result-card')){
+    const e=byId.get(card.getAttribute('data-id'));if(e&&Object.hasOwn(NAMES,e.artist))return NAMES[e.artist];
+  }
+  if(card.matches('#ca-single-detail .ca-detail-paper')){
+    const id=new URLSearchParams(location.search).get('event');
+    const e=id&&byId.get(id);if(e&&Object.hasOwn(NAMES,e.artist))return NAMES[e.artist];
+  }
+  if(card.matches('#ca40-items .ca40-item')){
+    // 月間・期間一覧は既存タグを優先。旧描画では名前用パラグラフがある。
+    const person=card.querySelector('.ca40-person')?.textContent?.trim()||'';
+    for(const [name,value] of Object.entries(NAMES))if(person===name||person.startsWith(name+' ｜'))return value;
+  }
+  return null;
+}
+function apply(){
+  document.querySelectorAll(SELECTOR).forEach(card=>{
+    const who=matchArtist(card);
+    if(!who)return;
+    if(card.dataset.ca239Artist!==who)card.dataset.ca239Artist=who;
+  });
+}
+function init(){
+  apply();
+  let queued=false;
+  const observer=new MutationObserver(mutations=>{
+    const useful=mutations.some(m=>(m.target.nodeType===1 && m.target.closest && m.target.closest(SELECTOR)) || Array.from(m.addedNodes).some(n=>n.nodeType===1 && ((n.matches && n.matches(SELECTOR)) || (n.querySelector && n.querySelector(SELECTOR)))));
+    if(!useful||queued)return;
+    queued=true;
+    queueMicrotask(()=>{queued=false;apply()});
+  });
+  observer.observe(document.body,{childList:true,subtree:true});
+  // ブラウザーの戻る、折りたたみ復元など既存スクリプトの再描画に対応。
+  window.addEventListener('pageshow',apply);
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
+})();
+</script>
+<!-- CA239_ALL_LIST_STRIPES_END -->
 </body>
 </html>
