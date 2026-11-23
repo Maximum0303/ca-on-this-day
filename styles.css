@@ -43,3 +43,20 @@
 .ca-artist-quick-btn.ca-artist-all{--ca-artist-color:#f3e5c7;--ca-artist-border:rgba(243,229,199,.5);--ca-artist-fill:rgba(243,229,199,.15)}
 @media(max-width:580px){.ca-artist-quick{gap:7px;padding:12px 0}.ca-artist-quick-label{width:100%;margin-bottom:1px}.ca-artist-quick-btn{font-size:11px;min-height:36px;padding:7px 10px}.result-meta .ca-artist-tag{font-size:11px}}
 /* /CA_ARTIST_TAGS_20261124 */
+
+/* CA_ARTIST_STRIPES_20261124: list left-edge artist colors, including day, search, year-only and detail */
+/* 文字の名義タグを判定するため、詳細データに属性追加せずに各カードを色分けします。 */
+:is(.result-card,.event-preview,.year-only-card,.ca-detail-paper){--ca-stripe-color:#aabbd0}
+:is(.result-card,.event-preview,.year-only-card,.ca-detail-paper):has(.ca-artist-ca){--ca-stripe-color:#e9b261}
+:is(.result-card,.event-preview,.year-only-card,.ca-detail-paper):has(.ca-artist-chage){--ca-stripe-color:#65deac}
+:is(.result-card,.event-preview,.year-only-card,.ca-detail-paper):has(.ca-artist-aska){--ca-stripe-color:#e3a6ff}
+:is(.result-card,.event-preview,.year-only-card,.ca-detail-paper):has(.ca-artist-multi){--ca-stripe-color:#f991bc}
+:is(.result-card,.year-only-card,.ca-detail-paper):has(.ca-artist-tag){border-left:4px solid var(--ca-stripe-color)}
+/* 「この日の出来事」は元の枠を維持して控えめな縦線だけ表示します。 */
+.event-preview:has(.ca-artist-tag){border-left:3px solid var(--ca-stripe-color);padding-left:12px;padding-right:3px;border-radius:5px 0 0 5px}
+/* 枠が縦に密集しても見やすいよう余白を追加します。 */
+.result-card:has(.ca-artist-tag){padding-left:max(12px,1.1em)}
+.year-only-card:has(.ca-artist-tag){padding-left:max(16px,1.2em)}
+.ca-detail-paper:has(.ca-artist-tag){border-left-width:5px}
+@media(max-width:580px){.event-preview:has(.ca-artist-tag){padding-left:10px}.result-card:has(.ca-artist-tag){padding-left:12px}.ca-detail-paper:has(.ca-artist-tag){border-left-width:4px}}
+/* /CA_ARTIST_STRIPES_20261124 */
