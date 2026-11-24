@@ -96940,7 +96940,25 @@ window.CA_EVENT_DATA = {
       ],
       "description": "2026年9月25日、BS10プレミアム「Chage Billboard Live 67 to 68」再放送の日程が確認されている（21:00〜22:30）。実際の放送実施は未確認。",
       "endTime": "22:30"
+    },
+    {
+      "id": "media-owned-19921031-count-down-100",
+      "date": "1992-10-31",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "テレビ「突然バラエティー速報!!COUNT DOWN100」出演・放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "broadcastStation": "TBS",
+      "description": "TBSの音楽番組「突然バラエティー速報!!COUNT DOWN100」の第3回放送にCHAGE and ASKAがゲスト出演したと記録されている。所蔵映像リストには「no no darlin'」の曲名が記載されている。",
+      "note": "非公式の番組記録に1992年10月31日のゲスト出演が記載され、所蔵映像ファイルリストの日付・番組・名義と一致。曲名は所蔵リストによる。映像本編・放送局等の一次資料は未照合。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://www.wikipedia-is-dead.com/wiki/%E7%AA%81%E7%84%B6%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E3%83%BC%E9%80%9F%E5%A0%B1%21%21COUNT%20DOWN100"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.2.14"
+  "siteVersion": "2.2.15"
 };
