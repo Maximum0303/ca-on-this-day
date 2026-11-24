@@ -96,7 +96,8 @@
     }
   }
 
-  let dayDisplay={key:'',year:'all',sort:'desc',limit:12};
+  /* CA242_DAY_FILTERS: display only */
+  let dayDisplay={key:'',year:'all',sort:'desc',artist:'all',category:'all',limit:12};
   let refreshing=false;
   const dateKey=()=>{
     const text=$('selected-date')?.textContent||'';
@@ -124,18 +125,27 @@
   function renderDayEnhanced() {
     const key=dateKey();
     if (!key) return;
-    if (dayDisplay.key!==key) dayDisplay={key,year:'all',sort:'desc',limit:12};
+    if (dayDisplay.key!==key) dayDisplay={key,year:'all',sort:'desc',artist:'all',category:'all',limit:12};
     const matches=events.filter(e=>String(e.date||'').slice(5)===key).sort(compare);
     if (!matches.length) return; // preserve Ver.38 partial-archive empty message
     const years=[...new Set(matches.map(e=>String(e.date).slice(0,4)))].sort((a,b)=>b.localeCompare(a));
     const yearFiltered=dayDisplay.year==='all'?matches:matches.filter(e=>String(e.date).startsWith(dayDisplay.year+'-'));
-    const ordered=dayDisplay.sort==='desc'?[...yearFiltered].reverse():yearFiltered;
+    const artistKey=e=>String(e.artist||'').trim()||'__unknown__';
+    const categoryKey=e=>Object.prototype.hasOwnProperty.call(cats,e.category)?e.category:'other';
+    const artistOrder=['CHAGE and ASKA','Chage','ASKA','MULTI MAX'];
+    const artistValues=[...new Set(matches.map(artistKey))].sort((a,b)=>{const rank=x=>artistOrder.includes(x)?artistOrder.indexOf(x):99;return rank(a)-rank(b)||a.localeCompare(b,'ja');});
+    const categoryValues=Object.keys(cats).filter(k=>matches.some(e=>categoryKey(e)===k));
+    const makeOptions=(values,key,label,selected,allLabel)=>['<option value="all">'+allLabel+'</option>',...values.map(v=>'<option value="'+esc(v)+'" '+(selected===v?'selected':'')+'>'+esc(label(v))+' ('+matches.filter(e=>key(e)===v).length+'件)</option>')].join('');
+    const artistOptions=makeOptions(artistValues,artistKey,v=>v==='__unknown__'?'名義未設定':v,dayDisplay.artist,'すべての名義');
+    const categoryOptions=makeOptions(categoryValues,categoryKey,v=>cats[v],dayDisplay.category,'すべての分類');
+    const filtered=yearFiltered.filter(e=>(dayDisplay.artist==='all'||artistKey(e)===dayDisplay.artist)&&(dayDisplay.category==='all'||categoryKey(e)===dayDisplay.category));
+    const ordered=dayDisplay.sort==='desc'?[...filtered].reverse():filtered;
     const visible=ordered.slice(0,dayDisplay.limit);
     const options=['<option value="all">すべての年</option>',...years.map(y=>`<option value="${esc(y)}" ${dayDisplay.year===y?'selected':''}>${esc(y)}年 (${matches.filter(e=>String(e.date).startsWith(y+'-')).length}件)</option>`)].join('');
     const panel=`<div class="ca39-day-list" data-ca39-date="${esc(key)}">
-      <div class="ca39-day-toolbar"><label>表示年<select id="ca39-day-year">${options}</select></label><label>並び順<select id="ca39-day-sort"><option value="desc" ${dayDisplay.sort==='desc'?'selected':''}>新しい順</option><option value="asc" ${dayDisplay.sort==='asc'?'selected':''}>古い順</option></select></label></div>
-      <p class="ca39-day-match">${yearFiltered.length}件中 ${visible.length}件を表示（同一日の異なる公演も個別に表示）</p>
-      ${visible.map(dayCard).join('')}
+      <div class="ca39-day-toolbar"><label>表示年<select id="ca39-day-year">${options}</select></label><label>並び順<select id="ca39-day-sort"><option value="desc" ${dayDisplay.sort==='desc'?'selected':''}>新しい順</option><option value="asc" ${dayDisplay.sort==='asc'?'selected':''}>古い順</option></select></label><label>名義<select id="ca39-day-artist">${artistOptions}</select></label><label>分類<select id="ca39-day-category">${categoryOptions}</select></label></div>
+      <p class="ca39-day-match">この日の全${matches.length}件 ／ 条件に一致 ${filtered.length}件 ／ ${visible.length}件を表示</p>
+      ${visible.length?visible.map(dayCard).join(''):'<p class="ca39-day-match">この条件に一致する登録済みの記録はありません。表示年・名義・分類を変更してください。</p>'}
       ${visible.length<ordered.length?`<button type="button" id="ca39-day-more" class="ca39-more">さらに${Math.min(12,ordered.length-visible.length)}件を表示（残り${ordered.length-visible.length}件）</button>`:''}
     </div>`;
     // MutationObserver watches direct children; marked markup prevents an update loop.
@@ -209,8 +219,8 @@
   dlg.addEventListener('click',ev=>{if(ev.target===dlg) dlg.close?.();});
   $('ca39-modal-more').addEventListener('click',()=>{modalLimit+=30;renderModal();});
   $('day-events').addEventListener('change',ev=>{
-    if(ev.target.id==='ca39-day-year') {dayDisplay.year=ev.target.value;dayDisplay.limit=12;renderDayEnhanced();}
-    if(ev.target.id==='ca39-day-sort') {dayDisplay.sort=ev.target.value;dayDisplay.limit=12;renderDayEnhanced();}
+    const field=({'ca39-day-year':'year','ca39-day-sort':'sort','ca39-day-artist':'artist','ca39-day-category':'category'})[ev.target.id];
+    if(field){const id=ev.target.id;const restore=document.activeElement===ev.target;dayDisplay[field]=ev.target.value;dayDisplay.limit=12;renderDayEnhanced();if(restore)$(id)?.focus({preventScroll:true});}
   });
   $('day-events').addEventListener('click',ev=>{if(ev.target.closest?.('#ca39-day-more')) {dayDisplay.limit+=12;renderDayEnhanced();}});
 
