@@ -96537,13 +96537,13 @@
       "artist": "Chage",
       "category": "other",
       "title": "ビートルズ来日60周年「In Memorial The Beatles Live in Japan」昼公演ゲスト",
-      "status": "scheduled",
+      "status": "recorded",
       "verification": "primary",
       "prefecture": "東京都",
       "country": "日本",
       "venue": "BAUHAUS ROPPONGI",
       "startTime": "13:00",
-      "note": "【2026年11月23日追補調査】Chage公式の2026年5月21日付出演告知で、2026年6月27日昼公演（開演13:00）のスペシャルゲストとして出演予定だったことを確認。トークのStory Tellerは藤本国彦、ライブ演奏はTHE BEATMASTERSと案内されている。イベント自体の開催後報道はあるが、Chageが当日に登壇したことを確認できる一次資料を未取得のため、status=scheduled（出演予定を裏付ける情報）を維持し、実施済みとは断定しない。歌唱有無も未確認。ライブ公演数には算入しない。",
+      "note": "【2026年11月23日追補調査】Chage公式の2026年5月21日付出演告知で、2026年6月27日昼公演（開演13:00）のスペシャルゲストとして出演予定だったことを確認。トークのStory Tellerは藤本国彦、ライブ演奏はTHE BEATMASTERSと案内されている。イベント自体の開催後報道はあるが、Chageが当日に登壇したことを確認できる一次資料を未取得のため、status=scheduled（出演予定を裏付ける情報）を維持し、実施済みとは断定しない。歌唱有無も未確認。ライブ公演数には算入しない。\n2026年7月27日のChage公式スタッフ告知で、六本木BAUHAUSで開催されたイベントへの出演を確認。開催レポートのURLを追記。",
       "sources": [
         {
           "label": "Chage公式サイト（出演告知・出演枠）",
@@ -96552,6 +96552,14 @@
         {
           "label": "MUSIC LIFE CLUB（主催協力・公演告知）",
           "url": "https://www.musiclifeclub.com/news/20260522T_01.html"
+        },
+        {
+          "label": "イベント開催レポート（2026年7月23日）",
+          "url": "https://www.musiclifeclub.com/news/20260723T_01.html"
+        },
+        {
+          "label": "Chage公式スタッフ・開催後告知（2026年7月27日）",
+          "url": "https://x.com/Chage_jp_staff/status/2081575307430256746"
         }
       ],
       "description": "2026年6月27日、六本木BAUHAUSのビートルズ来日60周年記念イベント昼公演に、Chageが特別ゲストとして出演予定と発表された。演奏出演はTHE BEATMASTERSと案内されており、Chageの当日登壇は別途確認待ち。"
@@ -96914,5 +96922,5 @@
       "endTime": "22:30"
     }
   ],
-  "siteVersion": "2.2.11"
+  "siteVersion": "2.2.12"
 }
