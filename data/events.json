@@ -83810,34 +83810,58 @@
       "date": "2026-03-13",
       "artist": "Chage",
       "category": "media",
-      "title": "BS10「Chageのずっと細道 ～東西南北～」放送",
+      "title": "BS10プレミアム「Chageのずっと細道 ～東西南北～」テレビ初放送",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "密着ドキュメンタリー",
+      "verification": "primary",
+      "note": "密着ドキュメンタリー 【2026年11月24日公式日程確認】Chage公式と放送局公式にて初放送日・放送局・開始時刻を確認。既存の放送済み区分を維持。事後の公式実施報告は未確認。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        },
+        {
+          "label": "Chage公式：放送日程",
+          "url": "https://chage.jp/information/media/detail-792.php"
+        },
+        {
+          "label": "BS10プレミアム公式：放送日程・番組情報",
+          "url": "https://www.bs10.jp/premium/news/730/"
         }
       ],
-      "description": "2026年3月13日、Chageが取り上げられたテレビ番組「Chageのずっと細道～東西南北～」が放送された。"
+      "description": "2026年3月13日、BS10プレミアムで「Chageのずっと細道 ～東西南北～」がテレビ初放送されたとされる。公式告知で放送日程を確認。",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "10:00"
     },
     {
       "id": "v16-0087",
       "date": "2026-03-15",
       "artist": "Chage",
       "category": "media",
-      "title": "BS10プレミアム「Chage Billboard Live 67 to 68」放送",
+      "title": "BS10プレミアム「Chage Billboard Live 67 to 68」独占初放送",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "1月公演収録映像の放送",
+      "verification": "primary",
+      "note": "1月公演収録映像の放送 【2026年11月24日公式日程確認】Chage公式と放送局公式にて初放送日・放送局・開始時刻を確認。既存の放送済み区分を維持。事後の公式実施報告は未確認。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        },
+        {
+          "label": "Chage公式：放送日程",
+          "url": "https://chage.jp/information/media/detail-792.php"
+        },
+        {
+          "label": "Chage公式：放送日程",
+          "url": "https://chage.jp/information/media/detail-802.php"
+        },
+        {
+          "label": "BS10プレミアム公式：放送日程・番組情報",
+          "url": "https://www.bs10.jp/premium/news/730/"
         }
       ],
-      "description": "2026年3月15日、Chageが取り上げられたテレビ番組「Chage Billboard Live 67 to 68」が放送された。"
+      "description": "2026年3月15日、BS10プレミアムで「Chage Billboard Live 67 to 68」が独占初放送されたとされる。公式告知で放送日程を確認。",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "18:00"
     },
     {
       "id": "v16-0139",
@@ -96615,7 +96639,280 @@
         }
       ],
       "description": "2026年12月20日、BS10プレミアムで「Chage Billboard Live 67 to 68」が再放送される予定（06:40〜08:00）。"
+    },
+    {
+      "id": "media-2026-20260315-chage-hosomichi-tozainanboku-bs10premium",
+      "date": "2026-03-15",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Chageのずっと細道 ～東西南北～」再放送",
+      "status": "scheduled",
+      "verification": "primary",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "15:40",
+      "note": "【2026年11月24日確認】公式告知・番組表にて2026-03-15 15:40〜の再放送日程を確認。過去の日程だが実際の放送実施は未確認。",
+      "sources": [
+        {
+          "label": "Chage公式：放送日程",
+          "url": "https://chage.jp/information/media/detail-792.php"
+        },
+        {
+          "label": "BS10プレミアム公式：放送日程・番組情報",
+          "url": "https://www.bs10.jp/premium/news/730/"
+        }
+      ],
+      "description": "2026年3月15日、BS10プレミアム「Chageのずっと細道 ～東西南北～」再放送の日程が確認されている（15:40〜）。実際の放送実施は未確認。"
+    },
+    {
+      "id": "media-2026-20260323-chage-hosomichi-tozainanboku-bs10premium",
+      "date": "2026-03-23",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Chageのずっと細道 ～東西南北～」再放送",
+      "status": "scheduled",
+      "verification": "primary",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "18:00",
+      "note": "【2026年11月24日確認】公式告知・番組表にて2026-03-23 18:00〜の再放送日程を確認。過去の日程だが実際の放送実施は未確認。",
+      "sources": [
+        {
+          "label": "Chage公式：放送日程",
+          "url": "https://chage.jp/information/media/detail-792.php"
+        },
+        {
+          "label": "BS10プレミアム公式：放送日程・番組情報",
+          "url": "https://www.bs10.jp/premium/news/730/"
+        }
+      ],
+      "description": "2026年3月23日、BS10プレミアム「Chageのずっと細道 ～東西南北～」再放送の日程が確認されている（18:00〜）。実際の放送実施は未確認。"
+    },
+    {
+      "id": "media-2026-20260324-chage-billboard-67to68-bs10premium",
+      "date": "2026-03-24",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Chage Billboard Live 67 to 68」再放送",
+      "status": "scheduled",
+      "verification": "primary",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "20:00",
+      "note": "【2026年11月24日確認】公式告知・番組表にて2026-03-24 20:00〜の再放送日程を確認。過去の日程だが実際の放送実施は未確認。",
+      "sources": [
+        {
+          "label": "Chage公式：放送日程",
+          "url": "https://chage.jp/information/media/detail-792.php"
+        },
+        {
+          "label": "Chage公式：放送日程",
+          "url": "https://chage.jp/information/media/detail-802.php"
+        },
+        {
+          "label": "BS10プレミアム公式：放送日程・番組情報",
+          "url": "https://www.bs10.jp/premium/news/730/"
+        }
+      ],
+      "description": "2026年3月24日、BS10プレミアム「Chage Billboard Live 67 to 68」再放送の日程が確認されている（20:00〜）。実際の放送実施は未確認。"
+    },
+    {
+      "id": "media-2026-20260408-chage-hosomichi-tozainanboku-bs10premium",
+      "date": "2026-04-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Chageのずっと細道 ～東西南北～」再放送",
+      "status": "scheduled",
+      "verification": "secondary",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "15:50",
+      "note": "【2026年11月24日確認】二次資料の当時の番組表にて2026-04-08 15:50〜18:00の再放送日程を確認。過去の日程だが実際の放送実施は未確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://d404me.thursdayonion.jp/article.php?article=177"
+        }
+      ],
+      "description": "2026年4月8日、BS10プレミアム「Chageのずっと細道 ～東西南北～」再放送の日程が確認されている（15:50〜18:00）。実際の放送実施は未確認。",
+      "endTime": "18:00"
+    },
+    {
+      "id": "media-2026-20260408-chage-billboard-67to68-bs10premium",
+      "date": "2026-04-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Chage Billboard Live 67 to 68」再放送",
+      "status": "scheduled",
+      "verification": "secondary",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "18:00",
+      "note": "【2026年11月24日確認】二次資料の当時の番組表にて2026-04-08 18:00〜19:30の再放送日程を確認。過去の日程だが実際の放送実施は未確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://d404me.thursdayonion.jp/article.php?article=177"
+        },
+        {
+          "label": "BS10プレミアム公式：4月の番組紹介（日付は二次資料）",
+          "url": "https://www.bs10.jp/premium/news/739/"
+        }
+      ],
+      "description": "2026年4月8日、BS10プレミアム「Chage Billboard Live 67 to 68」再放送の日程が確認されている（18:00〜19:30）。実際の放送実施は未確認。",
+      "endTime": "19:30"
+    },
+    {
+      "id": "media-2026-20260718-chage-hosomichi-tozainanboku-bs10premium",
+      "date": "2026-07-18",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Chageのずっと細道 ～東西南北～」再放送",
+      "status": "scheduled",
+      "verification": "secondary",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "01:30",
+      "note": "【2026年11月24日確認】二次資料の当時の番組表にて2026-07-18 01:30〜03:40の再放送日程を確認。過去の日程だが実際の放送実施は未確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://d404me.thursdayonion.jp/article.php?article=230"
+        }
+      ],
+      "description": "2026年7月18日、BS10プレミアム「Chageのずっと細道 ～東西南北～」再放送の日程が確認されている（01:30〜03:40）。実際の放送実施は未確認。",
+      "endTime": "03:40"
+    },
+    {
+      "id": "media-2026-20260719-chage-billboard-67to68-bs10premium",
+      "date": "2026-07-19",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Chage Billboard Live 67 to 68」再放送",
+      "status": "scheduled",
+      "verification": "primary",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "00:50",
+      "note": "【2026年11月24日確認】公式告知・番組表にて2026-07-19 00:50〜02:10の再放送日程を確認。過去の日程だが実際の放送実施は未確認。",
+      "sources": [
+        {
+          "label": "スカパー！公式：番組表",
+          "url": "https://www.skyperfectv.co.jp/program/detail/?uid=i35811795"
+        }
+      ],
+      "description": "2026年7月19日、BS10プレミアム「Chage Billboard Live 67 to 68」再放送の日程が確認されている（00:50〜02:10）。実際の放送実施は未確認。",
+      "endTime": "02:10"
+    },
+    {
+      "id": "media-2026-20260814-chage-billboard-67to68-bs10premium",
+      "date": "2026-08-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Chage Billboard Live 67 to 68」再放送",
+      "status": "scheduled",
+      "verification": "primary",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "12:00",
+      "note": "【2026年11月24日確認】公式告知・番組表にて2026-08-14 12:00〜13:30の再放送日程を確認。過去の日程だが実際の放送実施は未確認。",
+      "sources": [
+        {
+          "label": "スカパー！公式：番組表",
+          "url": "https://www.skyperfectv.co.jp/program/detail/?uid=i35959913"
+        }
+      ],
+      "description": "2026年8月14日、BS10プレミアム「Chage Billboard Live 67 to 68」再放送の日程が確認されている（12:00〜13:30）。実際の放送実施は未確認。",
+      "endTime": "13:30"
+    },
+    {
+      "id": "media-2026-20260826-chage-hosomichi-tozainanboku-bs10premium",
+      "date": "2026-08-26",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Chageのずっと細道 ～東西南北～」再放送",
+      "status": "scheduled",
+      "verification": "primary",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "22:30",
+      "note": "【2026年11月24日確認】公式告知・番組表にて2026-08-26 22:30〜翌00:40の再放送日程を確認。過去の日程だが実際の放送実施は未確認。",
+      "sources": [
+        {
+          "label": "スカパー！公式：番組表",
+          "url": "https://www.skyperfectv.co.jp/program/detail/?uid=c31692292"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://d404me.thursdayonion.jp/article.php?article=257"
+        }
+      ],
+      "description": "2026年8月26日、BS10プレミアム「Chageのずっと細道 ～東西南北～」再放送の日程が確認されている（22:30〜翌00:40）。実際の放送実施は未確認。",
+      "endTime": "00:40"
+    },
+    {
+      "id": "media-2026-20260905-chage-billboard-selection-90s-bs10premium",
+      "date": "2026-09-05",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Billboard Live総集編＜90’s 愛のバラードカリスマ男性ヴォーカル編＞」放送",
+      "status": "scheduled",
+      "verification": "primary",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "14:00",
+      "note": "【2026年11月24日確認】公式告知・番組表にて2026-09-05 14:00〜15:00の放送日程を確認。過去の日程だが実際の放送実施は未確認。宮沢和史・Chage・河村隆一のライブ総集編。同時刻のBS10番組表にも掲載あり。同一番組として1件登録。",
+      "sources": [
+        {
+          "label": "BS10プレミアム公式：放送日程・番組情報",
+          "url": "https://www.bs10.jp/premium/program/42735/"
+        },
+        {
+          "label": "参考資料（番組表）",
+          "url": "https://bangumi.org/tv_events/AmCQDIN58AE"
+        }
+      ],
+      "description": "2026年9月5日、BS10プレミアム「Billboard Live総集編＜90’s 愛のバラードカリスマ男性ヴォーカル編＞」放送の日程が確認されている（14:00〜15:00）。実際の放送実施は未確認。",
+      "endTime": "15:00"
+    },
+    {
+      "id": "media-2026-20260911-chage-billboard-selection-90s-bs10premium",
+      "date": "2026-09-11",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Billboard Live総集編＜90’s 愛のバラードカリスマ男性ヴォーカル編＞」再放送",
+      "status": "scheduled",
+      "verification": "primary",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "21:00",
+      "note": "【2026年11月24日確認】公式告知・番組表にて2026-09-11 21:00〜22:00の再放送日程を確認。過去の日程だが実際の放送実施は未確認。宮沢和史・Chage・河村隆一のライブ総集編。",
+      "sources": [
+        {
+          "label": "BS10プレミアム公式：放送日程・番組情報",
+          "url": "https://www.bs10.jp/premium/program/42735/"
+        },
+        {
+          "label": "スカパー！公式：番組表",
+          "url": "https://www.skyperfectv.co.jp/program/detail/?uid=c31750908"
+        }
+      ],
+      "description": "2026年9月11日、BS10プレミアム「Billboard Live総集編＜90’s 愛のバラードカリスマ男性ヴォーカル編＞」再放送の日程が確認されている（21:00〜22:00）。実際の放送実施は未確認。",
+      "endTime": "22:00"
+    },
+    {
+      "id": "media-2026-20260925-chage-billboard-67to68-bs10premium",
+      "date": "2026-09-25",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Chage Billboard Live 67 to 68」再放送",
+      "status": "scheduled",
+      "verification": "primary",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "21:00",
+      "note": "【2026年11月24日確認】公式告知・番組表にて2026-09-25 21:00〜22:30の再放送日程を確認。過去の日程だが実際の放送実施は未確認。",
+      "sources": [
+        {
+          "label": "スカパー！公式：番組表",
+          "url": "https://www.skyperfectv.co.jp/program/detail/?uid=i36072269"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://d404me.thursdayonion.jp/article.php?article=273"
+        }
+      ],
+      "description": "2026年9月25日、BS10プレミアム「Chage Billboard Live 67 to 68」再放送の日程が確認されている（21:00〜22:30）。実際の放送実施は未確認。",
+      "endTime": "22:30"
     }
   ],
-  "siteVersion": "2.2.10"
+  "siteVersion": "2.2.11"
 }
