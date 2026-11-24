@@ -96559,7 +96559,63 @@
         }
       ],
       "description": "2026年12月2日、ASKAがフジテレビ系「2026 FNS歌謡祭 第1夜」に出演する予定。"
+    },
+    {
+      "id": "media-2026-20261208-chage-billboard-67to68-bs10premium",
+      "date": "2026-12-08",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Chage Billboard Live 67 to 68」再放送",
+      "status": "scheduled",
+      "verification": "primary",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "03:20",
+      "endTime": "04:50",
+      "note": "【2026年11月24日確認】スカパー！公式番組表で12月8日 03:20〜04:50の再放送予定を確認。2026年3月15日の初放送（既存ID v16-0087）とは別の放送記録。放送実施は未確認。12月7日深夜枠にあたるが、暦日の12月8日で登録。",
+      "sources": [
+        {
+          "label": "スカパー！公式：番組詳細",
+          "url": "https://www.skyperfectv.co.jp/program/detail/?uid=i36521568"
+        },
+        {
+          "label": "スカパー！公式：番組検索",
+          "url": "https://www.skyperfectv.co.jp/program/search/?q=%E7%8B%AC%E5%8D%A0%E6%94%BE%E9%80%81"
+        },
+        {
+          "label": "Chage公式：初放送告知",
+          "url": "https://chage.jp/information/media/detail-802.php"
+        }
+      ],
+      "description": "2026年12月8日、BS10プレミアムで「Chage Billboard Live 67 to 68」が再放送される予定（03:20〜04:50）。"
+    },
+    {
+      "id": "media-2026-20261220-chage-billboard-67to68-bs10premium",
+      "date": "2026-12-20",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS10プレミアム「Chage Billboard Live 67 to 68」再放送",
+      "status": "scheduled",
+      "verification": "primary",
+      "broadcastStation": "BS10プレミアム",
+      "startTime": "06:40",
+      "endTime": "08:00",
+      "note": "【2026年11月24日確認】スカパー！公式番組表で12月20日 06:40〜08:00の再放送予定を確認。2026年3月15日の初放送（既存ID v16-0087）とは別の放送記録。放送実施は未確認。",
+      "sources": [
+        {
+          "label": "スカパー！公式：番組詳細",
+          "url": "https://www.skyperfectv.co.jp/program/detail/?uid=i36521876"
+        },
+        {
+          "label": "スカパー！公式：番組検索",
+          "url": "https://www.skyperfectv.co.jp/program/search/?q=%E7%8B%AC%E5%8D%A0%E6%94%BE%E9%80%81"
+        },
+        {
+          "label": "Chage公式：初放送告知",
+          "url": "https://chage.jp/information/media/detail-802.php"
+        }
+      ],
+      "description": "2026年12月20日、BS10プレミアムで「Chage Billboard Live 67 to 68」が再放送される予定（06:40〜08:00）。"
     }
   ],
-  "siteVersion": "2.2.9"
+  "siteVersion": "2.2.10"
 }
