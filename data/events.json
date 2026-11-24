@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2027年の公式発表済み予定を追加。開催予定の記録は日付経過のみで開催済みと断定せず、延期・中止と区別して表示します。既存の記録の確認日・履歴はそのまま保存しています。",
-  "lastUpdated": "2026-11-24",
+  "lastUpdated": "2026-11-25",
   "events": [
     {
       "id": "milestone-1978-popcon15-formation-yearonly",
@@ -15192,19 +15192,23 @@
     {
       "id": "media-v18-1987-015",
       "date": "1987-09-25",
-      "artist": "CHAGE and ASKA",
+      "artist": "ASKA",
       "category": "media",
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。MY Mr.LONELY HEART。二次資料の記録によるため、放送局等の一次資料は未照合。",
+      "verification": "primary",
+      "note": "テレビ朝日。MY Mr.LONELY HEART。\nテレビ朝日公式の出演者一覧でASKA名義を確認。所蔵映像ファイルリストにもASKA「MY Mr. LONELY HEART」と記載（映像本編は未視聴）。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        },
+        {
+          "label": "テレビ朝日公式｜ミュージックステーション出演者バックナンバー（1987-09-25）",
+          "url": "https://www.tv-asahi.co.jp/music/contents/m_lineup/backnumber/?p=144"
         }
       ],
-      "description": "1987年9月25日、CHAGE and ASKAが出演したテレビ番組「ミュージックステーション」がテレビ朝日で放送された。"
+      "description": "1987年9月25日、ASKAが出演したテレビ番組「ミュージックステーション」がテレビ朝日で放送された。"
     },
     {
       "id": "media-v18-1987-016",
@@ -15426,19 +15430,23 @@
     {
       "id": "media-v18-1987-024",
       "date": "1987-11-13",
-      "artist": "CHAGE and ASKA",
+      "artist": "ASKA",
       "category": "media",
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。MY Mr.LONELY HEART。二次資料の記録によるため、放送局等の一次資料は未照合。",
+      "verification": "primary",
+      "note": "テレビ朝日。MY Mr.LONELY HEART。\nテレビ朝日公式の出演者一覧でASKA名義を確認。所蔵映像ファイルリストにもASKA「MY Mr. LONELY HEART」と記載（映像本編は未視聴）。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/28.html"
+        },
+        {
+          "label": "テレビ朝日公式｜ミュージックステーション出演者バックナンバー（1987-11-13）",
+          "url": "https://www.tv-asahi.co.jp/music/contents/m_lineup/backnumber/?p=144"
         }
       ],
-      "description": "1987年11月13日、CHAGE and ASKAが出演したテレビ番組「ミュージックステーション」がテレビ朝日で放送された。"
+      "description": "1987年11月13日、ASKAが出演したテレビ番組「ミュージックステーション」がテレビ朝日で放送された。"
     },
     {
       "id": "live-xmas-special-1987-003",
@@ -15936,20 +15944,24 @@
     },
     {
       "id": "media-v18-1988-004",
-      "date": "1988-02-22",
+      "date": "1988-02-12",
       "artist": "CHAGE and ASKA",
       "category": "media",
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。恋人はワイン色。二次資料の記録によるため、放送局等の一次資料は未照合。",
+      "verification": "primary",
+      "note": "テレビ朝日。恋人はワイン色。\n従来の二次資料は2月22日と記載。テレビ朝日公式の出演者一覧と所蔵映像ファイルリストの2月12日に合わせて放送日を訂正。曲名は所蔵リスト・従来資料による（映像本編は未視聴）。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
+        },
+        {
+          "label": "テレビ朝日公式｜ミュージックステーション出演者バックナンバー（1988-02-12）",
+          "url": "https://www.tv-asahi.co.jp/music/contents/m_lineup/backnumber/?p=143"
         }
       ],
-      "description": "1988年2月22日、CHAGE and ASKAが出演したテレビ番組「ミュージックステーション」がテレビ朝日で放送された。"
+      "description": "1988年2月12日、CHAGE and ASKAが出演したテレビ番組「ミュージックステーション」がテレビ朝日で放送された。"
     },
     {
       "id": "media-v18-1988-005",
@@ -96922,5 +96934,5 @@
       "endTime": "22:30"
     }
   ],
-  "siteVersion": "2.2.12"
+  "siteVersion": "2.2.13"
 }
