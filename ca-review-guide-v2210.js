@@ -77,7 +77,7 @@
 
     const explain = document.createElement('p');
     explain.className = 'ca2210-explain';
-    explain.innerHTML = '<strong>ここに表示されるのは「予定日が過ぎ、引き続き実施確認が必要な記録」です。</strong> 出典のある再放送は7日経過後に確認待ちから外します。実際に開催・放送されたと判定したものではありません。資料の「一次資料確認」も、開催予定の根拠を確認した意味の場合があります。実施・延期・中止を裏付ける情報が確認できた場合に、管理者が登録データを更新します。';
+    explain.innerHTML = '<strong>ここに表示されるのは「予定日が過ぎ、引き続き実施確認が必要な記録」です。</strong> 出典のあるテレビ・ラジオ放送（初回・総集編・特別番組・再放送など）は放送予定日から7日経過後に確認待ちから外します。収録日や中止・延期・変更情報のあるものは個別に確認します。実際に開催・放送されたと判定したものではありません。資料の「一次資料確認」も、開催予定の根拠を確認した意味の場合があります。実施・延期・中止を裏付ける情報が確認できた場合に、管理者が登録データを更新します。';
     const details = $('ca41-review-details');
     if (details) section.insertBefore(explain,details);
     else section.append(explain);
