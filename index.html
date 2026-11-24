@@ -33,7 +33,7 @@
 <link rel="stylesheet" href="ca-calendar-v212.css?v=2.1.2">
 <script defer src="data/events.js?v=2.2.0"></script>
 <script defer src="app.js?v=2.4.6"></script>
-<script defer src="ca-ver39.js?v=2.4.6"></script>
+<script defer src="ca-ver39.js?v=2.4.7"></script>
 <script defer src="ca-ver40.js?v=2.3.8-artist-stripes-list-20261124"></script>
 <script defer src="data/review-followup.js?v=2.2.11"></script>
 <script defer src="ca-ver41.js?v=2.4.5"></script>
@@ -77,11 +77,16 @@
 @media(max-width:600px){.ca-release-works{font-size:.92rem;padding:9px 11px}}
 </style>
 <style id="ca23-audit-style">
-.ca23-audit{margin:12px 0 16px;border:1px solid rgba(220,230,247,.24);border-radius:10px;background:rgba(20,33,56,.5);padding:0 12px;overflow-wrap:anywhere}
-.ca23-audit>summary{cursor:pointer;padding:10px 4px;color:#f6d99f;font-size:13px;font-weight:700;min-height:40px}
-.ca23-audit>summary:hover{color:#fff1d3}
-.ca23-audit p,.ca23-audit .ca-detail-note{white-space:pre-wrap;overflow-wrap:anywhere;font-size:13px;line-height:1.8;color:#dbe6f5;padding:4px 6px 13px;margin:0}
-.ca23-audit:focus-within{border-color:#d9b774}
+/* CA247: secondary information; quiet disclosure, readable expanded text. */
+body details.ca23-audit{margin:4px 0 7px;padding:0;border:0;border-radius:0;background:transparent;box-shadow:none;overflow-wrap:anywhere}
+body details.ca23-audit>summary{display:list-item;cursor:pointer;width:fit-content;max-width:100%;box-sizing:border-box;padding:5px 3px 5px 0;color:#adbed2;font-size:11px;font-weight:400;line-height:1.55;min-height:28px;text-decoration:none}
+body details.ca23-audit>summary:hover{color:#e0e9f4;text-decoration:underline;text-underline-offset:3px}
+body details.ca23-audit>summary:focus-visible{outline:2px solid #b3c5dc;outline-offset:3px;border-radius:2px}
+body details.ca23-audit[open]>summary{color:#cbd9e9}
+body details.ca23-audit>p,body details.ca23-audit>.ca-detail-note{white-space:pre-wrap;overflow-wrap:anywhere;font-size:13px;line-height:1.8;color:#dbe6f5;padding:5px 9px 5px 12px;margin:4px 0 8px;border-left:1px solid #50627c;background:transparent}
+#ca-single-detail .ca23-audit-section{border:0;padding:0;margin:7px 0 12px;background:none}
+#ca-single-detail .ca23-audit-section details.ca23-audit>summary{font-size:12px}
+@media(max-width:700px){body details.ca23-audit>summary{min-height:36px;padding:9px 3px 9px 0;font-size:12px}}
 .ca-detail-fields dd{white-space:pre-wrap;overflow-wrap:anywhere}
 </style>
   <script defer src="ca-mobile-fold-v231.js?v=2.3.1"></script>
@@ -317,7 +322,7 @@ document.addEventListener('DOMContentLoaded',function(){
  const place=[e.prefecture,e.venue].filter(Boolean).join('・');if(place)paper.append(node('p','ca-detail-place',place));
  const part=title=>{const s=node('section','ca-detail-section');s.append(node('h2','',title));paper.append(s);return s;};
  if(e.description)part('この日の出来事').append(node('div','ca-detail-note',e.description));
- if(e.note){const details=node('details','ca23-audit');details.append(node('summary','','調査・確認記録を開く'),node('div','ca-detail-note',e.note));part('調査・確認記録').append(details);}
+ if(e.note){const details=node('details','ca23-audit');details.append(node('summary','','調査・確認記録を開く'),node('div','ca-detail-note',e.note));const audit=part('調査・確認記録');audit.classList.add('ca23-audit-section');audit.setAttribute('aria-label','調査・確認記録');audit.querySelector('h2')?.remove();audit.append(details);}
  const candidates=[['releaseTitle','作品名'],['releaseTitles','対象作品'],['releaseType','発売区分'],['format','規格'],['formats','規格一覧'],['mediaFormat','媒体・規格'],['releaseFormat','発売形態'],['catalogNumber','規格品番'],['catalogNo','規格品番（別欄）'],['catalogCode','規格品番（別欄）'],['productNumber','製品番号'],['catalogNumberStatus','規格品番の調査状況'],['catalogNumberStatusNote','規格品番の照合メモ'],['catalogNumberVerification','規格品番の根拠区分'],['catalogNumberSourceUrl','規格品番の根拠URL'],['label','レーベル'],['recordLabel','レーベル'],['publisher','発売元'],['edition','仕様・版'],['releaseEditions','版・規格の一覧'],['variants','別仕様'],['editions','別仕様'],['otherFormats','別規格'],['releaseVariants','発売仕様'],['specifications','仕様'],['productCodes','規格品番一覧'],['tourId','ツアーID'],['performanceNo','公演番号'],['startTime','開演時刻'],['session','昼夜・公演区分'],['broadcastStation','放送局'],['status','記録の状態'],['verification','資料の確認区分']];
  const fmt=v=>v==null?'':Array.isArray(v)?v.map(fmt).filter(Boolean).join('\n'):typeof v==='object'?Object.entries(v).map(([k,w])=>k+'：'+fmt(w)).join('\n'):String(v);
  const fields=candidates.map(([k,l])=>[l,fmt(e[k])]).filter(([,v])=>v.trim());
