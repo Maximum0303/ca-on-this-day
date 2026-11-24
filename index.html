@@ -33,7 +33,7 @@
 <link rel="stylesheet" href="ca-calendar-v212.css?v=2.1.2">
 <script defer src="data/events.js?v=2.2.0"></script>
 <script defer src="app.js?v=2.3.8-artist-stripes-list-20261124"></script>
-<script defer src="ca-ver39.js?v=2.4.2"></script>
+<script defer src="ca-ver39.js?v=2.4.4"></script>
 <script defer src="ca-ver40.js?v=2.3.8-artist-stripes-list-20261124"></script>
 <script defer src="data/review-followup.js?v=2.2.11"></script>
 <script defer src="ca-ver41.js?v=2.4.3"></script>
@@ -103,6 +103,22 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
 .ca40-info .ca40-person:empty{display:none}
 @media(max-width:600px){.ca40-item.ca-artist-ca,.ca40-item.ca-artist-chage,.ca40-item.ca-artist-aska,.ca40-item.ca-artist-multi{border-left-width:4px}.ca40-info>.ca-artist-tag{font-size:11px}}
 /* /CA_ARTIST_TIMELINE_STRIPES_20261124 */</style>
+<style id="ca244-day-filter-style">
+/* CA244: desktop only, same 700px breakpoint as ca-ver39.css. */
+@media(min-width:701px){
+#day-events .ca244-day-tools{display:flex;align-items:center;justify-content:space-between;gap:4px 8px;flex-wrap:wrap;min-width:0}
+#day-events .ca244-day-tools .ca39-day-match{margin:0;flex:1 1 100px;line-height:1.5}
+#day-events #ca244-day-toggle,#day-events .ca244-day-filter-actions button{font:inherit;font-size:12px;line-height:1.4;min-height:36px;border:1px solid rgba(232,188,115,.35);border-radius:7px;background:rgba(232,188,115,.06);color:#f8e2ba;padding:5px 9px;cursor:pointer}
+#day-events #ca244-day-toggle{display:inline-flex;align-items:center;gap:5px;margin-left:auto}
+#day-events #ca244-day-toggle[aria-expanded="true"] .ca244-chevron{transform:rotate(180deg)}
+#day-events .ca244-day-filters[hidden]{display:none!important}
+#day-events .ca244-day-filters{min-width:0;border:1px solid rgba(174,194,218,.2);border-radius:8px;padding:8px;background:#172440}
+#day-events .ca244-day-filters .ca39-day-toolbar{position:static!important;top:auto;z-index:auto;padding:0 0 8px;gap:6px 10px;background:transparent;border:0;min-width:0}
+#day-events .ca244-day-filters label{min-width:0}
+#day-events .ca244-day-filter-actions{display:flex;justify-content:flex-end;gap:6px;flex-wrap:wrap}
+#day-events .ca244-day-tools button:focus-visible,#day-events .ca244-day-filter-actions button:focus-visible{outline:2px solid #f8e2ba;outline-offset:2px}
+}
+</style>
 </head>
 <body>
 <div class="ambient"></div>

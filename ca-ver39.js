@@ -97,7 +97,7 @@
   }
 
   /* CA242_DAY_FILTERS: display only */
-  let dayDisplay={key:'',year:'all',sort:'desc',artist:'all',category:'all',limit:12};
+  let dayDisplay={key:'',year:'all',sort:'desc',artist:'all',category:'all',limit:12,filtersOpen:false};
   let refreshing=false;
   const dateKey=()=>{
     const text=$('selected-date')?.textContent||'';
@@ -125,7 +125,7 @@
   function renderDayEnhanced() {
     const key=dateKey();
     if (!key) return;
-    if (dayDisplay.key!==key) dayDisplay={key,year:'all',sort:'desc',artist:'all',category:'all',limit:12};
+    if (dayDisplay.key!==key) dayDisplay={key,year:'all',sort:'desc',artist:'all',category:'all',limit:12,filtersOpen:false};
     const matches=events.filter(e=>String(e.date||'').slice(5)===key).sort(compare);
     if (!matches.length) return; // preserve Ver.38 partial-archive empty message
     const years=[...new Set(matches.map(e=>String(e.date).slice(0,4)))].sort((a,b)=>b.localeCompare(a));
@@ -142,9 +142,11 @@
     const ordered=dayDisplay.sort==='desc'?[...filtered].reverse():filtered;
     const visible=ordered.slice(0,dayDisplay.limit);
     const options=['<option value="all">すべての年</option>',...years.map(y=>`<option value="${esc(y)}" ${dayDisplay.year===y?'selected':''}>${esc(y)}年 (${matches.filter(e=>String(e.date).startsWith(y+'-')).length}件)</option>`)].join('');
+    const filterCount=[dayDisplay.year,dayDisplay.artist,dayDisplay.category].filter(v=>v!=='all').length+Number(dayDisplay.sort!=='desc');
+    const desktop=window.matchMedia('(min-width: 701px)').matches;
     const panel=`<div class="ca39-day-list" data-ca39-date="${esc(key)}">
-      <div class="ca39-day-toolbar"><label>表示年<select id="ca39-day-year">${options}</select></label><label>並び順<select id="ca39-day-sort"><option value="desc" ${dayDisplay.sort==='desc'?'selected':''}>新しい順</option><option value="asc" ${dayDisplay.sort==='asc'?'selected':''}>古い順</option></select></label><label>名義<select id="ca39-day-artist">${artistOptions}</select></label><label>分類<select id="ca39-day-category">${categoryOptions}</select></label></div>
-      <p class="ca39-day-match">この日の全${matches.length}件 ／ 条件に一致 ${filtered.length}件 ／ ${visible.length}件を表示</p>
+      ${desktop?`<div class="ca244-day-tools"><p class="ca39-day-match">${filterCount?`全${matches.length}件中 ${filtered.length}件一致`:`全${matches.length}件`}${visible.length<filtered.length?` ／ ${visible.length}件表示`:''}</p><button type="button" id="ca244-day-toggle" aria-controls="ca244-day-filters" aria-expanded="${dayDisplay.filtersOpen?'true':'false'}">絞り込み${filterCount?`（設定中 ${filterCount}）`:''}<span aria-hidden="true" class="ca244-chevron">⌄</span></button></div>
+      <div id="ca244-day-filters" class="ca244-day-filters"${dayDisplay.filtersOpen?'':' hidden'}>`:''}<div class="ca39-day-toolbar"><label>表示年<select id="ca39-day-year">${options}</select></label><label>並び順<select id="ca39-day-sort"><option value="desc" ${dayDisplay.sort==='desc'?'selected':''}>新しい順</option><option value="asc" ${dayDisplay.sort==='asc'?'selected':''}>古い順</option></select></label><label>名義<select id="ca39-day-artist">${artistOptions}</select></label><label>分類<select id="ca39-day-category">${categoryOptions}</select></label></div>${desktop?`<div class="ca244-day-filter-actions"><button type="button" id="ca244-day-clear">条件をクリア</button><button type="button" id="ca244-day-close">閉じる</button></div></div>`:`<p class="ca39-day-match">この日の全${matches.length}件 ／ 条件に一致 ${filtered.length}件 ／ ${visible.length}件を表示</p>`}
       ${visible.length?visible.map(dayCard).join(''):'<p class="ca39-day-match">この条件に一致する登録済みの記録はありません。表示年・名義・分類を変更してください。</p>'}
       ${visible.length<ordered.length?`<button type="button" id="ca39-day-more" class="ca39-more">さらに${Math.min(12,ordered.length-visible.length)}件を表示（残り${ordered.length-visible.length}件）</button>`:''}
     </div>`;
@@ -222,7 +224,22 @@
     const field=({'ca39-day-year':'year','ca39-day-sort':'sort','ca39-day-artist':'artist','ca39-day-category':'category'})[ev.target.id];
     if(field){const id=ev.target.id;const restore=document.activeElement===ev.target;dayDisplay[field]=ev.target.value;dayDisplay.limit=12;renderDayEnhanced();if(restore)$(id)?.focus({preventScroll:true});}
   });
-  $('day-events').addEventListener('click',ev=>{if(ev.target.closest?.('#ca39-day-more')) {dayDisplay.limit+=12;renderDayEnhanced();}});
+  function setDayFiltersOpen(open,restoreFocus=false){
+    dayDisplay.filtersOpen=open;
+    const toggle=$('ca244-day-toggle'),panel=$('ca244-day-filters');
+    if(toggle)toggle.setAttribute('aria-expanded',String(open));
+    if(panel)panel.hidden=!open;
+    if(restoreFocus)toggle?.focus({preventScroll:true});
+  }
+  $('day-events').addEventListener('click',ev=>{
+    if(ev.target.closest?.('#ca244-day-toggle')){setDayFiltersOpen(!dayDisplay.filtersOpen);return;}
+    if(ev.target.closest?.('#ca244-day-close')){setDayFiltersOpen(false,true);return;}
+    if(ev.target.closest?.('#ca244-day-clear')){Object.assign(dayDisplay,{year:'all',sort:'desc',artist:'all',category:'all',limit:12});renderDayEnhanced();$('ca244-day-clear')?.focus({preventScroll:true});return;}
+    if(ev.target.closest?.('#ca39-day-more')) {dayDisplay.limit+=12;renderDayEnhanced();}
+  });
+  const ca244Desktop=window.matchMedia('(min-width: 701px)');
+  const ca244Resize=()=>{if($('day-events')?.firstElementChild?.classList.contains('ca39-day-list')){dayDisplay.filtersOpen=false;renderDayEnhanced();}};
+  if(ca244Desktop.addEventListener)ca244Desktop.addEventListener('change',ca244Resize);else ca244Desktop.addListener?.(ca244Resize);
 
   new MutationObserver(applyCalendarCounts).observe($('calendar-cells'),{childList:true});
   new MutationObserver(afterDayMutation).observe($('day-events'),{childList:true});
