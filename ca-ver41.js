@@ -20,6 +20,16 @@ function followUp(e){
  const entry=Object.prototype.hasOwnProperty.call(followups,String(e?.id))?followups[String(e.id)]:null;
  return entry?.disposition==='closed_unverified'?entry:null;
 }
+// CA241: only documented rebroadcasts qualify; never infer actual airing.
+function isDocumentedRebroadcast(e){
+ return e?.category==='media' && /再放送|リピート放送/.test(String(e.title||'')) &&
+  ['primary','secondary'].includes(e.verification) && Array.isArray(e.sources) &&
+  e.sources.some(s=>s&&/^https?:\/\//i.test(String(s.url||'')));
+}
+function elapsedDays(date,reference){
+ const valid=s=>{if(!/^\d{4}-\d{2}-\d{2}$/.test(s))return NaN;const n=Date.parse(s+'T00:00:00Z');return Number.isFinite(n)&&new Date(n).toISOString().slice(0,10)===s?n:NaN;};
+ return (valid(reference)-valid(date))/86400000;
+}
 function state(e,reference=todayISO()){
  const raw=String(e?.status||'').toLowerCase().trim(),date=String(e?.date||'');
  if(raw.includes('cancel')||raw.includes('中止'))return {code:'cancelled',label:'中止'};
@@ -28,6 +38,7 @@ function state(e,reference=todayISO()){
   if(/^\d{4}-\d{2}-\d{2}$/.test(date)){
    if(date<reference){
     if(followUp(e))return {code:'review_closed',label:'事後確認終了（実施未確定）'};
+    if(isDocumentedRebroadcast(e)&&elapsedDays(date,reference)>=7)return {code:'broadcast_schedule',label:'放送日程確認済み'};
     return {code:'review',label:'開催日経過・実施確認待ち'};
    }
    if(date===reference)return {code:'scheduled',label:'本日開催予定（実施未確認）'};
@@ -56,7 +67,8 @@ function styleBadge(b,view){
  writeText(b,view.label);
  b.classList.toggle('ca41-needs-review',view.code==='review');
  b.classList.toggle('ca2211-followup-closed',view.code==='review_closed');
- b.title=view.code==='review'?'日付が経過したことのみ判定。開催実施を確認した意味ではありません。':view.code==='review_closed'?'確認作業を終了した区分であり、実際に開催されたことを確認したものではありません。':'';
+ b.classList.toggle('ca241-broadcast-schedule',view.code==='broadcast_schedule');
+ b.title=view.code==='review'?'日付が経過したことのみ判定。開催実施を確認した意味ではありません。':view.code==='review_closed'?'確認作業を終了した区分であり、実際に開催されたことを確認したものではありません。':view.code==='broadcast_schedule'?'資料により再放送の日程を確認。放送予定日から7日経過したため追加確認待ちの対象外。実際の放送は未確定。':'';
 }
 function patchResult(){
  const root=$('results');if(!root)return;
@@ -91,19 +103,20 @@ function patchRelated(){
   const small=card.querySelector('small');if(!small)return;
   const original=small.textContent||'';
   const view=state(e);
-  if((String(e.status||'').toLowerCase().includes('sched')||String(e.status||'').toLowerCase().includes('planned')) && /^(開催予定|開催日経過・実施確認待ち|事後確認終了（実施未確定）|本日開催予定（実施未確認）)/.test(original)){
-   writeText(small,original.replace(/^(開催予定|開催日経過・実施確認待ち|事後確認終了（実施未確定）|本日開催予定（実施未確認）)/,view.label));
+  if((String(e.status||'').toLowerCase().includes('sched')||String(e.status||'').toLowerCase().includes('planned')) && /^(開催予定|開催日経過・実施確認待ち|事後確認終了（実施未確定）|本日開催予定（実施未確認）|放送日程確認済み)/.test(original)){
+   writeText(small,original.replace(/^(開催予定|開催日経過・実施確認待ち|事後確認終了（実施未確定）|本日開催予定（実施未確認）|放送日程確認済み)/,view.label));
   }
  });
 }
-function reviewRecords(){return events.filter(e=>state(e).code==='review').sort((a,b)=>String(b.date).localeCompare(String(a.date))||String(a.id).localeCompare(String(b.id)));}
-function closedRecords(){return events.filter(e=>state(e).code==='review_closed').sort((a,b)=>String(b.date).localeCompare(String(a.date))||String(a.id).localeCompare(String(b.id)));}
+function reviewRecords(){const now=todayISO();return events.filter(e=>state(e,now).code==='review').sort((a,b)=>String(b.date).localeCompare(String(a.date))||String(a.id).localeCompare(String(b.id)));}
+function closedRecords(){const now=todayISO();return events.filter(e=>state(e,now).code==='review_closed').sort((a,b)=>String(b.date).localeCompare(String(a.date))||String(a.id).localeCompare(String(b.id)));}
 function eventUrl(e){const u=new URL(location.href);u.search='';u.hash='browse';u.searchParams.set('date',e.date.slice(5));u.searchParams.set('event',e.id);return u.href;}
 let reviewLimit=15;
 function showReview(){
  const panel=$('ca41-review');if(!panel)return;
- const pending=reviewRecords(),closed=closedRecords();
- $('ca41-review-count').textContent=`確認待ち ${pending.length}件 ／ 事後確認終了 ${closed.length}件`;
+ const pending=reviewRecords(),closed=closedRecords(),now=todayISO();
+ const broadcastCount=events.filter(e=>state(e,now).code==='broadcast_schedule').length;
+ $('ca41-review-count').textContent=`確認待ち ${pending.length}件 ／ 事後確認終了 ${closed.length}件 ／ 放送日程確認済み ${broadcastCount}件`;
  const cards=pending.slice(0,reviewLimit).map(e=>`<li><a href="${esc(eventUrl(e))}"><time datetime="${esc(e.date)}">${esc(e.date)}</time>　${esc(e.artist)}｜${esc(e.title)}</a><span>${esc([e.prefecture,e.venue].filter(Boolean).join('・'))}</span></li>`).join('');
  $('ca41-review-items').innerHTML=cards||'<li class="ca41-no-review">現在、追加の実施確認が必要な「開催予定」の登録はありません。</li>';
  const more=$('ca41-review-more');more.hidden=pending.length<=reviewLimit;more.textContent=`さらに表示（残り${Math.max(0,pending.length-reviewLimit)}件）`;
@@ -124,6 +137,7 @@ if(browse&&!$('ca41-review')){
  section.setAttribute('aria-label','開催実施の確認待ち');
  section.innerHTML=`<div class="ca41-review-head"><div><span class="kicker">SCHEDULE FOLLOW-UP</span><h3>開催日が過ぎた予定の確認</h3></div><strong id="ca41-review-count"></strong></div>
  <p>日付だけでは実施・延期・中止を判断できません。<strong>元の開催予定記録はそのまま維持</strong>し、「追加確認が必要」と「事後確認を終了（実施未確定）」を区別します。後者は、開催したことを意味しません。</p>
+ <p class="ca241-broadcast-help">出典を確認した再放送は、放送予定日から7日経過すると「放送日程確認済み」として確認待ちから外します。放送実施を確定するものではなく、元の登録状態・資料・日付は維持します。初回放送や新規出演は従来どおり確認対象です。</p>
  <details id="ca41-review-details"><summary>実施確認待ちの記録を表示</summary><ol id="ca41-review-items"></ol><button type="button" id="ca41-review-more" class="btn btn-ghost" hidden>さらに表示</button></details>
  <details id="ca41-closed-details" class="ca2211-review-closed"><summary>事後確認を終了した記録（実施未確定） <span id="ca41-closed-count"></span></summary><p>開催後の実施報告が通常出ないイベントなど、追加調査をいったん終了した記録です。開催告知の確認と実際の開催確認は異なります。新しい根拠が見つかれば分類を見直します。</p><ol id="ca41-closed-items"></ol></details>
  <p class="ca41-history-help">備考の「○年○月○日時点」は当時の確認履歴です。日付が進んでも履歴を削除せず、現在の表示状態と区別しています。</p>`;
@@ -137,6 +151,8 @@ if(browse&&!$('ca41-review')){
  .ca2211-closed-reason{font-size:11px!important;line-height:1.65!important;color:#becfe2!important;margin-top:3px}
  .ca2211-closed-sources{margin-top:5px}
  .ca2211-closed-sources a{color:#dce7f4;text-decoration:underline;text-underline-offset:3px}
+ .ca241-broadcast-schedule{color:#c3eadf!important;background:rgba(63,150,129,.14)!important;border-color:rgba(111,205,179,.55)!important}
+ .ca241-broadcast-help{font-size:12px;line-height:1.8;color:#c7e4dc}
  .ca2211-followup-closed{color:#dce8f6!important;background:rgba(103,140,180,.13)!important;border-color:rgba(150,180,210,.4)!important}
  .ca2212-detail-verification{margin:18px 0 10px;padding:15px 17px;border:1px solid rgba(232,188,115,.36);border-left:3px solid #e8bc73;border-radius:8px;background:rgba(232,188,115,.055);color:#dce7f4;line-height:1.8}
  .ca2212-detail-verification h2{margin:0 0 4px;font-size:16px;color:#ffe3ae;line-height:1.6}
@@ -156,15 +172,17 @@ function patchIndividualDetail(){
  const paper=section.querySelector('.ca-detail-paper');
  if(!paper)return; // 詳細ページが組み上がるまでは表示しない
  const view=state(e);
- if(view.code!=='review'&&view.code!=='review_closed')return;
- if(paper.querySelector('.ca2212-detail-verification'))return;
+ const previous=paper.querySelector('.ca2212-detail-verification');
+ if(!['review','review_closed','broadcast_schedule'].includes(view.code)){if(previous)previous.remove();return;}
+ if(previous?.dataset.ca241State===view.code)return;
  // 旧Ver.2.2.11の簡易文言があれば置換し、なければ記録名の下に表示。
  const old=paper.querySelector('.ca2211-detail-note');
  const panel=document.createElement('section');
  panel.className='ca2211-detail-note ca2212-detail-verification';
+ panel.dataset.ca241State=view.code;
  panel.setAttribute('aria-label','開催後の実施確認状況');
  const heading=document.createElement('h2');
- heading.textContent='開催後の確認状況';
+ heading.textContent=e.category==='media'?'放送後の確認状況':'開催後の確認状況';
  panel.append(heading);
  const summary=document.createElement('p');
  summary.className='ca2212-status-heading';
@@ -176,22 +194,24 @@ function patchIndividualDetail(){
   const dd=document.createElement('dd');dd.textContent=value;
   dl.append(dt,dd);
  };
- add('元の登録状態','開催予定（公演データは変更していません）');
- add('実際の開催','実施未確定');
+ add('元の登録状態',e.category==='media'?'放送予定（元データは変更していません）':'開催予定（公演データは変更していません）');
+ add(e.category==='media'?'実際の放送':'実際の開催','実施未確定');
  const follow=view.code==='review_closed'?followUp(e):null;
  if(follow){
   add('確認作業','事後確認終了（追加調査をいったん終了）');
   add('確認日',String(follow.reviewedAt||'未設定'));
   add('終了理由',String(follow.reason||'理由の記録なし'));
+ }else if(view.code==='broadcast_schedule'){
+  add('確認作業','放送日程確認済み（7日経過により追加確認待ちの対象外）');
  }else{
   add('確認作業','追加の実施確認が必要');
  }
  const v=e.verification==='primary'?'一次資料確認':e.verification==='secondary'?'二次資料確認':'未確認・未設定';
- add('資料の照合区分',v+'（実際の開催を確認したこととは異なります）');
+ add('資料の照合区分',v+'（実際の開催・放送を確認したこととは異なります）');
  panel.append(dl);
  const explanation=document.createElement('p');
  explanation.className='ca2212-verification-explain';
- explanation.textContent=follow
+ explanation.textContent=view.code==='broadcast_schedule'?'番組表などで再放送日程を確認しています。実際の放送実績は未確定です。変更・中止などの新しい情報が見つかれば見直します。':follow
   ? '事後確認の終了は、開催済み・中止・延期を確定した意味ではありません。新しい資料が見つかれば見直します。'
   : '日付の経過だけでは開催済みと判断できません。公式発表や主催者の記録などを確認してから更新します。';
  panel.append(explanation);

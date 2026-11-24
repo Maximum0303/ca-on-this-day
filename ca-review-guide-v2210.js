@@ -77,7 +77,7 @@
 
     const explain = document.createElement('p');
     explain.className = 'ca2210-explain';
-    explain.innerHTML = '<strong>ここに表示されるのは「開催予定のまま日付が過ぎた記録」です。</strong> 実際に開催されたと判定したものではありません。資料の「一次資料確認」も、開催予定の根拠を確認した意味の場合があります。実施・延期・中止を裏付ける情報が確認できた場合に、管理者が登録データを更新します。';
+    explain.innerHTML = '<strong>ここに表示されるのは「予定日が過ぎ、引き続き実施確認が必要な記録」です。</strong> 出典のある再放送は7日経過後に確認待ちから外します。実際に開催・放送されたと判定したものではありません。資料の「一次資料確認」も、開催予定の根拠を確認した意味の場合があります。実施・延期・中止を裏付ける情報が確認できた場合に、管理者が登録データを更新します。';
     const details = $('ca41-review-details');
     if (details) section.insertBefore(explain,details);
     else section.append(explain);
