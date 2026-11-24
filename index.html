@@ -32,8 +32,8 @@
 <link rel="stylesheet" href="ca-mobile-v211.css">
 <link rel="stylesheet" href="ca-calendar-v212.css?v=2.1.2">
 <script defer src="data/events.js?v=2.2.0"></script>
-<script defer src="app.js?v=2.3.8-artist-stripes-list-20261124"></script>
-<script defer src="ca-ver39.js?v=2.4.4"></script>
+<script defer src="app.js?v=2.4.6"></script>
+<script defer src="ca-ver39.js?v=2.4.6"></script>
 <script defer src="ca-ver40.js?v=2.3.8-artist-stripes-list-20261124"></script>
 <script defer src="data/review-followup.js?v=2.2.11"></script>
 <script defer src="ca-ver41.js?v=2.4.5"></script>
@@ -317,7 +317,7 @@ document.addEventListener('DOMContentLoaded',function(){
  const place=[e.prefecture,e.venue].filter(Boolean).join('・');if(place)paper.append(node('p','ca-detail-place',place));
  const part=title=>{const s=node('section','ca-detail-section');s.append(node('h2','',title));paper.append(s);return s;};
  if(e.description)part('この日の出来事').append(node('div','ca-detail-note',e.description));
- if(e.note){const details=node('details','ca23-audit');details.append(node('summary','','元の備考を開く（調査・確認記録）'),node('div','ca-detail-note',e.note));part('調査・確認記録').append(details);}
+ if(e.note){const details=node('details','ca23-audit');details.append(node('summary','','調査・確認記録を開く'),node('div','ca-detail-note',e.note));part('調査・確認記録').append(details);}
  const candidates=[['releaseTitle','作品名'],['releaseTitles','対象作品'],['releaseType','発売区分'],['format','規格'],['formats','規格一覧'],['mediaFormat','媒体・規格'],['releaseFormat','発売形態'],['catalogNumber','規格品番'],['catalogNo','規格品番（別欄）'],['catalogCode','規格品番（別欄）'],['productNumber','製品番号'],['catalogNumberStatus','規格品番の調査状況'],['catalogNumberStatusNote','規格品番の照合メモ'],['catalogNumberVerification','規格品番の根拠区分'],['catalogNumberSourceUrl','規格品番の根拠URL'],['label','レーベル'],['recordLabel','レーベル'],['publisher','発売元'],['edition','仕様・版'],['releaseEditions','版・規格の一覧'],['variants','別仕様'],['editions','別仕様'],['otherFormats','別規格'],['releaseVariants','発売仕様'],['specifications','仕様'],['productCodes','規格品番一覧'],['tourId','ツアーID'],['performanceNo','公演番号'],['startTime','開演時刻'],['session','昼夜・公演区分'],['broadcastStation','放送局'],['status','記録の状態'],['verification','資料の確認区分']];
  const fmt=v=>v==null?'':Array.isArray(v)?v.map(fmt).filter(Boolean).join('\n'):typeof v==='object'?Object.entries(v).map(([k,w])=>k+'：'+fmt(w)).join('\n'):String(v);
  const fields=candidates.map(([k,l])=>[l,fmt(e[k])]).filter(([,v])=>v.trim());
@@ -457,7 +457,7 @@ document.addEventListener('DOMContentLoaded',function(){
   group.append(dl);body.append(group);
  });
  main.append(body);
- main.append(make('p','ca-release-hint','登録済みの項目だけを表示しています。記載がない規格・再発売・別仕様について、存在しないと断定するものではありません。備考にある情報は元の備考欄で確認できます。'));
+ main.append(make('p','ca-release-hint','登録済みの項目だけを表示しています。記載がない規格・再発売・別仕様について、存在しないと断定するものではありません。補足情報は調査・確認記録で確認できます。'));
  // Existing detail fields repeat the same content. Replace only on release pages.
  const oldInfo=paper.querySelector('.ca-detail-fields');
  if(oldInfo){const parent=oldInfo.closest('.ca-detail-section');if(parent)parent.remove();}

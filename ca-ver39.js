@@ -108,7 +108,7 @@
     const description=String(e.description||'');
     const note=String(e.note||'');
     const reader=description?`<p class="ca39-day-note">${esc(description)}</p>`:'';
-    const history=note?`<details class="ca39-note ca23-audit"><summary>調査・確認記録（元の備考）</summary><p>${esc(note)}</p></details>`:'';
+    const history=note?`<details class="ca39-note ca23-audit"><summary>調査・確認記録</summary><p>${esc(note)}</p></details>`:'';
     return reader+history;
   };
   const dayCard=e=>{
