@@ -116,24 +116,33 @@ function patchRelated(){
 function reviewRecords(){const now=todayISO();return events.filter(e=>state(e,now).code==='review').sort((a,b)=>String(b.date).localeCompare(String(a.date))||String(a.id).localeCompare(String(b.id)));}
 function closedRecords(){const now=todayISO();return events.filter(e=>state(e,now).code==='review_closed').sort((a,b)=>String(b.date).localeCompare(String(a.date))||String(a.id).localeCompare(String(b.id)));}
 function eventUrl(e){const u=new URL(location.href);u.search='';u.hash='browse';u.searchParams.set('date',e.date.slice(5));u.searchParams.set('event',e.id);return u.href;}
+// CA245: compact follow-up previews and separate paginated dialog; read-only.
+const CA245_PAGE=20,CA245_PREVIEW=5;
+const ca245Names={review:'実施確認待ちの記録',review_closed:'事後確認を終了した記録（実施未確定）',broadcast_schedule:'放送日程確認済みの記録'};
+function ca245Records(kind){const now=todayISO();return events.filter(e=>state(e,now).code===kind).sort((a,b)=>String(b.date).localeCompare(String(a.date))||String(a.id).localeCompare(String(b.id)));}
+function ca245Sources(e){return (Array.isArray(e.sources)?e.sources:[]).filter(s=>s&&/^https?:\/\//i.test(String(s.url||''))).map((s,i)=>`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">資料${i+1} ↗</a>`).join(' ／ ');}
+const ca245Colors={'CHAGE and ASKA':'#e9b261','Chage':'#65deac','ASKA':'#e3a6ff','MULTI MAX':'#f991bc'};
+function ca245Card(e,kind,full=false){const item=kind==='review_closed'?followUp(e):null,links=ca245Sources(e),color=ca245Colors[e.artist]||'#aabbd0';return `<li class="ca245-record" style="border-left:3px solid ${color}"><a href="${esc(eventUrl(e))}"><time datetime="${esc(e.date)}">${esc(e.date)}</time>　${esc(e.title||'タイトル未設定')}</a><span class="ca245-artist ca-artist-tag" style="color:${color}">${esc(e.artist||'名義未設定')}</span>${[e.prefecture,e.venue,e.broadcastStation].filter(Boolean).length?`<span>${esc([e.prefecture,e.venue,e.broadcastStation].filter(Boolean).join('・'))}</span>`:''}${item?`<span class="ca2211-closed-tag">事後確認終了（実施未確定） ／ 確認日：${esc(item.reviewedAt||'不明')}</span>${full?`<span class="ca2211-closed-reason">${esc(item.reason||'開催実績の確認は行っていません。')}</span>`:''}`:''}${kind==='broadcast_schedule'?'<span class="ca245-broadcast-label">放送日程確認済み（実施未確定）</span>':''}${links?`<span class="ca245-links">${links}</span>`:''}</li>`;}
+function ca245Filter(rows,filters){const norm=x=>String(x||'').normalize('NFKC').toLocaleLowerCase('ja');const words=norm(filters.q).trim().split(/\s+/).filter(Boolean);return rows.filter(e=>(filters.year==='all'||String(e.date).slice(0,4)===filters.year)&&(filters.month==='all'||String(e.date).slice(5,7)===filters.month)&&(filters.artist==='all'||String(e.artist||'')===filters.artist)&&words.every(w=>norm([e.title,e.artist,e.broadcastStation,e.venue].filter(Boolean).join(' ')).includes(w))).sort((a,b)=>(filters.sort==='asc'?String(a.date).localeCompare(String(b.date)):String(b.date).localeCompare(String(a.date)))||String(a.id).localeCompare(String(b.id)));}
+let ca245Kind='broadcast_schedule',ca245Page=1,ca245Opener=null;
+function ca245Dialog(){let dlg=$('ca245-dialog');if(dlg)return dlg;dlg=document.createElement('dialog');dlg.id='ca245-dialog';dlg.setAttribute('aria-labelledby','ca245-title');dlg.innerHTML=`<div class="ca245-head"><h2 id="ca245-title"></h2><button type="button" id="ca245-close" aria-label="閉じる">閉じる ×</button></div><p id="ca245-description"></p><div class="ca245-filters"><label>年<select id="ca245-year"></select></label><label>月<select id="ca245-month"></select></label><label>名義<select id="ca245-artist"></select></label><label>並び順<select id="ca245-sort"><option value="desc">新しい順</option><option value="asc">古い順</option></select></label><label class="ca245-query">番組名・記録名で検索<input type="search" id="ca245-query" placeholder="番組名など"></label><button type="button" id="ca245-reset">条件をクリア</button></div><p id="ca245-count" role="status" aria-live="polite"></p><ol id="ca245-list"></ol><div class="ca245-pager"><button type="button" id="ca245-prev">← 前のページ</button><span id="ca245-page"></span><button type="button" id="ca245-next">次のページ →</button></div>`;document.body.append(dlg);
+ for(const id of ['ca245-year','ca245-month','ca245-artist','ca245-sort'])$(id).addEventListener('change',()=>{ca245Page=1;ca245Render();});$('ca245-query').addEventListener('input',()=>{ca245Page=1;ca245Render();});$('ca245-reset').addEventListener('click',()=>{ca245Reset();ca245Render();});$('ca245-prev').addEventListener('click',()=>{ca245Page--;ca245Render(true);});$('ca245-next').addEventListener('click',()=>{ca245Page++;ca245Render(true);});$('ca245-close').addEventListener('click',()=>dlg.close());dlg.addEventListener('close',()=>ca245Opener?.focus({preventScroll:true}));return dlg;}
+function ca245Reset(){for(const id of ['ca245-year','ca245-month','ca245-artist'])$(id).value='all';$('ca245-sort').value='desc';$('ca245-query').value='';ca245Page=1;}
+function ca245Options(id,values,label){const s=$(id);s.replaceChildren(new Option('すべて','all'));for(const v of values)s.add(new Option(label(v),v));}
+function ca245Open(kind,opener){const dlg=ca245Dialog(),rows=ca245Records(kind);ca245Kind=kind;ca245Opener=opener; $('ca245-title').textContent=ca245Names[kind];$('ca245-description').textContent=kind==='broadcast_schedule'?'放送日程の確認を終えた記録です。実際の放送実績を確定したものではありません。':kind==='review_closed'?'追加調査をいったん終了した記録です。開催済みとは限りません。':'開催・放送の実施を引き続き確認する記録です。';ca245Options('ca245-year',[...new Set(rows.map(e=>String(e.date).slice(0,4)))].sort().reverse(),x=>x+'年');ca245Options('ca245-month',Array.from({length:12},(_,i)=>String(i+1).padStart(2,'0')),x=>Number(x)+'月');ca245Options('ca245-artist',[...new Set(rows.map(e=>String(e.artist||'')).filter(Boolean))].sort((a,b)=>a.localeCompare(b,'ja')),x=>x);ca245Reset();ca245Render();dlg.showModal();$('ca245-close').focus();}
+function ca245Render(scroll=false){const dlg=$('ca245-dialog');if(!dlg)return;const rows=ca245Records(ca245Kind),filters={year:$('ca245-year').value,month:$('ca245-month').value,artist:$('ca245-artist').value,sort:$('ca245-sort').value,q:$('ca245-query').value},matched=ca245Filter(rows,filters),pages=Math.max(1,Math.ceil(matched.length/CA245_PAGE));ca245Page=Math.max(1,Math.min(pages,ca245Page));const start=(ca245Page-1)*CA245_PAGE,visible=matched.slice(start,start+CA245_PAGE);$('ca245-count').textContent=`全${rows.length}件 ／ 条件一致 ${matched.length}件${visible.length?' ／ '+(start+1)+'〜'+(start+visible.length)+'件を表示':''}`;$('ca245-list').innerHTML=visible.length?visible.map(e=>ca245Card(e,ca245Kind,true)).join(''):'<li>条件に一致する記録はありません。</li>';$('ca245-page').textContent=`${ca245Page} / ${pages} ページ`;$('ca245-prev').disabled=ca245Page<=1;$('ca245-next').disabled=ca245Page>=pages;if(scroll)$('ca245-count').scrollIntoView({block:'start',behavior:'auto'});}
+function ca245Preview(kind,rows,listId,buttonId,countId){const list=$(listId),button=$(buttonId);if(!list||!button)return;list.innerHTML=rows.length?rows.slice(0,CA245_PREVIEW).map(e=>ca245Card(e,kind)).join(''):'<li class="ca41-no-review">該当する記録はありません。</li>';if(countId&&$(countId))$(countId).textContent=rows.length+'件';button.hidden=rows.length<=CA245_PREVIEW;button.textContent='全'+rows.length+'件を見る ↗';button.onclick=()=>ca245Open(kind,button);}
 let reviewLimit=15;
 function showReview(){
- const panel=$('ca41-review');if(!panel)return;
- const pending=reviewRecords(),closed=closedRecords(),now=todayISO();
- const broadcastCount=events.filter(e=>state(e,now).code==='broadcast_schedule').length;
- $('ca41-review-count').textContent=`確認待ち ${pending.length}件 ／ 事後確認終了 ${closed.length}件 ／ 放送日程確認済み ${broadcastCount}件`;
- const cards=pending.slice(0,reviewLimit).map(e=>`<li><a href="${esc(eventUrl(e))}"><time datetime="${esc(e.date)}">${esc(e.date)}</time>　${esc(e.artist)}｜${esc(e.title)}</a><span>${esc([e.prefecture,e.venue].filter(Boolean).join('・'))}</span></li>`).join('');
- $('ca41-review-items').innerHTML=cards||'<li class="ca41-no-review">現在、追加の実施確認が必要な「開催予定」の登録はありません。</li>';
- const more=$('ca41-review-more');more.hidden=pending.length<=reviewLimit;more.textContent=`さらに表示（残り${Math.max(0,pending.length-reviewLimit)}件）`;
- $('ca41-closed-count').textContent=`${closed.length}件`;
- $('ca41-closed-items').innerHTML=closed.map(e=>{
-  const item=followUp(e);
-  const sources=Array.isArray(e.sources)?e.sources:[];
-  const links=sources.filter(s=>s&&/^https:\/\//.test(String(s.url||''))).map((s,i)=>`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">登録済み資料${sources.length>1?' '+(i+1):''}を開く ↗</a>`).join(' ／ ');
-  return `<li><a href="${esc(eventUrl(e))}"><time datetime="${esc(e.date)}">${esc(e.date)}</time>　${esc(e.artist)}｜${esc(e.title)}</a><span>${esc([e.prefecture,e.venue].filter(Boolean).join('・'))}</span><span class="ca2211-closed-tag">事後確認終了（実施未確定） ／ 確認日：${esc(item.reviewedAt||'不明')}</span><span class="ca2211-closed-reason">${esc(item.reason||'開催実績の確認は行っていません。')}</span>${links?`<span class="ca2211-closed-sources">${links}</span>`:''}</li>`;
- }).join('')||'<li class="ca41-no-review">事後確認終了に分類された記録はありません。</li>';
+ if(!$('ca41-review'))return;
+ const pending=ca245Records('review'),closed=ca245Records('review_closed'),broadcast=ca245Records('broadcast_schedule');
+ $('ca41-review-count').textContent=`確認待ち ${pending.length}件 ／ 事後確認終了 ${closed.length}件 ／ 放送日程確認済み ${broadcast.length}件`;
+ ca245Preview('review',pending,'ca41-review-items','ca41-review-more','ca245-pending-count');
+ ca245Preview('review_closed',closed,'ca41-closed-items','ca245-closed-more','ca41-closed-count');
+ ca245Preview('broadcast_schedule',broadcast,'ca245-broadcast-items','ca245-broadcast-more','ca245-broadcast-count');
  const label=document.querySelector('label:has(> #status-filter) > span');if(label)label.textContent='登録時の状態';
  const select=$('status-filter');if(select){const option=select.querySelector('option[value="scheduled"]');if(option)option.textContent='開催予定として登録（過去分含む）';}
+ if($('ca245-dialog')?.open)ca245Render();
 }
 const browse=$('browse');
 if(browse&&!$('ca41-review')){
@@ -143,11 +152,12 @@ if(browse&&!$('ca41-review')){
  section.innerHTML=`<div class="ca41-review-head"><div><span class="kicker">SCHEDULE FOLLOW-UP</span><h3>開催日が過ぎた予定の確認</h3></div><strong id="ca41-review-count"></strong></div>
  <p>日付だけでは実施・延期・中止を判断できません。<strong>元の開催予定記録はそのまま維持</strong>し、「追加確認が必要」と「事後確認を終了（実施未確定）」を区別します。後者は、開催したことを意味しません。</p>
  <p class="ca241-broadcast-help">出典のあるテレビ・ラジオ放送（初回・総集編・特別番組・再放送など）は、放送予定日から7日経過すると「放送日程確認済み」として確認待ちから外します。実際の放送は未確定です。元の登録状態・資料・日付は維持します。登録された中止・延期・変更情報があるものや収録日などは個別確認します。</p>
- <details id="ca41-review-details"><summary>実施確認待ちの記録を表示</summary><ol id="ca41-review-items"></ol><button type="button" id="ca41-review-more" class="btn btn-ghost" hidden>さらに表示</button></details>
- <details id="ca41-closed-details" class="ca2211-review-closed"><summary>事後確認を終了した記録（実施未確定） <span id="ca41-closed-count"></span></summary><p>開催後の実施報告が通常出ないイベントなど、追加調査をいったん終了した記録です。開催告知の確認と実際の開催確認は異なります。新しい根拠が見つかれば分類を見直します。</p><ol id="ca41-closed-items"></ol></details>
+ <details id="ca41-review-details"><summary>実施確認待ちの記録を表示 <span id="ca245-pending-count"></span></summary><p class="ca245-preview-note">最新5件まで表示します。</p><ol id="ca41-review-items"></ol><button type="button" id="ca41-review-more" class="btn btn-ghost" hidden>さらに表示</button></details>
+ <details id="ca41-closed-details" class="ca2211-review-closed"><summary>事後確認を終了した記録（実施未確定） <span id="ca41-closed-count"></span></summary><p>開催後の実施報告が通常出ないイベントなど、追加調査をいったん終了した記録です。開催告知の確認と実際の開催確認は異なります。新しい根拠が見つかれば分類を見直します。</p><p class="ca245-preview-note">最新5件まで表示します。</p><ol id="ca41-closed-items"></ol><button type="button" id="ca245-closed-more" class="btn btn-ghost" hidden>全件を見る</button></details>
+ <details id="ca245-broadcast-details"><summary>放送日程確認済みの記録 <span id="ca245-broadcast-count"></span></summary><p>放送日程の確認を終えた番組です。実際の放送実績を確定したものではありません。</p><p class="ca245-preview-note">最新5件まで表示します。</p><ol id="ca245-broadcast-items"></ol><button type="button" id="ca245-broadcast-more" class="btn btn-ghost" hidden>全件を見る</button></details>
  <p class="ca41-history-help">備考の「○年○月○日時点」は当時の確認履歴です。日付が進んでも履歴を削除せず、現在の表示状態と区別しています。</p>`;
  const head=browse.querySelector('.section-head');if(head)head.insertAdjacentElement('afterend',section);else browse.prepend(section);
- $('ca41-review-more').addEventListener('click',()=>{reviewLimit+=15;showReview();});
+ // CA245: preview buttons open the paginated dialog.
  const style=document.createElement('style');style.id='ca2211-closed-style';
  style.textContent=`
  .ca2211-review-closed{margin-top:12px!important}

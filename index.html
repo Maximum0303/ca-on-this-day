@@ -36,7 +36,7 @@
 <script defer src="ca-ver39.js?v=2.4.4"></script>
 <script defer src="ca-ver40.js?v=2.3.8-artist-stripes-list-20261124"></script>
 <script defer src="data/review-followup.js?v=2.2.11"></script>
-<script defer src="ca-ver41.js?v=2.4.3"></script>
+<script defer src="ca-ver41.js?v=2.4.5"></script>
 <script defer src="ca-ver42.js"></script>
 <script defer src="ca-ver43.js"></script>
 <script defer src="ca-ver44.js"></script>
@@ -118,6 +118,35 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
 #day-events .ca244-day-filter-actions{display:flex;justify-content:flex-end;gap:6px;flex-wrap:wrap}
 #day-events .ca244-day-tools button:focus-visible,#day-events .ca244-day-filter-actions button:focus-visible{outline:2px solid #f8e2ba;outline-offset:2px}
 }
+</style>
+<style id="ca245-style">
+/* CA245: bounded previews; full list is a separate native dialog. */
+#ca41-review button[hidden]{display:none!important}
+#ca41-review .ca245-record{padding-left:10px!important;overflow-wrap:anywhere}
+#ca41-review .ca245-record .ca245-artist,#ca245-dialog .ca245-artist{display:block;font-weight:700;font-size:12px}
+#ca41-review .ca245-broadcast-label,#ca245-dialog .ca245-broadcast-label{color:#c3eadf;font-size:12px}
+#ca41-review .ca245-links a,#ca245-dialog .ca245-links a{color:#dce7f4;text-decoration:underline;text-underline-offset:3px}
+#ca41-review .ca245-preview-note{font-size:11px;color:#bac8d9}
+#ca41-review #ca245-broadcast-count,#ca41-review #ca245-pending-count{color:#b3c4d8;font-size:12px;margin-left:4px}
+#ca245-dialog{box-sizing:border-box;width:min(850px,calc(100% - 24px));max-height:88vh;max-height:88dvh;overflow:auto;background:#172440;color:#e3eaf4;border:1px solid #61748e;border-radius:14px;padding:20px;overscroll-behavior:contain}
+#ca245-dialog::backdrop{background:rgba(5,12,25,.78)}
+#ca245-dialog .ca245-head{display:flex;align-items:center;justify-content:space-between;gap:10px}
+#ca245-dialog h2{font-size:20px;color:#f8e2ba;margin:0;line-height:1.5}
+#ca245-dialog p{font-size:13px;line-height:1.7;margin:10px 0}
+#ca245-dialog .ca245-filters{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;align-items:end}
+#ca245-dialog label{display:grid;gap:4px;font-size:12px;color:#c9d7e8;min-width:0}
+#ca245-dialog .ca245-query{grid-column:span 3}
+#ca245-dialog select,#ca245-dialog input,#ca245-dialog button{box-sizing:border-box;font:inherit;font-size:13px;min-height:40px;border:1px solid #647b98;border-radius:7px;padding:6px 9px;background:#213652;color:#edf3fb;max-width:100%;min-width:0}
+#ca245-dialog button{cursor:pointer;color:#f8e2ba;white-space:normal}
+#ca245-dialog button:disabled{opacity:.4;cursor:default}
+#ca245-dialog :focus-visible{outline:2px solid #f8e2ba;outline-offset:2px}
+#ca245-dialog ol{display:grid;gap:9px;padding:0;list-style:none;margin:12px 0}
+#ca245-dialog li{padding:10px 12px;background:#20324e;border-radius:7px;font-size:13px;line-height:1.7;overflow-wrap:anywhere}
+#ca245-dialog li a{color:#f8e2ba;text-decoration:underline;text-underline-offset:3px}
+#ca245-dialog li span{display:block;color:#c9d7e8;font-size:12px}
+#ca245-dialog .ca245-pager{display:flex;justify-content:space-between;align-items:center;gap:8px;font-size:12px}
+@media(max-width:600px){#ca245-dialog{padding:12px}#ca245-dialog h2{font-size:16px}#ca245-dialog .ca245-filters{grid-template-columns:repeat(2,minmax(0,1fr))}#ca245-dialog .ca245-query{grid-column:span 2}#ca245-dialog .ca245-head button{flex-shrink:0}}
+
 </style>
 </head>
 <body>
