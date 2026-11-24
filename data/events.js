@@ -26644,14 +26644,14 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「FNS歌謡祭'92」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ロンドンより中継。二次資料の記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ロンドンより中継。二次資料の記録によるため、放送局等の一次資料は未照合。\n所蔵映像リストと既存の非公式放送記録で曲名が一致。映像本編・放送局の一次資料は未照合。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
         }
       ],
-      "description": "1992年12月1日、CHAGE and ASKAが出演したテレビ番組「FNS歌謡祭'92」がフジテレビで放送された。"
+      "description": "1992年12月1日、CHAGE and ASKAが出演したフジテレビ「FNS歌謡祭'92」が放送された。資料ではロンドンからの中継で「no no darlin'」「GUYS」を披露したと記録されている。"
     },
     {
       "id": "live-multi-max-max-tool-1992-002",
@@ -27007,15 +27007,19 @@ window.CA_EVENT_DATA = {
       "prefecture": "",
       "status": "recorded",
       "verification": "secondary",
-      "note": "放送局・配信媒体：NHK。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。",
+      "note": "放送局・配信媒体：NHK。出演形態：出演。当該放送日・出演形態について二次資料での記録。放送局の一次資料は未照合。\n所蔵映像リストの日付・番組・名義と既存記録が一致。曲名は非公式放送記録による。日本レコード協会の歴代受賞者一覧で受賞を確認したが、放送日・歌唱の一次確認ではない。映像本編は未視聴。",
       "sources": [
         {
           "label": "参考資料（非公式）",
           "url": "https://w.atwiki.jp/cavc/pages/54.html"
+        },
+        {
+          "label": "日本ゴールドディスク大賞公式｜歴代受賞者",
+          "url": "https://www.golddisc.jp/award/"
         }
       ],
       "broadcastStation": "NHK",
-      "description": "1993年3月13日、CHAGE and ASKAが出演したテレビ番組「第7回ゴールドディスク大賞’93」がNHKで放送された。"
+      "description": "1993年3月13日、CHAGE and ASKAが出演したNHK「第7回ゴールドディスク大賞’93」が放送された。二次資料には「no no darlin'」「野いちごがゆれるように」の披露が記録されている。日本ゴールドディスク大賞の邦楽部門受賞は主催者公式資料でも確認できる。"
     },
     {
       "id": "live-tug-guys-1993-001",
@@ -90565,7 +90569,7 @@ window.CA_EVENT_DATA = {
       "title": "映画『ジャッジ・ドレッド』日本公開（エンディング曲「TIME」）",
       "status": "recorded",
       "verification": "secondary",
-      "note": "1995年9月15日の日本劇場公開日。ASKA「TIME」が映画のエンディング曲を担当したことはCHAGE and ASKA公式HISTORYに記載されている。映画公開日については映画作品データベースの記載を参照。サウンドトラック発売日とは区別する。",
+      "note": "1995年9月15日の日本劇場公開日。ASKA「TIME」が映画のエンディング曲を担当したことはCHAGE and ASKA公式HISTORYに記載されている。映画公開日については映画作品データベースの記載を参照。サウンドトラック発売日とは区別する。\n説明文のテレビ放送との誤記を訂正。映画.comの日本劇場公開日とCHAGE and ASKA公式HISTORYの楽曲担当情報による。所蔵リストにある同日の始球式とは別の記録であり、始球式の放送・出演情報は未確定。",
       "sources": [
         {
           "label": "映画.com：日本公開日",
@@ -90576,7 +90580,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ],
-      "description": "1995年9月15日、ASKAが取り上げられたテレビ番組『ジャッジ・ドレッド』が放送された。"
+      "description": "1995年9月15日、映画『ジャッジ・ドレッド』が日本で劇場公開された。エンディング曲「TIME」をASKAが担当した。"
     },
     {
       "id": "media-tieup-1996-0111-risky-game",
@@ -94876,7 +94880,7 @@ window.CA_EVENT_DATA = {
       "title": "テレビ朝日「ミュージックステーション」春スペシャル ASKA出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "リチャード・マークスとの共演も公式出演者欄に記載。曲名の詳細は二次資料扱い。 放送局公式の当該放送日・出演者一覧で確認（歌唱内容は別資料による）。",
+      "note": "リチャード・マークスとの共演も公式出演者欄に記載。曲名の詳細は二次資料扱い。 放送局公式の当該放送日・出演者一覧で確認（歌唱内容は別資料による）。\n所蔵映像リストにはASKAとリチャード・マークスの共演およびMULTI MAXの出演が記載され、公式出演者一覧と一致。曲名は既存の非公式放送記録による。映像本編は未視聴。",
       "sources": [
         {
           "label": "テレビ朝日「ミュージックステーション」公式バックナンバー",
@@ -94888,7 +94892,7 @@ window.CA_EVENT_DATA = {
         }
       ],
       "broadcastStation": "テレビ朝日",
-      "description": "1997年3月28日、ASKAが出演したテレビ番組「ミュージックステーション」がテレビ朝日で放送された。"
+      "description": "1997年3月28日、ASKAがテレビ朝日「ミュージックステーション」春スペシャルに出演。二次資料ではソロで「僕はすっかり」、リチャード・マークスとの共演で「Every Day Of Your Life」を披露したと記録されている。"
     },
     {
       "id": "media-v2111-19970328-mstation-spring-multimax",
@@ -94898,7 +94902,7 @@ window.CA_EVENT_DATA = {
       "title": "テレビ朝日「ミュージックステーション」春スペシャル MULTI MAX出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "ASKAの出演と同じ放送回にMULTI MAXも出演。二次資料では最後のテレビ出演として記録。 放送局公式の当該放送日・出演者一覧で確認（歌唱内容は別資料による）。",
+      "note": "ASKAの出演と同じ放送回にMULTI MAXも出演。二次資料では最後のテレビ出演として記録。 放送局公式の当該放送日・出演者一覧で確認（歌唱内容は別資料による）。\n所蔵映像リストと放送局公式出演者一覧で出演名義が一致。曲名は既存の非公式放送記録による。映像本編は未視聴。",
       "sources": [
         {
           "label": "テレビ朝日「ミュージックステーション」公式バックナンバー",
@@ -94910,7 +94914,7 @@ window.CA_EVENT_DATA = {
         }
       ],
       "broadcastStation": "テレビ朝日",
-      "description": "1997年3月28日、MULTI MAXが出演したテレビ番組「ミュージックステーション」がテレビ朝日で放送された。"
+      "description": "1997年3月28日、MULTI MAXがテレビ朝日「ミュージックステーション」春スペシャルに出演。二次資料には「Mr. Liverpool」の披露が記録されている。"
     },
     {
       "id": "media-v2111-19970418-fan-aska",
@@ -96960,5 +96964,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.2.15"
+  "siteVersion": "2.2.16"
 };
