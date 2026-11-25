@@ -9,7 +9,7 @@
   const $ = id => document.getElementById(id);
   if (!events.length || !$('calendar-cells') || !$('day-events') || !$('results')) return;
 
-  const cats = {live:'ライブ',release:'音楽・映像作品', book:'書籍・出版',media:'テレビ・ラジオ',milestone:'記録・記念日',amateur:'デビュー前・アマチュア活動',other:'その他'};
+  const cats = {live:'ライブ',release:'音楽・映像作品', book:'書籍・出版',media:'テレビ・ラジオ',milestone:'歴史・出来事',amateur:'デビュー前・アマチュア活動',other:'その他'};
   const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const pad = n => String(n).padStart(2,'0');
   const eventById = new Map();

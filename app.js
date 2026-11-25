@@ -3,7 +3,7 @@
 const archive=window.CA_EVENT_DATA;
 const events=Array.isArray(archive?.events)?archive.events:[];
 const $=id=>document.getElementById(id);
-const CAT={live:'ライブ',release:'音楽・映像作品', book:'書籍・出版',media:'テレビ・ラジオ',milestone:'記録・記念日',amateur:'デビュー前・アマチュア活動',other:'その他'};
+const CAT={live:'ライブ',release:'音楽・映像作品', book:'書籍・出版',media:'テレビ・ラジオ',milestone:'歴史・出来事',amateur:'デビュー前・アマチュア活動',other:'その他'};
 const MONTHS=['JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST','SEPTEMBER','OCTOBER','NOVEMBER','DECEMBER'];
 const WEEK=['日','月','火','水','木','金','土'];
 const pad=n=>String(n).padStart(2,'0');
