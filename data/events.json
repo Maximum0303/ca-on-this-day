@@ -98726,7 +98726,37 @@
         }
       ],
       "broadcastStation": "Streaming+"
+    },
+    {
+      "id": "aska-20260322-kishidanbanpaku2025-after-special-wowow",
+      "date": "2026-03-22",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "氣志團万博2025 ～関東爆音パビリオン～ 事後スペシャル番組",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "WOWOWライブ",
+      "description": "2026年3月22日、ASKAが初日に出演した「氣志團万博2025」の舞台裏や出演者同士の交流を紹介する事後スペシャル番組がWOWOWで放送・配信された。",
+      "note": "公式放送日程：20:00から1時間。WOWOWオンデマンドで同時配信、終了後1カ月間アーカイブ配信。収録：2025年11月15・16日、幕張メッセ国際展示場9～11ホール。ASKAの公演出演は15日。2026年1月17日の初日 前編の通常ライブ放送とは別構成。番組内のASKA個別の映像内容・出演尺は未確認。",
+      "sources": [
+        {
+          "label": "WOWOW公式番組情報",
+          "url": "https://www.wowow.co.jp/detail/206149"
+        },
+        {
+          "label": "WOWOW公式プレスリリース",
+          "url": "https://prtimes.jp/main/html/rd/p/000008647.000001355.html"
+        },
+        {
+          "label": "WOWOWオンデマンド",
+          "url": "https://wod.wowow.co.jp/browse/program/206149"
+        },
+        {
+          "label": "ASKA公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.34"
+  "siteVersion": "2.3.35"
 }
