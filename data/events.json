@@ -97897,7 +97897,33 @@
           "url": "https://www.fellows.tokyo/news/detail/172"
         }
       ]
+    },
+    {
+      "id": "aska-20220131-higher-ground-kanagawa-stream",
+      "date": "2022-01-31",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演 神奈川県民ホール大ホール（オンライン配信）",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2022年1月30日、神奈川県民ホール大ホールで収録した公演を翌31日20:00からオンライン配信。",
+      "note": "アーカイブ視聴は2022年2月3日23:59まで。公演実施日とは別の配信記録。配信日時は公式発表および本人ブログ、ZAIKOの表記は二次資料で照合。",
+      "broadcastStation": "ZAIKO",
+      "sources": [
+        {
+          "label": "キョードーメディアス公式発表",
+          "url": "https://prtimes.jp/main/html/rd/p/000001826.000012949.html"
+        },
+        {
+          "label": "Fellows公式ブログ",
+          "url": "https://archive.fellows.tokyo/blog/?id=3208"
+        },
+        {
+          "label": "参考資料（非公式・配信記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/466.html"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.7"
+  "siteVersion": "2.3.8"
 }
