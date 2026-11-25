@@ -98633,7 +98633,73 @@ window.CA_EVENT_DATA = {
         }
       ],
       "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "aska-20251218-kyotoonpaku-sstv",
+      "date": "2025-12-18",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "くるり presents 京都音楽博覧会2025 スペースシャワーTV 初回放送",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2025年12月18日、ASKA出演の京都音楽博覧会2025の特別番組がスペースシャワーTVで初回放送された。",
+      "note": "22:00～23:30。2025年10月11日・12日の公演映像と舞台裏を紹介。ASKAは12日出演。公式番組日程による確認。",
+      "sources": [
+        {
+          "label": "スペースシャワーTV公式番組情報",
+          "url": "https://tv.spaceshower.jp/p/00089342/"
+        }
+      ],
+      "broadcastStation": "スペースシャワーTV"
+    },
+    {
+      "id": "aska-20251218-kyotoonpaku-ondemand",
+      "date": "2025-12-18",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "くるり presents 京都音楽博覧会2025 スペシャオンデマンド 配信開始",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2025年12月18日、ASKA出演の京都音楽博覧会2025の特別番組のオンデマンド配信が公式番組ページで案内された。",
+      "note": "放送局公式番組ページ記載：2025年12月18日23:30～2026年1月19日23:59。くるりの当時のSNS告知（参考資料掲載）では12月19日0:00～2026年1月18日23:59。資料間に相違があり、実際の配信開始・終了時刻は未確認。12月20日開始の根拠は未確認。",
+      "sources": [
+        {
+          "label": "スペースシャワーTV公式番組情報",
+          "url": "https://tv.spaceshower.jp/p/00089342/"
+        },
+        {
+          "label": "参考資料（非公式・SNS告知掲載）",
+          "url": "https://thetv.jp/person/0000138615/sns/"
+        }
+      ],
+      "broadcastStation": "スペシャオンデマンド"
+    },
+    {
+      "id": "aska-20261008-kyotoonpaku-sstv",
+      "date": "2026-10-08",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "くるり presents 京都音楽博覧会2025 スペースシャワーTV 再放送",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2026年10月8日、ASKA出演の京都音楽博覧会2025の特別番組がスペースシャワーTVで再放送された。",
+      "note": "0:00～1:30。公式表記は10月7日24:00～25:30。暦日で登録。公式放送日程による確認。",
+      "sources": [
+        {
+          "label": "スペースシャワーTV公式番組情報",
+          "url": "https://tv.spaceshower.jp/p/00089342/"
+        },
+        {
+          "label": "ASKA公式再放送告知",
+          "url": "https://www.fellows.tokyo/news/detail/772"
+        },
+        {
+          "label": "放送局公式特集情報",
+          "url": "https://tv.spaceshower.jp/p/fes2025_sp/"
+        }
+      ],
+      "broadcastStation": "スペースシャワーTV"
     }
   ],
-  "siteVersion": "2.3.31"
+  "siteVersion": "2.3.32"
 };
