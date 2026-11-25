@@ -98101,7 +98101,55 @@
           "url": "https://www.fellows.tokyo/blog/detail/137/"
         }
       ]
+    },
+    {
+      "id": "chage-20230106-billboard-64to65-rakuten-stream",
+      "date": "2023-01-06",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "Chage Billboard Live “64 to 65” 生配信",
+      "description": "2023年1月6日にBillboard Live TOKYOで開催された「Chage Billboard Live “64 to 65”」がRakuten TVで独占ライブ配信された。",
+      "note": "Chageの65歳の誕生日当日で、年またぎツアーの最終日。会場公式では1st 17:30、2nd 20:30開演。配信対象は2ndステージ（二次資料確認）。見逃し配信は2023年1月24日22:00まで（Rakuten TV公式確認）。見逃し配信は2023年1月18日17:00開始（二次資料確認）。会場での公演記録とは別に掲載。",
+      "broadcastStation": "Rakuten TV",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Rakuten TV公式配信レポート",
+          "url": "https://news.tv.rakuten.co.jp/2023/01/chage-archive.html"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://www.billboard-live.com/tokyo/show?date=2023-01-06&event_id=ev-13703"
+        },
+        {
+          "label": "参考資料（非公式・公演記録）",
+          "url": "https://note.com/masshironouni/n/n8047961b5bfa"
+        }
+      ]
+    },
+    {
+      "id": "chage-20230118-billboard-64to65-rakuten-archive",
+      "date": "2023-01-18",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "Chage Billboard Live “64 to 65” アーカイブ配信開始",
+      "description": "2023年1月6日のBillboard Live TOKYO公演「Chage Billboard Live “64 to 65”」の見逃し配信がRakuten TVで開始された。",
+      "note": "見逃し配信期間は2023年1月18日17:00～1月24日22:00。1月18日の配信中の告知と終了日時はRakuten TV公式資料で確認。開始日・開始時刻は二次資料による確認。1月6日の生配信とは別記録。",
+      "broadcastStation": "Rakuten TV",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "Rakuten TV公式配信レポート",
+          "url": "https://news.tv.rakuten.co.jp/2023/01/chage-archive.html"
+        },
+        {
+          "label": "参考資料（非公式・公演記録）",
+          "url": "https://note.com/masshironouni/n/n8047961b5bfa"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.15"
+  "siteVersion": "2.3.17"
 }
