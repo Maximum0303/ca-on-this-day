@@ -98365,7 +98365,59 @@
           "url": "https://ameblo.jp/chage-blog/page-2.html"
         }
       ]
+    },
+    {
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-643.php"
+        },
+        {
+          "label": "チケットぴあ公式配信情報",
+          "url": "https://ticket.pia.jp/piasp/inbound/chage24cgltengpls.jsp"
+        },
+        {
+          "label": "JFN公式番組記事（アーカイブ配信）",
+          "url": "https://jfn-pods.com/program/1974/article/kqxft8Q0ph"
+        }
+      ],
+      "id": "chage-20240923-chage2024-pia-live",
+      "date": "2024-09-23",
+      "title": "ChageLiveTour 2024 ～ちゃげっていうひと～ 生配信",
+      "description": "2024年9月23日、Zepp DiverCity（TOKYO）で開催された「ChageLiveTour 2024 ～ちゃげっていうひと～」がPIA LIVE STREAMで生配信された。",
+      "note": "PIA LIVE STREAMによる配信。公式告知では2024年9月23日17:00開演予定、当日の視聴期限20:00。アーカイブ配信期間は2024年10月8日17:00～11月5日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。"
+    },
+    {
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-643.php"
+        },
+        {
+          "label": "チケットぴあ公式配信情報",
+          "url": "https://ticket.pia.jp/piasp/inbound/chage24cgltengpls.jsp"
+        },
+        {
+          "label": "JFN公式番組記事（アーカイブ配信）",
+          "url": "https://jfn-pods.com/program/1974/article/kqxft8Q0ph"
+        }
+      ],
+      "id": "chage-20241008-chage2024-pia-archive",
+      "date": "2024-10-08",
+      "title": "ChageLiveTour 2024 ～ちゃげっていうひと～ アーカイブ配信開始",
+      "description": "2024年9月23日のZepp DiverCity（TOKYO）公演「ChageLiveTour 2024 ～ちゃげっていうひと～」のアーカイブ配信開始日。",
+      "note": "PIA LIVE STREAMによる配信。公式告知では2024年9月23日17:00開演予定、当日の視聴期限20:00。アーカイブ配信期間は2024年10月8日17:00～11月5日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。"
     }
   ],
-  "siteVersion": "2.3.22"
+  "siteVersion": "2.3.23"
 }
