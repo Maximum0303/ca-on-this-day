@@ -97853,7 +97853,51 @@ window.CA_EVENT_DATA = {
       "description": "LuckyFes'23初日のWATER・GREENステージの映像が再配信された。ASKAは20:00頃の配信予定。",
       "broadcastStation": "ABEMA",
       "startTime": "15:00"
+    },
+    {
+      "id": "aska-20240707-miyakojima-live-stream",
+      "date": "2024-07-07",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "ASKA×Fellows in 宮古島 ～少しの時間と大きな旅と～ SPECIAL LIVE（生配信）",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "Fellows会員限定で15:00からライブステージを生配信。ローチケ LIVE STREAMING（ZAIKO）。当日の見逃し配信なし。",
+      "note": "会場公演とは別の配信記録。",
+      "broadcastStation": "ローチケ LIVE STREAMING（ZAIKO）",
+      "sources": [
+        {
+          "label": "Fellows公式・配信のお知らせ",
+          "url": "https://www.fellows.tokyo/news/detail/172"
+        },
+        {
+          "label": "Fellows公式・公演情報",
+          "url": "https://www.fellows.tokyo/news/detail/195"
+        }
+      ]
+    },
+    {
+      "id": "aska-20240723-miyakojima-archive-stream",
+      "date": "2024-07-23",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "ASKA×Fellows in 宮古島 ～少しの時間と大きな旅と～ SPECIAL LIVE（アーカイブ配信開始）",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "Fellows会員限定アーカイブ配信。7月23日12:00から8月31日23:59まで。ローチケ LIVE STREAMING（ZAIKO）。",
+      "note": "当初は7月19日開始予定だったが、音声トラブルの修復により変更。7月18日公式発表の変更後の日程に基づく。",
+      "broadcastStation": "ローチケ LIVE STREAMING（ZAIKO）",
+      "sources": [
+        {
+          "label": "Fellows公式・配信日程変更",
+          "url": "https://www.fellows.tokyo/news/detail/201"
+        },
+        {
+          "label": "Fellows公式・配信のお知らせ",
+          "url": "https://www.fellows.tokyo/news/detail/172"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.6"
+  "siteVersion": "2.3.7"
 };
