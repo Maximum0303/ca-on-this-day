@@ -71405,7 +71405,7 @@
       "title": "ASKA配信ライブ「すべての事には理由がある」",
       "status": "recorded",
       "verification": "primary",
-      "note": "ASKA初の配信ライブ。有観客で収録・配信。配信開始時刻は資料に揺れがあるため未掲載 【2021〜2022年公式点検】2021年6月23日に初配信。アーカイブ配信日と開催日を混同しない。",
+      "note": "ASKA初の配信ライブ。有観客で収録・配信。配信開始時刻は資料に揺れがあるため未掲載 【2021〜2022年公式点検】2021年6月23日に初配信。アーカイブ配信日と開催日を混同しない。 ／ ローチケ LIVE STREAMING（ZAIKO）。アーカイブ視聴期間：2021年6月24日～26日。視聴券3,000円（税込）。公式告知では21:00、別資料では21:30と記載され、実際の開始時刻は未確定。",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
@@ -71414,10 +71414,15 @@
         {
           "label": "オリコン現地取材・主催の配信記録",
           "url": "https://www.oricon.co.jp/news/2197745/full/"
+        },
+        {
+          "label": "主催者公式発表（2021年6月10日）",
+          "url": "https://prtimes.jp/main/html/rd/p/000001651.000012949.html"
         }
       ],
       "venue": "オンライン配信",
-      "description": "2021年6月23日、ASKAの「ASKA配信ライブ「すべての事には理由がある」がオンライン配信で開催された。"
+      "description": "2021年6月23日、ASKA初の配信ライブ「すべての事には理由がある」がオンライン配信された。",
+      "broadcastStation": "ZAIKO"
     },
     {
       "id": "v14-aska2021-terminal",
@@ -71426,15 +71431,15 @@
       "category": "media",
       "title": "ASKA配信ライブ「すべての事には理由がある」で「Terminal Melody」公開収録",
       "status": "recorded",
-      "verification": "primary",
-      "note": "配信ライブ内の番組収録。番組本放送日とは別",
+      "verification": "secondary",
+      "note": "配信ライブ内の番組収録。番組本放送日とは別 ／ 公開収録日であり、ラジオ放送日とは区別する。当時の現地取材記事で確認。",
       "sources": [
         {
           "label": "オリコン現地取材",
           "url": "https://www.oricon.co.jp/news/2197745/full/"
         }
       ],
-      "description": "2021年6月23日、ASKAが取り上げられた配信番組「すべての事には理由がある」が放送された。"
+      "description": "2021年6月23日、ASKA初の配信ライブ「すべての事には理由がある」の中で、TOKYO FMのラジオ番組「Terminal Melody」の公開収録が行われた。"
     },
     {
       "id": "v14-release-015",
@@ -97989,7 +97994,29 @@
           "url": "https://w.atwiki.jp/cavc/pages/467.html"
         }
       ]
+    },
+    {
+      "id": "aska-20210624-subete-no-koto-archive-stream",
+      "date": "2021-06-24",
+      "title": "ASKA配信ライブ「すべての事には理由がある」（アーカイブ配信開始）",
+      "description": "6月23日に配信されたASKA初の配信ライブのアーカイブ視聴開始。",
+      "note": "視聴期間：2021年6月24日～26日。ローチケ LIVE STREAMING（ZAIKO）。開始・終了時刻は未確定。主催者発表および当時の開催報道で確認。",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "主催者公式発表（2021年6月10日）",
+          "url": "https://prtimes.jp/main/html/rd/p/000001651.000012949.html"
+        },
+        {
+          "label": "参考資料（非公式・現地取材）",
+          "url": "https://www.oricon.co.jp/news/2197745/full/"
+        }
+      ],
+      "artist": "ASKA",
+      "category": "media",
+      "status": "recorded",
+      "broadcastStation": "ZAIKO"
     }
   ],
-  "siteVersion": "2.3.10"
+  "siteVersion": "2.3.11"
 }
