@@ -22908,14 +22908,14 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「NOW ARTIST」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "TBS。トークとスタジオライブ。二次資料の記録によるため、放送局等の一次資料は未照合。",
+      "note": "TBS。トークとスタジオライブ。二次資料の記録によるため、放送局等の一次資料は未照合。\n追補：所蔵映像リストの番組名に「1時間」とあり、非公式放送記録の番組構成と一致。映像本編は未視聴。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ],
-      "description": "1991年2月4日、CHAGE and ASKAが出演したテレビ番組「NOW ARTIST」がTBSで放送された。"
+      "description": "1991年2月4日、CHAGE and ASKAが出演したテレビ番組「NOW ARTIST」がTBSで放送された。\nトークとスタジオライブによる1時間の特集番組。"
     },
     {
       "id": "media-v18-1991-001",
@@ -24634,14 +24634,14 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「第20回FNS歌謡祭'91」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。SAY YES・僕はこの瞳で嘘をつく。二次資料の記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。SAY YES・僕はこの瞳で嘘をつく。二次資料の記録によるため、放送局等の一次資料は未照合。\n追補：所蔵映像リストにも同じ2曲が記載されている。映像本編は未視聴。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ],
-      "description": "1991年12月3日、CHAGE and ASKAが出演したテレビ番組「第20回FNS歌謡祭'91」がフジテレビで放送された。"
+      "description": "1991年12月3日、CHAGE and ASKAが出演したテレビ番組「第20回FNS歌謡祭'91」がフジテレビで放送された。\n二次資料には「SAY YES」「僕はこの瞳で嘘をつく」の2曲が記録されている。"
     },
     {
       "id": "live-say-yes-1991-1992-034",
@@ -26478,14 +26478,18 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「ウッチャンナンチャンのやるならやらねば!」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。チャケ&矢飛鳥の企画に本人が登場。二次資料の記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。チャケ&矢飛鳥の企画に本人が登場。二次資料の記録によるため、放送局等の一次資料は未照合。\n追補：所蔵映像リストには最終章・本人出演ありと記載。別の視聴記録でも同日放送と共演の模様を確認。映像本編は未視聴。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/53.html"
+        },
+        {
+          "label": "参考資料（非公式・番組視聴記録）",
+          "url": "https://ameblo.jp/toi0825/entry-11901379329.html"
         }
       ],
-      "description": "1992年6月6日、CHAGE and ASKAが出演したテレビ番組「ウッチャンナンチャンのやるならやらねば!」がフジテレビで放送された。"
+      "description": "1992年6月6日、CHAGE and ASKAが出演したテレビ番組「ウッチャンナンチャンのやるならやらねば!」がフジテレビで放送された。\n「CHAKE&YASKA栄光の軌跡」の最終章に本人が登場。視聴記録ではBIG TREEツアー最終公演の楽屋やステージでの共演の模様が紹介されたとされる。"
     },
     {
       "id": "media-v18-1992-009",
@@ -97156,5 +97160,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.2.20"
+  "siteVersion": "2.2.21"
 };
