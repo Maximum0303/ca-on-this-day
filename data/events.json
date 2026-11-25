@@ -99409,7 +99409,427 @@
       ],
       "isbn": "9784285154351",
       "jan": "4514142154355"
+    },
+    {
+      "id": "book-v244-ca-tabidachi",
+      "date": "1980",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "旅立ちコンサートパンフ（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1980年の公演・活動に関連する「旅立ちコンサートパンフ」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1980年公演関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "コンサートパンフ",
+      "releaseTitle": "旅立ちコンサートパンフ",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-neppu",
+      "date": "1981",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "熱風（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1981年の公演・活動に関連する「熱風」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1981年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "熱風",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/ZTUWO53129"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-goiken-1",
+      "date": "1982",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "御意見無用（1）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1982年の公演・活動に関連する「御意見無用（1）」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1982年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "御意見無用（1）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-goiken-2",
+      "date": "1982",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "御意見無用（2）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1982年の公演・活動に関連する「御意見無用（2）」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "同ツアー関連パンフレット／別冊・版違い。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "御意見無用（2）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-invitation-1",
+      "date": "1983",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "21世紀への招待 Part 1（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1983年の公演・活動に関連する「21世紀への招待 Part 1」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1983年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "21世紀への招待 Part 1",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-invitation-2",
+      "date": "1984",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "21世紀への招待 Part 2（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1984年の公演・活動に関連する「21世紀への招待 Part 2」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1984年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "21世紀への招待 Part 2",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-super-dreamin",
+      "date": "1985",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "SUPER DREAMIN’（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1985年の公演・活動に関連する「SUPER DREAMIN’」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1985年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "SUPER DREAMIN’",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-shakin-1",
+      "date": "1985",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "SHAKIN' NIGHT（1）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1985年の公演・活動に関連する「SHAKIN' NIGHT（1）」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1985年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "SHAKIN' NIGHT（1）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-shakin-2",
+      "date": "1985",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "SHAKIN' NIGHT（2）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1985年の公演・活動に関連する「SHAKIN' NIGHT（2）」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "同ツアー関連パンフレット／版違い・仕様違い。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "SHAKIN' NIGHT（2）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-one-night",
+      "date": "1986",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "ONE NIGHT MAGIC（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1986年の公演・活動に関連する「ONE NIGHT MAGIC」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1986年イベント関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "イベントパンフ",
+      "releaseTitle": "ONE NIGHT MAGIC",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-big-explosion",
+      "date": "1986",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "Big Explosion Series（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1986年の公演・活動に関連する「Big Explosion Series」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1986年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Big Explosion Series",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.com/ja/product/ZTUWO42811"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-summer-explosion",
+      "date": "1986",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "Summer Explosion Series（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1986年の公演・活動に関連する「Summer Explosion Series」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1986年イベント関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "イベントパンフ",
+      "releaseTitle": "Summer Explosion Series",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-xmas-86",
+      "date": "1986",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "X’mas SPECIAL ’86（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1986年の公演・活動に関連する「X’mas SPECIAL ’86」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1986年クリスマス公演関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "X’mas SPECIAL ’86",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-we-shall-return",
+      "date": "1987",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "We Shall Return（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1987年の公演・活動に関連する「We Shall Return」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1987年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "We Shall Return",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-xmas-87",
+      "date": "1987",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "X’mas SPECIAL ’87（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1987年の公演・活動に関連する「X’mas SPECIAL ’87」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1987年クリスマス公演関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "X’mas SPECIAL ’87",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-london-power-town",
+      "date": "1988",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "1988 AUTUMN / LONDON POWER TOWN（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1988年の公演・活動に関連する「1988 AUTUMN / LONDON POWER TOWN」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1988年関連パンフレット／表紙表記は現物確認を優先。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "関連パンフ",
+      "releaseTitle": "1988 AUTUMN / LONDON POWER TOWN",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://jp.mercari.com/item/m85918357308"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-concert-tour-88",
+      "date": "1988",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR ’88（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1988年の公演・活動に関連する「CONCERT TOUR ’88」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1988年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR ’88",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZTUWO8228"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-xmas-88",
+      "date": "1988",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "X’mas SPECIAL ’88（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1988年の公演・活動に関連する「X’mas SPECIAL ’88」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1988年クリスマス公演関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "X’mas SPECIAL ’88",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-10-years-after",
+      "date": "1989",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR ’89 10 years after（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1989年の公演・活動に関連する「CONCERT TOUR ’89 10 years after」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1989年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR ’89 10 years after",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-energy",
+      "date": "1989",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "ENERGY CONCERT（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1989年の公演・活動に関連する「ENERGY CONCERT」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1989年公演関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ENERGY CONCERT",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZTUWO8227"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.4.3"
+  "siteVersion": "2.4.4"
 }
