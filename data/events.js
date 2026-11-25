@@ -34226,22 +34226,27 @@ window.CA_EVENT_DATA = {
       "id": "v18210-1997-0807-three-aska-book",
       "date": "1997-08-07",
       "artist": "ASKA",
-      "category": "release",
+      "category": "book",
       "title": "ASKA単行本『三人のASKA』ファンクラブ限定販売",
       "status": "released",
       "verification": "primary",
-      "note": "公式HISTORYに記載の書籍。映像作品『共謀者』とは別アイテム。",
+      "note": "公式HISTORYに記載の書籍。映像作品『共謀者』とは別アイテム。 ／ 公式HISTORYに1997年8月7日ファンクラブオリジナル販売と記載。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "書籍（ファンクラブ限定）",
       "releaseTitle": "三人のASKA",
-      "description": "1997年8月7日、ASKAの『三人のASKA』が発売された。"
+      "description": "1997年8月7日、ASKAの『三人のASKA』が発売された。",
+      "format": "FC限定本／写真集寄り"
     },
     {
       "id": "v18210-1997-1009-chage-kai-guest",
@@ -101502,7 +101507,367 @@ window.CA_EVENT_DATA = {
           "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
         }
       ]
+    },
+    {
+      "id": "book-v2410-fc-01",
+      "date": "1990",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "THE MAKING STORY ALL OF C&A",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：1990年。TUG of C&A発行のファンクラブ関連資料。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。",
+      "format": "FC限定冊子／メイキング資料",
+      "releaseTitle": "THE MAKING STORY ALL OF C&A",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-02",
+      "date": "1993",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "TUG OF C&A OFFICIAL MAGAZINE MOOK I（表紙A）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：1993年。MOOK Iの表紙違い。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。 中古販売資料に1995/1/30の記載あり。該当する表紙・版と発行日は現物確認待ち。初期選択外。",
+      "format": "FC公式MOOK",
+      "releaseTitle": "TUG OF C&A OFFICIAL MAGAZINE MOOK I（表紙A）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        },
+        {
+          "label": "参考資料（非公式・中古流通情報）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZKITA102291"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-03",
+      "date": "1993",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "TUG OF C&A OFFICIAL MAGAZINE MOOK I（表紙B）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：1993年。MOOK Iの表紙違い。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。 中古販売資料に1995/1/30の記載あり。該当する表紙・版と発行日は現物確認待ち。初期選択外。",
+      "format": "FC公式MOOK",
+      "releaseTitle": "TUG OF C&A OFFICIAL MAGAZINE MOOK I（表紙B）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        },
+        {
+          "label": "参考資料（非公式・中古流通情報）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZKITA102291"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-04",
+      "date": "1994",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "TUG OF C&A OFFICIAL MAGAZINE MOOK II",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：1994年。15周年記念特集号として発行。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。",
+      "format": "FC公式MOOK",
+      "releaseTitle": "TUG OF C&A OFFICIAL MAGAZINE MOOK II",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-05",
+      "date": "1997",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "TUG of C&A別冊 ASKA ID号",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：1997年。ASKAソロ期関連。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。",
+      "format": "FC別冊",
+      "releaseTitle": "TUG of C&A別冊 ASKA ID号",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-06",
+      "date": "1997",
+      "datePrecision": "year",
+      "artist": "Chage",
+      "category": "book",
+      "title": "TUG of C&A別冊 CHAGE Oki doki!号",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：1997年。Chage・MULTI MAX関連。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。",
+      "format": "FC別冊",
+      "releaseTitle": "TUG of C&A別冊 CHAGE Oki doki!号",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-08",
+      "date": "1999",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "赤坂BLITZ Special MTV Program Live／20th Anniversary Premium Live（特別公演パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：1999年。FC・特別公演関連冊子。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。",
+      "format": "特別公演パンフ",
+      "releaseTitle": "赤坂BLITZ Special MTV Program Live／20th Anniversary Premium Live（特別公演パンフレット）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-09",
+      "date": "2000",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "千年夜一夜ライブ -福岡ドーム 僕らがホーム-（会報特別号・フォトブック）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：2000年。通常パンフとは別に発行されたライブの模様を収めたフォトブック。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。",
+      "format": "会報特別号／フォトブック",
+      "releaseTitle": "千年夜一夜ライブ -福岡ドーム 僕らがホーム-（会報特別号・フォトブック）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-10",
+      "date": "2004",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2004",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2004年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2004",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-11",
+      "date": "2005",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2005",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2005年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2005",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-12",
+      "date": "2006",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2006",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2006年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2006",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        },
+        {
+          "label": "参考資料（非公式・中古流通情報）",
+          "url": "https://www.suruga-ya.jp/search?category=7021609&person_id=252&search_word="
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-13",
+      "date": "2007",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2007",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2007年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2007",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-14",
+      "date": "2008",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2008",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2008年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2008",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        },
+        {
+          "label": "参考資料（非公式・中古流通情報）",
+          "url": "https://www.suruga-ya.jp/search?category=7021609&person_id=252&search_word="
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-15",
+      "date": "2009",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2009",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2009年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2009",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-16",
+      "date": "2010",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2010",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2010年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2010",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        },
+        {
+          "label": "参考資料（非公式・中古流通情報）",
+          "url": "https://www.suruga-ya.jp/search?category=7021609&person_id=252&search_word="
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-17",
+      "date": "2011",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2011",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2011年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2011",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-18",
+      "date": "2012",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2012",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2012年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2012",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.4.9"
+  "siteVersion": "2.4.10"
 };
