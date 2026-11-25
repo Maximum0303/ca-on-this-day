@@ -98075,7 +98075,33 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/feature/live_docking_2026"
         }
       ]
+    },
+    {
+      "id": "aska-20220601-tokyo-symphonic-wave-stream",
+      "date": "2022-06-01",
+      "artist": "ASKA",
+      "category": "media",
+      "status": "recorded",
+      "title": "TOKYO SYMPHONIC WAVE 2022 ライブ映像配信開始",
+      "description": "2022年4月21日に東京文化会館 大ホールで開催されたチャリティーコンサート「TOKYO SYMPHONIC WAVE 2022」の収録映像が配信された。",
+      "note": "ローチケ LIVE STREAMING（ZAIKO）で2022年6月1日0:00～6月7日23:59配信。視聴料金2,000円（税込）。出演：ASKA、タケカワユキヒデ、八神純子、尾崎裕哉、幸田浩子。指揮：栁澤寿男。管弦楽：京都フィルハーモニー室内合奏団特別交響楽団。合唱：横浜少年少女合唱団。ゴールドリボン基金へのチャリティー合同公演。4月21日の実公演とは別の記録。",
+      "broadcastStation": "ローチケ LIVE STREAMING（ZAIKO）",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "主催者公式プレスリリース（配信告知）",
+          "url": "https://prtimes.jp/main/html/rd/p/000001937.000012949.html"
+        },
+        {
+          "label": "出演者公式公演情報",
+          "url": "https://junkoyagami.com/s/yj/diary/detail/382211"
+        },
+        {
+          "label": "ASKA公式ブログ",
+          "url": "https://www.fellows.tokyo/blog/detail/137/"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.14"
+  "siteVersion": "2.3.15"
 };
