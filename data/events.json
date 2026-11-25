@@ -27,7 +27,8 @@
           "url": "https://jfn-pods.com/person/show/1053"
         }
       ],
-      "description": "1978年のポピュラーソングコンテストが、ChageとASKAが二人で活動する契機になった。\n本人の回想では、ChageとASKAがそれぞれ大会に参加し、ヤマハ担当者の提案で二人が組んだ経緯が語られている。 受賞した大会や賞の説明には公式プロフィールとの違いがあるため、原資料を参照する必要がある。 結成の正確な月日は現在も確認できていない。"
+      "description": "1978年のポピュラーソングコンテストが、ChageとASKAが二人で活動する契機になった。\n本人の回想では、ChageとASKAがそれぞれ大会に参加し、ヤマハ担当者の提案で二人が組んだ経緯が語られている。 受賞した大会や賞の説明には公式プロフィールとの違いがあるため、原資料を参照する必要がある。 結成の正確な月日は現在も確認できていない。",
+      "featured": true
     },
     {
       "id": "amateur-popcon16-1978-1001",
@@ -214,7 +215,8 @@
           "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
-      "description": "1979年8月25日、チャゲ＆飛鳥、『ひとり咲き』でデビューした。"
+      "description": "1979年8月25日、チャゲ＆飛鳥、『ひとり咲き』でデビューした。",
+      "featured": true
     },
     {
       "id": "media-v17-1979-005",
@@ -52325,7 +52327,8 @@
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "description": "2009年1月30日、CHAGE and ASKA 活動休止・ソロ活動継続を発表。"
+      "description": "2009年1月30日、CHAGE and ASKA 活動休止・ソロ活動継続を発表。",
+      "featured": true
     },
     {
       "id": "live-extra-2009-popular-week-01",
@@ -59996,7 +59999,8 @@
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
-      "description": "2013年1月25日、CHAGE and ASKAの活動再開を発表。"
+      "description": "2013年1月25日、CHAGE and ASKAの活動再開を発表。",
+      "featured": true
     },
     {
       "id": "live-v11-aska-rocket-2013-009",
@@ -69332,7 +69336,8 @@
           "url": "https://archive.fellows.tokyo/blog/?id=1619"
         }
       ],
-      "description": "2019年8月25日、ASKAがCHAGE and ASKAからの脱退を表明。"
+      "description": "2019年8月25日、ASKAがCHAGE and ASKAからの脱退を表明。",
+      "featured": true
     },
     {
       "id": "v13-ch19-feedback-001",
@@ -99831,5 +99836,5 @@
       ]
     }
   ],
-  "siteVersion": "2.4.4"
+  "siteVersion": "2.4.5"
 }
