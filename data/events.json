@@ -98469,7 +98469,67 @@
       "date": "2025-11-28",
       "title": "ChageLiveTour2025 Mr.November アーカイブ配信開始",
       "description": "2025年11月14日のCLUB CITTA’ 川崎公演「ChageLiveTour2025 Mr.November」のアーカイブ配信開始日。"
+    },
+    {
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-490.php"
+        },
+        {
+          "label": "Chage公式公演スケジュール",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        },
+        {
+          "label": "ユニバーサルミュージック公式配信情報",
+          "url": "https://www.universal-music.co.jp/chage/news/2022-07-07/"
+        },
+        {
+          "label": "Chage公式アーカイブ配信開始告知（2022年一覧）",
+          "url": "https://chage.jp/information/live/?year=2022"
+        }
+      ],
+      "note": "PIA LIVE STREAMによる配信。2022年7月10日二子玉川ライズ公演の2nd公演（16:30開演予定）が対象。当日の視聴期限は18:30。公式告知のアーカイブ配信期間は2022年7月20日17:00～8月2日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。",
+      "id": "chage-20220710-hosomichi-pia-live",
+      "date": "2022-07-10",
+      "title": "Chageのずっと細道 生配信",
+      "description": "2022年7月10日、iTSCOM STUDIO & HALL 二子玉川ライズで開催された「Chageのずっと細道」2nd公演の生配信日。"
+    },
+    {
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-490.php"
+        },
+        {
+          "label": "Chage公式公演スケジュール",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        },
+        {
+          "label": "ユニバーサルミュージック公式配信情報",
+          "url": "https://www.universal-music.co.jp/chage/news/2022-07-07/"
+        },
+        {
+          "label": "Chage公式アーカイブ配信開始告知（2022年一覧）",
+          "url": "https://chage.jp/information/live/?year=2022"
+        }
+      ],
+      "note": "PIA LIVE STREAMによる配信。2022年7月10日二子玉川ライズ公演の2nd公演（16:30開演予定）が対象。当日の視聴期限は18:30。公式告知のアーカイブ配信期間は2022年7月20日17:00～8月2日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。",
+      "id": "chage-20220720-hosomichi-pia-archive",
+      "date": "2022-07-20",
+      "title": "Chageのずっと細道 アーカイブ配信開始",
+      "description": "2022年7月10日のiTSCOM STUDIO & HALL 二子玉川ライズ公演「Chageのずっと細道」のアーカイブ配信開始日。"
     }
   ],
-  "siteVersion": "2.3.24"
+  "siteVersion": "2.3.25"
 }
