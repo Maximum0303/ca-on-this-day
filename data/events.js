@@ -70490,36 +70490,28 @@ window.CA_EVENT_DATA = {
       "date": "2020-06-16",
       "artist": "Chage",
       "category": "live",
-      "title": "配信LIVE「川島ケイジの君のために歌いマホ」Vol.4 ゲスト出演",
+      "title": "川島ケイジの「君のために歌いマホ」Special Stage with Chage 生配信",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "mahocastで無料生配信。公式告知の出演予定時刻は22:40～23:00。アーカイブ視聴は生配信後から6月23日23:00まで（公式告知）。 ／ 統合前の調査記録：Chage公式年譜によるゲスト配信出演。",
       "sources": [
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2020.php"
-        }
-      ],
-      "venue": "オンライン配信",
-      "description": "2020年6月16日、Chageの「配信LIVE「川島ケイジの君のために歌いマホ」Vol.4 ゲスト出演」がオンライン配信で開催された。"
-    },
-    {
-      "id": "v18221-2020-06-16-chage-078",
-      "date": "2020-06-16",
-      "artist": "Chage",
-      "category": "live",
-      "title": "配信ライブ「川島ケイジの君のために歌いマホ」Vol.4 ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "Chage公式年譜によるゲスト配信出演。",
-      "sources": [
+        },
         {
-          "label": "主催・アーティスト公式資料",
-          "url": "https://chage.jp/biography/2020.php"
+          "label": "mahocast公式配信履歴",
+          "url": "https://www.mahocast.com/chage/live"
+        },
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-396.php"
         }
       ],
       "venue": "オンライン配信",
-      "description": "2020年6月16日、Chageの「配信ライブ「川島ケイジの君のために歌いマホ」Vol.4 ゲスト出演」がオンライン配信で開催された。"
+      "description": "2020年6月16日、Chageが川島ケイジの無観客ライブ配信にスペシャルゲストとして出演した。",
+      "prefecture": "",
+      "broadcastStation": "mahocast"
     },
     {
       "id": "v18221-2020-06-19-aska-037",
@@ -70564,36 +70556,28 @@ window.CA_EVENT_DATA = {
       "date": "2020-07-14",
       "artist": "Chage",
       "category": "live",
-      "title": "配信LIVE「川島ケイジの君のために歌いマホ」Vol.5 ゲスト出演",
+      "title": "川島ケイジの「君のために歌いマホ」Special Stage with Chage ～第2弾～ 生配信",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "mahocastでの生配信。配信サービス公式履歴では第2弾として掲載。Chage出演部分の開始時刻・アーカイブ期間は未確認。 ／ 統合前の調査記録：Chage公式年譜によるゲスト配信出演。",
       "sources": [
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2020.php"
-        }
-      ],
-      "venue": "オンライン配信",
-      "description": "2020年7月14日、Chageの「配信LIVE「川島ケイジの君のために歌いマホ」Vol.5 ゲスト出演」がオンライン配信で開催された。"
-    },
-    {
-      "id": "v18221-2020-07-14-chage-079",
-      "date": "2020-07-14",
-      "artist": "Chage",
-      "category": "live",
-      "title": "配信ライブ「川島ケイジの君のために歌いマホ」Vol.5 ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "Chage公式年譜によるゲスト配信出演。",
-      "sources": [
+        },
         {
-          "label": "主催・アーティスト公式資料",
-          "url": "https://chage.jp/biography/2020.php"
+          "label": "mahocast公式配信履歴",
+          "url": "https://www.mahocast.com/chage/live"
+        },
+        {
+          "label": "mahocast公式番組情報",
+          "url": "https://www.mahocast.com/KeijiKawashima/live/3940"
         }
       ],
       "venue": "オンライン配信",
-      "description": "2020年7月14日、Chageの「配信ライブ「川島ケイジの君のために歌いマホ」Vol.5 ゲスト出演」がオンライン配信で開催された。"
+      "description": "2020年7月14日、Chageが川島ケイジの無観客ライブ配信に再びゲスト出演した。",
+      "prefecture": "",
+      "broadcastStation": "mahocast"
     },
     {
       "id": "v14-release-005",
@@ -73598,35 +73582,27 @@ window.CA_EVENT_DATA = {
       "description": "2022年3月4日、Chageが出演したラジオ番組「AMAZING TOYAMA 写真部」が放送された。"
     },
     {
-      "id": "other-v18229-2022-03-20-chage-001",
-      "date": "2022-03-20",
-      "artist": "Chage",
-      "category": "other",
-      "title": "川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～ 振替公演",
-      "venue": "",
-      "prefecture": "",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "公式資料",
-          "url": "https://chage.jp/biography/2022.php"
-        }
-      ],
-      "startTime": "17:00",
-      "description": "2022年3月20日、川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～ 振替公演。"
-    },
-    {
       "id": "v14-chage2022-kawashima",
       "date": "2022-03-20",
       "artist": "Chage",
       "category": "live",
-      "title": "川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～ 振替公演",
+      "title": "川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～",
       "status": "recorded",
       "verification": "primary",
-      "note": "ゲスト出演。会場詳細未確認 【2021〜2022年公式点検】2020年企画からの振替ゲスト出演。",
+      "note": "2020年3月22日の当初予定から複数回延期された振替公演。16:00開場、17:00開演（公式告知）。後日の映像配信は4月29日から5月18日21:00へ延期と告知された。配信実施は別途確認する。 ／ 統合前の調査記録：ゲスト出演。会場詳細未確認 【2021〜2022年公式点検】2020年企画からの振替ゲスト出演。",
       "sources": [
+        {
+          "label": "equal公式振替公演告知",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7359"
+        },
+        {
+          "label": "Chage公式スタッフ実施報告",
+          "url": "https://chage.jp/staffmemo/%E5%92%8C%E6%AD%8C%E5%B1%B1%E3%81%B8%E8%A1%8C%E3%81%A3%E3%81%A6%E5%8F%82%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/"
+        },
+        {
+          "label": "equal公式配信日変更告知",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7373"
+        },
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2022.php"
@@ -73636,8 +73612,10 @@ window.CA_EVENT_DATA = {
           "url": "https://kawashimakeiji.fanpla.jp/"
         }
       ],
-      "venue": "紀南文化会館大ホール",
-      "description": "2022年3月20日、Chageが紀南文化会館大ホールで「川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～ 振替公演」のステージに立った。 ゲスト出演。 2020年企画からの振替ゲスト出演。"
+      "venue": "紀南文化会館 大ホール",
+      "description": "2022年3月20日、Chageが紀南文化会館で開催された川島ケイジのコンサートにゲスト出演した。",
+      "prefecture": "和歌山県",
+      "startTime": "17:00"
     },
     {
       "id": "v14-aska-2022-encore-011",
@@ -98585,5 +98563,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.3.29"
+  "siteVersion": "2.3.30"
 };
