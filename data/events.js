@@ -98321,7 +98321,51 @@ window.CA_EVENT_DATA = {
           "url": "https://fanclub.chage.jp/sitenews_det.php?id=21109"
         }
       ]
+    },
+    {
+      "id": "chage-20230930-windy-road-pia-live",
+      "date": "2023-09-30",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "ChageLiveTour 2023 WINDY ROAD 生配信",
+      "description": "2023年9月30日、Zepp Hanedaで開催された「ChageLiveTour 2023 WINDY ROAD」がPIA LIVE STREAMで生配信された。",
+      "note": "公式告知では17:30開演予定、当日の視聴期限20:00。会場公演とは別記録。PIA LIVE STREAMで配信。公式告知のアーカイブ期間は2023年10月11日17:00～10月25日23:59。10月11日付のChage公式ブログでは19:00開始と案内されており、実際の開始時刻は未確定。同ブログによるとアーカイブ版は生配信版から一部映像カットを変更。視聴チケット4,500円（税込）。",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-568.php"
+        },
+        {
+          "label": "Chage公式ブログ（2023年10月11日）",
+          "url": "https://ameblo.jp/chage-blog/page-2.html"
+        }
+      ]
+    },
+    {
+      "id": "chage-20231011-windy-road-pia-archive",
+      "date": "2023-10-11",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "ChageLiveTour 2023 WINDY ROAD アーカイブ配信開始",
+      "description": "2023年9月30日のZepp Haneda公演「ChageLiveTour 2023 WINDY ROAD」のアーカイブ配信開始日。",
+      "note": "9月30日の生配信とは別記録。PIA LIVE STREAMで配信。公式告知のアーカイブ期間は2023年10月11日17:00～10月25日23:59。10月11日付のChage公式ブログでは19:00開始と案内されており、実際の開始時刻は未確定。同ブログによるとアーカイブ版は生配信版から一部映像カットを変更。視聴チケット4,500円（税込）。",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-568.php"
+        },
+        {
+          "label": "Chage公式ブログ（2023年10月11日）",
+          "url": "https://ameblo.jp/chage-blog/page-2.html"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.21"
+  "siteVersion": "2.3.22"
 };
