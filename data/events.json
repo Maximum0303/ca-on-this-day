@@ -97401,7 +97401,53 @@
           "url": "https://note.com/makottsu_ecris/n/n03e7e1b76748"
         }
       ]
+    },
+    {
+      "id": "media-tieup-20130212-101st-proposal-say-yes-china",
+      "date": "2013-02-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "映画『101回目のプロポーズ ～SAY YES～』中国公開（中国語カバー主題歌「SAY YES」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "description": "2013年2月12日、日中合作映画『101次求婚』が中国で公開。CHAGE and ASKAの「SAY YES」を李代沫（リー・ダイモー）が中国語でカバーし、映画の中文主題歌として歌唱した。",
+      "note": "原曲「SAY YES」作詞・作曲：ASKA。中国公開日はフジテレビ公式資料、李代沫の歌唱は当時の報道で確認。本人出演・原曲の新規発売ではなく、カバー曲の映画使用に関する公開日記録。",
+      "sources": [
+        {
+          "label": "フジテレビ公式｜中国公開日・作品情報",
+          "url": "https://www.fujitv.co.jp/movie/01movie/20130000_12_M00.html"
+        },
+        {
+          "label": "参考資料（当時の主題歌報道）",
+          "url": "https://ent.sina.com.cn/m/c/2013-02-18/11103858550.shtml?from=wap"
+        }
+      ]
+    },
+    {
+      "id": "media-tieup-20131019-101st-proposal-say-yes-japan",
+      "date": "2013-10-19",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "映画『101回目のプロポーズ ～SAY YES～』日本公開（関連曲「SAY YES」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "description": "2013年10月19日、日中合作映画『101回目のプロポーズ ～SAY YES～』が日本で公開された。中国版主題歌は李代沫による「SAY YES」の中国語カバー。",
+      "note": "邦題の副題はCHAGE and ASKAの楽曲に由来する。原曲の作詞・作曲：ASKA。日本の作品資料にはCHAGE and ASKA「SAY YES」と記載されるが、日本公開版で使用された音源の詳細は未確認。中国公開日とは別の記録。本人出演・音源発売ではない。",
+      "sources": [
+        {
+          "label": "フジテレビ公式｜作品情報・邦題の由来",
+          "url": "https://www.fujitv.co.jp/movie/01movie/20130000_12_M00.html"
+        },
+        {
+          "label": "参考資料（日本公開日・主題歌情報）",
+          "url": "https://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=71727"
+        },
+        {
+          "label": "参考資料（当時の中国語主題歌報道）",
+          "url": "https://ent.sina.com.cn/m/c/2013-02-18/11103858550.shtml?from=wap"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.2"
+  "siteVersion": "2.3.3"
 }
