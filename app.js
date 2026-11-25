@@ -3,7 +3,7 @@
 const archive=window.CA_EVENT_DATA;
 const events=Array.isArray(archive?.events)?archive.events:[];
 const $=id=>document.getElementById(id);
-const CAT={live:'ライブ',release:'作品発売', book:'書籍・出版',media:'テレビ・ラジオ',milestone:'記録・記念日',amateur:'デビュー前・アマチュア活動',other:'その他'};
+const CAT={live:'ライブ',release:'音楽・映像作品', book:'書籍・出版',media:'テレビ・ラジオ',milestone:'記録・記念日',amateur:'デビュー前・アマチュア活動',other:'その他'};
 const MONTHS=['JANUARY','FEBRUARY','MARCH','APRIL','MAY','JUNE','JULY','AUGUST','SEPTEMBER','OCTOBER','NOVEMBER','DECEMBER'];
 const WEEK=['日','月','火','水','木','金','土'];
 const pad=n=>String(n).padStart(2,'0');
@@ -184,7 +184,7 @@ function renderYearOnly(matches){
 }
 /* /YEAR_ONLY_RECORDS_V2029 */
 
-function renderStats(){const live=events.filter(e=>e.category==='live').length,release=events.filter(e=>e.category==='release').length;$('record-total').textContent=`収録記録 ${events.length}件`;$('total-stat').textContent=events.length;$('live-stat').textContent=live;$('release-stat').textContent=release;}
+function renderStats(){const live=events.filter(e=>e.category==='live').length,release=events.filter(e=>e.category==='release').length;$('record-total').textContent=`収録記録 ${events.length}件`;$('total-stat').textContent=events.length;$('live-stat').textContent=live;$('release-stat').textContent=release;if($('book-stat'))$('book-stat').textContent=events.filter(e=>e.category==='book').length;}
 if(!events.length){$('day-summary').textContent='記録データが見つかりません。data/events.js を確認してください。';$('results').innerHTML='<p class="no-matches">データファイルを読み込めませんでした。</p>';return;}
 populateYears();restoreFilters();if(state.eventId&&!events.some(e=>e.id===state.eventId))state.eventId='';$('keyword').value=state.keyword;
 $('calendar-cells').addEventListener('click',e=>{const el=e.target.closest('[data-day]');if(el)setDate(state.viewMonth,Number(el.dataset.day));});
