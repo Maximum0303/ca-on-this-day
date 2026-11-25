@@ -1,7 +1,7 @@
 window.CA_EVENT_DATA = {
   "schemaVersion": 1,
   "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2027年の公式発表済み予定を追加。開催予定の記録は日付経過のみで開催済みと断定せず、延期・中止と区別して表示します。既存の記録の確認日・履歴はそのまま保存しています。",
-  "lastUpdated": "2026-11-25",
+  "lastUpdated": "2026-11-26",
   "events": [
     {
       "id": "milestone-1978-popcon15-formation-yearonly",
@@ -86225,7 +86225,7 @@ window.CA_EVENT_DATA = {
       "artist": "ASKA",
       "category": "live",
       "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
-      "status": "scheduled",
+      "status": "recorded",
       "verification": "primary",
       "tourId": "aska-lock-on-2026-2027",
       "venue": "刈谷市総合文化センター 大ホール",
@@ -86233,14 +86233,22 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 17,
       "startTime": "18:30",
-      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演18:30。現時点では開催予定であり、開催済みを意味しない。",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演18:30。現時点では開催予定であり、開催済みを意味しない。 ／ 2026年11月25日の刈谷公演の実施をASKA公式ブログで利用者が確認。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
           "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        },
+        {
+          "label": "ASKA公式ブログ（公演実施確認）",
+          "url": "https://www.fellows.tokyo/blog/detail/1595/"
+        },
+        {
+          "label": "ASKA公式公演日程",
+          "url": "https://www.fellows.tokyo/schedule/detail/650"
         }
       ],
-      "description": "2026年11月25日、ASKAの「ASKA CONCERT TOUR 2026-2027 “Lock-on”」は、刈谷市総合文化センター 大ホールで開催される予定。\nこのツアーの第17公演にあたる。"
+      "description": "2026年11月25日、ASKAが刈谷市総合文化センター 大ホールで「ASKA CONCERT TOUR 2026-2027 “Lock-on”」を開催した。"
     },
     {
       "id": "v16-0018",
@@ -98832,5 +98840,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.3.37"
+  "siteVersion": "2.3.38"
 };
