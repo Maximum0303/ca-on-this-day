@@ -67493,14 +67493,22 @@ window.CA_EVENT_DATA = {
       "title": "TBS「ビビット」インタビュー放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録\n追補：TBS公式の2018年11月放送内容一覧および主催者発表から11月12日の本編を確認。所蔵映像リストは11月8日の先行紹介とみられるため、本編の日付は維持し、先行紹介は独立登録しない。映像本編は未視聴。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        },
+        {
+          "label": "TBS公式｜ビビット2018年11月放送内容",
+          "url": "https://www.tbs.co.jp/vivit2015/onair/list201811.html"
+        },
+        {
+          "label": "キョードーメディアス｜2018年11月11日発表",
+          "url": "https://prtimes.jp/main/html/rd/p/000001053.000012949.html"
         }
       ],
-      "description": "2018年11月12日、ASKAが取り上げられたテレビ番組「ビビット」がTBSで放送された。"
+      "description": "2018年11月12日、TBS「ビビット」でASKAとテリー伊藤の対談が放送された。11月8日の番組では対談の一部が先行紹介され、12日に全容を放送する旨が案内された。"
     },
     {
       "id": "v13-aska18-pride-002",
@@ -67992,20 +68000,28 @@ window.CA_EVENT_DATA = {
     },
     {
       "id": "v13-media-027",
-      "date": "2019-02-05",
+      "date": "2019-02-04",
       "artist": "ASKA",
       "category": "media",
       "title": "TTV「超級巨星紅白藝能大賞」放送",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "verification": "primary",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録\n追補：台視公式の2019年旧正月番組表と2月5日付のASKA公式ブログ（前日の台湾放送に言及）を照合。所蔵映像リストも2月4日表記。従来の2月5日は訂正。映像本編は未視聴。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/343.html"
+        },
+        {
+          "label": "台視公式｜2019年春節番組表",
+          "url": "https://www.ttv.com.tw/drama19/ChineseNewYear/default.asp"
+        },
+        {
+          "label": "ASKA公式ブログ（2019年2月5日）",
+          "url": "https://archive.fellows.tokyo/blog/?id=1316"
         }
       ],
-      "description": "2019年2月5日、ASKAが取り上げられたテレビ番組「超級巨星紅白藝能大賞」が放送された。"
+      "description": "2019年2月4日、ASKAが台湾の台視（TTV）「超級巨星紅白藝能大賞」に出演した回が放送された。"
     },
     {
       "id": "v13-aska19-made-in-001",
@@ -97158,7 +97174,73 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/blog/detail/1097/?page=26"
         }
       ]
+    },
+    {
+      "id": "media-owned-20190203-pride-bsfuji",
+      "date": "2019-02-03",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "BSフジ「ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "broadcastStation": "BSフジ",
+      "description": "2018年のシンフォニックコンサート特番のBSフジ放送。",
+      "note": "所蔵映像リストは2019年2月2日表記。二次資料の放送案内は2月2日25:00～25:55（暦日2月3日1:00～1:55）。BSフジの当時の公式番組表および映像本編は未確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送案内）",
+          "url": "https://greendays.blog.jp/archives/2019-01.html"
+        },
+        {
+          "label": "フジテレビONE TWO NEXT公式｜特番内容（別放送）",
+          "url": "https://otn.fujitv.co.jp/b_hp/918200227.html"
+        }
+      ]
+    },
+    {
+      "id": "media-owned-20211228-encore-tva",
+      "date": "2021-12-28",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ愛知「ASKA ～それでもやります アンコールツアー～」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "broadcastStation": "テレビ愛知",
+      "description": "2021年の配信ライブ・アコースティックライブや舞台裏を紹介した音楽ドキュメンタリー。",
+      "note": "告知動画は12月27日27:05（暦日12月28日3:05）放送予定。非公式放送記録の12月28日と一致。所蔵リストは12月27日表記。映像本編は未視聴。2022年の再編集版とは区別。",
+      "sources": [
+        {
+          "label": "番組告知動画",
+          "url": "https://www.youtube.com/watch?v=8rradz9Jbe0"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/353.html"
+        }
+      ]
+    },
+    {
+      "id": "media-owned-20250804-tiny-desk-selection",
+      "date": "2025-08-04",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "NHK総合「tiny desk concerts JAPAN セレクション」放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "broadcastStation": "NHK総合",
+      "description": "ASKAを含む6組の出演アーティストの演奏をまとめた番組がNHK総合で放送。",
+      "note": "ASKA公式告知では8月4日0:25～0:54（3日深夜）。所蔵リストは8月3日表記。複数アーティストのライブ演奏をまとめた番組であり、単なるヒット曲紹介とは区別。映像本編は未視聴。",
+      "sources": [
+        {
+          "label": "ASKA公式｜放送告知",
+          "url": "https://www.fellows.tokyo/schedule/detail/497"
+        },
+        {
+          "label": "参考資料（番組情報）",
+          "url": "https://thetv.jp/program/0001044184/15/"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.2.21"
+  "siteVersion": "2.2.22"
 };
