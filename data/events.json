@@ -57290,14 +57290,22 @@
       "title": "テレビドラマ「黄昏流星群～C-46星雲～」放送",
       "status": "recorded",
       "verification": "primary",
-      "note": "関西テレビ・フジテレビ系。ASKAの楽曲「C-46」を題材とするドラマが放送。ASKA本人の出演を示す記録ではない。",
+      "note": "関西テレビ・フジテレビ系。ASKAの楽曲「C-46」を題材とするドラマが放送。ASKA本人の出演を示す記録ではない。 小学館の作品紹介で漫画と楽曲の関係を、フジテレビ公式番組情報でイメージソングがASKA「C-46」であることを確認。",
       "sources": [
         {
           "label": "公式資料",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "小学館公式｜原作漫画第39集",
+          "url": "https://shogakukan-comic.jp/book?isbn=9784091836441"
+        },
+        {
+          "label": "フジテレビ公式｜放送日・イメージソング",
+          "url": "https://www.fujitv.co.jp/b_hp/110220tasogareryuseigun/index.html"
         }
       ],
-      "description": "2011年2月20日、ASKAが取り上げられたテレビ番組「黄昏流星群～C-46星雲～」が放送された。"
+      "description": "2011年2月20日、関西テレビ制作・フジテレビ系ドラマ『黄昏流星群～C-46星雲～』が放送された。弘兼憲史が「C-46」をイメージして描いた漫画を原作とし、ドラマのイメージソングはASKA「C-46」。"
     },
     {
       "id": "live-v11-faces-2011-007",
@@ -90472,7 +90480,7 @@
       ],
       "broadcastStation": "フジテレビ",
       "startTime": "21:00",
-      "description": "1993年1月13日、CHAGE and ASKAが取り上げられたテレビ番組『振り返れば奴がいる』がフジテレビで放送された。"
+      "description": "1993年1月13日、フジテレビ系ドラマ『振り返れば奴がいる』の第1話が放送された。主題歌はCHAGE and ASKA「YAH YAH YAH」、挿入歌は「君はなにも知らないまま」。挿入歌が第1話で使用されたかは未確認。"
     },
     {
       "id": "media-tieup-1994-0903-hero-interview",
@@ -97447,7 +97455,128 @@
           "url": "https://ent.sina.com.cn/m/c/2013-02-18/11103858550.shtml?from=wap"
         }
       ]
+    },
+    {
+      "id": "media-tieup-19950811-street-fighter-real-battle-on-film",
+      "date": "1995-08-11",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ゲーム『ストリートファイター リアルバトル オン フィルム』発売（「Something There」MV収録）",
+      "status": "recorded",
+      "verification": "secondary",
+      "description": "カプコンからPlayStation・セガサターン用ソフトが発売された。ゲーム内の条件を満たすと、映画の場面を交えた「Something There」の特別編集版MVを鑑賞できる。",
+      "note": "MOVIE BATTLEのクリア後の楽曲使用はセガサターン版のプレイ記録で確認。両機種の発売日は商品情報で照合。実機・説明書による解除条件の詳細は未確認。映画公開日・楽曲発売日とは別記録。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・ゲーム収録内容）",
+          "url": "https://w.atwiki.jp/gcmatome/pages/2163.html"
+        },
+        {
+          "label": "参考資料（PlayStation版商品情報）",
+          "url": "https://www.gavas.jp/products/detail.php?product_id=7643"
+        },
+        {
+          "label": "参考資料（セガサターン版商品情報）",
+          "url": "https://www.suruga-ya.jp/product/detail/141000063"
+        },
+        {
+          "label": "参考資料（非公式・セガサターン版プレイ記録）",
+          "url": "https://www.youtube.com/watch?v=ORChS5YLruU"
+        }
+      ]
+    },
+    {
+      "id": "media-tieup-20011020-platonic-sex-from-silence",
+      "date": "2001-10-20",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "映画『プラトニック・セックス』公開（挿入曲「From Silence」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "description": "劇場版が公開された。CHAGE and ASKA「C-46」のインストゥルメンタル編曲「From Silence」が劇中で使用された。",
+      "note": "映画でのクレジットはNOT AT ALLと報じられている。原曲作詞・作曲：ASKA。OPPOSITE名義のリミックス作品やテレビドラマ版とは別。映画本編のクレジットは未照合。",
+      "sources": [
+        {
+          "label": "参考資料（劇場公開日）",
+          "url": "https://eiga.com/movie/40437/"
+        },
+        {
+          "label": "参考資料（楽曲の関係・クレジット）",
+          "url": "https://news.livedoor.com/article/detail/28782788/"
+        },
+        {
+          "label": "参考資料（楽曲の解説）",
+          "url": "https://barks.jp/?p=648003"
+        },
+        {
+          "label": "参考資料（サウンドトラック収録曲）",
+          "url": "https://www.oricon.co.jp/prof/74438/products/456812/1/"
+        }
+      ]
+    },
+    {
+      "id": "media-tieup-20120302-101st-proposal-stage",
+      "date": "2012-03-02",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "舞台『時代劇版 101回目のプロポーズ～百壱通目の恋文～』初日（劇中曲「SAY YES」）",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "博多座で武田鉄矢・浅野温子主演の舞台が開幕。劇中の演出で「SAY YES」が使用された。",
+      "note": "公演期間は2012年3月2日～28日。放送局公式の発表における主演者の発言で劇中使用を確認。使用音源の具体的な版は未確認。C&A本人出演ではない。",
+      "sources": [
+        {
+          "label": "武田鉄矢公式｜舞台公演情報",
+          "url": "https://takedatetsuya.com/stage"
+        },
+        {
+          "label": "日本映画衛星放送公式｜2012年4月2日発表（劇中曲・初放送予定）",
+          "url": "https://www.nihon-eiga.co.jp/news/2012/0402jidaigeki.html"
+        }
+      ],
+      "venue": "博多座",
+      "prefecture": "福岡県"
+    },
+    {
+      "id": "media-tieup-20120506-101st-proposal-stage-tv",
+      "date": "2012-05-06",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "舞台『時代劇版 101回目のプロポーズ～百壱通目の恋文～』テレビ初放送日（公式告知）",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2012年3月の博多座公演の収録映像が、時代劇専門チャンネルでテレビ初放送される日として公式発表された。舞台では「SAY YES」が使用された。",
+      "note": "2012年4月2日発表の放送局公式資料による初放送予定日。実際の当日放送ログ・放送版での楽曲使用および音源は未確認。舞台初日とは別記録。",
+      "sources": [
+        {
+          "label": "日本映画衛星放送公式｜2012年4月2日発表（劇中曲・初放送予定）",
+          "url": "https://www.nihon-eiga.co.jp/news/2012/0402jidaigeki.html"
+        }
+      ],
+      "broadcastStation": "時代劇専門チャンネル"
+    },
+    {
+      "id": "media-tieup-20230312-brushup-life-yah-yah-yah",
+      "date": "2023-03-12",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ドラマ『ブラッシュアップライフ』最終回放送（劇中登場曲「YAH YAH YAH」）",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "日本テレビ系ドラマ第10話「帰る場所」が放送された。公式の劇中登場曲一覧に「YAH YAH YAH」が掲載されている。",
+      "note": "日本テレビ公式の第10話紹介ページで放送日・楽曲名を確認。具体的な使用場面・音源の版は未確認。本人出演や新規音源発売ではない。",
+      "sources": [
+        {
+          "label": "日本テレビ公式｜第10話・劇中登場曲",
+          "url": "https://www.ntv.co.jp/brushup-life/story/"
+        },
+        {
+          "label": "放送ライブラリー｜最終回の放送記録",
+          "url": "https://www.bpcj.or.jp/program/detail/219335/"
+        }
+      ],
+      "broadcastStation": "日本テレビ"
     }
   ],
-  "siteVersion": "2.3.3"
+  "siteVersion": "2.3.4"
 }
