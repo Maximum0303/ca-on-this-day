@@ -97304,7 +97304,75 @@
           "url": "https://www.tv-tokyo.co.jp/moteki/story/story10.html"
         }
       ]
+    },
+    {
+      "id": "media-tieup-2003-07-27-koisuru-epilogue-a",
+      "date": "2003-07-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ドラマ『恋する日曜日』第17話「終章A面」放送（主題歌「終章（エピローグ）」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "broadcastStation": "BS-i（現・BS-TBS）",
+      "description": "BS-iのドラマ『恋する日曜日』ファーストシリーズ第17話「終章A面」が放送された。CHAGE and ASKAの「終章（エピローグ）」をモチーフとした物語で、同曲が主題歌として使用された。出演は坂井真紀・高橋和也、監督は鈴木浩介、脚本は渡邉睦月。",
+      "note": "放送局公式バックナンバーでA面・B面の作品名と出演者、公式主題歌CD案内で楽曲使用を確認。DVD発売案内でも作品と楽曲の関係を確認。初回放送日は二次資料に基づくため確認区分はsecondary。C&A本人の出演ではない。映像本編は未視聴。",
+      "sources": [
+        {
+          "label": "BS-TBS公式｜恋する日曜日 バックナンバー",
+          "url": "https://bs.tbs.co.jp/koisuru/series1/common/backnumber.html"
+        },
+        {
+          "label": "BS-TBS公式｜主題歌CD案内",
+          "url": "https://bs.tbs.co.jp/koisuru/series1/common/kiss.html"
+        },
+        {
+          "label": "角松敏生公式｜恋する日曜日 DVD発売案内",
+          "url": "https://www.toshiki-kadomatsu.jp/information/detail.php?id=16"
+        },
+        {
+          "label": "参考資料（非公式・初回放送日）",
+          "url": "https://www.wikipedia-is-dead.com/wiki/%E6%81%8B%E3%81%99%E3%82%8B%E6%97%A5%E6%9B%9C%E6%97%A5"
+        },
+        {
+          "label": "参考資料（主題歌CD商品情報）",
+          "url": "https://www.neowing.co.jp/product/BVC3-35003"
+        }
+      ]
+    },
+    {
+      "id": "media-tieup-2003-08-03-koisuru-epilogue-b",
+      "date": "2003-08-03",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ドラマ『恋する日曜日』第18話「終章B面」放送（主題歌「終章（エピローグ）」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "broadcastStation": "BS-i（現・BS-TBS）",
+      "description": "BS-iのドラマ『恋する日曜日』ファーストシリーズ第18話「終章B面」が放送された。CHAGE and ASKAの「終章（エピローグ）」をモチーフとした物語で、同曲が主題歌として使用された。出演は坂井真紀・高橋和也、監督は鈴木浩介、脚本は渡邉睦月。",
+      "note": "放送局公式バックナンバーでA面・B面の作品名と出演者、公式主題歌CD案内で楽曲使用を確認。DVD発売案内でも作品と楽曲の関係を確認。初回放送日は二次資料に基づくため確認区分はsecondary。C&A本人の出演ではない。映像本編は未視聴。",
+      "sources": [
+        {
+          "label": "BS-TBS公式｜恋する日曜日 バックナンバー",
+          "url": "https://bs.tbs.co.jp/koisuru/series1/common/backnumber.html"
+        },
+        {
+          "label": "BS-TBS公式｜主題歌CD案内",
+          "url": "https://bs.tbs.co.jp/koisuru/series1/common/kiss.html"
+        },
+        {
+          "label": "角松敏生公式｜恋する日曜日 DVD発売案内",
+          "url": "https://www.toshiki-kadomatsu.jp/information/detail.php?id=16"
+        },
+        {
+          "label": "参考資料（非公式・初回放送日）",
+          "url": "https://www.wikipedia-is-dead.com/wiki/%E6%81%8B%E3%81%99%E3%82%8B%E6%97%A5%E6%9B%9C%E6%97%A5"
+        },
+        {
+          "label": "参考資料（主題歌CD商品情報）",
+          "url": "https://www.neowing.co.jp/product/BVC3-35003"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.0"
+  "siteVersion": "2.3.1"
 }
