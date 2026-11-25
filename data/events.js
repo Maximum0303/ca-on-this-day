@@ -71317,15 +71317,36 @@ window.CA_EVENT_DATA = {
       "title": "equal大感謝祭「Chage Christmas Party 2020」をChageと一緒にDuooooo!!!",
       "status": "recorded",
       "verification": "primary",
-      "note": "生配信ファンクラブイベント 【2021〜2022年公式点検】2020年の公演を題材とした2021年2月の生配信企画。2020年12月の有観客公演とは別。",
+      "note": "生配信ファンクラブイベント 【2021〜2022年公式点検】2020年の公演を題材とした2021年2月の生配信企画。2020年12月の有観客公演とは別。 ／ 配信イベントは20:00～21:30予定（公式告知）。会員向けチケット5,000円。完全版と実況付き映像のアーカイブ期間は2021年2月19日10:00～2月21日23:59。公式実施報告・mahocast個別ページともに2月14日。収録ステージは未特定。",
       "sources": [
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2021.php"
+        },
+        {
+          "label": "Chage公式実施・アーカイブ案内",
+          "url": "https://chage.jp/information/live/detail-428.php"
+        },
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-423.php"
+        },
+        {
+          "label": "mahocast公式配信情報",
+          "url": "https://www.mahocast.com/chage/live/6179"
+        },
+        {
+          "label": "mahocast公式イベント一覧",
+          "url": "https://www.mahocast.com/chage/live"
+        },
+        {
+          "label": "会場公式公演日程",
+          "url": "https://www.billboard-live.com/yokohama/schedules?month=2020-12-01"
         }
       ],
       "venue": "オンライン配信",
-      "description": "2021年2月14日、Chageの「equal大感謝祭「Chage Christmas Party 2020」をChageと一緒にDuooooo!!!」がオンライン配信で開催された。"
+      "description": "2021年2月14日、Chageの「equal大感謝祭「Chage Christmas Party 2020」をChageと一緒にDuooooo!!!」がオンライン配信で開催された。",
+      "broadcastStation": "mahocast"
     },
     {
       "id": "v14-media-ch21-005",
@@ -98245,7 +98266,45 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-659.php"
         }
       ]
+    },
+    {
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "broadcastStation": "mahocast",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式実施・アーカイブ案内",
+          "url": "https://chage.jp/information/live/detail-428.php"
+        },
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-423.php"
+        },
+        {
+          "label": "mahocast公式配信情報",
+          "url": "https://www.mahocast.com/chage/live/6179"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY",
+          "url": "https://chage.jp/biography/2021.php"
+        },
+        {
+          "label": "mahocast公式イベント一覧",
+          "url": "https://www.mahocast.com/chage/live"
+        },
+        {
+          "label": "会場公式公演日程",
+          "url": "https://www.billboard-live.com/yokohama/schedules?month=2020-12-01"
+        }
+      ],
+      "id": "chage-20210219-christmas2020-mahocast-archive",
+      "date": "2021-02-19",
+      "title": "Chage Christmas Party 2020 完全版 アーカイブ配信開始",
+      "description": "2021年2月19日、mahocastで「Chage Christmas Party 2020」のライブ映像完全版のアーカイブ配信が開始された。",
+      "note": "2020年12月19日のビルボードライブ横浜公演の収録映像。公式案内の視聴期間は2月19日10:00～2月21日23:59。一般購入も可能。同期間にライブ実況（副音声）付き映像も別商品として配信された。2月14日のequal会員限定配信イベントとは別記録。収録ステージは未特定。"
     }
   ],
-  "siteVersion": "2.3.19"
+  "siteVersion": "2.3.20"
 };
