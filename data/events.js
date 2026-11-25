@@ -17015,14 +17015,14 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「男2」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。CHAGE単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。CHAGE単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。\n非公式放送記録と所蔵映像リストの放送日・メインゲストが一致。所蔵映像リストではASKAが副音声で出演したと記載。映像本編・当時の番組表は未確認。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ],
-      "description": "1988年7月27日、Chageが出演したテレビ番組「男2」がフジテレビで放送された。"
+      "description": "1988年7月27日、Chageが出演したテレビ番組「男2」がフジテレビで放送された。\nバブルガム・ブラザーズのトーク番組。"
     },
     {
       "id": "live-concert-1988-032",
@@ -17098,14 +17098,14 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「男2」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。ASKA単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。ASKA単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。\n非公式放送記録と所蔵映像リストの放送日・メインゲストが一致。所蔵映像リストではChageが副音声で出演したと記載。映像本編・当時の番組表は未確認。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/29.html"
         }
       ],
-      "description": "1988年8月3日、ASKAが出演したテレビ番組「男2」がフジテレビで放送された。"
+      "description": "1988年8月3日、ASKAが出演したテレビ番組「男2」がフジテレビで放送された。\nバブルガム・ブラザーズのトーク番組。"
     },
     {
       "id": "media-v18-1988-019",
@@ -23403,15 +23403,19 @@ window.CA_EVENT_DATA = {
       "category": "media",
       "title": "テレビ「ミュージックステーション」出演・放送",
       "status": "recorded",
-      "verification": "secondary",
-      "note": "テレビ朝日。ASKAソロ。はじまりはいつも雨。二次資料の記録によるため、放送局等の一次資料は未照合。",
+      "verification": "primary",
+      "note": "テレビ朝日。ASKAソロ。はじまりはいつも雨。二次資料の記録によるため、放送局等の一次資料は未照合。\nテレビ朝日公式バックナンバーで5月3日のASKA出演を確認。歌唱曲は非公式放送記録による。所蔵映像リストは5月13日表記だが、公式の放送日を優先。映像本編は未視聴。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
+        },
+        {
+          "label": "テレビ朝日公式｜1991年5月3日 出演者バックナンバー",
+          "url": "https://www.tv-asahi.co.jp/music/contents/m_lineup/backnumber/?p=129"
         }
       ],
-      "description": "1991年5月3日、ASKAが出演したテレビ番組「ミュージックステーション」がテレビ朝日で放送された。"
+      "description": "1991年5月3日、ASKAが出演したテレビ番組「ミュージックステーション」がテレビ朝日で放送された。\n二次資料には「はじまりはいつも雨」の歌唱が記録されている。"
     },
     {
       "id": "live-multi-max-windy-road-1991-008",
@@ -23531,14 +23535,14 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「笑っていいとも！」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキングにCHAGE単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。テレホンショッキングにCHAGE単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。\n非公式放送記録では5月16日にChage、5月17日にASKAが出演。所蔵映像リストは2日間をまとめて記載。放送局の当時の番組表・映像本編は未確認。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ],
-      "description": "1991年5月16日、Chageが出演したテレビ番組「笑っていいとも！」がフジテレビで放送された。"
+      "description": "1991年5月16日、Chageが出演したテレビ番組「笑っていいとも！」がフジテレビで放送された。\nテレフォンショッキングにゲスト出演。"
     },
     {
       "id": "media-v18-1991-010",
@@ -23548,14 +23552,14 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「笑っていいとも！」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ。テレホンショッキングにASKA単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。",
+      "note": "フジテレビ。テレホンショッキングにASKA単独出演。二次資料の記録によるため、放送局等の一次資料は未照合。\n非公式放送記録では5月16日にChage、5月17日にASKAが出演。所蔵映像リストは2日間をまとめて記載。放送局の当時の番組表・映像本編は未確認。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/52.html"
         }
       ],
-      "description": "1991年5月17日、ASKAが出演したテレビ番組「笑っていいとも！」がフジテレビで放送された。"
+      "description": "1991年5月17日、ASKAが出演したテレビ番組「笑っていいとも！」がフジテレビで放送された。\nテレフォンショッキングにゲスト出演。"
     },
     {
       "id": "release-1990-1992-012",
@@ -97242,5 +97246,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.2.22"
+  "siteVersion": "2.2.23"
 };
