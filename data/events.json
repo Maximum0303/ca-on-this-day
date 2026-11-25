@@ -75387,11 +75387,11 @@
       "id": "v18223-2023-04-16-aska-022",
       "date": "2023-04-16",
       "artist": "ASKA",
-      "category": "live",
-      "title": "3150FIGHT vol.5 ハーフタイムショー 出演",
+      "category": "media",
+      "title": "ABEMA「3150FIGHT vol.5」生中継（ASKAハーフタイムショー）",
       "status": "recorded",
       "verification": "primary",
-      "note": "イベント中の歌唱出演。プロボクシング大会全体を単独ライブ扱いしない。",
+      "note": "主催者公式の告知に、大会の無料独占生中継とASKAのハーフタイムショーの視聴が可能であることが明記されている。当日の視聴記録も確認。配信映像原本は未照合。現地での歌唱出演（別ID）とは区別する。会場は中継元。",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
@@ -75400,10 +75400,23 @@
         {
           "label": "確認資料（修正根拠）",
           "url": "https://abema.tv/channels/fighting-sports/slots/8jABBzja1xKyxj"
+        },
+        {
+          "label": "主催者公式｜ASKA出演・ハーフタイムショー生中継告知",
+          "url": "https://www.3150fight.com/news/108/"
+        },
+        {
+          "label": "ABEMA｜大会生中継番組（主催者公式掲載リンク）",
+          "url": "https://abema.tv/channels/boxing/slots/ELuqJ7CaBTTYc7"
+        },
+        {
+          "label": "参考資料（非公式・当日の配信視聴記録）",
+          "url": "https://kokohanaring.com/daiet1059/10583/"
         }
       ],
       "venue": "国立代々木競技場 第二体育館",
-      "description": "2023年4月16日、ASKAの「3150FIGHT vol.5 ハーフタイムショー 出演」が国立代々木競技場 第二体育館で開催された。"
+      "description": "2023年4月16日、ABEMAボクシングチャンネルで「3150FIGHT vol.5」が生中継された。国立代々木競技場 第二体育館で行われた大会のASKAハーフタイムショーも配信対象となった。",
+      "broadcastStation": "ABEMA（ボクシングチャンネル）"
     },
     {
       "id": "v15-0004",
@@ -97578,5 +97591,5 @@
       "broadcastStation": "日本テレビ"
     }
   ],
-  "siteVersion": "2.3.4"
+  "siteVersion": "2.3.5"
 }
