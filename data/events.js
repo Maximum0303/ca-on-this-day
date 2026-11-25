@@ -100618,7 +100618,551 @@ window.CA_EVENT_DATA = {
           "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
         }
       ]
+    },
+    {
+      "id": "book-v248-aska-01",
+      "date": "1998",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR kicks（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1998年。1998年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1998年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR kicks",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-02",
+      "date": "2000",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR GOOD TIME（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2000年。2000年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：2000年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR GOOD TIME",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-03",
+      "date": "2005",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 05≫06 My Game is ASKA（通常版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2005～2006年。2005〜06年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2005～2006年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 05≫06 My Game is ASKA（通常版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-04",
+      "date": "2005",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 05≫06 My Game is ASKA（LIVE版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2005～2006年。同ツアー関連パンフレット／別冊・版違い。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2005～2006年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 05≫06 My Game is ASKA（LIVE版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-05",
+      "date": "2008",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2008年。シンフォニック公演関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：2008年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-06",
+      "date": "2009",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 2009 WALK（通常版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2009年。2009年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2009年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 2009 WALK（通常版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-07",
+      "date": "2009",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 2009 WALK（LIVE版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2009年。同ツアー関連パンフレット／別冊・版違い。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2009年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 2009 WALK（LIVE版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-08",
+      "date": "2009",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2009年。2009年クリスマス公演関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2009年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-09",
+      "date": "2010",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA 10 DAYS SPECIAL（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2010年。10日間公演関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2010年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "コンサートパンフ",
+      "releaseTitle": "ASKA 10 DAYS SPECIAL",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-10",
+      "date": "2010",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 10≫11 FACES（通常版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2010～2011年。2010〜11年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：2010～2011年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 10≫11 FACES（通常版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-11",
+      "date": "2010",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 10≫11 FACES（LIVE版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2010～2011年。同ツアー関連パンフレット／別冊・版違い。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2010～2011年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 10≫11 FACES（LIVE版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-12",
+      "date": "2012",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA LIVECINEMA 2012.1.22（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2012年。ライブシネマ上映関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：2012年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ライブシネマパンフ",
+      "releaseTitle": "ASKA LIVECINEMA 2012.1.22",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-13",
+      "date": "2012",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT2012 昭和が見ていたクリスマス!? Prelude to The Bookend（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2012年。2012年公演関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2012年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "コンサートパンフ",
+      "releaseTitle": "ASKA CONCERT2012 昭和が見ていたクリスマス!? Prelude to The Bookend",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-14",
+      "date": "2012",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 12≫13 ROCKET（通常版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2012～2013年。2012〜13年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2012～2013年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 12≫13 ROCKET（通常版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-15",
+      "date": "2012",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 12≫13 ROCKET（LIVE版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2012～2013年。同ツアー関連パンフレット／別冊・版違い。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2012～2013年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 12≫13 ROCKET（LIVE版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-16",
+      "date": "2018",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-（販売パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2018年。公演関連の販売パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2018年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "販売パンフ",
+      "releaseTitle": "ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-（販売パンフレット）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-17",
+      "date": "2018",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-（来場者配布プログラム）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2018年。入場時配布のプログラム。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2018年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "来場者配布プログラム",
+      "releaseTitle": "ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-（来場者配布プログラム）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-18",
+      "date": "2019",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2019年。2019年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：2019年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-19",
+      "date": "2019",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ- LIVE EDITION（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2019年。追加公演関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：2019年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ- LIVE EDITION",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-20",
+      "date": "2019",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA premium ensemble concert -higher ground- 2019>>2020（販売パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2019～2020年。公演関連の販売パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2019～2020年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "販売パンフ",
+      "releaseTitle": "ASKA premium ensemble concert -higher ground- 2019>>2020（販売パンフレット）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-21",
+      "date": "2019",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA premium ensemble concert -higher ground- 2019>>2020（来場者配布プログラム）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2019～2020年。入場時配布のプログラム。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2019～2020年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "来場者配布プログラム",
+      "releaseTitle": "ASKA premium ensemble concert -higher ground- 2019>>2020（来場者配布プログラム）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-22",
+      "date": "2022",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（販売パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2022年。公演関連の販売パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2022年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "販売パンフ",
+      "releaseTitle": "ASKA premium concert tour -higher ground- アンコール公演（販売パンフレット）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-23",
+      "date": "2022",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（来場者配布プログラム）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2022年。入場時配布のプログラム。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2022年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "来場者配布プログラム",
+      "releaseTitle": "ASKA premium concert tour -higher ground- アンコール公演（来場者配布プログラム）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-24",
+      "date": "2023",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA Premium Concert Tour Wonderful World 2023（販売パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2023年。公演関連の販売パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2023年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "販売パンフ",
+      "releaseTitle": "ASKA Premium Concert Tour Wonderful World 2023（販売パンフレット）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-25",
+      "date": "2023",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA Premium Concert Tour Wonderful World 2023（来場者配布プログラム）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2023年。入場時配布のプログラム。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2023年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "来場者配布プログラム",
+      "releaseTitle": "ASKA Premium Concert Tour Wonderful World 2023（来場者配布プログラム）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-26",
+      "date": "2023",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA & DAVID FOSTER PREMIUM CONCERT 2023（来場者限定配布BD付属4Pリーフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2023年。来場者限定配布BD付属の4Pリーフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2023年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "来場者配布プログラム",
+      "releaseTitle": "ASKA & DAVID FOSTER PREMIUM CONCERT 2023（来場者限定配布BD付属4Pリーフレット）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-27",
+      "date": "2024",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- パンフレット",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2024～2025年。公式商品として確認（提供台帳）。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分A+。関連期間：2024～2025年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。公式グッズ告知画像が取得できず、パンフレット個別の販売開始日は未確認。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- パンフレット",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZTUWO81564"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.4.7"
+  "siteVersion": "2.4.8"
 };
