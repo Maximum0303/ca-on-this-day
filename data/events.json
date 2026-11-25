@@ -100226,7 +100226,399 @@
           "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
         }
       ]
+    },
+    {
+      "id": "book-v247-ca-korea",
+      "date": "2000",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE＆ASKA LIVE IN KOREA（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2000年。2000年韓国公演パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：2000年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "海外公演パンフ",
+      "releaseTitle": "CHAGE＆ASKA LIVE IN KOREA",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-not-at-all-1",
+      "date": "2001",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 01≫02 NOT AT ALL（1）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2001～2002年。2001〜02年ツアー関連パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2001～2002年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 01≫02 NOT AT ALL（1）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-not-at-all-2",
+      "date": "2001",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 01≫02 NOT AT ALL（2）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2001～2002年。同ツアー関連パンフレット／別冊・版違い。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2001～2002年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 01≫02 NOT AT ALL（2）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-not-at-all-3",
+      "date": "2001",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 01≫02 NOT AT ALL（3）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2001～2002年。同ツアー関連パンフレット／別冊・版違い。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2001～2002年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 01≫02 NOT AT ALL（3）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-the-live-1",
+      "date": "2002",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 02–03 THE LIVE（1）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2002～2003年。2002〜03年ツアー関連パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2002～2003年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 02–03 THE LIVE（1）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-the-live-2",
+      "date": "2002",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 02–03 THE LIVE（2）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2002～2003年。同ツアー関連パンフレット／別冊・版違い。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2002～2003年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 02–03 THE LIVE（2）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-the-live-script",
+      "date": "2002",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "THE LIVE オープニングムービー最終稿（関連冊子）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2002～2003年。公演関連資料。通常パンフレットとは別区分。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2002～2003年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "関連冊子",
+      "releaseTitle": "THE LIVE オープニングムービー最終稿",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-the-live-photo",
+      "date": "2002",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "TUG OF C&Aエディター西澤君の写真集 盗み撮りしちゃいました——。",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2002～2003年。THE LIVE公演時発売の関連写真集。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2002～2003年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "公演関連写真集",
+      "releaseTitle": "TUG OF C&Aエディター西澤君の写真集 盗み撮りしちゃいました——。",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-aoyama",
+      "date": "2002",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "青山祭 前夜祭 11/1 第2部 CHAGE&ASKA（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2002年。学園祭公演関連パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2002年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "学園祭パンフ",
+      "releaseTitle": "青山祭 前夜祭 11/1 第2部 CHAGE&ASKA",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-countdown-sapporo",
+      "date": "2003",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "COUNTDOWN LIVE 03≫04 in SAPPORO DOME（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2003～2004年。カウントダウン公演関連パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2003～2004年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "イベントパンフ",
+      "releaseTitle": "COUNTDOWN LIVE 03≫04 in SAPPORO DOME",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-two-five-1",
+      "date": "2004",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 2004 two-five vol.1（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2004年。分冊パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2004年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 2004 two-five vol.1",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-two-five-2",
+      "date": "2004",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 2004 two-five vol.2（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2004年。分冊パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2004年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 2004 two-five vol.2",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-two-five-3",
+      "date": "2004",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 2004 two-five vol.3（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2004年。分冊パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2004年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 2004 two-five vol.3",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-neppu",
+      "date": "2004",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "25th Anniversary Special チャゲ&飛鳥 熱風コンサート（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2004年。25周年記念公演関連パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2004年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "イベントパンフ",
+      "releaseTitle": "25th Anniversary Special チャゲ&飛鳥 熱風コンサート",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-keio",
+      "date": "2004",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "第46回三田祭前夜祭 PREMIUM CONCERT in KEIO（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2004年。学園祭公演関連パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2004年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "学園祭パンフ",
+      "releaseTitle": "第46回三田祭前夜祭 PREMIUM CONCERT in KEIO",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-double",
+      "date": "2007",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "Concert tour 2007 DOUBLE（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2007年。通常版パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2007年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Concert tour 2007 DOUBLE",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/ZTUWO7632"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-double-w",
+      "date": "2007",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "Concert tour 2007 DOUBLE W LIVE EDITION（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2007年。DOUBLEの別仕様パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2007年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Concert tour 2007 DOUBLE W LIVE EDITION",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZTUWO8320"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-alive",
+      "date": "2007",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "Concert 2007 alive in live（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2007年。2007年公演関連パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2007年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Concert 2007 alive in live",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZTUWO8317"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-alive-shanghai",
+      "date": "2007",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "Concert 2007 alive in live SHANGHAI EDITION（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2007年。上海公演関連版。通常版とは別仕様。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2007年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Concert 2007 alive in live SHANGHAI EDITION",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.4.6"
+  "siteVersion": "2.4.7"
 }
