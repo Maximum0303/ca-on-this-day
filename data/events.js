@@ -102091,7 +102091,108 @@ window.CA_EVENT_DATA = {
         }
       ],
       "featured": false
+    },
+    {
+      "id": "milestone-1987-09-21-aska-solo-debut",
+      "date": "1987-09-21",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "ASKAがソロデビュー",
+      "description": "飛鳥涼名義のシングル「MY Mr.LONELY HEART」でソロ活動を開始。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1988-08-21-aska-first-album",
+      "date": "1988-08-21",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "初のソロアルバム『SCENE』を発売",
+      "description": "提供曲を中心としたASKA初のソロアルバム。発売記録とは別にソロ活動の節目として扱う。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1988-12-31-paradise-record-award",
+      "date": "1988-12-31",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "提供曲「パラダイス銀河」が日本レコード大賞を受賞",
+      "description": "第30回日本レコード大賞。光GENJIが歌唱し、飛鳥涼が作詞・作曲、佐藤準が編曲を担当。ASKA個人の作曲賞ではない。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "日本作曲家協会 第30回日本レコード大賞",
+          "url": "https://www.jacompa.or.jp/record/30.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1989-10-03-noru-soru-start",
+      "date": "1989-10-03",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "FMレギュラー番組「NORU SORU」がスタート",
+      "description": "「スーパーFMマガジン NORU SORU」が始まり、1994年3月まで続いた。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/1989.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1989-12-13-multi-max-first-tour",
+      "date": "1989-12-13",
+      "artist": "MULTI MAX",
+      "category": "milestone",
+      "title": "初のツアー開始・ロンドンとの衛星中継",
+      "description": "日本武道館から「CHAGE’S SUPER BAND MULTI MAX ’89」を開始。ロンドンにいたASKAの映像を衛星中継した。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/1989.php"
+        }
+      ],
+      "featured": false
     }
   ],
-  "siteVersion": "2.5.1"
+  "siteVersion": "2.5.2"
 };
