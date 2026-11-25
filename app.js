@@ -128,7 +128,7 @@ function getMatches(){
  const year=$('year-filter').value,kind=$('status-filter').value,verification=$('verification-filter').value,sort=$('sort-filter').value;
  return events.filter(e=>{
   if(state.eventId)return e.id===state.eventId;
-  if(isYearOnly(e)&&(state.dayOnly||(e.category!=='book'&&!yearOnlyFiltersActive())))return false;
+  if(isYearOnly(e)&&state.dayOnly)return false;
   if(artist!=='all'&&e.artist!==artist)return false;
   if(cat!=='all'&&e.category!==cat)return false;
   if(dec!=='all'&&Math.floor(Number(e.date.slice(0,4))/10)*10!==Number(dec))return false;
@@ -174,13 +174,16 @@ function renderYearOnly(matches){
  // Move below the search filters so selecting a condition reveals the section in place.
  const filters=$('browse')?.querySelector('.filters');
  if(filters&&section.previousElementSibling!==filters)filters.insertAdjacentElement('afterend',section);
- const list=yearOnlyFiltersActive()?(matches||getMatches()).filter(e=>isYearOnly(e)&&e.category!=='book'):[];
+ const list=(matches||getMatches()).filter(e=>e.category==='milestone'&&e.featured===true);
  section.hidden=list.length===0;
  if(!list.length){box.replaceChildren();return;}
- box.innerHTML=list.map(e=>{
-  const note=String(e.description||'');const brief=note.length>260?note.slice(0,260)+'…':note;
-  return '<article class="year-only-card"><span class="year-only-stamp">'+esc(e.date)+'年／月日未詳</span><span class="tag">'+esc(category(e))+'</span>'+caArtistTag(e)+'<h3>'+esc(e.title)+'</h3><p>'+esc(brief)+'</p><a href="'+esc(recordUrl(e))+'">記録の詳細・出典を見る ↗</a></article>';
- }).join('');
+ const wasOpen=box.querySelector('.ca260-more')?.open||false;
+ const card=e=>{
+  const note=String(e.description||'');const brief=note.length>150?note.slice(0,150)+'…':note;
+  const d=fromDate(e.date),stamp=isYearOnly(e)?d.year+'年／月日未詳':d.year+'年'+d.month+'月'+d.day+'日';
+  return '<article class="year-only-card"><span class="year-only-stamp">'+esc(stamp)+'</span>'+caArtistTag(e)+'<span class="tag">'+esc(category(e))+'</span><h3>'+esc(e.title)+'</h3>'+(brief?'<p>'+esc(brief)+'</p>':'')+'<a href="'+esc(recordUrl(e))+'">記録の詳細・出典を見る ↗</a></article>';
+ };
+ box.innerHTML=list.slice(0,4).map(card).join('')+(list.length>4?'<details class="ca260-more"'+(wasOpen?' open':'')+'><summary>残り '+(list.length-4)+' 件の重要記録を表示</summary><div class="year-only-list">'+list.slice(4).map(card).join('')+'</div></details>':'');
 }
 /* /YEAR_ONLY_RECORDS_V2029 */
 
