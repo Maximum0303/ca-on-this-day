@@ -102192,6 +102192,27 @@
         }
       ],
       "featured": false
+    },
+    {
+      "id": "milestone-1989-09-04-pride-oricon-number-one",
+      "date": "1989-09-04",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "アルバム『PRIDE』がオリコン初登場1位を獲得",
+      "description": "1989年9月4日付オリコン週間アルバムランキングで初登場1位（発表日：8月28日）。1981年の『熱風』以来、約8年ぶりのアルバムチャート1位。順位は公式HISTORYで確認。チャート日付・発表日は提供情報による。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY（初登場1位の確認）",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（非公式・順位の確認）",
+          "url": "https://w.atwiki.jp/cavc/pages/115.html"
+        }
+      ],
+      "featured": true
     }
   ],
   "siteVersion": "2.5.2"
