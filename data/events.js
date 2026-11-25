@@ -72189,15 +72189,24 @@ window.CA_EVENT_DATA = {
       "title": "オンラインライブ「ASKA グラミー賞ノミネート希望 Acoustic Live」",
       "status": "recorded",
       "verification": "primary",
-      "note": "12月2日配信。12月1日の収録日とは区別する。",
+      "note": "12月2日配信。12月1日の収録日とは区別する。 ／ ASKA自身2回目のオンラインライブ。公式告知：20:00～22:00（予定）、視聴券4,000円（税込）、アーカイブ視聴は2021年12月5日23:59まで。アーカイブ開始日時は未確定。ローチケ LIVE STREAMING（ZAIKO）の表記は二次資料による確認。",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "公式プレスリリース（2021年11月25日）",
+          "url": "https://kyodonewsprwire.jp/release/202111253927"
+        },
+        {
+          "label": "参考資料（非公式・配信記録）",
+          "url": "https://note.com/himawari_yochan/n/nb27fc38f7f3f"
         }
       ],
       "venue": "オンライン配信",
-      "description": "2021年12月2日、ASKAの「オンラインライブ「ASKA グラミー賞ノミネート希望 Acoustic Live」がオンライン配信で開催された。"
+      "description": "2021年12月2日、ASKAの「オンラインライブ「ASKA グラミー賞ノミネート希望 Acoustic Live」がオンライン配信で開催された。",
+      "broadcastStation": "ZAIKO"
     },
     {
       "id": "v14-media-ch21-018",
@@ -98018,5 +98027,5 @@ window.CA_EVENT_DATA = {
       "broadcastStation": "ZAIKO"
     }
   ],
-  "siteVersion": "2.3.11"
+  "siteVersion": "2.3.12"
 };
