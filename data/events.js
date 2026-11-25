@@ -102213,7 +102213,277 @@ window.CA_EVENT_DATA = {
         }
       ],
       "featured": true
+    },
+    {
+      "id": "milestone-1991-08-05-say-yes-first-number-one",
+      "date": "1991-08-05",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「SAY YES」がオリコン初登場1位",
+      "description": "1991年8月5日付週間シングルチャートで初登場1位。発売日は7月24日。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（非公式・週間チャート）",
+          "url": "https://cd100.net/oricon/weekrank.php?date=19910805"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1991-10-28-say-yes-13weeks",
+      "date": "1991-10-28",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「SAY YES」がオリコン13週連続1位を達成",
+      "description": "1991年10月28日付週間シングルチャートで13週連続首位を記録。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（非公式・週間チャート）",
+          "url": "https://cd100.net/oricon/weekrank.php?date=19911028"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1991-12-31-record-award-ca",
+      "date": "1991-12-31",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "第33回日本レコード大賞 ゴールド・ディスク賞受賞",
+      "description": "ポップス・ロック部門で「SAY YES」がゴールド・ディスク賞を受賞。日本ゴールドディスク大賞とは別の賞。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "日本作曲家協会 第33回日本レコード大賞",
+          "url": "https://www.jacompa.or.jp/record/33.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1991-12-31-record-award-aska",
+      "date": "1991-12-31",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "第33回日本レコード大賞 作曲賞・最優秀ボーカル賞等を受賞",
+      "description": "ポップス・ロック部門で「はじまりはいつも雨」が最優秀ボーカル賞とゴールド・ディスク賞、同曲と「SAY YES」で作曲賞を受賞。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "日本作曲家協会 第33回日本レコード大賞",
+          "url": "https://www.jacompa.or.jp/record/33.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1992-05-12-say-yes-big-tree-attendance",
+      "date": "1992-05-12",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「SAY YES」「BIG TREE」両ツアーで総動員45万人",
+      "description": "福岡国際センターでBIG TREEが終了。両ツアーの合計動員は45万人。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1993-03-15-yah-yah-yah-first-number-one",
+      "date": "1993-03-15",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「YAH YAH YAH／夢の番人」がオリコン初登場1位",
+      "description": "1993年3月15日付週間シングルチャートで初登場1位。発売日は3月3日。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（非公式・週間チャート）",
+          "url": "https://cd100.net/oricon/weekrank.php?date=19930315"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1993-05-12-world-music-awards",
+      "date": "1993-05-12",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "World Music Awards 1993出場・受賞",
+      "description": "モナコで開催された音楽賞にアジア代表として出場し受賞。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1993-05-14-asia-promotion",
+      "date": "1993-05-14",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "東南アジア・プロモーション開始",
+      "description": "5月14日から22日まで香港・シンガポールでプロモーションを実施。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1994-04-10-longest-tour-completion",
+      "date": "1994-04-10",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「史上最大の作戦 THE LONGEST TOUR」完遂",
+      "description": "国立代々木競技場第一体育館で終了。全国25カ所70公演。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1994-04-29-asian-tour-start",
+      "date": "1994-04-29",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "初の海外ツアー「ASIAN TOUR 1994」開始",
+      "description": "香港コロシアムを皮切りに海外ツアーを開始。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1994-05-21-asian-tour-completion",
+      "date": "1994-05-21",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「ASIAN TOUR 1994」終了・6万人動員",
+      "description": "香港・シンガポール・台湾の3カ所5公演。台北市立体育場で終了。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1994-08-26-15th-amusement-park",
+      "date": "1994-08-26",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "15周年記念イベント「史上最大のアミューズメントパーク」開催",
+      "description": "富士急ハイランドにて8月26日から28日まで開催。周年当日そのものの記録とは別。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1994-09-29-street-fighter-press",
+      "date": "1994-09-29",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "映画「ストリートファイター」米国記者会見に出席",
+      "description": "サンフランシスコでの記者会見に出席。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1994-12-23-street-fighter-us-release",
+      "date": "1994-12-23",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「Something There」が起用された映画「Street Fighter」が全米公開",
+      "description": "C&Aの英語曲がエンディングに起用された映画の米国公開日。楽曲の国内シングル発売日とは別。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "参考資料（非公式・映画公開記録）",
+          "url": "https://www.boxofficemojo.com/title/tt0111301/"
+        }
+      ],
+      "featured": true
     }
   ],
-  "siteVersion": "2.5.2"
+  "siteVersion": "2.5.3"
 };
