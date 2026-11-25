@@ -83711,7 +83711,7 @@ window.CA_EVENT_DATA = {
       "status": "released",
       "verification": "primary",
       "releaseTitle": "FIRST SAIL “COMTEC PORTBASE OPENING CEREMONY” ～ ASKA Live Docking ～",
-      "note": "2025年4月16日公演の収録映像配信。二次資料による補助確認 【第42回・追加照合】2025年4月16日COMTEC PORTBASE公演収録。公式発表の配信リリースは2026年1月31日0時。1月28日の映画館上映とは別。",
+      "note": "2025年4月16日公演の収録映像配信。二次資料による補助確認 【第42回・追加照合】2025年4月16日COMTEC PORTBASE公演収録。公式発表の配信リリースは2026年1月31日0時。1月28日の映画館上映とは別。 ／ 2026年1月31日0:00配信開始。発売元：BURNISH STONE。販売価格5,280円（税込）。購入者はダウンロードも可能（画質を落とした分割映像）。期間限定アーカイブ配信ではなく購入型映像作品。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
@@ -83720,12 +83720,25 @@ window.CA_EVENT_DATA = {
         {
           "label": "第42回・商品公式情報",
           "url": "https://www.fellows.tokyo/news/detail/608"
+        },
+        {
+          "label": "アーティスト公式特設サイト",
+          "url": "https://www.fellows.tokyo/feature/live_docking_2026"
+        },
+        {
+          "label": "Travel TV公式商品ページ",
+          "url": "https://era.travel.gr.jp/Form/Product/ProductDetail.aspx?cat=002&pid=021-20260131-1&shop=0"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://portbase.co.jp/schedule/20250416/"
         }
       ],
       "releaseFormat": "有料映像ストリーミング・購入者向けダウンロード",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2026年1月31日、ASKAの『FIRST SAIL “COMTEC PORTBASE OPENING CEREMONY” ～ ASKA Live Docking ～』の配信が開始された。"
+      "description": "2026年1月31日、ASKAの『FIRST SAIL “COMTEC PORTBASE OPENING CEREMONY” ～ ASKA Live Docking ～』の配信が開始された。",
+      "broadcastStation": "Travel TV"
     },
     {
       "id": "v16-0041",
@@ -98025,7 +98038,32 @@ window.CA_EVENT_DATA = {
       "category": "media",
       "status": "recorded",
       "broadcastStation": "ZAIKO"
+    },
+    {
+      "id": "aska-20260128-live-docking-screening",
+      "date": "2026-01-28",
+      "artist": "ASKA",
+      "category": "other",
+      "status": "recorded",
+      "title": "FIRST SAIL “COMTEC PORTBASE OPENING CEREMONY” ～ ASKA Live Docking ～ 映画館先行上映",
+      "description": "2025年4月16日のCOMTEC PORTBASE公演を収録した映像作品の映画館先行上映が行われた。",
+      "note": "1日限りの上映会。ASKAはユナイテッド・シネマ稲沢と岸和田で登壇。1月31日の配信リリースとは別の記録。",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "公式スタッフブログ（上映会実施報告）",
+          "url": "https://www.fellows.tokyo/blog/detail/1040/"
+        },
+        {
+          "label": "公式上映会告知",
+          "url": "https://www.fellows.tokyo/news/detail/616"
+        },
+        {
+          "label": "アーティスト公式特設サイト",
+          "url": "https://www.fellows.tokyo/feature/live_docking_2026"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.12"
+  "siteVersion": "2.3.13"
 };
