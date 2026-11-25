@@ -59549,22 +59549,37 @@ window.CA_EVENT_DATA = {
       "id": "v11-other-006",
       "date": "2012-10-16",
       "artist": "ASKA",
-      "category": "release",
+      "category": "book",
       "title": "『ぴあ＆ASKA』発売",
       "status": "released",
       "verification": "primary",
-      "note": "音楽関連ムック『ぴあ＆ASKA』発売。雑誌・書籍の発売記録として分類。 【第44回・公式資料点検】公式HISTORYに2012年10月16日のムック発売が明記されるため、発売記録の状態を released に統一。既存の分類・日付・IDは変更しない。",
+      "note": "音楽関連ムック『ぴあ＆ASKA』発売。雑誌・書籍の発売記録として分類。 【第44回・公式資料点検】公式HISTORYに2012年10月16日のムック発売が明記されるため、発売記録の状態を released に統一。既存の分類・日付・IDは変更しない。 ／ ASKA初の単独MOOK。公式HISTORYで10月16日発売、ぴあ公式10月19日付発売中の告知。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "ぴあ公式",
+          "url": "https://corporate.pia.jp/news/detail__askamookaska.html"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://tower.jp/item/3159258"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "ムック（書籍）",
       "releaseTitle": "ぴあ＆ASKA",
-      "description": "2012年10月16日、ASKAの『ぴあ＆ASKA』が発売された。"
+      "description": "2012年10月16日、ASKAの『ぴあ＆ASKA』が発売された。",
+      "publisher": "ぴあ",
+      "format": "MOOK",
+      "edition": "紙版"
     },
     {
       "id": "v11-release-016",
@@ -68465,22 +68480,33 @@ window.CA_EVENT_DATA = {
       "id": "v13-release-030",
       "date": "2019-03-22",
       "artist": "ASKA",
-      "category": "release",
+      "category": "book",
       "title": "書籍『ASKA 書きおろし詩集』発売",
       "status": "released",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "出版社公式で3月22日発売を確認。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2019"
+        },
+        {
+          "label": "双葉社公式",
+          "url": "https://www.futabasha.co.jp/introduction/2019/aska/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "書籍（詩集）",
       "releaseTitle": "ASKA 書きおろし詩集",
-      "description": "2019年3月22日、ASKAの『ASKA 書きおろし詩集』が発売された。"
+      "description": "2019年3月22日、ASKAの『ASKA 書きおろし詩集』が発売された。",
+      "publisher": "双葉社",
+      "format": "詩集",
+      "edition": "紙版"
     },
     {
       "id": "v13-aska19-made-in-012",
@@ -69479,22 +69505,33 @@ window.CA_EVENT_DATA = {
       "id": "v13-release-034",
       "date": "2019-09-26",
       "artist": "ASKA",
-      "category": "release",
+      "category": "book",
       "title": "電子書籍『ASKA 書きおろし詩集』配信開始",
       "status": "released",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "双葉社の発表による電子版の順次販売開始日。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2019"
+        },
+        {
+          "label": "双葉社公式プレスリリース",
+          "url": "https://prtimes.jp/main/html/rd/p/000000142.000014531.html"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "電子書籍",
       "releaseTitle": "ASKA 書きおろし詩集",
-      "description": "2019年9月26日、ASKAの『ASKA 書きおろし詩集』の配信が開始された。"
+      "description": "2019年9月26日、ASKAの『ASKA 書きおろし詩集』の配信が開始された。",
+      "publisher": "双葉社",
+      "format": "電子書籍",
+      "edition": "電子書籍版"
     },
     {
       "id": "media-v18230-2019-10-08-chage-001",
@@ -89849,22 +89886,33 @@ window.CA_EVENT_DATA = {
       "id": "release-audit-v2042-20250723-02",
       "date": "2025-07-23",
       "artist": "ASKA",
-      "category": "release",
+      "category": "book",
       "title": "『Who is ASKA !?』ドキュメンタリーブック第1弾発売",
       "releaseTitle": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- ドキュメンタリーブック",
       "releaseFormat": "書籍（ツアードキュメンタリーブック）",
       "status": "released",
       "verification": "primary",
-      "note": "【第42回・一次資料照合】当初の発売予定から延期され、7月23日に発売・順次発送。ツアー公演日とは別。",
+      "note": "【第42回・一次資料照合】当初の発売予定から延期され、7月23日に発売・順次発送。ツアー公演日とは別。 ／ 制作上の都合による延期後の発売日・発送開始日。2026年1月の公式告知でも2025年7月発売を確認。",
       "sources": [
         {
           "label": "公式・発売元・配信元の作品情報",
           "url": "https://www.fellows.tokyo/news/detail/444"
+        },
+        {
+          "label": "Fellows公式",
+          "url": "https://www.fellows.tokyo/news/detail/613"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
-      "description": "2025年7月23日、ASKAの『Who is ASKA !?』が発売された。"
+      "description": "2025年7月23日、ASKAの『Who is ASKA !?』が発売された。",
+      "publisher": "バーニッシュストーン",
+      "format": "公式本",
+      "edition": "通常版"
     },
     {
       "id": "release-audit-v2042-20250828-03",
@@ -99061,7 +99109,177 @@ window.CA_EVENT_DATA = {
         }
       ],
       "isbn": "9784041843024"
+    },
+    {
+      "id": "book-v242-aska-19841115-first",
+      "date": "1984-11-15",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "オンリー・ロンリー 飛鳥涼詩集（初期版）",
+      "status": "released",
+      "verification": "primary",
+      "description": "『オンリー・ロンリー 飛鳥涼詩集（初期版）』（詩集／サンリオ出版）が刊行・発売された。",
+      "note": "公式HISTORYで11月15日発表を確認。提供台帳では印刷11月10日。",
+      "format": "詩集",
+      "publisher": "サンリオ出版",
+      "releaseTitle": "オンリー・ロンリー 飛鳥涼詩集（初期版）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "edition": "初期版"
+    },
+    {
+      "id": "book-v242-aska-19890110-renew",
+      "date": "1989-01-10",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "オンリー・ロンリー 飛鳥涼詩集 新装版",
+      "status": "released",
+      "verification": "secondary",
+      "description": "『オンリー・ロンリー 飛鳥涼詩集 新装版』（詩集／サンリオ）が刊行・発売された。",
+      "note": "提供台帳の発行日1月10日、印刷1月5日。国立国会図書館は1989年1月刊と記載（日は未確認）。著者近影・紹介コメントは初期版と同一とされる。",
+      "format": "詩集",
+      "publisher": "サンリオ",
+      "releaseTitle": "オンリー・ロンリー 飛鳥涼詩集 新装版",
+      "sources": [
+        {
+          "label": "国立国会図書館書誌",
+          "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001960370"
+        },
+        {
+          "label": "出版書誌資料",
+          "url": "https://www.hanmoto.com/bd/isbn/9784387883371"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784387883371",
+      "edition": "新装版"
+    },
+    {
+      "id": "book-v242-aska-19901121-hard",
+      "date": "1990-11-21",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "けれど空は青 ～飛鳥涼論",
+      "status": "released",
+      "verification": "primary",
+      "description": "『けれど空は青 ～飛鳥涼論』（評論・評伝／八曜社）が刊行・発売された。",
+      "note": "著：石原信一。公式HISTORYで11月21日発表。書店資料は1990年11月刊、別の中古書店資料には11月30日とある。",
+      "format": "評論・評伝",
+      "publisher": "八曜社",
+      "releaseTitle": "けれど空は青 ～飛鳥涼論",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://www.kinokuniya.co.jp/f/dsg-01-9784827001099"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784827001099",
+      "edition": "単行本"
+    },
+    {
+      "id": "book-v242-aska-19911120-asuka",
+      "date": "1991-11-20",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "オンリー・ロンリー 新版 飛鳥涼詩集（ASUKA表記）",
+      "status": "released",
+      "verification": "secondary",
+      "description": "『オンリー・ロンリー 新版 飛鳥涼詩集（ASUKA表記）』（詩集／サンリオ）が刊行・発売された。",
+      "note": "提供台帳の発行日11月20日、印刷11月15日。3刷までASUKA表記とされる。大学図書館書誌では1991年11月刊（日・表記差は未確認）。",
+      "format": "詩集",
+      "publisher": "サンリオ",
+      "releaseTitle": "オンリー・ロンリー 新版 飛鳥涼詩集（ASUKA表記）",
+      "sources": [
+        {
+          "label": "大学図書館書誌",
+          "url": "https://ci.nii.ac.jp/ncid/BA91858331.amp"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "edition": "新版・ASUKA表記"
+    },
+    {
+      "id": "book-v242-aska-19930409-paperback",
+      "date": "1993-04-09",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "飛鳥涼論 けれど空は青（文庫版）",
+      "status": "released",
+      "verification": "primary",
+      "description": "『飛鳥涼論 けれど空は青（文庫版）』（文庫／角川書店）が刊行・発売された。",
+      "note": "著：石原信一。KADOKAWA公式発売日4月9日、アーティスト公式HISTORYは4月10日。出版社の日付を採用。",
+      "format": "文庫",
+      "publisher": "角川書店",
+      "releaseTitle": "飛鳥涼論 けれど空は青（文庫版）",
+      "sources": [
+        {
+          "label": "KADOKAWA公式",
+          "url": "https://www.kadokawa.co.jp/product/199999186801/"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784041868010",
+      "edition": "文庫版"
+    },
+    {
+      "id": "book-v242-aska-20170217-paper",
+      "date": "2017-02-17",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "700番 第二巻 第三巻",
+      "status": "released",
+      "verification": "secondary",
+      "description": "『700番 第二巻 第三巻』（単行本・電子書籍／扶桑社）が刊行・発売された。",
+      "note": "第二巻・第三巻を収録。同日に電子版販売開始（書店資料）。同日同内容の規格違いは1件に集約。",
+      "format": "単行本・電子書籍",
+      "publisher": "扶桑社",
+      "releaseTitle": "700番 第二巻 第三巻",
+      "sources": [
+        {
+          "label": "書籍販売資料",
+          "url": "https://tower.jp/item/4439101"
+        },
+        {
+          "label": "電子書籍販売資料",
+          "url": "https://honto.jp/ebook/pd_28328993.html"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784594076818",
+      "edition": "紙版"
     }
   ],
-  "siteVersion": "2.4.1"
+  "siteVersion": "2.4.2"
 };
