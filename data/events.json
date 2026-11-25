@@ -62146,14 +62146,18 @@
       "title": "TBS「UTAGE! 春の祭典2時間SP」出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "追補：所蔵映像リストと放送当日の報道・放送翌日の報道で共演内容を照合。映像本編は未視聴。",
       "sources": [
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
+        },
+        {
+          "label": "参考資料（放送当日の報道）",
+          "url": "https://voisjp.me/news/24942/"
         }
       ],
-      "description": "2015年3月31日、Chageが出演したテレビ番組「UTAGE! 春の祭典2時間SP」がTBSで放送された。"
+      "description": "2015年3月31日、ChageがTBS「UTAGE! 春の祭典2時間SP」に出演。渡辺麻友と「ふたりの愛ランド」、二階堂高嗣・宮田俊哉と「チェリー」、山本彩のギター伴奏で「終章（エピローグ）」を披露した。"
     },
     {
       "id": "v12-fc15-date-01",
@@ -62414,14 +62418,18 @@
       "title": "フジテレビ「FNSうたの夏まつり」生出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "追補：フジテレビ公式曲目と所蔵映像リストが一致。映像本編は未視聴。",
       "sources": [
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
+        },
+        {
+          "label": "フジテレビ公式｜2015 FNSうたの夏まつり",
+          "url": "https://www.fujitv.co.jp/FNS/2015s/index.html"
         }
       ],
-      "description": "2015年7月29日、Chageが出演したテレビ番組「FNSうたの夏まつり」がフジテレビで放送された。"
+      "description": "2015年7月29日、Chageがフジテレビ「FNSうたの夏まつり」に生出演。miwa、ももいろクローバーZと「ふたりの愛ランド」を披露した。"
     },
     {
       "id": "v12-2015-hurray",
@@ -63400,14 +63408,18 @@
       "title": "テレビ東京「金曜7時のコンサート」出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "追補：テレビ東京公式番組情報で放送日・出演者・曲目を照合。所蔵映像リストにも「サボテンの花」「ふたりの愛ランド」がある。映像本編は未視聴。",
       "sources": [
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
+        },
+        {
+          "label": "テレビ東京公式｜2016年8月19日 金曜7時のコンサート",
+          "url": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/201608/24032_201608191855.html"
         }
       ],
-      "description": "2016年8月19日、Chageが出演したテレビ番組「金曜7時のコンサート」がテレビ東京で放送された。"
+      "description": "2016年8月19日、Chageがテレビ東京「金曜7時のコンサート～名曲！にっぽんの歌～」に出演。番組公式曲目には「サボテンの花」「もうひとつのLOVE SONG」、コーナー出演者全員との「ふたりの愛ランド」が掲載されている。"
     },
     {
       "id": "v12-melodix16",
@@ -63517,14 +63529,18 @@
       "title": "BS日テレ「地球劇場」出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "追補：BS日テレ公式放送内容で第30回・放送日と共演曲を確認。所蔵映像リストには谷村新司との「さらば恋人」、谷村新司・平原綾香との「見上げてごらん夜の星を」も記載。映像本編は未視聴。",
       "sources": [
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
+        },
+        {
+          "label": "BS日テレ公式｜地球劇場 第30回",
+          "url": "https://www.bs4.jp/chikyu-gekijou/onair/30.html"
         }
       ],
-      "description": "2016年9月10日、Chageが出演したテレビ番組「地球劇場」が放送された。"
+      "description": "2016年9月10日、ChageがBS日テレ「地球劇場～100年後の君に聴かせたい歌～」第30回に出演。谷村新司と「万里の河」、平原綾香と「ふたりの愛ランド」などを共演した。"
     },
     {
       "id": "v12-utatte16",
@@ -67378,14 +67394,18 @@
       "title": "フジテレビNEXT「坂崎幸之助のももいろフォーク村NEXT」出演",
       "status": "recorded",
       "verification": "secondary",
-      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録",
+      "note": "テレビ・ラジオの放送日。ライブ実施日とは別に登録\n追補：フジテレビNEXT公式番組アーカイブと所蔵映像リストで第90夜・放送日・出演を照合。公式資料に「ぼくがつくった愛のうた～いとしのEmily～」の坂崎幸之助との共演記録がある。映像本編は未視聴。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/342.html"
+        },
+        {
+          "label": "フジテレビNEXT公式｜フォーク村 第90夜放送記録",
+          "url": "https://www.fujitv.co.jp/FOLKMURA/index.html"
         }
       ],
-      "description": "2018年11月8日、Chageが出演したテレビ番組「坂崎幸之助のももいろフォーク村NEXT」がフジテレビで放送された。"
+      "description": "2018年11月8日、ChageがフジテレビNEXT「坂崎幸之助のももいろフォーク村NEXT」第90夜に出演。ももいろクローバーZのメンバーや坂崎幸之助らと共演した。"
     },
     {
       "id": "media-v18220-023",
@@ -96974,7 +96994,51 @@
           "url": "https://www.wikipedia-is-dead.com/wiki/%E7%AA%81%E7%84%B6%E3%83%90%E3%83%A9%E3%82%A8%E3%83%86%E3%82%A3%E3%83%BC%E9%80%9F%E5%A0%B1%21%21COUNT%20DOWN100"
         }
       ]
+    },
+    {
+      "id": "media-owned-20171030-gyakushimei",
+      "date": "2017-10-30",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "AbemaTV「逆指名インタビュー ～The truth of me～」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "AbemaTV（AbemaNews）",
+      "description": "ASKAがインターネットテレビのインタビュー番組「逆指名インタビュー」の初回ゲストとして出演。亀田興毅、吉田豪との対談で音楽活動や今後の楽曲発表について語った。",
+      "note": "ASKA本人の公式ブログで2017年10月30日の放送を確認。当日の報道と所蔵映像リストも一致。所蔵映像リストに歌唱部分の記載があるが映像本編は未視聴。",
+      "sources": [
+        {
+          "label": "ASKA公式ブログ｜第125回 ASKA Terminal Melody",
+          "url": "https://archive.fellows.tokyo/blog/?id=3913"
+        },
+        {
+          "label": "参考資料（放送当日の報道）",
+          "url": "https://www.nikkansports.com/entertainment/news/201710300000750.html"
+        }
+      ]
+    },
+    {
+      "id": "media-owned-20190807-shonentidaikobo",
+      "date": "2019-08-07",
+      "artist": "Chage",
+      "category": "media",
+      "title": "BS朝日「春風亭昇太の少年時代工房」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "BS朝日",
+      "description": "ChageがBS朝日「春風亭昇太の少年時代工房」に出演し、包丁作りに挑戦した。",
+      "note": "Chage公式Biographyで放送日・出演を確認。BS朝日の放送番組審議会議事概要および所蔵映像リストに包丁作りの記録がある。映像本編は未視聴。",
+      "sources": [
+        {
+          "label": "Chage公式Biography 2019",
+          "url": "https://chage.jp/biography/2019.php"
+        },
+        {
+          "label": "BS朝日公式｜第77回放送番組審議会議事概要",
+          "url": "https://www.bs-asahi.co.jp/singi/singi_77/"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.2.17"
+  "siteVersion": "2.2.18"
 }
