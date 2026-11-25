@@ -98193,7 +98193,59 @@
           "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-14534"
         }
       ]
+    },
+    {
+      "id": "chage-20250105-billboard-66to67-streamingplus-live",
+      "date": "2025-01-05",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa 生配信",
+      "description": "2025年1月5日、ビルボードライブ東京で開催された「Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa」の2ndステージがStreaming+で生配信された。",
+      "note": "石川優子を特別ゲストに迎えた東京公演。1stステージ17:00、2ndステージ20:00開演。配信対象は2ndステージ（20:00開始）。公式告知上の見逃し配信期間は2025年1月15日17:00～1月26日23:59。会場公演とは別記録。",
+      "broadcastStation": "Streaming+",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-685.php"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-20215"
+        },
+        {
+          "label": "Chage公式公演告知",
+          "url": "https://chage.jp/information/live/detail-659.php"
+        }
+      ]
+    },
+    {
+      "id": "chage-20250115-billboard-66to67-streamingplus-archive",
+      "date": "2025-01-15",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa アーカイブ配信開始",
+      "description": "2025年1月5日のビルボードライブ東京公演「Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa」2ndステージのアーカイブ配信開始日。",
+      "note": "石川優子が特別ゲスト。Streaming+での公式告知上のアーカイブ期間は2025年1月15日17:00～1月26日23:59。1月5日の生配信とは別記録。実際の公開時刻は未検証。",
+      "broadcastStation": "Streaming+",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-685.php"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-20215"
+        },
+        {
+          "label": "Chage公式公演告知",
+          "url": "https://chage.jp/information/live/detail-659.php"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.18"
+  "siteVersion": "2.3.19"
 }
