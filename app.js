@@ -174,7 +174,7 @@ function renderYearOnly(matches){
  // Move below the search filters so selecting a condition reveals the section in place.
  const filters=$('browse')?.querySelector('.filters');
  if(filters&&section.previousElementSibling!==filters)filters.insertAdjacentElement('afterend',section);
- const list=(matches||getMatches()).filter(e=>e.category==='milestone'&&e.featured===true);
+ const list=$('category-filter').value==='milestone'?(matches||getMatches()).filter(e=>e.category==='milestone'&&e.featured===true):[];
  section.hidden=list.length===0;
  if(!list.length){box.replaceChildren();return;}
  const wasOpen=box.querySelector('.ca260-more')?.open||false;
