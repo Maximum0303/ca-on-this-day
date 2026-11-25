@@ -42444,14 +42444,19 @@
       "title": "インターネット「COSMO EARTH CONSCIOUS ACT」ライブ中継",
       "status": "recorded",
       "verification": "secondary",
-      "note": "インターネット放送 iiV。同日日本武道館公演のインターネット生中継。公演と放送は区別。（二次資料非公式記録。放送局の一次資料は未照合。）",
+      "note": "インターネット放送 iiV。同日日本武道館公演のインターネット生中継。公演と放送は区別。（二次資料非公式記録。放送局の一次資料は未照合。） ／ 当時の報道では18:30から無料のインターネット中継を告知。ブロードバンド用・ナローバンド用を用意。iiVでのリアルタイム中継は二次資料の放送記録による。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
+        },
+        {
+          "label": "当時の報道資料（2002年4月19日）",
+          "url": "https://www.itmedia.co.jp/broadband/rbb/0204/19/rbb_0419_08.html"
         }
       ],
-      "description": "2002年4月22日、CHAGE and ASKAが取り上げられたテレビ番組「COSMO EARTH CONSCIOUS ACT」が放送された。"
+      "description": "2002年4月22日、CHAGE and ASKAが取り上げられたテレビ番組「COSMO EARTH CONSCIOUS ACT」が放送された。",
+      "broadcastStation": "iiV (internet interactive TV)"
     },
     {
       "id": "media-v18212-2002-0422-earth-radio",
@@ -42744,14 +42749,19 @@
       "title": "テレビ「コスモ アースコンシャスアクト」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ721。4月22日の日本武道館公演の放送。BoA・倖田來未・INSPiらと同イベント出演。（二次資料非公式記録。放送局の一次資料は未照合。）",
+      "note": "フジテレビ721。4月22日の日本武道館公演の放送。BoA・倖田來未・INSPiらと同イベント出演。（二次資料非公式記録。放送局の一次資料は未照合。） ／ 2002年4月22日の日本武道館公演の映像放送。放送日は二次資料で確認。放送局の当時の番組表は未確認。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://mixi.jp/view_bbs.pl?comm_id=2069771&id=17465785"
         }
       ],
-      "description": "2002年5月19日、CHAGE and ASKAが出演したテレビ番組「コスモ アースコンシャスアクト」が放送された。"
+      "description": "2002年5月19日、CHAGE and ASKAが出演したテレビ番組「コスモ アースコンシャスアクト」が放送された。",
+      "broadcastStation": "フジテレビ721"
     },
     {
       "id": "live-not-at-all-arena-2002-009",
@@ -98531,5 +98541,5 @@
       "description": "2022年7月10日のiTSCOM STUDIO & HALL 二子玉川ライズ公演「Chageのずっと細道」のアーカイブ配信開始日。"
     }
   ],
-  "siteVersion": "2.3.25"
+  "siteVersion": "2.3.26"
 }
