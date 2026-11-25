@@ -101867,7 +101867,28 @@ window.CA_EVENT_DATA = {
           "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
         }
       ]
+    },
+    {
+      "id": "history-v2411-video-03",
+      "date": "2019-03-22",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "『ASKA 書きおろし詩集』発売記念 谷川俊太郎との対談映像（完全版）公開",
+      "status": "historical",
+      "verification": "primary",
+      "description": "双葉社の詩集特設サイトで対談映像の完全版が公開された。対談の収録日ではなく公開日の記録。",
+      "note": "出版関連企画。書籍の発売日とは区別。",
+      "sources": [
+        {
+          "label": "双葉社公式特設サイト",
+          "url": "https://www.futabasha.co.jp/introduction/2019/aska/"
+        },
+        {
+          "label": "双葉社プレスリリース",
+          "url": "https://prtimes.jp/main/html/rd/p/000000122.000014531.html"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.4.10"
+  "siteVersion": "2.4.11"
 };
