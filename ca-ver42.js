@@ -11,7 +11,7 @@
   if(!browse || !events.length || document.getElementById('ca42-upcoming'))return;
   const $=id=>document.getElementById(id);
   const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  const CAT={live:'ライブ',release:'作品発売',media:'テレビ・ラジオ',milestone:'記録・記念日',amateur:'デビュー前・アマチュア活動',other:'その他'};
+  const CAT={live:'ライブ',release:'作品発売', book:'書籍・出版',media:'テレビ・ラジオ',milestone:'記録・記念日',amateur:'デビュー前・アマチュア活動',other:'その他'};
   const ORDER=['CHAGE and ASKA','Chage','ASKA','MULTI MAX'];
   const parseDate=s=>{
     const m=/^(\d{4})-(\d{2})-(\d{2})$/.exec(String(s??''));
