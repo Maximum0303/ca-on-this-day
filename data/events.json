@@ -74417,20 +74417,28 @@
       "id": "v18222-2022-10-17-chage-087",
       "date": "2022-10-17",
       "artist": "Chage",
-      "category": "live",
-      "title": "PREMIUM PHILHARMONIC ORCHESTRA feat. Chage、川島ケイジ 出演",
+      "category": "media",
+      "title": "PREMIUM PHILHARMONIC ORCHESTRA CONCERT feat. Chage 川島ケイジ 生配信",
       "status": "recorded",
-      "verification": "primary",
-      "note": "管弦楽団との共演。",
+      "verification": "secondary",
+      "note": "当日生配信は提供情報による。10月12日付の番組公式記事に配信案内があり、配信視聴の参考記録もある。当日の配信サービス（CURTAIN CALLかどうか）・開始時刻は原資料未確認。後日のアーカイブ配信とは別。会場公演の記録ID：v14-chage2022-phil。",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
           "url": "https://chage.jp/biography/2022.php"
+        },
+        {
+          "label": "番組公式・配信案内（10月12日）",
+          "url": "https://jfn-pods.com/program/1974/article/JbpHz1URlf"
+        },
+        {
+          "label": "参考資料（非公式・視聴記録）",
+          "url": "https://ameblo.jp/chage-age/entry-12768203668.html"
         }
       ],
-      "venue": "東京芸術劇場 コンサートホール",
-      "prefecture": "東京都",
-      "description": "2022年10月17日、Chageの「PREMIUM PHILHARMONIC ORCHESTRA feat. Chage、川島ケイジ 出演」が東京芸術劇場 コンサートホールで開催された。"
+      "venue": "オンライン配信",
+      "prefecture": "",
+      "description": "2022年10月17日、東京芸術劇場コンサートホールで開催されたChage・川島ケイジの合同公演が生配信された。"
     },
     {
       "id": "v14-media-ch22-012",
@@ -98549,7 +98557,33 @@
       "date": "2022-07-20",
       "title": "Chageのずっと細道 アーカイブ配信開始",
       "description": "2022年7月10日のiTSCOM STUDIO & HALL 二子玉川ライズ公演「Chageのずっと細道」のアーカイブ配信開始日。"
+    },
+    {
+      "artist": "Chage",
+      "status": "recorded",
+      "id": "chage-20221106-premium-philharmonic-archive",
+      "date": "2022-11-06",
+      "category": "media",
+      "title": "PREMIUM PHILHARMONIC ORCHESTRA CONCERT feat. Chage 川島ケイジ アーカイブ配信開始",
+      "verification": "secondary",
+      "broadcastStation": "CURTAIN CALL",
+      "description": "2022年10月17日の東京芸術劇場公演の収録映像がCURTAIN CALLでアーカイブ配信された。",
+      "note": "11月6日の配信開始日は提供資料による。Chage公式告知一覧には11月7日付の配信開始告知があるが、告知本文は取得できていない。別の二次資料には10月19日付の記載もあり、開始日の原資料による確認が必要。視聴料金2,500円は二次資料による。",
+      "sources": [
+        {
+          "label": "Chage公式告知一覧（11月7日付）",
+          "url": "https://chage.jp/information/live/?year=2022"
+        },
+        {
+          "label": "参考資料（非公式・視聴記録）",
+          "url": "https://ameblo.jp/chage1990someday/entry-12794322640.html"
+        },
+        {
+          "label": "参考資料（非公式・日付相違）",
+          "url": "https://w.atwiki.jp/cavc/pages/359.html"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.28"
+  "siteVersion": "2.3.29"
 }
