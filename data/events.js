@@ -97372,7 +97372,36 @@ window.CA_EVENT_DATA = {
           "url": "https://www.neowing.co.jp/product/BVC3-35003"
         }
       ]
+    },
+    {
+      "id": "media-tieup-20201127-underdog-morning-moon",
+      "date": "2020-11-27",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "劇場版『アンダードッグ』前編 一般公開（劇中入場曲「モーニングムーン」）",
+      "status": "recorded",
+      "verification": "secondary",
+      "description": "2020年11月27日、武正晴監督の劇場版『アンダードッグ』前編が一般公開された。森山未來演じるボクサー・末永晃のリング入場曲としてCHAGE and ASKA「モーニングムーン」が使用された。",
+      "note": "舞台挨拶の記録では、森山未來が監督・スタッフと相談し、末永晃の人物像に合う入場曲として選んだ経緯を説明している。公式ニュースの転載ページおよび前編の鑑賞記録で楽曲使用を照合。公式ニュース原ページと映像本編は未確認のため二次資料区分。映画の主題歌は石崎ひゅーい「Flowers」であり、本件は劇中使用。先行映画祭上映日ではなく一般劇場公開日を採用。本人出演ではない。",
+      "sources": [
+        {
+          "label": "映画公式サイト｜作品情報・主題歌",
+          "url": "https://www.underdog-movie.jp/"
+        },
+        {
+          "label": "映画.com｜前編の劇場公開日",
+          "url": "https://eiga.com/movie/92594/"
+        },
+        {
+          "label": "参考資料（映画公式ニュース転載・舞台挨拶）",
+          "url": "https://www.tumgik.com/underdog-movie"
+        },
+        {
+          "label": "参考資料（前編の鑑賞記録・劇中入場曲）",
+          "url": "https://note.com/makottsu_ecris/n/n03e7e1b76748"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.1"
+  "siteVersion": "2.3.2"
 };
