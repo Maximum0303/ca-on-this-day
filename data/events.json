@@ -45700,11 +45700,11 @@
       "id": "event-v08-005",
       "date": "2004-03-25",
       "artist": "CHAGE and ASKA",
-      "category": "release",
+      "category": "book",
       "title": "歌詞集『two-five』発売",
       "status": "released",
       "verification": "primary",
-      "note": "音源・映像作品ではない出版物\n【第37回・発売分類補正】2004年3月25日発売の公式歌詞集。1979年から2003年までの258曲の歌詞を収録。音源ではなく書籍だが、作品発売日のため「発売」分類へ変更。公式通販のC004801はショップ商品管理コードとみなし、ISBN・規格品番には転記しない。",
+      "note": "音源・映像作品ではない出版物\n【第37回・発売分類補正】2004年3月25日発売の公式歌詞集。1979年から2003年までの258曲の歌詞を収録。音源ではなく書籍だが、作品発売日のため「発売」分類へ変更。公式通販のC004801はショップ商品管理コードとみなし、ISBN・規格品番には転記しない。 ／ 25周年期の歌詞集。A5・476ページ（提供台帳）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
@@ -45717,13 +45717,19 @@
         {
           "label": "CHAGE and ASKA公式通販（作品概要）",
           "url": "https://chageandaskaproducts.net/products/c004801"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "releaseTitle": "CHAGE&ASKA 歌詞集 two-five",
       "releaseFormat": "書籍（歌詞集）",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
-      "description": "2004年3月25日、CHAGE and ASKAの『two-five』が発売された。"
+      "description": "2004年3月25日、CHAGE and ASKAの『two-five』が発売された。",
+      "publisher": "アスペクト／公式通販",
+      "format": "歌詞集"
     },
     {
       "id": "release-v08-010",
@@ -98838,7 +98844,192 @@
           "url": "https://www.youtube.com/@machida9851"
         }
       ]
+    },
+    {
+      "id": "book-v240-ca-19811210",
+      "date": "1981-12-10",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "愛すべきばかちんたちへ",
+      "status": "released",
+      "verification": "primary",
+      "description": "愛すべきばかちんたちへ（書籍／CBS・ソニー出版）が刊行された。",
+      "note": "初の単行本。",
+      "format": "書籍",
+      "publisher": "CBS・ソニー出版",
+      "releaseTitle": "愛すべきばかちんたちへ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784789700023"
+    },
+    {
+      "id": "book-v240-ca-19821018",
+      "date": "1982-10-18",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "チャゲ&飛鳥写真集 闘魂（ザ・チャレンジ）",
+      "status": "released",
+      "verification": "primary",
+      "description": "チャゲ&飛鳥写真集 闘魂（ザ・チャレンジ）（写真集／講談社）が刊行された。",
+      "note": "初の写真集。",
+      "format": "写真集",
+      "publisher": "講談社",
+      "releaseTitle": "チャゲ&飛鳥写真集 闘魂（ザ・チャレンジ）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ]
+    },
+    {
+      "id": "book-v240-ca-19830922",
+      "date": "1983-09-22",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "時計まわりの青春",
+      "status": "released",
+      "verification": "secondary",
+      "description": "時計まわりの青春（書籍／集英社）が刊行された。",
+      "note": "国立国会図書館の書誌は1983年9月。日付は提供台帳・販売資料による。",
+      "format": "書籍",
+      "publisher": "集英社",
+      "releaseTitle": "時計まわりの青春",
+      "sources": [
+        {
+          "label": "国立国会図書館 書誌",
+          "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001651534"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://www.suruga-ya.jp/product/detail/BO639124"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784087800463"
+    },
+    {
+      "id": "book-v240-ca-19890720",
+      "date": "1989-07-20",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "PRIDE I 〜10年の複雑〜",
+      "status": "released",
+      "verification": "primary",
+      "description": "PRIDE I 〜10年の複雑〜（書籍／八曜社）が刊行された。",
+      "note": "10周年記念書籍・第1巻。",
+      "format": "書籍",
+      "publisher": "八曜社",
+      "releaseTitle": "PRIDE I 〜10年の複雑〜",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784827000955"
+    },
+    {
+      "id": "book-v240-ca-19891010",
+      "date": "1989-10-10",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "PRIDE II 〜10年の複雑〜",
+      "status": "released",
+      "verification": "primary",
+      "description": "PRIDE II 〜10年の複雑〜（書籍／八曜社）が刊行された。",
+      "note": "10周年記念書籍・第2巻。",
+      "format": "書籍",
+      "publisher": "八曜社",
+      "releaseTitle": "PRIDE II 〜10年の複雑〜",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ]
+    },
+    {
+      "id": "book-v240-ca-19921005a",
+      "date": "1992-10-05",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "10年の複雑（上）PRIDE",
+      "status": "released",
+      "verification": "primary",
+      "description": "10年の複雑（上）PRIDE（文庫／角川文庫）が刊行された。",
+      "note": "出版社は10月5日、アーティスト公式年表は上下巻とも10月10日。出版社の発売日を採用。",
+      "format": "文庫",
+      "publisher": "角川文庫",
+      "releaseTitle": "10年の複雑（上）PRIDE",
+      "sources": [
+        {
+          "label": "KADOKAWA公式",
+          "url": "https://www.kadokawa.co.jp/product/199999184301/"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784041843017"
+    },
+    {
+      "id": "book-v240-ca-19921005b",
+      "date": "1992-10-05",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "10年の複雑（下）PRIDE",
+      "status": "released",
+      "verification": "secondary",
+      "description": "10年の複雑（下）PRIDE（文庫／角川文庫）が刊行された。",
+      "note": "提供台帳は10月5日。公式年表は10月10日。書店資料は10月まで確認。正確な発売日の再確認が必要。",
+      "format": "文庫",
+      "publisher": "角川文庫",
+      "releaseTitle": "10年の複雑（下）PRIDE",
+      "sources": [
+        {
+          "label": "書籍販売資料",
+          "url": "https://www.kinokuniya.co.jp/f/dsg-01-9784041843024"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784041843024"
     }
   ],
-  "siteVersion": "2.3.38"
+  "siteVersion": "2.4.0"
 }
