@@ -128,7 +128,7 @@ function getMatches(){
  const year=$('year-filter').value,kind=$('status-filter').value,verification=$('verification-filter').value,sort=$('sort-filter').value;
  return events.filter(e=>{
   if(state.eventId)return e.id===state.eventId;
-  if(isYearOnly(e)&&!yearOnlyFiltersActive())return false;
+  if(isYearOnly(e)&&(state.dayOnly||(e.category!=='book'&&!yearOnlyFiltersActive())))return false;
   if(artist!=='all'&&e.artist!==artist)return false;
   if(cat!=='all'&&e.category!==cat)return false;
   if(dec!=='all'&&Math.floor(Number(e.date.slice(0,4))/10)*10!==Number(dec))return false;
@@ -174,7 +174,7 @@ function renderYearOnly(matches){
  // Move below the search filters so selecting a condition reveals the section in place.
  const filters=$('browse')?.querySelector('.filters');
  if(filters&&section.previousElementSibling!==filters)filters.insertAdjacentElement('afterend',section);
- const list=yearOnlyFiltersActive()?(matches||getMatches()).filter(isYearOnly):[];
+ const list=yearOnlyFiltersActive()?(matches||getMatches()).filter(e=>isYearOnly(e)&&e.category!=='book'):[];
  section.hidden=list.length===0;
  if(!list.length){box.replaceChildren();return;}
  box.innerHTML=list.map(e=>{

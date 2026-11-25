@@ -32,8 +32,8 @@
 <link rel="stylesheet" href="ca-mobile-v211.css">
 <link rel="stylesheet" href="ca-calendar-v212.css?v=2.1.2">
 <script defer src="data/events.js?v=2.2.0"></script>
-<script defer src="app.js?v=2.5.1"></script>
-<script defer src="ca-ver39.js?v=2.5.1"></script>
+<script defer src="app.js?v=2.5.2"></script>
+<script defer src="ca-ver39.js?v=2.5.2"></script>
 <script defer src="ca-ver40.js?v=2.5.1"></script>
 <script defer src="data/review-followup.js?v=2.2.11"></script>
 <script defer src="ca-ver41.js?v=2.4.5"></script>
@@ -221,7 +221,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
     <!-- YEAR_ONLY_RECORDS_V2029 -->
     <section id="year-only" class="year-only-section" aria-labelledby="year-only-title" hidden>
       <div class="section-head"><div><span class="kicker">YEAR-ONLY HISTORY / 月日未詳</span><h2 id="year-only-title">年だけ判明している出来事</h2></div></div>
-      <p class="year-only-intro">月日を確認できない重要な出来事を掲載しています。「西暦年」または「記録・記念日」を選ぶと表示されます。架空の日付は設定せず、日付カレンダーの件数には含めません。</p>
+      <p class="year-only-intro">月日を確認できない重要な出来事を掲載しています。「西暦年」または「記録・記念日」を選ぶと表示されます。月日未詳の書籍・出版物は通常の検索結果に表示します。架空の日付は設定せず、日付カレンダーの件数には含めません。</p>
       <div id="year-only-list" class="year-only-list" aria-live="polite"><p>読み込み中…</p></div>
     </section>
     <!-- /YEAR_ONLY_RECORDS_V2029 -->
@@ -306,7 +306,7 @@ document.addEventListener('DOMContentLoaded',function(){
  const back=node('button','ca-detail-back',/^\d{4}$/.test(String(e.date||''))?'← 年のみの記録一覧に戻る':'← この日の一覧に戻る');back.type='button';
  back.addEventListener('click',function(){
   document.body.classList.remove('ca-single');section.remove();
-  if(/^\d{4}$/.test(String(e.date||''))){const u=new URL(location.href);u.search='';u.searchParams.set('year',String(e.date));u.hash='year-only';location.assign(u.href);return;}
+  if(/^\d{4}$/.test(String(e.date||''))){const u=new URL(location.href);u.search='';u.searchParams.set('year',String(e.date));if(e.category==='book'){u.searchParams.set('category','book');u.hash='browse';}else{u.hash='year-only';}location.assign(u.href);return;}
   const all=document.getElementById('all-day');
   if(all){all.click();document.getElementById('browse')?.scrollIntoView({block:'start'});}
   else {const u=new URL(location.href);u.searchParams.delete('event');u.hash='calendar';location.assign(u.href);}
