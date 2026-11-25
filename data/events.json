@@ -98756,7 +98756,81 @@
           "url": "https://www.fellows.tokyo/feature/biography"
         }
       ]
+    },
+    {
+      "id": "aska-20230723-sawachika65-chronicle-stream",
+      "date": "2023-07-23",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "祝！町田市市制65周年記念 澤近泰輔65祭 The Chronicle（収録映像配信開始）",
+      "status": "recorded",
+      "verification": "secondary",
+      "description": "2023年7月23日、6月20日に町田市民ホールで開催された澤近泰輔65祭 The Chronicleの収録映像配信が開始された。",
+      "note": "Streaming+で7月23日19:00から9月3日23:59まで配信との参考資料あり。主催者・配信元の当時の告知原文は取得できなかった。8月18日の新編集版ver.2と座談会は別記録。",
+      "broadcastStation": "Streaming+",
+      "sources": [
+        {
+          "label": "参考資料（非公式・配信日程）",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2023"
+        },
+        {
+          "label": "参考資料（非公式・視聴記録）",
+          "url": "https://note.com/tojo_kaoru/n/n62f10fddb7c6"
+        },
+        {
+          "label": "参考資料（非公式・配信情報）",
+          "url": "https://intelablog.com/media-memories/taisuke-sawachika-65th-festival-the-chronicle-2023-6-20-review/"
+        },
+        {
+          "label": "まほろ座公式X（ver.2配信告知）",
+          "url": "https://x.com/mahoroza/status/1691030231157743616"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-18",
+      "artist": "ASKA",
+      "status": "scheduled",
+      "verification": "primary",
+      "id": "aska-20230818-sawachika65-chronicle-ver2",
+      "category": "media",
+      "title": "澤近泰輔65祭 The Chronicle ver.2（メイキング付き映像配信）",
+      "description": "2023年8月18日から、ASKAがゲスト出演した6月20日の町田市民ホール公演の映像を新編集版ver.2として配信する旨が告知された。",
+      "note": "まほろ座公式Xの告知本文（提供資料）で8月18日開始・9月3日までの配信を確認。リハーサル等の編集映像を追加し、宇海とSasaticaの映像を別アングル等に変更。開始時刻・終了時刻は告知本文に記載なし。Streaming+は提供情報および通常版の配信情報による。実施後の確認資料は未取得。7月23日の通常版とは区別する。",
+      "broadcastStation": "Streaming+",
+      "sources": [
+        {
+          "label": "まほろ座公式X（ver.2配信告知）",
+          "url": "https://x.com/mahoroza/status/1691030231157743616"
+        },
+        {
+          "label": "主催者公演・配信案内（告知内リンク）",
+          "url": "https://www.mahoroza.jp/230723machida65"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-18",
+      "artist": "ASKA",
+      "status": "scheduled",
+      "verification": "primary",
+      "id": "aska-20230818-sawachika65-chronicle-talk",
+      "category": "media",
+      "title": "澤近泰輔65祭 The Chronicle 振り返り座談会「振り返ればクロニクル」（関連配信）",
+      "description": "2023年8月18日19:00から、ASKAがゲスト出演した澤近泰輔65祭を振り返る座談会がYouTubeで配信予定と告知された。",
+      "note": "出演告知：澤近泰輔、宇海、佐々木良。トーク終了後は3人で65祭を視聴する企画。ASKAは座談会の告知出演者に含まれていないため、関連番組として登録し本人出演とは区別する。実施後の確認資料は未取得。終了時刻は未確認。",
+      "broadcastStation": "YouTube Live",
+      "sources": [
+        {
+          "label": "まほろ座公式X（座談会告知）",
+          "url": "https://x.com/mahoroza/status/1691291460996612096"
+        },
+        {
+          "label": "まほろ座公式YouTube（告知内リンク）",
+          "url": "https://www.youtube.com/@machida9851"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.35"
+  "siteVersion": "2.3.37"
 }
