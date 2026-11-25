@@ -97945,7 +97945,51 @@
           "url": "https://w.atwiki.jp/cavc/pages/468.html"
         }
       ]
+    },
+    {
+      "id": "aska-20220911-kyushu-orchestra-live-stream",
+      "date": "2022-09-11",
+      "title": "ASKA＆九州スペシャルオーケストラ公演（生配信）",
+      "description": "福岡・キャナルシティ劇場の9月11日公演を15:00からZAIKOで有料生配信。",
+      "note": "指揮：栁澤寿男。7月7日公演の振替。視聴券3,000円（税込）。アーカイブ配信は9月24日12:00～26日23:59。公演実施日と配信は別記録。",
+      "artist": "ASKA",
+      "category": "media",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "ZAIKO",
+      "sources": [
+        {
+          "label": "主催者公式発表（サンライズプロモーション）",
+          "url": "https://prtimes.jp/main/html/rd/p/000000324.000041063.html"
+        },
+        {
+          "label": "参考資料（非公式・配信記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/467.html"
+        }
+      ]
+    },
+    {
+      "id": "aska-20220924-kyushu-orchestra-archive-stream",
+      "date": "2022-09-24",
+      "title": "ASKA＆九州スペシャルオーケストラ公演（アーカイブ配信開始）",
+      "description": "2022年9月11日、福岡・キャナルシティ劇場で開催された公演の映像をZAIKOで12:00からアーカイブ配信。",
+      "note": "配信期間：2022年9月24日12:00～9月26日23:59。視聴券3,000円（税込、生配信・アーカイブ付き）。9月11日の生配信とは別記録。",
+      "artist": "ASKA",
+      "category": "media",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "ZAIKO",
+      "sources": [
+        {
+          "label": "主催者公式発表（サンライズプロモーション）",
+          "url": "https://prtimes.jp/main/html/rd/p/000000324.000041063.html"
+        },
+        {
+          "label": "参考資料（非公式・配信記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/467.html"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.9"
+  "siteVersion": "2.3.10"
 }
