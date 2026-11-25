@@ -1,7 +1,7 @@
 window.CA_EVENT_DATA = {
   "schemaVersion": 1,
   "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2027年の公式発表済み予定を追加。開催予定の記録は日付経過のみで開催済みと断定せず、延期・中止と区別して表示します。既存の記録の確認日・履歴はそのまま保存しています。",
-  "lastUpdated": "2026-11-25",
+  "lastUpdated": "2026-11-26",
   "events": [
     {
       "id": "milestone-1978-popcon15-formation-yearonly",
@@ -12,7 +12,7 @@ window.CA_EVENT_DATA = {
       "title": "第15回ポプコンをきっかけにCHAGE & ASKA結成",
       "status": "historical",
       "verification": "primary",
-      "note": "1978年、第15回ヤマハポピュラーソングコンテストを契機にChageとASKAが組むことになった。ASKA公式BIOGRAPHYには「九州、中国地区大会」でグランプリ獲得、CHAGE & ASKA結成と記載されている。一方、Chageのプロフィールや当人の回想では、Chageが福岡大会でグランプリ、ASKAが最優秀歌唱賞を受賞し、ヤマハ担当者の提案で二人が組んだという経緯が語られている。大会の段階・受賞の説明には差異があるため、本記録ではいずれかに断定しない。結成の具体的な月日は未確認のため、1978年のみの記録（架空の日付は付けない）。",
+      "note": "1978年、第15回ヤマハポピュラーソングコンテストを契機にChageとASKAが組むことになった。ASKA公式BIOGRAPHYには「九州、中国地区大会」でグランプリ獲得、CHAGE & ASKA結成と記載されている。一方、Chageのプロフィールや当人の回想では、Chageが福岡大会でグランプリ、ASKAが最優秀歌唱賞を受賞し、ヤマハ担当者の提案で二人が組んだという経緯が語られている。大会の段階・受賞の説明には差異があるため、本記録ではいずれかに断定しない。結成の具体的な月日は未確認のため、1978年のみの記録（架空の日付は付けない）。 ／ ヤマハ音楽振興会の第15回本選会資料の日付（1978年5月7日）は地区大会・結成の日時を示すものではない。",
       "sources": [
         {
           "label": "ASKA公式BIOGRAPHY（1978年の記述）",
@@ -25,9 +25,18 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（二次資料・大会の経緯）",
           "url": "https://jfn-pods.com/person/show/1053"
+        },
+        {
+          "label": "ヤマハ音楽振興会｜第15回ポプコン本選会資料",
+          "url": "https://www.yamaha-mf.or.jp/history/e-history/popcon/pop15.html"
+        },
+        {
+          "label": "公演配信サービス掲載プロフィール（地区大会の経緯）",
+          "url": "https://www.mahocast.com/chage/about"
         }
       ],
-      "description": "1978年のポピュラーソングコンテストが、ChageとASKAが二人で活動する契機になった。\n本人の回想では、ChageとASKAがそれぞれ大会に参加し、ヤマハ担当者の提案で二人が組んだ経緯が語られている。 受賞した大会や賞の説明には公式プロフィールとの違いがあるため、原資料を参照する必要がある。 結成の正確な月日は現在も確認できていない。"
+      "description": "1978年のポピュラーソングコンテストが、ChageとASKAが二人で活動する契機になった。\n本人の回想では、ChageとASKAがそれぞれ大会に参加し、ヤマハ担当者の提案で二人が組んだ経緯が語られている。 受賞した大会や賞の説明には公式プロフィールとの違いがあるため、原資料を参照する必要がある。 結成の正確な月日は現在も確認できていない。",
+      "featured": true
     },
     {
       "id": "amateur-popcon16-1978-1001",
@@ -40,11 +49,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "status": "recorded",
       "verification": "primary",
-      "note": "デビュー前のアマチュア活動。当時の出場名義は「チャゲ&飛鳥」。1978年10月1日の第16回ポピュラーソングコンテストつま恋本選会で「流恋情歌」が入賞。主催者公式の受賞結果に基づく。テレビの放送日とは異なる。",
+      "note": "デビュー前のアマチュア活動。当時の出場名義は「チャゲ&飛鳥」。1978年10月1日の第16回ポピュラーソングコンテストつま恋本選会で「流恋情歌」が入賞。主催者公式の受賞結果に基づく。テレビの放送日とは異なる。 ／ 主催者の受賞結果では九州支部、作詞・作曲は飛鳥涼。グランプリではなく入賞。",
       "sources": [
         {
           "label": "ヤマハ音楽振興会｜第16回ポピュラーソングコンテスト受賞結果",
           "url": "https://www.yamaha-mf.or.jp/history/e-history/popcon/pop16.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
         }
       ],
       "description": "1978年10月1日、デビュー前のチャゲ＆飛鳥が第16回ポピュラーソングコンテストつま恋本選会に「流恋情歌」で出場し、入賞した。\n当時の出場名義は「チャゲ&飛鳥」だった。"
@@ -128,11 +141,15 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "status": "recorded",
       "verification": "primary",
-      "note": "デビュー前のアマチュア活動。当時の出場名義は「チャゲ&飛鳥」。1979年5月6日の第17回ポピュラーソングコンテストつま恋本選会で「ひとり咲き」が入賞。1979年8月25日のレコード発売・デビューとは別記録。",
+      "note": "デビュー前のアマチュア活動。当時の出場名義は「チャゲ&飛鳥」。1979年5月6日の第17回ポピュラーソングコンテストつま恋本選会で「ひとり咲き」が入賞。1979年8月25日のレコード発売・デビューとは別記録。 ／ 主催者の受賞結果では九州支部、作詞・作曲は飛鳥涼、編曲は大村雅朗。グランプリではなく入賞。",
       "sources": [
         {
           "label": "ヤマハ音楽振興会｜第17回ポピュラーソングコンテスト受賞結果",
           "url": "https://www.yamaha-mf.or.jp/history/e-history/popcon/pop17.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
         }
       ],
       "description": "1979年5月6日、デビュー前のチャゲ＆飛鳥が第17回ポピュラーソングコンテストつま恋本選会に「ひとり咲き」で出場し、入賞した。\n当時の出場名義は「チャゲ&飛鳥」だった。"
@@ -214,7 +231,8 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
-      "description": "1979年8月25日、チャゲ＆飛鳥、『ひとり咲き』でデビューした。"
+      "description": "1979年8月25日、チャゲ＆飛鳥、『ひとり咲き』でデビューした。",
+      "featured": true
     },
     {
       "id": "media-v17-1979-005",
@@ -30277,22 +30295,33 @@ window.CA_EVENT_DATA = {
       "id": "release-audit-v203-20261118-chage-tsuki-book-first-1994",
       "date": "1994-11-01",
       "artist": "Chage",
-      "category": "release",
+      "category": "book",
       "title": "『月が言い訳をしてる』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：書籍・単行本。幻冬舎刊、単行本、ISBN 9784877280307。出版社の書誌による発売日。Wikipedia等に11月4日表記もあるが本記録では出版社記載を採用。",
+      "note": "作品形態：書籍・単行本。幻冬舎刊、単行本、ISBN 9784877280307。出版社の書誌による発売日。Wikipedia等に11月4日表記もあるが本記録では出版社記載を採用。 ／ 四六判・232ページ。初のエッセイ集。出版社公式の発売日は11月1日、Chage公式年表の発表日は11月4日。発売日は出版社を優先。",
       "sources": [
         {
           "label": "幻冬舎公式｜月が言い訳をしてる（単行本）",
           "url": "https://www.gentosha.co.jp/book/detail/9784877280307/"
+        },
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/1994.php"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "書籍（単行本）",
       "releaseTitle": "月が言い訳をしてる",
-      "description": "1994年11月1日、Chageの『月が言い訳をしてる』が発売された。"
+      "description": "1994年11月1日、Chageの『月が言い訳をしてる』が発売された。",
+      "publisher": "幻冬舎",
+      "format": "単行本・エッセイ",
+      "isbn": "9784877280307"
     },
     {
       "id": "release-v06-1994-11-16-128",
@@ -32768,24 +32797,35 @@ window.CA_EVENT_DATA = {
     },
     {
       "id": "v1829-1996-0727-asia-tour-book",
-      "date": "1996-07-27",
+      "date": "1996-08-02",
       "artist": "CHAGE and ASKA",
-      "category": "release",
-      "title": "書籍『CHAGE and ASKA DOCUMENT ―アジアツアーの真実―』発売",
+      "category": "book",
+      "title": "CHAGE&ASKA DOCUMENT――ASIAN TOURの真実――",
       "status": "released",
       "verification": "primary",
-      "note": "アジアツアーを記録した書籍の刊行日。ライブ開催日ではない。",
+      "note": "アジアツアーを記録した書籍の刊行日。ライブ開催日ではない。 ／ 出版社公式は8月2日、アーティスト公式年表は7月27日。出版社の発売日を採用。 ／ 旧登録日：1996-07-27（公式年表）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "幻冬舎公式",
+          "url": "https://www.gentosha.co.jp/book/detail/9784877281243/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "書籍",
-      "releaseTitle": "CHAGE and ASKA DOCUMENT ―アジアツアーの真実―",
-      "description": "1996年7月27日、CHAGE and ASKAの『CHAGE and ASKA DOCUMENT ―アジアツアーの真実―』が発売された。"
+      "releaseTitle": "CHAGE&ASKA DOCUMENT――ASIAN TOURの真実――",
+      "description": "CHAGE&ASKA DOCUMENT――ASIAN TOURの真実――（ドキュメント本／幻冬舎）が刊行された。",
+      "format": "ドキュメント本",
+      "publisher": "幻冬舎",
+      "isbn": "9784877281243"
     },
     {
       "id": "v1829-1996-0731-one-voice-japan",
@@ -32909,24 +32949,36 @@ window.CA_EVENT_DATA = {
     },
     {
       "id": "v1829-1996-1107-aska-interview-book",
-      "date": "1996-11-07",
+      "date": "1996-12-06",
       "artist": "ASKA",
-      "category": "release",
-      "title": "ASKAエッセイ集『インタビュー』発売",
+      "category": "book",
+      "title": "インタビュー",
       "status": "released",
       "verification": "primary",
-      "note": "ASKA本人によるエッセイ集の刊行日。",
+      "note": "ASKA本人によるエッセイ集の刊行日。 ／ 著：飛鳥涼。出版社公式は12月6日、アーティスト公式HISTORYは11月7日。出版社の日付を採用。 ／ 旧登録日：1996-11-07（公式年表）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "幻冬舎公式",
+          "url": "https://www.gentosha.co.jp/book/detail/9784877281366/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "書籍（エッセイ集）",
       "releaseTitle": "インタビュー",
-      "description": "1996年11月7日、ASKAの『インタビュー』が発売された。"
+      "description": "『インタビュー』（単行本・エッセイ／幻冬舎）が刊行・発売された。",
+      "format": "単行本・エッセイ",
+      "publisher": "幻冬舎",
+      "isbn": "9784877281366",
+      "edition": "単行本"
     },
     {
       "id": "media-v18231-1996-11-08-chage-001",
@@ -33666,22 +33718,33 @@ window.CA_EVENT_DATA = {
       "id": "release-audit-v203-20261118-chage-tsuki-book-paperback-1997",
       "date": "1997-04-10",
       "artist": "Chage",
-      "category": "release",
+      "category": "book",
       "title": "『月が言い訳をしてる（幻冬舎文庫）』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：書籍・文庫版。文庫版、ISBN 9784877284268。1994年の単行本と区別。出版社書誌では4月10日、他の一覧には4月1日等の表記差がある。",
+      "note": "作品形態：書籍・文庫版。文庫版、ISBN 9784877284268。1994年の単行本と区別。出版社書誌では4月10日、他の一覧には4月1日等の表記差がある。 ／ 文庫判・196ページ（出版社公式）。単行本とは別版。書店資料には8月5日という異なる日付もあるが、出版社公式の発売日を採用。",
       "sources": [
         {
           "label": "幻冬舎公式｜月が言い訳をしてる（文庫）",
           "url": "https://www.gentosha.co.jp/book/detail/9784877284268/"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://www.maruzenjunkudo.co.jp/products/9784877284268"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "書籍（文庫）",
       "releaseTitle": "月が言い訳をしてる（幻冬舎文庫）",
-      "description": "1997年4月10日、Chageの『月が言い訳をしてる（幻冬舎文庫）』が発売された。"
+      "description": "1997年4月10日、Chageの『月が言い訳をしてる（幻冬舎文庫）』が発売された。",
+      "publisher": "幻冬舎文庫",
+      "format": "文庫",
+      "isbn": "9784877284268"
     },
     {
       "id": "live-aska-id-1997-003",
@@ -34202,22 +34265,27 @@ window.CA_EVENT_DATA = {
       "id": "v18210-1997-0807-three-aska-book",
       "date": "1997-08-07",
       "artist": "ASKA",
-      "category": "release",
+      "category": "book",
       "title": "ASKA単行本『三人のASKA』ファンクラブ限定販売",
       "status": "released",
       "verification": "primary",
-      "note": "公式HISTORYに記載の書籍。映像作品『共謀者』とは別アイテム。",
+      "note": "公式HISTORYに記載の書籍。映像作品『共謀者』とは別アイテム。 ／ 公式HISTORYに1997年8月7日ファンクラブオリジナル販売と記載。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "書籍（ファンクラブ限定）",
       "releaseTitle": "三人のASKA",
-      "description": "1997年8月7日、ASKAの『三人のASKA』が発売された。"
+      "description": "1997年8月7日、ASKAの『三人のASKA』が発売された。",
+      "format": "FC限定本／写真集寄り"
     },
     {
       "id": "v18210-1997-1009-chage-kai-guest",
@@ -42444,14 +42512,19 @@ window.CA_EVENT_DATA = {
       "title": "インターネット「COSMO EARTH CONSCIOUS ACT」ライブ中継",
       "status": "recorded",
       "verification": "secondary",
-      "note": "インターネット放送 iiV。同日日本武道館公演のインターネット生中継。公演と放送は区別。（二次資料非公式記録。放送局の一次資料は未照合。）",
+      "note": "インターネット放送 iiV。同日日本武道館公演のインターネット生中継。公演と放送は区別。（二次資料非公式記録。放送局の一次資料は未照合。） ／ 当時の報道では18:30から無料のインターネット中継を告知。ブロードバンド用・ナローバンド用を用意。iiVでのリアルタイム中継は二次資料の放送記録による。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
+        },
+        {
+          "label": "当時の報道資料（2002年4月19日）",
+          "url": "https://www.itmedia.co.jp/broadband/rbb/0204/19/rbb_0419_08.html"
         }
       ],
-      "description": "2002年4月22日、CHAGE and ASKAが取り上げられたテレビ番組「COSMO EARTH CONSCIOUS ACT」が放送された。"
+      "description": "2002年4月22日、CHAGE and ASKAが取り上げられたテレビ番組「COSMO EARTH CONSCIOUS ACT」が放送された。",
+      "broadcastStation": "iiV (internet interactive TV)"
     },
     {
       "id": "media-v18212-2002-0422-earth-radio",
@@ -42744,14 +42817,19 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「コスモ アースコンシャスアクト」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ721。4月22日の日本武道館公演の放送。BoA・倖田來未・INSPiらと同イベント出演。（二次資料非公式記録。放送局の一次資料は未照合。）",
+      "note": "フジテレビ721。4月22日の日本武道館公演の放送。BoA・倖田來未・INSPiらと同イベント出演。（二次資料非公式記録。放送局の一次資料は未照合。） ／ 2002年4月22日の日本武道館公演の映像放送。放送日は二次資料で確認。放送局の当時の番組表は未確認。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/70.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://mixi.jp/view_bbs.pl?comm_id=2069771&id=17465785"
         }
       ],
-      "description": "2002年5月19日、CHAGE and ASKAが出演したテレビ番組「コスモ アースコンシャスアクト」が放送された。"
+      "description": "2002年5月19日、CHAGE and ASKAが出演したテレビ番組「コスモ アースコンシャスアクト」が放送された。",
+      "broadcastStation": "フジテレビ721"
     },
     {
       "id": "live-not-at-all-arena-2002-009",
@@ -44955,14 +45033,23 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MEET THE WORLD BEAT 2003」ライブ中継・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "スペースシャワーTV。同日に万博記念公園で開催された野外イベントをCSで生中継。実際の野外公演とは別の放送記録。（二次資料の記録、放送局一次資料は未照合。）",
+      "note": "スペースシャワーTV。同日に万博記念公園で開催された野外イベントをCSで生中継。実際の野外公演とは別の放送記録。（二次資料の記録、放送局一次資料は未照合。） ／ CSテレビ生中継。放送日と媒体は二次資料による確認。放送局の当時の番組表・放送時刻は未確認。会場公演とは別記録。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://song2.sakura.ne.jp/tv03.html"
+        },
+        {
+          "label": "FM802公式アーカイブ（公演情報）",
+          "url": "https://funky802.com/meet/archive/detail.php?year=2003"
         }
       ],
-      "description": "2003年7月27日、CHAGE and ASKAが取り上げられたテレビ番組「MEET THE WORLD BEAT 2003」が放送された。"
+      "description": "2003年7月27日、CHAGE and ASKAが取り上げられたテレビ番組「MEET THE WORLD BEAT 2003」が放送された。",
+      "broadcastStation": "スペースシャワーTV"
     },
     {
       "id": "release-v08-004",
@@ -45211,14 +45298,15 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「RISING SUN ROCK FESTIVAL 2003 in EZO #2」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ721。8月の野外イベント映像を放送。本番の2003年8月16日とは別日。（二次資料の記録、放送局一次資料は未照合。）",
+      "note": "フジテレビ721。8月の野外イベント映像を放送。本番の2003年8月16日とは別日。（二次資料の記録、放送局一次資料は未照合。） ／ 2003年8月16日の公演に関する収録映像の放送。放送日・放送局・出演映像は二次資料による確認。放送局の当時の番組表・放送時刻は未確認。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ],
-      "description": "2003年10月4日、CHAGE and ASKAが出演したテレビ番組「RISING SUN ROCK FESTIVAL 2003 in EZO #2」が放送された。"
+      "description": "2003年10月4日、CHAGE and ASKAが出演したテレビ番組「RISING SUN ROCK FESTIVAL 2003 in EZO #2」が放送された。",
+      "broadcastStation": "フジテレビ721"
     },
     {
       "id": "live-extra-2003-10-13-01",
@@ -45680,11 +45768,11 @@ window.CA_EVENT_DATA = {
       "id": "event-v08-005",
       "date": "2004-03-25",
       "artist": "CHAGE and ASKA",
-      "category": "release",
+      "category": "book",
       "title": "歌詞集『two-five』発売",
       "status": "released",
       "verification": "primary",
-      "note": "音源・映像作品ではない出版物\n【第37回・発売分類補正】2004年3月25日発売の公式歌詞集。1979年から2003年までの258曲の歌詞を収録。音源ではなく書籍だが、作品発売日のため「発売」分類へ変更。公式通販のC004801はショップ商品管理コードとみなし、ISBN・規格品番には転記しない。",
+      "note": "音源・映像作品ではない出版物\n【第37回・発売分類補正】2004年3月25日発売の公式歌詞集。1979年から2003年までの258曲の歌詞を収録。音源ではなく書籍だが、作品発売日のため「発売」分類へ変更。公式通販のC004801はショップ商品管理コードとみなし、ISBN・規格品番には転記しない。 ／ 25周年期の歌詞集。A5・476ページ（提供台帳）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
@@ -45697,13 +45785,19 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式通販（作品概要）",
           "url": "https://chageandaskaproducts.net/products/c004801"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "releaseTitle": "CHAGE&ASKA 歌詞集 two-five",
       "releaseFormat": "書籍（歌詞集）",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
-      "description": "2004年3月25日、CHAGE and ASKAの『two-five』が発売された。"
+      "description": "2004年3月25日、CHAGE and ASKAの『two-five』が発売された。",
+      "publisher": "アスペクト／公式通販",
+      "format": "歌詞集"
     },
     {
       "id": "release-v08-010",
@@ -52277,7 +52371,8 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "description": "2009年1月30日、CHAGE and ASKA 活動休止・ソロ活動継続を発表。"
+      "description": "2009年1月30日、CHAGE and ASKA 活動休止・ソロ活動継続を発表。",
+      "featured": true
     },
     {
       "id": "live-extra-2009-popular-week-01",
@@ -52610,22 +52705,41 @@ window.CA_EVENT_DATA = {
       "id": "release-2009-kasha-photobook",
       "date": "2009-04-10",
       "artist": "Chage",
-      "category": "release",
-      "title": "『歌写（かしゃッ）！♪ ～写真で綴る幸せな音符～』発売",
-      "releaseTitle": "歌写（かしゃッ）！♪ ～写真で綴る幸せな音符～",
+      "category": "book",
+      "title": "歌写（かしゃッ）！♪ 写真で綴る幸せな音符",
+      "releaseTitle": "歌写（かしゃッ）！♪ 写真で綴る幸せな音符",
       "status": "released",
       "verification": "primary",
-      "note": "写真集",
+      "note": "写真集 ／ 112ページ。初の写真集。Chage公式は4月10日、書店資料は4月8日。公式ディスコグラフィーの日付を採用。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/chage/book/001.php"
+        },
+        {
+          "label": "出版書誌データベース",
+          "url": "https://www.books.or.jp/book-details/9784584131565"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://www.maruzenjunkudo.co.jp/products/9784584131565"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "写真集",
-      "description": "2009年4月10日、Chageの『歌写（かしゃッ）！♪ ～写真で綴る幸せな音符～』が発売された。"
+      "description": "歌写（かしゃッ）！♪ 写真で綴る幸せな音符（写真集／KKベストセラーズ）が発売された。",
+      "format": "写真集",
+      "publisher": "KKベストセラーズ",
+      "isbn": "9784584131565"
     },
     {
       "id": "live-aska-walk-2009-006",
@@ -52675,11 +52789,11 @@ window.CA_EVENT_DATA = {
       "id": "other-v18216-2009-001",
       "date": "2009-04-12",
       "artist": "Chage",
-      "category": "other",
+      "category": "milestone",
       "title": "写真集『歌写』発売記念サイン会",
       "status": "recorded",
       "verification": "primary",
-      "note": "紀伊國屋書店新宿南店で開催。4月10日の写真集発売とは別の出来事。",
+      "note": "紀伊國屋書店新宿南店で開催。4月10日の写真集発売とは別の出来事。 ／ 出版記念イベントとして分類を統一。書籍発売記録とは別。",
       "sources": [
         {
           "label": "公式資料",
@@ -59501,22 +59615,37 @@ window.CA_EVENT_DATA = {
       "id": "v11-other-006",
       "date": "2012-10-16",
       "artist": "ASKA",
-      "category": "release",
+      "category": "book",
       "title": "『ぴあ＆ASKA』発売",
       "status": "released",
       "verification": "primary",
-      "note": "音楽関連ムック『ぴあ＆ASKA』発売。雑誌・書籍の発売記録として分類。 【第44回・公式資料点検】公式HISTORYに2012年10月16日のムック発売が明記されるため、発売記録の状態を released に統一。既存の分類・日付・IDは変更しない。",
+      "note": "音楽関連ムック『ぴあ＆ASKA』発売。雑誌・書籍の発売記録として分類。 【第44回・公式資料点検】公式HISTORYに2012年10月16日のムック発売が明記されるため、発売記録の状態を released に統一。既存の分類・日付・IDは変更しない。 ／ ASKA初の単独MOOK。公式HISTORYで10月16日発売、ぴあ公式10月19日付発売中の告知。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "ぴあ公式",
+          "url": "https://corporate.pia.jp/news/detail__askamookaska.html"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://tower.jp/item/3159258"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "ムック（書籍）",
       "releaseTitle": "ぴあ＆ASKA",
-      "description": "2012年10月16日、ASKAの『ぴあ＆ASKA』が発売された。"
+      "description": "2012年10月16日、ASKAの『ぴあ＆ASKA』が発売された。",
+      "publisher": "ぴあ",
+      "format": "MOOK",
+      "edition": "紙版"
     },
     {
       "id": "v11-release-016",
@@ -59933,7 +60062,8 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
-      "description": "2013年1月25日、CHAGE and ASKAの活動再開を発表。"
+      "description": "2013年1月25日、CHAGE and ASKAの活動再開を発表。",
+      "featured": true
     },
     {
       "id": "live-v11-aska-rocket-2013-009",
@@ -64019,22 +64149,42 @@ window.CA_EVENT_DATA = {
       "id": "v13-release-002",
       "date": "2017-03-17",
       "artist": "ASKA",
-      "category": "release",
-      "title": "書籍『700番 第一巻』発売",
+      "category": "book",
+      "title": "700番 第一巻（紙版）",
       "status": "released",
       "verification": "secondary",
-      "note": "",
+      "note": "紙版は丸善ジュンク堂書店の発売日2017年3月17日を採用。提供台帳の3月22日等とは相違あり。出版社・奥付の確認待ち。電子版は別記録。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2017"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://www.maruzenjunkudo.co.jp/products/9784594076801"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://tower.jp/item/4458314"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://books.rakuten.co.jp/rb/14697856/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "書籍",
-      "releaseTitle": "700番 第一巻",
-      "description": "2017年3月17日、ASKAの『700番 第一巻』が発売された。"
+      "releaseTitle": "700番 第一巻（紙版）",
+      "description": "2017年3月17日、ASKAの『700番 第一巻』が発売された。",
+      "format": "単行本",
+      "publisher": "扶桑社",
+      "isbn": "9784594076801",
+      "edition": "紙版"
     },
     {
       "id": "v13-ch17-omoto",
@@ -67448,11 +67598,11 @@ window.CA_EVENT_DATA = {
       "id": "release-v18220-022",
       "date": "2018-11-11",
       "artist": "Chage",
-      "category": "release",
+      "category": "book",
       "title": "公式写真集『Chage 20th Anniversary Live Photo Book』発売",
       "status": "released",
       "verification": "primary",
-      "note": "ソロ活動20周年記念ライブ写真集。公式Biographyの発売日で登録。CD・映像作品とは別の書籍。",
+      "note": "ソロ活動20周年記念ライブ写真集。公式Biographyの発売日で登録。CD・映像作品とは別の書籍。 ／ ソロ活動20周年記念。B5判・216ページ・布張りハードカバー。受注生産後に増刷販売。公式年表の発売日を採用。増刷の発売日は未確認。",
       "sources": [
         {
           "label": "公式資料",
@@ -67461,13 +67611,23 @@ window.CA_EVENT_DATA = {
         {
           "label": "公式発売情報",
           "url": "https://chage.jp/information/release/?year=2018"
+        },
+        {
+          "label": "公式商品通販",
+          "url": "https://chageandaskaproducts.net/products/ymehbook-01"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "写真集",
       "releaseTitle": "Chage 20th Anniversary Live Photo Book",
-      "description": "2018年11月11日、Chageの『Chage 20th Anniversary Live Photo Book』が発売された。"
+      "description": "2018年11月11日、Chageの『Chage 20th Anniversary Live Photo Book』が発売された。",
+      "publisher": "公式通販",
+      "format": "公式写真集"
     },
     {
       "id": "v13-release-025",
@@ -68407,22 +68567,33 @@ window.CA_EVENT_DATA = {
       "id": "v13-release-030",
       "date": "2019-03-22",
       "artist": "ASKA",
-      "category": "release",
+      "category": "book",
       "title": "書籍『ASKA 書きおろし詩集』発売",
       "status": "released",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "出版社公式で3月22日発売を確認。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2019"
+        },
+        {
+          "label": "双葉社公式",
+          "url": "https://www.futabasha.co.jp/introduction/2019/aska/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "書籍（詩集）",
       "releaseTitle": "ASKA 書きおろし詩集",
-      "description": "2019年3月22日、ASKAの『ASKA 書きおろし詩集』が発売された。"
+      "description": "2019年3月22日、ASKAの『ASKA 書きおろし詩集』が発売された。",
+      "publisher": "双葉社",
+      "format": "詩集",
+      "edition": "紙版"
     },
     {
       "id": "v13-aska19-made-in-012",
@@ -69248,7 +69419,8 @@ window.CA_EVENT_DATA = {
           "url": "https://archive.fellows.tokyo/blog/?id=1619"
         }
       ],
-      "description": "2019年8月25日、ASKAがCHAGE and ASKAからの脱退を表明。"
+      "description": "2019年8月25日、ASKAがCHAGE and ASKAからの脱退を表明。",
+      "featured": true
     },
     {
       "id": "v13-ch19-feedback-001",
@@ -69421,22 +69593,33 @@ window.CA_EVENT_DATA = {
       "id": "v13-release-034",
       "date": "2019-09-26",
       "artist": "ASKA",
-      "category": "release",
+      "category": "book",
       "title": "電子書籍『ASKA 書きおろし詩集』配信開始",
       "status": "released",
-      "verification": "secondary",
-      "note": "",
+      "verification": "primary",
+      "note": "双葉社の発表による電子版の順次販売開始日。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2019"
+        },
+        {
+          "label": "双葉社公式プレスリリース",
+          "url": "https://prtimes.jp/main/html/rd/p/000000142.000014531.html"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "電子書籍",
       "releaseTitle": "ASKA 書きおろし詩集",
-      "description": "2019年9月26日、ASKAの『ASKA 書きおろし詩集』の配信が開始された。"
+      "description": "2019年9月26日、ASKAの『ASKA 書きおろし詩集』の配信が開始された。",
+      "publisher": "双葉社",
+      "format": "電子書籍",
+      "edition": "電子書籍版"
     },
     {
       "id": "media-v18230-2019-10-08-chage-001",
@@ -70029,11 +70212,11 @@ window.CA_EVENT_DATA = {
       "id": "v14-chage2020-seo",
       "date": "2020-02-16",
       "artist": "Chage",
-      "category": "other",
+      "category": "milestone",
       "title": "瀬尾一三『音楽と契約した男 瀬尾一三』出版記念トークイベント出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "【2019〜2020年公式点検】音楽関連トークイベント。通常のライブ公演とは区別。",
+      "note": "【2019〜2020年公式点検】音楽関連トークイベント。通常のライブ公演とは区別。 ／ 出版記念イベントとして分類を統一。書籍発売記録とは別。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -70470,36 +70653,28 @@ window.CA_EVENT_DATA = {
       "date": "2020-06-16",
       "artist": "Chage",
       "category": "live",
-      "title": "配信LIVE「川島ケイジの君のために歌いマホ」Vol.4 ゲスト出演",
+      "title": "川島ケイジの「君のために歌いマホ」Special Stage with Chage 生配信",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "mahocastで無料生配信。公式告知の出演予定時刻は22:40～23:00。アーカイブ視聴は生配信後から6月23日23:00まで（公式告知）。 ／ 統合前の調査記録：Chage公式年譜によるゲスト配信出演。",
       "sources": [
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2020.php"
-        }
-      ],
-      "venue": "オンライン配信",
-      "description": "2020年6月16日、Chageの「配信LIVE「川島ケイジの君のために歌いマホ」Vol.4 ゲスト出演」がオンライン配信で開催された。"
-    },
-    {
-      "id": "v18221-2020-06-16-chage-078",
-      "date": "2020-06-16",
-      "artist": "Chage",
-      "category": "live",
-      "title": "配信ライブ「川島ケイジの君のために歌いマホ」Vol.4 ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "Chage公式年譜によるゲスト配信出演。",
-      "sources": [
+        },
         {
-          "label": "主催・アーティスト公式資料",
-          "url": "https://chage.jp/biography/2020.php"
+          "label": "mahocast公式配信履歴",
+          "url": "https://www.mahocast.com/chage/live"
+        },
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-396.php"
         }
       ],
       "venue": "オンライン配信",
-      "description": "2020年6月16日、Chageの「配信ライブ「川島ケイジの君のために歌いマホ」Vol.4 ゲスト出演」がオンライン配信で開催された。"
+      "description": "2020年6月16日、Chageが川島ケイジの無観客ライブ配信にスペシャルゲストとして出演した。",
+      "prefecture": "",
+      "broadcastStation": "mahocast"
     },
     {
       "id": "v18221-2020-06-19-aska-037",
@@ -70544,36 +70719,28 @@ window.CA_EVENT_DATA = {
       "date": "2020-07-14",
       "artist": "Chage",
       "category": "live",
-      "title": "配信LIVE「川島ケイジの君のために歌いマホ」Vol.5 ゲスト出演",
+      "title": "川島ケイジの「君のために歌いマホ」Special Stage with Chage ～第2弾～ 生配信",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "mahocastでの生配信。配信サービス公式履歴では第2弾として掲載。Chage出演部分の開始時刻・アーカイブ期間は未確認。 ／ 統合前の調査記録：Chage公式年譜によるゲスト配信出演。",
       "sources": [
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2020.php"
-        }
-      ],
-      "venue": "オンライン配信",
-      "description": "2020年7月14日、Chageの「配信LIVE「川島ケイジの君のために歌いマホ」Vol.5 ゲスト出演」がオンライン配信で開催された。"
-    },
-    {
-      "id": "v18221-2020-07-14-chage-079",
-      "date": "2020-07-14",
-      "artist": "Chage",
-      "category": "live",
-      "title": "配信ライブ「川島ケイジの君のために歌いマホ」Vol.5 ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "Chage公式年譜によるゲスト配信出演。",
-      "sources": [
+        },
         {
-          "label": "主催・アーティスト公式資料",
-          "url": "https://chage.jp/biography/2020.php"
+          "label": "mahocast公式配信履歴",
+          "url": "https://www.mahocast.com/chage/live"
+        },
+        {
+          "label": "mahocast公式番組情報",
+          "url": "https://www.mahocast.com/KeijiKawashima/live/3940"
         }
       ],
       "venue": "オンライン配信",
-      "description": "2020年7月14日、Chageの「配信ライブ「川島ケイジの君のために歌いマホ」Vol.5 ゲスト出演」がオンライン配信で開催された。"
+      "description": "2020年7月14日、Chageが川島ケイジの無観客ライブ配信に再びゲスト出演した。",
+      "prefecture": "",
+      "broadcastStation": "mahocast"
     },
     {
       "id": "v14-release-005",
@@ -71317,15 +71484,36 @@ window.CA_EVENT_DATA = {
       "title": "equal大感謝祭「Chage Christmas Party 2020」をChageと一緒にDuooooo!!!",
       "status": "recorded",
       "verification": "primary",
-      "note": "生配信ファンクラブイベント 【2021〜2022年公式点検】2020年の公演を題材とした2021年2月の生配信企画。2020年12月の有観客公演とは別。",
+      "note": "生配信ファンクラブイベント 【2021〜2022年公式点検】2020年の公演を題材とした2021年2月の生配信企画。2020年12月の有観客公演とは別。 ／ 配信イベントは20:00～21:30予定（公式告知）。会員向けチケット5,000円。完全版と実況付き映像のアーカイブ期間は2021年2月19日10:00～2月21日23:59。公式実施報告・mahocast個別ページともに2月14日。収録ステージは未特定。",
       "sources": [
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2021.php"
+        },
+        {
+          "label": "Chage公式実施・アーカイブ案内",
+          "url": "https://chage.jp/information/live/detail-428.php"
+        },
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-423.php"
+        },
+        {
+          "label": "mahocast公式配信情報",
+          "url": "https://www.mahocast.com/chage/live/6179"
+        },
+        {
+          "label": "mahocast公式イベント一覧",
+          "url": "https://www.mahocast.com/chage/live"
+        },
+        {
+          "label": "会場公式公演日程",
+          "url": "https://www.billboard-live.com/yokohama/schedules?month=2020-12-01"
         }
       ],
       "venue": "オンライン配信",
-      "description": "2021年2月14日、Chageの「equal大感謝祭「Chage Christmas Party 2020」をChageと一緒にDuooooo!!!」がオンライン配信で開催された。"
+      "description": "2021年2月14日、Chageの「equal大感謝祭「Chage Christmas Party 2020」をChageと一緒にDuooooo!!!」がオンライン配信で開催された。",
+      "broadcastStation": "mahocast"
     },
     {
       "id": "v14-media-ch21-005",
@@ -73557,35 +73745,27 @@ window.CA_EVENT_DATA = {
       "description": "2022年3月4日、Chageが出演したラジオ番組「AMAZING TOYAMA 写真部」が放送された。"
     },
     {
-      "id": "other-v18229-2022-03-20-chage-001",
-      "date": "2022-03-20",
-      "artist": "Chage",
-      "category": "other",
-      "title": "川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～ 振替公演",
-      "venue": "",
-      "prefecture": "",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "公式資料",
-          "url": "https://chage.jp/biography/2022.php"
-        }
-      ],
-      "startTime": "17:00",
-      "description": "2022年3月20日、川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～ 振替公演。"
-    },
-    {
       "id": "v14-chage2022-kawashima",
       "date": "2022-03-20",
       "artist": "Chage",
       "category": "live",
-      "title": "川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～ 振替公演",
+      "title": "川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～",
       "status": "recorded",
       "verification": "primary",
-      "note": "ゲスト出演。会場詳細未確認 【2021〜2022年公式点検】2020年企画からの振替ゲスト出演。",
+      "note": "2020年3月22日の当初予定から複数回延期された振替公演。16:00開場、17:00開演（公式告知）。後日の映像配信は4月29日から5月18日21:00へ延期と告知された。配信実施は別途確認する。 ／ 統合前の調査記録：ゲスト出演。会場詳細未確認 【2021〜2022年公式点検】2020年企画からの振替ゲスト出演。",
       "sources": [
+        {
+          "label": "equal公式振替公演告知",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7359"
+        },
+        {
+          "label": "Chage公式スタッフ実施報告",
+          "url": "https://chage.jp/staffmemo/%E5%92%8C%E6%AD%8C%E5%B1%B1%E3%81%B8%E8%A1%8C%E3%81%A3%E3%81%A6%E5%8F%82%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82/"
+        },
+        {
+          "label": "equal公式配信日変更告知",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7373"
+        },
         {
           "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2022.php"
@@ -73595,8 +73775,10 @@ window.CA_EVENT_DATA = {
           "url": "https://kawashimakeiji.fanpla.jp/"
         }
       ],
-      "venue": "紀南文化会館大ホール",
-      "description": "2022年3月20日、Chageが紀南文化会館大ホールで「川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～ 振替公演」のステージに立った。 ゲスト出演。 2020年企画からの振替ゲスト出演。"
+      "venue": "紀南文化会館 大ホール",
+      "description": "2022年3月20日、Chageが紀南文化会館で開催された川島ケイジのコンサートにゲスト出演した。",
+      "prefecture": "和歌山県",
+      "startTime": "17:00"
     },
     {
       "id": "v14-aska-2022-encore-011",
@@ -74376,20 +74558,28 @@ window.CA_EVENT_DATA = {
       "id": "v18222-2022-10-17-chage-087",
       "date": "2022-10-17",
       "artist": "Chage",
-      "category": "live",
-      "title": "PREMIUM PHILHARMONIC ORCHESTRA feat. Chage、川島ケイジ 出演",
+      "category": "media",
+      "title": "PREMIUM PHILHARMONIC ORCHESTRA CONCERT feat. Chage 川島ケイジ 生配信",
       "status": "recorded",
-      "verification": "primary",
-      "note": "管弦楽団との共演。",
+      "verification": "secondary",
+      "note": "当日生配信は提供情報による。10月12日付の番組公式記事に配信案内があり、配信視聴の参考記録もある。当日の配信サービス（CURTAIN CALLかどうか）・開始時刻は原資料未確認。後日のアーカイブ配信とは別。会場公演の記録ID：v14-chage2022-phil。",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
           "url": "https://chage.jp/biography/2022.php"
+        },
+        {
+          "label": "番組公式・配信案内（10月12日）",
+          "url": "https://jfn-pods.com/program/1974/article/JbpHz1URlf"
+        },
+        {
+          "label": "参考資料（非公式・視聴記録）",
+          "url": "https://ameblo.jp/chage-age/entry-12768203668.html"
         }
       ],
-      "venue": "東京芸術劇場 コンサートホール",
-      "prefecture": "東京都",
-      "description": "2022年10月17日、Chageの「PREMIUM PHILHARMONIC ORCHESTRA feat. Chage、川島ケイジ 出演」が東京芸術劇場 コンサートホールで開催された。"
+      "venue": "オンライン配信",
+      "prefecture": "",
+      "description": "2022年10月17日、東京芸術劇場コンサートホールで開催されたChage・川島ケイジの合同公演が生配信された。"
     },
     {
       "id": "v14-media-ch22-012",
@@ -86198,7 +86388,7 @@ window.CA_EVENT_DATA = {
       "artist": "ASKA",
       "category": "live",
       "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
-      "status": "scheduled",
+      "status": "recorded",
       "verification": "primary",
       "tourId": "aska-lock-on-2026-2027",
       "venue": "刈谷市総合文化センター 大ホール",
@@ -86206,14 +86396,22 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 17,
       "startTime": "18:30",
-      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演18:30。現時点では開催予定であり、開催済みを意味しない。",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演18:30。現時点では開催予定であり、開催済みを意味しない。 ／ 2026年11月25日の刈谷公演の実施をASKA公式ブログで利用者が確認。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
           "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        },
+        {
+          "label": "ASKA公式ブログ（公演実施確認）",
+          "url": "https://www.fellows.tokyo/blog/detail/1595/"
+        },
+        {
+          "label": "ASKA公式公演日程",
+          "url": "https://www.fellows.tokyo/schedule/detail/650"
         }
       ],
-      "description": "2026年11月25日、ASKAの「ASKA CONCERT TOUR 2026-2027 “Lock-on”」は、刈谷市総合文化センター 大ホールで開催される予定。\nこのツアーの第17公演にあたる。"
+      "description": "2026年11月25日、ASKAが刈谷市総合文化センター 大ホールで「ASKA CONCERT TOUR 2026-2027 “Lock-on”」を開催した。"
     },
     {
       "id": "v16-0018",
@@ -89776,22 +89974,33 @@ window.CA_EVENT_DATA = {
       "id": "release-audit-v2042-20250723-02",
       "date": "2025-07-23",
       "artist": "ASKA",
-      "category": "release",
+      "category": "book",
       "title": "『Who is ASKA !?』ドキュメンタリーブック第1弾発売",
       "releaseTitle": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- ドキュメンタリーブック",
       "releaseFormat": "書籍（ツアードキュメンタリーブック）",
       "status": "released",
       "verification": "primary",
-      "note": "【第42回・一次資料照合】当初の発売予定から延期され、7月23日に発売・順次発送。ツアー公演日とは別。",
+      "note": "【第42回・一次資料照合】当初の発売予定から延期され、7月23日に発売・順次発送。ツアー公演日とは別。 ／ 制作上の都合による延期後の発売日・発送開始日。2026年1月の公式告知でも2025年7月発売を確認。",
       "sources": [
         {
           "label": "公式・発売元・配信元の作品情報",
           "url": "https://www.fellows.tokyo/news/detail/444"
+        },
+        {
+          "label": "Fellows公式",
+          "url": "https://www.fellows.tokyo/news/detail/613"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
-      "description": "2025年7月23日、ASKAの『Who is ASKA !?』が発売された。"
+      "description": "2025年7月23日、ASKAの『Who is ASKA !?』が発売された。",
+      "publisher": "バーニッシュストーン",
+      "format": "公式本",
+      "edition": "通常版"
     },
     {
       "id": "release-audit-v2042-20250828-03",
@@ -89910,22 +90119,29 @@ window.CA_EVENT_DATA = {
       "id": "release-audit-v2042-20260128-08",
       "date": "2026-01-28",
       "artist": "ASKA",
-      "category": "release",
-      "title": "『Who is ASKA !?』ドキュメンタリーブック追加公演版・会場販売開始",
-      "releaseTitle": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- ドキュメンタリーブック encore performance edition",
+      "category": "book",
+      "title": "Who is ASKA!? ドキュメンタリーブック encore performance edition",
+      "releaseTitle": "Who is ASKA!? ドキュメンタリーブック encore performance edition",
       "releaseFormat": "書籍（追加公演版・会場販売開始）",
       "status": "released",
       "verification": "primary",
-      "note": "【第42回・一次資料照合】ECの予約開始日は1月21日13時。商品の発送は1月28日以降、劇場上映館での現物販売は1月28日。1月20日の告知日を発売日としない。",
+      "note": "【第42回・一次資料照合】ECの予約開始日は1月21日13時。商品の発送は1月28日以降、劇場上映館での現物販売は1月28日。1月20日の告知日を発売日としない。 ／ 追加公演7箇所の記録。B5・本文144ページ。1月21日13時予約販売開始、1月28日以降発送・同日映画館販売。",
       "sources": [
         {
           "label": "公式・発売元・配信元の作品情報",
           "url": "https://www.fellows.tokyo/news/detail/613"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
-      "description": "2026年1月28日、ASKAの『Who is ASKA !?』が発売された。"
+      "description": "『Who is ASKA!? ドキュメンタリーブック encore performance edition』（公式本／ASKA公式通販）が刊行・発売された。",
+      "format": "公式本",
+      "publisher": "ASKA公式通販",
+      "edition": "追加公演版"
     },
     {
       "id": "release-audit-v2042-20260409-09",
@@ -96498,7 +96714,7 @@ window.CA_EVENT_DATA = {
       "status": "recorded",
       "verification": "secondary",
       "country": "日本",
-      "note": "【2026年11月23日追補調査】村上啓介のアルバム配信開始を記念するライブが、2017年12月8日19:50からYouTubeで生配信されたことは公開元の動画タイトル・公開日・概要欄で確認。当日の視聴者レポートによりASKAのサプライズ出演、「ボージュナール」「いつかどこかで」「no no darlin’」の歌唱を照合。配信映像の演奏場面は調査環境で直接再生確認できていないため、出演確認区分はsecondaryとする。会場は特定できていないため空欄。別資料にある「12月17日」という放送日は混同の可能性があり採用しない。",
+      "note": "【2026年11月23日追補調査】村上啓介のアルバム配信開始を記念するライブが、2017年12月8日19:50からYouTubeで生配信されたことは公開元の動画タイトル・公開日・概要欄で確認。当日の視聴者レポートによりASKAのサプライズ出演、「ボージュナール」「いつかどこかで」「no no darlin’」の歌唱を照合。配信映像の演奏場面は調査環境で直接再生確認できていないため、出演確認区分はsecondaryとする。会場は特定できていないため空欄。別資料にある「12月17日」という放送日は混同の可能性があり採用しない。 ／ Burnish Stone公式動画の説明欄に12月8日19:50からの生配信と記載。ASKAの出演は翌日の視聴記録による確認。Weareはアルバム音源の配信先。会場名は未確認。別資料の12月17日表記は公式動画公開日および翌日の視聴記録と一致しない。",
       "sources": [
         {
           "label": "Burnish Stone公開の当日ライブ生配信映像",
@@ -96513,7 +96729,8 @@ window.CA_EVENT_DATA = {
           "url": "https://aska-burnishstone.hatenablog.com/entry/2017/12/09/102242"
         }
       ],
-      "description": "2017年12月8日、村上啓介のアルバム発売記念ライブがYouTubeで生配信され、ASKAがサプライズゲストとして歌唱した。映像の公開日時は確認済みで、会場名は未確認。"
+      "description": "2017年12月8日、村上啓介のアルバム発売記念ライブがYouTubeで生配信され、ASKAがサプライズゲストとして歌唱した。映像の公開日時は確認済みで、会場名は未確認。",
+      "broadcastStation": "YouTube"
     },
     {
       "id": "live-extra-2017-1222-aska-tanaka-xmas",
@@ -98101,7 +98318,4206 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/blog/detail/137/"
         }
       ]
+    },
+    {
+      "id": "chage-20230106-billboard-64to65-rakuten-stream",
+      "date": "2023-01-06",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "Chage Billboard Live “64 to 65” 生配信",
+      "description": "2023年1月6日にBillboard Live TOKYOで開催された「Chage Billboard Live “64 to 65”」がRakuten TVで独占ライブ配信された。",
+      "note": "Chageの65歳の誕生日当日で、年またぎツアーの最終日。会場公式では1st 17:30、2nd 20:30開演。配信対象は2ndステージ（二次資料確認）。見逃し配信は2023年1月24日22:00まで（Rakuten TV公式確認）。見逃し配信は2023年1月18日17:00開始（二次資料確認）。会場での公演記録とは別に掲載。",
+      "broadcastStation": "Rakuten TV",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Rakuten TV公式配信レポート",
+          "url": "https://news.tv.rakuten.co.jp/2023/01/chage-archive.html"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://www.billboard-live.com/tokyo/show?date=2023-01-06&event_id=ev-13703"
+        },
+        {
+          "label": "参考資料（非公式・公演記録）",
+          "url": "https://note.com/masshironouni/n/n8047961b5bfa"
+        }
+      ]
+    },
+    {
+      "id": "chage-20230118-billboard-64to65-rakuten-archive",
+      "date": "2023-01-18",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "Chage Billboard Live “64 to 65” アーカイブ配信開始",
+      "description": "2023年1月6日のBillboard Live TOKYO公演「Chage Billboard Live “64 to 65”」の見逃し配信がRakuten TVで開始された。",
+      "note": "見逃し配信期間は2023年1月18日17:00～1月24日22:00。1月18日の配信中の告知と終了日時はRakuten TV公式資料で確認。開始日・開始時刻は二次資料による確認。1月6日の生配信とは別記録。",
+      "broadcastStation": "Rakuten TV",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "Rakuten TV公式配信レポート",
+          "url": "https://news.tv.rakuten.co.jp/2023/01/chage-archive.html"
+        },
+        {
+          "label": "参考資料（非公式・公演記録）",
+          "url": "https://note.com/masshironouni/n/n8047961b5bfa"
+        }
+      ]
+    },
+    {
+      "id": "chage-20240106-billboard-65to66-streamingplus-live",
+      "date": "2024-01-06",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "Chage Billboard Live “65 to 66” 生配信",
+      "description": "2024年1月6日、ビルボードライブ東京で開催された「Chage Billboard Live “65 to 66”」の2ndステージがStreaming+で生配信された。",
+      "note": "Chageの66歳の誕生日当日、年またぎツアーの最終公演。1stステージ17:00、2ndステージ20:00開演。2ndステージをStreaming+で生配信（20:00開始、視聴開始19:30）。公式告知上のアーカイブ期間は2024年1月18日（準備完了後）～1月24日22:00。開始時刻は未公表。会場公演記録とは別に掲載。",
+      "broadcastStation": "Streaming+",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-592.php"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-14534"
+        }
+      ]
+    },
+    {
+      "id": "chage-20240118-billboard-65to66-streamingplus-archive",
+      "date": "2024-01-18",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "Chage Billboard Live “65 to 66” アーカイブ配信開始",
+      "description": "2024年1月6日のビルボードライブ東京公演「Chage Billboard Live “65 to 66”」2ndステージのアーカイブ配信開始日。",
+      "note": "Chage公式告知による配信期間は2024年1月18日（準備完了後）～1月24日22:00。開始時刻および当日の実際の公開時刻は未確認。1月6日の生配信とは別記録。",
+      "broadcastStation": "Streaming+",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-592.php"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-14534"
+        }
+      ]
+    },
+    {
+      "id": "chage-20250105-billboard-66to67-streamingplus-live",
+      "date": "2025-01-05",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa 生配信",
+      "description": "2025年1月5日、ビルボードライブ東京で開催された「Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa」の2ndステージがStreaming+で生配信された。",
+      "note": "石川優子を特別ゲストに迎えた東京公演。1stステージ17:00、2ndステージ20:00開演。配信対象は2ndステージ（20:00開始）。公式告知上の見逃し配信期間は2025年1月15日17:00～1月26日23:59。会場公演とは別記録。",
+      "broadcastStation": "Streaming+",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-685.php"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-20215"
+        },
+        {
+          "label": "Chage公式公演告知",
+          "url": "https://chage.jp/information/live/detail-659.php"
+        }
+      ]
+    },
+    {
+      "id": "chage-20250115-billboard-66to67-streamingplus-archive",
+      "date": "2025-01-15",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa アーカイブ配信開始",
+      "description": "2025年1月5日のビルボードライブ東京公演「Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa」2ndステージのアーカイブ配信開始日。",
+      "note": "石川優子が特別ゲスト。Streaming+での公式告知上のアーカイブ期間は2025年1月15日17:00～1月26日23:59。1月5日の生配信とは別記録。実際の公開時刻は未検証。",
+      "broadcastStation": "Streaming+",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-685.php"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-20215"
+        },
+        {
+          "label": "Chage公式公演告知",
+          "url": "https://chage.jp/information/live/detail-659.php"
+        }
+      ]
+    },
+    {
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "broadcastStation": "mahocast",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式実施・アーカイブ案内",
+          "url": "https://chage.jp/information/live/detail-428.php"
+        },
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-423.php"
+        },
+        {
+          "label": "mahocast公式配信情報",
+          "url": "https://www.mahocast.com/chage/live/6179"
+        },
+        {
+          "label": "Chage公式BIOGRAPHY",
+          "url": "https://chage.jp/biography/2021.php"
+        },
+        {
+          "label": "mahocast公式イベント一覧",
+          "url": "https://www.mahocast.com/chage/live"
+        },
+        {
+          "label": "会場公式公演日程",
+          "url": "https://www.billboard-live.com/yokohama/schedules?month=2020-12-01"
+        }
+      ],
+      "id": "chage-20210219-christmas2020-mahocast-archive",
+      "date": "2021-02-19",
+      "title": "Chage Christmas Party 2020 完全版 アーカイブ配信開始",
+      "description": "2021年2月19日、mahocastで「Chage Christmas Party 2020」のライブ映像完全版のアーカイブ配信が開始された。",
+      "note": "2020年12月19日のビルボードライブ横浜公演の収録映像。公式案内の視聴期間は2月19日10:00～2月21日23:59。一般購入も可能。同期間にライブ実況（副音声）付き映像も別商品として配信された。2月14日のequal会員限定配信イベントとは別記録。収録ステージは未特定。"
+    },
+    {
+      "artist": "Chage",
+      "category": "other",
+      "status": "recorded",
+      "verification": "primary",
+      "id": "chage-20260716-instinto-akita-story-equal",
+      "date": "2026-07-16",
+      "title": "Chage 映像のInstinto Akita Story｜Jul.2025-Feb.2026 -A Film by Ayumi Sakamoto-",
+      "description": "2026年7月16日、Chage公式ファンクラブequalのMovie/Podcastで、秋田を舞台にしたドキュメンタリー映像が会員限定で公開された。",
+      "note": "坂本あゆみ監督によるドキュメンタリー映像第2弾。2025年7月に「Chageのずっと細道」で秋田を訪れた際のじゅんさい採り・紙風船制作と、2026年2月に紙風船を上げるため秋田を再訪した様子を収録。2026年7月16日は映像の公開日であり、公演日・撮影日ではない。公開終了日は未確認。",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブequal Movie更新のお知らせ",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=21109"
+        }
+      ]
+    },
+    {
+      "id": "chage-20230930-windy-road-pia-live",
+      "date": "2023-09-30",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "ChageLiveTour 2023 WINDY ROAD 生配信",
+      "description": "2023年9月30日、Zepp Hanedaで開催された「ChageLiveTour 2023 WINDY ROAD」がPIA LIVE STREAMで生配信された。",
+      "note": "公式告知では17:30開演予定、当日の視聴期限20:00。会場公演とは別記録。PIA LIVE STREAMで配信。公式告知のアーカイブ期間は2023年10月11日17:00～10月25日23:59。10月11日付のChage公式ブログでは19:00開始と案内されており、実際の開始時刻は未確定。同ブログによるとアーカイブ版は生配信版から一部映像カットを変更。視聴チケット4,500円（税込）。",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-568.php"
+        },
+        {
+          "label": "Chage公式ブログ（2023年10月11日）",
+          "url": "https://ameblo.jp/chage-blog/page-2.html"
+        }
+      ]
+    },
+    {
+      "id": "chage-20231011-windy-road-pia-archive",
+      "date": "2023-10-11",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "ChageLiveTour 2023 WINDY ROAD アーカイブ配信開始",
+      "description": "2023年9月30日のZepp Haneda公演「ChageLiveTour 2023 WINDY ROAD」のアーカイブ配信開始日。",
+      "note": "9月30日の生配信とは別記録。PIA LIVE STREAMで配信。公式告知のアーカイブ期間は2023年10月11日17:00～10月25日23:59。10月11日付のChage公式ブログでは19:00開始と案内されており、実際の開始時刻は未確定。同ブログによるとアーカイブ版は生配信版から一部映像カットを変更。視聴チケット4,500円（税込）。",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-568.php"
+        },
+        {
+          "label": "Chage公式ブログ（2023年10月11日）",
+          "url": "https://ameblo.jp/chage-blog/page-2.html"
+        }
+      ]
+    },
+    {
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-643.php"
+        },
+        {
+          "label": "チケットぴあ公式配信情報",
+          "url": "https://ticket.pia.jp/piasp/inbound/chage24cgltengpls.jsp"
+        },
+        {
+          "label": "JFN公式番組記事（アーカイブ配信）",
+          "url": "https://jfn-pods.com/program/1974/article/kqxft8Q0ph"
+        }
+      ],
+      "id": "chage-20240923-chage2024-pia-live",
+      "date": "2024-09-23",
+      "title": "ChageLiveTour 2024 ～ちゃげっていうひと～ 生配信",
+      "description": "2024年9月23日、Zepp DiverCity（TOKYO）で開催された「ChageLiveTour 2024 ～ちゃげっていうひと～」がPIA LIVE STREAMで生配信された。",
+      "note": "PIA LIVE STREAMによる配信。公式告知では2024年9月23日17:00開演予定、当日の視聴期限20:00。アーカイブ配信期間は2024年10月8日17:00～11月5日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。"
+    },
+    {
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-643.php"
+        },
+        {
+          "label": "チケットぴあ公式配信情報",
+          "url": "https://ticket.pia.jp/piasp/inbound/chage24cgltengpls.jsp"
+        },
+        {
+          "label": "JFN公式番組記事（アーカイブ配信）",
+          "url": "https://jfn-pods.com/program/1974/article/kqxft8Q0ph"
+        }
+      ],
+      "id": "chage-20241008-chage2024-pia-archive",
+      "date": "2024-10-08",
+      "title": "ChageLiveTour 2024 ～ちゃげっていうひと～ アーカイブ配信開始",
+      "description": "2024年9月23日のZepp DiverCity（TOKYO）公演「ChageLiveTour 2024 ～ちゃげっていうひと～」のアーカイブ配信開始日。",
+      "note": "PIA LIVE STREAMによる配信。公式告知では2024年9月23日17:00開演予定、当日の視聴期限20:00。アーカイブ配信期間は2024年10月8日17:00～11月5日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。"
+    },
+    {
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-771.php"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://clubcitta.co.jp/schedule/553"
+        },
+        {
+          "label": "チケットぴあ公式配信情報",
+          "url": "https://t.pia.jp/pia/event/event.do?eventCd=2540110"
+        }
+      ],
+      "note": "PIA LIVE STREAMによる配信。公式告知では2025年11月14日18:30から生配信、アーカイブ配信期間は2025年11月28日17:00～12月19日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。",
+      "id": "chage-20251114-mrnovember-pia-live",
+      "date": "2025-11-14",
+      "title": "ChageLiveTour2025 Mr.November 生配信",
+      "description": "2025年11月14日、CLUB CITTA’ 川崎で開催された「ChageLiveTour2025 Mr.November」の生配信日。"
+    },
+    {
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-771.php"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://clubcitta.co.jp/schedule/553"
+        },
+        {
+          "label": "チケットぴあ公式配信情報",
+          "url": "https://t.pia.jp/pia/event/event.do?eventCd=2540110"
+        }
+      ],
+      "note": "PIA LIVE STREAMによる配信。公式告知では2025年11月14日18:30から生配信、アーカイブ配信期間は2025年11月28日17:00～12月19日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。",
+      "id": "chage-20251128-mrnovember-pia-archive",
+      "date": "2025-11-28",
+      "title": "ChageLiveTour2025 Mr.November アーカイブ配信開始",
+      "description": "2025年11月14日のCLUB CITTA’ 川崎公演「ChageLiveTour2025 Mr.November」のアーカイブ配信開始日。"
+    },
+    {
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-490.php"
+        },
+        {
+          "label": "Chage公式公演スケジュール",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        },
+        {
+          "label": "ユニバーサルミュージック公式配信情報",
+          "url": "https://www.universal-music.co.jp/chage/news/2022-07-07/"
+        },
+        {
+          "label": "Chage公式アーカイブ配信開始告知（2022年一覧）",
+          "url": "https://chage.jp/information/live/?year=2022"
+        }
+      ],
+      "note": "PIA LIVE STREAMによる配信。2022年7月10日二子玉川ライズ公演の2nd公演（16:30開演予定）が対象。当日の視聴期限は18:30。公式告知のアーカイブ配信期間は2022年7月20日17:00～8月2日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。",
+      "id": "chage-20220710-hosomichi-pia-live",
+      "date": "2022-07-10",
+      "title": "Chageのずっと細道 生配信",
+      "description": "2022年7月10日、iTSCOM STUDIO & HALL 二子玉川ライズで開催された「Chageのずっと細道」2nd公演の生配信日。"
+    },
+    {
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-490.php"
+        },
+        {
+          "label": "Chage公式公演スケジュール",
+          "url": "https://chage.jp/hosomichi/schedule/archive.php"
+        },
+        {
+          "label": "ユニバーサルミュージック公式配信情報",
+          "url": "https://www.universal-music.co.jp/chage/news/2022-07-07/"
+        },
+        {
+          "label": "Chage公式アーカイブ配信開始告知（2022年一覧）",
+          "url": "https://chage.jp/information/live/?year=2022"
+        }
+      ],
+      "note": "PIA LIVE STREAMによる配信。2022年7月10日二子玉川ライズ公演の2nd公演（16:30開演予定）が対象。当日の視聴期限は18:30。公式告知のアーカイブ配信期間は2022年7月20日17:00～8月2日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。",
+      "id": "chage-20220720-hosomichi-pia-archive",
+      "date": "2022-07-20",
+      "title": "Chageのずっと細道 アーカイブ配信開始",
+      "description": "2022年7月10日のiTSCOM STUDIO & HALL 二子玉川ライズ公演「Chageのずっと細道」のアーカイブ配信開始日。"
+    },
+    {
+      "artist": "Chage",
+      "status": "recorded",
+      "id": "chage-20221106-premium-philharmonic-archive",
+      "date": "2022-11-06",
+      "category": "media",
+      "title": "PREMIUM PHILHARMONIC ORCHESTRA CONCERT feat. Chage 川島ケイジ アーカイブ配信開始",
+      "verification": "secondary",
+      "broadcastStation": "CURTAIN CALL",
+      "description": "2022年10月17日の東京芸術劇場公演の収録映像がCURTAIN CALLでアーカイブ配信された。",
+      "note": "11月6日の配信開始日は提供資料による。Chage公式告知一覧には11月7日付の配信開始告知があるが、告知本文は取得できていない。別の二次資料には10月19日付の記載もあり、開始日の原資料による確認が必要。視聴料金2,500円は二次資料による。",
+      "sources": [
+        {
+          "label": "Chage公式告知一覧（11月7日付）",
+          "url": "https://chage.jp/information/live/?year=2022"
+        },
+        {
+          "label": "参考資料（非公式・視聴記録）",
+          "url": "https://ameblo.jp/chage1990someday/entry-12794322640.html"
+        },
+        {
+          "label": "参考資料（非公式・日付相違）",
+          "url": "https://w.atwiki.jp/cavc/pages/359.html"
+        }
+      ]
+    },
+    {
+      "id": "aska-20250119-kantabile-fujitwo",
+      "date": "2025-01-19",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "KANタービレ～今夜は帰さナイトフィーバー～ フジテレビTWO 初回放送",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2025/01/19、2024年11月12日の公演の収録映像がフジテレビTWOで初回放送された。",
+      "note": "21:00開始（放送終了時刻は未確認）。スカパー！番組配信で同時配信・1週間の見逃し配信も公式告知。 ASKA出演。公式放送日程による確認。",
+      "sources": [
+        {
+          "label": "フジテレビ公式放送情報",
+          "url": "https://www.fujitv.co.jp/fujitv/news/20241414.html"
+        }
+      ],
+      "broadcastStation": "フジテレビTWO"
+    },
+    {
+      "id": "aska-20250216-kantabile-fujitwo",
+      "date": "2025-02-16",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "KANタービレ～今夜は帰さナイトフィーバー～ フジテレビTWO 再放送",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2025/02/16、2024年11月12日の公演の収録映像がフジテレビTWOで再放送された。",
+      "note": "23:00～翌1:30（公式表記23:00～25:30）。 ASKA出演。公式放送日程による確認。",
+      "sources": [
+        {
+          "label": "フジテレビ公式放送情報",
+          "url": "https://otn.fujitv.co.jp/kantabile_sp/"
+        }
+      ],
+      "broadcastStation": "フジテレビTWO"
+    },
+    {
+      "id": "aska-20250310-kantabile-fujitwo",
+      "date": "2025-03-10",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "KANタービレ～今夜は帰さナイトフィーバー～ フジテレビTWO 再放送",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2025/03/10、2024年11月12日の公演の収録映像がフジテレビTWOで再放送された。",
+      "note": "0:00～2:30。公式番組表では3月9日24:00～26:30と表記。暦日で登録。 ASKA出演。公式放送日程による確認。",
+      "sources": [
+        {
+          "label": "フジテレビ公式放送情報",
+          "url": "https://otn.fujitv.co.jp/kantabile_sp/"
+        }
+      ],
+      "broadcastStation": "フジテレビTWO"
+    },
+    {
+      "id": "aska-20250301-kantabile-ura-fuji",
+      "date": "2025-03-01",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "KANタービレ 一夜限りの裏話 テレビ放送",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2025年3月1日、フジテレビでKANタービレのライブ映像と発起人のトークを含む特別番組が放送された。",
+      "note": "2:05～3:05。公式番組表では2月28日26:05～27:05。暦日で登録。CS放送とは別構成。番組公式出演者一覧にASKAの記載あり。",
+      "sources": [
+        {
+          "label": "フジテレビ地上波番組公式情報",
+          "url": "https://www.fujitv.co.jp/b_hp/kantabile/index.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
+    },
+    {
+      "id": "aska-20251218-kyotoonpaku-sstv",
+      "date": "2025-12-18",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "くるり presents 京都音楽博覧会2025 スペースシャワーTV 初回放送",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2025年12月18日、ASKA出演の京都音楽博覧会2025の特別番組がスペースシャワーTVで初回放送された。",
+      "note": "22:00～23:30。2025年10月11日・12日の公演映像と舞台裏を紹介。ASKAは12日出演。公式番組日程による確認。",
+      "sources": [
+        {
+          "label": "スペースシャワーTV公式番組情報",
+          "url": "https://tv.spaceshower.jp/p/00089342/"
+        }
+      ],
+      "broadcastStation": "スペースシャワーTV"
+    },
+    {
+      "id": "aska-20251218-kyotoonpaku-ondemand",
+      "date": "2025-12-18",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "くるり presents 京都音楽博覧会2025 スペシャオンデマンド 配信開始",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2025年12月18日、ASKA出演の京都音楽博覧会2025の特別番組のオンデマンド配信が公式番組ページで案内された。",
+      "note": "放送局公式番組ページ記載：2025年12月18日23:30～2026年1月19日23:59。くるりの当時のSNS告知（参考資料掲載）では12月19日0:00～2026年1月18日23:59。資料間に相違があり、実際の配信開始・終了時刻は未確認。12月20日開始の根拠は未確認。",
+      "sources": [
+        {
+          "label": "スペースシャワーTV公式番組情報",
+          "url": "https://tv.spaceshower.jp/p/00089342/"
+        },
+        {
+          "label": "参考資料（非公式・SNS告知掲載）",
+          "url": "https://thetv.jp/person/0000138615/sns/"
+        }
+      ],
+      "broadcastStation": "スペシャオンデマンド"
+    },
+    {
+      "id": "aska-20261008-kyotoonpaku-sstv",
+      "date": "2026-10-08",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "くるり presents 京都音楽博覧会2025 スペースシャワーTV 再放送",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2026年10月8日、ASKA出演の京都音楽博覧会2025の特別番組がスペースシャワーTVで再放送された。",
+      "note": "0:00～1:30。公式表記は10月7日24:00～25:30。暦日で登録。公式放送日程による確認。",
+      "sources": [
+        {
+          "label": "スペースシャワーTV公式番組情報",
+          "url": "https://tv.spaceshower.jp/p/00089342/"
+        },
+        {
+          "label": "ASKA公式再放送告知",
+          "url": "https://www.fellows.tokyo/news/detail/772"
+        },
+        {
+          "label": "放送局公式特集情報",
+          "url": "https://tv.spaceshower.jp/p/fes2025_sp/"
+        }
+      ],
+      "broadcastStation": "スペースシャワーTV"
+    },
+    {
+      "id": "aska-20230127-nagae-cafe-vol10-day1-stream",
+      "date": "2023-01-27",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "長江健次Cafe Vol.10 町田編 Day1（ASKAゲスト出演）収録映像配信",
+      "status": "recorded",
+      "verification": "secondary",
+      "description": "2023年1月27日、1月7日にまほろ座MACHIDAで開催された長江健次Cafe Vol.10初日の収録映像が配信された。",
+      "note": "参考資料では2023年1月27日21:00から2月2日23:59まで配信。配信サービスは提供情報によるStreaming+で、当時の配信元告知原文は未確認。会場公式に配信チケット3,000円の記載あり。1月7日の生配信は未確認。",
+      "sources": [
+        {
+          "label": "会場公式公演情報",
+          "url": "https://www.mahoroza.jp/schedule/230107/"
+        },
+        {
+          "label": "参考資料（非公式・配信日程）",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2023"
+        },
+        {
+          "label": "参考資料（非公式・活動記録）",
+          "url": "https://plaza.rakuten.co.jp/nijinohana2624/diary/ctgylist/?ctgy=8"
+        }
+      ],
+      "broadcastStation": "Streaming+"
+    },
+    {
+      "id": "aska-20260322-kishidanbanpaku2025-after-special-wowow",
+      "date": "2026-03-22",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "氣志團万博2025 ～関東爆音パビリオン～ 事後スペシャル番組",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "WOWOWライブ",
+      "description": "2026年3月22日、ASKAが初日に出演した「氣志團万博2025」の舞台裏や出演者同士の交流を紹介する事後スペシャル番組がWOWOWで放送・配信された。",
+      "note": "公式放送日程：20:00から1時間。WOWOWオンデマンドで同時配信、終了後1カ月間アーカイブ配信。収録：2025年11月15・16日、幕張メッセ国際展示場9～11ホール。ASKAの公演出演は15日。2026年1月17日の初日 前編の通常ライブ放送とは別構成。番組内のASKA個別の映像内容・出演尺は未確認。",
+      "sources": [
+        {
+          "label": "WOWOW公式番組情報",
+          "url": "https://www.wowow.co.jp/detail/206149"
+        },
+        {
+          "label": "WOWOW公式プレスリリース",
+          "url": "https://prtimes.jp/main/html/rd/p/000008647.000001355.html"
+        },
+        {
+          "label": "WOWOWオンデマンド",
+          "url": "https://wod.wowow.co.jp/browse/program/206149"
+        },
+        {
+          "label": "ASKA公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ]
+    },
+    {
+      "id": "aska-20230723-sawachika65-chronicle-stream",
+      "date": "2023-07-23",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "祝！町田市市制65周年記念 澤近泰輔65祭 The Chronicle（収録映像配信開始）",
+      "status": "recorded",
+      "verification": "secondary",
+      "description": "2023年7月23日、6月20日に町田市民ホールで開催された澤近泰輔65祭 The Chronicleの収録映像配信が開始された。",
+      "note": "Streaming+で7月23日19:00から9月3日23:59まで配信との参考資料あり。主催者・配信元の当時の告知原文は取得できなかった。8月18日の新編集版ver.2と座談会は別記録。",
+      "broadcastStation": "Streaming+",
+      "sources": [
+        {
+          "label": "参考資料（非公式・配信日程）",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2023"
+        },
+        {
+          "label": "参考資料（非公式・視聴記録）",
+          "url": "https://note.com/tojo_kaoru/n/n62f10fddb7c6"
+        },
+        {
+          "label": "参考資料（非公式・配信情報）",
+          "url": "https://intelablog.com/media-memories/taisuke-sawachika-65th-festival-the-chronicle-2023-6-20-review/"
+        },
+        {
+          "label": "まほろ座公式X（ver.2配信告知）",
+          "url": "https://x.com/mahoroza/status/1691030231157743616"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-18",
+      "artist": "ASKA",
+      "status": "scheduled",
+      "verification": "primary",
+      "id": "aska-20230818-sawachika65-chronicle-ver2",
+      "category": "media",
+      "title": "澤近泰輔65祭 The Chronicle ver.2（メイキング付き映像配信）",
+      "description": "2023年8月18日から、ASKAがゲスト出演した6月20日の町田市民ホール公演の映像を新編集版ver.2として配信する旨が告知された。",
+      "note": "まほろ座公式Xの告知本文（提供資料）で8月18日開始・9月3日までの配信を確認。リハーサル等の編集映像を追加し、宇海とSasaticaの映像を別アングル等に変更。開始時刻・終了時刻は告知本文に記載なし。Streaming+は提供情報および通常版の配信情報による。実施後の確認資料は未取得。7月23日の通常版とは区別する。",
+      "broadcastStation": "Streaming+",
+      "sources": [
+        {
+          "label": "まほろ座公式X（ver.2配信告知）",
+          "url": "https://x.com/mahoroza/status/1691030231157743616"
+        },
+        {
+          "label": "主催者公演・配信案内（告知内リンク）",
+          "url": "https://www.mahoroza.jp/230723machida65"
+        }
+      ]
+    },
+    {
+      "date": "2023-08-18",
+      "artist": "ASKA",
+      "status": "scheduled",
+      "verification": "primary",
+      "id": "aska-20230818-sawachika65-chronicle-talk",
+      "category": "media",
+      "title": "澤近泰輔65祭 The Chronicle 振り返り座談会「振り返ればクロニクル」（関連配信）",
+      "description": "2023年8月18日19:00から、ASKAがゲスト出演した澤近泰輔65祭を振り返る座談会がYouTubeで配信予定と告知された。",
+      "note": "出演告知：澤近泰輔、宇海、佐々木良。トーク終了後は3人で65祭を視聴する企画。ASKAは座談会の告知出演者に含まれていないため、関連番組として登録し本人出演とは区別する。実施後の確認資料は未取得。終了時刻は未確認。",
+      "broadcastStation": "YouTube Live",
+      "sources": [
+        {
+          "label": "まほろ座公式X（座談会告知）",
+          "url": "https://x.com/mahoroza/status/1691291460996612096"
+        },
+        {
+          "label": "まほろ座公式YouTube（告知内リンク）",
+          "url": "https://www.youtube.com/@machida9851"
+        }
+      ]
+    },
+    {
+      "id": "book-v240-ca-19811210",
+      "date": "1981-12-10",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "愛すべきばかちんたちへ",
+      "status": "released",
+      "verification": "primary",
+      "description": "愛すべきばかちんたちへ（書籍／CBS・ソニー出版）が刊行された。",
+      "note": "初の単行本。",
+      "format": "書籍",
+      "publisher": "CBS・ソニー出版",
+      "releaseTitle": "愛すべきばかちんたちへ",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784789700023"
+    },
+    {
+      "id": "book-v240-ca-19821018",
+      "date": "1982-10-18",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "チャゲ&飛鳥写真集 闘魂（ザ・チャレンジ）",
+      "status": "released",
+      "verification": "primary",
+      "description": "チャゲ&飛鳥写真集 闘魂（ザ・チャレンジ）（写真集／講談社）が刊行された。",
+      "note": "初の写真集。",
+      "format": "写真集",
+      "publisher": "講談社",
+      "releaseTitle": "チャゲ&飛鳥写真集 闘魂（ザ・チャレンジ）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ]
+    },
+    {
+      "id": "book-v240-ca-19830922",
+      "date": "1983-09-22",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "時計まわりの青春",
+      "status": "released",
+      "verification": "secondary",
+      "description": "時計まわりの青春（書籍／集英社）が刊行された。",
+      "note": "国立国会図書館の書誌は1983年9月。日付は提供台帳・販売資料による。",
+      "format": "書籍",
+      "publisher": "集英社",
+      "releaseTitle": "時計まわりの青春",
+      "sources": [
+        {
+          "label": "国立国会図書館 書誌",
+          "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001651534"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://www.suruga-ya.jp/product/detail/BO639124"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784087800463"
+    },
+    {
+      "id": "book-v240-ca-19890720",
+      "date": "1989-07-20",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "PRIDE I 〜10年の複雑〜",
+      "status": "released",
+      "verification": "primary",
+      "description": "PRIDE I 〜10年の複雑〜（書籍／八曜社）が刊行された。",
+      "note": "10周年記念書籍・第1巻。",
+      "format": "書籍",
+      "publisher": "八曜社",
+      "releaseTitle": "PRIDE I 〜10年の複雑〜",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784827000955"
+    },
+    {
+      "id": "book-v240-ca-19891010",
+      "date": "1989-10-10",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "PRIDE II 〜10年の複雑〜",
+      "status": "released",
+      "verification": "primary",
+      "description": "PRIDE II 〜10年の複雑〜（書籍／八曜社）が刊行された。",
+      "note": "10周年記念書籍・第2巻。",
+      "format": "書籍",
+      "publisher": "八曜社",
+      "releaseTitle": "PRIDE II 〜10年の複雑〜",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ]
+    },
+    {
+      "id": "book-v240-ca-19921005a",
+      "date": "1992-10-05",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "10年の複雑（上）PRIDE",
+      "status": "released",
+      "verification": "primary",
+      "description": "10年の複雑（上）PRIDE（文庫／角川文庫）が刊行された。",
+      "note": "出版社は10月5日、アーティスト公式年表は上下巻とも10月10日。出版社の発売日を採用。",
+      "format": "文庫",
+      "publisher": "角川文庫",
+      "releaseTitle": "10年の複雑（上）PRIDE",
+      "sources": [
+        {
+          "label": "KADOKAWA公式",
+          "url": "https://www.kadokawa.co.jp/product/199999184301/"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784041843017"
+    },
+    {
+      "id": "book-v240-ca-19921005b",
+      "date": "1992-10-05",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "10年の複雑（下）PRIDE",
+      "status": "released",
+      "verification": "secondary",
+      "description": "10年の複雑（下）PRIDE（文庫／角川文庫）が刊行された。",
+      "note": "提供台帳は10月5日。公式年表は10月10日。書店資料は10月まで確認。正確な発売日の再確認が必要。",
+      "format": "文庫",
+      "publisher": "角川文庫",
+      "releaseTitle": "10年の複雑（下）PRIDE",
+      "sources": [
+        {
+          "label": "書籍販売資料",
+          "url": "https://www.kinokuniya.co.jp/f/dsg-01-9784041843024"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784041843024"
+    },
+    {
+      "id": "book-v242-aska-19841115-first",
+      "date": "1984-11-15",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "オンリー・ロンリー 飛鳥涼詩集（初期版）",
+      "status": "released",
+      "verification": "primary",
+      "description": "『オンリー・ロンリー 飛鳥涼詩集（初期版）』（詩集／サンリオ出版）が刊行・発売された。",
+      "note": "公式HISTORYで11月15日発表を確認。提供台帳では印刷11月10日。",
+      "format": "詩集",
+      "publisher": "サンリオ出版",
+      "releaseTitle": "オンリー・ロンリー 飛鳥涼詩集（初期版）",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "edition": "初期版"
+    },
+    {
+      "id": "book-v242-aska-19890110-renew",
+      "date": "1989-01-10",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "オンリー・ロンリー 飛鳥涼詩集 新装版",
+      "status": "released",
+      "verification": "secondary",
+      "description": "『オンリー・ロンリー 飛鳥涼詩集 新装版』（詩集／サンリオ）が刊行・発売された。",
+      "note": "提供台帳の発行日1月10日、印刷1月5日。国立国会図書館は1989年1月刊と記載（日は未確認）。著者近影・紹介コメントは初期版と同一とされる。",
+      "format": "詩集",
+      "publisher": "サンリオ",
+      "releaseTitle": "オンリー・ロンリー 飛鳥涼詩集 新装版",
+      "sources": [
+        {
+          "label": "国立国会図書館書誌",
+          "url": "https://ndlsearch.ndl.go.jp/books/R100000002-I000001960370"
+        },
+        {
+          "label": "出版書誌資料",
+          "url": "https://www.hanmoto.com/bd/isbn/9784387883371"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784387883371",
+      "edition": "新装版"
+    },
+    {
+      "id": "book-v242-aska-19901121-hard",
+      "date": "1990-11-21",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "けれど空は青 ～飛鳥涼論",
+      "status": "released",
+      "verification": "primary",
+      "description": "『けれど空は青 ～飛鳥涼論』（評論・評伝／八曜社）が刊行・発売された。",
+      "note": "著：石原信一。公式HISTORYで11月21日発表。書店資料は1990年11月刊、別の中古書店資料には11月30日とある。",
+      "format": "評論・評伝",
+      "publisher": "八曜社",
+      "releaseTitle": "けれど空は青 ～飛鳥涼論",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://www.kinokuniya.co.jp/f/dsg-01-9784827001099"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784827001099",
+      "edition": "単行本"
+    },
+    {
+      "id": "book-v242-aska-19911120-asuka",
+      "date": "1991-11-20",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "オンリー・ロンリー 新版 飛鳥涼詩集（ASUKA表記）",
+      "status": "released",
+      "verification": "secondary",
+      "description": "『オンリー・ロンリー 新版 飛鳥涼詩集（ASUKA表記）』（詩集／サンリオ）が刊行・発売された。",
+      "note": "提供台帳の発行日11月20日、印刷11月15日。3刷までASUKA表記とされる。大学図書館書誌では1991年11月刊（日・表記差は未確認）。",
+      "format": "詩集",
+      "publisher": "サンリオ",
+      "releaseTitle": "オンリー・ロンリー 新版 飛鳥涼詩集（ASUKA表記）",
+      "sources": [
+        {
+          "label": "大学図書館書誌",
+          "url": "https://ci.nii.ac.jp/ncid/BA91858331.amp"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "edition": "新版・ASUKA表記"
+    },
+    {
+      "id": "book-v242-aska-19930409-paperback",
+      "date": "1993-04-09",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "飛鳥涼論 けれど空は青（文庫版）",
+      "status": "released",
+      "verification": "primary",
+      "description": "『飛鳥涼論 けれど空は青（文庫版）』（文庫／角川書店）が刊行・発売された。",
+      "note": "著：石原信一。KADOKAWA公式発売日4月9日、アーティスト公式HISTORYは4月10日。出版社の日付を採用。",
+      "format": "文庫",
+      "publisher": "角川書店",
+      "releaseTitle": "飛鳥涼論 けれど空は青（文庫版）",
+      "sources": [
+        {
+          "label": "KADOKAWA公式",
+          "url": "https://www.kadokawa.co.jp/product/199999186801/"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784041868010",
+      "edition": "文庫版"
+    },
+    {
+      "id": "book-v242-aska-20170217-paper",
+      "date": "2017-02-17",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "700番 第二巻 第三巻",
+      "status": "released",
+      "verification": "secondary",
+      "description": "『700番 第二巻 第三巻』（単行本・電子書籍／扶桑社）が刊行・発売された。",
+      "note": "第二巻・第三巻を収録。同日に電子版販売開始（書店資料）。同日同内容の規格違いは1件に集約。",
+      "format": "単行本・電子書籍",
+      "publisher": "扶桑社",
+      "releaseTitle": "700番 第二巻 第三巻",
+      "sources": [
+        {
+          "label": "書籍販売資料",
+          "url": "https://tower.jp/item/4439101"
+        },
+        {
+          "label": "電子書籍販売資料",
+          "url": "https://honto.jp/ebook/pd_28328993.html"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "isbn": "9784594076818",
+      "edition": "紙版"
+    },
+    {
+      "id": "book-v243-aska-fellows-piano",
+      "date": "2018-10-19",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ピアノソロ ASKA「We are the Fellows」",
+      "status": "released",
+      "verification": "primary",
+      "description": "2018年、ピアノソロ ASKA「We are the Fellows」が刊行された。",
+      "note": "菊倍判縦・84ページ。中級。2018年10月17日発売のアルバム全13曲に対応した楽譜。",
+      "format": "ピアノ譜",
+      "publisher": "ヤマハミュージックエンタテインメントホールディングス",
+      "releaseTitle": "ピアノソロ ASKA「We are the Fellows」",
+      "sources": [
+        {
+          "label": "出版社公式",
+          "url": "https://www.ymm.co.jp/p/detail.php?code=GTP01096449"
+        },
+        {
+          "label": "出版社公式発表",
+          "url": "https://prtimes.jp/main/html/rd/p/000002439.000004566.html"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/02_PHOTO_SONG_BOOK・楽譜・スコア本"
+        }
+      ],
+      "isbn": "9784636964493",
+      "catalogNumber": "GTP01096449",
+      "jan": "4947817278306"
+    },
+    {
+      "id": "book-v243-aska-fellows-guitar",
+      "date": "2018-10-19",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ギター弾き語り ASKA「We are the Fellows」",
+      "status": "released",
+      "verification": "primary",
+      "description": "2018年、ギター弾き語り ASKA「We are the Fellows」が刊行された。",
+      "note": "B5判縦・96ページ。初中級。2018年10月17日発売のアルバム全13曲に対応した楽譜。",
+      "format": "ギター譜",
+      "publisher": "ヤマハミュージックエンタテインメントホールディングス",
+      "releaseTitle": "ギター弾き語り ASKA「We are the Fellows」",
+      "sources": [
+        {
+          "label": "出版社公式",
+          "url": "https://www.ymm.co.jp/p/detail.php?code=GTL01096412"
+        },
+        {
+          "label": "出版社公式発表",
+          "url": "https://prtimes.jp/main/html/rd/p/000002439.000004566.html"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/02_PHOTO_SONG_BOOK・楽譜・スコア本"
+        }
+      ],
+      "isbn": "9784636964127",
+      "catalogNumber": "GTL01096412",
+      "jan": "4947817277880"
+    },
+    {
+      "id": "book-v243-ca-tree-score",
+      "date": "1991-11-20",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "TREE CHAGE AND ASKA（スコア・楽譜）",
+      "status": "released",
+      "verification": "secondary",
+      "description": "1991年、TREE CHAGE AND ASKA（スコア・楽譜）が刊行された。",
+      "note": "流通書誌の日付。PHOTO SONG BOOK「TREE」PLUS BESTとは別の流通書誌（ISBNあり）。現物の奥付・編成は未確認。",
+      "format": "スコア・楽譜",
+      "publisher": "ヤマハ音楽振興会",
+      "releaseTitle": "TREE CHAGE AND ASKA（スコア・楽譜）",
+      "sources": [
+        {
+          "label": "参考資料（流通書誌）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/BS23419"
+        }
+      ],
+      "isbn": "9784636167344"
+    },
+    {
+      "id": "book-v243-ca-red-hill-band",
+      "date": "1993-11-20",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "バンドスコア CHAGE＆ASKA RED HILL",
+      "status": "released",
+      "verification": "secondary",
+      "description": "1993年、バンドスコア CHAGE＆ASKA RED HILLが刊行された。",
+      "note": "流通書誌に記載された発売日。出版社原典・奥付未確認。音楽アルバムとは別の楽譜集。",
+      "format": "バンドスコア",
+      "publisher": "ヤマハ音楽振興会",
+      "releaseTitle": "バンドスコア CHAGE＆ASKA RED HILL",
+      "sources": [
+        {
+          "label": "参考資料（流通書誌）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/BS21414"
+        }
+      ],
+      "isbn": "9784636168013"
+    },
+    {
+      "id": "book-v243-ca-guitar-wide",
+      "date": "2024-12-18",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA／ギター弾き語り曲集（永久保存ワイド版）",
+      "status": "released",
+      "verification": "secondary",
+      "description": "2024年、CHAGE and ASKA／ギター弾き語り曲集（永久保存ワイド版）が刊行された。",
+      "note": "菊倍判・160ページ。ヤマハ楽譜通販の商品情報に記載された発売日。発行元はドレミ楽譜出版社。出版社の注文ページでも存在を確認。",
+      "format": "ギター弾き語り曲集",
+      "publisher": "ドレミ楽譜出版社",
+      "releaseTitle": "CHAGE and ASKA／ギター弾き語り曲集（永久保存ワイド版）",
+      "sources": [
+        {
+          "label": "楽譜販売元の商品情報",
+          "url": "https://sheetmusic.jp.yamaha.com/products/4514142154355"
+        },
+        {
+          "label": "出版社公式（商品存在確認）",
+          "url": "https://www.doremi.co.jp/pages/4/"
+        }
+      ],
+      "isbn": "9784285154351",
+      "jan": "4514142154355"
+    },
+    {
+      "id": "book-v244-ca-tabidachi",
+      "date": "1980",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "旅立ちコンサートパンフ（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1980年の公演・活動に関連する「旅立ちコンサートパンフ」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1980年公演関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "コンサートパンフ",
+      "releaseTitle": "旅立ちコンサートパンフ",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-neppu",
+      "date": "1981",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "熱風（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1981年の公演・活動に関連する「熱風」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1981年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "熱風",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/ZTUWO53129"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-goiken-1",
+      "date": "1982",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "御意見無用（1）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1982年の公演・活動に関連する「御意見無用（1）」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1982年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "御意見無用（1）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-goiken-2",
+      "date": "1982",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "御意見無用（2）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1982年の公演・活動に関連する「御意見無用（2）」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "同ツアー関連パンフレット／別冊・版違い。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "御意見無用（2）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-invitation-1",
+      "date": "1983",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "21世紀への招待 Part 1（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1983年の公演・活動に関連する「21世紀への招待 Part 1」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1983年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "21世紀への招待 Part 1",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-invitation-2",
+      "date": "1984",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "21世紀への招待 Part 2（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1984年の公演・活動に関連する「21世紀への招待 Part 2」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1984年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "21世紀への招待 Part 2",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-super-dreamin",
+      "date": "1985",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "SUPER DREAMIN’（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1985年の公演・活動に関連する「SUPER DREAMIN’」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1985年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "SUPER DREAMIN’",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-shakin-1",
+      "date": "1985",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "SHAKIN' NIGHT（1）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1985年の公演・活動に関連する「SHAKIN' NIGHT（1）」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1985年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "SHAKIN' NIGHT（1）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-shakin-2",
+      "date": "1985",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "SHAKIN' NIGHT（2）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1985年の公演・活動に関連する「SHAKIN' NIGHT（2）」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "同ツアー関連パンフレット／版違い・仕様違い。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "SHAKIN' NIGHT（2）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-one-night",
+      "date": "1986",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "ONE NIGHT MAGIC（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1986年の公演・活動に関連する「ONE NIGHT MAGIC」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1986年イベント関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "イベントパンフ",
+      "releaseTitle": "ONE NIGHT MAGIC",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-big-explosion",
+      "date": "1986",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "Big Explosion Series（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1986年の公演・活動に関連する「Big Explosion Series」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1986年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Big Explosion Series",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.com/ja/product/ZTUWO42811"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-summer-explosion",
+      "date": "1986",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "Summer Explosion Series（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1986年の公演・活動に関連する「Summer Explosion Series」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1986年イベント関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "イベントパンフ",
+      "releaseTitle": "Summer Explosion Series",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-xmas-86",
+      "date": "1986",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "X’mas SPECIAL ’86（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1986年の公演・活動に関連する「X’mas SPECIAL ’86」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1986年クリスマス公演関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "X’mas SPECIAL ’86",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-we-shall-return",
+      "date": "1987",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "We Shall Return（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1987年の公演・活動に関連する「We Shall Return」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1987年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "We Shall Return",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-xmas-87",
+      "date": "1987",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "X’mas SPECIAL ’87（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1987年の公演・活動に関連する「X’mas SPECIAL ’87」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1987年クリスマス公演関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "X’mas SPECIAL ’87",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-london-power-town",
+      "date": "1988",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "1988 AUTUMN / LONDON POWER TOWN（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1988年の公演・活動に関連する「1988 AUTUMN / LONDON POWER TOWN」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1988年関連パンフレット／表紙表記は現物確認を優先。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "関連パンフ",
+      "releaseTitle": "1988 AUTUMN / LONDON POWER TOWN",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://jp.mercari.com/item/m85918357308"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-concert-tour-88",
+      "date": "1988",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR ’88（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1988年の公演・活動に関連する「CONCERT TOUR ’88」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1988年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR ’88",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZTUWO8228"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-xmas-88",
+      "date": "1988",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "X’mas SPECIAL ’88（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1988年の公演・活動に関連する「X’mas SPECIAL ’88」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1988年クリスマス公演関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "X’mas SPECIAL ’88",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-10-years-after",
+      "date": "1989",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR ’89 10 years after（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1989年の公演・活動に関連する「CONCERT TOUR ’89 10 years after」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1989年ツアー関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR ’89 10 years after",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v244-ca-energy",
+      "date": "1989",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "ENERGY CONCERT（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "1989年の公演・活動に関連する「ENERGY CONCERT」のパンフレット資料。発行日・販売開始日は未確認。",
+      "note": "1989年公演関連パンフレット。提供台帳確認区分B。年は関連公演・活動年であり、発行年・発売年の確定を意味しない。月日未詳。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ENERGY CONCERT",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/282.html"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZTUWO8227"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-see-ya",
+      "date": "1990",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR ’90〜’91 SEE YA!!（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1990～1991年。1990〜91年ツアー関連パンフレット 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1990～1991年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR ’90〜’91 SEE YA!!",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-say-yes",
+      "date": "1991",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR ’91〜’92 SAY YES（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1991～1992年。1991〜92年ツアー関連パンフレット 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1991～1992年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR ’91〜’92 SAY YES",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://jp.mercari.com/item/m58484850678"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-big-tree",
+      "date": "1992",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 1992 BIG TREE（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1992年。1992年ツアー関連パンフレット 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1992年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 1992 BIG TREE",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZTUWO497"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-guys-event",
+      "date": "1993",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "SPECIAL EVENT 1993 GUYS 〜夢の番人〜（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1993年。特別公演関連パンフレット 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1993年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "イベントパンフ",
+      "releaseTitle": "SPECIAL EVENT 1993 GUYS 〜夢の番人〜",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://jp.mercari.com/item/m85918357308"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-guys-print",
+      "date": "1993",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT MOVIE GUYS PRINT VERSION（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1993年。CONCERT MOVIE GUYS関連の印刷版資料 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1993年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "映画・映像関連パンフ",
+      "releaseTitle": "CONCERT MOVIE GUYS PRINT VERSION",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-longest-black",
+      "date": "1993",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "史上最大の作戦 THE LONGEST TOUR 1993–1994（黒版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1993～1994年。1993〜94年ツアー関連パンフレット 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1993～1994年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "史上最大の作戦 THE LONGEST TOUR 1993–1994（黒版）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-longest-vhs",
+      "date": "1993",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "史上最大の作戦 THE LONGEST TOUR 1993–1994（VHS付属版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1993～1994年。同ツアー関連パンフレット／VHS付属版 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1993～1994年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "史上最大の作戦 THE LONGEST TOUR 1993–1994（VHS付属版）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://jp.mercari.com/item/m85918357308"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-asian-1994",
+      "date": "1994",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "ASIAN TOUR 1994（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1994年。海外公演関連パンフレット 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1994年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASIAN TOUR 1994",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-longest-movie",
+      "date": "1994",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT MOVIE 史上最大の作戦 THE LONGEST TOUR 1993-1994（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1994～1995年。CONCERT MOVIE関連のパンフレット 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1994～1995年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "映画・映像関連パンフ",
+      "releaseTitle": "CONCERT MOVIE 史上最大の作戦 THE LONGEST TOUR 1993-1994",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZTUWO14034"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-mission-red",
+      "date": "1995",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "SUPER BEST 3 MISSION IMPOSSIBLE（赤版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1995～1996年。版違いパンフレット 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1995～1996年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "SUPER BEST 3 MISSION IMPOSSIBLE（赤版）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/ZTUWO123"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-mission-blue",
+      "date": "1995",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "SUPER BEST 3 MISSION IMPOSSIBLE（青版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1995～1996年。版違いパンフレット 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1995～1996年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "SUPER BEST 3 MISSION IMPOSSIBLE（青版）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZTUWO124"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-mission-asian",
+      "date": "1995",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "ASIAN TOUR II MISSION IMPOSSIBLE（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1995～1996年。海外公演関連パンフレット 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1995～1996年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "海外公演パンフ",
+      "releaseTitle": "ASIAN TOUR II MISSION IMPOSSIBLE",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-mtv-unplugged",
+      "date": "1996",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA MTV UNPLUGGED（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1996年。1996年MTV Unplugged関連パンフレット 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1996年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "映像・ライブ関連パンフ",
+      "releaseTitle": "CHAGE and ASKA MTV UNPLUGGED",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-denko-1",
+      "date": "1999",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 電光石火（1）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1999年。1999年ツアー関連パンフレット。通常版・ライブ版と（1）（2）の対応は未確認。 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1999年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 電光石火（1）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-denko-2",
+      "date": "1999",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 電光石火（2）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1999年。同ツアー関連パンフレット／別冊・版違い。通常版・ライブ版と（1）（2）の対応は未確認。 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1999年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 電光石火（2）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-no-doubt",
+      "date": "1999",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "ASIAN TOUR NO DOUBT（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1999年。1999年海外ツアー関連パンフレット 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1999年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASIAN TOUR NO DOUBT",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-we-are",
+      "date": "1999",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "We are...（関連写真集／フォトパンフ）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1999～2000年。ASIAN TOUR NO DOUBTの写真を中心とした関連写真集 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1999～2000年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "関連写真集／フォトパンフ",
+      "releaseTitle": "We are...",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://jp.mercari.com/shops/product/2JGdkz3LdWbCYsj3Ly9X6x"
+        }
+      ]
+    },
+    {
+      "id": "book-v246-ca-countdown",
+      "date": "1999",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "千年夜一夜ライブ -福岡ドーム 僕らがホーム-（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1999～2000年。カウントダウンライブ関連パンフレット 発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1999～2000年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "イベントパンフ",
+      "releaseTitle": "千年夜一夜ライブ -福岡ドーム 僕らがホーム-",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/04_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_1990-1999"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-korea",
+      "date": "2000",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE＆ASKA LIVE IN KOREA（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2000年。2000年韓国公演パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：2000年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "海外公演パンフ",
+      "releaseTitle": "CHAGE＆ASKA LIVE IN KOREA",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-not-at-all-1",
+      "date": "2001",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 01≫02 NOT AT ALL（1）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2001～2002年。2001〜02年ツアー関連パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2001～2002年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 01≫02 NOT AT ALL（1）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-not-at-all-2",
+      "date": "2001",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 01≫02 NOT AT ALL（2）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2001～2002年。同ツアー関連パンフレット／別冊・版違い。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2001～2002年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 01≫02 NOT AT ALL（2）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-not-at-all-3",
+      "date": "2001",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 01≫02 NOT AT ALL（3）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2001～2002年。同ツアー関連パンフレット／別冊・版違い。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2001～2002年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 01≫02 NOT AT ALL（3）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-the-live-1",
+      "date": "2002",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 02–03 THE LIVE（1）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2002～2003年。2002〜03年ツアー関連パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2002～2003年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 02–03 THE LIVE（1）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-the-live-2",
+      "date": "2002",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 02–03 THE LIVE（2）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2002～2003年。同ツアー関連パンフレット／別冊・版違い。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2002～2003年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 02–03 THE LIVE（2）",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-the-live-script",
+      "date": "2002",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "THE LIVE オープニングムービー最終稿（関連冊子）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2002～2003年。公演関連資料。通常パンフレットとは別区分。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2002～2003年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "関連冊子",
+      "releaseTitle": "THE LIVE オープニングムービー最終稿",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-the-live-photo",
+      "date": "2002",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "TUG OF C&Aエディター西澤君の写真集 盗み撮りしちゃいました——。",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2002～2003年。THE LIVE公演時発売の関連写真集。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2002～2003年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "公演関連写真集",
+      "releaseTitle": "TUG OF C&Aエディター西澤君の写真集 盗み撮りしちゃいました——。",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-aoyama",
+      "date": "2002",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "青山祭 前夜祭 11/1 第2部 CHAGE&ASKA（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2002年。学園祭公演関連パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2002年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "学園祭パンフ",
+      "releaseTitle": "青山祭 前夜祭 11/1 第2部 CHAGE&ASKA",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-countdown-sapporo",
+      "date": "2003",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "COUNTDOWN LIVE 03≫04 in SAPPORO DOME（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2003～2004年。カウントダウン公演関連パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2003～2004年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "イベントパンフ",
+      "releaseTitle": "COUNTDOWN LIVE 03≫04 in SAPPORO DOME",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-two-five-1",
+      "date": "2004",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 2004 two-five vol.1（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2004年。分冊パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2004年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 2004 two-five vol.1",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-two-five-2",
+      "date": "2004",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 2004 two-five vol.2（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2004年。分冊パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2004年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 2004 two-five vol.2",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-two-five-3",
+      "date": "2004",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CONCERT TOUR 2004 two-five vol.3（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2004年。分冊パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2004年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CONCERT TOUR 2004 two-five vol.3",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-neppu",
+      "date": "2004",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "25th Anniversary Special チャゲ&飛鳥 熱風コンサート（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2004年。25周年記念公演関連パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2004年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "イベントパンフ",
+      "releaseTitle": "25th Anniversary Special チャゲ&飛鳥 熱風コンサート",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-keio",
+      "date": "2004",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "第46回三田祭前夜祭 PREMIUM CONCERT in KEIO（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2004年。学園祭公演関連パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2004年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "学園祭パンフ",
+      "releaseTitle": "第46回三田祭前夜祭 PREMIUM CONCERT in KEIO",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-double",
+      "date": "2007",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "Concert tour 2007 DOUBLE（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2007年。通常版パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2007年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Concert tour 2007 DOUBLE",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/ZTUWO7632"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-double-w",
+      "date": "2007",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "Concert tour 2007 DOUBLE W LIVE EDITION（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2007年。DOUBLEの別仕様パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2007年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Concert tour 2007 DOUBLE W LIVE EDITION",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZTUWO8320"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-alive",
+      "date": "2007",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "Concert 2007 alive in live（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2007年。2007年公演関連パンフレット。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2007年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Concert 2007 alive in live",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZTUWO8317"
+        }
+      ]
+    },
+    {
+      "id": "book-v247-ca-alive-shanghai",
+      "date": "2007",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "Concert 2007 alive in live SHANGHAI EDITION（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2007年。上海公演関連版。通常版とは別仕様。発行・販売開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2007年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Concert 2007 alive in live SHANGHAI EDITION",
+      "sources": [
+        {
+          "label": "参考資料（提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/05_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E4%B8%80%E8%A6%A7_2000-2007"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-01",
+      "date": "1998",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR kicks（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1998年。1998年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1998年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR kicks",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-02",
+      "date": "2000",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR GOOD TIME（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2000年。2000年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：2000年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR GOOD TIME",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-03",
+      "date": "2005",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 05≫06 My Game is ASKA（通常版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2005～2006年。2005〜06年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2005～2006年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 05≫06 My Game is ASKA（通常版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-04",
+      "date": "2005",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 05≫06 My Game is ASKA（LIVE版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2005～2006年。同ツアー関連パンフレット／別冊・版違い。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2005～2006年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 05≫06 My Game is ASKA（LIVE版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-05",
+      "date": "2008",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2008年。シンフォニック公演関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：2008年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-06",
+      "date": "2009",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 2009 WALK（通常版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2009年。2009年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2009年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 2009 WALK（通常版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-07",
+      "date": "2009",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 2009 WALK（LIVE版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2009年。同ツアー関連パンフレット／別冊・版違い。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2009年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 2009 WALK（LIVE版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-08",
+      "date": "2009",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2009年。2009年クリスマス公演関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2009年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-09",
+      "date": "2010",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA 10 DAYS SPECIAL（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2010年。10日間公演関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2010年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "コンサートパンフ",
+      "releaseTitle": "ASKA 10 DAYS SPECIAL",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-10",
+      "date": "2010",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 10≫11 FACES（通常版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2010～2011年。2010〜11年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：2010～2011年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 10≫11 FACES（通常版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-11",
+      "date": "2010",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 10≫11 FACES（LIVE版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2010～2011年。同ツアー関連パンフレット／別冊・版違い。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2010～2011年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 10≫11 FACES（LIVE版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-12",
+      "date": "2012",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA LIVECINEMA 2012.1.22（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2012年。ライブシネマ上映関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：2012年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ライブシネマパンフ",
+      "releaseTitle": "ASKA LIVECINEMA 2012.1.22",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-13",
+      "date": "2012",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT2012 昭和が見ていたクリスマス!? Prelude to The Bookend（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2012年。2012年公演関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2012年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "コンサートパンフ",
+      "releaseTitle": "ASKA CONCERT2012 昭和が見ていたクリスマス!? Prelude to The Bookend",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-14",
+      "date": "2012",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 12≫13 ROCKET（通常版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2012～2013年。2012〜13年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2012～2013年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 12≫13 ROCKET（通常版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-15",
+      "date": "2012",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 12≫13 ROCKET（LIVE版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2012～2013年。同ツアー関連パンフレット／別冊・版違い。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2012～2013年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 12≫13 ROCKET（LIVE版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-16",
+      "date": "2018",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-（販売パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2018年。公演関連の販売パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2018年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "販売パンフ",
+      "releaseTitle": "ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-（販売パンフレット）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-17",
+      "date": "2018",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-（来場者配布プログラム）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2018年。入場時配布のプログラム。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2018年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "来場者配布プログラム",
+      "releaseTitle": "ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-（来場者配布プログラム）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-18",
+      "date": "2019",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2019年。2019年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：2019年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-19",
+      "date": "2019",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ- LIVE EDITION（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2019年。追加公演関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：2019年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ- LIVE EDITION",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-20",
+      "date": "2019",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA premium ensemble concert -higher ground- 2019>>2020（販売パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2019～2020年。公演関連の販売パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2019～2020年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "販売パンフ",
+      "releaseTitle": "ASKA premium ensemble concert -higher ground- 2019>>2020（販売パンフレット）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-21",
+      "date": "2019",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA premium ensemble concert -higher ground- 2019>>2020（来場者配布プログラム）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2019～2020年。入場時配布のプログラム。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2019～2020年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "来場者配布プログラム",
+      "releaseTitle": "ASKA premium ensemble concert -higher ground- 2019>>2020（来場者配布プログラム）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-22",
+      "date": "2022",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（販売パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2022年。公演関連の販売パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2022年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "販売パンフ",
+      "releaseTitle": "ASKA premium concert tour -higher ground- アンコール公演（販売パンフレット）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-23",
+      "date": "2022",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA premium concert tour -higher ground- アンコール公演（来場者配布プログラム）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2022年。入場時配布のプログラム。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2022年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "来場者配布プログラム",
+      "releaseTitle": "ASKA premium concert tour -higher ground- アンコール公演（来場者配布プログラム）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-24",
+      "date": "2023",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA Premium Concert Tour Wonderful World 2023（販売パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2023年。公演関連の販売パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2023年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "販売パンフ",
+      "releaseTitle": "ASKA Premium Concert Tour Wonderful World 2023（販売パンフレット）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-25",
+      "date": "2023",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA Premium Concert Tour Wonderful World 2023（来場者配布プログラム）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2023年。入場時配布のプログラム。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2023年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "来場者配布プログラム",
+      "releaseTitle": "ASKA Premium Concert Tour Wonderful World 2023（来場者配布プログラム）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-26",
+      "date": "2023",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA & DAVID FOSTER PREMIUM CONCERT 2023（来場者限定配布BD付属4Pリーフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2023年。来場者限定配布BD付属の4Pリーフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2023年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "来場者配布プログラム",
+      "releaseTitle": "ASKA & DAVID FOSTER PREMIUM CONCERT 2023（来場者限定配布BD付属4Pリーフレット）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v248-aska-27",
+      "date": "2024",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- パンフレット",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2024～2025年。公式商品として確認（提供台帳）。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分A+。関連期間：2024～2025年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。公式グッズ告知画像が取得できず、パンフレット個別の販売開始日は未確認。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- パンフレット",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://w.atwiki.jp/canda/pages/285.html"
+        },
+        {
+          "label": "参考資料（現物流通・資料の存在確認）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZTUWO81564"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-multi-01",
+      "date": "1989",
+      "datePrecision": "year",
+      "artist": "MULTI MAX",
+      "category": "book",
+      "title": "CHAGE’S SUPER BAND MULTI MAX ’89（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1989年。初期ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1989年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CHAGE’S SUPER BAND MULTI MAX ’89",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-multi-02",
+      "date": "1991",
+      "datePrecision": "year",
+      "artist": "MULTI MAX",
+      "category": "book",
+      "title": "WINDY ROAD（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1991年。MULTI MAX 1991年ツアー関連。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：1991年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "WINDY ROAD",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-multi-03",
+      "date": "1992",
+      "datePrecision": "year",
+      "artist": "MULTI MAX",
+      "category": "book",
+      "title": "MAX TOOL（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1992年。1992年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1992年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "MAX TOOL",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-multi-04",
+      "date": "1994",
+      "datePrecision": "year",
+      "artist": "MULTI MAX",
+      "category": "book",
+      "title": "Well, Well, Well（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1994年。1994年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1994年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Well, Well, Well",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-chage-05",
+      "date": "1998",
+      "datePrecision": "year",
+      "artist": "Chage",
+      "category": "book",
+      "title": "’98 上海之行演唱会＋CHAGE 大いに唄う in 武道館（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1998年。上海公演・武道館公演関連冊子。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1998年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "パンフ",
+      "releaseTitle": "’98 上海之行演唱会＋CHAGE 大いに唄う in 武道館",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-chage-06",
+      "date": "1998",
+      "datePrecision": "year",
+      "artist": "Chage",
+      "category": "book",
+      "title": "CHAGE CONCERT TOUR Feeling Place（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：1998年。1998年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：1998年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CHAGE CONCERT TOUR Feeling Place",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-chage-07",
+      "date": "2005",
+      "datePrecision": "year",
+      "artist": "Chage",
+      "category": "book",
+      "title": "CHAGE博 2005 タイムマシンにお願い（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2005年。2005年イベント関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2005年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "イベントパンフ",
+      "releaseTitle": "CHAGE博 2005 タイムマシンにお願い",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-chage-08",
+      "date": "2008",
+      "datePrecision": "year",
+      "artist": "Chage",
+      "category": "book",
+      "title": "CHAGE CONCERT TOUR 2008 アイシテル（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2008年。2008年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2008年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "CHAGE CONCERT TOUR 2008 アイシテル",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-chage-09",
+      "date": "2009",
+      "datePrecision": "year",
+      "artist": "Chage",
+      "category": "book",
+      "title": "Chageの細道2009（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2009年。2009年公演関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2009年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Chageの細道2009",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-chage-10",
+      "date": "2010",
+      "datePrecision": "year",
+      "artist": "Chage",
+      "category": "book",
+      "title": "Chageの細道2010（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2010年。2010年公演関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B+。関連期間：2010年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Chageの細道2010",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-chage-11",
+      "date": "2010",
+      "datePrecision": "year",
+      "artist": "Chage",
+      "category": "book",
+      "title": "Chage Live Tour 10-11 まわせ大きな地球儀（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2010～2011年。2010〜11年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2010～2011年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Chage Live Tour 10-11 まわせ大きな地球儀",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-chage-12",
+      "date": "2011",
+      "datePrecision": "year",
+      "artist": "Chage",
+      "category": "book",
+      "title": "Chageの細道2011（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2011年。2011年公演関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2011年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Chageの細道2011",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-chage-13",
+      "date": "2011",
+      "datePrecision": "year",
+      "artist": "Chage",
+      "category": "book",
+      "title": "Chageの茶会2011～銀座なう！（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2011年。2011年公演関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2011年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ライブパンフ",
+      "releaseTitle": "Chageの茶会2011～銀座なう！",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-chage-14",
+      "date": "2012",
+      "datePrecision": "year",
+      "artist": "Chage",
+      "category": "book",
+      "title": "Chageの茶会2012〜座・藍燈橫濱〜（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2012年。2012年公演関連パンフレット／色違い6種あり。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2012年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。 色名・各版の詳細は未確認のため1記録に集約。",
+      "format": "ライブパンフ",
+      "releaseTitle": "Chageの茶会2012〜座・藍燈橫濱〜",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-chage-15",
+      "date": "2013",
+      "datePrecision": "year",
+      "artist": "Chage",
+      "category": "book",
+      "title": "Chageの茶会2013〜座・藍燈橫濱〜Again（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2013年。2013年公演関連パンフレット／前年とは別色の1種あり。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2013年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ライブパンフ",
+      "releaseTitle": "Chageの茶会2013〜座・藍燈橫濱〜Again",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-chage-16",
+      "date": "2014",
+      "datePrecision": "year",
+      "artist": "Chage",
+      "category": "book",
+      "title": "Chage Live Tour 2014 equal（通常版）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2014年。2014年ツアー関連パンフレット。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2014年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Chage Live Tour 2014 equal（通常版）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v249-chage-17",
+      "date": "2014",
+      "datePrecision": "year",
+      "artist": "Chage",
+      "category": "book",
+      "title": "Chage Live Tour 2014 equal（Live Edition）（パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連期間：2014年。同ツアー関連パンフレット／別冊・版違い。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳確認区分B。関連期間：2014年。検索・並び替え用の年は関連期間の先頭年であり、発行・発売年の確定ではない。正式な表紙表記・仕様は現物確認を優先。",
+      "format": "ツアーパンフ",
+      "releaseTitle": "Chage Live Tour 2014 equal（Live Edition）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/07_Chage%E3%83%BBMULTI_MAX_%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BB%E5%86%99%E7%9C%9F%E9%9B%86%E4%B8%80%E8%A6%A7"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-01",
+      "date": "1990",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "THE MAKING STORY ALL OF C&A",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：1990年。TUG of C&A発行のファンクラブ関連資料。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。",
+      "format": "FC限定冊子／メイキング資料",
+      "releaseTitle": "THE MAKING STORY ALL OF C&A",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-02",
+      "date": "1993",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "TUG OF C&A OFFICIAL MAGAZINE MOOK I（表紙A）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：1993年。MOOK Iの表紙違い。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。 中古販売資料に1995/1/30の記載あり。該当する表紙・版と発行日は現物確認待ち。初期選択外。",
+      "format": "FC公式MOOK",
+      "releaseTitle": "TUG OF C&A OFFICIAL MAGAZINE MOOK I（表紙A）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        },
+        {
+          "label": "参考資料（非公式・中古流通情報）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZKITA102291"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-03",
+      "date": "1993",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "TUG OF C&A OFFICIAL MAGAZINE MOOK I（表紙B）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：1993年。MOOK Iの表紙違い。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。 中古販売資料に1995/1/30の記載あり。該当する表紙・版と発行日は現物確認待ち。初期選択外。",
+      "format": "FC公式MOOK",
+      "releaseTitle": "TUG OF C&A OFFICIAL MAGAZINE MOOK I（表紙B）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        },
+        {
+          "label": "参考資料（非公式・中古流通情報）",
+          "url": "https://www.suruga-ya.jp/product/detail/ZKITA102291"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-04",
+      "date": "1994",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "TUG OF C&A OFFICIAL MAGAZINE MOOK II",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：1994年。15周年記念特集号として発行。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。",
+      "format": "FC公式MOOK",
+      "releaseTitle": "TUG OF C&A OFFICIAL MAGAZINE MOOK II",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-05",
+      "date": "1997",
+      "datePrecision": "year",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "TUG of C&A別冊 ASKA ID号",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：1997年。ASKAソロ期関連。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。",
+      "format": "FC別冊",
+      "releaseTitle": "TUG of C&A別冊 ASKA ID号",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-06",
+      "date": "1997",
+      "datePrecision": "year",
+      "artist": "Chage",
+      "category": "book",
+      "title": "TUG of C&A別冊 CHAGE Oki doki!号",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：1997年。Chage・MULTI MAX関連。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。",
+      "format": "FC別冊",
+      "releaseTitle": "TUG of C&A別冊 CHAGE Oki doki!号",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-08",
+      "date": "1999",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "赤坂BLITZ Special MTV Program Live／20th Anniversary Premium Live（特別公演パンフレット）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：1999年。FC・特別公演関連冊子。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。",
+      "format": "特別公演パンフ",
+      "releaseTitle": "赤坂BLITZ Special MTV Program Live／20th Anniversary Premium Live（特別公演パンフレット）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-09",
+      "date": "2000",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "千年夜一夜ライブ -福岡ドーム 僕らがホーム-（会報特別号・フォトブック）",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "関連年：2000年。通常パンフとは別に発行されたライブの模様を収めたフォトブック。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。関連年であり発売年の確定ではない。",
+      "format": "会報特別号／フォトブック",
+      "releaseTitle": "千年夜一夜ライブ -福岡ドーム 僕らがホーム-（会報特別号・フォトブック）",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-10",
+      "date": "2004",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2004",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2004年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2004",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-11",
+      "date": "2005",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2005",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2005年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2005",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-12",
+      "date": "2006",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2006",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2006年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2006",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        },
+        {
+          "label": "参考資料（非公式・中古流通情報）",
+          "url": "https://www.suruga-ya.jp/search?category=7021609&person_id=252&search_word="
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-13",
+      "date": "2007",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2007",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2007年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2007",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-14",
+      "date": "2008",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2008",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2008年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2008",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        },
+        {
+          "label": "参考資料（非公式・中古流通情報）",
+          "url": "https://www.suruga-ya.jp/search?category=7021609&person_id=252&search_word="
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-15",
+      "date": "2009",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2009",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2009年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2009",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-16",
+      "date": "2010",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2010",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2010年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2010",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        },
+        {
+          "label": "参考資料（非公式・中古流通情報）",
+          "url": "https://www.suruga-ya.jp/search?category=7021609&person_id=252&search_word="
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-17",
+      "date": "2011",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2011",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2011年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2011",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "book-v2410-fc-18",
+      "date": "2012",
+      "datePrecision": "year",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA YEAR BOOK 2012",
+      "status": "historical",
+      "verification": "secondary",
+      "description": "対象年版：2012年。年1回発行の年次資料（提供台帳）。。発行・販売・配布開始年月日は未確認。",
+      "note": "提供台帳に基づく。発行・配布・販売開始年月日は未確認。年版の対象年であり発行年の確定ではない。",
+      "format": "YEAR BOOK／FC限定冊子",
+      "releaseTitle": "CHAGE and ASKA YEAR BOOK 2012",
+      "sources": [
+        {
+          "label": "参考資料（非公式・提供台帳）",
+          "url": "https://canda.miraheze.org/wiki/%E6%9B%B8%E7%B1%8D%E3%83%BB%E3%83%91%E3%83%B3%E3%83%95%E3%83%AC%E3%83%83%E3%83%88%E3%83%BBFC%E8%B3%87%E6%96%99%E4%B8%80%E8%A6%A7/08_YEAR_BOOK%E3%83%BBFC%E9%99%90%E5%AE%9A%E5%86%8A%E5%AD%90%E3%83%BB%E4%BC%9A%E5%A0%B1"
+        }
+      ]
+    },
+    {
+      "id": "history-v2411-video-03",
+      "date": "2019-03-22",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "『ASKA 書きおろし詩集』発売記念 谷川俊太郎との対談映像（完全版）公開",
+      "status": "historical",
+      "verification": "primary",
+      "description": "双葉社の詩集特設サイトで対談映像の完全版が公開された。対談の収録日ではなく公開日の記録。",
+      "note": "出版関連企画。書籍の発売日とは区別。",
+      "sources": [
+        {
+          "label": "双葉社公式特設サイト",
+          "url": "https://www.futabasha.co.jp/introduction/2019/aska/"
+        },
+        {
+          "label": "双葉社プレスリリース",
+          "url": "https://prtimes.jp/main/html/rd/p/000000122.000014531.html"
+        }
+      ]
+    },
+    {
+      "id": "book-v242-aska-20170322-ebook",
+      "date": "2017-03-22",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "700番 第一巻（電子版）",
+      "status": "released",
+      "verification": "secondary",
+      "description": "『700番 第一巻（電子版）』（電子書籍／扶桑社）が刊行・発売された。",
+      "note": "電子書籍販売資料で3月22日を確認。紙版の日付とは区別。",
+      "format": "電子書籍",
+      "publisher": "扶桑社",
+      "releaseTitle": "700番 第一巻（電子版）",
+      "sources": [
+        {
+          "label": "電子書籍販売資料",
+          "url": "https://booklive.jp/product/index/title_id/426417/vol_no/001"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "edition": "電子書籍版"
+    },
+    {
+      "id": "milestone-1980-05-27-first-tour",
+      "date": "1980-05-27",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "初の全国コンサートツアーがスタート",
+      "description": "福岡市民会館から「旅立ちコンサート」を開始。全国12会場で12公演が行われた。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1980-11-27-bestten-first",
+      "date": "1980-11-27",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「ザ・ベストテン」に初出演",
+      "description": "「万里の河」で今週のスポットライトに登場。番組初出演とされる。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://www.conex-eco.co.jp/serial/showa-record/173964/2/"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1980-12-18-bestten-rank",
+      "date": "1980-12-18",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「万里の河」が「ザ・ベストテン」に初ランクイン",
+      "description": "TBSの番組ランキングで8位に初登場。オリコンの順位とは別の記録。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://www.conex-eco.co.jp/serial/showa-record/173964/2/"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1981-08-01-denen-first",
+      "date": "1981-08-01",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "田園コロシアムで初のコンサートを開催",
+      "description": "「THE 夏祭り’81」。同会場で初のコンサートとなり、約6,000人が来場。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1981-08-21-neppu-finish",
+      "date": "1981-08-21",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「’81熱風」ツアー完走・動員10万人超",
+      "description": "那覇市民会館でツアー終了。全国57会場59公演、ツアー全体で10万人を超える動員を記録。到達日ではなくツアー終了日の記録。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1987-09-21-aska-solo-debut",
+      "date": "1987-09-21",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "ASKAがソロデビュー",
+      "description": "飛鳥涼名義のシングル「MY Mr.LONELY HEART」でソロ活動を開始。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1988-08-21-aska-first-album",
+      "date": "1988-08-21",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "初のソロアルバム『SCENE』を発売",
+      "description": "提供曲を中心としたASKA初のソロアルバム。発売記録とは別にソロ活動の節目として扱う。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1988-12-31-paradise-record-award",
+      "date": "1988-12-31",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "提供曲「パラダイス銀河」が日本レコード大賞を受賞",
+      "description": "第30回日本レコード大賞。光GENJIが歌唱し、飛鳥涼が作詞・作曲、佐藤準が編曲を担当。ASKA個人の作曲賞ではない。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "日本作曲家協会 第30回日本レコード大賞",
+          "url": "https://www.jacompa.or.jp/record/30.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1989-10-03-noru-soru-start",
+      "date": "1989-10-03",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "FMレギュラー番組「NORU SORU」がスタート",
+      "description": "「スーパーFMマガジン NORU SORU」が始まり、1994年3月まで続いた。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/1989.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1989-12-13-multi-max-first-tour",
+      "date": "1989-12-13",
+      "artist": "MULTI MAX",
+      "category": "milestone",
+      "title": "初のツアー開始・ロンドンとの衛星中継",
+      "description": "日本武道館から「CHAGE’S SUPER BAND MULTI MAX ’89」を開始。ロンドンにいたASKAの映像を衛星中継した。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/1989.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1989-09-04-pride-oricon-number-one",
+      "date": "1989-09-04",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "アルバム『PRIDE』がオリコン初登場1位を獲得",
+      "description": "1989年9月4日付オリコン週間アルバムランキングで初登場1位（発表日：8月28日）。1981年の『熱風』以来、約8年ぶりのアルバムチャート1位。順位は公式HISTORYで確認。チャート日付・発表日は提供情報による。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY（初登場1位の確認）",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（非公式・順位の確認）",
+          "url": "https://w.atwiki.jp/cavc/pages/115.html"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1991-08-05-say-yes-first-number-one",
+      "date": "1991-08-05",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「SAY YES」がオリコン初登場1位",
+      "description": "1991年8月5日付週間シングルチャートで初登場1位。発売日は7月24日。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（非公式・週間チャート）",
+          "url": "https://cd100.net/oricon/weekrank.php?date=19910805"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1991-10-28-say-yes-13weeks",
+      "date": "1991-10-28",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「SAY YES」がオリコン13週連続1位を達成",
+      "description": "1991年10月28日付週間シングルチャートで13週連続首位を記録。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（非公式・週間チャート）",
+          "url": "https://cd100.net/oricon/weekrank.php?date=19911028"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1991-12-31-record-award-ca",
+      "date": "1991-12-31",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "第33回日本レコード大賞 ゴールド・ディスク賞受賞",
+      "description": "ポップス・ロック部門で「SAY YES」がゴールド・ディスク賞を受賞。日本ゴールドディスク大賞とは別の賞。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "日本作曲家協会 第33回日本レコード大賞",
+          "url": "https://www.jacompa.or.jp/record/33.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1991-12-31-record-award-aska",
+      "date": "1991-12-31",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "第33回日本レコード大賞 作曲賞・最優秀ボーカル賞等を受賞",
+      "description": "ポップス・ロック部門で「はじまりはいつも雨」が最優秀ボーカル賞とゴールド・ディスク賞、同曲と「SAY YES」で作曲賞を受賞。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "日本作曲家協会 第33回日本レコード大賞",
+          "url": "https://www.jacompa.or.jp/record/33.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1992-05-12-say-yes-big-tree-attendance",
+      "date": "1992-05-12",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「SAY YES」「BIG TREE」両ツアーで総動員45万人",
+      "description": "福岡国際センターでBIG TREEが終了。両ツアーの合計動員は45万人。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1993-03-15-yah-yah-yah-first-number-one",
+      "date": "1993-03-15",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「YAH YAH YAH／夢の番人」がオリコン初登場1位",
+      "description": "1993年3月15日付週間シングルチャートで初登場1位。発売日は3月3日。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（非公式・週間チャート）",
+          "url": "https://cd100.net/oricon/weekrank.php?date=19930315"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1993-05-12-world-music-awards",
+      "date": "1993-05-12",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "World Music Awards 1993出場・受賞",
+      "description": "モナコで開催された音楽賞にアジア代表として出場し受賞。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1993-05-14-asia-promotion",
+      "date": "1993-05-14",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "東南アジア・プロモーション開始",
+      "description": "5月14日から22日まで香港・シンガポールでプロモーションを実施。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1994-04-10-longest-tour-completion",
+      "date": "1994-04-10",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「史上最大の作戦 THE LONGEST TOUR」完遂",
+      "description": "国立代々木競技場第一体育館で終了。全国25カ所70公演。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1994-04-29-asian-tour-start",
+      "date": "1994-04-29",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "初の海外ツアー「ASIAN TOUR 1994」開始",
+      "description": "香港コロシアムを皮切りに海外ツアーを開始。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1994-05-21-asian-tour-completion",
+      "date": "1994-05-21",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「ASIAN TOUR 1994」終了・6万人動員",
+      "description": "香港・シンガポール・台湾の3カ所5公演。台北市立体育場で終了。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1994-08-26-15th-amusement-park",
+      "date": "1994-08-26",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "15周年記念イベント「史上最大のアミューズメントパーク」開催",
+      "description": "富士急ハイランドにて8月26日から28日まで開催。周年当日そのものの記録とは別。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1994-09-29-street-fighter-press",
+      "date": "1994-09-29",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "映画「ストリートファイター」米国記者会見に出席",
+      "description": "サンフランシスコでの記者会見に出席。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1994-12-23-street-fighter-us-release",
+      "date": "1994-12-23",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「Something There」が起用された映画「Street Fighter」が全米公開",
+      "description": "C&Aの英語曲がエンディングに起用された映画の米国公開日。楽曲の国内シングル発売日とは別。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "参考資料（非公式・映画公開記録）",
+          "url": "https://www.boxofficemojo.com/title/tt0111301/"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1991-06-17-scene-ii-first-number-one",
+      "date": "1991-06-17",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "アルバム『SCENE II』がオリコン初登場1位",
+      "description": "6月17日付週間アルバムチャートで初登場1位。発売日は6月5日。初登場1位は公式HISTORYで確認。チャート日付は提供情報に基づく。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1991-10-21-tree-first-number-one",
+      "date": "1991-10-21",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "アルバム『TREE』がオリコン初登場1位",
+      "description": "10月21日付週間アルバムチャートで初登場1位。発売日は10月10日。初登場1位は公式HISTORYで確認。チャート日付は提供情報に基づく。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": true
     }
   ],
-  "siteVersion": "2.3.15"
+  "siteVersion": "2.5.3"
 };
