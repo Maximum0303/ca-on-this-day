@@ -183,7 +183,7 @@ function renderYearOnly(matches){
   const d=fromDate(e.date),stamp=isYearOnly(e)?d.year+'年／月日未詳':d.year+'年'+d.month+'月'+d.day+'日';
   return '<article class="year-only-card"><span class="year-only-stamp">'+esc(stamp)+'</span>'+caArtistTag(e)+'<span class="tag">'+esc(category(e))+'</span><h3>'+esc(e.title)+'</h3>'+(brief?'<p>'+esc(brief)+'</p>':'')+'<a href="'+esc(recordUrl(e))+'">記録の詳細・出典を見る ↗</a></article>';
  };
- box.innerHTML=list.slice(0,4).map(card).join('')+(list.length>4?'<details class="ca260-more"'+(wasOpen?' open':'')+'><summary>残り '+(list.length-4)+' 件の重要記録を表示</summary><div class="year-only-list">'+list.slice(4).map(card).join('')+'</div></details>':'');
+ box.innerHTML=list.slice(0,list.length<=5?list.length:4).map(card).join('')+(list.length>5?'<details class="ca260-more"'+(wasOpen?' open':'')+'><summary>残り '+(list.length-4)+' 件の重要記録を表示</summary><div class="year-only-list">'+list.slice(4).map(card).join('')+'</div></details>':'');
 }
 /* /YEAR_ONLY_RECORDS_V2029 */
 
