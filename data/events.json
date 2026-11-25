@@ -98417,7 +98417,59 @@
       "title": "ChageLiveTour 2024 ～ちゃげっていうひと～ アーカイブ配信開始",
       "description": "2024年9月23日のZepp DiverCity（TOKYO）公演「ChageLiveTour 2024 ～ちゃげっていうひと～」のアーカイブ配信開始日。",
       "note": "PIA LIVE STREAMによる配信。公式告知では2024年9月23日17:00開演予定、当日の視聴期限20:00。アーカイブ配信期間は2024年10月8日17:00～11月5日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。"
+    },
+    {
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-771.php"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://clubcitta.co.jp/schedule/553"
+        },
+        {
+          "label": "チケットぴあ公式配信情報",
+          "url": "https://t.pia.jp/pia/event/event.do?eventCd=2540110"
+        }
+      ],
+      "note": "PIA LIVE STREAMによる配信。公式告知では2025年11月14日18:30から生配信、アーカイブ配信期間は2025年11月28日17:00～12月19日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。",
+      "id": "chage-20251114-mrnovember-pia-live",
+      "date": "2025-11-14",
+      "title": "ChageLiveTour2025 Mr.November 生配信",
+      "description": "2025年11月14日、CLUB CITTA’ 川崎で開催された「ChageLiveTour2025 Mr.November」の生配信日。"
+    },
+    {
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "broadcastStation": "PIA LIVE STREAM",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-771.php"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://clubcitta.co.jp/schedule/553"
+        },
+        {
+          "label": "チケットぴあ公式配信情報",
+          "url": "https://t.pia.jp/pia/event/event.do?eventCd=2540110"
+        }
+      ],
+      "note": "PIA LIVE STREAMによる配信。公式告知では2025年11月14日18:30から生配信、アーカイブ配信期間は2025年11月28日17:00～12月19日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。",
+      "id": "chage-20251128-mrnovember-pia-archive",
+      "date": "2025-11-28",
+      "title": "ChageLiveTour2025 Mr.November アーカイブ配信開始",
+      "description": "2025年11月14日のCLUB CITTA’ 川崎公演「ChageLiveTour2025 Mr.November」のアーカイブ配信開始日。"
     }
   ],
-  "siteVersion": "2.3.23"
+  "siteVersion": "2.3.24"
 }
