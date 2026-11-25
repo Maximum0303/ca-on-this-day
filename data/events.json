@@ -97923,7 +97923,29 @@
           "url": "https://w.atwiki.jp/cavc/pages/466.html"
         }
       ]
+    },
+    {
+      "id": "aska-20220825-premium-symphonic-nagoya-stream",
+      "date": "2022-08-25",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "ASKA Premium Symphonic Concert 2022 名古屋公演（オンライン配信）",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2022年8月6日、愛知県芸術劇場 コンサートホールで収録した名古屋公演の映像を8月25日0:00から有料配信。指揮：栁澤寿男、管弦楽：京都フィルハーモニー室内合奏団特別交響楽団、合唱：宝塚少年少女合唱団。",
+      "note": "配信期間は2022年8月25日0:00～8月31日23:59。視聴料金3,000円（税込）。CHAGE and ASKAデビュー43周年の日に配信開始。公演実施日とは別記録。配信日・ローチケ LIVE STREAMINGは公式発表で確認、ZAIKO表記は二次資料で照合。",
+      "broadcastStation": "ローチケ LIVE STREAMING（ZAIKO）",
+      "sources": [
+        {
+          "label": "キョードーメディアス公式発表",
+          "url": "https://prtimes.jp/main/html/rd/p/000002008.000012949.html"
+        },
+        {
+          "label": "参考資料（非公式・配信記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/468.html"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.8"
+  "siteVersion": "2.3.9"
 }
