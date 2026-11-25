@@ -99279,7 +99279,137 @@
       ],
       "isbn": "9784594076818",
       "edition": "紙版"
+    },
+    {
+      "id": "book-v243-aska-fellows-piano",
+      "date": "2018-10-19",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ピアノソロ ASKA「We are the Fellows」",
+      "status": "released",
+      "verification": "primary",
+      "description": "2018年、ピアノソロ ASKA「We are the Fellows」が刊行された。",
+      "note": "菊倍判縦・84ページ。中級。2018年10月17日発売のアルバム全13曲に対応した楽譜。",
+      "format": "ピアノ譜",
+      "publisher": "ヤマハミュージックエンタテインメントホールディングス",
+      "releaseTitle": "ピアノソロ ASKA「We are the Fellows」",
+      "sources": [
+        {
+          "label": "出版社公式",
+          "url": "https://www.ymm.co.jp/p/detail.php?code=GTP01096449"
+        },
+        {
+          "label": "出版社公式発表",
+          "url": "https://prtimes.jp/main/html/rd/p/000002439.000004566.html"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/02_PHOTO_SONG_BOOK・楽譜・スコア本"
+        }
+      ],
+      "isbn": "9784636964493",
+      "catalogNumber": "GTP01096449",
+      "jan": "4947817278306"
+    },
+    {
+      "id": "book-v243-aska-fellows-guitar",
+      "date": "2018-10-19",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "ギター弾き語り ASKA「We are the Fellows」",
+      "status": "released",
+      "verification": "primary",
+      "description": "2018年、ギター弾き語り ASKA「We are the Fellows」が刊行された。",
+      "note": "B5判縦・96ページ。初中級。2018年10月17日発売のアルバム全13曲に対応した楽譜。",
+      "format": "ギター譜",
+      "publisher": "ヤマハミュージックエンタテインメントホールディングス",
+      "releaseTitle": "ギター弾き語り ASKA「We are the Fellows」",
+      "sources": [
+        {
+          "label": "出版社公式",
+          "url": "https://www.ymm.co.jp/p/detail.php?code=GTL01096412"
+        },
+        {
+          "label": "出版社公式発表",
+          "url": "https://prtimes.jp/main/html/rd/p/000002439.000004566.html"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/02_PHOTO_SONG_BOOK・楽譜・スコア本"
+        }
+      ],
+      "isbn": "9784636964127",
+      "catalogNumber": "GTL01096412",
+      "jan": "4947817277880"
+    },
+    {
+      "id": "book-v243-ca-tree-score",
+      "date": "1991-11-20",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "TREE CHAGE AND ASKA（スコア・楽譜）",
+      "status": "released",
+      "verification": "secondary",
+      "description": "1991年、TREE CHAGE AND ASKA（スコア・楽譜）が刊行された。",
+      "note": "流通書誌の日付。PHOTO SONG BOOK「TREE」PLUS BESTとは別の流通書誌（ISBNあり）。現物の奥付・編成は未確認。",
+      "format": "スコア・楽譜",
+      "publisher": "ヤマハ音楽振興会",
+      "releaseTitle": "TREE CHAGE AND ASKA（スコア・楽譜）",
+      "sources": [
+        {
+          "label": "参考資料（流通書誌）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/BS23419"
+        }
+      ],
+      "isbn": "9784636167344"
+    },
+    {
+      "id": "book-v243-ca-red-hill-band",
+      "date": "1993-11-20",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "バンドスコア CHAGE＆ASKA RED HILL",
+      "status": "released",
+      "verification": "secondary",
+      "description": "1993年、バンドスコア CHAGE＆ASKA RED HILLが刊行された。",
+      "note": "流通書誌に記載された発売日。出版社原典・奥付未確認。音楽アルバムとは別の楽譜集。",
+      "format": "バンドスコア",
+      "publisher": "ヤマハ音楽振興会",
+      "releaseTitle": "バンドスコア CHAGE＆ASKA RED HILL",
+      "sources": [
+        {
+          "label": "参考資料（流通書誌）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/BS21414"
+        }
+      ],
+      "isbn": "9784636168013"
+    },
+    {
+      "id": "book-v243-ca-guitar-wide",
+      "date": "2024-12-18",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE and ASKA／ギター弾き語り曲集（永久保存ワイド版）",
+      "status": "released",
+      "verification": "secondary",
+      "description": "2024年、CHAGE and ASKA／ギター弾き語り曲集（永久保存ワイド版）が刊行された。",
+      "note": "菊倍判・160ページ。ヤマハ楽譜通販の商品情報に記載された発売日。発行元はドレミ楽譜出版社。出版社の注文ページでも存在を確認。",
+      "format": "ギター弾き語り曲集",
+      "publisher": "ドレミ楽譜出版社",
+      "releaseTitle": "CHAGE and ASKA／ギター弾き語り曲集（永久保存ワイド版）",
+      "sources": [
+        {
+          "label": "楽譜販売元の商品情報",
+          "url": "https://sheetmusic.jp.yamaha.com/products/4514142154355"
+        },
+        {
+          "label": "出版社公式（商品存在確認）",
+          "url": "https://www.doremi.co.jp/pages/4/"
+        }
+      ],
+      "isbn": "9784285154351",
+      "jan": "4514142154355"
     }
   ],
-  "siteVersion": "2.4.2"
+  "siteVersion": "2.4.3"
 }
