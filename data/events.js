@@ -44965,14 +44965,23 @@ window.CA_EVENT_DATA = {
       "title": "テレビ「MEET THE WORLD BEAT 2003」ライブ中継・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "スペースシャワーTV。同日に万博記念公園で開催された野外イベントをCSで生中継。実際の野外公演とは別の放送記録。（二次資料の記録、放送局一次資料は未照合。）",
+      "note": "スペースシャワーTV。同日に万博記念公園で開催された野外イベントをCSで生中継。実際の野外公演とは別の放送記録。（二次資料の記録、放送局一次資料は未照合。） ／ CSテレビ生中継。放送日と媒体は二次資料による確認。放送局の当時の番組表・放送時刻は未確認。会場公演とは別記録。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://song2.sakura.ne.jp/tv03.html"
+        },
+        {
+          "label": "FM802公式アーカイブ（公演情報）",
+          "url": "https://funky802.com/meet/archive/detail.php?year=2003"
         }
       ],
-      "description": "2003年7月27日、CHAGE and ASKAが取り上げられたテレビ番組「MEET THE WORLD BEAT 2003」が放送された。"
+      "description": "2003年7月27日、CHAGE and ASKAが取り上げられたテレビ番組「MEET THE WORLD BEAT 2003」が放送された。",
+      "broadcastStation": "スペースシャワーTV"
     },
     {
       "id": "release-v08-004",
@@ -98541,5 +98550,5 @@ window.CA_EVENT_DATA = {
       "description": "2022年7月10日のiTSCOM STUDIO & HALL 二子玉川ライズ公演「Chageのずっと細道」のアーカイブ配信開始日。"
     }
   ],
-  "siteVersion": "2.3.26"
+  "siteVersion": "2.3.27"
 };
