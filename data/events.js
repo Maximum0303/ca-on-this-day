@@ -98561,7 +98561,79 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/cavc/pages/359.html"
         }
       ]
+    },
+    {
+      "id": "aska-20250119-kantabile-fujitwo",
+      "date": "2025-01-19",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "KANタービレ～今夜は帰さナイトフィーバー～ フジテレビTWO 初回放送",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2025/01/19、2024年11月12日の公演の収録映像がフジテレビTWOで初回放送された。",
+      "note": "21:00開始（放送終了時刻は未確認）。スカパー！番組配信で同時配信・1週間の見逃し配信も公式告知。 ASKA出演。公式放送日程による確認。",
+      "sources": [
+        {
+          "label": "フジテレビ公式放送情報",
+          "url": "https://www.fujitv.co.jp/fujitv/news/20241414.html"
+        }
+      ],
+      "broadcastStation": "フジテレビTWO"
+    },
+    {
+      "id": "aska-20250216-kantabile-fujitwo",
+      "date": "2025-02-16",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "KANタービレ～今夜は帰さナイトフィーバー～ フジテレビTWO 再放送",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2025/02/16、2024年11月12日の公演の収録映像がフジテレビTWOで再放送された。",
+      "note": "23:00～翌1:30（公式表記23:00～25:30）。 ASKA出演。公式放送日程による確認。",
+      "sources": [
+        {
+          "label": "フジテレビ公式放送情報",
+          "url": "https://otn.fujitv.co.jp/kantabile_sp/"
+        }
+      ],
+      "broadcastStation": "フジテレビTWO"
+    },
+    {
+      "id": "aska-20250310-kantabile-fujitwo",
+      "date": "2025-03-10",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "KANタービレ～今夜は帰さナイトフィーバー～ フジテレビTWO 再放送",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2025/03/10、2024年11月12日の公演の収録映像がフジテレビTWOで再放送された。",
+      "note": "0:00～2:30。公式番組表では3月9日24:00～26:30と表記。暦日で登録。 ASKA出演。公式放送日程による確認。",
+      "sources": [
+        {
+          "label": "フジテレビ公式放送情報",
+          "url": "https://otn.fujitv.co.jp/kantabile_sp/"
+        }
+      ],
+      "broadcastStation": "フジテレビTWO"
+    },
+    {
+      "id": "aska-20250301-kantabile-ura-fuji",
+      "date": "2025-03-01",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "KANタービレ 一夜限りの裏話 テレビ放送",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2025年3月1日、フジテレビでKANタービレのライブ映像と発起人のトークを含む特別番組が放送された。",
+      "note": "2:05～3:05。公式番組表では2月28日26:05～27:05。暦日で登録。CS放送とは別構成。番組公式出演者一覧にASKAの記載あり。",
+      "sources": [
+        {
+          "label": "フジテレビ地上波番組公式情報",
+          "url": "https://www.fujitv.co.jp/b_hp/kantabile/index.html"
+        }
+      ],
+      "broadcastStation": "フジテレビ"
     }
   ],
-  "siteVersion": "2.3.30"
+  "siteVersion": "2.3.31"
 };
