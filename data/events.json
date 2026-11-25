@@ -32781,24 +32781,35 @@
     },
     {
       "id": "v1829-1996-0727-asia-tour-book",
-      "date": "1996-07-27",
+      "date": "1996-08-02",
       "artist": "CHAGE and ASKA",
-      "category": "release",
-      "title": "書籍『CHAGE and ASKA DOCUMENT ―アジアツアーの真実―』発売",
+      "category": "book",
+      "title": "CHAGE&ASKA DOCUMENT――ASIAN TOURの真実――",
       "status": "released",
       "verification": "primary",
-      "note": "アジアツアーを記録した書籍の刊行日。ライブ開催日ではない。",
+      "note": "アジアツアーを記録した書籍の刊行日。ライブ開催日ではない。 ／ 出版社公式は8月2日、アーティスト公式年表は7月27日。出版社の発売日を採用。 ／ 旧登録日：1996-07-27（公式年表）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "幻冬舎公式",
+          "url": "https://www.gentosha.co.jp/book/detail/9784877281243/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "書籍",
-      "releaseTitle": "CHAGE and ASKA DOCUMENT ―アジアツアーの真実―",
-      "description": "1996年7月27日、CHAGE and ASKAの『CHAGE and ASKA DOCUMENT ―アジアツアーの真実―』が発売された。"
+      "releaseTitle": "CHAGE&ASKA DOCUMENT――ASIAN TOURの真実――",
+      "description": "CHAGE&ASKA DOCUMENT――ASIAN TOURの真実――（ドキュメント本／幻冬舎）が刊行された。",
+      "format": "ドキュメント本",
+      "publisher": "幻冬舎",
+      "isbn": "9784877281243"
     },
     {
       "id": "v1829-1996-0731-one-voice-japan",
@@ -32922,24 +32933,36 @@
     },
     {
       "id": "v1829-1996-1107-aska-interview-book",
-      "date": "1996-11-07",
+      "date": "1996-12-06",
       "artist": "ASKA",
-      "category": "release",
-      "title": "ASKAエッセイ集『インタビュー』発売",
+      "category": "book",
+      "title": "インタビュー",
       "status": "released",
       "verification": "primary",
-      "note": "ASKA本人によるエッセイ集の刊行日。",
+      "note": "ASKA本人によるエッセイ集の刊行日。 ／ 著：飛鳥涼。出版社公式は12月6日、アーティスト公式HISTORYは11月7日。出版社の日付を採用。 ／ 旧登録日：1996-11-07（公式年表）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "幻冬舎公式",
+          "url": "https://www.gentosha.co.jp/book/detail/9784877281366/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "書籍（エッセイ集）",
       "releaseTitle": "インタビュー",
-      "description": "1996年11月7日、ASKAの『インタビュー』が発売された。"
+      "description": "『インタビュー』（単行本・エッセイ／幻冬舎）が刊行・発売された。",
+      "format": "単行本・エッセイ",
+      "publisher": "幻冬舎",
+      "isbn": "9784877281366",
+      "edition": "単行本"
     },
     {
       "id": "media-v18231-1996-11-08-chage-001",
@@ -52666,22 +52689,41 @@
       "id": "release-2009-kasha-photobook",
       "date": "2009-04-10",
       "artist": "Chage",
-      "category": "release",
-      "title": "『歌写（かしゃッ）！♪ ～写真で綴る幸せな音符～』発売",
-      "releaseTitle": "歌写（かしゃッ）！♪ ～写真で綴る幸せな音符～",
+      "category": "book",
+      "title": "歌写（かしゃッ）！♪ 写真で綴る幸せな音符",
+      "releaseTitle": "歌写（かしゃッ）！♪ 写真で綴る幸せな音符",
       "status": "released",
       "verification": "primary",
-      "note": "写真集",
+      "note": "写真集 ／ 112ページ。初の写真集。Chage公式は4月10日、書店資料は4月8日。公式ディスコグラフィーの日付を採用。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "Chage公式Discography",
+          "url": "https://chage.jp/discography/chage/book/001.php"
+        },
+        {
+          "label": "出版書誌データベース",
+          "url": "https://www.books.or.jp/book-details/9784584131565"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://www.maruzenjunkudo.co.jp/products/9784584131565"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "写真集",
-      "description": "2009年4月10日、Chageの『歌写（かしゃッ）！♪ ～写真で綴る幸せな音符～』が発売された。"
+      "description": "歌写（かしゃッ）！♪ 写真で綴る幸せな音符（写真集／KKベストセラーズ）が発売された。",
+      "format": "写真集",
+      "publisher": "KKベストセラーズ",
+      "isbn": "9784584131565"
     },
     {
       "id": "live-aska-walk-2009-006",
@@ -64091,22 +64133,42 @@
       "id": "v13-release-002",
       "date": "2017-03-17",
       "artist": "ASKA",
-      "category": "release",
-      "title": "書籍『700番 第一巻』発売",
+      "category": "book",
+      "title": "700番 第一巻（紙版）",
       "status": "released",
       "verification": "secondary",
-      "note": "",
+      "note": "紙版は丸善ジュンク堂書店の発売日2017年3月17日を採用。提供台帳の3月22日等とは相違あり。出版社・奥付の確認待ち。電子版は別記録。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2017"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://www.maruzenjunkudo.co.jp/products/9784594076801"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://tower.jp/item/4458314"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://books.rakuten.co.jp/rb/14697856/"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "書籍",
-      "releaseTitle": "700番 第一巻",
-      "description": "2017年3月17日、ASKAの『700番 第一巻』が発売された。"
+      "releaseTitle": "700番 第一巻（紙版）",
+      "description": "2017年3月17日、ASKAの『700番 第一巻』が発売された。",
+      "format": "単行本",
+      "publisher": "扶桑社",
+      "isbn": "9784594076801",
+      "edition": "紙版"
     },
     {
       "id": "v13-ch17-omoto",
@@ -90041,22 +90103,29 @@
       "id": "release-audit-v2042-20260128-08",
       "date": "2026-01-28",
       "artist": "ASKA",
-      "category": "release",
-      "title": "『Who is ASKA !?』ドキュメンタリーブック追加公演版・会場販売開始",
-      "releaseTitle": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- ドキュメンタリーブック encore performance edition",
+      "category": "book",
+      "title": "Who is ASKA!? ドキュメンタリーブック encore performance edition",
+      "releaseTitle": "Who is ASKA!? ドキュメンタリーブック encore performance edition",
       "releaseFormat": "書籍（追加公演版・会場販売開始）",
       "status": "released",
       "verification": "primary",
-      "note": "【第42回・一次資料照合】ECの予約開始日は1月21日13時。商品の発送は1月28日以降、劇場上映館での現物販売は1月28日。1月20日の告知日を発売日としない。",
+      "note": "【第42回・一次資料照合】ECの予約開始日は1月21日13時。商品の発送は1月28日以降、劇場上映館での現物販売は1月28日。1月20日の告知日を発売日としない。 ／ 追加公演7箇所の記録。B5・本文144ページ。1月21日13時予約販売開始、1月28日以降発送・同日映画館販売。",
       "sources": [
         {
           "label": "公式・発売元・配信元の作品情報",
           "url": "https://www.fellows.tokyo/news/detail/613"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
-      "description": "2026年1月28日、ASKAの『Who is ASKA !?』が発売された。"
+      "description": "『Who is ASKA!? ドキュメンタリーブック encore performance edition』（公式本／ASKA公式通販）が刊行・発売された。",
+      "format": "公式本",
+      "publisher": "ASKA公式通販",
+      "edition": "追加公演版"
     },
     {
       "id": "release-audit-v2042-20260409-09",
@@ -101888,7 +101957,32 @@
           "url": "https://prtimes.jp/main/html/rd/p/000000122.000014531.html"
         }
       ]
+    },
+    {
+      "id": "book-v242-aska-20170322-ebook",
+      "date": "2017-03-22",
+      "artist": "ASKA",
+      "category": "book",
+      "title": "700番 第一巻（電子版）",
+      "status": "released",
+      "verification": "secondary",
+      "description": "『700番 第一巻（電子版）』（電子書籍／扶桑社）が刊行・発売された。",
+      "note": "電子書籍販売資料で3月22日を確認。紙版の日付とは区別。",
+      "format": "電子書籍",
+      "publisher": "扶桑社",
+      "releaseTitle": "700番 第一巻（電子版）",
+      "sources": [
+        {
+          "label": "電子書籍販売資料",
+          "url": "https://booklive.jp/product/index/title_id/426417/vol_no/001"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        }
+      ],
+      "edition": "電子書籍版"
     }
   ],
-  "siteVersion": "2.4.11"
+  "siteVersion": "2.4.12"
 }
