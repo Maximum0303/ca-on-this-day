@@ -97270,7 +97270,41 @@ window.CA_EVENT_DATA = {
           "url": "https://www.wikipedia-is-dead.com/wiki/%E5%A4%A9%E6%B0%97%E4%BA%88%E5%A0%B1%E3%81%AE%E6%81%8B%E4%BA%BA"
         }
       ]
+    },
+    {
+      "id": "media-tieup-2010-0918-moteki-201",
+      "date": "2010-09-18",
+      "artist": "CHAGE and ASKA",
+      "category": "media",
+      "title": "ドラマ『モテキ』第10話「悪い習慣」放送（挿入歌「201号」）",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "テレビ東京",
+      "description": "テレビ東京系ドラマ『モテキ』第10話「悪い習慣」で、CHAGE and ASKAの「201号」が「モテ曲」として使用された。主人公・藤本幸世が小宮山夏樹との思い出を振り返る場面のBGM。",
+      "note": "テレビ東京公式の第10話モテ曲一覧・制作裏話で楽曲使用を確認。公式の見どころページは2010年9月17日放送と表記。金曜深夜24時12分からの通常放送枠に基づき暦日の9月18日で登録する。本人出演・通常の主題歌とは区別する。映像本編は未視聴。",
+      "sources": [
+        {
+          "label": "テレビ東京公式｜第10話のモテ曲",
+          "url": "https://www.tv-tokyo.co.jp/moteki/special/motekyoku.html"
+        },
+        {
+          "label": "テレビ東京公式｜第10話 制作裏話",
+          "url": "https://www.tv-tokyo.co.jp/moteki/special/koborebanashi10.html"
+        },
+        {
+          "label": "テレビ東京公式｜第10話の見どころ（9月17日放送）",
+          "url": "https://www.tv-tokyo.co.jp/moteki/special/midokoro.html"
+        },
+        {
+          "label": "テレビ東京公式｜放送局・放送時間",
+          "url": "https://www.tv-tokyo.co.jp/moteki/onair/index.html"
+        },
+        {
+          "label": "テレビ東京公式｜第10話「悪い習慣」",
+          "url": "https://www.tv-tokyo.co.jp/moteki/story/story10.html"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.2.24"
+  "siteVersion": "2.3.0"
 };
