@@ -45230,14 +45230,15 @@
       "title": "テレビ「RISING SUN ROCK FESTIVAL 2003 in EZO #2」出演・放送",
       "status": "recorded",
       "verification": "secondary",
-      "note": "フジテレビ721。8月の野外イベント映像を放送。本番の2003年8月16日とは別日。（二次資料の記録、放送局一次資料は未照合。）",
+      "note": "フジテレビ721。8月の野外イベント映像を放送。本番の2003年8月16日とは別日。（二次資料の記録、放送局一次資料は未照合。） ／ 2003年8月16日の公演に関する収録映像の放送。放送日・放送局・出演映像は二次資料による確認。放送局の当時の番組表・放送時刻は未確認。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/72.html"
         }
       ],
-      "description": "2003年10月4日、CHAGE and ASKAが出演したテレビ番組「RISING SUN ROCK FESTIVAL 2003 in EZO #2」が放送された。"
+      "description": "2003年10月4日、CHAGE and ASKAが出演したテレビ番組「RISING SUN ROCK FESTIVAL 2003 in EZO #2」が放送された。",
+      "broadcastStation": "フジテレビ721"
     },
     {
       "id": "live-extra-2003-10-13-01",
@@ -98550,5 +98551,5 @@
       "description": "2022年7月10日のiTSCOM STUDIO & HALL 二子玉川ライズ公演「Chageのずっと細道」のアーカイブ配信開始日。"
     }
   ],
-  "siteVersion": "2.3.27"
+  "siteVersion": "2.3.28"
 }
