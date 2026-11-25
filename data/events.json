@@ -98304,7 +98304,24 @@
       "title": "Chage Christmas Party 2020 完全版 アーカイブ配信開始",
       "description": "2021年2月19日、mahocastで「Chage Christmas Party 2020」のライブ映像完全版のアーカイブ配信が開始された。",
       "note": "2020年12月19日のビルボードライブ横浜公演の収録映像。公式案内の視聴期間は2月19日10:00～2月21日23:59。一般購入も可能。同期間にライブ実況（副音声）付き映像も別商品として配信された。2月14日のequal会員限定配信イベントとは別記録。収録ステージは未特定。"
+    },
+    {
+      "artist": "Chage",
+      "category": "other",
+      "status": "recorded",
+      "verification": "primary",
+      "id": "chage-20260716-instinto-akita-story-equal",
+      "date": "2026-07-16",
+      "title": "Chage 映像のInstinto Akita Story｜Jul.2025-Feb.2026 -A Film by Ayumi Sakamoto-",
+      "description": "2026年7月16日、Chage公式ファンクラブequalのMovie/Podcastで、秋田を舞台にしたドキュメンタリー映像が会員限定で公開された。",
+      "note": "坂本あゆみ監督によるドキュメンタリー映像第2弾。2025年7月に「Chageのずっと細道」で秋田を訪れた際のじゅんさい採り・紙風船制作と、2026年2月に紙風船を上げるため秋田を再訪した様子を収録。2026年7月16日は映像の公開日であり、公演日・撮影日ではない。公開終了日は未確認。",
+      "sources": [
+        {
+          "label": "Chage公式ファンクラブequal Movie更新のお知らせ",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=21109"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.20"
+  "siteVersion": "2.3.21"
 }
