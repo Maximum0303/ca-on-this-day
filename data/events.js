@@ -98149,7 +98149,51 @@ window.CA_EVENT_DATA = {
           "url": "https://note.com/masshironouni/n/n8047961b5bfa"
         }
       ]
+    },
+    {
+      "id": "chage-20240106-billboard-65to66-streamingplus-live",
+      "date": "2024-01-06",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "Chage Billboard Live “65 to 66” 生配信",
+      "description": "2024年1月6日、ビルボードライブ東京で開催された「Chage Billboard Live “65 to 66”」の2ndステージがStreaming+で生配信された。",
+      "note": "Chageの66歳の誕生日当日、年またぎツアーの最終公演。1stステージ17:00、2ndステージ20:00開演。2ndステージをStreaming+で生配信（20:00開始、視聴開始19:30）。公式告知上のアーカイブ期間は2024年1月18日（準備完了後）～1月24日22:00。開始時刻は未公表。会場公演記録とは別に掲載。",
+      "broadcastStation": "Streaming+",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-592.php"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-14534"
+        }
+      ]
+    },
+    {
+      "id": "chage-20240118-billboard-65to66-streamingplus-archive",
+      "date": "2024-01-18",
+      "artist": "Chage",
+      "category": "media",
+      "status": "recorded",
+      "title": "Chage Billboard Live “65 to 66” アーカイブ配信開始",
+      "description": "2024年1月6日のビルボードライブ東京公演「Chage Billboard Live “65 to 66”」2ndステージのアーカイブ配信開始日。",
+      "note": "Chage公式告知による配信期間は2024年1月18日（準備完了後）～1月24日22:00。開始時刻および当日の実際の公開時刻は未確認。1月6日の生配信とは別記録。",
+      "broadcastStation": "Streaming+",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式配信告知",
+          "url": "https://chage.jp/information/live/detail-592.php"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-14534"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.3.17"
+  "siteVersion": "2.3.18"
 };
