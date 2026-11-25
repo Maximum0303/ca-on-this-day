@@ -98700,7 +98700,33 @@ window.CA_EVENT_DATA = {
         }
       ],
       "broadcastStation": "スペースシャワーTV"
+    },
+    {
+      "id": "aska-20230127-nagae-cafe-vol10-day1-stream",
+      "date": "2023-01-27",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "長江健次Cafe Vol.10 町田編 Day1（ASKAゲスト出演）収録映像配信",
+      "status": "recorded",
+      "verification": "secondary",
+      "description": "2023年1月27日、1月7日にまほろ座MACHIDAで開催された長江健次Cafe Vol.10初日の収録映像が配信された。",
+      "note": "参考資料では2023年1月27日21:00から2月2日23:59まで配信。配信サービスは提供情報によるStreaming+で、当時の配信元告知原文は未確認。会場公式に配信チケット3,000円の記載あり。1月7日の生配信は未確認。",
+      "sources": [
+        {
+          "label": "会場公式公演情報",
+          "url": "https://www.mahoroza.jp/schedule/230107/"
+        },
+        {
+          "label": "参考資料（非公式・配信日程）",
+          "url": "https://cosmos.ladomi.net/archives/index_arch_2023"
+        },
+        {
+          "label": "参考資料（非公式・活動記録）",
+          "url": "https://plaza.rakuten.co.jp/nijinohana2624/diary/ctgylist/?ctgy=8"
+        }
+      ],
+      "broadcastStation": "Streaming+"
     }
   ],
-  "siteVersion": "2.3.33"
+  "siteVersion": "2.3.34"
 };
