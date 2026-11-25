@@ -74699,15 +74699,19 @@
       "prefecture": "",
       "status": "recorded",
       "verification": "primary",
-      "note": "放送局・配信媒体：フジテレビ系。出演形態：出演",
+      "note": "放送局・配信媒体：フジテレビ系。出演形態：出演\n追補：フジテレビ公式タイムテーブルの22時頃の欄に2曲が掲載され、所蔵映像リストと一致。映像本編は未視聴。",
       "sources": [
         {
           "label": "公式資料",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "フジテレビ公式｜2022 FNS歌謡祭 第2夜タイムテーブル",
+          "url": "https://www.fujitv.co.jp/FNS/2022/table2.html"
         }
       ],
       "broadcastStation": "フジテレビ系",
-      "description": "2022年12月14日、ASKAが出演したテレビ番組「2022FNS歌謡祭 第2夜」がフジテレビ系で放送された。"
+      "description": "2022年12月14日、ASKAがフジテレビ系「2022 FNS歌謡祭 第2夜」に出演。「SAY YES」「歌になりたい」を披露した。"
     },
     {
       "id": "v14-chage-2022-billboard-001",
@@ -75044,14 +75048,18 @@
       "title": "フジテレビ「MUSIC FAIR」出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "追補：フジテレビ公式バックナンバーに放送日と歌唱曲を確認。所蔵映像リストにも同番組がある。映像本編は未視聴。",
       "sources": [
         {
           "label": "ASKA公式Biography",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "フジテレビ公式｜MUSIC FAIR 2023年1月28日",
+          "url": "https://www.fujitv.co.jp/MUSICFAIR/backnumber/bn2301.html"
         }
       ],
-      "description": "2023年1月28日、ASKAが出演したテレビ番組「MUSIC FAIR」がフジテレビで放送された。"
+      "description": "2023年1月28日、ASKAがフジテレビ「MUSIC FAIR」に出演。SawanoHiroyuki[nZk]:ASKAとして「地球という名の都」を披露した。"
     },
     {
       "id": "v15-0021",
@@ -76867,15 +76875,19 @@
       "prefecture": "",
       "status": "recorded",
       "verification": "primary",
-      "note": "放送局・配信媒体：フジテレビ系。出演形態：出演",
+      "note": "放送局・配信媒体：フジテレビ系。出演形態：出演\n追補：所蔵映像リストの曲目と当日公開のタイムテーブル報道が一致。映像本編は未視聴。",
       "sources": [
         {
           "label": "公式資料",
           "url": "https://www.fujitv.co.jp/FNS/2023/"
+        },
+        {
+          "label": "参考資料（当日発表の曲目・タイムテーブル）",
+          "url": "https://www.oricon.co.jp/news/2306406/full/"
         }
       ],
       "broadcastStation": "フジテレビ系",
-      "description": "2023年12月13日、ASKAが出演したテレビ番組「2023 FNS歌謡祭 第2夜」がフジテレビ系で放送された。"
+      "description": "2023年12月13日、ASKAがフジテレビ系「2023 FNS歌謡祭 第2夜」に出演。「PRIDE」「地球という名の都」を披露した。"
     },
     {
       "id": "v15-0027",
@@ -83151,14 +83163,18 @@
       "title": "フジテレビ系列「2025 FNS歌謡祭 第1夜」出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "番組放送日。出演時間帯は未記録",
+      "note": "番組放送日。出演時間帯は未記録\n追補：所蔵映像リストと放送後の報道が一致。フジテレビ公式の共演告知でも確認。映像本編は未視聴。",
       "sources": [
         {
           "label": "ASKA公式：2025 FNS歌謡祭出演",
           "url": "https://www.fellows.tokyo/news/detail/588"
+        },
+        {
+          "label": "参考資料（放送後の歌唱・共演報道）",
+          "url": "https://www.nikkan-gendai.com/articles/view/geino/381189"
         }
       ],
-      "description": "2025年12月3日、ASKAが出演したテレビ番組「2025 FNS歌謡祭 第1夜」がフジテレビで放送された。"
+      "description": "2025年12月3日、ASKAがフジテレビ「2025 FNS歌謡祭 第1夜」に出演。「晴天を誉めるなら夕暮れを待て」を歌唱し、花村想太（Da-iCE）と「はじまりはいつも雨」を共演した。"
     },
     {
       "id": "v15-0185",
@@ -83943,14 +83959,18 @@
       "title": "NHK BSP4K「玉置浩二ショー」出演",
       "status": "recorded",
       "verification": "secondary",
-      "note": "玉置浩二と共演。放送日に登録",
+      "note": "玉置浩二と共演。放送日に登録\n追補：玉置浩二所属レコード会社の公式告知で3月17日（BSP4K）と3月21日（BS）の放送日程を確認。所蔵映像リストは3月21日分。3月17日の既存日付を維持し、3月21日分は別記録。映像本編は未視聴。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
+        },
+        {
+          "label": "日本コロムビア公式｜玉置浩二ショー 放送日程",
+          "url": "https://columbia.jp/artist-info/tamakikoji/media/93023.html"
         }
       ],
-      "description": "2026年3月17日、ASKAが出演したテレビ番組「玉置浩二ショー」がNHKで放送された。"
+      "description": "2026年3月17日、ASKAが出演した「玉置浩二ショー」がNHK BSプレミアム4Kで22:00～23:00に放送された。玉置浩二と共演。3月21日にはNHK BSでも放送日程が設定された。"
     },
     {
       "id": "v16-0119",
@@ -97038,7 +97058,99 @@
           "url": "https://www.bs-asahi.co.jp/singi/singi_77/"
         }
       ]
+    },
+    {
+      "id": "media-owned-20200930-tx-ongakusai",
+      "date": "2020-09-30",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ東京「テレ東音楽祭2020秋」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "テレビ東京系",
+      "description": "ASKAが「テレ東音楽祭2020秋」に初出演し、「はじまりはいつも雨」「歌になりたい」を披露した。",
+      "note": "テレビ東京公式の出演者・放送日情報、所蔵映像リスト、放送当日の歌唱報道を照合。映像本編は未視聴。",
+      "sources": [
+        {
+          "label": "テレビ東京公式｜2020年9月30日 テレ東音楽祭",
+          "url": "https://www.tv-tokyo.co.jp/broad_tvtokyo/program/detail/202009/23698_202009301825.html"
+        },
+        {
+          "label": "参考資料（放送当日の歌唱報道）",
+          "url": "https://voisjp.me/news/165235/"
+        },
+        {
+          "label": "参考資料（放送当日の歌唱報道）",
+          "url": "https://voisjp.me/news/165266/"
+        }
+      ]
+    },
+    {
+      "id": "media-owned-20201108-tx-75min",
+      "date": "2020-11-08",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ東京「ASKA 75分スペシャル」放送",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "テレビ東京",
+      "description": "16:00から75分のASKA特番を放送。2020年2月9日の有料公開リハーサルと2月11日の追加公演の模様を取り上げた。",
+      "note": "テレビ東京公式番組案内・ビデオリサーチの放送実績と所蔵映像リストを照合。映像本編は未視聴。",
+      "sources": [
+        {
+          "label": "テレビ東京公式｜ASKA 75分スペシャル",
+          "url": "https://www.tv-tokyo.co.jp/aska/"
+        },
+        {
+          "label": "参考資料（ビデオリサーチ放送実績）",
+          "url": "https://www.videor.co.jp/tvrating/2020/11/40287.html"
+        }
+      ]
+    },
+    {
+      "id": "media-owned-20250709-tx-ongakusai",
+      "date": "2025-07-09",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "テレビ東京「テレ東音楽祭2025～夏～」出演",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "テレビ東京系",
+      "description": "ASKAが「テレ東音楽祭2025～夏～」に出演し、「YAH YAH YAH」を披露した。",
+      "note": "テレビ東京公式の出演・歌唱告知、放送当日の報道、所蔵映像リストが一致。番組内のC&Aの過去映像紹介は別記録にしない。映像本編は未視聴。",
+      "sources": [
+        {
+          "label": "テレビ東京公式｜テレ東音楽祭2025～夏～",
+          "url": "https://www.tv-tokyo.co.jp/information/202507/5128.html"
+        },
+        {
+          "label": "参考資料（放送当日の歌唱報道）",
+          "url": "https://www.oricon.co.jp/news/2394983/full/"
+        }
+      ]
+    },
+    {
+      "id": "media-owned-20260321-nhkbs-tamaki",
+      "date": "2026-03-21",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "NHK BS「玉置浩二ショー」ASKA出演",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "NHK BS",
+      "description": "21:00～22:00放送の「玉置浩二ショー」にASKAが出演。玉置浩二と共演した。3月17日のBSプレミアム4K放送とは別の放送日として登録。",
+      "note": "ASKA本人公式ブログ、玉置浩二所属レコード会社公式告知で放送日程を確認。所蔵映像リストに3月21日NHK BS分がある。映像本編は未視聴。",
+      "sources": [
+        {
+          "label": "日本コロムビア公式｜玉置浩二ショー 放送日程",
+          "url": "https://columbia.jp/artist-info/tamakikoji/media/93023.html"
+        },
+        {
+          "label": "ASKA公式ブログ｜玉置浩二ショー",
+          "url": "https://www.fellows.tokyo/blog/detail/1097/?page=26"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.2.18"
+  "siteVersion": "2.2.19"
 }
