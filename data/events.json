@@ -80851,19 +80851,31 @@
       "date": "2025-04-16",
       "artist": "ASKA",
       "category": "live",
-      "title": "FIRSTSAIL “COMTEC PORTBASE OPENING CEREMONY” ～ASKA Live Docking～",
+      "title": "FIRST SAIL “COMTEC PORTBASE OPENING CEREMONY” ～ ASKA Live Docking ～",
       "status": "recorded",
       "verification": "primary",
-      "note": "公式年譜に開催・出演記録。ゲスト・フェス出演を通常単独公演と混同しない。",
+      "note": "公式年譜に開催・出演記録。 ／ COMTEC PORTBASEのオープニングシリーズの一環として開催されたASKAの単独公演。19:00開演。",
       "sources": [
         {
           "label": "公式・主催者発表",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "会場公式公演情報",
+          "url": "https://portbase.co.jp/schedule/20250416/"
+        },
+        {
+          "label": "アーティスト公式公演告知",
+          "url": "https://www.fellows.tokyo/news/detail/348"
+        },
+        {
+          "label": "アーティスト公式特設サイト",
+          "url": "https://www.fellows.tokyo/feature/live_docking_2026"
         }
       ],
       "prefecture": "愛知県",
       "venue": "COMTEC PORTBASE",
-      "description": "2025年4月16日、ASKAがCOMTEC PORTBASEで「FIRSTSAIL “COMTEC PORTBASE OPENING CEREMONY” ～ASKA Live Docking～」のステージに立った。 ゲスト・フェス出演を通常単独公演と混同しない。"
+      "description": "2025年4月16日、ASKAがCOMTEC PORTBASEで「FIRST SAIL “COMTEC PORTBASE OPENING CEREMONY” ～ ASKA Live Docking ～」を単独公演として開催した。"
     },
     {
       "id": "v15-0165",
@@ -98065,5 +98077,5 @@
       ]
     }
   ],
-  "siteVersion": "2.3.13"
+  "siteVersion": "2.3.14"
 }
