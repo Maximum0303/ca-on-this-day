@@ -30277,22 +30277,33 @@
       "id": "release-audit-v203-20261118-chage-tsuki-book-first-1994",
       "date": "1994-11-01",
       "artist": "Chage",
-      "category": "release",
+      "category": "book",
       "title": "『月が言い訳をしてる』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：書籍・単行本。幻冬舎刊、単行本、ISBN 9784877280307。出版社の書誌による発売日。Wikipedia等に11月4日表記もあるが本記録では出版社記載を採用。",
+      "note": "作品形態：書籍・単行本。幻冬舎刊、単行本、ISBN 9784877280307。出版社の書誌による発売日。Wikipedia等に11月4日表記もあるが本記録では出版社記載を採用。 ／ 四六判・232ページ。初のエッセイ集。出版社公式の発売日は11月1日、Chage公式年表の発表日は11月4日。発売日は出版社を優先。",
       "sources": [
         {
           "label": "幻冬舎公式｜月が言い訳をしてる（単行本）",
           "url": "https://www.gentosha.co.jp/book/detail/9784877280307/"
+        },
+        {
+          "label": "Chage公式Biography",
+          "url": "https://chage.jp/biography/1994.php"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "書籍（単行本）",
       "releaseTitle": "月が言い訳をしてる",
-      "description": "1994年11月1日、Chageの『月が言い訳をしてる』が発売された。"
+      "description": "1994年11月1日、Chageの『月が言い訳をしてる』が発売された。",
+      "publisher": "幻冬舎",
+      "format": "単行本・エッセイ",
+      "isbn": "9784877280307"
     },
     {
       "id": "release-v06-1994-11-16-128",
@@ -33666,22 +33677,33 @@
       "id": "release-audit-v203-20261118-chage-tsuki-book-paperback-1997",
       "date": "1997-04-10",
       "artist": "Chage",
-      "category": "release",
+      "category": "book",
       "title": "『月が言い訳をしてる（幻冬舎文庫）』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：書籍・文庫版。文庫版、ISBN 9784877284268。1994年の単行本と区別。出版社書誌では4月10日、他の一覧には4月1日等の表記差がある。",
+      "note": "作品形態：書籍・文庫版。文庫版、ISBN 9784877284268。1994年の単行本と区別。出版社書誌では4月10日、他の一覧には4月1日等の表記差がある。 ／ 文庫判・196ページ（出版社公式）。単行本とは別版。書店資料には8月5日という異なる日付もあるが、出版社公式の発売日を採用。",
       "sources": [
         {
           "label": "幻冬舎公式｜月が言い訳をしてる（文庫）",
           "url": "https://www.gentosha.co.jp/book/detail/9784877284268/"
+        },
+        {
+          "label": "書籍販売資料",
+          "url": "https://www.maruzenjunkudo.co.jp/products/9784877284268"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "書籍（文庫）",
       "releaseTitle": "月が言い訳をしてる（幻冬舎文庫）",
-      "description": "1997年4月10日、Chageの『月が言い訳をしてる（幻冬舎文庫）』が発売された。"
+      "description": "1997年4月10日、Chageの『月が言い訳をしてる（幻冬舎文庫）』が発売された。",
+      "publisher": "幻冬舎文庫",
+      "format": "文庫",
+      "isbn": "9784877284268"
     },
     {
       "id": "live-aska-id-1997-003",
@@ -67474,11 +67496,11 @@
       "id": "release-v18220-022",
       "date": "2018-11-11",
       "artist": "Chage",
-      "category": "release",
+      "category": "book",
       "title": "公式写真集『Chage 20th Anniversary Live Photo Book』発売",
       "status": "released",
       "verification": "primary",
-      "note": "ソロ活動20周年記念ライブ写真集。公式Biographyの発売日で登録。CD・映像作品とは別の書籍。",
+      "note": "ソロ活動20周年記念ライブ写真集。公式Biographyの発売日で登録。CD・映像作品とは別の書籍。 ／ ソロ活動20周年記念。B5判・216ページ・布張りハードカバー。受注生産後に増刷販売。公式年表の発売日を採用。増刷の発売日は未確認。",
       "sources": [
         {
           "label": "公式資料",
@@ -67487,13 +67509,23 @@
         {
           "label": "公式発売情報",
           "url": "https://chage.jp/information/release/?year=2018"
+        },
+        {
+          "label": "公式商品通販",
+          "url": "https://chageandaskaproducts.net/products/ymehbook-01"
+        },
+        {
+          "label": "参考資料（提供書誌台帳）",
+          "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "写真集",
       "releaseTitle": "Chage 20th Anniversary Live Photo Book",
-      "description": "2018年11月11日、Chageの『Chage 20th Anniversary Live Photo Book』が発売された。"
+      "description": "2018年11月11日、Chageの『Chage 20th Anniversary Live Photo Book』が発売された。",
+      "publisher": "公式通販",
+      "format": "公式写真集"
     },
     {
       "id": "v13-release-025",
@@ -99031,5 +99063,5 @@
       "isbn": "9784041843024"
     }
   ],
-  "siteVersion": "2.4.0"
+  "siteVersion": "2.4.1"
 }
