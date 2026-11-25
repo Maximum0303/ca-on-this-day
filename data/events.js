@@ -75912,20 +75912,25 @@ window.CA_EVENT_DATA = {
       "id": "v18223-2023-07-15-aska-024",
       "date": "2023-07-15",
       "artist": "ASKA",
-      "category": "live",
-      "title": "LuckyFes 2023 出演",
+      "category": "media",
+      "title": "ABEMA「LuckyFes'23」生中継（ASKA出演）",
       "status": "recorded",
       "verification": "primary",
-      "note": "フェス出演。",
+      "note": "主催者の2023年7月7日付公式発表に7月15日の配信対象としてASKAが明記されている。全曲の配信は保証されていない。配信映像原本は未照合。現地出演とは別記録。会場は中継元。",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "主催者公式プレスリリース｜7月15日の配信対象",
+          "url": "https://prtimes.jp/main/html/rd/p/000000087.000055554.html"
         }
       ],
       "prefecture": "茨城県",
       "venue": "国営ひたち海浜公園",
-      "description": "2023年7月15日、ASKAの「LuckyFes 2023 出演」が国営ひたち海浜公園で開催された。"
+      "description": "2023年7月15日、国営ひたち海浜公園で開催されたLuckyFes’23のライブがABEMAで生配信され、ASKAが配信対象となった。",
+      "broadcastStation": "ABEMA"
     },
     {
       "id": "media-v18229-2023-07-20-chage-001",
@@ -97589,7 +97594,266 @@ window.CA_EVENT_DATA = {
         }
       ],
       "broadcastStation": "日本テレビ"
+    },
+    {
+      "id": "media-v236-20250323-nitteleplus-10days",
+      "date": "2025-03-23",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日テレプラス「ASKA 10 DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 -ここにあなたの足跡を-」放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "当初17:30の告知があったが、3月7日の公式スタッフブログの20:30を採用。当日20:41のASKA本人の公式ブログで放送中と確認。2010年のTBSチャンネル放送とは別記録。",
+      "sources": [
+        {
+          "label": "ASKA公式スタッフブログ｜変更後の放送時刻",
+          "url": "https://www.fellows.tokyo/blog/detail/493/"
+        },
+        {
+          "label": "ASKA公式ブログ｜当日の放送確認",
+          "url": "https://www.fellows.tokyo/blog/detail/513/"
+        }
+      ],
+      "description": "日テレプラスでライブ映像作品「ASKA 10 DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 -ここにあなたの足跡を-」を20:30から放送（資料記載の日時）。",
+      "broadcastStation": "日テレプラス",
+      "startTime": "20:30"
+    },
+    {
+      "id": "media-v236-20250427-nitteleplus-wonderful-world",
+      "date": "2025-04-27",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日テレプラス「ASKA Premium Concert Tour Wonderful World 2023」放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式告知に記載された放送日時。放送映像原本は未照合。 公演日や映像商品の発売日とは別記録。",
+      "sources": [
+        {
+          "label": "ASKA公式ニュース｜放送告知",
+          "url": "https://www.fellows.tokyo/news/detail/389"
+        }
+      ],
+      "description": "日テレプラスでライブ映像作品「ASKA Premium Concert Tour Wonderful World 2023」を10:30から放送（資料記載の日時）。",
+      "broadcastStation": "日テレプラス",
+      "startTime": "10:30"
+    },
+    {
+      "id": "media-v236-20250621-nitteleplus-10days",
+      "date": "2025-06-21",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日テレプラス「ASKA 10 DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 -ここにあなたの足跡を-」再放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式告知に記載された放送日時。放送映像原本は未照合。 公演日や映像商品の発売日とは別記録。",
+      "sources": [
+        {
+          "label": "ASKA公式ニュース｜3作品一挙放送",
+          "url": "https://www.fellows.tokyo/news/detail/415"
+        }
+      ],
+      "description": "日テレプラスでライブ映像作品「ASKA 10 DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 -ここにあなたの足跡を-」を09:30から再放送（資料記載の日時）。",
+      "broadcastStation": "日テレプラス",
+      "startTime": "09:30"
+    },
+    {
+      "id": "media-v236-20250621-nitteleplus-wonderful-world",
+      "date": "2025-06-21",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日テレプラス「ASKA Premium Concert Tour Wonderful World 2023」再放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式告知に記載された放送日時。放送映像原本は未照合。 公演日や映像商品の発売日とは別記録。",
+      "sources": [
+        {
+          "label": "ASKA公式ニュース｜3作品一挙放送",
+          "url": "https://www.fellows.tokyo/news/detail/415"
+        }
+      ],
+      "description": "日テレプラスでライブ映像作品「ASKA Premium Concert Tour Wonderful World 2023」を12:00から再放送（資料記載の日時）。",
+      "broadcastStation": "日テレプラス",
+      "startTime": "12:00"
+    },
+    {
+      "id": "media-v236-20250621-nitteleplus-who-is-aska",
+      "date": "2025-06-21",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日テレプラス「ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-日本武道館2.14」再放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式告知に記載された放送日時。放送映像原本は未照合。 公演日や映像商品の発売日とは別記録。",
+      "sources": [
+        {
+          "label": "ASKA公式ニュース｜3作品一挙放送",
+          "url": "https://www.fellows.tokyo/news/detail/415"
+        }
+      ],
+      "description": "日テレプラスでライブ映像作品「ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-日本武道館2.14」を14:30から再放送（資料記載の日時）。",
+      "broadcastStation": "日テレプラス",
+      "startTime": "14:30"
+    },
+    {
+      "id": "media-v236-20251214-nitteleplus-10days",
+      "date": "2025-12-14",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日テレプラス「ASKA 10 DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 -ここにあなたの足跡を-」再放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "二次資料に記載された放送日時。放送局の当時の番組表および放送映像は未確認。 公演日や映像商品の発売日とは別記録。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・番組放送記録）",
+          "url": "https://plaza.rakuten.co.jp/nijinohana2624/diary/ctgylist/?ctgy=2"
+        }
+      ],
+      "description": "日テレプラスでライブ映像作品「ASKA 10 DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 -ここにあなたの足跡を-」を08:00から再放送（資料記載の日時）。",
+      "broadcastStation": "日テレプラス",
+      "startTime": "08:00"
+    },
+    {
+      "id": "media-v236-20251214-nitteleplus-wonderful-world",
+      "date": "2025-12-14",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日テレプラス「ASKA Premium Concert Tour Wonderful World 2023」再放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "二次資料に記載された放送日時。放送局の当時の番組表および放送映像は未確認。 公演日や映像商品の発売日とは別記録。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・番組放送記録）",
+          "url": "https://plaza.rakuten.co.jp/nijinohana2624/diary/ctgylist/?ctgy=2"
+        }
+      ],
+      "description": "日テレプラスでライブ映像作品「ASKA Premium Concert Tour Wonderful World 2023」を10:30から再放送（資料記載の日時）。",
+      "broadcastStation": "日テレプラス",
+      "startTime": "10:30"
+    },
+    {
+      "id": "media-v236-20251214-nitteleplus-who-is-aska",
+      "date": "2025-12-14",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日テレプラス「ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-日本武道館2.14」再放送",
+      "status": "recorded",
+      "verification": "secondary",
+      "note": "二次資料に記載された放送日時。放送局の当時の番組表および放送映像は未確認。 公演日や映像商品の発売日とは別記録。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・番組放送記録）",
+          "url": "https://plaza.rakuten.co.jp/nijinohana2624/diary/ctgylist/?ctgy=2"
+        }
+      ],
+      "description": "日テレプラスでライブ映像作品「ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-日本武道館2.14」を13:00から再放送（資料記載の日時）。",
+      "broadcastStation": "日テレプラス",
+      "startTime": "13:00"
+    },
+    {
+      "id": "media-v236-20260222-nitteleplus-10days",
+      "date": "2026-02-22",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日テレプラス「ASKA 10 DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 -ここにあなたの足跡を-」再放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式告知に記載された放送日時。放送映像原本は未照合。 公演日や映像商品の発売日とは別記録。",
+      "sources": [
+        {
+          "label": "ASKA公式ニュース｜3作品一挙放送",
+          "url": "https://www.fellows.tokyo/news/detail/627"
+        }
+      ],
+      "description": "日テレプラスでライブ映像作品「ASKA 10 DAYS SPECIAL グッバイ＆サンキュー東京厚生年金会館 -ここにあなたの足跡を-」を08:00から再放送（資料記載の日時）。",
+      "broadcastStation": "日テレプラス",
+      "startTime": "08:00"
+    },
+    {
+      "id": "media-v236-20260222-nitteleplus-wonderful-world",
+      "date": "2026-02-22",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日テレプラス「ASKA Premium Concert Tour Wonderful World 2023」再放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式告知に記載された放送日時。放送映像原本は未照合。 公演日や映像商品の発売日とは別記録。",
+      "sources": [
+        {
+          "label": "ASKA公式ニュース｜3作品一挙放送",
+          "url": "https://www.fellows.tokyo/news/detail/627"
+        }
+      ],
+      "description": "日テレプラスでライブ映像作品「ASKA Premium Concert Tour Wonderful World 2023」を10:30から再放送（資料記載の日時）。",
+      "broadcastStation": "日テレプラス",
+      "startTime": "10:30"
+    },
+    {
+      "id": "media-v236-20260222-nitteleplus-who-is-aska",
+      "date": "2026-02-22",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "日テレプラス「ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-日本武道館2.14」再放送",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "公式告知に記載された放送日時。放送映像原本は未照合。 公演日や映像商品の発売日とは別記録。",
+      "sources": [
+        {
+          "label": "ASKA公式ニュース｜3作品一挙放送",
+          "url": "https://www.fellows.tokyo/news/detail/627"
+        }
+      ],
+      "description": "日テレプラスでライブ映像作品「ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-日本武道館2.14」を13:00から再放送（資料記載の日時）。",
+      "broadcastStation": "日テレプラス",
+      "startTime": "13:00"
+    },
+    {
+      "id": "media-v236-20230715-luckyfm-4me",
+      "date": "2023-07-15",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "LuckyFM「4Me in LuckyFes」公開生放送（ASKAゲスト出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "放送局公式告知にASKAの16:20からの出演予定を記載。実際の放送音声・出演時刻は未照合。現地の歌唱公演とは別記録。",
+      "sources": [
+        {
+          "label": "LuckyFM公式｜公開生放送ゲスト告知",
+          "url": "https://lucky-ibaraki.com/post_info/347802/"
+        },
+        {
+          "label": "LuckyFes公式｜公開生放送",
+          "url": "https://2023.luckyfes.com/p-3078.html"
+        }
+      ],
+      "description": "LuckyFes'23の会場内ラジオブースから公開生放送。ASKAがゲストとして出演予定と告知された。",
+      "broadcastStation": "LuckyFM 茨城放送",
+      "startTime": "16:20"
+    },
+    {
+      "id": "media-v236-20230811-abema-luckyfes23-replay",
+      "date": "2023-08-11",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "ABEMA「LuckyFes'23」DAY1 再配信（ASKA出演）",
+      "status": "recorded",
+      "verification": "primary",
+      "note": "ABEMA公式番組表に15:00〜22:00の再配信とASKAの20:00頃の出演を記載。実際の配信映像は未照合。7月15日の生配信とは別記録。",
+      "sources": [
+        {
+          "label": "ABEMA公式｜再配信番組表",
+          "url": "https://abema.tv/channels/special-plus-2/slots/9BE9BsC1aKqaWB"
+        },
+        {
+          "label": "LuckyFes公式｜再配信告知",
+          "url": "https://2023.luckyfes.com/information/5014"
+        }
+      ],
+      "description": "LuckyFes'23初日のWATER・GREENステージの映像が再配信された。ASKAは20:00頃の配信予定。",
+      "broadcastStation": "ABEMA",
+      "startTime": "15:00"
     }
   ],
-  "siteVersion": "2.3.5"
+  "siteVersion": "2.3.6"
 };
