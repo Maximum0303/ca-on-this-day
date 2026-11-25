@@ -101998,7 +101998,100 @@ window.CA_EVENT_DATA = {
         }
       ],
       "edition": "電子書籍版"
+    },
+    {
+      "id": "milestone-1980-05-27-first-tour",
+      "date": "1980-05-27",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "初の全国コンサートツアーがスタート",
+      "description": "福岡市民会館から「旅立ちコンサート」を開始。全国12会場で12公演が行われた。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1980-11-27-bestten-first",
+      "date": "1980-11-27",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「ザ・ベストテン」に初出演",
+      "description": "「万里の河」で今週のスポットライトに登場。番組初出演とされる。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://www.conex-eco.co.jp/serial/showa-record/173964/2/"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1980-12-18-bestten-rank",
+      "date": "1980-12-18",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「万里の河」が「ザ・ベストテン」に初ランクイン",
+      "description": "TBSの番組ランキングで8位に初登場。オリコンの順位とは別の記録。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://www.conex-eco.co.jp/serial/showa-record/173964/2/"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1981-08-01-denen-first",
+      "date": "1981-08-01",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "田園コロシアムで初のコンサートを開催",
+      "description": "「THE 夏祭り’81」。同会場で初のコンサートとなり、約6,000人が来場。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1981-08-21-neppu-finish",
+      "date": "1981-08-21",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「’81熱風」ツアー完走・動員10万人超",
+      "description": "那覇市民会館でツアー終了。全国57会場59公演、ツアー全体で10万人を超える動員を記録。到達日ではなくツアー終了日の記録。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        }
+      ],
+      "featured": false
     }
   ],
-  "siteVersion": "2.5.0"
+  "siteVersion": "2.5.1"
 };
