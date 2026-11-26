@@ -52361,7 +52361,7 @@ window.CA_EVENT_DATA = {
       "date": "2009-01-30",
       "artist": "CHAGE and ASKA",
       "category": "milestone",
-      "title": "CHAGE and ASKA 活動休止・ソロ活動継続を発表",
+      "title": "CHAGE and ASKA 無期限活動休止・ソロ活動継続を発表",
       "status": "recorded",
       "verification": "primary",
       "note": "",
