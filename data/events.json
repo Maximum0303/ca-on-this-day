@@ -52451,7 +52451,7 @@
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "description": "2009年1月30日、CHAGE and ASKA 活動休止・ソロ活動継続を発表。",
+      "description": "2009年1月30日、CHAGE and ASKAが無期限活動休止と、それぞれのソロ活動を継続する方針を発表した。",
       "featured": true
     },
     {
@@ -102874,7 +102874,41 @@
         }
       ],
       "featured": false
+    },
+    {
+      "id": "milestone-1991-06-17-scene-ii-first-number-one",
+      "date": "1991-06-17",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "アルバム『SCENE II』がオリコン初登場1位",
+      "description": "6月17日付週間アルバムチャートで初登場1位。発売日は6月5日。初登場1位は公式HISTORYで確認。チャート日付は提供情報に基づく。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1991-10-21-tree-first-number-one",
+      "date": "1991-10-21",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "アルバム『TREE』がオリコン初登場1位",
+      "description": "10月21日付週間アルバムチャートで初登場1位。発売日は10月10日。初登場1位は公式HISTORYで確認。チャート日付は提供情報に基づく。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": false
     }
   ],
-  "siteVersion": "2.5.9"
+  "siteVersion": "2.6.1"
 }
