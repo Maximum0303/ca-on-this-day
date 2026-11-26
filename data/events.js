@@ -1,7 +1,7 @@
 window.CA_EVENT_DATA = {
   "schemaVersion": 1,
   "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2027年の公式発表済み予定を追加。開催予定の記録は日付経過のみで開催済みと断定せず、延期・中止と区別して表示します。既存の記録の確認日・履歴はそのまま保存しています。",
-  "lastUpdated": "2026-11-26",
+  "lastUpdated": "2026-11-27",
   "events": [
     {
       "id": "milestone-1978-popcon15-formation-yearonly",
@@ -102878,7 +102878,84 @@ window.CA_EVENT_DATA = {
         }
       ],
       "featured": false
+    },
+    {
+      "id": "media-20260314-chage-chageradio-first-public",
+      "date": "2026-03-14",
+      "artist": "Chage",
+      "category": "media",
+      "title": "FM福岡「ちゃげっていうラジオ」初の公開録音・生放送",
+      "description": "2026年3月14日、FM福岡の九州リースサービススタジオで、番組初の公開録音・生放送が行われた。公式告知では開演18:30、招待30名。",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "FM FUKUOKA",
+      "venue": "FM福岡 九州リースサービススタジオ",
+      "prefecture": "福岡県",
+      "note": "公式の開催告知と放送内容を記録した二次資料を照合。公開録音と生放送は同一イベントとして登録。",
+      "sources": [
+        {
+          "label": "Chage公式｜公開録音・生放送の告知",
+          "url": "https://chage.jp/information/media/detail-791.php"
+        },
+        {
+          "label": "参考資料（非公式・放送記録）",
+          "url": "https://note.com/happa_rockjuyon/n/n0f6b5d0f9265"
+        }
+      ]
+    },
+    {
+      "id": "other-20260908-chage-ko-panel-exhibition",
+      "date": "2026-09-08",
+      "artist": "Chage",
+      "category": "other",
+      "title": "アルバム『Ko』発売記念パネル展 開始",
+      "description": "タワーレコード新宿店でアルバム『Ko』発売記念の直筆サイン入りパネル展が開始。開催期間は2026年9月8日から9月21日まで。",
+      "status": "recorded",
+      "verification": "primary",
+      "venue": "タワーレコード新宿店",
+      "prefecture": "東京都",
+      "note": "公式告知と店舗の展示パネル当選発表を照合。会期初日を登録。",
+      "sources": [
+        {
+          "label": "Chage公式｜パネル展告知",
+          "url": "https://chage.jp/information/release/detail-863.php"
+        },
+        {
+          "label": "ユニバーサルミュージック公式｜パネル展告知",
+          "url": "https://www.universal-music.co.jp/chage/news/2026-08-21/"
+        },
+        {
+          "label": "タワーレコード新宿店｜当選発表",
+          "url": "https://cdfront.tower.jp/store/news/2026/09/055023"
+        }
+      ]
+    },
+    {
+      "id": "media-20261113-aska-bsn-seppan",
+      "date": "2026-11-13",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "BSN新潟放送「スーパー・ササダンゴ・マシンのセッパン！」リモート生出演",
+      "description": "2026年11月13日、ASKAがBSN新潟放送のラジオ番組「スーパー・ササダンゴ・マシンのセッパン！」にリモートで生出演した。番組放送枠は16:00～19:00。",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "BSN新潟放送",
+      "note": "公式出演日程と番組の放送後ポッドキャストを照合。出演時刻は未特定。",
+      "sources": [
+        {
+          "label": "ASKA公式｜出演日程",
+          "url": "https://www.fellows.tokyo/schedule/detail/804"
+        },
+        {
+          "label": "ASKA公式｜出演告知",
+          "url": "https://www.fellows.tokyo/news/detail/796"
+        },
+        {
+          "label": "番組公式ポッドキャスト（Apple Podcasts）",
+          "url": "https://podcasts.apple.com/jp/podcast/11-13-%E3%82%B2%E3%82%B9%E3%83%88-aska%E3%81%95%E3%82%93%E3%81%A8%E3%81%AE%E3%81%B2%E3%81%A8%E3%81%A8%E3%81%8D%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B/id1748711466?i=1000801832257"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.8.3"
+  "siteVersion": "2.9.0"
 };
