@@ -103069,7 +103069,138 @@
         }
       ],
       "isbn": "9784285114249"
+    },
+    {
+      "id": "release-292-19930219-aska-used-to-be-a-child",
+      "date": "1993-02-19",
+      "artist": "ASKA",
+      "category": "release",
+      "title": "USED TO BE A CHILD『僕らが生まれた あの日のように』発売",
+      "releaseTitle": "僕らが生まれた あの日のように",
+      "releaseFormat": "8cm CD",
+      "description": "チャリティー・ユニットUSED TO BE A CHILDのシングル。ASKAは歌唱に参加し、小田和正と作詞・作曲を担当した。",
+      "note": "複数レーベルから発売。規格品番の例：PCDA-90001、SRDL-3616（販売資料）。",
+      "status": "released",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（非公式・販売資料）",
+          "url": "https://tower.jp/item/512054"
+        },
+        {
+          "label": "参考資料（非公式・販売資料）",
+          "url": "https://www.suruga-ya.jp/product/detail/250031601"
+        }
+      ]
+    },
+    {
+      "id": "release-292-19930512-multi-maxism-original",
+      "date": "1993-05-12",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『MAXISM IN BUDOKAN』VHS・LD発売",
+      "releaseTitle": "MAXISM IN BUDOKAN",
+      "releaseFormat": "VHS・LD",
+      "description": "1992年12月14日の日本武道館公演を収録した映像作品の初発売。",
+      "note": "VHS・LDの同日発売を1件に記録。規格品番：VHS TOVF-1163、LD TOLF-1163（販売資料）。2014年のDVD再発売・ライブ音源配信とは別。",
+      "status": "released",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "公式通販ショップ（作品解説）",
+          "url": "https://chageandaskaproducts.net/products/ympdvd-13"
+        },
+        {
+          "label": "参考資料（非公式・販売資料）",
+          "url": "https://tower.jp/artist/350566"
+        },
+        {
+          "label": "参考資料（非公式・販売資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/122219009"
+        }
+      ]
+    },
+    {
+      "id": "release-292-19941217-ca-tug-vol5",
+      "date": "1994-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『CHAGE IN U.S.A. ～Well,Well,Well～ THE VIDEO OF CHAGE and ASKA TUG OF C&A Vol.5』発売",
+      "releaseTitle": "CHAGE IN U.S.A. ～Well,Well,Well～ THE VIDEO OF CHAGE and ASKA TUG OF C&A Vol.5",
+      "releaseFormat": "VHS",
+      "description": "公式ファンクラブTUG OF C&Aのオリジナルビデオ第5巻。CHAGEの1994年のアメリカ横断旅行を収録。",
+      "note": "ファンクラブ限定。シリーズの既存記録に合わせCHAGE and ASKA名義で掲載。2021年のDVDセットとは別。",
+      "status": "released",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式ディスコグラフィー",
+          "url": "https://www.chage-aska.net/discography/video/tug_of_canda.php"
+        },
+        {
+          "label": "参考資料（非公式・販売資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/search_buy?category=&page=15&restrict%5B%5D=person_id%3D320705&search_word="
+        }
+      ]
+    },
+    {
+      "id": "release-292-20190327-multi-well-dvd",
+      "date": "2019-03-27",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『MULTI MAX CONCERT TOUR 1994 Well,Well,Well』DVD発送開始",
+      "releaseTitle": "MULTI MAX CONCERT TOUR 1994 Well,Well,Well",
+      "releaseFormat": "DVD",
+      "description": "1994年11月25日の川崎クラブチッタ公演を収録した通販限定DVD。2019年3月27日から順次発送。",
+      "note": "受注開始は2019年3月15日。公演日および2019年5月22日のライブ音源ダウンロード販売とは別。",
+      "status": "released",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式リリース情報",
+          "url": "https://chage.jp/information/release/detail-323.php"
+        },
+        {
+          "label": "Chage公式ディスコグラフィー",
+          "url": "https://chage.jp/discography/multi_max/bd/003.php"
+        }
+      ]
+    },
+    {
+      "id": "release-292-20191021-multi-10plus1",
+      "date": "2019-10-21",
+      "artist": "MULTI MAX",
+      "category": "release",
+      "title": "『MULTI MAX 10+1 VIDEOS』DVD発売",
+      "releaseTitle": "MULTI MAX 10+1 VIDEOS",
+      "releaseFormat": "DVD",
+      "description": "デビュー30周年を記念した通販限定の映像作品。既発MV10曲をリマスターし、新たな映像作品「暁の三匹」を追加収録。",
+      "note": "公式サイトの作品解説にデビュー記念日2019年10月21日を記載。",
+      "status": "released",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式ディスコグラフィー",
+          "url": "https://chage.jp/discography/multi_max/bd/004.php"
+        },
+        {
+          "label": "参考資料（非公式・販売資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/search_buy?category=3&restrict%5B%5D=person_id%3D19056&search_word="
+        }
+      ]
     }
   ],
-  "siteVersion": "2.9.1"
+  "siteVersion": "2.9.2"
 }
