@@ -42583,7 +42583,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.itmedia.co.jp/broadband/rbb/0204/19/rbb_0419_08.html"
         }
       ],
-      "description": "2002年4月22日、CHAGE and ASKAが取り上げられたテレビ番組「COSMO EARTH CONSCIOUS ACT」が放送された。",
+      "description": "2002年4月22日、日本武道館で開催されたCHAGE and ASKAの「COSMO EARTH CONSCIOUS ACT」の模様がiiVでインターネット生中継された。",
       "broadcastStation": "iiV (internet interactive TV)"
     },
     {
@@ -63773,7 +63773,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
-      "description": "2016年9月9日、Chageが出演したテレビ番組「さしめし」が放送された。"
+      "description": "2016年9月9日、ChageがLINE LIVEのインターネット配信番組「さしめし」に出演した。"
     },
     {
       "id": "v12-chikyu16",
@@ -66855,7 +66855,7 @@ window.CA_EVENT_DATA = {
         }
       ],
       "broadcastStation": "WIZ RADIO",
-      "description": "2018年6月5日、Chageが出演した配信番組「坂本美雨の裏FRIENDS 第9回」がWIZ RADIOで放送された。"
+      "description": "2018年6月5日、ChageがWIZ RADIOのインターネット配信番組「坂本美雨の裏FRIENDS 第9回」にゲスト出演した。"
     },
     {
       "id": "media-v18230-2018-06-08-chage-001",
@@ -70556,7 +70556,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/information/2020041701.php"
         }
       ],
-      "description": "2020年4月17日、CHAGE and ASKAが取り上げられた配信番組「C&A公式YouTubeライブ映像公開 第1弾（1980年代）」が放送された。"
+      "description": "2020年4月17日、CHAGE and ASKAの公式YouTubeチャンネルで1980年代のライブ映像が第1弾として公開された。"
     },
     {
       "id": "v14-chage-2020-fm-cancel-003",
@@ -70658,7 +70658,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/information/2020041701.php"
         }
       ],
-      "description": "2020年4月24日、CHAGE and ASKAが取り上げられた配信番組「C&A公式YouTubeライブ映像公開 第2弾（1990年代）」が放送された。"
+      "description": "2020年4月24日、CHAGE and ASKAの公式YouTubeチャンネルで1990年代のライブ映像が第2弾として公開された。"
     },
     {
       "id": "v14-chage-2020-fm-cancel-006",
@@ -70738,7 +70738,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/information/2020041701.php"
         }
       ],
-      "description": "2020年5月1日、CHAGE and ASKAが取り上げられた配信番組「C&A公式YouTubeライブ映像公開 第3弾（2000年代）」が放送された。"
+      "description": "2020年5月1日、CHAGE and ASKAの公式YouTubeチャンネルで2000年代のライブ映像が第3弾として公開された。"
     },
     {
       "id": "v14-release-003",
@@ -71605,7 +71605,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/information/"
         }
       ],
-      "description": "2021年2月5日、CHAGE and ASKAが取り上げられた配信番組「C&A公式YouTubeライブ映像 追加公開」が放送された。"
+      "description": "2021年2月5日、CHAGE and ASKAの公式YouTubeチャンネルでライブ映像が追加公開された。"
     },
     {
       "id": "v14-media-ch21-004",
@@ -78900,7 +78900,7 @@ window.CA_EVENT_DATA = {
         }
       ],
       "broadcastStation": "voicy",
-      "description": "2024年8月7日、Chageが出演したラジオ番組「赤坂泰彦のラジオグラフィティー」がvoicyで放送された。"
+      "description": "2024年8月7日、ChageがVoicyの音声配信番組「赤坂泰彦のラジオグラフィティー」にゲスト出演した。"
     },
     {
       "id": "media-v18229-2024-08-10-chage-001",
@@ -84793,7 +84793,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
         }
       ],
-      "description": "2026年5月2日、ASKAが取り上げられた配信番組「ROOTS」が放送された。"
+      "description": "2026年5月2日、ASKAが取り上げられたインターネット番組「ROOTS」第1回がTravel TVで配信された。"
     },
     {
       "id": "v16-0090",
@@ -84810,7 +84810,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
         }
       ],
-      "description": "2026年5月9日、ASKAが取り上げられた配信番組「ROOTS」が放送された。"
+      "description": "2026年5月9日、ASKAが取り上げられたインターネット番組「ROOTS」第2回がTravel TVで配信された。"
     },
     {
       "id": "v16-0123",
@@ -84863,7 +84863,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
         }
       ],
-      "description": "2026年5月16日、ASKAが取り上げられた配信番組「ROOTS」が放送された。"
+      "description": "2026年5月16日、ASKAが取り上げられたインターネット番組「ROOTS」第3回がTravel TVで配信された。"
     },
     {
       "id": "v16-0050",
@@ -84902,7 +84902,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/cavc/pages/363.html"
         }
       ],
-      "description": "2026年5月23日、ASKAが取り上げられた配信番組「ROOTS」が放送された。"
+      "description": "2026年5月23日、ASKAが取り上げられたインターネット番組「ROOTS」第4回がTravel TVで配信された。"
     },
     {
       "id": "v16-0051",
@@ -85860,7 +85860,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/"
         }
       ],
-      "description": "2026年10月10日、ASKAが取り上げられたラジオ番組「ASKA Lock-on Radio」が放送された。"
+      "description": "2026年10月10日、ASKAのYouTubeラジオ番組「ASKA Lock-on Radio」の初回が配信された。"
     },
     {
       "id": "v16-0004",
@@ -86272,7 +86272,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/"
         }
       ],
-      "description": "2026年11月12日、ASKAが取り上げられたラジオ番組「ASKA Lock-on Radio」が放送された。"
+      "description": "2026年11月12日、ASKAのYouTubeラジオ番組「ASKA Lock-on Radio」の第2回が配信された。"
     },
     {
       "id": "v16-0057",
@@ -90934,7 +90934,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/discography/album/pride.php"
         }
       ],
-      "description": "1994年9月3日、CHAGE and ASKAが取り上げられたテレビ番組『ヒーローインタビュー』が放送された。"
+      "description": "1994年9月3日、映画『ヒーローインタビュー』が全国東宝系で公開された。CHAGE and ASKAの「HEART」が主題歌、「NATURAL」がオープニングテーマ、「PRIDE」が挿入歌として使用された。"
     },
     {
       "id": "media-tieup-1994-1017-imotoyo",
@@ -90982,7 +90982,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/discography/single/something_there.php"
         }
       ],
-      "description": "1995年5月6日、CHAGE and ASKAが取り上げられたテレビ番組『ストリートファイター』が放送された。"
+      "description": "1995年5月6日、映画『ストリートファイター』が日本で劇場公開された。CHAGE and ASKA「Something There」のプロモーション・フィルムが本編前に上映され、同曲は映画の挿入歌としても案内された。"
     },
     {
       "id": "media-tieup-1995-0715-on-your-mark-theater",
@@ -91055,7 +91055,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=39946"
         }
       ],
-      "description": "2009年4月11日、ASKAが取り上げられたテレビ番組『ニセ札』が放送された。"
+      "description": "2009年4月11日、映画『ニセ札』がテアトル新宿ほかで一般公開を開始した。主題歌はASKA「あなたが泣くことはない」。"
     },
     {
       "id": "media-tieup-1991-0518-oishii-kekkon",
@@ -91076,7 +91076,7 @@ window.CA_EVENT_DATA = {
           "url": "https://eiga.com/movie/6264/"
         }
       ],
-      "description": "1991年5月18日、ASKAが取り上げられたテレビ番組『おいしい結婚』が放送された。"
+      "description": "1991年5月18日、映画『おいしい結婚』が日本で劇場公開された。主題歌はASKA「はじまりはいつも雨」。"
     },
     {
       "id": "media-tieup-1995-0915-judge-dredd-japan",
@@ -91281,7 +91281,7 @@ window.CA_EVENT_DATA = {
       ],
       "broadcastStation": "FOD（配信）",
       "startTime": "20:00",
-      "description": "2026年3月19日、CHAGE and ASKAが取り上げられた配信番組『102回目のプロポーズ』がFOD（配信）で放送された。"
+      "description": "2026年3月19日、ドラマ『102回目のプロポーズ』の第1話・第2話がFODで先行配信された。主題歌にはCHAGE and ASKAの「SAY YES」が再起用された。"
     },
     {
       "id": "media-tieup-1982-0522-shinku-na-dourin",
@@ -91302,7 +91302,7 @@ window.CA_EVENT_DATA = {
           "url": "https://eiga.com/movie/74828/"
         }
       ],
-      "description": "1982年5月22日、CHAGE and ASKAが取り上げられたテレビ番組『真紅な動輪』が放送された。"
+      "description": "1982年5月22日、映画『真紅な動輪』が日本で劇場公開された。主題歌はCHAGE and ASKA「熱い想い」。"
     },
     {
       "id": "media-tieup-1988-0112-abunai-zakkyo-couple",
@@ -91365,7 +91365,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.at-elise.com/elise/JPDPGK01888/"
         }
       ],
-      "description": "1991年12月21日、MULTI MAXが取り上げられたテレビ番組『仁義 JINGI』が放送された。"
+      "description": "1991年12月21日、映画『仁義 JINGI』が劇場公開された。主題歌はMULTI MAX「LOVE」。"
     },
     {
       "id": "media-tieup-1993-1229-furikaereba-last-battle",
@@ -91432,7 +91432,7 @@ window.CA_EVENT_DATA = {
           "url": "https://eiga.com/movie/100674/"
         }
       ],
-      "description": "2023年12月1日、ASKAが取り上げられたテレビ番組『本を綴る』が放送された。"
+      "description": "2023年12月1日、映画『本を綴る』の先行劇場公開が栃木県のフォーラム那須塩原で始まった。主題歌はASKA「I feel so good」。"
     },
     {
       "id": "media-tieup-1991-1025-chinmoku-no-kantai-radio",
@@ -92169,7 +92169,7 @@ window.CA_EVENT_DATA = {
         }
       ],
       "broadcastStation": "WOWOWライブ",
-      "description": "2025年5月4日、ASKAが出演した配信番組「7 S.T.A.R.S. ～7つの答え～」がWOWOWライブで放送された。"
+      "description": "2025年5月4日、ASKAが出演したドキュメンタリー番組「7 S.T.A.R.S. ～7つの答え～」第5話がWOWOWライブで放送され、配信も行われた。"
     },
     {
       "id": "media-followup-19950916-kbc-superbest3",
