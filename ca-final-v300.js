@@ -1,0 +1,2 @@
+/* Ver.3.0.0: データ未読込を0件の正常表示と区別する。 */
+(()=>{'use strict';function check(){const notice=document.getElementById('ca300-load-warning');if(!notice)return;const events=window.CA_EVENT_DATA?.events;notice.hidden=Array.isArray(events)&&events.length>0;}if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',check,{once:true});else check();window.addEventListener('pageshow',check);})();

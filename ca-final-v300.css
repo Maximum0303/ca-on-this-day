@@ -1,0 +1,11 @@
+/* Ver.3.0.0: タップ領域とデータ読み込み警告。既存デザインは維持。 */
+#ca300-load-warning,.ca300-noscript{margin:12px 0 18px;padding:14px 16px;border:1px solid #e8bc73;border-radius:10px;background:#2b3040;color:#fff1d7;line-height:1.7;overflow-wrap:anywhere}
+#ca300-load-warning[hidden]{display:none!important}
+@media(max-width:700px){
+ .day-actions .text-button,.result-actions .text-button,.ca-artist-quick .ca-artist-quick-btn,.ca-share-quiet a,.ca-share-quiet button{min-height:44px!important}
+ .day-actions,.result-actions,.ca-share-quiet{flex-wrap:wrap;min-width:0}
+ .filters select{width:100%;min-width:0;min-height:44px}
+ .ca-detail-paper,.ca-detail-section,.ca-detail-section a,.ca-share-quiet-manual{min-width:0;max-width:100%;overflow-wrap:anywhere}
+ .footer-links{flex-wrap:wrap;max-width:100%;overflow-wrap:anywhere}
+ .calendar-card .icon-btn,.day-panel .icon-btn{min-height:44px;min-width:44px}
+}

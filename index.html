@@ -31,8 +31,9 @@
 <link rel="stylesheet" href="ca-nav-v210.css">
 <link rel="stylesheet" href="ca-mobile-v211.css">
 <link rel="stylesheet" href="ca-calendar-v212.css?v=2.1.2">
-<script defer src="data/events.js?v=2.2.0"></script>
-<script defer src="app.js?v=2.6.3"></script>
+<link rel="stylesheet" href="ca-final-v300.css?v=3.0.0">
+<script defer src="data/events.js?v=3.0.0"></script>
+<script defer src="app.js?v=3.0.0"></script>
 <script defer src="ca-ver39.js?v=2.6.3"></script>
 <script defer src="ca-ver40.js?v=2.6.1"></script>
 <script defer src="data/review-followup.js?v=2.2.11"></script>
@@ -44,14 +45,15 @@
 <script defer src="ca-nav-v210.js"></script>
 <script defer src="ca-menu-v224.js?v=2.2.5-navfix"></script>
 <script defer src="ca-search-v225.js?v=2.3.7"></script>
-<script defer src="ca-search-share-v226.js?v=2.2.6"></script>
-<script defer src="ca-section-share-v227.js?v=2.2.7"></script>
+<script defer src="ca-search-share-v226.js?v=3.0.0"></script>
+<script defer src="ca-section-share-v227.js?v=3.0.0"></script>
 <script defer src="ca-share-unify-v228.js?v=2.2.8"></script>
-<script defer src="ca-month-share-v229.js?v=2.3.6"></script>
+<script defer src="ca-month-share-v229.js?v=3.0.0"></script>
 <script defer src="ca-review-guide-v2210.js?v=2.4.3"></script>
 <script defer src="ca-status-guide-v2213.js?v=2.4.3"></script>
 <script defer src="ca-version-auto-v2214.js?v=2.4.1"></script>
 <script defer src="ca-date-jump-v2215.js?v=2.2.15"></script>
+<script defer src="ca-final-v300.js?v=3.0.0"></script>
 <style id="ca-year-only-v2029-style">
 .ca260-more{grid-column:1/-1}.ca260-more>summary{cursor:pointer;color:#ffe0a2;padding:10px 0}.ca260-more>.year-only-list{margin-top:8px}.year-only-card .year-only-stamp{font-size:1rem}.year-only-card h3{font-size:1.05rem}
 /* YEAR_ONLY_RECORDS_V2029 */
@@ -164,6 +166,8 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
     <nav class="topnav" aria-label="主要メニュー"><a href="#calendar">日付から探す</a><a href="#browse">記録を探す</a><a href="#about">このサイトについて</a></nav>
   </header>
   <main>
+    <div id="ca300-load-warning" role="alert" hidden>記録データを読み込めませんでした。ページを再読み込みしてください。改善しない場合は時間をおいてアクセスしてください。</div>
+    <noscript><p class="ca300-noscript">このサイトの記録を表示するにはJavaScriptを有効にしてください。</p></noscript>
     <section class="hero" aria-labelledby="page-title">
       <div class="hero-main">
         <span class="eyebrow"><span class="eyebrow-line"></span> A DATE IN MUSIC HISTORY</span>
@@ -249,7 +253,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
         <label><span>確認区分</span><select id="verification-filter"><option value="all">すべて</option><option value="primary">一次資料確認</option><option value="secondary">二次資料確認</option><option value="unknown">未確認・未設定</option></select></label>
         <label><span>表示順</span><select id="sort-filter"><option value="asc">古い順</option><option value="desc">新しい順</option></select></label>
       </div>
-      <details class="browse-help"><summary>検索と表示の使い方</summary><p>キーワードを空白で区切ると、すべての単語を含む記録を探せます。年代と西暦年は併用できます。資料の確認区分は、記録全体の正確性を保証するものではありません。</p><p>日付から「同じ日付の記録をすべて見る」を押すと、ほかの絞り込み条件を解除して表示します。個々の記録は「この記録を開く」から直接共有できます。</p></details>
+      <details class="browse-help"><summary>検索と表示の使い方</summary><p>キーワードを空白で区切ると、すべての単語を含む記録を探せます。 「SAY YES」のように引用符（「」または半角の二重引用符）で囲むと、空白を含むフレーズをひとまとまりで検索できます。年代と西暦年は併用できます。資料の確認区分は、記録全体の正確性を保証するものではありません。</p><p>日付から「同じ日付の記録をすべて見る」を押すと、ほかの絞り込み条件を解除して表示します。個々の記録は「この記録を開く」から直接共有できます。</p></details>
       <div class="results-toolbar"><span id="results-count" aria-live="polite"></span><div class="result-actions"><button id="export-results" type="button" class="text-button">絞り込み結果をCSV保存</button><button id="reset-filters" type="button" class="text-button">条件をクリア</button></div></div>
       <div id="results" class="results"></div>
       <div class="load-more-wrap"><button id="load-more" type="button" class="btn btn-ghost" hidden>さらに表示する</button></div>
@@ -260,17 +264,17 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
       <div class="disclaimer"><strong>資料の確認について</strong><p>各記録の「資料を見る」から参考資料を確認できます。掲載記録には一次資料で確認したものと、二次資料を基にしたものがあります。資料の照合は継続して行います。開催日・発売日などに誤りが見つかった場合は訂正します。掲載内容は変更される可能性があります。最新情報は公式をご確認ください。</p><p>当サイトはMaximumが運営する非公式ファンサイトであり、アーティスト・所属事務所・関係各社とは関係ありません。資料の権利はそれぞれの権利者に帰属します。</p></div>
     </section>
   </main>
-  <footer class="footer" style="flex-wrap:wrap"><div class="footer-title">今日はC&amp;Aの何の日？<span>Unofficial Fan Project / Created by Maximum</span></div><div class="footer-links"><a href="https://maximum0303.github.io/chage-aska-quiz/" target="_blank" rel="noopener noreferrer">C&amp;A検定 ↗</a><a href="https://maximum0303.github.io/ca-song-map/" target="_blank" rel="noopener noreferrer">楽曲の地図 ↗</a><a href="https://canda.miraheze.org/" target="_blank" rel="noopener noreferrer">アーカイブWiki ↗</a></div><div id="ca-footer-build" aria-label="サイトのバージョン情報" style="width:100%;margin-top:14px;font-size:11px;line-height:1.8;color:var(--muted,#b3c0d2);text-align:right"><strong id="ca-footer-version" style="color:var(--gold-light,#f8e2ba);font-size:12px">Ver.1.8.2</strong><span id="ca-footer-data" style="display:block">登録データ確認中</span></div></footer>
+  <footer class="footer" style="flex-wrap:wrap"><div class="footer-title">今日はC&amp;Aの何の日？<span>Unofficial Fan Project / Created by Maximum</span></div><div class="footer-links"><a href="https://maximum0303.github.io/chage-aska-quiz/" target="_blank" rel="noopener noreferrer">C&amp;A検定 ↗</a><a href="https://maximum0303.github.io/ca-song-map/" target="_blank" rel="noopener noreferrer">楽曲の地図 ↗</a><a href="https://canda.miraheze.org/" target="_blank" rel="noopener noreferrer">アーカイブWiki ↗</a></div><div id="ca-footer-build" aria-label="サイトのバージョン情報" style="width:100%;margin-top:14px;font-size:11px;line-height:1.8;color:var(--muted,#b3c0d2);text-align:right"><strong id="ca-footer-version" style="color:var(--gold-light,#f8e2ba);font-size:12px">画面 Ver.3.0.0</strong><span id="ca-footer-data" style="display:block">登録データ確認中</span></div></footer>
 </div>
 <script id="ca-footer-version-script">
 (function(){
   function fill(){
     var archive=window.CA_EVENT_DATA||{};
     var total=Array.isArray(archive.events)?archive.events.length:null;
-    var version=archive.siteVersion||archive.version||'1.8.2';
+    var version=archive.siteVersion||archive.version||'未設定';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.2.2.13 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.3.0.0 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();

@@ -98,7 +98,7 @@
       const s = share();
       const intent = new URL('https://twitter.com/intent/tweet');
       intent.searchParams.set('text',s.text);
-      intent.searchParams.set('url',s.url);
+      const caOgpShareUrl=new URL(s.url);caOgpShareUrl.searchParams.set('ogp','2');intent.searchParams.set('url',caOgpShareUrl.href);
       link.href = intent.href;
     });
 

@@ -103,7 +103,7 @@
         const share = makeShare();
         const intent = new URL('https://twitter.com/intent/tweet');
         intent.searchParams.set('text',share.text);
-        intent.searchParams.set('url',share.url);
+        const caOgpShareUrl=new URL(share.url);caOgpShareUrl.searchParams.set('ogp','2');intent.searchParams.set('url',caOgpShareUrl.href);
         link.href = intent.href;
       });
     }

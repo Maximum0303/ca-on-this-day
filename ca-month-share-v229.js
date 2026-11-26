@@ -78,7 +78,7 @@
     post.setAttribute('aria-label','表示中の期間をXに投稿');
     post.addEventListener('click',event=>{
       const share=newShare();if(!share){event.preventDefault();return;}
-      const url=new URL('https://twitter.com/intent/tweet');url.searchParams.set('text',share.text);url.searchParams.set('url',share.url);post.href=url.href;
+      const url=new URL('https://twitter.com/intent/tweet');url.searchParams.set('text',share.text);const caOgpShareUrl=new URL(share.url);caOgpShareUrl.searchParams.set('ogp','2');url.searchParams.set('url',caOgpShareUrl.href);post.href=url.href;
     });
     const copy=document.createElement('button');copy.type='button';copy.textContent='リンクをコピー';copy.setAttribute('aria-label','表示中の期間のリンクをコピー');
     copy.addEventListener('click',()=>copyLink(root));
