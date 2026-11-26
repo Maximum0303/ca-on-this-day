@@ -103376,7 +103376,151 @@ window.CA_EVENT_DATA = {
         }
       ],
       "featured": false
+    },
+    {
+      "id": "milestone-2010-04-04-otomichi-start",
+      "date": "2010-04-04",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "ラジオ番組「Chageの音道」開始",
+      "description": "JFN系列のレギュラーラジオ番組がスタート。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2011-04-26-ima-utau-start",
+      "date": "2011-04-26",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "「いま歌う」シリーズ開始",
+      "description": "「廃墟の鳩」「上を向いて歩こう」の新録カバーを配信。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2011-06-11-tanpopo-charity",
+      "date": "2011-06-11",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "震災支援楽曲「3月のタンポポ」配信開始",
+      "description": "西川進のチャリティー楽曲に歌唱で参加。配信収益を東日本大震災の義援金として寄付する企画。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2011.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2012-12-22-boku-ni-dekiru-koto-charity",
+      "date": "2012-12-22",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "復興支援アルバム「僕にできること」会場先行販売開始",
+      "description": "ROCKETツアー会場で先行販売。ASKA個人の収益は東日本大震災の復興支援に活用する企画。一般発売は2013年3月27日。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2013-03-28-on-your-mark-announcement",
+      "date": "2013-03-28",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "復活公演「On Your Mark」開催発表",
+      "description": "ファンクラブ主催のスペシャルライブの開催を告知。後に延期・中止となった。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2013-06-11-on-your-mark-postponement-announcement",
+      "date": "2013-06-11",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "復活公演「On Your Mark」延期発表",
+      "description": "8月に予定されていた国立代々木競技場第一体育館での公演を延期すると発表。翌日付報道で発表日を確認。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "当時の報道（参考資料）",
+          "url": "https://news.mynavi.jp/article/20130612-a104/"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2013-12-12-on-your-mark-cancellation-announcement",
+      "date": "2013-12-12",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "復活公演「On Your Mark」中止発表",
+      "description": "延期されていたスペシャルライブの中止を発表。公演予定日の記録は別に保持する。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2010.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2014-08-31-tug-of-ca-suspension",
+      "date": "2014-08-31",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "ファンクラブ「TUG OF C&A」運営休止",
+      "description": "6月27日に8月末での運営休止が発表され、8月末に休止。解散とは区別する。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "当時の報道（参考資料）",
+          "url": "https://www.nikkansports.com/entertainment/news/p-et-tp0-20140903-1360814.html"
+        },
+        {
+          "label": "当時の報道（事務所発表）",
+          "url": "https://www.daily.co.jp/newsflash/gossip/2014/06/27/0007092936.shtml"
+        },
+        {
+          "label": "公式ファンクラブ案内",
+          "url": "https://www.chage-aska.net/fanclub/"
+        }
+      ],
+      "featured": true
     }
   ],
-  "siteVersion": "2.5.6"
+  "siteVersion": "2.5.7"
 };
