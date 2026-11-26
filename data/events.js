@@ -60805,7 +60805,7 @@ window.CA_EVENT_DATA = {
       "date": "2013-08-28",
       "artist": "CHAGE and ASKA",
       "category": "live",
-      "title": "TUG OF C&A Presents スペシャルライブ2013 “On Your Mark”（開催予定）",
+      "title": "TUG OF C&A Presents スペシャルライブ2013 “On Your Mark”（当初開催予定日・中止）",
       "status": "cancelled",
       "verification": "primary",
       "note": "【中止・当日公演なし】6月11日に延期発表、12月12日に中止発表。開催済公演に含めない",
@@ -60822,14 +60822,14 @@ window.CA_EVENT_DATA = {
       "venue": "国立代々木競技場第一体育館",
       "prefecture": "東京都",
       "country": "日本",
-      "description": "2013年8月28日に国立代々木競技場第一体育館で予定されていたCHAGE and ASKAの「TUG OF C&A Presents スペシャルライブ2013 “On Your Mark”（開催予定）」は中止となった。"
+      "description": "2013年8月28日、国立代々木競技場第一体育館で「TUG OF C&A Presents スペシャルライブ2013 “On Your Mark”」の初日公演が開催される予定だった。\n2013年3月28日に開催が発表されたが、6月11日に全3公演の延期が発表され、その後12月12日に正式に開催中止が発表された。振替公演は行われなかった。"
     },
     {
       "id": "v11-ca-on-your-mark-cancelled-2",
       "date": "2013-08-29",
       "artist": "CHAGE and ASKA",
       "category": "live",
-      "title": "TUG OF C&A Presents スペシャルライブ2013 “On Your Mark”（開催予定）",
+      "title": "TUG OF C&A Presents スペシャルライブ2013 “On Your Mark”（当初開催予定日・中止）",
       "status": "cancelled",
       "verification": "primary",
       "note": "【中止・当日公演なし】6月11日に延期発表、12月12日に中止発表。開催済公演に含めない",
@@ -60846,14 +60846,14 @@ window.CA_EVENT_DATA = {
       "venue": "国立代々木競技場第一体育館",
       "prefecture": "東京都",
       "country": "日本",
-      "description": "2013年8月29日に国立代々木競技場第一体育館で予定されていたCHAGE and ASKAの「TUG OF C&A Presents スペシャルライブ2013 “On Your Mark”（開催予定）」は中止となった。"
+      "description": "2013年8月29日、国立代々木競技場第一体育館で「TUG OF C&A Presents スペシャルライブ2013 “On Your Mark”」の第2公演が開催される予定だった。\n2013年3月28日に開催が発表されたが、6月11日に全3公演の延期が発表され、その後12月12日に正式に開催中止が発表された。振替公演は行われなかった。"
     },
     {
       "id": "v11-ca-on-your-mark-cancelled-3",
       "date": "2013-08-31",
       "artist": "CHAGE and ASKA",
       "category": "live",
-      "title": "TUG OF C&A Presents スペシャルライブ2013 “On Your Mark”（開催予定）",
+      "title": "TUG OF C&A Presents スペシャルライブ2013 “On Your Mark”（当初開催予定日・中止）",
       "status": "cancelled",
       "verification": "primary",
       "note": "【中止・当日公演なし】6月11日に延期発表、12月12日に中止発表。開催済公演に含めない",
@@ -60870,7 +60870,7 @@ window.CA_EVENT_DATA = {
       "venue": "国立代々木競技場第一体育館",
       "prefecture": "東京都",
       "country": "日本",
-      "description": "2013年8月31日に国立代々木競技場第一体育館で予定されていたCHAGE and ASKAの「TUG OF C&A Presents スペシャルライブ2013 “On Your Mark”（開催予定）」は中止となった。"
+      "description": "2013年8月31日、国立代々木競技場第一体育館で「TUG OF C&A Presents スペシャルライブ2013 “On Your Mark”」の最終日公演が開催される予定だった。\n2013年3月28日に開催が発表されたが、6月11日に全3公演の延期が発表され、その後12月12日に正式に開催中止が発表された。振替公演は行われなかった。"
     },
     {
       "id": "v12-valentine14",
