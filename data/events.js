@@ -102873,7 +102873,223 @@ window.CA_EVENT_DATA = {
         }
       ],
       "featured": true
+    },
+    {
+      "id": "milestone-2000-08-26-korea-first-large-concert",
+      "date": "2000-08-26",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "韓国で日本人アーティスト初の大規模コンサート開催",
+      "description": "ソウルで8月26・27日に韓日親善コンサートを実施。2日間で約2万人を動員。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "CHAGE and ASKA 公式映像作品情報",
+          "url": "https://www.chage-aska.net/discography/video/live_in_korea.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2000-11-25-first-livehouse",
+      "date": "2000-11-25",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "ASKA初のライブハウス公演開催",
+      "description": "恵比寿ガーデンホールで「ASKA PRE-FINAL at The Garden Hall」を開催。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2002-04-19-not-at-all-hall-finale",
+      "date": "2002-04-19",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「NOT AT ALL」ホールツアー74公演完遂",
+      "description": "沖縄コンベンション劇場で全国42カ所74公演の本編を終了。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2002-05-22-not-at-all-arena-finale",
+      "date": "2002-05-22",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「NOT AT ALL」追加公演終了・本編と合わせて84公演",
+      "description": "大阪城ホールで追加公演5カ所10公演を終了。本編74公演との合計は84公演。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2002-11-01-aoyama-campus-return",
+      "date": "2002-11-01",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "21年ぶりの学園祭ライブ出演",
+      "description": "青山学院学園祭「AOYAMA FESTIVAL PRE-EVENT2002」に出演。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2002-11-20-stamp-first-self-cover",
+      "date": "2002-11-20",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "初のセルフカバーアルバム『STAMP』発売",
+      "description": "全13曲を新たに録音した初のセルフカバー集。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2003-12-01-gallery-chagelaccho",
+      "date": "2003-12-01",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "写真展示企画「ギャラリーチャゲラッチョ」開催",
+      "description": "札幌のUBUSUNA CAFEで写真を展示。ラジオ番組に連動した企画。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2003-12-30-sapporo-public-rehearsal",
+      "date": "2003-12-30",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "札幌ドーム公開リハーサルに約5,000人が集まる",
+      "description": "カウントダウン公演前日、急きょ公開リハーサルを実施。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2003-12-31-sapporo-second-dome",
+      "date": "2003-12-31",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "2度目のドーム公演・札幌カウントダウンライブ",
+      "description": "翌2004年1月1日にかけて開催。4万人以上を動員。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "CHAGE and ASKA 公式映像作品情報",
+          "url": "https://www.chage-aska.net/discography/video/countdown_live_bluray.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2004-01-13-korea-the-best",
+      "date": "2004-01-13",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "第4次日本大衆文化開放を受け韓国で『THE BEST』発売",
+      "description": "韓国で日本の大衆文化に対する規制が緩和されたことを受けたアルバム発売。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2004-08-28-neppu-25th-concert",
+      "date": "2004-08-28",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "25周年記念「チャゲ＆飛鳥 熱風コンサート」開催",
+      "description": "お台場野外特設会場で開催された特別公演。8月25日の周年当日とは別。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "ユニバーサルミュージック 公式映像作品情報",
+          "url": "https://www.universal-music.co.jp/chage-and-aska/products/umbk-1079/"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2004-12-19-two-five-finale",
+      "date": "2004-12-19",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "25周年ツアー「two-five」全71公演完遂",
+      "description": "広島グリーンアリーナで全国46カ所71公演のツアーを終了。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": true
     }
   ],
-  "siteVersion": "2.5.4"
+  "siteVersion": "2.5.5"
 };
