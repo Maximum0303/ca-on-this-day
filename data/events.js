@@ -102819,7 +102819,62 @@ window.CA_EVENT_DATA = {
         }
       ],
       "featured": false
+    },
+    {
+      "id": "milestone-2020-12-17-music-cross-aid-donation",
+      "date": "2020-12-17",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "ライブエンタメ従事者支援基金「Music Cross Aid」へ寄付",
+      "description": "公式YouTubeのライブ映像公開企画に伴う支援。寄付日は12月17日、公式報告日は12月22日。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト",
+          "url": "https://www.chage-aska.net/information/2020122201.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2023-06-30-chage-multi-streaming",
+      "date": "2023-06-30",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "Chageソロ初期作品・MULTI MAX等のサブスク解禁",
+      "description": "石川優子とチャゲの「ふたりの愛ランド」を含む24作品227曲のストリーミング配信開始。個別作品の配信開始とは重複させない。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "ユニバーサルミュージック公式",
+          "url": "https://www.universal-music.co.jp/chage/news/2023-06-30/"
+        },
+        {
+          "label": "Chage公式サイト",
+          "url": "https://chage.jp/information/release/detail-555.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2026-03-19-say-yes-102nd-theme",
+      "date": "2026-03-19",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "ドラマ「102回目のプロポーズ」の主題歌に「SAY YES」が決定",
+      "description": "1991年のドラマの続編への主題歌起用が公式発表された。同日FODで配信開始予定と案内。地上波放送日とは区別する。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト",
+          "url": "https://www.chage-aska.net/information/2026031901.php"
+        }
+      ],
+      "featured": false
     }
   ],
-  "siteVersion": "2.5.8"
+  "siteVersion": "2.5.9"
 };
