@@ -52361,7 +52361,7 @@ window.CA_EVENT_DATA = {
       "date": "2009-01-30",
       "artist": "CHAGE and ASKA",
       "category": "milestone",
-      "title": "CHAGE and ASKA 無期限活動休止・ソロ活動継続を発表",
+      "title": "CHAGE and ASKA 活動休止・ソロ活動継続を発表",
       "status": "recorded",
       "verification": "primary",
       "note": "",
@@ -102014,7 +102014,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1980-11-27-bestten-first",
@@ -102056,7 +102056,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.conex-eco.co.jp/serial/showa-record/173964/2/"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1981-08-01-denen-first",
@@ -102073,7 +102073,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1981-08-21-neppu-finish",
@@ -102111,7 +102111,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1988-08-21-aska-first-album",
@@ -102149,7 +102149,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.jacompa.or.jp/record/30.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1989-10-03-noru-soru-start",
@@ -102212,7 +102212,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/cavc/pages/115.html"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1991-08-05-say-yes-first-number-one",
@@ -102233,7 +102233,7 @@ window.CA_EVENT_DATA = {
           "url": "https://cd100.net/oricon/weekrank.php?date=19910805"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1991-10-28-say-yes-13weeks",
@@ -102254,7 +102254,7 @@ window.CA_EVENT_DATA = {
           "url": "https://cd100.net/oricon/weekrank.php?date=19911028"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1991-12-31-record-award-ca",
@@ -102271,7 +102271,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.jacompa.or.jp/record/33.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1991-12-31-record-award-aska",
@@ -102288,7 +102288,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.jacompa.or.jp/record/33.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1992-05-12-say-yes-big-tree-attendance",
@@ -102305,7 +102305,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1993-03-15-yah-yah-yah-first-number-one",
@@ -102326,7 +102326,7 @@ window.CA_EVENT_DATA = {
           "url": "https://cd100.net/oricon/weekrank.php?date=19930315"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1993-05-12-world-music-awards",
@@ -102347,7 +102347,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1993-05-14-asia-promotion",
@@ -102381,7 +102381,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1994-04-29-asian-tour-start",
@@ -102402,7 +102402,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1994-05-21-asian-tour-completion",
@@ -102423,7 +102423,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1994-08-26-15th-amusement-park",
@@ -102482,7 +102482,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.boxofficemojo.com/title/tt0111301/"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1995-01-01-emi-first-single",
@@ -102503,7 +102503,7 @@ window.CA_EVENT_DATA = {
           "url": "https://contents.oricon.co.jp/prof/245800/products/271567/1/"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1995-01-16-seiten-first-number-one",
@@ -102528,7 +102528,7 @@ window.CA_EVENT_DATA = {
           "url": "https://cd100.net/oricon/weekrank.php?date=19950116&f=all&top=minrank+DESC"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1995-03-13-never-end-first-number-one",
@@ -102553,7 +102553,7 @@ window.CA_EVENT_DATA = {
           "url": "https://contents.oricon.co.jp/prof/245800/products/269149/1/"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1995-07-10-brother-sun-first-number-one",
@@ -102574,7 +102574,7 @@ window.CA_EVENT_DATA = {
           "url": "https://en.wikipedia.org/wiki/List_of_Oricon_number-one_albums_of_1995"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1995-07-15-on-your-mark-theatrical",
@@ -102599,7 +102599,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.ghibli.jp/qa/"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1996-06-19-mtv-unplugged-first-asian",
@@ -102624,7 +102624,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1996-07-08-one-voice-uk",
@@ -102641,7 +102641,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1997-03-30-first-solo-tour-id",
@@ -102662,7 +102662,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1998-04-06-p-stock-first-tv-regular",
@@ -102704,7 +102704,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/1998.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1998-06-22-first-japan-solo-budokan",
@@ -102725,7 +102725,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/1998.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1998-07-19-reunion-announcement",
@@ -102746,7 +102746,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/1998.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1998-09-30-first-solo-single",
@@ -102767,7 +102767,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/1998.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1998-11-14-first-domestic-solo-tour",
@@ -102788,7 +102788,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/1998.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1999-03-10-reunion-single",
@@ -102809,7 +102809,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1999-05-31-reunion-stage",
@@ -102826,7 +102826,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/1990.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1999-09-06-no-doubt-first-number-one",
@@ -102851,7 +102851,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.generasia.com/wiki/1999_Oricon_Number_1_Releases"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-1999-12-31-first-dome-countdown",
@@ -102872,7 +102872,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2000-08-26-korea-first-large-concert",
@@ -102893,7 +102893,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/discography/video/live_in_korea.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2000-11-25-first-livehouse",
@@ -102910,7 +102910,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2002-04-19-not-at-all-hall-finale",
@@ -102927,7 +102927,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2002-05-22-not-at-all-arena-finale",
@@ -102961,7 +102961,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2002-11-20-stamp-first-self-cover",
@@ -102978,7 +102978,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2003-12-01-gallery-chagelaccho",
@@ -103033,7 +103033,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/discography/video/countdown_live_bluray.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2004-01-13-korea-the-best",
@@ -103050,7 +103050,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2004-08-28-neppu-25th-concert",
@@ -103071,7 +103071,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.universal-music.co.jp/chage-and-aska/products/umbk-1079/"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2004-12-19-two-five-finale",
@@ -103088,7 +103088,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2005-09-10-missing-pages-expo",
@@ -103113,7 +103113,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.biff.kr/ENG/html/archive/arc_history_view.asp?kind=history&m_idx=11139&pyear=2006"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2005-11-16-symphonic-2005",
@@ -103130,7 +103130,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2006-07-16-ap-bank-2006",
@@ -103164,7 +103164,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.universal-music.co.jp/chage-and-aska/products/umck-1217/"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2007-07-22-double-finale",
@@ -103198,7 +103198,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2007-12-24-alive-in-live-finale",
@@ -103215,7 +103215,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2008-03-01-solo-return",
@@ -103236,7 +103236,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2008-04-26-scene-symphonic-start",
@@ -103257,7 +103257,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2008-12-13-scene-symphonic-finale",
@@ -103295,7 +103295,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2009.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2009-04-10-first-photobook",
@@ -103316,7 +103316,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2009.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2009-04-14-first-chakai",
@@ -103337,7 +103337,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2009-05-23-hosomichi-start",
@@ -103358,7 +103358,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.universal-music.co.jp/chage/biography/"
         }
       ],
-      "featured": true
+      "featured": false
     },
     {
       "id": "milestone-2009-12-15-first-big-band-christmas",
@@ -103375,7 +103375,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "featured": true
+      "featured": false
     }
   ],
   "siteVersion": "2.5.6"
