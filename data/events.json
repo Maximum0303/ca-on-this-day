@@ -75931,7 +75931,7 @@
       "title": "Chage Official Fan Club equal FAN MEETING 2023 @Spa Resort Hawaiians",
       "status": "recorded",
       "verification": "primary",
-      "note": "FCイベント開催日。歌唱ステージの公演回数は未確認",
+      "note": "FCイベント開催日。同日開催の特別ライブは別の公演記録に掲載。",
       "sources": [
         {
           "label": "Chage公式Biography（2023）",
@@ -77942,7 +77942,7 @@
       "title": "Chage Official Fan Club equal FAN MEETING 2024 @Spa Resort Hawaiians（1st）",
       "status": "recorded",
       "verification": "primary",
-      "note": "1st：4月20日〜21日のFCイベント。開始日のみ登録。歌唱公演の実施日・公演回数は未確認",
+      "note": "1st：4月20日〜21日のFCイベント。開始日のみ登録。4月20日の特別ライブは別の公演記録に掲載。",
       "sources": [
         {
           "label": "Chage公式：2024年スパリゾートハワイアンズFCイベント",
@@ -77962,7 +77962,7 @@
       "title": "Chage Official Fan Club equal FAN MEETING 2024 @Spa Resort Hawaiians（2nd）",
       "status": "recorded",
       "verification": "primary",
-      "note": "2nd：4月21日〜22日のFCイベント。開始日のみ登録。歌唱公演の実施日・公演回数は未確認",
+      "note": "2nd：4月21日〜22日のFCイベント。開始日のみ登録。4月21日の特別ライブは別の公演記録に掲載。",
       "sources": [
         {
           "label": "Chage公式：2024年スパリゾートハワイアンズFCイベント",
@@ -81306,7 +81306,7 @@
       "title": "Chage FAN MEETING 2025 @Spa Resort Hawaiians",
       "status": "recorded",
       "verification": "primary",
-      "note": "イベント開催日。公演数の詳細は別途確認",
+      "note": "イベント開催日。同日開催の特別ライブは別の公演記録に掲載。",
       "sources": [
         {
           "label": "Chage公式Biography（2025）",
@@ -84895,7 +84895,7 @@
       "venue": "スパリゾートハワイアンズ",
       "prefecture": "福島県",
       "country": "日本",
-      "note": "5月30～31日の2日間。イベント開始日のみ登録／公演回数は未確認",
+      "note": "5月30～31日の2日間。イベント開始日のみ登録／同日開催の特別ライブは別の公演記録に掲載。",
       "sources": [
         {
           "label": "Chage公式：ファンミーティング日程",
@@ -103200,7 +103200,131 @@
           "url": "https://www.suruga-ya.jp/kaitori/search_buy?category=3&restrict%5B%5D=person_id%3D19056&search_word="
         }
       ]
+    },
+    {
+      "id": "live-293-20230527-chage-hawaiians",
+      "date": "2023-05-27",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 特別編 Live at Spa Resort Hawaiians",
+      "venue": "スパリゾートハワイアンズ ビーチシアター",
+      "prefecture": "福島県",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2023年05月27日、スパリゾートハワイアンズ内ビーチシアターにて開催された特別ライブ。",
+      "note": "ファンミーティング全体とは区別して掲載。公演音源は後にCD化。",
+      "sources": [
+        {
+          "label": "Chage公式公演案内",
+          "url": "https://chage.jp/information/live/detail-543.php"
+        },
+        {
+          "label": "Chage公式リリース情報（公演実施日）",
+          "url": "https://chage.jp/information/release/detail-608.php"
+        }
+      ]
+    },
+    {
+      "id": "live-293-20240420-chage-hawaiians",
+      "date": "2024-04-20",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 特別編 Live at Spa Resort Hawaiians",
+      "venue": "スパリゾートハワイアンズ ビーチシアター",
+      "prefecture": "福島県",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2024年04月20日、スパリゾートハワイアンズ内ビーチシアターにて開催された特別ライブ。「ふたりの愛ランド」発売40周年を記念した2日間の公演の初日。",
+      "note": "ファンミーティング全体とは区別して掲載。ファンクラブ参加者以外も観覧可能な公演。",
+      "sources": [
+        {
+          "label": "Chage公式公演案内",
+          "url": "https://chage.jp/information/news/detail-612.php"
+        },
+        {
+          "label": "Chage本人インタビュー（両日の開催確認）",
+          "url": "https://diskgarage.com/digaonline/pleasure/204568"
+        }
+      ]
+    },
+    {
+      "id": "live-293-20240421-chage-hawaiians",
+      "date": "2024-04-21",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 特別編 Live at Spa Resort Hawaiians",
+      "venue": "スパリゾートハワイアンズ ビーチシアター",
+      "prefecture": "福島県",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2024年04月21日、スパリゾートハワイアンズ内ビーチシアターにて開催された特別ライブ。「ふたりの愛ランド」発売40周年を記念した2日間の公演の2日目（発売40周年当日）。",
+      "note": "ファンミーティング全体とは区別して掲載。ファンクラブ参加者以外も観覧可能な公演。",
+      "sources": [
+        {
+          "label": "Chage公式公演案内",
+          "url": "https://chage.jp/information/news/detail-612.php"
+        },
+        {
+          "label": "Chage本人インタビュー（両日の開催確認）",
+          "url": "https://diskgarage.com/digaonline/pleasure/204568"
+        }
+      ]
+    },
+    {
+      "id": "live-293-20250517-chage-hawaiians",
+      "date": "2025-05-17",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 特別編 Live at Spa Resort Hawaiians",
+      "venue": "スパリゾートハワイアンズ ビーチシアター",
+      "prefecture": "福島県",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2025年05月17日、スパリゾートハワイアンズ内ビーチシアターにて開催された特別ライブ。",
+      "note": "ファンミーティング全体とは区別して掲載。ファンクラブ参加者以外も観覧可能な公演。",
+      "sources": [
+        {
+          "label": "会場公式公演案内",
+          "url": "https://blog.hawaiians.co.jp/archives/51909910.html"
+        },
+        {
+          "label": "参考資料（非公式・参加者記録）",
+          "url": "https://ameblo.jp/honobonoonsen/entry-12895639549.html"
+        }
+      ]
+    },
+    {
+      "id": "live-293-20260530-chage-hawaiians",
+      "date": "2026-05-30",
+      "artist": "Chage",
+      "category": "live",
+      "title": "Chageのずっと細道 特別編 Live at Spa Resort Hawaiians",
+      "venue": "スパリゾートハワイアンズ ビーチシアター",
+      "prefecture": "福島県",
+      "country": "日本",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "2026年05月30日、スパリゾートハワイアンズ内ビーチシアターにて開催された特別ライブ。",
+      "note": "ファンミーティング全体とは区別して掲載。ファンクラブ参加者以外も観覧可能な公演。",
+      "sources": [
+        {
+          "label": "会場公式公演案内",
+          "url": "https://www.hawaiians.co.jp/sys/show-event/20"
+        },
+        {
+          "label": "会場公式当日案内",
+          "url": "https://www.hawaiians.co.jp/sys/visit/20260530"
+        },
+        {
+          "label": "出演者記録（記念写真）",
+          "url": "https://pic.x.com/yFM06m3atz"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.9.2"
+  "siteVersion": "2.9.3"
 }
