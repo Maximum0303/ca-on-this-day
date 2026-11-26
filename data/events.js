@@ -102955,7 +102955,121 @@ window.CA_EVENT_DATA = {
           "url": "https://podcasts.apple.com/jp/podcast/11-13-%E3%82%B2%E3%82%B9%E3%83%88-aska%E3%81%95%E3%82%93%E3%81%A8%E3%81%AE%E3%81%B2%E3%81%A8%E3%81%A8%E3%81%8D%E3%82%92%E6%8C%AF%E3%82%8A%E8%BF%94%E3%82%8B/id1748711466?i=1000801832257"
         }
       ]
+    },
+    {
+      "id": "book-291-19920215-ca-piano-solo-album",
+      "date": "1992-02-15",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "やさしく弾ける CHAGE AND ASKA ピアノ・ソロ・アルバム",
+      "description": "ケイ・エム・ピーのピアノ・ソロ楽譜集。販売資料に記載された発売日は1992年2月15日。",
+      "status": "released",
+      "verification": "secondary",
+      "format": "ピアノ・ソロ楽譜集",
+      "publisher": "ケイ・エム・ピー",
+      "releaseTitle": "やさしく弾ける CHAGE AND ASKA ピアノ・ソロ・アルバム",
+      "note": "発売日は二次資料に基づく。現物の奥付・出版社の原典は未確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・書籍販売資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/BS67756"
+        }
+      ],
+      "isbn": "9784773207149"
+    },
+    {
+      "id": "book-291-20000210-ca-roll-over-20th-guitar",
+      "date": "2000-02-10",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "ギター弾き語り CHAGE＆ASKA VERY BEST ROLL OVER 20TH",
+      "description": "ヤマハミュージックメディアのギター弾き語り楽譜集。販売資料に記載された発売日は2000年2月10日。",
+      "status": "released",
+      "verification": "secondary",
+      "format": "ギター弾き語り楽譜集",
+      "publisher": "ヤマハミュージックメディア",
+      "releaseTitle": "ギター弾き語り CHAGE＆ASKA VERY BEST ROLL OVER 20TH",
+      "note": "発売日は二次資料に基づく。現物の奥付・出版社の原典は未確認。販売資料のJANは4947817121435。CD作品の発売記録とは別の出版物。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・書籍販売資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/BS14595"
+        },
+        {
+          "label": "参考資料（非公式・採譜者の著作資料）",
+          "url": "https://ebe-kenfan.hatenablog.com/entry/2025/12/16/200000"
+        }
+      ]
+    },
+    {
+      "id": "book-291-20001001-ca-guitar-solo-cd",
+      "date": "2000-10-01",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE＆ASKA ギター・ソロ曲集 CDで覚える",
+      "description": "ドレミ楽譜出版社のCD付きギター・ソロ楽譜集。販売資料に記載された発売日は2000年10月1日。",
+      "status": "released",
+      "verification": "secondary",
+      "format": "CD付きギター・ソロ楽譜集",
+      "publisher": "ドレミ楽譜出版社",
+      "releaseTitle": "CHAGE＆ASKA ギター・ソロ曲集 CDで覚える",
+      "note": "発売日は二次資料に基づく。現物の奥付・出版社の原典は未確認。付属CDは楽譜の付録として扱い、音楽作品の独立記録にはしない。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・書籍販売資料）",
+          "url": "https://www.suruga-ya.jp/product/detail/BS36006"
+        }
+      ]
+    },
+    {
+      "id": "book-291-20030330-ca-guitar-songbook",
+      "date": "2003-03-30",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "CHAGE＆ASKA ギターソングブック",
+      "description": "ドレミ楽譜出版社のギター弾き語り楽譜集。販売資料に記載された発売日は2003年3月30日。",
+      "status": "released",
+      "verification": "secondary",
+      "format": "ギター弾き語り楽譜集",
+      "publisher": "ドレミ楽譜出版社",
+      "releaseTitle": "CHAGE＆ASKA ギターソングブック",
+      "note": "発売日は二次資料に基づく。現物の奥付・出版社の原典は未確認。別の販売資料では2003年3月まで確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・書籍販売資料）",
+          "url": "https://www.suruga-ya.jp/product/detail/BS6781"
+        },
+        {
+          "label": "参考資料（非公式・出版年月）",
+          "url": "https://www.netoff.co.jp/cmdtyallsearch/?word=%EF%BC%A3%EF%BC%A8%EF%BC%A1%EF%BC%A7%EF%BC%A5%E3%80%80%EF%BC%A1%EF%BC%B3%EF%BC%AB%EF%BC%A1"
+        }
+      ]
+    },
+    {
+      "id": "book-291-20071130-ca-acogi-best",
+      "date": "2007-11-30",
+      "artist": "CHAGE and ASKA",
+      "category": "book",
+      "title": "やさしく弾ける アコギで歌おう CHAGE and ASKA ベスト曲集",
+      "description": "ドレミ楽譜出版社のギター弾き語り楽譜集。販売資料に記載された発売日は2007年11月30日。",
+      "status": "released",
+      "verification": "secondary",
+      "format": "ギター弾き語り楽譜集",
+      "publisher": "ドレミ楽譜出版社",
+      "releaseTitle": "やさしく弾ける アコギで歌おう CHAGE and ASKA ベスト曲集",
+      "note": "発売日は二次資料に基づく。現物の奥付・出版社の原典は未確認。別の販売資料では2007年11月まで確認。",
+      "sources": [
+        {
+          "label": "参考資料（非公式・書籍販売資料）",
+          "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/BS1822"
+        },
+        {
+          "label": "参考資料（非公式・出版年月）",
+          "url": "https://books.rakuten.co.jp/rb/5136826/"
+        }
+      ],
+      "isbn": "9784285114249"
     }
   ],
-  "siteVersion": "2.9.0"
+  "siteVersion": "2.9.1"
 };
