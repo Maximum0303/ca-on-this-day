@@ -103089,7 +103089,294 @@ window.CA_EVENT_DATA = {
         }
       ],
       "featured": true
+    },
+    {
+      "id": "milestone-2005-09-10-missing-pages-expo",
+      "date": "2005-09-10",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "初の短編映画「missing pages」を愛・地球博に出展",
+      "description": "制作・撮影・音楽を担当した短編映画が国際短編映画祭の招待作品として上映された。監督はジェロム・オリヴィエ。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2005.php"
+        },
+        {
+          "label": "映画祭公式記録",
+          "url": "https://www.shortshorts.org/ja/about/2005.php"
+        },
+        {
+          "label": "釜山国際映画祭 公式作品情報",
+          "url": "https://www.biff.kr/ENG/html/archive/arc_history_view.asp?kind=history&m_idx=11139&pyear=2006"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2005-11-16-symphonic-2005",
+      "date": "2005-11-16",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "服部隆之指揮によるシンフォニックコンサート開催",
+      "description": "東京国際フォーラム ホールAで11月16・17日に開催。東京ニューシティ管弦楽団と共演。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2006-07-16-ap-bank-2006",
+      "date": "2006-07-16",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "「ap bank fes ’06」出演・Bank Bandとの共演",
+      "description": "つま恋で開催された音楽フェスティバルにソロで出演。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2007-01-24-double-five-years",
+      "date": "2007-01-24",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "約5年ぶりのオリジナルアルバム「DOUBLE」発売",
+      "description": "通算21作目のオリジナルアルバム。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "ユニバーサルミュージック 公式作品情報",
+          "url": "https://www.universal-music.co.jp/chage-and-aska/products/umck-1217/"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2007-07-22-double-finale",
+      "date": "2007-07-22",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「DOUBLE」ツアー全51公演終了",
+      "description": "NHKホールで最終公演を迎えた。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2007-11-17-shanghai-return",
+      "date": "2007-11-17",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "約8年ぶりの上海公演開催",
+      "description": "上海大舞台でアコースティック形式の「alive in live」を開催。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2007-12-24-alive-in-live-finale",
+      "date": "2007-12-24",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "「alive in live」国内最終公演",
+      "description": "国立代々木競技場第一体育館で国内10公演のツアーを終えた。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2008-03-01-solo-return",
+      "date": "2008-03-01",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "約10年ぶりの本格的なソロ活動開始",
+      "description": "大友直人プロデュースのPOPULAR WEEKでソロライブを開催。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2008.php"
+        },
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2008-04-26-scene-symphonic-start",
+      "date": "2008-04-26",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "シンフォニックツアー「SCENE」開始",
+      "description": "シンガポールから各地のオーケストラと共演するツアーが始まった。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "ユニバーサルミュージック 公式作品情報",
+          "url": "https://www.universal-music.co.jp/p/POBD-22003/"
+        },
+        {
+          "label": "ASKA 公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2008-12-13-scene-symphonic-finale",
+      "date": "2008-12-13",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "シンフォニックツアー「SCENE」香港公演で終了",
+      "description": "香港文化中心でツアー終了。資料間で公演数の記載が異なるため総数は記載しない。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2009-03-07-first-orchestra-stage",
+      "date": "2009-03-07",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "初のオーケストラとの共演ステージ",
+      "description": "都城総合文化ホールで服部家三代の記念コンサートに出演。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2009.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2009-04-10-first-photobook",
+      "date": "2009-04-10",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "初の写真集「歌写（かしゃッ）！♪」発売",
+      "description": "撮りためた写真と石垣島で撮影した写真をまとめた初写真集。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2009.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2009-04-14-first-chakai",
+      "date": "2009-04-14",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "初の同一会場10公演「茶会」開始",
+      "description": "草月ホールで4月26日までの全10公演を開催。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2009.php"
+        },
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2009-05-23-hosomichi-start",
+      "date": "2009-05-23",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "「Chageの細道」シリーズ開始",
+      "description": "武蔵村山市民会館さくらホールを初日とする全国ツアー。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2009.php"
+        },
+        {
+          "label": "ユニバーサルミュージック 公式Biography",
+          "url": "https://www.universal-music.co.jp/chage/biography/"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2009-12-15-first-big-band-christmas",
+      "date": "2009-12-15",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "初のビッグバンド編成による「昭和が見ていたクリスマス」開始",
+      "description": "名古屋国際会議場センチュリーホールを初日とするクリスマスライブ。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        }
+      ],
+      "featured": true
     }
   ],
-  "siteVersion": "2.5.5"
+  "siteVersion": "2.5.6"
 };
