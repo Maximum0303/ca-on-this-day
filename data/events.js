@@ -103520,7 +103520,213 @@ window.CA_EVENT_DATA = {
         }
       ],
       "featured": true
+    },
+    {
+      "id": "milestone-2015-10-14-national-anthem-climax-series",
+      "date": "2015-10-14",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "プロ野球クライマックスシリーズで国歌独唱",
+      "description": "福岡ソフトバンクホークス対千葉ロッテマリーンズのパ・リーグ ファイナルステージで国歌独唱。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2015.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2016-12-14-first-solo-live-album",
+      "date": "2016-12-14",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "ソロ初のライブアルバム発売",
+      "description": "「Chage Live Tour 2016 ～もうひとつのLOVE SONG～」をCD2枚組で発売。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2016.php"
+        },
+        {
+          "label": "Chage 公式ディスコグラフィー",
+          "url": "https://chage.jp/discography/chage/album.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2016-12-24-fukuoka-video-publication",
+      "date": "2016-12-24",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "新曲「FUKUOKA」をYouTubeで公開",
+      "description": "自身のブログから新曲の動画を公開。2017年のアルバム発売とは別の記録。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "当時の報道（参考資料）",
+          "url": "https://www.nikkansports.com/entertainment/news/1756494.html"
+        },
+        {
+          "label": "当時の報道（参考資料）",
+          "url": "https://www.j-cast.com/2016/12/25286865.html"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2017-02-22-too-many-people-restart",
+      "date": "2017-02-22",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "約4年4カ月ぶりのオリジナルアルバム「Too many people」発売",
+      "description": "2012年の「SCRAMBLE」以来のオリジナルアルバム。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "ASKA 公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "ASKA 公式ブログ",
+          "url": "https://archive.fellows.tokyo/blog/?id=198"
+        },
+        {
+          "label": "参考資料（作品情報）",
+          "url": "https://www.oricon.co.jp/prof/245800/products/1219695/1/"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2017-10-20-weare-announcement",
+      "date": "2017-10-20",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "音楽配信会社「Weare」設立を発表",
+      "description": "本人の公式ブログで音楽配信会社の設立を公表。法人設立日・配信開始日とは区別する。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "ASKA 公式ブログ",
+          "url": "https://archive.fellows.tokyo/blog/?id=557"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2018-01-20-otomichi-400-recording",
+      "date": "2018-01-20",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "「Chageの音道」放送400回記念公開収録",
+      "description": "放送400回と60歳の誕生日を記念する公開収録。実際の放送日とは区別する。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2018.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2018-11-05-the-pride-stage-return",
+      "date": "2018-11-05",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "シンフォニックコンサート「THE PRIDE」でステージ復帰",
+      "description": "東京国際フォーラム ホールAで再始動公演を開催。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "ASKA 公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "公演主催者公式",
+          "url": "https://billboard-cc.com/aska2018"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-2019-02-06-made-in-aska-band-return",
+      "date": "2019-02-06",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "約6年ぶりのバンドツアー「Made in ASKA」開始",
+      "description": "オリンパスホール八王子から、約5年11カ月ぶりの自身のバンドによるツアーを開始。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "ASKA 公式ブログ",
+          "url": "https://archive.fellows.tokyo/blog/?id=1316"
+        },
+        {
+          "label": "放送局公式",
+          "url": "https://www.fujitv.co.jp/b_hp/190827aska/index.html"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2019-06-09-made-in-aska-asia-return",
+      "date": "2019-06-09",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "約10年ぶりの海外公演・アジアツアー開始",
+      "description": "台北の台大體育館で公演。公式Biographyで海外公演の間隔を確認。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "ASKA 公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "公演主催者公式案内",
+          "url": "https://welcomemusic.kktix.cc/events/aska2019tour"
+        },
+        {
+          "label": "当時の報道（参考資料）",
+          "url": "https://n.yam.com/Article/20190610454927"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-2019-08-26-withdrawal-response",
+      "date": "2019-08-26",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "ASKAの脱退表明を受けてコメントを発表",
+      "description": "公式ファンクラブ会員に向け、今後のソロ活動に取り組む意向を伝えた。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "当時の報道（参考資料）",
+          "url": "https://www.oricon.co.jp/news/2143084/"
+        },
+        {
+          "label": "当時の報道（参考資料）",
+          "url": "https://lp.p.pia.jp/article/news/67528/index.html"
+        }
+      ],
+      "featured": false
     }
   ],
-  "siteVersion": "2.5.7"
+  "siteVersion": "2.5.8"
 };
