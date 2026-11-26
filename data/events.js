@@ -102483,7 +102483,397 @@ window.CA_EVENT_DATA = {
         }
       ],
       "featured": true
+    },
+    {
+      "id": "milestone-1995-01-01-emi-first-single",
+      "date": "1995-01-01",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "東芝EMI移籍第1弾シングル発売",
+      "description": "「晴天を誉めるなら夕暮れを待て」を移籍第1弾として発売。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "オリコン 作品情報",
+          "url": "https://contents.oricon.co.jp/prof/245800/products/271567/1/"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1995-01-16-seiten-first-number-one",
+      "date": "1995-01-16",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "「晴天を誉めるなら夕暮れを待て」がオリコン初登場1位",
+      "description": "1月16日付（合算週）週間シングルランキングで初登場1位。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（非公式・週間チャート）",
+          "url": "https://www.thursdayonion.jp/bestten.php?rb=0&re_rk=or&re_ymd=19950116"
+        },
+        {
+          "label": "参考資料（非公式・週間チャート）",
+          "url": "https://cd100.net/oricon/weekrank.php?date=19950116&f=all&top=minrank+DESC"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1995-03-13-never-end-first-number-one",
+      "date": "1995-03-13",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "アルバム『NEVER END』がオリコン初登場1位",
+      "description": "3月13日付週間アルバムランキングで初登場1位。発売日は2月27日。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（非公式・週間アルバムチャート）",
+          "url": "https://en.wikipedia.org/wiki/List_of_Oricon_number-one_albums_of_1995"
+        },
+        {
+          "label": "オリコン 作品情報",
+          "url": "https://contents.oricon.co.jp/prof/245800/products/269149/1/"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1995-07-10-brother-sun-first-number-one",
+      "date": "1995-07-10",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "アルバム『Code Name.1 Brother Sun』がオリコン初登場1位",
+      "description": "7月10日付週間アルバムランキングで初登場1位。発売日は6月28日。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（非公式・週間アルバムチャート）",
+          "url": "https://en.wikipedia.org/wiki/List_of_Oricon_number-one_albums_of_1995"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1995-07-15-on-your-mark-theatrical",
+      "date": "1995-07-15",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "宮崎駿監督作品『On Your Mark』劇場公開",
+      "description": "C&Aの楽曲をもとに制作されたスタジオジブリの短編アニメーションが劇場公開。映像商品の発売とは別。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "スタジオジブリ 作品情報",
+          "url": "https://www.ghibli.jp/works/onyourmark/"
+        },
+        {
+          "label": "スタジオジブリ Q&A",
+          "url": "https://www.ghibli.jp/qa/"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1996-06-19-mtv-unplugged-first-asian",
+      "date": "1996-06-19",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "アジアのアーティストとして初のMTV UNPLUGGED出演",
+      "description": "ロンドンで収録。放送日および映像・音源の発売日とは区別。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ヤマハミュージックコミュニケーションズ 作品情報",
+          "url": "https://www.yamahamusic.co.jp/s/ymc/discography/567?ima=0000&link=ROBO004"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1996-07-08-one-voice-uk",
+      "date": "1996-07-08",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "国際的カバーアルバム『one voice』英国発売",
+      "description": "海外の歌手がC&Aの楽曲をカバー。日本盤は7月31日発売。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1997-03-30-first-solo-tour-id",
+      "date": "1997-03-30",
+      "artist": "ASKA",
+      "category": "milestone",
+      "title": "初のソロコンサートツアー「ID」開始",
+      "description": "横浜アリーナを皮切りに、初のソロツアーを開催。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1998-04-06-p-stock-first-tv-regular",
+      "date": "1998-04-06",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "初のテレビレギュラー番組「P-STOCK」開始",
+      "description": "フジテレビの番組。1998年9月25日終了。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "Chage 公式BIOGRAPHY",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "milestone-1998-05-15-first-solo-concert-shanghai",
+      "date": "1998-05-15",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "上海で初のソロコンサート開催",
+      "description": "上海体育館で5月15・16日に開催。初日を記録日とする。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "Chage 公式BIOGRAPHY",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1998-06-22-first-japan-solo-budokan",
+      "date": "1998-06-22",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "国内初のソロコンサート「CHAGE 大いに唄う in 武道館」開催",
+      "description": "日本武道館で開催。アンコールにはASKAも登場。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "Chage 公式BIOGRAPHY",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1998-07-19-reunion-announcement",
+      "date": "1998-07-19",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "1999年のCHAGE and ASKA活動再開を表明",
+      "description": "ASKA「kicks」横浜アリーナ最終公演で、Chageと翌年のグループ活動を観客に伝えた。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "Chage 公式BIOGRAPHY",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1998-09-30-first-solo-single",
+      "date": "1998-09-30",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "初のソロシングル「トウキョータワー」発売",
+      "description": "Chage名義での初シングル。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "Chage 公式BIOGRAPHY",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1998-11-14-first-domestic-solo-tour",
+      "date": "1998-11-14",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "初の国内ソロツアー「Feeling Place」開始",
+      "description": "名古屋市民会館で開幕。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "Chage 公式BIOGRAPHY",
+          "url": "https://chage.jp/biography/1998.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1999-03-10-reunion-single",
+      "date": "1999-03-10",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "3年ぶりのシングル「この愛のために／VISION」発売・活動再開",
+      "description": "C&A名義での新作シングル発売。1998年の活動再開表明とは別。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1999-05-31-reunion-stage",
+      "date": "1999-05-31",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "グループ名義で約3年半ぶりのステージ",
+      "description": "赤坂BLITZのMTV番組収録ライブ（5月31日・6月1日）の初日。ソロ公演での共演とは区別。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1999-09-06-no-doubt-first-number-one",
+      "date": "1999-09-06",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "アルバム『NO DOUBT』がオリコン初登場1位",
+      "description": "9月6日付週間アルバムランキングで初登場1位。発売日は8月25日。",
+      "status": "historical",
+      "verification": "secondary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（非公式・週間アルバムチャート）",
+          "url": "https://en.wikipedia.org/wiki/List_of_Oricon_number-one_albums_of_1999"
+        },
+        {
+          "label": "参考資料（非公式・週間アルバムチャート）",
+          "url": "https://www.generasia.com/wiki/1999_Oricon_Number_1_Releases"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "milestone-1999-12-31-first-dome-countdown",
+      "date": "1999-12-31",
+      "artist": "CHAGE and ASKA",
+      "category": "milestone",
+      "title": "初のドーム公演「千年夜一夜ライブ」開催",
+      "description": "福岡ドームで年越し公演。Chage、ASKA、C&Aの3部構成。翌2000年1月1日まで開催。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        }
+      ],
+      "featured": true
     }
   ],
-  "siteVersion": "2.5.3"
+  "siteVersion": "2.5.4"
 };
