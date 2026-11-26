@@ -102908,6 +102908,27 @@
         }
       ],
       "featured": false
+    },
+    {
+      "id": "milestone-1998-09-30-chage-solo-debut",
+      "date": "1998-09-30",
+      "artist": "Chage",
+      "category": "milestone",
+      "title": "Chageソロデビュー",
+      "description": "1998年9月30日、シングル「トウキョータワー」でソロデビュー。作品の発売記録とは別に、ソロ活動のデビューを示す歴史記録として掲載。",
+      "status": "historical",
+      "verification": "primary",
+      "sources": [
+        {
+          "label": "Chage公式サイト｜音道 作品紹介",
+          "url": "https://chage.jp/discography/chage/album/011.php"
+        },
+        {
+          "label": "ユニバーサルミュージック公式｜音道 作品紹介",
+          "url": "https://www.universal-music.co.jp/chage/products/upcy-7521/"
+        }
+      ],
+      "featured": false
     }
   ],
   "siteVersion": "2.6.1"
