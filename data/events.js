@@ -72307,7 +72307,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2021.php"
         }
       ],
-      "description": "2021年11月23日、Chageが出演したテレビ番組「Anchor Night」が放送された。"
+      "description": "2021年11月23日、Chageが出演したラジオ番組「Anchor Night」が放送された。"
     },
     {
       "id": "v14-media-ch21-010",
@@ -72358,7 +72358,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2021.php"
         }
       ],
-      "description": "2021年11月24日、Chageが出演したテレビ番組「アフタヌーンパラダイス水曜日」が放送された。"
+      "description": "2021年11月24日、Chageが出演したラジオ番組「アフタヌーンパラダイス水曜日」が放送された。"
     },
     {
       "id": "v14-release-019",
@@ -72644,7 +72644,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2021.php"
         }
       ],
-      "description": "2021年12月6日、Chageが出演したテレビ番組「ONE FINE DAY」が放送された。"
+      "description": "2021年12月6日、Chageが出演したラジオ番組「ONE FINE DAY」が放送された。"
     },
     {
       "id": "v14-media-ch21-024",
@@ -72831,7 +72831,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2021.php"
         }
       ],
-      "description": "2021年12月10日、Chageが出演したテレビ番組「Seasoning」が放送された。"
+      "description": "2021年12月10日、Chageが出演したラジオ番組「Seasoning」が放送された。"
     },
     {
       "id": "v14-media-ch21-031",
@@ -72933,7 +72933,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2021.php"
         }
       ],
-      "description": "2021年12月16日、Chageが出演したテレビ番組「The BAY☆LINE」が放送された。"
+      "description": "2021年12月16日、Chageが出演したラジオ番組「The BAY☆LINE」が放送された。"
     },
     {
       "id": "v14-aska-2021-encore-plan-007",
@@ -73035,7 +73035,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2021.php"
         }
       ],
-      "description": "2021年12月18日、Chageが出演したテレビ番組「J-AC TOP40」が放送された。"
+      "description": "2021年12月18日、Chageが出演したラジオ番組「J-AC TOP40」が放送された。"
     },
     {
       "id": "v14-media-ch21-039",
@@ -73229,7 +73229,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2021.php"
         }
       ],
-      "description": "2021年12月21日、Chageが出演したテレビ番組「LIFT」が放送された。"
+      "description": "2021年12月21日、Chageが出演したラジオ番組「LIFT」が放送された。"
     },
     {
       "id": "v14-aska-2021-encore-plan-008",
@@ -73399,7 +73399,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2021.php"
         }
       ],
-      "description": "2021年12月24日、Chageが出演したテレビ番組「Sendaian Hot Music」が放送された。"
+      "description": "2021年12月24日、Chageが出演したラジオ番組「Sendaian Hot Music」が放送された。"
     },
     {
       "id": "v14-media-ch21-051",
@@ -73416,7 +73416,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2021.php"
         }
       ],
-      "description": "2021年12月24日、Chageが出演したテレビ番組「Daily! Cafe」が放送された。"
+      "description": "2021年12月24日、Chageが出演したラジオ番組「Daily! Cafe」が放送された。"
     },
     {
       "id": "v14-media-ch21-052",
@@ -74425,7 +74425,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2022.php"
         }
       ],
-      "description": "2022年9月7日、Chageが出演したテレビ番組「GOOD & NEW KYOTO」が放送された。"
+      "description": "2022年9月7日、Chageが出演したラジオ番組「GOOD & NEW KYOTO」が放送された。"
     },
     {
       "id": "v14-release-022",
@@ -74576,7 +74576,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2022.php"
         }
       ],
-      "description": "2022年9月17日、Chageが出演したテレビ番組「J-AC TOP40」が放送された。"
+      "description": "2022年9月17日、Chageが出演したラジオ番組「J-AC TOP40」が放送された。"
     },
     {
       "id": "v18222-2022-09-18-aska-062",
@@ -74616,7 +74616,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2022.php"
         }
       ],
-      "description": "2022年9月20日、Chageが出演したテレビ番組「MUSIC MATCH」が放送された。"
+      "description": "2022年9月20日、Chageが出演したラジオ番組「MUSIC MATCH」が放送された。"
     },
     {
       "id": "v14-media-ch22-011",
@@ -75075,7 +75075,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2022.php"
         }
       ],
-      "description": "2022年12月12日、Chageが出演したテレビ番組「RADIOKIDS」が放送された。"
+      "description": "2022年12月12日、Chageが出演したラジオ番組「RADIOKIDS」が放送された。"
     },
     {
       "id": "media-v18229-2022-12-14-aska-001",
@@ -76409,7 +76409,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2023.php"
         }
       ],
-      "description": "2023年8月3日、Chageが出演したテレビ番組「垣花正 あなたとハッピー！」が放送された。"
+      "description": "2023年8月3日、Chageが出演したラジオ番組「垣花正 あなたとハッピー！」が放送された。"
     },
     {
       "id": "media-v18229-2023-08-04-chage-001",
@@ -76695,7 +76695,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2023.php"
         }
       ],
-      "description": "2023年8月26日、Chageが出演したテレビ番組「J-AC TOP40」が放送された。"
+      "description": "2023年8月26日、Chageが出演したラジオ番組「J-AC TOP40」が放送された。"
     },
     {
       "id": "v15-0252",
@@ -76974,7 +76974,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2023.php"
         }
       ],
-      "description": "2023年9月26日、Chageが出演したテレビ番組「9の音粋」が放送された。"
+      "description": "2023年9月26日、Chageが出演したラジオ番組「9の音粋」が放送された。"
     },
     {
       "id": "v15-0223",
@@ -77015,7 +77015,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2023.php"
         }
       ],
-      "description": "2023年9月27日、Chageが出演したテレビ番組「J-POP TALKIN'」が放送された。"
+      "description": "2023年9月27日、Chageが出演したラジオ番組「J-POP TALKIN'」が放送された。"
     },
     {
       "id": "media-v18229-2023-09-28-chage-001",
@@ -78378,7 +78378,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2024.php"
         }
       ],
-      "description": "2024年7月5日、Chageが出演したテレビ番組「brilliant days×F」が放送された。"
+      "description": "2024年7月5日、Chageが出演したラジオ番組「brilliant days×F」が放送された。"
     },
     {
       "id": "v15-0308",
@@ -79079,7 +79079,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2024.php"
         }
       ],
-      "description": "2024年8月24日、Chageが出演したテレビ番組「POP OF THE WORLD」が放送された。"
+      "description": "2024年8月24日、Chageが出演したラジオ番組「POP OF THE WORLD」が放送された。"
     },
     {
       "id": "v15-0237",
@@ -79133,7 +79133,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2024.php"
         }
       ],
-      "description": "2024年8月27日、Chageが出演したテレビ番組「9の音粋」が放送された。"
+      "description": "2024年8月27日、Chageが出演したラジオ番組「9の音粋」が放送された。"
     },
     {
       "id": "media-v18229-2024-08-28-chage-001",
@@ -79218,7 +79218,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2024.php"
         }
       ],
-      "description": "2024年8月30日、Chageが出演したテレビ番組「ALL GOOD FRIDAY」が放送された。"
+      "description": "2024年8月30日、Chageが出演したラジオ番組「ALL GOOD FRIDAY」が放送された。"
     },
     {
       "id": "media-v18229-2024-08-31-chage-001",
@@ -79301,7 +79301,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2024.php"
         }
       ],
-      "description": "2024年9月3日、Chageが出演したテレビ番組「MUSIC MATCH」が放送された。"
+      "description": "2024年9月3日、Chageが出演したラジオ番組「MUSIC MATCH」が放送された。"
     },
     {
       "id": "media-v18229-2024-09-04-chage-001",
@@ -79434,7 +79434,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/2024.php"
         }
       ],
-      "description": "2024年9月9日、Chageが出演したテレビ番組「月曜アドナインス」が放送された。"
+      "description": "2024年9月9日、Chageが出演したラジオ番組「月曜アドナインス」が放送された。"
     },
     {
       "id": "v15-0113",
@@ -82680,7 +82680,7 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/biography/"
         }
       ],
-      "description": "2025年9月28日、Chageが取り上げられたテレビ番組「Chageの音道」が放送された。"
+      "description": "2025年9月28日、Chageが取り上げられたラジオ番組「Chageの音道」が放送された。"
     },
     {
       "id": "v15-0289",
@@ -94227,7 +94227,7 @@ window.CA_EVENT_DATA = {
         }
       ],
       "broadcastStation": "WOWOWライブ",
-      "description": "2022年3月20日、Chageが出演したラジオ番組「AMAZONS 35th Anniversary Live A History Shared With Friends」がWOWOWライブで放送された。"
+      "description": "2022年3月20日、Chageが出演したテレビ番組「AMAZONS 35th Anniversary Live A History Shared With Friends」がWOWOWライブで放送された。"
     },
     {
       "id": "media-v218-20221211-wowow-kome100-day3",
