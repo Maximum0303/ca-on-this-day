@@ -103324,7 +103324,179 @@
           "url": "https://pic.x.com/yFM06m3atz"
         }
       ]
+    },
+    {
+      "id": "media-294-20210207-aska-terminal-start",
+      "date": "2021-02-07",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TOKYO FM「Terminal Melody」放送開始",
+      "description": "ASKAとCHAGE and ASKAの音楽を取り上げるラジオ番組が放送開始。小山ジャネット愛子が進行を担当。",
+      "note": "開始当初の番組名は「Terminal Melody」。後に「ASKA Terminal Melody」となった。",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "TOKYO FM",
+      "sources": [
+        {
+          "label": "ASKA公式ブログ（初回放送日の回顧）",
+          "url": "https://www.fellows.tokyo/blog/detail/324/"
+        },
+        {
+          "label": "小山ジャネット愛子公式サイト（番組開始案内）",
+          "url": "https://www.janetaiko.com/?cat=11"
+        }
+      ]
+    },
+    {
+      "id": "media-294-20220911-aska-platinum-1",
+      "date": "2022-09-11",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TOKYO FM「ASKA Terminal Melody ～Platinum～」特別番組放送（第1回）",
+      "description": "通常番組から派生した55分の特別番組。ASKAがパーソナリティとして小山ジャネット愛子と出演。",
+      "note": "19:00～19:55。通常放送とは別の特番。",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "TOKYO FM",
+      "sources": [
+        {
+          "label": "TOKYO FM公式プレスリリース",
+          "url": "https://prtimes.jp/main/html/rd/p/000002834.000004829.html"
+        },
+        {
+          "label": "Kiss FM KOBE公式番組案内",
+          "url": "https://www.kiss-fm.co.jp/information/6919/"
+        }
+      ]
+    },
+    {
+      "id": "media-294-20230910-aska-platinum-2",
+      "date": "2023-09-10",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TOKYO FM「ASKA Terminal Melody ～Platinum～」特別番組放送（第2回）",
+      "description": "ASKAと小山ジャネット愛子による特別番組。",
+      "note": "19:00～19:55。通常放送とは別の特番。",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "TOKYO FM",
+      "sources": [
+        {
+          "label": "Kiss FM KOBE公式番組案内",
+          "url": "https://www.kiss-fm.co.jp/information/7074/"
+        }
+      ]
+    },
+    {
+      "id": "media-294-20240127-aska-platinum-3",
+      "date": "2024-01-27",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TOKYO FM「ASKA Terminal Melody ～Platinum～」特別番組放送（第3回）",
+      "description": "番組3周年を記念した特別番組。",
+      "note": "17:00～17:55。通常放送とは別の特番。",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "TOKYO FM",
+      "sources": [
+        {
+          "label": "ASKA公式ブログ（3周年記念特番）",
+          "url": "https://archive.fellows.tokyo/blog/?id=4229"
+        },
+        {
+          "label": "Kiss FM KOBE公式番組案内",
+          "url": "https://www.kiss-fm.co.jp/information/7135/"
+        }
+      ]
+    },
+    {
+      "id": "media-294-20240727-aska-platinum-4",
+      "date": "2024-07-27",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TOKYO FM「ASKA Terminal Melody ～Platinum～」特別番組放送（第4回）",
+      "description": "ASKAと小山ジャネット愛子による特別番組。",
+      "note": "17:00～17:55。通常放送とは別の特番。",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "TOKYO FM",
+      "sources": [
+        {
+          "label": "TOKYO FM公式番組案内",
+          "url": "https://www.tfm.co.jp/terminal/report/130605"
+        },
+        {
+          "label": "Kiss FM KOBE公式番組案内",
+          "url": "https://www.kiss-fm.co.jp/information/7207/"
+        }
+      ]
+    },
+    {
+      "id": "media-294-20241229-aska-akina",
+      "date": "2024-12-29",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TOKYO FM「ASKA Terminal Melody」中森明菜との特別対談（前編）",
+      "description": "中森明菜をゲストに迎え、ASKAと小山ジャネット愛子が出演する年末年始の特別対談。",
+      "note": "10:00～10:30。2週にわたる放送の前編。",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "TOKYO FM",
+      "sources": [
+        {
+          "label": "TOKYO FM公式番組案内",
+          "url": "https://www.tfm.co.jp/terminal/report/130597"
+        },
+        {
+          "label": "ASKA公式ブログ（共演の経緯）",
+          "url": "https://www.fellows.tokyo/blog/detail/324/"
+        }
+      ]
+    },
+    {
+      "id": "media-294-20250105-aska-akina",
+      "date": "2025-01-05",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TOKYO FM「ASKA Terminal Melody」中森明菜との特別対談（後編）",
+      "description": "中森明菜をゲストに迎え、ASKAと小山ジャネット愛子が出演する年末年始の特別対談。",
+      "note": "10:00～10:30。2週にわたる放送の後編。",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "TOKYO FM",
+      "sources": [
+        {
+          "label": "TOKYO FM公式番組案内",
+          "url": "https://www.tfm.co.jp/terminal/report/130597"
+        },
+        {
+          "label": "ASKA公式ブログ（共演の経緯）",
+          "url": "https://www.fellows.tokyo/blog/detail/324/"
+        }
+      ]
+    },
+    {
+      "id": "media-294-20251228-aska-terminal-end",
+      "date": "2025-12-28",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "TOKYO FM「ASKA Terminal Melody」放送終了（第256回）",
+      "description": "2021年2月7日に始まったラジオ番組の最終回。ASKAが出演。",
+      "note": "通常放送第256回で終了。特別番組の放送回数は含めない。",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "TOKYO FM",
+      "sources": [
+        {
+          "label": "小山ジャネット愛子公式ブログ（最終回）",
+          "url": "https://ameblo.jp/janetaiko/entry-12951798990.html"
+        },
+        {
+          "label": "ASKA公式ブログ（最終回の予告）",
+          "url": "https://www.fellows.tokyo/blog/detail/970/"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.9.3"
+  "siteVersion": "2.9.4"
 }
