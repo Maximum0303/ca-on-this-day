@@ -2952,10 +2952,6 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/"
         },
         {
-          "label": "CHAGE and ASKA公式HISTORY",
-          "url": "https://www.chage-aska.net/history/"
-        },
-        {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/364.html"
         },
@@ -3112,14 +3108,6 @@ window.CA_EVENT_DATA = {
       "verification": "secondary",
       "note": "【会場要照合】公式HISTORYは那覇市民会館、別資料は沖縄県労働福祉会館。ツアー最終日。",
       "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY",
-          "url": "https://www.chage-aska.net/history/"
-        },
-        {
-          "label": "CHAGE and ASKA公式HISTORY",
-          "url": "https://www.chage-aska.net/history/"
-        },
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
@@ -3326,10 +3314,6 @@ window.CA_EVENT_DATA = {
       "verification": "secondary",
       "note": "石川優子と共演。兵庫医科大（万博ホール）の開催地詳細は要照合。",
       "sources": [
-        {
-          "label": "CHAGE and ASKA公式HISTORY",
-          "url": "https://www.chage-aska.net/history/"
-        },
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/"
@@ -9869,7 +9853,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.stereo-records.com/detail.php?itemCd=58257"
         },
         {
-          "label": "参考資料（非公式・別規格盤）",
+          "label": "CHAGE and ASKA公式ディスコグラフィー｜作品情報",
           "url": "https://www.chage-aska.net/discography/album02.php"
         },
         {
@@ -11556,7 +11540,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fanfan1.com/products/detail.php?product_id=778515"
         },
         {
-          "label": "参考資料（非公式・別規格盤）",
+          "label": "CHAGE and ASKA公式ディスコグラフィー｜作品情報",
           "url": "https://www.chage-aska.net/discography/album02.php"
         },
         {
@@ -13077,7 +13061,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.stereo-records.com/detail.php?itemCd=53039"
         },
         {
-          "label": "参考資料（非公式・別規格盤）",
+          "label": "CHAGE and ASKA公式ディスコグラフィー｜作品情報",
           "url": "https://www.chage-aska.net/discography/album/mix_blood.php"
         },
         {
@@ -17224,7 +17208,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.oricon.co.jp/prof/245800/products/61279/1/"
         },
         {
-          "label": "参考資料（非公式・別規格盤）",
+          "label": "ヤマハミュージックコミュニケーションズ公式｜作品・再発売情報",
           "url": "https://www.yamahamusic.co.jp/s/ymc/discography/254"
         },
         {
@@ -17746,7 +17730,7 @@ window.CA_EVENT_DATA = {
           "url": "https://diskunion.net/detail/1006533385"
         },
         {
-          "label": "参考資料（非公式・別規格盤）",
+          "label": "CHAGE and ASKA公式ディスコグラフィー｜作品情報",
           "url": "https://www.chage-aska.net/discography/album/energy.php"
         },
         {
@@ -20015,7 +19999,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.suruga-ya.jp/kaitori/kaitori_detail/220262452"
         },
         {
-          "label": "参考資料（非公式・別規格盤）",
+          "label": "CHAGE and ASKA公式ディスコグラフィー｜作品情報",
           "url": "https://www.chage-aska.net/discography/album/pride.php"
         },
         {
@@ -48285,12 +48269,20 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 1,
       "status": "recorded",
-      "verification": "primary",
-      "note": "ファンクラブ会員イベント・初日",
+      "verification": "secondary",
+      "note": "ファンクラブ会員イベント・初日。公式年表でイベント開催・都市を確認。各日の個別公演日程は二次資料による。",
       "sources": [
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/383.html"
+        },
+        {
+          "label": "Chage公式Biography｜イベント開催・開催都市",
+          "url": "https://chage.jp/biography/2005.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜イベント開始・開催都市",
+          "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
       "description": "2005年10月21日、Chageの「CHAGE博2005 ～タイムマシンにおねがい～」がZepp Nagoyaで開催された。\nこのツアーの第1公演にあたる。"
@@ -48307,12 +48299,20 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 2,
       "status": "recorded",
-      "verification": "primary",
-      "note": "ファンクラブ会員イベント",
+      "verification": "secondary",
+      "note": "ファンクラブ会員イベント。公式年表でイベント開催・都市を確認。各日の個別公演日程は二次資料による。",
       "sources": [
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/383.html"
+        },
+        {
+          "label": "Chage公式Biography｜イベント開催・開催都市",
+          "url": "https://chage.jp/biography/2005.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜イベント開始・開催都市",
+          "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
       "description": "2005年10月22日、Chageの「CHAGE博2005 ～タイムマシンにおねがい～」がZepp Osakaで開催された。\nこのツアーの第2公演にあたる。"
@@ -48329,12 +48329,20 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 3,
       "status": "recorded",
-      "verification": "primary",
-      "note": "ファンクラブ会員イベント",
+      "verification": "secondary",
+      "note": "ファンクラブ会員イベント。公式年表でイベント開催・都市を確認。各日の個別公演日程は二次資料による。",
       "sources": [
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/383.html"
+        },
+        {
+          "label": "Chage公式Biography｜イベント開催・開催都市",
+          "url": "https://chage.jp/biography/2005.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜イベント開始・開催都市",
+          "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
       "description": "2005年10月24日、Chageの「CHAGE博2005 ～タイムマシンにおねがい～」がZepp Fukuokaで開催された。\nこのツアーの第3公演にあたる。"
@@ -48351,12 +48359,20 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 4,
       "status": "recorded",
-      "verification": "primary",
-      "note": "ファンクラブ会員イベント",
+      "verification": "secondary",
+      "note": "ファンクラブ会員イベント。公式年表でイベント開催・都市を確認。各日の個別公演日程は二次資料による。",
       "sources": [
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/383.html"
+        },
+        {
+          "label": "Chage公式Biography｜イベント開催・開催都市",
+          "url": "https://chage.jp/biography/2005.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜イベント開始・開催都市",
+          "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
       "description": "2005年10月26日、Chageの「CHAGE博2005 ～タイムマシンにおねがい～」がZepp Tokyoで開催された。\nこのツアーの第4公演にあたる。"
@@ -48373,12 +48389,20 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 5,
       "status": "recorded",
-      "verification": "primary",
-      "note": "ファンクラブ会員イベント",
+      "verification": "secondary",
+      "note": "ファンクラブ会員イベント。公式年表でイベント開催・都市を確認。各日の個別公演日程は二次資料による。",
       "sources": [
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/383.html"
+        },
+        {
+          "label": "Chage公式Biography｜イベント開催・開催都市",
+          "url": "https://chage.jp/biography/2005.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜イベント開始・開催都市",
+          "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
       "description": "2005年10月27日、Chageの「CHAGE博2005 ～タイムマシンにおねがい～」がZepp Sendaiで開催された。\nこのツアーの第5公演にあたる。"
@@ -48393,12 +48417,16 @@ window.CA_EVENT_DATA = {
       "prefecture": "大阪府",
       "country": "日本",
       "status": "recorded",
-      "verification": "primary",
-      "note": "",
+      "verification": "secondary",
+      "note": "当日の観覧記録と非公式公演記録による。主催者等の一次資料は未確認。",
       "sources": [
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/95.html"
+        },
+        {
+          "label": "当日の観覧記録（参考資料）",
+          "url": "https://blog.livedoor.jp/denchu_music/archives/50180824.html"
         }
       ],
       "description": "2005年10月29日、ASKAの「PRIME HITZ 802 山崎 presents WHISKY SOUND GALLERY」がサントリー山崎蒸溜所で開催された。"
@@ -48415,12 +48443,20 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "performanceNo": 6,
       "status": "recorded",
-      "verification": "primary",
-      "note": "ファンクラブ会員イベント・最終公演",
+      "verification": "secondary",
+      "note": "ファンクラブ会員イベント・最終公演。公式年表でイベント開催・都市を確認。各日の個別公演日程は二次資料による。",
       "sources": [
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/383.html"
+        },
+        {
+          "label": "Chage公式Biography｜イベント開催・開催都市",
+          "url": "https://chage.jp/biography/2005.php"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜イベント開始・開催都市",
+          "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
       "description": "2005年10月29日、Chageの「CHAGE博2005 ～タイムマシンにおねがい～」がZepp Sapporoで開催された。\nツアーの最終公演として記録されている。 このツアーの第6公演にあたる。"
@@ -49701,12 +49737,16 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都",
       "country": "日本",
       "status": "recorded",
-      "verification": "primary",
-      "note": "イベント出演",
+      "verification": "secondary",
+      "note": "イベント出演。出演日は公式HISTORYで確認。会場は二次資料による。",
       "sources": [
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/453.html"
+        },
+        {
+          "label": "CHAGE and ASKA公式HISTORY｜出演日・イベント内容",
+          "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
       "description": "2006年12月23日、CHAGE and ASKAの「Point Green Live 2006」が国立代々木競技場第一体育館で開催された。"
@@ -61738,7 +61778,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式｜リリース情報",
           "url": "https://chage.jp/information/release/detail-3.php"
         }
       ],
@@ -61783,7 +61823,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式｜リリース情報",
           "url": "https://chage.jp/information/release/detail-3.php"
         }
       ],
@@ -61863,7 +61903,7 @@ window.CA_EVENT_DATA = {
       "note": "ツアー初日",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2014.php"
         }
       ],
@@ -61885,7 +61925,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2014.php"
         }
       ],
@@ -61907,7 +61947,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2014.php"
         }
       ],
@@ -61929,7 +61969,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2014.php"
         }
       ],
@@ -61951,7 +61991,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2014.php"
         }
       ],
@@ -61973,7 +62013,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2014.php"
         }
       ],
@@ -61995,7 +62035,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2014.php"
         }
       ],
@@ -62043,7 +62083,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2014.php"
         }
       ],
@@ -62063,7 +62103,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2014.php"
         }
       ],
@@ -62085,7 +62125,7 @@ window.CA_EVENT_DATA = {
       "note": "最終公演",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2014.php"
         }
       ],
@@ -62132,7 +62172,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2014.php"
         }
       ],
@@ -62254,7 +62294,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62274,7 +62314,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62328,7 +62368,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62369,7 +62409,7 @@ window.CA_EVENT_DATA = {
       "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62390,7 +62430,7 @@ window.CA_EVENT_DATA = {
       "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62411,7 +62451,7 @@ window.CA_EVENT_DATA = {
       "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62473,7 +62513,7 @@ window.CA_EVENT_DATA = {
       "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62494,7 +62534,7 @@ window.CA_EVENT_DATA = {
       "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62515,7 +62555,7 @@ window.CA_EVENT_DATA = {
       "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62536,7 +62576,7 @@ window.CA_EVENT_DATA = {
       "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62557,7 +62597,7 @@ window.CA_EVENT_DATA = {
       "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62578,7 +62618,7 @@ window.CA_EVENT_DATA = {
       "note": "公式：全国16公演。開催日9日分を確認。同日複数回の配分は未確認のため、この1件は開催日単位の記録（公演回数を表さない）",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62686,7 +62726,7 @@ window.CA_EVENT_DATA = {
       "note": "初日",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62725,7 +62765,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62747,7 +62787,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62769,7 +62809,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62791,7 +62831,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62811,7 +62851,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62833,7 +62873,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62855,7 +62895,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62903,7 +62943,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62923,7 +62963,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62943,7 +62983,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -62963,7 +63003,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2015.php"
         }
       ],
@@ -63028,7 +63068,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63065,7 +63105,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63085,7 +63125,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63105,7 +63145,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63460,7 +63500,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63505,7 +63545,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63553,7 +63593,7 @@ window.CA_EVENT_DATA = {
       "note": "ライブ演奏の有無・内容は未確認のため公演数には含めない",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63573,7 +63613,7 @@ window.CA_EVENT_DATA = {
       "note": "ライブ演奏の有無・内容は未確認のため公演数には含めない",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63648,7 +63688,7 @@ window.CA_EVENT_DATA = {
       "note": "ツアー初日",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63670,7 +63710,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63692,7 +63732,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63769,7 +63809,7 @@ window.CA_EVENT_DATA = {
       "note": "追加公演・最終日",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63791,7 +63831,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63831,7 +63871,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63851,7 +63891,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63892,7 +63932,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63948,7 +63988,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63970,7 +64010,7 @@ window.CA_EVENT_DATA = {
       "note": "公演終了後にアフターパーティーを開催",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -63992,7 +64032,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -64035,7 +64075,7 @@ window.CA_EVENT_DATA = {
       "note": "",
       "sources": [
         {
-          "label": "参考資料",
+          "label": "Chage公式Biography",
           "url": "https://chage.jp/biography/2016.php"
         }
       ],
@@ -66043,6 +66083,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        },
+        {
+          "label": "ASKA本人ブログ｜2020年1月19日・サイト開設と有料会員募集の回顧",
+          "url": "https://archive.fellows.tokyo/blog/?id=1854"
         }
       ],
       "description": "2018年1月19日、ASKAのオフィシャルサイト「Fellows」が開設された。4月9日の公式ファンクラブ開設とは区別する。"
@@ -66286,6 +66330,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        },
+        {
+          "label": "ASKA本人ブログ｜2020年1月19日・サイト開設と有料会員募集の回顧",
+          "url": "https://archive.fellows.tokyo/blog/?id=1854"
+        },
+        {
+          "label": "ASKA公式｜Fellows発足日",
+          "url": "https://www.fellows.tokyo/feature/fc_event2025"
         }
       ],
       "description": "2018年4月9日、ASKAの公式ファンクラブ「Fellows」が開設された。1月19日のオフィシャルサイト開設とは区別する。"
@@ -67271,12 +67323,16 @@ window.CA_EVENT_DATA = {
       "category": "milestone",
       "title": "ASKA Official Channel（YouTube）開設",
       "status": "recorded",
-      "verification": "primary",
-      "note": "",
+      "verification": "secondary",
+      "note": "8月24日の公式動画公開を確認。チャンネルの作成日そのものは未確定。開設日は二次資料の記載による。",
       "sources": [
         {
           "label": "参考資料（非公式）",
           "url": "https://cosmos.ladomi.net/archives/index_arch_2018"
+        },
+        {
+          "label": "ASKA公式YouTube｜2018年8月24日公開のMV",
+          "url": "https://www.youtube.com/watch?v=p1EBazEP_Co"
         }
       ],
       "description": "2018年8月24日、ASKA Official Channel（YouTube）開設。"
@@ -85268,7 +85324,7 @@ window.CA_EVENT_DATA = {
       "note": "本人ブログで出演後を確認",
       "sources": [
         {
-          "label": "参考資料（確認元）",
+          "label": "ASKA公式ブログ｜出演後の記録",
           "url": "https://www.fellows.tokyo/blog/detail/1433/"
         }
       ],
@@ -85492,7 +85548,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "参考資料（確認元）",
+          "label": "Chage公式｜ラジオ出演情報（告知・放送案内）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ],
@@ -85555,7 +85611,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "参考資料（確認元）",
+          "label": "Chage公式｜ラジオ出演情報（告知・放送案内）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ],
@@ -85572,7 +85628,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "参考資料（確認元）",
+          "label": "Chage公式｜ラジオ出演情報（告知・放送案内）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ],
@@ -85612,7 +85668,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "参考資料（確認元）",
+          "label": "Chage公式｜ラジオ出演情報（告知・放送案内）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ],
@@ -85674,7 +85730,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "参考資料（確認元）",
+          "label": "Chage公式｜ラジオ出演情報（告知・放送案内）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ],
@@ -85733,8 +85789,8 @@ window.CA_EVENT_DATA = {
       "note": "公式スタッフブログの開始記録",
       "sources": [
         {
-          "label": "参考資料（確認元）",
-          "url": "https://www.fellows.tokyo/"
+          "label": "ASKA公式｜個別放送案内",
+          "url": "https://www.fellows.tokyo/news/detail/776"
         }
       ],
       "description": "2026年10月10日、ASKAのYouTubeラジオ番組「ASKA Lock-on Radio」の初回が配信された。"
@@ -85773,7 +85829,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "参考資料（確認元）",
+          "label": "Chage公式｜ラジオ出演情報（告知・放送案内）",
           "url": "https://chage.jp/information/media/detail-886.php"
         }
       ],
@@ -85835,7 +85891,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "参考資料（確認元）",
+          "label": "Chage公式｜ラジオ出演情報（告知・放送案内）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ],
@@ -85922,7 +85978,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "参考資料（確認元）",
+          "label": "Chage公式｜ラジオ出演情報（告知・放送案内）",
           "url": "https://chage.jp/information/media/detail-886.php"
         }
       ],
@@ -85939,7 +85995,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "参考資料（確認元）",
+          "label": "Chage公式｜ラジオ出演情報（告知・放送案内）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ],
@@ -86082,7 +86138,7 @@ window.CA_EVENT_DATA = {
       "note": "ラジオ出演",
       "sources": [
         {
-          "label": "参考資料（確認元）",
+          "label": "Chage公式｜ラジオ出演情報（告知・放送案内）",
           "url": "https://chage.jp/information/media/detail-876.php"
         }
       ],
@@ -86145,8 +86201,8 @@ window.CA_EVENT_DATA = {
       "note": "公式告知にて確認",
       "sources": [
         {
-          "label": "参考資料（確認元）",
-          "url": "https://www.fellows.tokyo/"
+          "label": "ASKA公式｜個別放送案内",
+          "url": "https://www.fellows.tokyo/news/detail/799"
         }
       ],
       "description": "2026年11月12日、ASKAのYouTubeラジオ番組「ASKA Lock-on Radio」の第2回が配信された。"
@@ -86281,8 +86337,8 @@ window.CA_EVENT_DATA = {
       "note": "公式スケジュール告知",
       "sources": [
         {
-          "label": "参考資料（確認元）",
-          "url": "https://www.fellows.tokyo/"
+          "label": "ASKA公式｜個別放送案内",
+          "url": "https://www.fellows.tokyo/news/detail/805"
         }
       ],
       "description": "2026年11月16日、ASKAが出演したラジオ番組「BEAT IT」が放送された。"
@@ -102824,5 +102880,5 @@ window.CA_EVENT_DATA = {
       "featured": false
     }
   ],
-  "siteVersion": "2.8.2"
+  "siteVersion": "2.8.3"
 };
