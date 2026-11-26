@@ -1319,9 +1319,13 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://www.conex-eco.co.jp/serial/showa-record/173964/2/"
         }
       ],
-      "description": "1980年11月27日、CHAGE and ASKAが出演したテレビ番組「ザ・ベストテン」がTBSで放送された。\n資料には「万里の河」の曲名が記されている。"
+      "description": "1980年11月27日、CHAGE and ASKAが出演したテレビ番組「ザ・ベストテン」がTBSで放送された。\n資料には「万里の河」の曲名が記されている。\n歴史的補足：「ザ・ベストテン」に初出演。「万里の河」で今週のスポットライトに登場。番組初出演とされる。"
     },
     {
       "id": "live-school-1980-016",
@@ -1358,9 +1362,13 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/18.html"
+        },
+        {
+          "label": "参考資料（非公式）",
+          "url": "https://www.conex-eco.co.jp/serial/showa-record/173964/2/"
         }
       ],
-      "description": "1980年12月18日、CHAGE and ASKAが出演したテレビ番組「ザ・ベストテン」がTBSで放送された。\n資料には「万里の河」の曲名が記されている。"
+      "description": "1980年12月18日、CHAGE and ASKAが出演したテレビ番組「ザ・ベストテン」がTBSで放送された。\n資料には「万里の河」の曲名が記されている。\n歴史的補足：「万里の河」が「ザ・ベストテン」に初ランクイン。TBSの番組ランキングで8位に初登場。オリコンの順位とは別の記録。"
     },
     {
       "id": "media-v17-1981-001",
@@ -2976,9 +2984,13 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/cavc/pages/365.html"
+        },
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
         }
       ],
-      "description": "1981年8月1日、CHAGE and ASKAの「The夏祭り’81」が田園コロシアムで幕を開けた。\nこの日はツアーの初日にあたる。"
+      "description": "1981年8月1日、CHAGE and ASKAの「The夏祭り’81」が田園コロシアムで幕を開けた。\nこの日はツアーの初日にあたる。\n歴史的補足：田園コロシアムで初のコンサートを開催。「THE 夏祭り’81」。同会場で初のコンサートとなり、約6,000人が来場。"
     },
     {
       "id": "live-heat-1981-055",
@@ -3121,7 +3133,7 @@ window.CA_EVENT_DATA = {
           "url": "https://ja.wikipedia.org/wiki/CHAGE_and_ASKA%E3%81%AE%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%BC%E3%83%88%E4%B8%80%E8%A6%A7"
         }
       ],
-      "description": "1981年8月21日、CHAGE and ASKAの「'81熱風」が那覇市民会館で開催された。\nこのツアーの第59公演にあたる。"
+      "description": "1981年8月21日、CHAGE and ASKAの「'81熱風」が那覇市民会館で開催された。\nこのツアーの第59公演にあたる。\n歴史的補足：「’81熱風」ツアー完走・動員10万人超。那覇市民会館でツアー終了。全国57会場59公演、ツアー全体で10万人を超える動員を記録。"
     },
     {
       "id": "media-v17-1981-022",
@@ -17230,6 +17242,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・別規格盤）",
           "url": "https://www.fanfan1.com/products/detail.php?product_id=779265"
+        },
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
       "formats": [
@@ -17250,7 +17270,7 @@ window.CA_EVENT_DATA = {
         "release-audit-variants-19880821-scene-cd-d32a0387"
       ],
       "releaseTitle": "SCENE",
-      "description": "1988年8月21日、ASKAの『SCENE』がLPで発売された。\n二次資料に掲載されている規格品番はC28A-0661 / 28P-6831 / D32A-0387。"
+      "description": "1988年8月21日、ASKAの『SCENE』がLPで発売された。\n二次資料に掲載されている規格品番はC28A-0661 / 28P-6831 / D32A-0387。\n歴史的補足：初のソロアルバム『SCENE』を発売。提供曲を中心としたASKA初のソロアルバム。"
     },
     {
       "id": "media-v18-1988-023",
@@ -20362,9 +20382,13 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜MULTI MAX 1989公演日程",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/1989.php"
         }
       ],
-      "description": "1989年12月13日、MULTI MAXの「CHAGE’S SUPER BAND MULTI MAX '89」が日本武道館で幕を開けた。\nこの日はツアーの初日にあたる。"
+      "description": "1989年12月13日、MULTI MAXの「CHAGE’S SUPER BAND MULTI MAX '89」が日本武道館で幕を開けた。\nこの日はツアーの初日にあたる。\n歴史的補足：初のツアー開始・ロンドンとの衛星中継。日本武道館から「CHAGE’S SUPER BAND MULTI MAX ’89」を開始。ロンドンにいたASKAの映像を衛星中継した。"
     },
     {
       "id": "media-v18-1989-022",
@@ -26363,7 +26387,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/423.html"
         }
       ],
-      "description": "1992年5月12日、CHAGE and ASKAの「CONCERT TOUR 1992 “BIG TREE”」が福岡国際センターで開催された。\nこのツアーの第30公演にあたる。"
+      "description": "1992年5月12日、CHAGE and ASKAの「CONCERT TOUR 1992 “BIG TREE”」が福岡国際センターで開催された。\nこのツアーの第30公演にあたる。\n歴史的補足：「SAY YES」「BIG TREE」両ツアーで総動員45万人。福岡国際センターでBIG TREEが終了。両ツアーの合計動員は45万人。"
     },
     {
       "id": "live-say-yes-1991-1992-057",
@@ -30042,7 +30066,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/424.html"
         }
       ],
-      "description": "1994年4月10日、CHAGE and ASKAの「史上最大の作戦 THE LONGEST TOUR 1993-1994」が国立代々木競技場第一体育館で開催された。\nこのツアーの第70公演にあたる。"
+      "description": "1994年4月10日、CHAGE and ASKAの「史上最大の作戦 THE LONGEST TOUR 1993-1994」が国立代々木競技場第一体育館で開催された。\nこのツアーの第70公演にあたる。\n歴史的補足：「史上最大の作戦 THE LONGEST TOUR」完遂。国立代々木競技場第一体育館で終了。全国25カ所70公演。"
     },
     {
       "id": "live-asian-tour-1994-001",
@@ -30061,9 +30085,13 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式History｜公演日程",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
-      "description": "1994年4月29日、CHAGE and ASKAの「ASIAN TOUR 1994」が香港コロシアムで開催された。\nこのツアーの第1公演にあたる。"
+      "description": "1994年4月29日、CHAGE and ASKAの「ASIAN TOUR 1994」が香港コロシアムで開催された。\nこのツアーの第1公演にあたる。\n歴史的補足：初の海外ツアー「ASIAN TOUR 1994」開始。香港コロシアムを皮切りに海外ツアーを開始。"
     },
     {
       "id": "media-v18231-1994-04-29-chageandaska-001",
@@ -30174,9 +30202,13 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式History｜公演日程",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
-      "description": "1994年5月21日、CHAGE and ASKAの「ASIAN TOUR 1994」が台北市立体育場で開催された。\nこのツアーの第5公演にあたる。"
+      "description": "1994年5月21日、CHAGE and ASKAの「ASIAN TOUR 1994」が台北市立体育場で開催された。\nこのツアーの第5公演にあたる。\n歴史的補足：「ASIAN TOUR 1994」終了・6万人動員。香港・シンガポール・台湾の3カ所5公演。台北市立体育場で終了。"
     },
     {
       "id": "release-v06-1994-08-03-125",
@@ -30769,7 +30801,7 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumber": "TODT-3370",
       "releaseFormat": "8cm CD",
-      "description": "1995年1月1日、ASKAの『晴天を誉めるなら夕暮れを待て』がCDで発売された。\n規格品番としてTODT-3370が記載されている。"
+      "description": "1995年1月1日、ASKAの『晴天を誉めるなら夕暮れを待て』がCDで発売された。\n規格品番としてTODT-3370が記載されている。\n歴史的補足：東芝EMI移籍第1弾シングル発売。「晴天を誉めるなら夕暮れを待て」を移籍第1弾として発売。"
     },
     {
       "id": "media-v18231-1995-01-06-aska-001",
@@ -33687,10 +33719,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式History｜公演日程",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
       "prefecture": "神奈川県",
-      "description": "1997年3月30日、ASKAの「ASKA CONCERT TOUR ID」が横浜アリーナで開催された。\nこのツアーの第1公演にあたる。"
+      "description": "1997年3月30日、ASKAの「ASKA CONCERT TOUR ID」が横浜アリーナで開催された。\nこのツアーの第1公演にあたる。\n歴史的補足：初のソロコンサートツアー「ID」開始。横浜アリーナを皮切りに、初のソロツアーを開催。"
     },
     {
       "id": "live-aska-id-1997-002",
@@ -34524,9 +34560,13 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜1997〜1998年",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "Chage 公式BIOGRAPHY",
+          "url": "https://chage.jp/biography/1998.php"
         }
       ],
-      "description": "1998年4月6日、Chageが取り上げられたテレビ番組「P-STOCK」がフジテレビで放送された。"
+      "description": "1998年4月6日、Chageが取り上げられたテレビ番組「P-STOCK」がフジテレビで放送された。\n歴史的補足：初のテレビレギュラー番組「P-STOCK」開始。フジテレビの番組。1998年9月25日終了。"
     },
     {
       "id": "v18210-1998-0406-chage-treasure-box-start",
@@ -34774,9 +34814,13 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "Chage 公式BIOGRAPHY",
+          "url": "https://chage.jp/biography/1998.php"
         }
       ],
-      "description": "1998年5月15日、Chageの「CHAGE 上海之行演唱会」が上海体育館で開催された。\nこのツアーの第1公演にあたる。"
+      "description": "1998年5月15日、Chageの「CHAGE 上海之行演唱会」が上海体育館で開催された。\nこのツアーの第1公演にあたる。\n歴史的補足：上海で初のソロコンサート開催。上海体育館で5月15・16日に開催。初日を記録日とする。"
     },
     {
       "id": "live-v07-chage-shanghai-1998-002",
@@ -35232,10 +35276,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "Chage 公式BIOGRAPHY",
+          "url": "https://chage.jp/biography/1998.php"
         }
       ],
       "prefecture": "東京都",
-      "description": "1998年6月22日、Chageの「CHAGE“大いに唄う”in 武道館」が日本武道館で開催された。\nこのツアーの第1公演にあたる。"
+      "description": "1998年6月22日、Chageの「CHAGE“大いに唄う”in 武道館」が日本武道館で開催された。\nこのツアーの第1公演にあたる。\n歴史的補足：国内初のソロコンサート「CHAGE 大いに唄う in 武道館」開催。日本武道館で開催。アンコールにはASKAも登場。"
     },
     {
       "id": "live-v07-kicks-1998-021",
@@ -35554,11 +35602,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "商品情報（当時品番・二次資料）",
           "url": "https://contents.oricon.co.jp/prof/4066/products/272294/1/"
+        },
+        {
+          "label": "Chage 公式BIOGRAPHY",
+          "url": "https://chage.jp/biography/1998.php"
         }
       ],
       "catalogNumber": "TODT-5195",
       "format": "8cm CD",
-      "description": "1998年9月30日、Chageの『トウキョータワー』がCDで発売された。\n規格品番としてTODT-5195が記載されている。"
+      "description": "1998年9月30日、Chageの『トウキョータワー』がCDで発売された。\n規格品番としてTODT-5195が記載されている。\n歴史的補足：初のソロシングル「トウキョータワー」発売。Chage名義での初シングル。"
     },
     {
       "id": "release-v07-005",
@@ -35653,10 +35705,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "Chage 公式BIOGRAPHY",
+          "url": "https://chage.jp/biography/1998.php"
         }
       ],
       "prefecture": "愛知県",
-      "description": "1998年11月14日、Chageの「CHAGE CONCERT TOUR Feeling Place」が名古屋市民会館で開催された。\nこのツアーの第1公演にあたる。"
+      "description": "1998年11月14日、Chageの「CHAGE CONCERT TOUR Feeling Place」が名古屋市民会館で開催された。\nこのツアーの第1公演にあたる。\n歴史的補足：初の国内ソロツアー「Feeling Place」開始。名古屋市民会館で開幕。"
     },
     {
       "id": "live-v07-feeling-place-1998-002",
@@ -36030,11 +36086,15 @@ window.CA_EVENT_DATA = {
         {
           "label": "公式ディスコグラフィー（発売日・品番）",
           "url": "https://www.chage-aska.net/discography/single/konoai_no_tameni.php"
+        },
+        {
+          "label": "ASKA 公式BIOGRAPHY",
+          "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
       "catalogNumber": "TODT-5260",
       "format": "8cm CD",
-      "description": "1999年3月10日、CHAGE and ASKAの『この愛のために/VISION』がCDで発売された。\n規格品番としてTODT-5260が記載されている。"
+      "description": "1999年3月10日、CHAGE and ASKAの『この愛のために/VISION』がCDで発売された。\n規格品番としてTODT-5260が記載されている。\n歴史的補足：3年ぶりのシングル「この愛のために／VISION」発売・活動再開。C&A名義での新作シングル発売。"
     },
     {
       "id": "media-v18211-1999-005",
@@ -36323,7 +36383,7 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "東京都",
-      "description": "1999年5月31日、CHAGE and ASKAの「赤坂BLITZ special MTV PROGRAM LIVE」が赤坂BLITZで開催された。\nこのツアーの第1公演にあたる。"
+      "description": "1999年5月31日、CHAGE and ASKAの「赤坂BLITZ special MTV PROGRAM LIVE」が赤坂BLITZで開催された。\nこのツアーの第1公演にあたる。\n歴史的補足：グループ名義で約3年半ぶりのステージ。赤坂BLITZのMTV番組収録ライブ（5月31日・6月1日）の初日。ソロ公演での共演とは区別。"
     },
     {
       "id": "live-v07-mtv-program-1999-002",
@@ -38736,7 +38796,7 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "東京都",
-      "description": "2000年11月25日、ASKAの「ASKA PRE-FINAL at The Garden Hall」が恵比寿ガーデンホールで開催された。\nこのツアーの第1公演にあたる。"
+      "description": "2000年11月25日、ASKAの「ASKA PRE-FINAL at The Garden Hall」が恵比寿ガーデンホールで開催された。\nこのツアーの第1公演にあたる。\n歴史的補足：ASKA初のライブハウス公演開催。恵比寿ガーデンホールで「ASKA PRE-FINAL at The Garden Hall」を開催。"
     },
     {
       "id": "live-v07-good-time-2000-019",
@@ -42474,7 +42534,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/427.html"
         }
       ],
-      "description": "2002年4月19日、CHAGE and ASKAの「CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL」が沖縄コンベンション劇場で開催された。\nツアーの最終公演として記録されている。 このツアーの第74公演にあたる。"
+      "description": "2002年4月19日、CHAGE and ASKAの「CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL」が沖縄コンベンション劇場で開催された。\nツアーの最終公演として記録されている。 このツアーの第74公演にあたる。\n歴史的補足：「NOT AT ALL」ホールツアー74公演完遂。沖縄コンベンション劇場で全国42カ所74公演の本編を終了。"
     },
     {
       "id": "live-v18212-2002-0422-earth-conscious",
@@ -42881,7 +42941,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/428.html"
         }
       ],
-      "description": "2002年5月22日、CHAGE and ASKAの「CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL アリーナ追加公演」が大阪城ホールで開催された。\n当初日程に追加された公演にあたる。 このツアーの第10公演にあたる。"
+      "description": "2002年5月22日、CHAGE and ASKAの「CHAGE and ASKA CONCERT TOUR 01>>02 NOT AT ALL アリーナ追加公演」が大阪城ホールで開催された。\n当初日程に追加された公演にあたる。 このツアーの第10公演にあたる。\n歴史的補足：「NOT AT ALL」追加公演終了・本編と合わせて84公演。大阪城ホールで追加公演5カ所10公演を終了。本編74公演との合計は84公演。"
     },
     {
       "id": "live-extra-2002-06-22-01",
@@ -42978,7 +43038,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "prefecture": "東京都",
       "venue": "青山学院記念館",
-      "description": "2002年11月1日、CHAGE and ASKAの「AOYAMA FESTIVAL PRE-EVENT2002」が青山学院記念館で開催された。"
+      "description": "2002年11月1日、CHAGE and ASKAの「AOYAMA FESTIVAL PRE-EVENT2002」が青山学院記念館で開催された。\n歴史的補足：21年ぶりの学園祭ライブ出演。青山学院学園祭「AOYAMA FESTIVAL PRE-EVENT2002」に出演。"
     },
     {
       "id": "live-the-live-2002-2003-001",
@@ -43055,7 +43115,7 @@ window.CA_EVENT_DATA = {
       "catalogNumber": "UMCK-1140",
       "releaseFormat": "CD",
       "format": "CD（アルバム）",
-      "description": "2002年11月20日、CHAGE and ASKAの『STAMP』がCDで発売された。\n規格品番としてUMCK-1140が記載されている。"
+      "description": "2002年11月20日、CHAGE and ASKAの『STAMP』がCDで発売された。\n規格品番としてUMCK-1140が記載されている。\n歴史的補足：初のセルフカバーアルバム『STAMP』発売。全13曲を新たに録音した初のセルフカバー集。"
     },
     {
       "id": "media-v18212-2002-015",
@@ -45343,7 +45403,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "description": "2003年12月1日、『ギャラリーチャゲラッチョ』が始まった。"
+      "description": "2003年12月1日、『ギャラリーチャゲラッチョ』が始まった。\n歴史的補足：写真展示企画「ギャラリーチャゲラッチョ」開催。札幌のUBUSUNA CAFEで写真を展示。ラジオ番組に連動した企画。"
     },
     {
       "id": "event-v08-004",
@@ -45586,7 +45646,7 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "prefecture": "北海道",
       "venue": "札幌ドーム",
-      "description": "2003年12月30日、CHAGE and ASKAの「COUNT DOWN LIVE 03>>04 公開リハーサル」が札幌ドームで開催された。"
+      "description": "2003年12月30日、CHAGE and ASKAの「COUNT DOWN LIVE 03>>04 公開リハーサル」が札幌ドームで開催された。\n歴史的補足：札幌ドーム公開リハーサルに約5,000人が集まる。カウントダウン公演前日、急きょ公開リハーサルを実施。"
     },
     {
       "id": "live-extra-2003-12-31-01",
@@ -45634,7 +45694,7 @@ window.CA_EVENT_DATA = {
       ],
       "releaseFormat": "CD（韓国盤）",
       "catalogNumber": "DJ0013",
-      "description": "2004年1月13日、CHAGE and ASKAの『THE BEST（韓国盤）』がCDで発売された。\n規格品番としてDJ0013が記載されている。"
+      "description": "2004年1月13日、CHAGE and ASKAの『THE BEST（韓国盤）』がCDで発売された。\n規格品番としてDJ0013が記載されている。\n歴史的補足：第4次日本大衆文化開放を受け韓国で『THE BEST』発売。韓国で日本の大衆文化に対する規制が緩和されたことを受けたアルバム発売。"
     },
     {
       "id": "release-v08-009",
@@ -48007,7 +48067,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/430.html"
         }
       ],
-      "description": "2004年12月19日、CHAGE and ASKAの「CHAGE and ASKA CONCERT TOUR 2004 two-five」が広島グリーンアリーナで開催された。\nツアーの最終公演として記録されている。 このツアーの第71公演にあたる。"
+      "description": "2004年12月19日、CHAGE and ASKAの「CHAGE and ASKA CONCERT TOUR 2004 two-five」が広島グリーンアリーナで開催された。\nツアーの最終公演として記録されている。 このツアーの第71公演にあたる。\n歴史的補足：25周年ツアー「two-five」全71公演完遂。広島グリーンアリーナで全国46カ所71公演のツアーを終了。"
     },
     {
       "id": "media-v18213-2004-008",
@@ -48197,9 +48257,21 @@ window.CA_EVENT_DATA = {
         {
           "label": "公式資料",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2005.php"
+        },
+        {
+          "label": "映画祭公式記録",
+          "url": "https://www.shortshorts.org/ja/about/2005.php"
+        },
+        {
+          "label": "釜山国際映画祭 公式作品情報",
+          "url": "https://www.biff.kr/ENG/html/archive/arc_history_view.asp?kind=history&m_idx=11139&pyear=2006"
         }
       ],
-      "description": "2005年9月10日、短編映画『missing pages』招待上映。"
+      "description": "2005年9月10日、短編映画『missing pages』招待上映。\n歴史的補足：初の短編映画「missing pages」を愛・地球博に出展。制作・撮影・音楽を担当した短編映画が国際短編映画祭の招待作品として上映された。監督はジェロム・オリヴィエ。"
     },
     {
       "id": "live-chagehaku-2005-001",
@@ -48371,7 +48443,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "description": "2005年11月16日、ASKAの「ASKA Symphonic Concert 2005 featuring Takayuki Hattori」が東京国際フォーラム・ホールAで開催された。"
+      "description": "2005年11月16日、ASKAの「ASKA Symphonic Concert 2005 featuring Takayuki Hattori」が東京国際フォーラム・ホールAで開催された。\n歴史的補足：服部隆之指揮によるシンフォニックコンサート開催。東京国際フォーラム ホールAで11月16・17日に開催。東京ニューシティ管弦楽団と共演。"
     },
     {
       "id": "live-aska-symphonic-2005-02",
@@ -49592,7 +49664,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "description": "2006年7月16日、ASKAの「ap bank fes '06」がつま恋で開催された。"
+      "description": "2006年7月16日、ASKAの「ap bank fes '06」がつま恋で開催された。\n歴史的補足：「ap bank fes ’06」出演・Bank Bandとの共演。つま恋で開催された音楽フェスティバルにソロで出演。"
     },
     {
       "id": "release-2006-07-26-aska-concert-tour-05-06-my-game-is-aska",
@@ -49775,7 +49847,7 @@ window.CA_EVENT_DATA = {
       "releaseFormat": "CD",
       "catalogNumber": "UMCK-1217",
       "format": "CD（アルバム）",
-      "description": "2007年1月24日、CHAGE and ASKAの『DOUBLE』がCDで発売された。\n規格品番としてUMCK-1217が記載されている。"
+      "description": "2007年1月24日、CHAGE and ASKAの『DOUBLE』がCDで発売された。\n規格品番としてUMCK-1217が記載されている。\n歴史的補足：約5年ぶりのオリジナルアルバム「DOUBLE」発売。通算21作目のオリジナルアルバム。"
     },
     {
       "id": "release-2007-01-24-double-dvd",
@@ -51007,7 +51079,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "description": "2007年7月22日、CHAGE and ASKAの「CHAGE and ASKA Concert tour 2007 DOUBLE」がNHKホールで開催された。\nこのツアーの第51公演にあたる。"
+      "description": "2007年7月22日、CHAGE and ASKAの「CHAGE and ASKA Concert tour 2007 DOUBLE」がNHKホールで開催された。\nこのツアーの第51公演にあたる。\n歴史的補足：「DOUBLE」ツアー全51公演終了。NHKホールで最終公演を迎えた。"
     },
     {
       "id": "media-v18231-2007-08-04-chageandaska-001",
@@ -51102,7 +51174,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ],
-      "description": "2007年11月17日、CHAGE and ASKAの「CHAGE and ASKA Concert 2007 alive in live」が上海大舞台で幕を開けた。\nこの日はツアーの初日にあたる。"
+      "description": "2007年11月17日、CHAGE and ASKAの「CHAGE and ASKA Concert 2007 alive in live」が上海大舞台で幕を開けた。\nこの日はツアーの初日にあたる。\n歴史的補足：約8年ぶりの上海公演開催。上海大舞台でアコースティック形式の「alive in live」を開催。"
     },
     {
       "id": "live-alive-in-live-2007-002",
@@ -51430,7 +51502,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/cavc/pages/434.html"
         }
       ],
-      "description": "2007年12月24日、CHAGE and ASKAの「CHAGE and ASKA Concert 2007 alive in live」が国立代々木競技場第一体育館で開催された。\nこのツアーの第11公演にあたる。"
+      "description": "2007年12月24日、CHAGE and ASKAの「CHAGE and ASKA Concert 2007 alive in live」が国立代々木競技場第一体育館で開催された。\nこのツアーの第11公演にあたる。\n歴史的補足：「alive in live」国内最終公演。国立代々木競技場第一体育館で国内10公演のツアーを終えた。"
     },
     {
       "id": "media-v18231-2007-12-30-aska-001",
@@ -51525,10 +51597,18 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "ユニバーサルミュージック 公式作品情報",
+          "url": "https://www.universal-music.co.jp/p/POBD-22003/"
+        },
+        {
+          "label": "ASKA 公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
       "country": "シンガポール",
-      "description": "2008年4月26日、ASKAの「ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”」がEsplanade Concert Hallで開催された。\nこのツアーの第1公演にあたる。"
+      "description": "2008年4月26日、ASKAの「ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”」がEsplanade Concert Hallで開催された。\nこのツアーの第1公演にあたる。\n歴史的補足：シンフォニックツアー「SCENE」開始。シンガポールから各地のオーケストラと共演するツアーが始まった。"
     },
     {
       "id": "live-aska-scene-2008-002",
@@ -52293,7 +52373,7 @@ window.CA_EVENT_DATA = {
         }
       ],
       "country": "香港",
-      "description": "2008年12月13日、ASKAの「ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”」がHong Kong Cultural Centreで開催された。\nこのツアーの第15公演にあたる。"
+      "description": "2008年12月13日、ASKAの「ASKA SYMPHONIC CONCERT TOUR 2008 “SCENE”」がHong Kong Cultural Centreで開催された。\nこのツアーの第15公演にあたる。\n歴史的補足：シンフォニックツアー「SCENE」香港公演で終了。香港文化中心でツアー終了。資料間で公演数の記載が異なるため総数は記載しない。"
     },
     {
       "id": "live-extra-2008-okinawa-premium-01",
@@ -52481,12 +52561,16 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2009.php"
         }
       ],
       "country": "日本",
       "venue": "都城総合文化ホール大ホール",
       "prefecture": "宮崎県",
-      "description": "2009年3月7日、Chageの「Super Generation 2009 ～服部良一・克久・隆之 三代コンサート～」が都城総合文化ホール大ホールで開催された。"
+      "description": "2009年3月7日、Chageの「Super Generation 2009 ～服部良一・克久・隆之 三代コンサート～」が都城総合文化ホール大ホールで開催された。\n歴史的補足：初のオーケストラとの共演ステージ。都城総合文化ホールで服部家三代の記念コンサートに出演。"
     },
     {
       "id": "other-2009-blog-open",
@@ -52731,12 +52815,16 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（提供書誌台帳）",
           "url": "https://canda.miraheze.org/wiki/書籍・パンフレット・FC資料一覧/01_市販書籍・公式本・写真集・詩集・歌詞集"
+        },
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2009.php"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "書籍・写真集等。ISBNは規格品番と別項目で管理。出版物の個別管理番号は継続点検。",
       "releaseFormat": "写真集",
-      "description": "歌写（かしゃッ）！♪ 写真で綴る幸せな音符（写真集／KKベストセラーズ）が発売された。",
+      "description": "歌写（かしゃッ）！♪ 写真で綴る幸せな音符（写真集／KKベストセラーズ）が発売された。\n歴史的補足：初の写真集「歌写（かしゃッ）！♪」発売。撮りためた写真と石垣島で撮影した写真をまとめた初写真集。",
       "format": "写真集",
       "publisher": "KKベストセラーズ",
       "isbn": "9784584131565"
@@ -52843,10 +52931,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2009.php"
         }
       ],
       "prefecture": "東京都",
-      "description": "2009年4月14日、Chageの「唱う門には“Chage”来る！「茶会」Special Live 10days at Sogetsu Hall」が草月ホールで開催された。\nこのツアーの第1公演にあたる。"
+      "description": "2009年4月14日、Chageの「唱う門には“Chage”来る！「茶会」Special Live 10days at Sogetsu Hall」が草月ホールで開催された。\nこのツアーの第1公演にあたる。\n歴史的補足：初の同一会場10公演「茶会」開始。草月ホールで4月26日までの全10公演を開催。"
     },
     {
       "id": "live-chage-tea-2009-002",
@@ -53411,10 +53503,18 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
           "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2009.php"
+        },
+        {
+          "label": "ユニバーサルミュージック 公式Biography",
+          "url": "https://www.universal-music.co.jp/chage/biography/"
         }
       ],
       "prefecture": "東京都",
-      "description": "2009年5月23日、Chageの「Chageの細道2009」が武蔵村山市民会館さくらホールで開催された。\nこのツアーの第1公演にあたる。"
+      "description": "2009年5月23日、Chageの「Chageの細道2009」が武蔵村山市民会館さくらホールで開催された。\nこのツアーの第1公演にあたる。\n歴史的補足：「Chageの細道」シリーズ開始。武蔵村山市民会館さくらホールを初日とする全国ツアー。"
     },
     {
       "id": "live-aska-walk-2009-022",
@@ -55222,7 +55322,7 @@ window.CA_EVENT_DATA = {
         }
       ],
       "prefecture": "愛知県",
-      "description": "2009年12月15日、ASKAの「ASKA THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス」が名古屋国際会議場センチュリーホールで開催された。\nこのツアーの第1公演にあたる。"
+      "description": "2009年12月15日、ASKAの「ASKA THE MELODY YOU HEARD THAT NIGHT 昭和が見ていたクリスマス」が名古屋国際会議場センチュリーホールで開催された。\nこのツアーの第1公演にあたる。\n歴史的補足：初のビッグバンド編成による「昭和が見ていたクリスマス」開始。名古屋国際会議場センチュリーホールを初日とするクリスマスライブ。"
     },
     {
       "id": "live-aska-xmas-2009-002",
@@ -55804,7 +55904,7 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
-      "description": "2010年4月4日、Chageが取り上げられたラジオ番組「Chageの音道」が放送された。"
+      "description": "2010年4月4日、Chageが取り上げられたラジオ番組「Chageの音道」が放送された。\n歴史的補足：ラジオ番組「Chageの音道」開始。JFN系列のレギュラーラジオ番組がスタート。"
     },
     {
       "id": "live-extra-2010-kan-guests-01",
@@ -57543,7 +57643,7 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
-      "description": "2011年4月26日、ASKAの『上を向いて歩こう』の配信が開始された。"
+      "description": "2011年4月26日、ASKAの『上を向いて歩こう』の配信が開始された。\n歴史的補足：「いま歌う」シリーズ開始。「廃墟の鳩」「上を向いて歩こう」の新録カバーを配信。"
     },
     {
       "id": "v11-other-002",
@@ -57794,13 +57894,17 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA公式HISTORY",
           "url": "https://www.chage-aska.net/history/2010.php"
+        },
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2011.php"
         }
       ],
       "releaseTitle": "3月のタンポポ",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
-      "description": "2011年6月11日、Chageの『3月のタンポポ』の配信が開始された。"
+      "description": "2011年6月11日、Chageの『3月のタンポポ』の配信が開始された。\n歴史的補足：震災支援楽曲「3月のタンポポ」配信開始。西川進のチャリティー楽曲に歌唱で参加。配信収益を東日本大震災の義援金として寄付する企画。"
     },
     {
       "id": "v11-apbank-2011",
@@ -59797,7 +59901,7 @@ window.CA_EVENT_DATA = {
       "catalogNumberVerification": "secondary",
       "catalogNumberSourceUrl": "https://www.oricon.co.jp/prof/245800/products/1007099/1/",
       "releaseFormat": "CDアルバム（公演会場先行販売）",
-      "description": "2012年12月22日、ASKAの『「僕にできること」がCDで発売された。\n二次資料に掲載されている規格品番はPOCS-22022。"
+      "description": "2012年12月22日、ASKAの『「僕にできること」がCDで発売された。\n二次資料に掲載されている規格品番はPOCS-22022。\n歴史的補足：復興支援アルバム「僕にできること」会場先行販売開始。ROCKETツアー会場で先行販売。ASKA個人の収益は東日本大震災の復興支援に活用する企画。一般発売は2013年3月27日。"
     },
     {
       "id": "live-v11-aska-rocket-2012-004",
@@ -62749,7 +62853,7 @@ window.CA_EVENT_DATA = {
       "venue": "福岡 ヤフオク!ドーム",
       "country": "日本",
       "prefecture": "福岡県",
-      "description": "2015年10月14日、Chageの「クライマックスシリーズ ファイナルステージ 国歌独唱」が福岡 ヤフオク!ドームで開催された。"
+      "description": "2015年10月14日、Chageの「クライマックスシリーズ ファイナルステージ 国歌独唱」が福岡 ヤフオク!ドームで開催された。\n歴史的補足：プロ野球クライマックスシリーズで国歌独唱。福岡ソフトバンクホークス対千葉ロッテマリーンズのパ・リーグ ファイナルステージで国歌独唱。"
     },
     {
       "id": "v12-hammer15-05",
@@ -63869,6 +63973,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "公式・発売元の品番資料",
           "url": "https://store-annex.universal-music.co.jp/product/uicz4376/"
+        },
+        {
+          "label": "Chage 公式Biography",
+          "url": "https://chage.jp/biography/2016.php"
+        },
+        {
+          "label": "Chage 公式ディスコグラフィー",
+          "url": "https://chage.jp/discography/chage/album.php"
         }
       ],
       "catalogNumberStatus": "confirmed_primary",
@@ -63878,7 +63990,7 @@ window.CA_EVENT_DATA = {
       "catalogNumberSourceUrl": "https://store-annex.universal-music.co.jp/product/uicz4376/",
       "releaseFormat": "CD（2枚組）",
       "releaseTitle": "Chage Live Tour 2016 ～もうひとつのLOVE SONG～（ライブアルバム）",
-      "description": "2016年12月14日、Chageの『Chage Live Tour 2016 ～もうひとつのLOVE SONG～（ライブアルバム）』がCDで発売された。\n2枚組の仕様で発売された。 公式ディスコグラフィーや発売元資料で確認されている規格品番はUICZ-4376/7。"
+      "description": "2016年12月14日、Chageの『Chage Live Tour 2016 ～もうひとつのLOVE SONG～（ライブアルバム）』がCDで発売された。\n2枚組の仕様で発売された。 公式ディスコグラフィーや発売元資料で確認されている規格品番はUICZ-4376/7。\n歴史的補足：ソロ初のライブアルバム発売。「Chage Live Tour 2016 ～もうひとつのLOVE SONG～」をCD2枚組で発売。"
     },
     {
       "id": "v12-xmas16-01",
@@ -63959,9 +64071,13 @@ window.CA_EVENT_DATA = {
         {
           "label": "報道記事｜公開日確認",
           "url": "https://www.nikkansports.com/entertainment/news/1756494.html"
+        },
+        {
+          "label": "当時の報道（参考資料）",
+          "url": "https://www.j-cast.com/2016/12/25286865.html"
         }
       ],
-      "description": "2016年12月24日、ASKAが新曲「FUKUOKA」をYouTubeで公開。"
+      "description": "2016年12月24日、ASKAが新曲「FUKUOKA」をYouTubeで公開。\n歴史的補足：新曲「FUKUOKA」をYouTubeで公開。自身のブログから新曲の動画を公開。"
     },
     {
       "id": "v12-xmas16-04",
@@ -64100,6 +64216,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "オリコン作品情報",
           "url": "https://www.oricon.co.jp/prof/245800/products/1219695/1/"
+        },
+        {
+          "label": "ASKA 公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "ASKA 公式ブログ",
+          "url": "https://archive.fellows.tokyo/blog/?id=198"
         }
       ],
       "catalogNumberStatus": "documented_secondary",
@@ -64109,7 +64233,7 @@ window.CA_EVENT_DATA = {
       "catalogNumberSourceUrl": "https://www.oricon.co.jp/prof/245800/products/1219695/1/",
       "releaseFormat": "CD",
       "releaseTitle": "Too many people",
-      "description": "2017年2月22日、ASKAの『Too many people』がCDで発売された。\n二次資料に掲載されている規格品番はDDLB-0001。"
+      "description": "2017年2月22日、ASKAの『Too many people』がCDで発売された。\n二次資料に掲載されている規格品番はDDLB-0001。\n歴史的補足：約4年4カ月ぶりのオリジナルアルバム「Too many people」発売。2012年の「SCRAMBLE」以来のオリジナルアルバム。"
     },
     {
       "id": "v13-media-005",
@@ -65996,7 +66120,7 @@ window.CA_EVENT_DATA = {
         }
       ],
       "broadcastStation": "JFN",
-      "description": "2018年1月20日、Chageの音道 放送400回＆Happy 60th Birthday記念スペシャル録音。"
+      "description": "2018年1月20日、Chageの音道 放送400回＆Happy 60th Birthday記念スペシャル録音。\n歴史的補足：「Chageの音道」放送400回記念公開収録。放送400回と60歳の誕生日を記念する公開収録。実際の放送日とは区別する。"
     },
     {
       "id": "v13-ch18-radio",
@@ -67522,6 +67646,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "ビルボードクラシックス公演公式",
           "url": "https://billboard-cc.com/aska2018"
+        },
+        {
+          "label": "ASKA 公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
         }
       ],
       "venue": "東京国際フォーラム ホールA",
@@ -67530,7 +67658,7 @@ window.CA_EVENT_DATA = {
       "tourId": "aska-pride-2018",
       "prefecture": "東京都",
       "startTime": "19:00",
-      "description": "2018年11月5日、ASKAの「billboard classics ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-」が東京国際フォーラム ホールAで開催された。\nこのツアーの第1公演にあたる。"
+      "description": "2018年11月5日、ASKAの「billboard classics ASKA PREMIUM SYMPHONIC CONCERT 2018 -THE PRIDE-」が東京国際フォーラム ホールAで開催された。\nこのツアーの第1公演にあたる。\n歴史的補足：シンフォニックコンサート「THE PRIDE」でステージ復帰。東京国際フォーラム ホールAで再始動公演を開催。"
     },
     {
       "id": "v13-release-024",
@@ -68212,6 +68340,14 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式チャンネル・公演全日程",
           "url": "https://www.youtube.com/watch?v=83qeVFoUN5k"
+        },
+        {
+          "label": "ASKA 公式ブログ",
+          "url": "https://archive.fellows.tokyo/blog/?id=1316"
+        },
+        {
+          "label": "放送局公式",
+          "url": "https://www.fujitv.co.jp/b_hp/190827aska/index.html"
         }
       ],
       "venue": "オリンパスホール八王子",
@@ -68220,7 +68356,7 @@ window.CA_EVENT_DATA = {
       "tourId": "aska-made-in-2019",
       "prefecture": "東京都",
       "startTime": "18:30",
-      "description": "2019年2月6日、ASKAの「ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-」がオリンパスホール八王子で開催された。\nこのツアーの第1公演にあたる。"
+      "description": "2019年2月6日、ASKAの「ASKA CONCERT TOUR 2019 Made in ASKA -40年のありったけ-」がオリンパスホール八王子で開催された。\nこのツアーの第1公演にあたる。\n歴史的補足：約6年ぶりのバンドツアー「Made in ASKA」開始。オリンパスホール八王子から、約5年11カ月ぶりの自身のバンドによるツアーを開始。"
     },
     {
       "id": "v13-release-029",
@@ -69117,11 +69253,23 @@ window.CA_EVENT_DATA = {
         {
           "label": "公演発表資料",
           "url": "https://www.mirrormedia.mg/story/20190308ent004"
+        },
+        {
+          "label": "ASKA 公式Biography",
+          "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "公演主催者公式案内",
+          "url": "https://welcomemusic.kktix.cc/events/aska2019tour"
+        },
+        {
+          "label": "当時の報道（参考資料）",
+          "url": "https://n.yam.com/Article/20190610454927"
         }
       ],
       "venue": "国立台湾大学総合体育館",
       "prefecture": "台湾",
-      "description": "2019年6月9日、ASKAの「ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- 台北公演」が国立台湾大学総合体育館で開催された。"
+      "description": "2019年6月9日、ASKAの「ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- 台北公演」が国立台湾大学総合体育館で開催された。\n歴史的補足：約10年ぶりの海外公演・アジアツアー開始。台北の台大體育館で公演。公式Biographyで海外公演の間隔を確認。"
     },
     {
       "id": "v13-aska19-asia-hongkong",
@@ -90845,9 +90993,13 @@ window.CA_EVENT_DATA = {
         {
           "label": "スタジオジブリ公式：公開時の併映について",
           "url": "https://www.ghibli.jp/qa/"
+        },
+        {
+          "label": "CHAGE and ASKA 公式HISTORY",
+          "url": "https://www.chage-aska.net/history/1990.php"
         }
       ],
-      "description": "1995年7月15日、CHAGE and ASKAが取り上げられたテレビ番組『On Your Mark』が放送された。"
+      "description": "1995年7月15日、CHAGE and ASKAの楽曲に基づく短編アニメーション『On Your Mark』が劇場公開された。\n歴史的補足：宮崎駿監督作品『On Your Mark』劇場公開。C&Aの楽曲をもとに制作されたスタジオジブリの短編アニメーションが劇場公開。"
     },
     {
       "id": "media-tieup-1995-0925-tsuma-no-koi",
@@ -102017,109 +102169,12 @@ window.CA_EVENT_DATA = {
       "featured": false
     },
     {
-      "id": "milestone-1980-11-27-bestten-first",
-      "date": "1980-11-27",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "「ザ・ベストテン」に初出演",
-      "description": "「万里の河」で今週のスポットライトに登場。番組初出演とされる。",
-      "status": "historical",
-      "verification": "secondary",
-      "sources": [
-        {
-          "label": "参考資料（非公式・放送記録）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        },
-        {
-          "label": "参考資料（非公式）",
-          "url": "https://www.conex-eco.co.jp/serial/showa-record/173964/2/"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-1980-12-18-bestten-rank",
-      "date": "1980-12-18",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "「万里の河」が「ザ・ベストテン」に初ランクイン",
-      "description": "TBSの番組ランキングで8位に初登場。オリコンの順位とは別の記録。",
-      "status": "historical",
-      "verification": "secondary",
-      "sources": [
-        {
-          "label": "参考資料（非公式・放送記録）",
-          "url": "https://w.atwiki.jp/cavc/pages/18.html"
-        },
-        {
-          "label": "参考資料（非公式）",
-          "url": "https://www.conex-eco.co.jp/serial/showa-record/173964/2/"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-1981-08-01-denen-first",
-      "date": "1981-08-01",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "田園コロシアムで初のコンサートを開催",
-      "description": "「THE 夏祭り’81」。同会場で初のコンサートとなり、約6,000人が来場。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-1981-08-21-neppu-finish",
-      "date": "1981-08-21",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "「’81熱風」ツアー完走・動員10万人超",
-      "description": "那覇市民会館でツアー終了。全国57会場59公演、ツアー全体で10万人を超える動員を記録。到達日ではなくツアー終了日の記録。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/"
-        }
-      ],
-      "featured": false
-    },
-    {
       "id": "milestone-1987-09-21-aska-solo-debut",
       "date": "1987-09-21",
       "artist": "ASKA",
       "category": "milestone",
       "title": "ASKAがソロデビュー",
       "description": "飛鳥涼名義のシングル「MY Mr.LONELY HEART」でソロ活動を開始。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/"
-        },
-        {
-          "label": "ASKA 公式BIOGRAPHY",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-1988-08-21-aska-first-album",
-      "date": "1988-08-21",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "初のソロアルバム『SCENE』を発売",
-      "description": "提供曲を中心としたASKA初のソロアルバム。発売記録とは別にソロ活動の節目として扱う。",
       "status": "historical",
       "verification": "primary",
       "sources": [
@@ -102158,27 +102213,6 @@ window.CA_EVENT_DATA = {
       "category": "milestone",
       "title": "FMレギュラー番組「NORU SORU」がスタート",
       "description": "「スーパーFMマガジン NORU SORU」が始まり、1994年3月まで続いた。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/"
-        },
-        {
-          "label": "Chage 公式Biography",
-          "url": "https://chage.jp/biography/1989.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-1989-12-13-multi-max-first-tour",
-      "date": "1989-12-13",
-      "artist": "MULTI MAX",
-      "category": "milestone",
-      "title": "初のツアー開始・ロンドンとの衛星中継",
-      "description": "日本武道館から「CHAGE’S SUPER BAND MULTI MAX ’89」を開始。ロンドンにいたASKAの映像を衛星中継した。",
       "status": "historical",
       "verification": "primary",
       "sources": [
@@ -102291,23 +102325,6 @@ window.CA_EVENT_DATA = {
       "featured": false
     },
     {
-      "id": "milestone-1992-05-12-say-yes-big-tree-attendance",
-      "date": "1992-05-12",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "「SAY YES」「BIG TREE」両ツアーで総動員45万人",
-      "description": "福岡国際センターでBIG TREEが終了。両ツアーの合計動員は45万人。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/1990.php"
-        }
-      ],
-      "featured": false
-    },
-    {
       "id": "milestone-1993-03-15-yah-yah-yah-first-number-one",
       "date": "1993-03-15",
       "artist": "CHAGE and ASKA",
@@ -102367,65 +102384,6 @@ window.CA_EVENT_DATA = {
       "featured": false
     },
     {
-      "id": "milestone-1994-04-10-longest-tour-completion",
-      "date": "1994-04-10",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "「史上最大の作戦 THE LONGEST TOUR」完遂",
-      "description": "国立代々木競技場第一体育館で終了。全国25カ所70公演。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/1990.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-1994-04-29-asian-tour-start",
-      "date": "1994-04-29",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "初の海外ツアー「ASIAN TOUR 1994」開始",
-      "description": "香港コロシアムを皮切りに海外ツアーを開始。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/1990.php"
-        },
-        {
-          "label": "ASKA 公式BIOGRAPHY",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-1994-05-21-asian-tour-completion",
-      "date": "1994-05-21",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "「ASIAN TOUR 1994」終了・6万人動員",
-      "description": "香港・シンガポール・台湾の3カ所5公演。台北市立体育場で終了。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/1990.php"
-        },
-        {
-          "label": "ASKA 公式BIOGRAPHY",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ],
-      "featured": false
-    },
-    {
       "id": "milestone-1994-08-26-15th-amusement-park",
       "date": "1994-08-26",
       "artist": "CHAGE and ASKA",
@@ -102480,27 +102438,6 @@ window.CA_EVENT_DATA = {
         {
           "label": "参考資料（非公式・映画公開記録）",
           "url": "https://www.boxofficemojo.com/title/tt0111301/"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-1995-01-01-emi-first-single",
-      "date": "1995-01-01",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "東芝EMI移籍第1弾シングル発売",
-      "description": "「晴天を誉めるなら夕暮れを待て」を移籍第1弾として発売。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/1990.php"
-        },
-        {
-          "label": "オリコン 作品情報",
-          "url": "https://contents.oricon.co.jp/prof/245800/products/271567/1/"
         }
       ],
       "featured": false
@@ -102577,31 +102514,6 @@ window.CA_EVENT_DATA = {
       "featured": false
     },
     {
-      "id": "milestone-1995-07-15-on-your-mark-theatrical",
-      "date": "1995-07-15",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "宮崎駿監督作品『On Your Mark』劇場公開",
-      "description": "C&Aの楽曲をもとに制作されたスタジオジブリの短編アニメーションが劇場公開。映像商品の発売とは別。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/1990.php"
-        },
-        {
-          "label": "スタジオジブリ 作品情報",
-          "url": "https://www.ghibli.jp/works/onyourmark/"
-        },
-        {
-          "label": "スタジオジブリ Q&A",
-          "url": "https://www.ghibli.jp/qa/"
-        }
-      ],
-      "featured": false
-    },
-    {
       "id": "milestone-1996-06-19-mtv-unplugged-first-asian",
       "date": "1996-06-19",
       "artist": "CHAGE and ASKA",
@@ -102644,90 +102556,6 @@ window.CA_EVENT_DATA = {
       "featured": false
     },
     {
-      "id": "milestone-1997-03-30-first-solo-tour-id",
-      "date": "1997-03-30",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "初のソロコンサートツアー「ID」開始",
-      "description": "横浜アリーナを皮切りに、初のソロツアーを開催。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/1990.php"
-        },
-        {
-          "label": "ASKA 公式BIOGRAPHY",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-1998-04-06-p-stock-first-tv-regular",
-      "date": "1998-04-06",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "初のテレビレギュラー番組「P-STOCK」開始",
-      "description": "フジテレビの番組。1998年9月25日終了。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/1990.php"
-        },
-        {
-          "label": "Chage 公式BIOGRAPHY",
-          "url": "https://chage.jp/biography/1998.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-1998-05-15-first-solo-concert-shanghai",
-      "date": "1998-05-15",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "上海で初のソロコンサート開催",
-      "description": "上海体育館で5月15・16日に開催。初日を記録日とする。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/1990.php"
-        },
-        {
-          "label": "Chage 公式BIOGRAPHY",
-          "url": "https://chage.jp/biography/1998.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-1998-06-22-first-japan-solo-budokan",
-      "date": "1998-06-22",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "国内初のソロコンサート「CHAGE 大いに唄う in 武道館」開催",
-      "description": "日本武道館で開催。アンコールにはASKAも登場。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/1990.php"
-        },
-        {
-          "label": "Chage 公式BIOGRAPHY",
-          "url": "https://chage.jp/biography/1998.php"
-        }
-      ],
-      "featured": false
-    },
-    {
       "id": "milestone-1998-07-19-reunion-announcement",
       "date": "1998-07-19",
       "artist": "CHAGE and ASKA",
@@ -102744,86 +102572,6 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage 公式BIOGRAPHY",
           "url": "https://chage.jp/biography/1998.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-1998-09-30-first-solo-single",
-      "date": "1998-09-30",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "初のソロシングル「トウキョータワー」発売",
-      "description": "Chage名義での初シングル。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/1990.php"
-        },
-        {
-          "label": "Chage 公式BIOGRAPHY",
-          "url": "https://chage.jp/biography/1998.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-1998-11-14-first-domestic-solo-tour",
-      "date": "1998-11-14",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "初の国内ソロツアー「Feeling Place」開始",
-      "description": "名古屋市民会館で開幕。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/1990.php"
-        },
-        {
-          "label": "Chage 公式BIOGRAPHY",
-          "url": "https://chage.jp/biography/1998.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-1999-03-10-reunion-single",
-      "date": "1999-03-10",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "3年ぶりのシングル「この愛のために／VISION」発売・活動再開",
-      "description": "C&A名義での新作シングル発売。1998年の活動再開表明とは別。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/1990.php"
-        },
-        {
-          "label": "ASKA 公式BIOGRAPHY",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-1999-05-31-reunion-stage",
-      "date": "1999-05-31",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "グループ名義で約3年半ぶりのステージ",
-      "description": "赤坂BLITZのMTV番組収録ライブ（5月31日・6月1日）の初日。ソロ公演での共演とは区別。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/1990.php"
         }
       ],
       "featured": false
@@ -102896,125 +102644,6 @@ window.CA_EVENT_DATA = {
       "featured": false
     },
     {
-      "id": "milestone-2000-11-25-first-livehouse",
-      "date": "2000-11-25",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "ASKA初のライブハウス公演開催",
-      "description": "恵比寿ガーデンホールで「ASKA PRE-FINAL at The Garden Hall」を開催。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2002-04-19-not-at-all-hall-finale",
-      "date": "2002-04-19",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "「NOT AT ALL」ホールツアー74公演完遂",
-      "description": "沖縄コンベンション劇場で全国42カ所74公演の本編を終了。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2002-05-22-not-at-all-arena-finale",
-      "date": "2002-05-22",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "「NOT AT ALL」追加公演終了・本編と合わせて84公演",
-      "description": "大阪城ホールで追加公演5カ所10公演を終了。本編74公演との合計は84公演。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2002-11-01-aoyama-campus-return",
-      "date": "2002-11-01",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "21年ぶりの学園祭ライブ出演",
-      "description": "青山学院学園祭「AOYAMA FESTIVAL PRE-EVENT2002」に出演。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2002-11-20-stamp-first-self-cover",
-      "date": "2002-11-20",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "初のセルフカバーアルバム『STAMP』発売",
-      "description": "全13曲を新たに録音した初のセルフカバー集。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2003-12-01-gallery-chagelaccho",
-      "date": "2003-12-01",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "写真展示企画「ギャラリーチャゲラッチョ」開催",
-      "description": "札幌のUBUSUNA CAFEで写真を展示。ラジオ番組に連動した企画。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2003-12-30-sapporo-public-rehearsal",
-      "date": "2003-12-30",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "札幌ドーム公開リハーサルに約5,000人が集まる",
-      "description": "カウントダウン公演前日、急きょ公開リハーサルを実施。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
       "id": "milestone-2003-12-31-sapporo-second-dome",
       "date": "2003-12-31",
       "artist": "CHAGE and ASKA",
@@ -103031,23 +102660,6 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 公式映像作品情報",
           "url": "https://www.chage-aska.net/discography/video/countdown_live_bluray.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2004-01-13-korea-the-best",
-      "date": "2004-01-13",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "第4次日本大衆文化開放を受け韓国で『THE BEST』発売",
-      "description": "韓国で日本の大衆文化に対する規制が緩和されたことを受けたアルバム発売。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
       "featured": false
@@ -103074,150 +102686,6 @@ window.CA_EVENT_DATA = {
       "featured": false
     },
     {
-      "id": "milestone-2004-12-19-two-five-finale",
-      "date": "2004-12-19",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "25周年ツアー「two-five」全71公演完遂",
-      "description": "広島グリーンアリーナで全国46カ所71公演のツアーを終了。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2005-09-10-missing-pages-expo",
-      "date": "2005-09-10",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "初の短編映画「missing pages」を愛・地球博に出展",
-      "description": "制作・撮影・音楽を担当した短編映画が国際短編映画祭の招待作品として上映された。監督はジェロム・オリヴィエ。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "Chage 公式Biography",
-          "url": "https://chage.jp/biography/2005.php"
-        },
-        {
-          "label": "映画祭公式記録",
-          "url": "https://www.shortshorts.org/ja/about/2005.php"
-        },
-        {
-          "label": "釜山国際映画祭 公式作品情報",
-          "url": "https://www.biff.kr/ENG/html/archive/arc_history_view.asp?kind=history&m_idx=11139&pyear=2006"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2005-11-16-symphonic-2005",
-      "date": "2005-11-16",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "服部隆之指揮によるシンフォニックコンサート開催",
-      "description": "東京国際フォーラム ホールAで11月16・17日に開催。東京ニューシティ管弦楽団と共演。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2006-07-16-ap-bank-2006",
-      "date": "2006-07-16",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "「ap bank fes ’06」出演・Bank Bandとの共演",
-      "description": "つま恋で開催された音楽フェスティバルにソロで出演。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2007-01-24-double-five-years",
-      "date": "2007-01-24",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "約5年ぶりのオリジナルアルバム「DOUBLE」発売",
-      "description": "通算21作目のオリジナルアルバム。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "ユニバーサルミュージック 公式作品情報",
-          "url": "https://www.universal-music.co.jp/chage-and-aska/products/umck-1217/"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2007-07-22-double-finale",
-      "date": "2007-07-22",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "「DOUBLE」ツアー全51公演終了",
-      "description": "NHKホールで最終公演を迎えた。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2007-11-17-shanghai-return",
-      "date": "2007-11-17",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "約8年ぶりの上海公演開催",
-      "description": "上海大舞台でアコースティック形式の「alive in live」を開催。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2007-12-24-alive-in-live-finale",
-      "date": "2007-12-24",
-      "artist": "CHAGE and ASKA",
-      "category": "milestone",
-      "title": "「alive in live」国内最終公演",
-      "description": "国立代々木競技場第一体育館で国内10公演のツアーを終えた。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
       "id": "milestone-2008-03-01-solo-return",
       "date": "2008-03-01",
       "artist": "Chage",
@@ -103234,213 +102702,6 @@ window.CA_EVENT_DATA = {
         {
           "label": "CHAGE and ASKA 公式HISTORY",
           "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2008-04-26-scene-symphonic-start",
-      "date": "2008-04-26",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "シンフォニックツアー「SCENE」開始",
-      "description": "シンガポールから各地のオーケストラと共演するツアーが始まった。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "ユニバーサルミュージック 公式作品情報",
-          "url": "https://www.universal-music.co.jp/p/POBD-22003/"
-        },
-        {
-          "label": "ASKA 公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2008-12-13-scene-symphonic-finale",
-      "date": "2008-12-13",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "シンフォニックツアー「SCENE」香港公演で終了",
-      "description": "香港文化中心でツアー終了。資料間で公演数の記載が異なるため総数は記載しない。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2009-03-07-first-orchestra-stage",
-      "date": "2009-03-07",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "初のオーケストラとの共演ステージ",
-      "description": "都城総合文化ホールで服部家三代の記念コンサートに出演。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        },
-        {
-          "label": "Chage 公式Biography",
-          "url": "https://chage.jp/biography/2009.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2009-04-10-first-photobook",
-      "date": "2009-04-10",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "初の写真集「歌写（かしゃッ）！♪」発売",
-      "description": "撮りためた写真と石垣島で撮影した写真をまとめた初写真集。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        },
-        {
-          "label": "Chage 公式Biography",
-          "url": "https://chage.jp/biography/2009.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2009-04-14-first-chakai",
-      "date": "2009-04-14",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "初の同一会場10公演「茶会」開始",
-      "description": "草月ホールで4月26日までの全10公演を開催。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "Chage 公式Biography",
-          "url": "https://chage.jp/biography/2009.php"
-        },
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2009-05-23-hosomichi-start",
-      "date": "2009-05-23",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "「Chageの細道」シリーズ開始",
-      "description": "武蔵村山市民会館さくらホールを初日とする全国ツアー。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "Chage 公式Biography",
-          "url": "https://chage.jp/biography/2009.php"
-        },
-        {
-          "label": "ユニバーサルミュージック 公式Biography",
-          "url": "https://www.universal-music.co.jp/chage/biography/"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2009-12-15-first-big-band-christmas",
-      "date": "2009-12-15",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "初のビッグバンド編成による「昭和が見ていたクリスマス」開始",
-      "description": "名古屋国際会議場センチュリーホールを初日とするクリスマスライブ。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2000.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2010-04-04-otomichi-start",
-      "date": "2010-04-04",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "ラジオ番組「Chageの音道」開始",
-      "description": "JFN系列のレギュラーラジオ番組がスタート。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2010.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2011-04-26-ima-utau-start",
-      "date": "2011-04-26",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "「いま歌う」シリーズ開始",
-      "description": "「廃墟の鳩」「上を向いて歩こう」の新録カバーを配信。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2010.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2011-06-11-tanpopo-charity",
-      "date": "2011-06-11",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "震災支援楽曲「3月のタンポポ」配信開始",
-      "description": "西川進のチャリティー楽曲に歌唱で参加。配信収益を東日本大震災の義援金として寄付する企画。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "Chage 公式Biography",
-          "url": "https://chage.jp/biography/2011.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2012-12-22-boku-ni-dekiru-koto-charity",
-      "date": "2012-12-22",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "復興支援アルバム「僕にできること」会場先行販売開始",
-      "description": "ROCKETツアー会場で先行販売。ASKA個人の収益は東日本大震災の復興支援に活用する企画。一般発売は2013年3月27日。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "CHAGE and ASKA 公式HISTORY",
-          "url": "https://www.chage-aska.net/history/2010.php"
         }
       ],
       "featured": false
@@ -103522,90 +102783,6 @@ window.CA_EVENT_DATA = {
       "featured": true
     },
     {
-      "id": "milestone-2015-10-14-national-anthem-climax-series",
-      "date": "2015-10-14",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "プロ野球クライマックスシリーズで国歌独唱",
-      "description": "福岡ソフトバンクホークス対千葉ロッテマリーンズのパ・リーグ ファイナルステージで国歌独唱。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "Chage 公式Biography",
-          "url": "https://chage.jp/biography/2015.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2016-12-14-first-solo-live-album",
-      "date": "2016-12-14",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "ソロ初のライブアルバム発売",
-      "description": "「Chage Live Tour 2016 ～もうひとつのLOVE SONG～」をCD2枚組で発売。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "Chage 公式Biography",
-          "url": "https://chage.jp/biography/2016.php"
-        },
-        {
-          "label": "Chage 公式ディスコグラフィー",
-          "url": "https://chage.jp/discography/chage/album.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2016-12-24-fukuoka-video-publication",
-      "date": "2016-12-24",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "新曲「FUKUOKA」をYouTubeで公開",
-      "description": "自身のブログから新曲の動画を公開。2017年のアルバム発売とは別の記録。",
-      "status": "historical",
-      "verification": "secondary",
-      "sources": [
-        {
-          "label": "当時の報道（参考資料）",
-          "url": "https://www.nikkansports.com/entertainment/news/1756494.html"
-        },
-        {
-          "label": "当時の報道（参考資料）",
-          "url": "https://www.j-cast.com/2016/12/25286865.html"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2017-02-22-too-many-people-restart",
-      "date": "2017-02-22",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "約4年4カ月ぶりのオリジナルアルバム「Too many people」発売",
-      "description": "2012年の「SCRAMBLE」以来のオリジナルアルバム。",
-      "status": "historical",
-      "verification": "secondary",
-      "sources": [
-        {
-          "label": "ASKA 公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        },
-        {
-          "label": "ASKA 公式ブログ",
-          "url": "https://archive.fellows.tokyo/blog/?id=198"
-        },
-        {
-          "label": "参考資料（作品情報）",
-          "url": "https://www.oricon.co.jp/prof/245800/products/1219695/1/"
-        }
-      ],
-      "featured": false
-    },
-    {
       "id": "milestone-2017-10-20-weare-announcement",
       "date": "2017-10-20",
       "artist": "ASKA",
@@ -103618,90 +102795,6 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA 公式ブログ",
           "url": "https://archive.fellows.tokyo/blog/?id=557"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2018-01-20-otomichi-400-recording",
-      "date": "2018-01-20",
-      "artist": "Chage",
-      "category": "milestone",
-      "title": "「Chageの音道」放送400回記念公開収録",
-      "description": "放送400回と60歳の誕生日を記念する公開収録。実際の放送日とは区別する。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "Chage 公式Biography",
-          "url": "https://chage.jp/biography/2018.php"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2018-11-05-the-pride-stage-return",
-      "date": "2018-11-05",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "シンフォニックコンサート「THE PRIDE」でステージ復帰",
-      "description": "東京国際フォーラム ホールAで再始動公演を開催。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "ASKA 公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        },
-        {
-          "label": "公演主催者公式",
-          "url": "https://billboard-cc.com/aska2018"
-        }
-      ],
-      "featured": true
-    },
-    {
-      "id": "milestone-2019-02-06-made-in-aska-band-return",
-      "date": "2019-02-06",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "約6年ぶりのバンドツアー「Made in ASKA」開始",
-      "description": "オリンパスホール八王子から、約5年11カ月ぶりの自身のバンドによるツアーを開始。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "ASKA 公式ブログ",
-          "url": "https://archive.fellows.tokyo/blog/?id=1316"
-        },
-        {
-          "label": "放送局公式",
-          "url": "https://www.fujitv.co.jp/b_hp/190827aska/index.html"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "milestone-2019-06-09-made-in-aska-asia-return",
-      "date": "2019-06-09",
-      "artist": "ASKA",
-      "category": "milestone",
-      "title": "約10年ぶりの海外公演・アジアツアー開始",
-      "description": "台北の台大體育館で公演。公式Biographyで海外公演の間隔を確認。",
-      "status": "historical",
-      "verification": "primary",
-      "sources": [
-        {
-          "label": "ASKA 公式Biography",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        },
-        {
-          "label": "公演主催者公式案内",
-          "url": "https://welcomemusic.kktix.cc/events/aska2019tour"
-        },
-        {
-          "label": "当時の報道（参考資料）",
-          "url": "https://n.yam.com/Article/20190610454927"
         }
       ],
       "featured": false
