@@ -695,7 +695,9 @@ document.addEventListener('DOMContentLoaded',function(){
     const x=node('a','','𝕏 に投稿');x.href='#';x.target='_blank';x.rel='noopener noreferrer';
     x.addEventListener('click',function(ev){
       const share=getShare();if(!share.url){ev.preventDefault();return;}
-      const intent=new URL('https://twitter.com/intent/tweet');intent.searchParams.set('text',share.text);intent.searchParams.set('url',share.url);x.href=intent.href;
+      const intent=new URL('https://twitter.com/intent/tweet');intent.searchParams.set('text',share.text);const sharedUrl=new URL(share.url);
+sharedUrl.searchParams.set('ogp','2');
+intent.searchParams.set('url',sharedUrl.href);x.href=intent.href;
     });
     const b=node('button','','リンクをコピー');b.type='button';
     b.addEventListener('click',function(){copy(getShare().url,wrap);});
