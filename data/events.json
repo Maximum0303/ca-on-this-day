@@ -87800,8 +87800,8 @@
       "id": "release-audit-20261119-2024-1001-ca-streaming-all",
       "date": "2024-10-01",
       "artist": "CHAGE and ASKA",
-      "category": "release",
-      "title": "旧作アルバム・シングルのサブスク配信解禁",
+      "category": "milestone",
+      "title": "CHAGE and ASKA 全楽曲サブスク解禁",
       "status": "released",
       "verification": "primary",
       "releaseTitle": "CHAGE and ASKA旧作アルバム・シングル（配信対象作品）",
@@ -87816,18 +87816,22 @@
         {
           "label": "C&A公式・45周年サブスク解禁案内",
           "url": "https://www.chage-aska.net/information/2024082501.php"
+        },
+        {
+          "label": "ASKA公式サイト｜配信開始のお知らせ",
+          "url": "https://www.fellows.tokyo/news/detail/218"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2024年10月1日、CHAGE and ASKAの『CHAGE and ASKA旧作アルバム・シングル（配信対象作品）』の配信が開始された。"
+      "description": "2024年10月1日、CHAGE and ASKAの『CHAGE and ASKA旧作アルバム・シングル（配信対象作品）』の配信が開始された。\n2024年8月25日のベスト盤『VERY BEST ROLL OVER 20TH』の先行配信に続き、10月1日に残りのアルバム・シングルを主要なサブスクリプションサービスで配信開始。"
     },
     {
       "id": "release-audit-20261119-2024-1224-aska-streaming",
       "date": "2024-12-24",
       "artist": "ASKA",
-      "category": "release",
-      "title": "ヤマハ・ユニバーサル盤ソロ旧作のサブスク配信解禁",
+      "category": "milestone",
+      "title": "ASKAソロ楽曲サブスク解禁",
       "status": "released",
       "verification": "primary",
       "releaseTitle": "ASKAソロ旧作アルバム・シングル（配信対象作品）",
@@ -87838,11 +87842,15 @@
         {
           "label": "ASKA公式Fellows・ソロ楽曲サブスク解禁告知",
           "url": "https://www.fellows.tokyo/news/detail/328"
+        },
+        {
+          "label": "ASKA公式ブログ｜ASKAサブスク解禁",
+          "url": "https://www.fellows.tokyo/blog/detail/376/"
         }
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2024年12月24日、ASKAの『ASKAソロ旧作アルバム・シングル（配信対象作品）』の配信が開始された。"
+      "description": "2024年12月24日、ASKAの『ASKAソロ旧作アルバム・シングル（配信対象作品）』の配信が開始された。\nヤマハおよびユニバーサルミュージックからリリースされたソロ楽曲のサブスク配信開始。本人ブログではアルバム限定の解禁と説明している。全レーベルの作品の解禁を意味しない。"
     },
     {
       "id": "release-audit-ct-20261119-19900829-pcta00060",
