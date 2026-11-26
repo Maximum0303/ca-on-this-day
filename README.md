@@ -1,6 +1,6 @@
 # 今日はC&Aの何の日？
 
-CHAGE and ASKA、Chage、ASKA、MULTI MAXにまつわる過去の出来事を、日付からたどる非公式ファン制作のアーカイブカレンダーです。ライブ、発売・公開、テレビ・ラジオ、記録・記念日、デビュー前のアマチュア活動などを収録しています。
+CHAGE and ASKA、Chage、ASKA、MULTI MAXにまつわる過去の出来事を、日付からたどるファン制作の非公式アーカイブカレンダーです。ライブ、発売・公開、テレビ・ラジオ、記録・記念日、デビュー前のアマチュア活動などを収録しています。
 
 - 公開サイト：<https://maximum0303.github.io/ca-on-this-day/>
 - リポジトリ：<https://github.com/Maximum0303/ca-on-this-day>
