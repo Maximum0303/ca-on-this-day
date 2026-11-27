@@ -53077,7 +53077,7 @@ window.CA_EVENT_DATA = {
       "id": "other-v18216-2009-001",
       "date": "2009-04-12",
       "artist": "Chage",
-      "category": "milestone",
+      "category": "other",
       "title": "写真集『歌写』発売記念サイン会",
       "status": "recorded",
       "verification": "primary",
@@ -70506,7 +70506,7 @@ window.CA_EVENT_DATA = {
       "id": "v14-chage2020-seo",
       "date": "2020-02-16",
       "artist": "Chage",
-      "category": "milestone",
+      "category": "other",
       "title": "瀬尾一三『音楽と契約した男 瀬尾一三』出版記念トークイベント出演",
       "status": "recorded",
       "verification": "primary",
@@ -76764,7 +76764,7 @@ window.CA_EVENT_DATA = {
       "id": "v15-0236",
       "date": "2023-08-25",
       "artist": "CHAGE and ASKA",
-      "category": "other",
+      "category": "milestone",
       "title": "CHAGE and ASKA デビュー44周年",
       "status": "recorded",
       "verification": "primary",
@@ -82172,7 +82172,7 @@ window.CA_EVENT_DATA = {
       "id": "v15-0238",
       "date": "2025-08-25",
       "artist": "CHAGE and ASKA",
-      "category": "other",
+      "category": "milestone",
       "title": "CHAGE and ASKA デビュー46周年",
       "status": "recorded",
       "verification": "primary",
@@ -85449,7 +85449,7 @@ window.CA_EVENT_DATA = {
       "id": "v16-0114",
       "date": "2026-08-25",
       "artist": "CHAGE and ASKA",
-      "category": "other",
+      "category": "milestone",
       "title": "CHAGE and ASKA デビュー47周年",
       "status": "recorded",
       "verification": "primary",
@@ -102224,7 +102224,7 @@ window.CA_EVENT_DATA = {
       "id": "history-v2411-video-03",
       "date": "2019-03-22",
       "artist": "ASKA",
-      "category": "milestone",
+      "category": "other",
       "title": "『ASKA 書きおろし詩集』発売記念 谷川俊太郎との対談映像（完全版）公開",
       "status": "historical",
       "verification": "primary",
@@ -103928,5 +103928,5 @@ window.CA_EVENT_DATA = {
       "description": "1988-02-21、CHAGE and ASKAの『恋人はワイン色／あきらめのBlue Day』が8cm CDで再発売された（S10A-0004）。"
     }
   ],
-  "siteVersion": "2.9.8"
+  "siteVersion": "2.9.9"
 };
