@@ -39,11 +39,11 @@
 <script defer src="ca-ver40.js?v=2.6.1"></script>
 <script defer src="data/review-followup.js?v=2.2.11"></script>
 <script defer src="ca-ver41.js?v=2.4.5"></script>
-<script defer src="ca-ver42.js?v=2.6.1"></script>
+<script defer src="ca-upcoming-v333.js?v=3.3.3"></script>
 <script defer src="ca-ver43.js?v=2.6.1"></script>
 <script defer src="ca-ver44.js"></script>
 <script defer src="ca-ver46.js"></script>
-<script defer src="ca-nav-v210.js?v=3.3.0"></script>
+<script defer src="ca-nav-v333.js?v=3.3.3"></script>
 <script defer src="ca-menu-v224.js?v=2.2.5-navfix"></script>
 <script defer src="ca-search-v225.js?v=3.1.0"></script>
 <script defer src="ca-search-share-v226.js?v=3.0.0"></script>
@@ -97,7 +97,7 @@ body details.ca23-audit>p,body details.ca23-audit>.ca-detail-note{white-space:pr
 @media(max-width:700px){body details.ca23-audit>summary{min-height:36px;padding:9px 3px 9px 0;font-size:12px}}
 .ca-detail-fields dd{white-space:pre-wrap;overflow-wrap:anywhere}
 </style>
-  <script defer src="ca-mobile-fold-v231.js?v=2.3.1"></script>
+  <script defer src="ca-mobile-fold-v333.js?v=3.3.3"></script>
   <script defer src="ca-today-highlight-v232.js?v=2.3.2"></script>
   <script defer src="ca-search-ux-v233.js?v=2.3.7"></script>
   <script defer src="ca-fold-memory-v234.js?v=2.3.5"></script>
@@ -300,7 +300,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
     var version=archive.siteVersion||archive.version||'未設定';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.3.3.2 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.3.3.3 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();
