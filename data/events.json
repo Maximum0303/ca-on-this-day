@@ -916,16 +916,20 @@
       "title": "学園祭コンサート（1980年）",
       "tourId": "school-1980",
       "venue": "東北学院大",
-      "prefecture": "",
+      "prefecture": "宮城県",
       "country": "日本",
       "performanceNo": 1,
       "status": "recorded",
       "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "note": "実際の学内公演会場詳細は未照合。 ／ 地域補完：宮城県。公演一覧の開催地域を照合。学内の具体的な会場は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（公演一覧・開催地域）",
+          "url": "https://ca.ladomi.net/live_ca"
         }
       ],
       "description": "1980年10月17日、CHAGE and ASKAの「学園祭コンサート（1980年）」が東北学院大で開催された。\nこのツアーの第1公演にあたる。"
@@ -938,16 +942,20 @@
       "title": "学園祭コンサート（1980年）",
       "tourId": "school-1980",
       "venue": "上智短期大",
-      "prefecture": "",
+      "prefecture": "神奈川県",
       "country": "日本",
       "performanceNo": 2,
       "status": "recorded",
       "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "note": "実際の学内公演会場詳細は未照合。 ／ 地域補完：神奈川県。公演一覧の開催地域を照合。学内の具体的な会場は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（公演一覧・開催地域）",
+          "url": "https://ca.ladomi.net/live_ca"
         }
       ],
       "description": "1980年10月19日、CHAGE and ASKAの「学園祭コンサート（1980年）」が上智短期大で開催された。\nこのツアーの第2公演にあたる。"
@@ -960,16 +968,20 @@
       "title": "学園祭コンサート（1980年）",
       "tourId": "school-1980",
       "venue": "大妻女子大",
-      "prefecture": "",
+      "prefecture": "東京都",
       "country": "日本",
       "performanceNo": 3,
       "status": "recorded",
       "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "note": "実際の学内公演会場詳細は未照合。 ／ 地域補完：東京都。公演一覧の開催地域を照合。学内の具体的な会場は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（公演一覧・開催地域）",
+          "url": "https://ca.ladomi.net/live_ca"
         }
       ],
       "description": "1980年10月21日、CHAGE and ASKAの「学園祭コンサート（1980年）」が大妻女子大で開催された。\nこのツアーの第3公演にあたる。"
@@ -982,16 +994,20 @@
       "title": "学園祭コンサート（1980年）",
       "tourId": "school-1980",
       "venue": "甲南女子大",
-      "prefecture": "",
+      "prefecture": "兵庫県",
       "country": "日本",
       "performanceNo": 4,
       "status": "recorded",
       "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "note": "実際の学内公演会場詳細は未照合。 ／ 地域補完：兵庫県。公演一覧の開催地域を照合。学内の具体的な会場は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（公演一覧・開催地域）",
+          "url": "https://ca.ladomi.net/live_ca"
         }
       ],
       "description": "1980年10月25日、CHAGE and ASKAの「学園祭コンサート（1980年）」が甲南女子大で開催された。\nこのツアーの第4公演にあたる。"
@@ -1004,16 +1020,20 @@
       "title": "学園祭コンサート（1980年）",
       "tourId": "school-1980",
       "venue": "長崎総化学大",
-      "prefecture": "",
+      "prefecture": "長崎県",
       "country": "日本",
       "performanceNo": 5,
       "status": "recorded",
       "verification": "primary",
-      "note": "大学名は公式HISTORYの表記を使用。正式名称要照合。",
+      "note": "大学名は公式HISTORYの表記を使用。正式名称要照合。 ／ 地域補完：長崎県。公演一覧の開催地域を照合。学内の具体的な会場は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（公演一覧・開催地域）",
+          "url": "https://ca.ladomi.net/live_ca"
         }
       ],
       "description": "1980年10月26日、CHAGE and ASKAの「学園祭コンサート（1980年）」が長崎総化学大で開催された。\nこのツアーの第5公演にあたる。"
@@ -1026,16 +1046,20 @@
       "title": "学園祭コンサート（1980年）",
       "tourId": "school-1980",
       "venue": "福岡工業大",
-      "prefecture": "",
+      "prefecture": "福岡県",
       "country": "日本",
       "performanceNo": 6,
       "status": "recorded",
       "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "note": "実際の学内公演会場詳細は未照合。 ／ 地域補完：福岡県。公演一覧の開催地域を照合。学内の具体的な会場は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（公演一覧・開催地域）",
+          "url": "https://ca.ladomi.net/live_ca"
         }
       ],
       "description": "1980年10月31日、CHAGE and ASKAの「学園祭コンサート（1980年）」が福岡工業大で開催された。\nこのツアーの第6公演にあたる。"
@@ -1048,16 +1072,20 @@
       "title": "学園祭コンサート（1980年）",
       "tourId": "school-1980",
       "venue": "九州女子大",
-      "prefecture": "",
+      "prefecture": "福岡県",
       "country": "日本",
       "performanceNo": 7,
       "status": "recorded",
       "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "note": "実際の学内公演会場詳細は未照合。 ／ 地域補完：福岡県。公演一覧の開催地域を照合。学内の具体的な会場は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（公演一覧・開催地域）",
+          "url": "https://ca.ladomi.net/live_ca"
         }
       ],
       "description": "1980年11月2日、CHAGE and ASKAの「学園祭コンサート（1980年）」が九州女子大で開催された。\nこのツアーの第7公演にあたる。"
@@ -1087,16 +1115,20 @@
       "title": "学園祭コンサート（1980年）",
       "tourId": "school-1980",
       "venue": "山口女子大",
-      "prefecture": "",
+      "prefecture": "山口県",
       "country": "日本",
       "performanceNo": 8,
       "status": "recorded",
       "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "note": "実際の学内公演会場詳細は未照合。 ／ 地域補完：山口県。公演一覧の開催地域を照合。学内の具体的な会場は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（公演一覧・開催地域）",
+          "url": "https://ca.ladomi.net/live_ca"
         }
       ],
       "description": "1980年11月3日、CHAGE and ASKAの「学園祭コンサート（1980年）」が山口女子大で開催された。\nこのツアーの第8公演にあたる。"
@@ -1126,16 +1158,20 @@
       "title": "学園祭コンサート（1980年）",
       "tourId": "school-1980",
       "venue": "鹿児島経済大",
-      "prefecture": "",
+      "prefecture": "鹿児島県",
       "country": "日本",
       "performanceNo": 9,
       "status": "recorded",
       "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "note": "実際の学内公演会場詳細は未照合。 ／ 地域補完：鹿児島県。公演一覧の開催地域を照合。学内の具体的な会場は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（公演一覧・開催地域）",
+          "url": "https://ca.ladomi.net/live_ca"
         }
       ],
       "description": "1980年11月6日、CHAGE and ASKAの「学園祭コンサート（1980年）」が鹿児島経済大で開催された。\nこのツアーの第9公演にあたる。"
@@ -1148,16 +1184,20 @@
       "title": "学園祭コンサート（1980年）",
       "tourId": "school-1980",
       "venue": "共立薬科大",
-      "prefecture": "",
+      "prefecture": "東京都",
       "country": "日本",
       "performanceNo": 10,
       "status": "recorded",
       "verification": "primary",
-      "note": "公式HISTORYには11月7日と11月24日の双方に同校名が掲載。2公演の実施詳細要照合。",
+      "note": "公式HISTORYには11月7日と11月24日の双方に同校名が掲載。2公演の実施詳細要照合。 ／ 地域補完：東京都。公演一覧の開催地域を照合。学内の具体的な会場は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（公演一覧・開催地域）",
+          "url": "https://ca.ladomi.net/live_ca"
         }
       ],
       "description": "1980年11月7日、CHAGE and ASKAの「学園祭コンサート（1980年）」が共立薬科大で開催された。\nこのツアーの第10公演にあたる。"
@@ -1170,16 +1210,20 @@
       "title": "学園祭コンサート（1980年）",
       "tourId": "school-1980",
       "venue": "中京女子大",
-      "prefecture": "",
+      "prefecture": "愛知県",
       "country": "日本",
       "performanceNo": 11,
       "status": "recorded",
       "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "note": "実際の学内公演会場詳細は未照合。 ／ 地域補完：愛知県。公演一覧の開催地域を照合。学内の具体的な会場は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（公演一覧・開催地域）",
+          "url": "https://ca.ladomi.net/live_ca"
         }
       ],
       "description": "1980年11月8日、CHAGE and ASKAの「学園祭コンサート（1980年）」が中京女子大で開催された。\nこのツアーの第11公演にあたる。"
@@ -1192,16 +1236,20 @@
       "title": "学園祭コンサート（1980年）",
       "tourId": "school-1980",
       "venue": "広島文化女子短大",
-      "prefecture": "",
+      "prefecture": "広島県",
       "country": "日本",
       "performanceNo": 12,
       "status": "recorded",
       "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "note": "実際の学内公演会場詳細は未照合。 ／ 地域補完：広島県。公演一覧の開催地域を照合。学内の具体的な会場は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（公演一覧・開催地域）",
+          "url": "https://ca.ladomi.net/live_ca"
         }
       ],
       "description": "1980年11月12日、CHAGE and ASKAの「学園祭コンサート（1980年）」が広島文化女子短大で開催された。\nこのツアーの第12公演にあたる。"
@@ -1231,16 +1279,20 @@
       "title": "学園祭コンサート（1980年）",
       "tourId": "school-1980",
       "venue": "松山商科大",
-      "prefecture": "",
+      "prefecture": "愛媛県",
       "country": "日本",
       "performanceNo": 13,
       "status": "recorded",
       "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "note": "実際の学内公演会場詳細は未照合。 ／ 地域補完：愛媛県。公演一覧の開催地域を照合。学内の具体的な会場は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（公演一覧・開催地域）",
+          "url": "https://ca.ladomi.net/live_ca"
         }
       ],
       "description": "1980年11月19日、CHAGE and ASKAの「学園祭コンサート（1980年）」が松山商科大で開催された。\nこのツアーの第13公演にあたる。"
@@ -1253,16 +1305,20 @@
       "title": "学園祭コンサート（1980年）",
       "tourId": "school-1980",
       "venue": "高知大",
-      "prefecture": "",
+      "prefecture": "高知県",
       "country": "日本",
       "performanceNo": 14,
       "status": "recorded",
       "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "note": "実際の学内公演会場詳細は未照合。 ／ 地域補完：高知県。公演一覧の開催地域を照合。学内の具体的な会場は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（公演一覧・開催地域）",
+          "url": "https://ca.ladomi.net/live_ca"
         }
       ],
       "description": "1980年11月20日、CHAGE and ASKAの「学園祭コンサート（1980年）」が高知大で開催された。\nこのツアーの第14公演にあたる。"
@@ -1335,16 +1391,20 @@
       "title": "学園祭コンサート（1980年）",
       "tourId": "school-1980",
       "venue": "中央大",
-      "prefecture": "",
+      "prefecture": "東京都",
       "country": "日本",
       "performanceNo": 16,
       "status": "recorded",
       "verification": "primary",
-      "note": "都道府県・実際の公演会場詳細は未照合。",
+      "note": "実際の学内公演会場詳細は未照合。 ／ 地域補完：東京都。公演一覧の開催地域を照合。学内の具体的な会場は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1980年学園ツアー",
           "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "参考資料（公演一覧・開催地域）",
+          "url": "https://ca.ladomi.net/live_ca"
         }
       ],
       "description": "1980年11月28日、CHAGE and ASKAの「学園祭コンサート（1980年）」が中央大で開催された。\nこのツアーの第16公演にあたる。"
@@ -42935,7 +42995,7 @@
       "title": "小田和正コンサートへのゲスト出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "飛び入り出演。「YAH YAH YAH」歌唱。会場名は未確認",
+      "note": "飛び入り出演。「YAH YAH YAH」歌唱。会場名は未確認 ／ 地域補完：愛知県。同じ会場名の登録済み公演の地域と照合（36件）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
@@ -42948,7 +43008,8 @@
       ],
       "country": "日本",
       "venue": "名古屋国際会議場 センチュリーホール",
-      "description": "2002年6月22日、ASKAの「小田和正コンサートへのゲスト出演」が名古屋国際会議場 センチュリーホールで開催された。"
+      "description": "2002年6月22日、ASKAの「小田和正コンサートへのゲスト出演」が名古屋国際会議場 センチュリーホールで開催された。",
+      "prefecture": "愛知県"
     },
     {
       "id": "media-v18212-2002-013",
@@ -51725,7 +51786,7 @@
       "title": "ap bank fes ’08",
       "status": "recorded",
       "verification": "primary",
-      "note": "フェス出演",
+      "note": "フェス出演 ／ 地域補完：静岡県。開催地をイベント資料・会場所在地で照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
@@ -51734,11 +51795,16 @@
         {
           "label": "確認資料（修正根拠）",
           "url": "https://ja.wikipedia.org/wiki/Ap_bank_fes_%2708"
+        },
+        {
+          "label": "主催・出演者公式資料（開催地）",
+          "url": "https://www.apbank.jp/about/history/"
         }
       ],
       "country": "日本",
       "venue": "つま恋多目的広場",
-      "description": "2008年7月19日、ASKAの「ap bank fes ’08」がつま恋多目的広場で開催された。"
+      "description": "2008年7月19日、ASKAの「ap bank fes ’08」がつま恋多目的広場で開催された。",
+      "prefecture": "静岡県"
     },
     {
       "id": "live-extra-2008-yuzawa-music-01",
@@ -51748,7 +51814,7 @@
       "title": "第6回湯沢フィールド音楽祭",
       "status": "recorded",
       "verification": "primary",
-      "note": "イベント出演",
+      "note": "イベント出演 ／ 地域補完：新潟県。開催地をイベント資料・会場所在地で照合。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜公演日程・出来事",
@@ -51757,11 +51823,20 @@
         {
           "label": "確認資料（修正根拠）",
           "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E5%B1%B1%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E3%82%B3%E3%83%BC%E3%82%B9%E3%83%88%E3%82%B9%E3%82%AD%E3%83%BC%E5%A0%B4"
+        },
+        {
+          "label": "主催・出演者公式資料（開催地）",
+          "url": "https://www.kayamayuzo.com/news/detail.php?id=1208431861"
+        },
+        {
+          "label": "参考資料（会場所在地）",
+          "url": "https://travel.rakuten.co.jp/ski/144/"
         }
       ],
       "country": "日本",
       "venue": "加山キャプテンコーストスキー場",
-      "description": "2008年7月20日、Chageの「第6回湯沢フィールド音楽祭」が加山キャプテンコーストスキー場で開催された。"
+      "description": "2008年7月20日、Chageの「第6回湯沢フィールド音楽祭」が加山キャプテンコーストスキー場で開催された。",
+      "prefecture": "新潟県"
     },
     {
       "id": "live-extra-2008-oiso-01",
@@ -57237,7 +57312,7 @@
       "title": "LOVE FOR HAITI 出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "単独ツアー以外の出演記録",
+      "note": "単独ツアー以外の出演記録 ／ 地域補完：東京都。同じ会場名の登録済み公演の地域と照合（5件）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -57250,7 +57325,8 @@
       ],
       "country": "日本",
       "venue": "SHIBUYA-AX",
-      "description": "2011年1月12日、Chageの「LOVE FOR HAITI 出演」がSHIBUYA-AXで開催された。"
+      "description": "2011年1月12日、Chageの「LOVE FOR HAITI 出演」がSHIBUYA-AXで開催された。",
+      "prefecture": "東京都"
     },
     {
       "id": "live-v11-chage-earth-2011-002",
@@ -68587,7 +68663,7 @@
       "title": "Dear BEATLES 2019",
       "status": "recorded",
       "verification": "primary",
-      "note": "出演。会場詳細要確認 【2019〜2020年公式点検】Chage公式年譜による公演・出演記録。",
+      "note": "出演。会場詳細要確認 【2019〜2020年公式点検】Chage公式年譜による公演・出演記録。 ／ 地域補完：東京都。同じ会場名の登録済み公演の地域と照合（3件）。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -68600,7 +68676,8 @@
       ],
       "country": "日本",
       "venue": "昭和女子大学 人見記念講堂",
-      "description": "2019年3月10日、Chageの「Dear BEATLES 2019」が昭和女子大学 人見記念講堂で開催された。"
+      "description": "2019年3月10日、Chageの「Dear BEATLES 2019」が昭和女子大学 人見記念講堂で開催された。",
+      "prefecture": "東京都"
     },
     {
       "id": "v13-aska19-made-in-009",
@@ -77043,7 +77120,7 @@
       "title": "ジョナサン・リー初来日公演「有歌之年」ゲスト出演",
       "status": "recorded",
       "verification": "primary",
-      "note": "ゲスト出演。",
+      "note": "ゲスト出演。 ／ 地域補完：東京都。同じ会場名の登録済み公演の地域と照合（52件）。",
       "sources": [
         {
           "label": "主催・アーティスト公式資料",
@@ -77055,7 +77132,8 @@
         }
       ],
       "venue": "日本武道館",
-      "description": "2023年10月3日、ASKAの「ジョナサン・リー初来日公演「有歌之年」ゲスト出演」が日本武道館で開催された。"
+      "description": "2023年10月3日、ASKAの「ジョナサン・リー初来日公演「有歌之年」ゲスト出演」が日本武道館で開催された。",
+      "prefecture": "東京都"
     },
     {
       "id": "v15-0041",
@@ -78083,7 +78161,7 @@
       "title": "佐藤竹善 Presents Cross your fingers（ASKAゲスト出演）",
       "status": "recorded",
       "verification": "primary",
-      "note": "【2023〜2024年記録点検】公式年譜にゲスト出演記録。単独公演ではない。",
+      "note": "【2023〜2024年記録点検】公式年譜にゲスト出演記録。単独公演ではない。 ／ 地域補完：大阪府。同じ会場名の登録済み公演の地域と照合（10件）。",
       "sources": [
         {
           "label": "ASKA公式Biography",
@@ -78096,7 +78174,8 @@
       ],
       "country": "日本",
       "venue": "オリックス劇場",
-      "description": "2024年5月26日、ASKAの「佐藤竹善 Presents Cross your fingers（ASKAゲスト出演）」がオリックス劇場で開催された。"
+      "description": "2024年5月26日、ASKAの「佐藤竹善 Presents Cross your fingers（ASKAゲスト出演）」がオリックス劇場で開催された。",
+      "prefecture": "大阪府"
     },
     {
       "id": "media-v18229-2024-05-31-chage-001",
@@ -78148,7 +78227,7 @@
       "title": "澤野弘之 LIVE [nZk]008（ASKAゲスト出演）",
       "status": "recorded",
       "verification": "primary",
-      "note": "【2023〜2024年記録点検】公式年譜にゲスト出演記録。単独公演ではない。",
+      "note": "【2023〜2024年記録点検】公式年譜にゲスト出演記録。単独公演ではない。 ／ 地域補完：東京都。同じ会場名の登録済み公演の地域と照合（18件）。",
       "sources": [
         {
           "label": "ASKA公式Biography",
@@ -78161,7 +78240,8 @@
       ],
       "country": "日本",
       "venue": "NHKホール",
-      "description": "2024年6月2日、ASKAの「澤野弘之 LIVE [nZk]008（ASKAゲスト出演）」がNHKホールで開催された。"
+      "description": "2024年6月2日、ASKAの「澤野弘之 LIVE [nZk]008（ASKAゲスト出演）」がNHKホールで開催された。",
+      "prefecture": "東京都"
     },
     {
       "id": "media-v18229-2024-06-06-chage-001",
@@ -82699,7 +82779,7 @@
       "title": "八神純子「ヤガ祭り the 7th ～ヤガミグミ Special～」（ASKAシークレットゲスト）",
       "status": "recorded",
       "verification": "primary",
-      "note": "【2025〜2026年記録点検】公式年譜に開催・出演記録。ゲスト・フェス出演を通常単独公演と混同しない。",
+      "note": "【2025〜2026年記録点検】公式年譜に開催・出演記録。ゲスト・フェス出演を通常単独公演と混同しない。 ／ 地域補完：東京都。同じ会場名の登録済み公演の地域と照合（3件）。",
       "sources": [
         {
           "label": "ASKA公式Biography",
@@ -82712,7 +82792,8 @@
       ],
       "country": "日本",
       "venue": "昭和女子大学 人見記念講堂",
-      "description": "2025年10月5日、ASKAが昭和女子大学 人見記念講堂で八神純子「ヤガ祭り the 7th ～ヤガミグミ Special～」（ASKAシークレットゲスト）のステージに立った。 ゲスト・フェス出演を通常単独公演と混同しない。"
+      "description": "2025年10月5日、ASKAが昭和女子大学 人見記念講堂で八神純子「ヤガ祭り the 7th ～ヤガミグミ Special～」（ASKAシークレットゲスト）のステージに立った。 ゲスト・フェス出演を通常単独公演と混同しない。",
+      "prefecture": "東京都"
     },
     {
       "id": "media-v18229-2025-10-06-chage-001",
@@ -103498,5 +103579,5 @@
       ]
     }
   ],
-  "siteVersion": "2.9.4"
+  "siteVersion": "2.9.5"
 }
