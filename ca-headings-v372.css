@@ -1,0 +1,22 @@
+/* Ver.3.7.2 — 大見出しと索引の中見出しの階層 */
+main :is(#calendar,#ca42-upcoming,#browse,#ca372-indices,#ca43-check,#about) > .section-head h2,
+main #ca40-monthly .ca40-heading #ca40-title {
+  font-size:clamp(26px,3vw,32px);line-height:1.35;font-weight:800;letter-spacing:.02em;overflow-wrap:anywhere;
+}
+main #ca372-indices {margin:48px 0 36px;min-width:0;scroll-margin-top:24px;}
+main #ca372-indices > .section-head {margin-bottom:24px;}
+main #ca372-indices > section {margin:22px 0 28px;min-width:0;}
+main #ca372-indices > section:last-child {margin-bottom:0;}
+main #ca372-indices > section > .section-head {margin-bottom:8px;align-items:center;gap:8px 12px;}
+main #ca372-indices > section > .section-head h3 {font-size:clamp(18px,2vw,21px);line-height:1.45;font-weight:700;letter-spacing:.015em;color:var(--ink,#f8f6ef);margin:3px 0 0;overflow-wrap:anywhere;}
+main #ca372-indices > section > .section-head .kicker {font-size:10px;font-weight:500;color:var(--muted,#b3c0d2);}
+main #ca372-indices :is(#ca320-selected,#ca330-selected,#ca340-selected,#ca350-selected) {font-size:16px;line-height:1.5;}
+#ca224-panel .ca224-links a:is([href$="#ca320-index"],[href$="#ca330-index"],[href$="#ca340-index"],[href$="#ca350-index"],[href$="#ca360-index"]) {margin-left:14px;min-height:44px;font-size:13px;}
+@media(max-width:760px){
+ main :is(#calendar,#ca42-upcoming,#browse,#ca372-indices,#ca43-check,#about) > .section-head h2,
+ main #ca40-monthly .ca40-heading #ca40-title {font-size:25px;}
+ main #ca372-indices {margin-top:34px;}
+ main #ca372-indices > .section-head {margin-bottom:18px;}
+ main #ca372-indices > section {margin:18px 0 22px;}
+ main #ca372-indices > section > .section-head h3 {font-size:18px;}
+}
