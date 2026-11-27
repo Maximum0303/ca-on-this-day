@@ -162,6 +162,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
 
 </style>
 <style id="ca251-book-stats-style">#about .about-side{grid-template-columns:repeat(2,minmax(0,1fr))}#about .about-side .stat{min-width:0}#about .about-side .stat span{overflow-wrap:anywhere}</style>
+<link rel="stylesheet" href="ca-heading-v335.css?v=3.3.5">
 </head>
 <body>
 <div class="ambient"></div>
@@ -300,7 +301,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
     var version=archive.siteVersion||archive.version||'未設定';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.3.3.4 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.3.3.5 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();

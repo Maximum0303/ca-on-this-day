@@ -1,0 +1,71 @@
+/* 画面 Ver.3.3.5 — 見出しと開閉操作の視覚的な優先順位。データ・配置・開閉処理は変更しない。 */
+main :is(#ca320-index,#ca330-index,#ca42-upcoming) > .section-head {
+  margin-bottom: 10px;
+  min-width: 0;
+  align-items: center;
+  gap: 8px 14px;
+}
+main :is(#ca320-index,#ca330-index,#ca42-upcoming) > .section-head > div:first-child {min-width:0;}
+main :is(#ca320-index,#ca330-index,#ca42-upcoming) > .section-head h2 {
+  font-size: clamp(22px, 2.5vw, 28px);
+  line-height: 1.4;
+  font-weight: 800;
+  letter-spacing: .015em;
+  color: var(--ink,#f8f6ef);
+  margin: 4px 0 0;
+  overflow-wrap: anywhere;
+}
+main :is(#ca320-index,#ca330-index,#ca42-upcoming) > .section-head .kicker {
+  font-size: 10px;
+  font-weight: 500;
+  color: var(--muted,#b3c0d2);
+}
+main #ca42-upcoming {margin-top: 36px;}
+main #ca42-upcoming > .section-head {
+  padding: 4px 0 4px 13px;
+  border-left: 4px solid var(--gold,#e8bc73);
+}
+main #ca42-upcoming > .section-head h2 {color:var(--gold-light,#f8e2ba);}
+main #ca42-upcoming > .section-head .kicker {color:var(--gold,#e8bc73);}
+main #ca42-upcoming .ca42-total {
+  color:var(--muted,#b3c0d2); font-size:12px; font-weight:400;
+  border:0; background:transparent; padding:3px 0;
+}
+/* ネイティブ details/summary の開閉機能・矢印・キーボード操作を維持。 */
+main :is(#ca320-details,#ca330-details) {border:1px solid rgba(179,192,210,.20);background:transparent;border-radius:9px;}
+main :is(#ca320-details,#ca330-details):not([open]) {border-color:transparent;}
+main :is(#ca320-details,#ca330-details)[open] {background:#172943;}
+main :is(#ca320-details,#ca330-details) > summary {
+  box-sizing:border-box;
+  min-height:44px;
+  padding:9px 11px;
+  width:fit-content;
+  max-width:100%;
+  font-size:13px;
+  font-weight:400;
+  line-height:1.65;
+  color:var(--muted,#b3c0d2);
+  border-radius:6px;
+  background:transparent;
+  overflow-wrap:anywhere;
+  cursor:pointer;
+}
+main :is(#ca320-details,#ca330-details) > summary::marker {color:var(--muted,#b3c0d2);font-size:.85em;}
+main :is(#ca320-details,#ca330-details) > summary:hover {color:var(--ink,#f8f6ef);background:rgba(179,192,210,.07);text-decoration:underline;text-underline-offset:3px;}
+main :is(#ca320-details,#ca330-details) > summary:focus-visible {outline:2px solid var(--gold-light,#f8e2ba);outline-offset:-2px;}
+/* 既存の折りたたみボタンは控えめに。タップ領域は44px以上。 */
+main .ca231-fold-head > button.ca231-fold-toggle {
+  min-width:76px; min-height:44px; padding:6px 10px;
+  color:var(--muted,#b3c0d2); font-size:12px; font-weight:400;
+  background:transparent; border:1px solid rgba(179,192,210,.25);
+}
+main .ca231-fold-head > button.ca231-fold-toggle:hover {color:var(--ink,#f8f6ef);background:rgba(179,192,210,.08);border-color:rgba(179,192,210,.55);}
+main .ca231-fold-head > button.ca231-fold-toggle:focus-visible {outline:2px solid var(--gold-light,#f8e2ba);outline-offset:2px;}
+@media(max-width:760px){
+  main :is(#ca320-index,#ca330-index,#ca42-upcoming) > .section-head h2 {font-size:22px;}
+  main #ca42-upcoming > .section-head.ca231-fold-head {display:grid;grid-template-columns:minmax(0,1fr) auto;gap:4px 10px;}
+  main #ca42-upcoming > .section-head.ca231-fold-head > div:first-child {grid-column:1/-1;}
+  main #ca42-upcoming .ca42-total {white-space:normal;}
+  main #ca42-upcoming {margin-top:30px;}
+  main :is(#ca320-details,#ca330-details) > summary {padding:9px 8px;}
+}
