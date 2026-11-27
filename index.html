@@ -34,7 +34,7 @@
 <link rel="stylesheet" href="ca-final-v300.css?v=3.0.0">
 <script defer src="data/events.js?v=2.9.5"></script>
 <script defer src="ca-search-alias-v310.js?v=3.2.0"></script>
-<script defer src="ca-list-return-v339.js?v=3.3.9"></script>
+<script defer src="ca-list-return-v340.js?v=3.4.0"></script>
 <script defer src="ca-app-v339.js?v=3.3.9"></script>
 <script defer src="ca-day-v339.js?v=3.3.9"></script>
 
@@ -45,7 +45,7 @@
 <script defer src="ca-ver43.js?v=2.6.1"></script>
 <script defer src="ca-ver44.js"></script>
 <script defer src="ca-ver46.js"></script>
-<script defer src="ca-nav-v333.js?v=3.3.3"></script>
+<script defer src="ca-nav-v340.js?v=3.4.0"></script>
 <script defer src="ca-menu-v224.js?v=2.2.5-navfix"></script>
 <script defer src="ca-search-v225.js?v=3.1.0"></script>
 <script defer src="ca-search-share-v339.js?v=3.3.9"></script>
@@ -62,6 +62,7 @@
 <script defer src="ca-live-index-v337.js?v=3.3.7"></script>
 <link rel="stylesheet" href="ca-release-index-v330.css?v=3.3.0">
 <script defer src="ca-release-index-v337.js?v=3.3.7"></script>
+<script defer src="ca-book-index-v340.js?v=3.4.0"></script>
 <style id="ca-year-only-v2029-style">
 .ca260-more{grid-column:1/-1}.ca260-more>summary{cursor:pointer;color:#ffe0a2;padding:10px 0}.ca260-more>.year-only-list{margin-top:8px}.year-only-card .year-only-stamp{font-size:1rem}.year-only-card h3{font-size:1.05rem}
 /* YEAR_ONLY_RECORDS_V2029 */
@@ -166,6 +167,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
 </style>
 <style id="ca251-book-stats-style">#about .about-side{grid-template-columns:repeat(2,minmax(0,1fr))}#about .about-side .stat{min-width:0}#about .about-side .stat span{overflow-wrap:anywhere}</style>
 <link rel="stylesheet" href="ca-heading-v335.css?v=3.3.5">
+<link rel="stylesheet" href="ca-book-index-v340.css?v=3.4.0">
 </head>
 <body>
 <div class="ambient"></div>
@@ -260,6 +262,16 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
       </div></details>
     </section>
 
+    <section id="ca340-index" aria-labelledby="ca340-heading">
+      <div class="section-head"><div><span class="kicker">BOOK &amp; PUBLICATION ARCHIVE INDEX</span><h2 id="ca340-heading">書籍・出版索引</h2></div></div>
+      <details id="ca340-details"><summary>書籍名・出版物の種類・年代から探す</summary><div class="ca340-body">
+        <p>書籍・写真集・楽譜・パンフレット・会報などの登録記録を探せます。</p>
+        <div class="ca340-filters"><label>名義<select id="ca340-artist"><option value="">すべての名義</option></select></label><label>出版物の種類<select id="ca340-type"><option value="">すべての種類</option></select></label><label>年代<select id="ca340-decade"><option value="">すべての年代</option></select></label><label>並び順<select id="ca340-order"><option value="asc">古い順</option><option value="desc">新しい順</option><option value="name">作品名順</option></select></label><label class="ca340-query">キーワード<input type="search" id="ca340-query" placeholder="書籍名・出版社・ISBN・品番など"></label></div>
+        <button type="button" class="ca340-action" id="ca340-reset">条件をクリア</button><p id="ca340-count" aria-live="polite"></p><div id="ca340-groups"></div><button type="button" class="ca340-action" id="ca340-more" hidden>さらに表示</button>
+        <h3 id="ca340-selected" tabindex="-1"></h3><ul id="ca340-records"></ul><button type="button" class="ca340-action" id="ca340-record-more" hidden>さらに記録を表示</button>
+        <p>年だけの記録は月日未詳です。パンフレット等の関連年は発行・発売年を確定するものではありません。分類は索引用の整理で、複数の種類に該当することがあります。版違いは元の表記を保持します。</p>
+      </div></details>
+    </section>
     <section id="browse" class="browse-section">
       <div class="section-head"><div><span class="kicker">02 / EXPLORE THE ARCHIVE</span><h2>出来事を探す</h2><p>ライブ・音楽・映像作品・書籍出版などの記録を横断検索できます。</p></div><span class="record-total" id="record-total">読み込み中</span></div>
 <!-- CA_ARTIST_TAGS_20261124 -->
@@ -304,7 +316,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
     var version=archive.siteVersion||archive.version||'未設定';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.3.3.9 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.3.4.0 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();
