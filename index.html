@@ -97,10 +97,10 @@ body details.ca23-audit>p,body details.ca23-audit>.ca-detail-note{white-space:pr
 @media(max-width:700px){body details.ca23-audit>summary{min-height:36px;padding:9px 3px 9px 0;font-size:12px}}
 .ca-detail-fields dd{white-space:pre-wrap;overflow-wrap:anywhere}
 </style>
-  <script defer src="ca-mobile-fold-v333.js?v=3.3.3"></script>
+  <script defer src="ca-mobile-fold-v336.js?v=3.3.6"></script>
   <script defer src="ca-today-highlight-v232.js?v=2.3.2"></script>
   <script defer src="ca-search-ux-v233.js?v=2.3.7"></script>
-  <script defer src="ca-fold-memory-v234.js?v=2.3.5"></script>
+  <script defer src="ca-fold-memory-v336.js?v=3.3.6"></script>
 <style id="ca235-first-paint-style">
 /* JavaScriptが最初の正しい日付を設定するまで日付ラベルを隠す。位置は確保する。 */
 html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-week,#calendar-title,#selected-date){visibility:hidden!important}
@@ -301,7 +301,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
     var version=archive.siteVersion||archive.version||'未設定';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.3.3.5 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.3.3.6 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();
