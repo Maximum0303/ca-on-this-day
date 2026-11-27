@@ -33,7 +33,7 @@
 <link rel="stylesheet" href="ca-calendar-v212.css?v=2.1.2">
 <link rel="stylesheet" href="ca-final-v300.css?v=3.0.0">
 <script defer src="data/events.js?v=3.0.0"></script>
-<script defer src="ca-search-alias-v310.js?v=3.1.0"></script>
+<script defer src="ca-search-alias-v310.js?v=3.2.0"></script>
 <script defer src="app.js?v=3.1.0"></script>
 <script defer src="ca-ver39.js?v=2.6.3"></script>
 <script defer src="ca-ver40.js?v=2.6.1"></script>
@@ -43,7 +43,7 @@
 <script defer src="ca-ver43.js?v=2.6.1"></script>
 <script defer src="ca-ver44.js"></script>
 <script defer src="ca-ver46.js"></script>
-<script defer src="ca-nav-v210.js"></script>
+<script defer src="ca-nav-v210.js?v=3.2.0"></script>
 <script defer src="ca-menu-v224.js?v=2.2.5-navfix"></script>
 <script defer src="ca-search-v225.js?v=3.1.0"></script>
 <script defer src="ca-search-share-v226.js?v=3.0.0"></script>
@@ -55,6 +55,8 @@
 <script defer src="ca-version-auto-v2214.js?v=2.4.1"></script>
 <script defer src="ca-date-jump-v2215.js?v=2.2.15"></script>
 <script defer src="ca-final-v300.js?v=3.0.0"></script>
+<link rel="stylesheet" href="ca-live-index-v320.css?v=3.2.0">
+<script defer src="ca-live-index-v320.js?v=3.2.0"></script>
 <style id="ca-year-only-v2029-style">
 .ca260-more{grid-column:1/-1}.ca260-more>summary{cursor:pointer;color:#ffe0a2;padding:10px 0}.ca260-more>.year-only-list{margin-top:8px}.year-only-card .year-only-stamp{font-size:1rem}.year-only-card h3{font-size:1.05rem}
 /* YEAR_ONLY_RECORDS_V2029 */
@@ -231,6 +233,16 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
       <div id="year-only-list" class="year-only-list" aria-live="polite"><p>読み込み中…</p></div>
     </section>
     <!-- /YEAR_ONLY_RECORDS_V2029 -->
+    <section id="ca320-index" aria-labelledby="ca320-heading">
+      <div class="section-head"><div><span class="kicker">LIVE ARCHIVE INDEX</span><h2 id="ca320-heading">ライブ索引</h2></div></div>
+      <details id="ca320-details"><summary>ツアー・会場・都道府県から探す</summary><div class="ca320-body">
+        <p>登録されたライブ記録を集計します。開催予定・延期・中止も含む記録件数であり、実施公演数ではありません。</p>
+        <div class="ca320-filters"><label>索引の種類<select id="ca320-mode"><option value="tour">ツアー別</option><option value="venue">会場別</option><option value="pref">都道府県・地域別</option></select></label><label>名義<select id="ca320-artist"><option value="">すべて</option></select></label><label>都道府県・地域<select id="ca320-pref"><option value="">すべて</option></select></label><label class="ca320-query">索引内検索<input id="ca320-query" type="search" placeholder="ツアー名・会場名・地域名など"></label></div>
+        <button id="ca320-reset" class="ca320-action" type="button">条件をクリア</button><p id="ca320-count" role="status"></p><div id="ca320-groups"></div><button type="button" class="ca320-action" id="ca320-group-more" hidden>さらに索引を表示</button>
+        <h3 id="ca320-selected" tabindex="-1"></h3><ul id="ca320-records"></ul><button type="button" class="ca320-action" id="ca320-record-more" hidden>さらに公演を表示</button>
+        <p>ツアーは名義と登録済みツアーIDで分類し、代表タイトルを表示します。会場は地域と名称で分類し、辞書の明確な別名のみ統合します。元の会場表記は各記録に残します。ID・会場・地域の未登録分も別枠に表示します。</p>
+      </div></details>
+    </section>
     <section id="browse" class="browse-section">
       <div class="section-head"><div><span class="kicker">02 / EXPLORE THE ARCHIVE</span><h2>出来事を探す</h2><p>ライブ・音楽・映像作品・書籍出版などの記録を横断検索できます。</p></div><span class="record-total" id="record-total">読み込み中</span></div>
 <!-- CA_ARTIST_TAGS_20261124 -->
@@ -265,7 +277,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
       <div class="disclaimer"><strong>資料の確認について</strong><p>各記録の「資料を見る」から参考資料を確認できます。掲載記録には一次資料で確認したものと、二次資料を基にしたものがあります。資料の照合は継続して行います。開催日・発売日などに誤りが見つかった場合は訂正します。掲載内容は変更される可能性があります。最新情報は公式をご確認ください。</p><p>当サイトはMaximumが運営する非公式ファンサイトであり、アーティスト・所属事務所・関係各社とは関係ありません。資料の権利はそれぞれの権利者に帰属します。</p></div>
     </section>
   </main>
-  <footer class="footer" style="flex-wrap:wrap"><div class="footer-title">今日はC&amp;Aの何の日？<span>Unofficial Fan Project / Created by Maximum</span></div><div class="footer-links"><a href="https://maximum0303.github.io/chage-aska-quiz/" target="_blank" rel="noopener noreferrer">C&amp;A検定 ↗</a><a href="https://maximum0303.github.io/ca-song-map/" target="_blank" rel="noopener noreferrer">楽曲の地図 ↗</a><a href="https://canda.miraheze.org/" target="_blank" rel="noopener noreferrer">アーカイブWiki ↗</a></div><div id="ca-footer-build" aria-label="サイトのバージョン情報" style="width:100%;margin-top:14px;font-size:11px;line-height:1.8;color:var(--muted,#b3c0d2);text-align:right"><strong id="ca-footer-version" style="color:var(--gold-light,#f8e2ba);font-size:12px">画面 Ver.3.1.0</strong><span id="ca-footer-data" style="display:block">登録データ確認中</span></div></footer>
+  <footer class="footer" style="flex-wrap:wrap"><div class="footer-title">今日はC&amp;Aの何の日？<span>Unofficial Fan Project / Created by Maximum</span></div><div class="footer-links"><a href="https://maximum0303.github.io/chage-aska-quiz/" target="_blank" rel="noopener noreferrer">C&amp;A検定 ↗</a><a href="https://maximum0303.github.io/ca-song-map/" target="_blank" rel="noopener noreferrer">楽曲の地図 ↗</a><a href="https://canda.miraheze.org/" target="_blank" rel="noopener noreferrer">アーカイブWiki ↗</a></div><div id="ca-footer-build" aria-label="サイトのバージョン情報" style="width:100%;margin-top:14px;font-size:11px;line-height:1.8;color:var(--muted,#b3c0d2);text-align:right"><strong id="ca-footer-version" style="color:var(--gold-light,#f8e2ba);font-size:12px">画面 Ver.3.2.0</strong><span id="ca-footer-data" style="display:block">登録データ確認中</span></div></footer>
 </div>
 <script id="ca-footer-version-script">
 (function(){
@@ -275,7 +287,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
     var version=archive.siteVersion||archive.version||'未設定';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.3.1.0 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.3.2.0 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();

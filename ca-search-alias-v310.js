@@ -75,5 +75,7 @@ function matches(e,hay,term){
  // 記号だけの検索や短すぎる語には適用しない。
  return k.length>=3 && r.venue.includes(k);
 }
-window.CA_SEARCH_ALIASES=Object.freeze({parse,matches,groupCount:groups.length});
+// 索引用：施設全体と各ホールの混同を避け、完全一致の別名のみ返す。
+function venueGroup(name){const k=key(name),g=lookup.get(k);if(!g||g.field!=='venue'||g.suffixes)return null;return {key:key(g.names[0]),label:g.names[0],names:[...g.names]};}
+window.CA_SEARCH_ALIASES=Object.freeze({parse,matches,venueGroup,groupCount:groups.length});
 })();
