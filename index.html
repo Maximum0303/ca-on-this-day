@@ -32,7 +32,7 @@
 <link rel="stylesheet" href="ca-mobile-v211.css">
 <link rel="stylesheet" href="ca-calendar-v212.css?v=2.1.2">
 <link rel="stylesheet" href="ca-final-v300.css?v=3.0.0">
-<script defer src="data/events.js?v=2.9.8"></script>
+<script defer src="data/events.js?v=2.9.9"></script>
 <script defer src="ca-search-alias-v310.js?v=3.2.0"></script>
 <script defer src="ca-list-return-v360.js?v=3.6.0"></script>
 <script defer src="ca-app-v339.js?v=3.3.9"></script>
@@ -64,7 +64,7 @@
 <script defer src="ca-release-index-v337.js?v=3.3.7"></script>
 <script defer src="ca-book-index-v340.js?v=3.4.0"></script>
 <script defer src="ca-media-index-v352.js?v=3.5.2"></script>
-<script defer src="ca-history-index-v360.js?v=3.6.0"></script>
+<script defer src="ca-history-index-v361.js?v=3.6.1"></script>
 <link rel="stylesheet" href="ca-history-index-v360.css?v=3.6.0">
 <style id="ca-year-only-v2029-style">
 .ca260-more{grid-column:1/-1}.ca260-more>summary{cursor:pointer;color:#ffe0a2;padding:10px 0}.ca260-more>.year-only-list{margin-top:8px}.year-only-card .year-only-stamp{font-size:1rem}.year-only-card h3{font-size:1.05rem}
@@ -288,9 +288,9 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
     </section>
     <section id="ca360-index" aria-labelledby="ca360-heading">
       <div class="section-head"><div><span class="kicker">HISTORY &amp; MILESTONE INDEX</span><h2 id="ca360-heading">歴史・出来事索引</h2></div></div>
-      <details id="ca360-details"><summary>歴史・出来事・関連イベントを年表から探す</summary><div class="ca360-body">
-        <p>登録済みの歴史・出来事、デビュー前の活動、その他の関連イベントを年表形式で表示します。</p>
-        <div class="ca360-filters"><label>名義<select id="ca360-artist"><option value="">すべての名義</option></select></label><label>分類<select id="ca360-category"><option value="">すべての分類</option><option value="milestone">歴史・出来事</option><option value="amateur">デビュー前・アマチュア活動</option><option value="other">その他</option></select></label><label>年代<select id="ca360-decade"><option value="">すべての年代</option></select></label><label>確認区分<select id="ca360-verification"><option value="">すべての確認区分</option><option value="primary">一次資料確認</option><option value="secondary">二次資料確認</option><option value="unknown">未確認・未設定</option></select></label><label>並び順<select id="ca360-order"><option value="asc">古い順</option><option value="desc">新しい順</option></select></label><label class="ca360-query">キーワード<input type="search" id="ca360-query" placeholder="出来事・作品名・受賞・イベントなど" autocomplete="off"></label></div>
+      <details id="ca360-details"><summary>音楽活動の歴史を年表から探す</summary><div class="ca360-body">
+        <p>結成・デビュー・周年・受賞・活動の転機など、歴史・出来事とデビュー前の活動を年表形式で表示します。通常の関連イベントは「出来事を探す」から検索できます。</p>
+        <div class="ca360-filters"><label>名義<select id="ca360-artist"><option value="">すべての名義</option></select></label><label>分類<select id="ca360-category"><option value="">すべての分類</option><option value="milestone">歴史・出来事</option><option value="amateur">デビュー前・アマチュア活動</option></select></label><label>年代<select id="ca360-decade"><option value="">すべての年代</option></select></label><label>確認区分<select id="ca360-verification"><option value="">すべての確認区分</option><option value="primary">一次資料確認</option><option value="secondary">二次資料確認</option><option value="unknown">未確認・未設定</option></select></label><label>並び順<select id="ca360-order"><option value="asc">古い順</option><option value="desc">新しい順</option></select></label><label class="ca360-query">キーワード<input type="search" id="ca360-query" placeholder="出来事・作品名・受賞・イベントなど" autocomplete="off"></label></div>
         <button type="button" class="ca360-action" id="ca360-reset">条件をクリア</button><p id="ca360-count" aria-live="polite">索引を準備中…</p><div id="ca360-list"></div><button type="button" class="ca360-action" id="ca360-more" hidden>さらに表示</button>
         <p>分類・日付・確認区分は元の登録値を使用します。月日未詳の記録は年のみ表示します。予定・延期・中止は実施済みと区別します。すべての歴史的出来事を網羅しているわけではありません。</p>
       </div></details>
