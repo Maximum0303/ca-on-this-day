@@ -103577,7 +103577,59 @@ window.CA_EVENT_DATA = {
           "url": "https://www.fellows.tokyo/blog/detail/970/"
         }
       ]
+    },
+    {
+      "id": "media-296-20260503-nhkbs-tamaki-rebroadcast",
+      "date": "2026-05-03",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "NHK BS「玉置浩二ショー」再放送",
+      "status": "recorded",
+      "verification": "primary",
+      "broadcastStation": "NHK BS",
+      "startTime": "15:30",
+      "endTime": "16:30",
+      "note": "2026年3月17日BSP4K・3月21日BS放送の再放送。ASKAと手嶌葵がゲスト出演。4月15日付の双方の公式告知およびASKAの5月3日当日ブログ（視聴者の放送後の反応を含む）で確認。映像本編は未視聴。",
+      "sources": [
+        {
+          "label": "ASKA公式Fellows：再放送告知",
+          "url": "https://www.fellows.tokyo/news/detail/696"
+        },
+        {
+          "label": "玉置浩二公式：再放送告知",
+          "url": "https://saltmoderate.com/news/detail/20659"
+        },
+        {
+          "label": "ASKA公式ブログ：放送当日の告知",
+          "url": "https://www.fellows.tokyo/blog/detail/1205/"
+        }
+      ],
+      "description": "2026年5月3日、ASKAがゲスト出演したNHK BS「玉置浩二ショー」が15:30～16:30に再放送された。"
+    },
+    {
+      "id": "media-296-20261205-nhkbs-tamaki-rebroadcast",
+      "date": "2026-12-05",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "NHK BS「玉置浩二ショー」再放送",
+      "status": "scheduled",
+      "verification": "primary",
+      "broadcastStation": "NHK BS",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "note": "2026年3月にASKAがゲスト出演した回の再放送予定。2026年11月27日情報追加。2026年11月27日付ASKA公式告知の本文（更新担当者提供）で日程を確認。番組内容は変更される場合がある。放送実施は未確認。",
+      "sources": [
+        {
+          "label": "ASKA公式Fellows：再放送告知",
+          "url": "https://www.fellows.tokyo/news/detail/814"
+        },
+        {
+          "label": "NHK公式：番組サイト",
+          "url": "https://www.web.nhk/tv/pl/series-tep-J74Q5KNRQL"
+        }
+      ],
+      "description": "2026年12月5日、ASKAがゲスト出演したNHK BS「玉置浩二ショー」が13:00～14:00に再放送される予定。"
     }
   ],
-  "siteVersion": "2.9.5"
+  "siteVersion": "2.9.6"
 };
