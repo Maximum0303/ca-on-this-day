@@ -56,9 +56,10 @@
 <script defer src="ca-date-jump-v2215.js?v=2.2.15"></script>
 <script defer src="ca-final-v300.js?v=3.0.0"></script>
 <link rel="stylesheet" href="ca-live-index-v320.css?v=3.2.0">
-<script defer src="ca-live-index-v320.js?v=3.2.2"></script>
+<script defer src="ca-index-return-v337.js?v=3.3.7"></script>
+<script defer src="ca-live-index-v337.js?v=3.3.7"></script>
 <link rel="stylesheet" href="ca-release-index-v330.css?v=3.3.0">
-<script defer src="ca-release-index-v332.js?v=3.3.2"></script>
+<script defer src="ca-release-index-v337.js?v=3.3.7"></script>
 <style id="ca-year-only-v2029-style">
 .ca260-more{grid-column:1/-1}.ca260-more>summary{cursor:pointer;color:#ffe0a2;padding:10px 0}.ca260-more>.year-only-list{margin-top:8px}.year-only-card .year-only-stamp{font-size:1rem}.year-only-card h3{font-size:1.05rem}
 /* YEAR_ONLY_RECORDS_V2029 */
@@ -301,7 +302,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
     var version=archive.siteVersion||archive.version||'未設定';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.3.3.6 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.3.3.7 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();
@@ -342,7 +343,7 @@ document.addEventListener('DOMContentLoaded',function(){
   const all=document.getElementById('all-day');
   if(all){all.click();document.getElementById('browse')?.scrollIntoView({block:'start'});}
   else {const u=new URL(location.href);u.searchParams.delete('event');u.hash='calendar';location.assign(u.href);}
- });section.append(back);
+ });const indexBack=window.CA_INDEX_RETURN?.returnLink();if(indexBack)section.append(indexBack);section.append(back);
  const paper=node('article','ca-detail-paper');const date=String(e.date||'');const m=date.match(/^(\d{4})-(\d{2})-(\d{2})$/);
  const stamp=node('time','ca-detail-date',m?Number(m[1])+'年'+Number(m[2])+'月'+Number(m[3])+'日':(/^\d{4}$/.test(date)?date+'年（月日未詳）':date));
  if(m)stamp.dateTime=date;paper.append(stamp,node('h1','ca-detail-title',e.title||'タイトル未設定'));
