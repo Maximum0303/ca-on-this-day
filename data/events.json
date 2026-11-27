@@ -93447,18 +93447,26 @@
       "date": "2008-10-11",
       "artist": "Chage",
       "category": "media",
-      "title": "NHK「おはようサタデー」Chageゲスト出演",
+      "title": "NHK「おはようサタデー九州沖縄」Chageゲスト出演",
       "status": "recorded",
       "verification": "secondary",
-      "note": "Chageのゲスト出演記録。詳細な番組枠・放送地域は一次資料確認待ち。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。",
+      "note": "Chageのゲスト出演記録。詳細な番組枠・放送地域は一次資料確認待ち。 放送日の根拠は二次資料。放送局の当時の番組表等による一次確認は保留。 ／ 番組名の照合：1993年から2014年まで土曜朝にNHK福岡放送局を拠点として放送された「おはようサタデー九州沖縄」が有力。2008年の別の出演記録にも「おはようサタデー」という略記がある。当時の通常枠は7:36～8:13。2008年10月11日の番組表・出演映像は未確認であり、正式番組名との同一性および当日の実際の放送時間は確定していない。",
       "sources": [
         {
           "label": "参考資料（非公式・放送記録）",
           "url": "https://w.atwiki.jp/cavc/pages/77.html"
+        },
+        {
+          "label": "参考資料（非公式・番組情報）",
+          "url": "https://ja.wikipedia.org/wiki/おはようサタデー九州沖縄"
+        },
+        {
+          "label": "参考資料（非公式・番組名の略記例）",
+          "url": "https://kisch.on.coocan.jp/webaz/webazx/2008.htm"
         }
       ],
-      "broadcastStation": "NHK（詳細未確認）",
-      "description": "2008年10月11日、Chageが出演したテレビ番組「おはようサタデー」がNHK（詳細未確認）で放送された。"
+      "broadcastStation": "NHK総合（九州・沖縄）",
+      "description": "2008年10月11日、ChageがNHKの「おはようサタデー」にゲスト出演したとの二次資料記録がある。NHK総合の地域情報番組「おはようサタデー九州沖縄」とみられるが、当日の番組表・映像は未確認。"
     },
     {
       "id": "media-v215-20081014-collabolabo-18",
@@ -103920,5 +103928,5 @@
       "description": "1988-02-21、CHAGE and ASKAの『恋人はワイン色／あきらめのBlue Day』が8cm CDで再発売された（S10A-0004）。"
     }
   ],
-  "siteVersion": "2.9.7"
+  "siteVersion": "2.9.8"
 }
