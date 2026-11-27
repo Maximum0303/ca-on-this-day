@@ -9980,7 +9980,7 @@
       "releaseTitle": "オンリー・ロンリー",
       "status": "released",
       "verification": "primary",
-      "note": "同時発売シングル\n【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） L-1702（公式製品番号）。後年の再発売盤とは区別。",
+      "note": "同時発売シングル\n【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） L-1702（公式製品番号）。後年の再発売盤とは区別。\n【Ver.2.9.7 規格追補】公式品番L-1702とアナログ盤資料を照合し、EPに分類。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -9989,10 +9989,14 @@
         {
           "label": "公式ディスコグラフィー（製品番号）",
           "url": "https://www.chage-aska.net/discography/single/only_lonely.php"
+        },
+        {
+          "label": "参考資料（非公式・アナログ盤資料）",
+          "url": "https://osaka45studio.higana.jp/chage_and_aska.html"
         }
       ],
       "catalogNumber": "L-1702",
-      "format": "シングル（媒体は未確定）",
+      "format": "7インチシングルレコード（EP）",
       "description": "1985年2月25日、CHAGE and ASKAの『オンリー・ロンリー』が発売された。\n公式ディスコグラフィーや発売元資料で確認されている規格品番はL-1702。"
     },
     {
@@ -10004,7 +10008,7 @@
       "releaseTitle": "誘惑のベルが鳴る",
       "status": "released",
       "verification": "primary",
-      "note": "同時発売シングル\n【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） L-1701（公式製品番号）。後年の再発売盤とは区別。",
+      "note": "同時発売シングル\n【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） L-1701（公式製品番号）。後年の再発売盤とは区別。\n【Ver.2.9.7 規格追補】公式品番L-1701とアナログ盤資料を照合し、EPに分類。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -10013,10 +10017,14 @@
         {
           "label": "公式ディスコグラフィー（製品番号）",
           "url": "https://www.chage-aska.net/discography/single/yuwaku_no_bell_ga_naru.php"
+        },
+        {
+          "label": "参考資料（非公式・アナログ盤資料）",
+          "url": "https://osaka45studio.higana.jp/chage_and_aska.html"
         }
       ],
       "catalogNumber": "L-1701",
-      "format": "シングル（媒体は未確定）",
+      "format": "7インチシングルレコード（EP）",
       "description": "1985年2月25日、CHAGE and ASKAの『誘惑のベルが鳴る』が発売された。\n公式ディスコグラフィーや発売元資料で確認されている規格品番はL-1701。"
     },
     {
@@ -11841,7 +11849,7 @@
       "releaseTitle": "モーニングムーン",
       "status": "released",
       "verification": "secondary",
-      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0067（公式製品番号）。後年の再発売盤とは区別。",
+      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0067（公式製品番号）。後年の再発売盤とは区別。\n【Ver.2.9.7 規格・品番訂正】上記のS10A-0067は後発8cm CDの品番。初発売日のEP品番を7A-0552に変更。旧記載は調査履歴として保持。8cm CD発売日：1988-05-21（二次資料）。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
@@ -11850,11 +11858,17 @@
         {
           "label": "公式・主催者発表",
           "url": "https://www.chage-aska.net/discography/single/morning_moon.php"
+        },
+        {
+          "label": "参考資料（非公式・アナログ盤資料）",
+          "url": "https://osaka45studio.higana.jp/chage_and_aska.html"
         }
       ],
-      "catalogNumber": "S10A-0067",
-      "format": "シングル（媒体は未確定）",
-      "description": "1986年2月5日、CHAGE and ASKAの『モーニングムーン』が発売された。\n公式ディスコグラフィーや発売元資料で確認されている規格品番はS10A-0067。"
+      "catalogNumber": "7A-0552",
+      "format": "7インチシングルレコード（EP）",
+      "description": "1986年2月5日、CHAGE and ASKAの『モーニングムーン』が発売された。\n初発売時のEP品番は7A-0552（二次資料）。8cm CDは後日の別記録。",
+      "catalogNumberVerification": "secondary",
+      "catalogNumberSourceUrl": "https://osaka45studio.higana.jp/chage_and_aska.html"
     },
     {
       "id": "media-v18-1986-004",
@@ -12346,7 +12360,7 @@
       "releaseTitle": "黄昏を待たずに",
       "status": "released",
       "verification": "secondary",
-      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0068（公式製品番号）。後年の再発売盤とは区別。",
+      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0068（公式製品番号）。後年の再発売盤とは区別。\n【Ver.2.9.7 規格・品番訂正】上記のS10A-0068は後発8cm CDの品番。初発売日のEP品番を7A-0579に変更。旧記載は調査履歴として保持。8cm CD発売日：1988-05-21（二次資料）。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
@@ -12355,11 +12369,17 @@
         {
           "label": "公式・主催者発表",
           "url": "https://www.chage-aska.net/discography/single/tasogare_wo_matazuni.php"
+        },
+        {
+          "label": "参考資料（非公式・アナログ盤資料）",
+          "url": "https://osaka45studio.higana.jp/chage_and_aska.html"
         }
       ],
-      "catalogNumber": "S10A-0068",
-      "format": "シングル（媒体は未確定）",
-      "description": "1986年5月21日、CHAGE and ASKAの『黄昏を待たずに』が発売された。\n公式ディスコグラフィーや発売元資料で確認されている規格品番はS10A-0068。"
+      "catalogNumber": "7A-0579",
+      "format": "7インチシングルレコード（EP）",
+      "description": "1986年5月21日、CHAGE and ASKAの『黄昏を待たずに』が発売された。\n初発売時のEP品番は7A-0579（二次資料）。8cm CDは後日の別記録。",
+      "catalogNumberVerification": "secondary",
+      "catalogNumberSourceUrl": "https://osaka45studio.higana.jp/chage_and_aska.html"
     },
     {
       "id": "live-big-explosion-1986-010",
@@ -13013,7 +13033,7 @@
       "releaseTitle": "Count Down",
       "status": "released",
       "verification": "primary",
-      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0069（公式製品番号）。後年の再発売盤とは区別。",
+      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0069（公式製品番号）。後年の再発売盤とは区別。\n【Ver.2.9.7 規格・品番訂正】上記のS10A-0069は後発8cm CDの品番。初発売日のEP品番を7A-0616に変更。旧記載は調査履歴として保持。8cm CD発売日：1988-05-21（二次資料）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -13022,11 +13042,17 @@
         {
           "label": "公式ディスコグラフィー（製品番号）",
           "url": "https://www.chage-aska.net/discography/single/count_down.php"
+        },
+        {
+          "label": "参考資料（非公式・アナログ盤資料）",
+          "url": "https://osaka45studio.higana.jp/chage_and_aska.html"
         }
       ],
-      "catalogNumber": "S10A-0069",
-      "format": "シングル（媒体は未確定）",
-      "description": "1986年8月21日、CHAGE and ASKAの『Count Down』が発売された。\n公式ディスコグラフィーや発売元資料で確認されている規格品番はS10A-0069。"
+      "catalogNumber": "7A-0616",
+      "format": "7インチシングルレコード（EP）",
+      "description": "1986年8月21日、CHAGE and ASKAの『Count Down』が発売された。\n初発売時のEP品番は7A-0616（二次資料）。8cm CDは後日の別記録。",
+      "catalogNumberVerification": "secondary",
+      "catalogNumberSourceUrl": "https://osaka45studio.higana.jp/chage_and_aska.html"
     },
     {
       "id": "live-summer-explosion-1986-004",
@@ -13421,7 +13447,7 @@
       "releaseTitle": "指環が泣いた",
       "status": "released",
       "verification": "primary",
-      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0070（公式製品番号）。後年の再発売盤とは区別。",
+      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0070（公式製品番号）。後年の再発売盤とは区別。\n【Ver.2.9.7 規格・品番訂正】上記のS10A-0070は後発8cm CDの品番。初発売日のEP品番を7A-0662に変更。旧記載は調査履歴として保持。8cm CD発売日：1988-05-21（二次資料）。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -13430,11 +13456,17 @@
         {
           "label": "公式ディスコグラフィー（製品番号）",
           "url": "https://www.chage-aska.net/discography/single/yubiwaga_naita.php"
+        },
+        {
+          "label": "参考資料（非公式・アナログ盤資料）",
+          "url": "https://osaka45studio.higana.jp/chage_and_aska.html"
         }
       ],
-      "catalogNumber": "S10A-0070",
-      "format": "シングル（媒体は未確定）",
-      "description": "1986年11月21日、CHAGE and ASKAの『指環が泣いた』が発売された。\n公式ディスコグラフィーや発売元資料で確認されている規格品番はS10A-0070。"
+      "catalogNumber": "7A-0662",
+      "format": "7インチシングルレコード（EP）",
+      "description": "1986年11月21日、CHAGE and ASKAの『指環が泣いた』が発売された。\n初発売時のEP品番は7A-0662（二次資料）。8cm CDは後日の別記録。",
+      "catalogNumberVerification": "secondary",
+      "catalogNumberSourceUrl": "https://osaka45studio.higana.jp/chage_and_aska.html"
     },
     {
       "id": "media-v18-1986-032",
@@ -13985,7 +14017,7 @@
       "releaseTitle": "SAILOR MAN",
       "status": "released",
       "verification": "secondary",
-      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0071（公式製品番号）。後年の再発売盤とは区別。",
+      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0071（公式製品番号）。後年の再発売盤とは区別。\n【Ver.2.9.7 規格・品番訂正】上記のS10A-0071は後発8cm CDの品番。初発売日のEP品番を7A-0711に変更。旧記載は調査履歴として保持。8cm CD発売日：1988-05-21（二次資料）。",
       "sources": [
         {
           "label": "参考資料（非公式・作品情報）",
@@ -13994,11 +14026,21 @@
         {
           "label": "公式・主催者発表",
           "url": "https://www.chage-aska.net/discography/single/sailor_man.php"
+        },
+        {
+          "label": "参考資料（非公式・アナログ盤資料）",
+          "url": "https://osaka45studio.higana.jp/chage_and_aska.html"
+        },
+        {
+          "label": "参考資料（流通資料・EP品番）",
+          "url": "https://www.fanfan1.com/products/detail/681611"
         }
       ],
-      "catalogNumber": "S10A-0071",
-      "format": "シングル（媒体は未確定）",
-      "description": "1987年4月21日、CHAGE and ASKAの『SAILOR MAN』が発売された。\n公式ディスコグラフィーや発売元資料で確認されている規格品番はS10A-0071。"
+      "catalogNumber": "7A-0711",
+      "format": "7インチシングルレコード（EP）",
+      "description": "1987年4月21日、CHAGE and ASKAの『SAILOR MAN』が発売された。\n初発売時のEP品番は7A-0711（二次資料）。8cm CDは後日の別記録。",
+      "catalogNumberVerification": "secondary",
+      "catalogNumberSourceUrl": "https://www.fanfan1.com/products/detail/681611"
     },
     {
       "id": "live-we-shall-return-1987-001",
@@ -15364,17 +15406,23 @@
       "title": "『ロマンシングヤード／Mr.ASIA』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：シングル。初発売。『Mr.ASIA』はカップリング曲名であり、同名アルバムの発売とは別。\n【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0072（公式製品番号）。後年の再発売盤とは区別。",
+      "note": "作品形態：シングル。初発売。『Mr.ASIA』はカップリング曲名であり、同名アルバムの発売とは別。\n【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0072（公式製品番号）。後年の再発売盤とは区別。\n【Ver.2.9.7 規格・品番訂正】上記のS10A-0072は後発8cm CDの品番。初発売日のEP品番を7A-0776に変更。旧記載は調査履歴として保持。8cm CD発売日：1988-05-21（二次資料）。",
       "sources": [
         {
           "label": "C&A公式ディスコグラフィー｜ロマンシングヤード",
           "url": "https://www.chage-aska.net/discography/single/romancing_yard.php"
+        },
+        {
+          "label": "参考資料（非公式・アナログ盤資料）",
+          "url": "https://osaka45studio.higana.jp/chage_and_aska.html"
         }
       ],
-      "catalogNumber": "S10A-0072",
-      "format": "シングル（媒体は未確定）",
+      "catalogNumber": "7A-0776",
+      "format": "7インチシングルレコード（EP）",
       "releaseTitle": "ロマンシングヤード／Mr.ASIA",
-      "description": "1987年10月5日、CHAGE and ASKAの『ロマンシングヤード／Mr.ASIA』が発売された。\n公式ディスコグラフィーや発売元資料で確認されている規格品番はS10A-0072。"
+      "description": "1987年10月5日、CHAGE and ASKAの『ロマンシングヤード／Mr.ASIA』が発売された。\n初発売時のEP品番は7A-0776（二次資料）。8cm CDは後日の別記録。",
+      "catalogNumberVerification": "secondary",
+      "catalogNumberSourceUrl": "https://osaka45studio.higana.jp/chage_and_aska.html"
     },
     {
       "id": "media-v18-1987-020",
@@ -16008,17 +16056,27 @@
       "title": "『恋人はワイン色／あきらめのBlue Day』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：シングル。初発売。B面曲も公式ディスコグラフィーに従って記載。\n【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0004（公式製品番号）。後年の再発売盤とは区別。",
+      "note": "作品形態：シングル。初発売。B面曲も公式ディスコグラフィーに従って記載。\n【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0004（公式製品番号）。後年の再発売盤とは区別。\n【Ver.2.9.7 規格・品番訂正】上記のS10A-0004は後発8cm CDの品番。初発売日のEP品番を7A-0812に変更。旧記載は調査履歴として保持。8cm CD発売日：1988-02-21（二次資料）。",
       "sources": [
         {
           "label": "C&A公式ディスコグラフィー｜恋人はワイン色",
           "url": "https://www.chage-aska.net/discography/single/koibito_ha_wine_iro.php"
+        },
+        {
+          "label": "参考資料（非公式・アナログ盤資料）",
+          "url": "https://osaka45studio.higana.jp/chage_and_aska.html"
+        },
+        {
+          "label": "参考資料（流通資料・EP品番）",
+          "url": "https://www.stereo-records.com/detail.php?itemCd=88178"
         }
       ],
-      "catalogNumber": "S10A-0004",
-      "format": "シングル（媒体は未確定）",
+      "catalogNumber": "7A-0812",
+      "format": "7インチシングルレコード（EP）",
       "releaseTitle": "恋人はワイン色／あきらめのBlue Day",
-      "description": "1988年2月5日、CHAGE and ASKAの『恋人はワイン色／あきらめのBlue Day』が発売された。\n公式ディスコグラフィーや発売元資料で確認されている規格品番はS10A-0004。"
+      "description": "1988年2月5日、CHAGE and ASKAの『恋人はワイン色／あきらめのBlue Day』が発売された。\n初発売時のEP品番は7A-0812（二次資料）。8cm CDは後日の別記録。",
+      "catalogNumberVerification": "secondary",
+      "catalogNumberSourceUrl": "https://www.stereo-records.com/detail.php?itemCd=88178"
     },
     {
       "id": "media-v18-1988-004",
@@ -16982,7 +17040,7 @@
       "title": "『MIDNIGHT 2 CALL』発売",
       "status": "released",
       "verification": "primary",
-      "note": "作品形態：シングル。飛鳥涼名義のシングル。公式HISTORYの発売日による。\n【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0143（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。",
+      "note": "作品形態：シングル。飛鳥涼名義のシングル。公式HISTORYの発売日による。\n【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S10A-0143（品番は二次資料）。後年の再発売盤とは区別。媒体ごとの発売日をすべて一次資料で確定した意味ではありません。\n【Ver.2.9.7 規格追補】EP（7A-0875）と8cm CD（S10A-0143）はいずれも1988年7月21日とする流通・商品資料を確認。規格別の根拠は二次資料。",
       "sources": [
         {
           "label": "C&A公式HISTORY｜1978〜1989年",
@@ -16991,12 +17049,22 @@
         {
           "label": "参考資料（非公式・規格品番）",
           "url": "https://ototoy.jp/_/default/p/2483476"
+        },
+        {
+          "label": "参考資料（EP品番・発売日）",
+          "url": "https://www.oricon.co.jp/prof/245800/products/26276/1/"
+        },
+        {
+          "label": "参考資料（8cm CD発売日・品番）",
+          "url": "https://tower.jp/artist/discography/254933?format=132"
         }
       ],
-      "catalogNumber": "S10A-0143",
-      "format": "シングル（媒体は未確定）",
+      "catalogNumber": "7A-0875 / S10A-0143",
+      "format": "7インチシングルレコード（EP）＋8cm CD",
       "releaseTitle": "MIDNIGHT 2 CALL",
-      "description": "1988年7月21日、ASKAの『MIDNIGHT 2 CALL』が発売された。\n規格品番としてS10A-0143が記載されている。"
+      "description": "1988年7月21日、ASKAの『MIDNIGHT 2 CALL』が発売された。\nEP：7A-0875／8cm CD：S10A-0143（規格別の発売日・品番は二次資料）。",
+      "catalogNumberVerification": "secondary",
+      "catalogNumberSourceUrl": "https://www.oricon.co.jp/prof/245800/products/26276/1/"
     },
     {
       "id": "media-v18-1988-016",
@@ -19267,7 +19335,7 @@
       "releaseTitle": "LOVE SONG",
       "status": "released",
       "verification": "primary",
-      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S9A-11022（公式製品番号）。後年の再発売盤とは区別。",
+      "note": "【1985〜1989年・初発売規格品番補完】 シングル（媒体は未確定） S9A-11022（公式製品番号）。後年の再発売盤とは区別。\n【Ver.2.9.7 規格追補】1989年6月21日は8cm CD（S9A-11022）の発売日。7インチ盤（6A-1016）の流通・見本盤も確認できるが、市販発売日を確定できないため、この日の規格に加えず別記録も作成しない。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式サイト｜HISTORY",
@@ -19276,10 +19344,22 @@
         {
           "label": "公式ディスコグラフィー（製品番号）",
           "url": "https://www.chage-aska.net/discography/single/love_song.php"
+        },
+        {
+          "label": "参考資料（CD発売日・品番）",
+          "url": "https://contents.oricon.co.jp/prof/4069/products/215375/1/"
+        },
+        {
+          "label": "参考資料（7インチ盤・現物流通情報）",
+          "url": "https://diskunion-unionrecordshinjuku.blog.jp/archives/18217225.html"
+        },
+        {
+          "label": "参考資料（7インチ見本盤）",
+          "url": "https://diskunion-ochanomizuekimae.blog.jp/archives/27257297.html"
         }
       ],
       "catalogNumber": "S9A-11022",
-      "format": "シングル（媒体は未確定）",
+      "format": "8cm CD",
       "description": "1989年6月21日、CHAGE and ASKAの『LOVE SONG』が発売された。\n公式ディスコグラフィーや発売元資料で確認されている規格品番はS9A-11022。"
     },
     {
@@ -32154,17 +32234,22 @@
       "title": "中国盤アルバム『倆心知』発売",
       "status": "released",
       "verification": "primary",
-      "note": "中国市場向けのアルバム。公式HISTORYに掲載された発売日。",
+      "note": "中国市場向けのアルバム。公式HISTORYに掲載された発売日。\n【Ver.2.9.7 規格追補】中国盤CDの存在は流通資料と更新担当者の判断に基づく。1995年12月20日の発売日は公式HISTORY。中国盤の品番および規格別発売日の一次資料は未確認のため、品番は空欄維持。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY｜1995〜1996年",
           "url": "https://www.chage-aska.net/history/1990.php"
+        },
+        {
+          "label": "参考資料（流通資料・中国盤CD）",
+          "url": "https://www.artistshop.jp/index.php?category_id=5774&dispatch=categories.view&layout=products_without_options&sort_by=price&sort_order=asc"
         }
       ],
       "catalogNumberStatus": "needs_verification",
-      "catalogNumberStatusNote": "物理商品か媒体未詳の記録。該当する初発売・再発売・規格を原典で照合するまで空欄維持。",
+      "catalogNumberStatusNote": "中国盤CDの存在は流通資料と更新担当者の判断に基づく。1995年12月20日の発売日は公式HISTORY。中国盤の品番および規格別発売日の一次資料は未確認のため、品番は空欄維持。",
       "releaseTitle": "倆心知",
-      "description": "1995年12月20日、CHAGE and ASKAの『倆心知』が発売された。"
+      "description": "1995年12月20日、CHAGE and ASKAの『倆心知』が発売された。",
+      "format": "CD"
     },
     {
       "id": "live-mission-impossible-1995-1996-044",
@@ -103629,7 +103714,211 @@
         }
       ],
       "description": "2026年12月5日、ASKAがゲスト出演したNHK BS「玉置浩二ショー」が13:00～14:00に再放送される予定。"
+    },
+    {
+      "id": "release-297-cd-s10a-0067",
+      "date": "1988-05-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『モーニングムーン』8cm CD再発売",
+      "releaseTitle": "モーニングムーン",
+      "status": "released",
+      "verification": "secondary",
+      "releaseType": "reissue",
+      "format": "8cm CD",
+      "catalogNumber": "S10A-0067",
+      "catalogNumberVerification": "secondary",
+      "catalogNumberSourceUrl": "https://tower.jp/item/552358",
+      "parentReleaseId": "release-earlyyears-02",
+      "note": "初発売（EP：1986-02-05、7A-0552）とは別の8cm CD発売記録。CD発売日は商品資料による。旧記録に記載されていたCD品番を移管。発売日と品番の一次資料による再確認は今後の課題。",
+      "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.chage-aska.net/discography/single/morning_moon.php"
+        },
+        {
+          "label": "参考資料（8cm CD発売日・商品情報）",
+          "url": "https://tower.jp/item/552358"
+        }
+      ],
+      "description": "1988-05-21、CHAGE and ASKAの『モーニングムーン』が8cm CDで再発売された（S10A-0067）。"
+    },
+    {
+      "id": "release-297-cd-s10a-0068",
+      "date": "1988-05-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『黄昏を待たずに』8cm CD再発売",
+      "releaseTitle": "黄昏を待たずに",
+      "status": "released",
+      "verification": "secondary",
+      "releaseType": "reissue",
+      "format": "8cm CD",
+      "catalogNumber": "S10A-0068",
+      "catalogNumberVerification": "secondary",
+      "catalogNumberSourceUrl": "https://contents.oricon.co.jp/prof/4069/products/215015/1/",
+      "parentReleaseId": "release-earlyyears-04",
+      "note": "初発売（EP：1986-05-21、7A-0579）とは別の8cm CD発売記録。CD発売日は商品資料による。旧記録に記載されていたCD品番を移管。発売日と品番の一次資料による再確認は今後の課題。",
+      "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.chage-aska.net/discography/single/tasogare_wo_matazuni.php"
+        },
+        {
+          "label": "参考資料（8cm CD発売日・商品情報）",
+          "url": "https://contents.oricon.co.jp/prof/4069/products/215015/1/"
+        }
+      ],
+      "description": "1988-05-21、CHAGE and ASKAの『黄昏を待たずに』が8cm CDで再発売された（S10A-0068）。"
+    },
+    {
+      "id": "release-297-cd-s10a-0069",
+      "date": "1988-05-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『Count Down』8cm CD再発売",
+      "releaseTitle": "Count Down",
+      "status": "released",
+      "verification": "secondary",
+      "releaseType": "reissue",
+      "format": "8cm CD",
+      "catalogNumber": "S10A-0069",
+      "catalogNumberVerification": "secondary",
+      "catalogNumberSourceUrl": "https://contents.oricon.co.jp/prof/4069/products/215016/1/",
+      "parentReleaseId": "release-v04-count-down-1986",
+      "note": "初発売（EP：1986-08-21、7A-0616）とは別の8cm CD発売記録。CD発売日は商品資料による。旧記録に記載されていたCD品番を移管。発売日と品番の一次資料による再確認は今後の課題。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/count_down.php"
+        },
+        {
+          "label": "参考資料（8cm CD発売日・商品情報）",
+          "url": "https://contents.oricon.co.jp/prof/4069/products/215016/1/"
+        }
+      ],
+      "description": "1988-05-21、CHAGE and ASKAの『Count Down』が8cm CDで再発売された（S10A-0069）。"
+    },
+    {
+      "id": "release-297-cd-s10a-0070",
+      "date": "1988-05-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『指環が泣いた』8cm CD再発売",
+      "releaseTitle": "指環が泣いた",
+      "status": "released",
+      "verification": "secondary",
+      "releaseType": "reissue",
+      "format": "8cm CD",
+      "catalogNumber": "S10A-0070",
+      "catalogNumberVerification": "secondary",
+      "catalogNumberSourceUrl": "https://books.rakuten.co.jp/rb/3904458/",
+      "parentReleaseId": "release-v04-yubiwa-ga-naita-1986",
+      "note": "初発売（EP：1986-11-21、7A-0662）とは別の8cm CD発売記録。CD発売日は商品資料による。旧記録に記載されていたCD品番を移管。発売日と品番の一次資料による再確認は今後の課題。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式HISTORY",
+          "url": "https://www.chage-aska.net/history/"
+        },
+        {
+          "label": "公式ディスコグラフィー（製品番号）",
+          "url": "https://www.chage-aska.net/discography/single/yubiwaga_naita.php"
+        },
+        {
+          "label": "参考資料（8cm CD発売日・商品情報）",
+          "url": "https://books.rakuten.co.jp/rb/3904458/"
+        }
+      ],
+      "description": "1988-05-21、CHAGE and ASKAの『指環が泣いた』が8cm CDで再発売された（S10A-0070）。"
+    },
+    {
+      "id": "release-297-cd-s10a-0071",
+      "date": "1988-05-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『SAILOR MAN』8cm CD再発売",
+      "releaseTitle": "SAILOR MAN",
+      "status": "released",
+      "verification": "secondary",
+      "releaseType": "reissue",
+      "format": "8cm CD",
+      "catalogNumber": "S10A-0071",
+      "catalogNumberVerification": "secondary",
+      "catalogNumberSourceUrl": "https://www.suruga-ya.jp/search?category=&search_word=%E3%83%81%E3%83%A3%E3%82%B2%26%E9%A3%9B%E9%B3%A5",
+      "parentReleaseId": "release-earlyyears-05",
+      "note": "初発売（EP：1987-04-21、7A-0711）とは別の8cm CD発売記録。CD発売日は商品資料による。旧記録に記載されていたCD品番を移管。発売日と品番の一次資料による再確認は今後の課題。",
+      "sources": [
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.chage-aska.net/discography/single/sailor_man.php"
+        },
+        {
+          "label": "参考資料（8cm CD発売日・商品情報）",
+          "url": "https://www.suruga-ya.jp/search?category=&search_word=%E3%83%81%E3%83%A3%E3%82%B2%26%E9%A3%9B%E9%B3%A5"
+        }
+      ],
+      "description": "1988-05-21、CHAGE and ASKAの『SAILOR MAN』が8cm CDで再発売された（S10A-0071）。"
+    },
+    {
+      "id": "release-297-cd-s10a-0072",
+      "date": "1988-05-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『ロマンシングヤード／Mr.ASIA』8cm CD再発売",
+      "releaseTitle": "ロマンシングヤード／Mr.ASIA",
+      "status": "released",
+      "verification": "secondary",
+      "releaseType": "reissue",
+      "format": "8cm CD",
+      "catalogNumber": "S10A-0072",
+      "catalogNumberVerification": "secondary",
+      "catalogNumberSourceUrl": "https://contents.oricon.co.jp/prof/4069/products/215019/1/",
+      "parentReleaseId": "release-audit-v202-20261118-ca-romancing-yard-single",
+      "note": "初発売（EP：1987-10-05、7A-0776）とは別の8cm CD発売記録。CD発売日は商品資料による。旧記録に記載されていたCD品番を移管。発売日と品番の一次資料による再確認は今後の課題。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜ロマンシングヤード",
+          "url": "https://www.chage-aska.net/discography/single/romancing_yard.php"
+        },
+        {
+          "label": "参考資料（8cm CD発売日・商品情報）",
+          "url": "https://contents.oricon.co.jp/prof/4069/products/215019/1/"
+        }
+      ],
+      "description": "1988-05-21、CHAGE and ASKAの『ロマンシングヤード／Mr.ASIA』が8cm CDで再発売された（S10A-0072）。"
+    },
+    {
+      "id": "release-297-cd-s10a-0004",
+      "date": "1988-02-21",
+      "artist": "CHAGE and ASKA",
+      "category": "release",
+      "title": "『恋人はワイン色／あきらめのBlue Day』8cm CD再発売",
+      "releaseTitle": "恋人はワイン色／あきらめのBlue Day",
+      "status": "released",
+      "verification": "secondary",
+      "releaseType": "reissue",
+      "format": "8cm CD",
+      "catalogNumber": "S10A-0004",
+      "catalogNumberVerification": "secondary",
+      "catalogNumberSourceUrl": "https://store-tsutaya.tsite.jp/search/item/sell_cd/20009385/4988013000438",
+      "parentReleaseId": "release-audit-v202-20261118-ca-koibito-wine-single",
+      "note": "初発売（EP：1988-02-05、7A-0812）とは別の8cm CD発売記録。CD発売日は商品資料による。旧記録に記載されていたCD品番を移管。発売日と品番の一次資料による再確認は今後の課題。",
+      "sources": [
+        {
+          "label": "C&A公式ディスコグラフィー｜恋人はワイン色",
+          "url": "https://www.chage-aska.net/discography/single/koibito_ha_wine_iro.php"
+        },
+        {
+          "label": "参考資料（8cm CD発売日・商品情報）",
+          "url": "https://store-tsutaya.tsite.jp/search/item/sell_cd/20009385/4988013000438"
+        }
+      ],
+      "description": "1988-02-21、CHAGE and ASKAの『恋人はワイン色／あきらめのBlue Day』が8cm CDで再発売された（S10A-0004）。"
     }
   ],
-  "siteVersion": "2.9.6"
+  "siteVersion": "2.9.7"
 }
