@@ -1,7 +1,7 @@
 window.CA_EVENT_DATA = {
   "schemaVersion": 1,
   "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2027年の公式発表済み予定を追加。開催予定の記録は日付経過のみで開催済みと断定せず、延期・中止と区別して表示します。既存の記録の確認日・履歴はそのまま保存しています。",
-  "lastUpdated": "2026-11-27",
+  "lastUpdated": "2026-11-28",
   "events": [
     {
       "id": "milestone-1978-popcon15-formation-yearonly",
@@ -57805,7 +57805,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
-      "description": "2011年4月2日、CHAGE and ASKAの『アイのうた～東日本大震災チャリティ・アルバム』の配信が開始された。"
+      "description": "2011年4月2日、CHAGE and ASKAの『アイのうた～東日本大震災チャリティ・アルバム』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v11-release-002",
@@ -57826,7 +57827,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
-      "description": "2011年4月26日、ASKAの『廃墟の鳩』の配信が開始された。"
+      "description": "2011年4月26日、ASKAの『廃墟の鳩』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v11-release-003",
@@ -57847,7 +57849,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
-      "description": "2011年4月26日、ASKAの『上を向いて歩こう』の配信が開始された。\n新録カバー「廃墟の鳩」「上を向いて歩こう」の配信で「いま歌う」シリーズが始まった。"
+      "description": "2011年4月26日、ASKAの『上を向いて歩こう』の配信が開始された。\n新録カバー「廃墟の鳩」「上を向いて歩こう」の配信で「いま歌う」シリーズが始まった。",
+      "streamType": "music"
     },
     {
       "id": "v11-other-002",
@@ -58108,7 +58111,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
-      "description": "2011年6月11日、Chageの『3月のタンポポ』の配信が開始された。\n西川進のチャリティー楽曲に歌唱で参加。配信収益を東日本大震災の義援金として寄付する企画である。"
+      "description": "2011年6月11日、Chageの『3月のタンポポ』の配信が開始された。\n西川進のチャリティー楽曲に歌唱で参加。配信収益を東日本大震災の義援金として寄付する企画である。",
+      "streamType": "music"
     },
     {
       "id": "v11-apbank-2011",
@@ -58149,7 +58153,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
-      "description": "2011年7月30日、ASKAの『巴里にひとり』の配信が開始された。"
+      "description": "2011年7月30日、ASKAの『巴里にひとり』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "media-v18217-2011-006",
@@ -58740,7 +58745,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
-      "description": "2011年10月8日、ASKAの『旅人よ』の配信が開始された。"
+      "description": "2011年10月8日、ASKAの『旅人よ』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "live-v11-chage-hosomichi-2011-015",
@@ -59011,7 +59017,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
-      "description": "2011年12月16日、Chageの『まわせ大きな地球儀』の配信が開始された。"
+      "description": "2011年12月16日、Chageの『まわせ大きな地球儀』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "live-v11-aska-xmas-2012-001",
@@ -59054,7 +59061,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
-      "description": "2012年1月21日、ASKAの『歌の中には不自由がない』の配信が開始された。"
+      "description": "2012年1月21日、ASKAの『歌の中には不自由がない』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "live-v11-aska-xmas-2012-002",
@@ -59114,7 +59122,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
-      "description": "2012年3月16日、ASKAの『木綿のハンカチーフ』の配信が開始された。"
+      "description": "2012年3月16日、ASKAの『木綿のハンカチーフ』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v11-love-radio-2012",
@@ -59577,7 +59586,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
-      "description": "2012年5月7日、Chageの『GO! GO! GO!』の配信が開始された。"
+      "description": "2012年5月7日、Chageの『GO! GO! GO!』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v11-release-bluray-may23-01",
@@ -60590,7 +60600,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
-      "description": "2013年2月18日、Chageの『Chageの茶会2012 ～座・藍燈横濱～』の配信が開始された。"
+      "description": "2013年2月18日、Chageの『Chageの茶会2012 ～座・藍燈横濱～』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "live-v11-aska-rocket-2013-018",
@@ -60897,7 +60908,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
-      "description": "2013年3月21日、ASKAの『ROCKET』の配信が開始された。"
+      "description": "2013年3月21日、ASKAの『ROCKET』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "live-v11-chage-tea-again-2013-006",
@@ -61952,7 +61964,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "MAXISM IN BUDOKAN（ライブ音源配信）",
-      "description": "2014年8月20日、MULTI MAXの『MAXISM IN BUDOKAN（ライブ音源配信）』の配信が開始された。"
+      "description": "2014年8月20日、MULTI MAXの『MAXISM IN BUDOKAN（ライブ音源配信）』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v12-2014-oki-dvd",
@@ -61997,7 +62010,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "Oki doki!（ライブ音源配信）",
-      "description": "2014年8月20日、MULTI MAXの『Oki doki!（ライブ音源配信）』の配信が開始された。"
+      "description": "2014年8月20日、MULTI MAXの『Oki doki!（ライブ音源配信）』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "milestone-ca-35th-anniv-2014-0825",
@@ -62035,7 +62049,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "アイシテル（Fan Meeting 2014 ライブ音源配信）",
-      "description": "2014年9月5日、Chageの『アイシテル（Fan Meeting 2014 ライブ音源配信）』の配信が開始された。"
+      "description": "2014年9月5日、Chageの『アイシテル（Fan Meeting 2014 ライブ音源配信）』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v12-2014-nagai-live",
@@ -62056,7 +62071,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "永い一日（Fan Meeting 2014 ライブ音源配信）",
-      "description": "2014年9月5日、Chageの『永い一日（Fan Meeting 2014 ライブ音源配信）』の配信が開始された。"
+      "description": "2014年9月5日、Chageの『永い一日（Fan Meeting 2014 ライブ音源配信）』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v12-equal14-01",
@@ -62325,7 +62341,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "equal（ChageLiveTour2014 ライブ音源配信）",
-      "description": "2014年11月5日、Chageの『equal（ChageLiveTour2014 ライブ音源配信）』の配信が開始された。"
+      "description": "2014年11月5日、Chageの『equal（ChageLiveTour2014 ライブ音源配信）』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v12-yamaha14",
@@ -62415,7 +62432,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "ChageLiveTour2014 ～equal～（ライブ音源）",
-      "description": "2015年1月14日、Chageの『ChageLiveTour2014 ～equal～（ライブ音源）』の配信が開始された。"
+      "description": "2015年1月14日、Chageの『ChageLiveTour2014 ～equal～（ライブ音源）』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v12-2015-equal-video",
@@ -62813,7 +62831,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "天使がくれたハンマー（配信シングル）",
-      "description": "2015年7月15日、Chageの『天使がくれたハンマー（配信シングル）』の配信が開始された。"
+      "description": "2015年7月15日、Chageの『天使がくれたハンマー（配信シングル）』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v12-fns15",
@@ -63633,7 +63652,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "もうひとつのLOVE SONG／NとLの野球帽（配信シングル）",
-      "description": "2016年6月22日、Chageの『もうひとつのLOVE SONG／NとLの野球帽（配信シングル）』の配信が開始された。"
+      "description": "2016年6月22日、Chageの『もうひとつのLOVE SONG／NとLの野球帽（配信シングル）』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "media-v18230-2016-07-13-chage-001",
@@ -66046,7 +66066,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "もらい酒みなと旅",
-      "description": "2017年12月13日、Chageの『もらい酒みなと旅』の配信が開始された。"
+      "description": "2017年12月13日、Chageの『もらい酒みなと旅』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "media-v18230-2017-12-16-chage-001",
@@ -66234,7 +66255,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "一度きりの笑顔",
-      "description": "2018年1月1日、ASKAの「一度きりの笑顔」の配信が開始された。"
+      "description": "2018年1月1日、ASKAの「一度きりの笑顔」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v13-milestone-001",
@@ -66330,7 +66352,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "黄昏を待たずに",
-      "description": "2018年2月12日、ASKAの「黄昏を待たずに」の配信が開始された。"
+      "description": "2018年2月12日、ASKAの「黄昏を待たずに」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v13-release-009",
@@ -66437,7 +66460,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "虹の花",
-      "description": "2018年3月25日、ASKAの「虹の花」の配信が開始された。"
+      "description": "2018年3月25日、ASKAの「虹の花」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v13-ch18-fan-day-001",
@@ -66548,7 +66572,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信（iTunes Store）",
-      "description": "2018年4月16日、Chageの「Chageライブ作品のiTunes Store」の配信が開始された。"
+      "description": "2018年4月16日、Chageの「Chageライブ作品のiTunes Store」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v13-ch18-fan-day-004",
@@ -66613,7 +66638,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "未来の人よ",
-      "description": "2018年4月25日、ASKAの「未来の人よ」の配信が開始された。"
+      "description": "2018年4月25日、ASKAの「未来の人よ」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v13-ch18-fan-day-006",
@@ -66767,7 +66793,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "終章（エピローグ）／Viva! Happy Birthday!",
-      "description": "2018年5月16日、Chageの『終章（エピローグ）／Viva! Happy Birthday!』の配信が開始された。"
+      "description": "2018年5月16日、Chageの『終章（エピローグ）／Viva! Happy Birthday!』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "media-v18220-015",
@@ -66839,7 +66866,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "修羅を行く",
-      "description": "2018年5月25日、ASKAの「修羅を行く」の配信が開始された。"
+      "description": "2018年5月25日、ASKAの「修羅を行く」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "media-v18220-017",
@@ -67065,7 +67093,8 @@ window.CA_EVENT_DATA = {
         "Too many people",
         "Black&White"
       ],
-      "description": "2018年6月12日、ASKAの『Too many people』の配信が開始された。\n対象作品は『Too many people』、『Black&White』の2作品。"
+      "description": "2018年6月12日、ASKAの『Too many people』の配信が開始された。\n対象作品は『Too many people』、『Black&White』の2作品。",
+      "streamType": "music"
     },
     {
       "id": "media-v18230-2018-06-20-chage-001",
@@ -67163,7 +67192,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "イイ天気",
-      "description": "2018年6月25日、ASKAの「イイ天気」の配信が開始された。"
+      "description": "2018年6月25日、ASKAの「イイ天気」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v13-media-017",
@@ -67258,7 +67288,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "憲兵も王様も居ない城",
-      "description": "2018年7月25日、ASKAの「憲兵も王様も居ない城」の配信が開始された。"
+      "description": "2018年7月25日、ASKAの「憲兵も王様も居ない城」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v13-release-020",
@@ -67545,7 +67576,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "星は何でも知っている",
-      "description": "2018年8月25日、ASKAの「星は何でも知っている」の配信が開始された。"
+      "description": "2018年8月25日、ASKAの「星は何でも知っている」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v13-ch18-crimson-002",
@@ -67832,7 +67864,8 @@ window.CA_EVENT_DATA = {
         "SCENE -Remix ver.-",
         "SCENE II -Remix ver.-"
       ],
-      "description": "2018年11月7日、ASKAの『SCENE』の配信が開始された。\n対象作品は『SCENE -Remix ver.-』、『SCENE II -Remix ver.-』の2作品。"
+      "description": "2018年11月7日、ASKAの『SCENE』の配信が開始された。\n対象作品は『SCENE -Remix ver.-』、『SCENE II -Remix ver.-』の2作品。",
+      "streamType": "music"
     },
     {
       "id": "v13-media-020",
@@ -69976,7 +70009,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "歌になりたい / Breath of Bless",
-      "description": "2019年11月6日、ASKAの「歌になりたい / Breath of Bless」の配信が開始された。"
+      "description": "2019年11月6日、ASKAの「歌になりたい / Breath of Bless」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v13-ch19-shanghai",
@@ -71212,7 +71246,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "幸せの黄色い風船",
-      "description": "2020年9月11日、ASKAの「幸せの黄色い風船」の配信が開始された。"
+      "description": "2020年9月11日、ASKAの「幸せの黄色い風船」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v14-release-008",
@@ -71233,7 +71268,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "自分じゃないか",
-      "description": "2020年9月18日、ASKAの「自分じゃないか」の配信が開始された。"
+      "description": "2020年9月18日、ASKAの「自分じゃないか」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v14-chage-2020-tour-cancel-002",
@@ -71298,7 +71334,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "僕のwonderful world",
-      "description": "2020年9月25日、ASKAの「僕のwonderful world」の配信が開始された。"
+      "description": "2020年9月25日、ASKAの「僕のwonderful world」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v14-chage-2020-tour-cancel-004",
@@ -71401,7 +71438,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "君に逢いたいだけ",
-      "description": "2020年10月7日、Chageの「君に逢いたいだけ」の配信が開始された。"
+      "description": "2020年10月7日、Chageの「君に逢いたいだけ」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v18221-2020-10-11-aska-090",
@@ -71420,7 +71458,8 @@ window.CA_EVENT_DATA = {
       ],
       "venue": "北海道・支笏湖",
       "prefecture": "北海道",
-      "description": "2020年10月11日、北海道・支笏湖でのASKAのミュージックビデオ撮影の模様が、企画「ASKA VR 2020」としてVRで生配信された。"
+      "description": "2020年10月11日、北海道・支笏湖でのASKAのミュージックビデオ撮影の模様が、企画「ASKA VR 2020」としてVRで生配信された。",
+      "streamType": "live"
     },
     {
       "id": "v14-chage2020-popcon",
@@ -71967,7 +72006,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "笑って歩こうよ",
-      "description": "2021年7月1日、ASKAの「笑って歩こうよ」の配信が開始された。"
+      "description": "2021年7月1日、ASKAの「笑って歩こうよ」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v14-release-017",
@@ -74276,7 +74316,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "そういうひと",
-      "description": "2022年7月6日、Chageの「そういうひと」の配信が開始された。"
+      "description": "2022年7月6日、Chageの「そういうひと」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v18222-2022-07-06-aska-066",
@@ -74569,7 +74610,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "POP",
-      "description": "2022年9月7日、Chageの「POP」の配信が開始された。"
+      "description": "2022年9月7日、Chageの「POP」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v14-media-ch22-006",
@@ -74846,7 +74888,8 @@ window.CA_EVENT_DATA = {
       ],
       "venue": "オンライン配信",
       "prefecture": "",
-      "description": "2022年10月17日、東京芸術劇場コンサートホールで開催されたChage・川島ケイジの合同公演が生配信された。"
+      "description": "2022年10月17日、東京芸術劇場コンサートホールで開催されたChage・川島ケイジの合同公演が生配信された。",
+      "streamType": "live"
     },
     {
       "id": "v14-media-ch22-012",
@@ -76494,7 +76537,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "幸せな不条理",
-      "description": "2023年7月30日、Chageの「幸せな不条理」の配信が開始された。"
+      "description": "2023年7月30日、Chageの「幸せな不条理」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v15-0244",
@@ -76632,7 +76676,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "青い空だけじゃない",
-      "description": "2023年8月15日、Chageの「青い空だけじゃない」の配信が開始された。"
+      "description": "2023年8月15日、Chageの「青い空だけじゃない」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v15-0247",
@@ -78882,7 +78927,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "飾りのない歌",
-      "description": "2024年7月31日、Chageの「飾りのない歌」の配信が開始された。"
+      "description": "2024年7月31日、Chageの「飾りのない歌」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v203-20261118-chage-windy-road-bd-2024",
@@ -81240,7 +81286,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "ChageLiveTour2024 ～ちゃげっていうひと～",
-      "description": "2025年4月9日、Chageの「ChageLiveTour2024 ～ちゃげっていうひと～」の配信が開始された。"
+      "description": "2025年4月9日、Chageの「ChageLiveTour2024 ～ちゃげっていうひと～」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v15-0137",
@@ -81671,7 +81718,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "Vandange_1958",
-      "description": "2025年6月18日、Chageの『Vandange_1958』の配信が開始された。"
+      "description": "2025年6月18日、Chageの『Vandange_1958』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v15-0171",
@@ -81854,7 +81902,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "飾りのない歌 -Acoustic Ver.-",
-      "description": "2025年7月16日、Chageの「飾りのない歌 -Acoustic Ver.-」の配信が開始された。"
+      "description": "2025年7月16日、Chageの「飾りのない歌 -Acoustic Ver.-」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v15-0202",
@@ -82213,7 +82262,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "Vandange_1958 Vol.2",
-      "description": "2025年8月27日、Chageの『Vandange_1958 Vol.2』の配信が開始された。"
+      "description": "2025年8月27日、Chageの『Vandange_1958 Vol.2』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v15-0233",
@@ -84610,7 +84660,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
-      "description": "2026年3月25日、Chageの『ChageLiveTour2025 Mr.November』の配信が開始された。"
+      "description": "2026年3月25日、Chageの『ChageLiveTour2025 Mr.November』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v16-0140",
@@ -85053,7 +85104,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "晴れ晴れ（ハレバレ）",
-      "description": "2026年5月29日、Chageの「晴れ晴れ（ハレバレ）」の配信が開始された。"
+      "description": "2026年5月29日、Chageの「晴れ晴れ（ハレバレ）」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v16-0145",
@@ -85203,7 +85255,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "Magic Knight（魔法夜曲）",
-      "description": "2026年6月30日、Chageの「Magic Knight（魔法夜曲）」の配信が開始された。"
+      "description": "2026年6月30日、Chageの「Magic Knight（魔法夜曲）」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v16-0127",
@@ -85564,7 +85617,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信",
       "releaseTitle": "音銀河",
-      "description": "2026年9月9日、ASKAの「音銀河」の配信が開始された。"
+      "description": "2026年9月9日、ASKAの「音銀河」の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "v16-0131",
@@ -85947,7 +86001,8 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "ミュージックビデオ（オンライン公開）",
       "releaseTitle": "One Love～二人だけの軌跡～",
-      "description": "2026年10月10日、Chageの「One Love～二人だけの軌跡～」が発売された。"
+      "description": "2026年10月10日、Chageの「One Love～二人だけの軌跡～」が発売された。",
+      "streamType": "video"
     },
     {
       "id": "v16-0105",
@@ -85962,9 +86017,25 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式｜個別放送案内",
           "url": "https://www.fellows.tokyo/news/detail/776"
+        },
+        {
+          "label": "ASKA公式配信案内",
+          "url": "https://www.fellows.tokyo/blog/detail/1507/"
+        },
+        {
+          "label": "YouTube公式番組",
+          "url": "https://www.youtube.com/watch?v=T0dkBX3Q-LE"
         }
       ],
-      "description": "2026年10月10日、ASKAのYouTubeラジオ番組「ASKA Lock-on Radio」の初回が配信された。"
+      "description": "2026年10月10日、ASKAのYouTubeラジオ番組「ASKA Lock-on Radio」の初回が配信された。",
+      "streamType": "recorded_audio",
+      "streamAccess": "free",
+      "streamPart": "main",
+      "streamGroupId": "aska-lock-on-radio-1",
+      "streamPlatform": "YouTube（ASKA Official Channel）",
+      "streamUrl": "https://www.youtube.com/watch?v=T0dkBX3Q-LE",
+      "startTime": "20:00",
+      "archiveStatus": "yes"
     },
     {
       "id": "v16-0004",
@@ -86090,7 +86161,8 @@ window.CA_EVENT_DATA = {
         "音銀河",
         "命の宿り"
       ],
-      "description": "2026年10月14日、ASKAの「音銀河」が発売された。\n対象作品は『音銀河』、『命の宿り』の2作品。"
+      "description": "2026年10月14日、ASKAの「音銀河」が発売された。\n対象作品は『音銀河』、『命の宿り』の2作品。",
+      "streamType": "video"
     },
     {
       "id": "v16-0006",
@@ -86374,9 +86446,20 @@ window.CA_EVENT_DATA = {
         {
           "label": "ASKA公式｜個別放送案内",
           "url": "https://www.fellows.tokyo/news/detail/799"
+        },
+        {
+          "label": "YouTube公式番組",
+          "url": "https://youtu.be/gGnZNlx6L1A"
         }
       ],
-      "description": "2026年11月12日、ASKAのYouTubeラジオ番組「ASKA Lock-on Radio」の第2回が配信された。"
+      "description": "2026年11月12日、ASKAのYouTubeラジオ番組「ASKA Lock-on Radio」の第2回が配信された。",
+      "streamType": "recorded_audio",
+      "streamAccess": "free",
+      "streamPart": "main",
+      "streamGroupId": "aska-lock-on-radio-2",
+      "streamPlatform": "YouTube（ASKA Official Channel）",
+      "streamUrl": "https://youtu.be/gGnZNlx6L1A",
+      "startTime": "20:00"
     },
     {
       "id": "v16-0057",
@@ -87876,7 +87959,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2017年11月1日、CHAGE and ASKAの『CHAGE and ASKA旧作音源（配信対象作品）』が発売された。"
+      "description": "2017年11月1日、CHAGE and ASKAの『CHAGE and ASKA旧作音源（配信対象作品）』が発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-20261119-2024-0825-ca-streaming-first",
@@ -87898,7 +87982,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2024年8月25日、CHAGE and ASKAの『VERY BEST ROLL OVER 20TH』の配信が開始された。"
+      "description": "2024年8月25日、CHAGE and ASKAの『VERY BEST ROLL OVER 20TH』の配信が開始された。",
+      "streamType": "subscription"
     },
     {
       "id": "release-audit-20261119-2024-1001-ca-streaming-all",
@@ -87928,7 +88013,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2024年10月1日、CHAGE and ASKAの『CHAGE and ASKA旧作アルバム・シングル（配信対象作品）』の配信が開始された。\n2024年8月25日のベスト盤『VERY BEST ROLL OVER 20TH』の先行配信に続き、10月1日に残りのアルバム・シングルを主要なサブスクリプションサービスで配信開始。"
+      "description": "2024年10月1日、CHAGE and ASKAの『CHAGE and ASKA旧作アルバム・シングル（配信対象作品）』の配信が開始された。\n2024年8月25日のベスト盤『VERY BEST ROLL OVER 20TH』の先行配信に続き、10月1日に残りのアルバム・シングルを主要なサブスクリプションサービスで配信開始。",
+      "streamType": "subscription"
     },
     {
       "id": "release-audit-20261119-2024-1224-aska-streaming",
@@ -87954,7 +88040,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2024年12月24日、ASKAの『ASKAソロ旧作アルバム・シングル（配信対象作品）』の配信が開始された。\nヤマハおよびユニバーサルミュージックからリリースされたソロ楽曲のサブスク配信開始。本人ブログではアルバム限定の解禁と説明している。全レーベルの作品の解禁を意味しない。"
+      "description": "2024年12月24日、ASKAの『ASKAソロ旧作アルバム・シングル（配信対象作品）』の配信が開始された。\nヤマハおよびユニバーサルミュージックからリリースされたソロ楽曲のサブスク配信開始。本人ブログではアルバム限定の解禁と説明している。全レーベルの作品の解禁を意味しない。",
+      "streamType": "subscription"
     },
     {
       "id": "release-audit-ct-20261119-19900829-pcta00060",
@@ -89426,7 +89513,8 @@ window.CA_EVENT_DATA = {
       "releaseFormat": "デジタル配信（ライブアルバム／iTunes）",
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2011年6月1日、ASKAの『ASKA CONCERT TOUR 10>>11 FACES』の配信が開始された。"
+      "description": "2011年6月1日、ASKAの『ASKA CONCERT TOUR 10>>11 FACES』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2039-20111207-pobd22042",
@@ -89515,7 +89603,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、CHAGE and ASKAの『ロケットの樹の下で』がデジタル配信で発売された。"
+      "description": "2019年5月22日、CHAGE and ASKAの『ロケットの樹の下で』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-02",
@@ -89536,7 +89625,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、CHAGE and ASKAの『パラシュートの部屋で』がデジタル配信で発売された。"
+      "description": "2019年5月22日、CHAGE and ASKAの『パラシュートの部屋で』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-03",
@@ -89557,7 +89647,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、CHAGE and ASKAの『C-46』がデジタル配信で発売された。"
+      "description": "2019年5月22日、CHAGE and ASKAの『C-46』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-04",
@@ -89578,7 +89669,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、CHAGE and ASKAの『夢の飛礫』がデジタル配信で発売された。"
+      "description": "2019年5月22日、CHAGE and ASKAの『夢の飛礫』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-05",
@@ -89599,7 +89691,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、CHAGE and ASKAの『36度線 -1995夏-』がデジタル配信で発売された。"
+      "description": "2019年5月22日、CHAGE and ASKAの『36度線 -1995夏-』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-06",
@@ -89620,7 +89713,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、CHAGE and ASKAの『僕はMusic』がデジタル配信で発売された。"
+      "description": "2019年5月22日、CHAGE and ASKAの『僕はMusic』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-07",
@@ -89641,7 +89735,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、CHAGE and ASKAの『NOT AT ALL』がデジタル配信で発売された。"
+      "description": "2019年5月22日、CHAGE and ASKAの『NOT AT ALL』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-08",
@@ -89662,7 +89757,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、CHAGE and ASKAの『STAMP』がデジタル配信で発売された。"
+      "description": "2019年5月22日、CHAGE and ASKAの『STAMP』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-09",
@@ -89683,7 +89779,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、CHAGE and ASKAの『DOUBLE』がデジタル配信で発売された。"
+      "description": "2019年5月22日、CHAGE and ASKAの『DOUBLE』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-10",
@@ -89704,7 +89801,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、ASKAの『心に花の咲く方へ』がデジタル配信で発売された。"
+      "description": "2019年5月22日、ASKAの『心に花の咲く方へ』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-11",
@@ -89725,7 +89823,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、ASKAの『UNI-VERSE』がデジタル配信で発売された。"
+      "description": "2019年5月22日、ASKAの『UNI-VERSE』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-12",
@@ -89746,7 +89845,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、ASKAの『あなたが泣くことはない』がデジタル配信で発売された。"
+      "description": "2019年5月22日、ASKAの『あなたが泣くことはない』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-13",
@@ -89767,7 +89867,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、ASKAの『SCENE Ⅲ』がデジタル配信で発売された。"
+      "description": "2019年5月22日、ASKAの『SCENE Ⅲ』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-14",
@@ -89788,7 +89889,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、ASKAの『STANDARD』がデジタル配信で発売された。"
+      "description": "2019年5月22日、ASKAの『STANDARD』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-15",
@@ -89809,7 +89911,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、ASKAの『12』がデジタル配信で発売された。"
+      "description": "2019年5月22日、ASKAの『12』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-16",
@@ -89830,7 +89933,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、ASKAの『君の知らない君の歌』がデジタル配信で発売された。"
+      "description": "2019年5月22日、ASKAの『君の知らない君の歌』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-17",
@@ -89851,7 +89955,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、CHAGE and ASKAの『デェラ・シエラ・ム』がデジタル配信で発売された。"
+      "description": "2019年5月22日、CHAGE and ASKAの『デェラ・シエラ・ム』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-18",
@@ -89872,7 +89977,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、ASKAの『BOOKEND』がデジタル配信で発売された。"
+      "description": "2019年5月22日、ASKAの『BOOKEND』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-19",
@@ -89893,7 +89999,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、ASKAの『SCRAMBLE』がデジタル配信で発売された。"
+      "description": "2019年5月22日、ASKAの『SCRAMBLE』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2040-20190522-20",
@@ -89914,7 +90021,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2019年5月22日、MULTI MAXの『CONCERT TOUR 1994 Well,Well,Well』がデジタル配信で発売された。"
+      "description": "2019年5月22日、MULTI MAXの『CONCERT TOUR 1994 Well,Well,Well』がデジタル配信で発売された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2041-20200306-01",
@@ -89939,7 +90047,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2020年3月6日、ASKAの『Breath of Bless』の配信が開始された。"
+      "description": "2020年3月6日、ASKAの『Breath of Bless』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2041-20201209-02",
@@ -90331,7 +90440,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2025年8月28日、ASKAの『Who is ASKA !?』の配信が開始された。"
+      "description": "2025年8月28日、ASKAの『Who is ASKA !?』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2042-20251001-06",
@@ -90352,7 +90462,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2025年10月1日、ASKAの『復讐』の配信が開始された。"
+      "description": "2025年10月1日、ASKAの『復讐』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2042-20251031-07",
@@ -90373,7 +90484,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2025年10月31日、ASKAの『tiny desk concerts JAPAN』の配信が開始された。"
+      "description": "2025年10月31日、ASKAの『tiny desk concerts JAPAN』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v2042-20260128-08",
@@ -90468,7 +90580,8 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2026年10月30日、ASKAの『Garden』の配信が開始された。"
+      "description": "2026年10月30日、ASKAの『Garden』の配信が開始された。",
+      "streamType": "music"
     },
     {
       "id": "release-audit-v206-19861021-oneside-game-ld",
@@ -98402,7 +98515,8 @@ window.CA_EVENT_DATA = {
           "label": "Fellows公式・公演情報",
           "url": "https://www.fellows.tokyo/news/detail/195"
         }
-      ]
+      ],
+      "streamType": "live"
     },
     {
       "id": "aska-20240723-miyakojima-archive-stream",
@@ -98424,7 +98538,8 @@ window.CA_EVENT_DATA = {
           "label": "Fellows公式・配信のお知らせ",
           "url": "https://www.fellows.tokyo/news/detail/172"
         }
-      ]
+      ],
+      "streamType": "archive"
     },
     {
       "id": "aska-20220131-higher-ground-kanagawa-stream",
@@ -98494,7 +98609,8 @@ window.CA_EVENT_DATA = {
           "label": "参考資料（非公式・配信記録）",
           "url": "https://w.atwiki.jp/cavc/pages/467.html"
         }
-      ]
+      ],
+      "streamType": "live"
     },
     {
       "id": "aska-20220924-kyushu-orchestra-archive-stream",
@@ -98516,7 +98632,8 @@ window.CA_EVENT_DATA = {
           "label": "参考資料（非公式・配信記録）",
           "url": "https://w.atwiki.jp/cavc/pages/467.html"
         }
-      ]
+      ],
+      "streamType": "archive"
     },
     {
       "id": "aska-20210624-subete-no-koto-archive-stream",
@@ -98538,7 +98655,8 @@ window.CA_EVENT_DATA = {
       "artist": "ASKA",
       "category": "media",
       "status": "recorded",
-      "broadcastStation": "ZAIKO"
+      "broadcastStation": "ZAIKO",
+      "streamType": "archive"
     },
     {
       "id": "aska-20260128-live-docking-screening",
@@ -98615,7 +98733,8 @@ window.CA_EVENT_DATA = {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://note.com/masshironouni/n/n8047961b5bfa"
         }
-      ]
+      ],
+      "streamType": "live"
     },
     {
       "id": "chage-20230118-billboard-64to65-rakuten-archive",
@@ -98637,7 +98756,8 @@ window.CA_EVENT_DATA = {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://note.com/masshironouni/n/n8047961b5bfa"
         }
-      ]
+      ],
+      "streamType": "archive"
     },
     {
       "id": "chage-20240106-billboard-65to66-streamingplus-live",
@@ -98659,7 +98779,8 @@ window.CA_EVENT_DATA = {
           "label": "会場公式公演情報",
           "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-14534"
         }
-      ]
+      ],
+      "streamType": "live"
     },
     {
       "id": "chage-20240118-billboard-65to66-streamingplus-archive",
@@ -98681,7 +98802,8 @@ window.CA_EVENT_DATA = {
           "label": "会場公式公演情報",
           "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-14534"
         }
-      ]
+      ],
+      "streamType": "archive"
     },
     {
       "id": "chage-20250105-billboard-66to67-streamingplus-live",
@@ -98707,7 +98829,8 @@ window.CA_EVENT_DATA = {
           "label": "Chage公式公演告知",
           "url": "https://chage.jp/information/live/detail-659.php"
         }
-      ]
+      ],
+      "streamType": "live"
     },
     {
       "id": "chage-20250115-billboard-66to67-streamingplus-archive",
@@ -98733,7 +98856,8 @@ window.CA_EVENT_DATA = {
           "label": "Chage公式公演告知",
           "url": "https://chage.jp/information/live/detail-659.php"
         }
-      ]
+      ],
+      "streamType": "archive"
     },
     {
       "artist": "Chage",
@@ -98771,7 +98895,8 @@ window.CA_EVENT_DATA = {
       "date": "2021-02-19",
       "title": "Chage Christmas Party 2020 完全版 アーカイブ配信開始",
       "description": "2021年2月19日、mahocastで「Chage Christmas Party 2020」のライブ映像完全版のアーカイブ配信が開始された。",
-      "note": "2020年12月19日のビルボードライブ横浜公演の収録映像。公式案内の視聴期間は2月19日10:00～2月21日23:59。一般購入も可能。同期間にライブ実況（副音声）付き映像も別商品として配信された。2月14日のequal会員限定配信イベントとは別記録。収録ステージは未特定。"
+      "note": "2020年12月19日のビルボードライブ横浜公演の収録映像。公式案内の視聴期間は2月19日10:00～2月21日23:59。一般購入も可能。同期間にライブ実況（副音声）付き映像も別商品として配信された。2月14日のequal会員限定配信イベントとは別記録。収録ステージは未特定。",
+      "streamType": "archive"
     },
     {
       "artist": "Chage",
@@ -98810,7 +98935,8 @@ window.CA_EVENT_DATA = {
           "label": "Chage公式ブログ（2023年10月11日）",
           "url": "https://ameblo.jp/chage-blog/page-2.html"
         }
-      ]
+      ],
+      "streamType": "live"
     },
     {
       "id": "chage-20231011-windy-road-pia-archive",
@@ -98832,7 +98958,8 @@ window.CA_EVENT_DATA = {
           "label": "Chage公式ブログ（2023年10月11日）",
           "url": "https://ameblo.jp/chage-blog/page-2.html"
         }
-      ]
+      ],
+      "streamType": "archive"
     },
     {
       "artist": "Chage",
@@ -98858,7 +98985,19 @@ window.CA_EVENT_DATA = {
       "date": "2024-09-23",
       "title": "ChageLiveTour 2024 ～ちゃげっていうひと～ 生配信",
       "description": "2024年9月23日、Zepp DiverCity（TOKYO）で開催された「ChageLiveTour 2024 ～ちゃげっていうひと～」がPIA LIVE STREAMで生配信された。",
-      "note": "PIA LIVE STREAMによる配信。公式告知では2024年9月23日17:00開演予定、当日の視聴期限20:00。アーカイブ配信期間は2024年10月8日17:00～11月5日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。"
+      "note": "PIA LIVE STREAMによる配信。公式告知では2024年9月23日17:00開演予定、当日の視聴期限20:00。アーカイブ配信期間は2024年10月8日17:00～11月5日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。",
+      "streamType": "live",
+      "streamAccess": "paid",
+      "streamPlatform": "PIA LIVE STREAM",
+      "streamGroupId": "chage-20240923-chage2024-pia-live",
+      "archiveStatus": "yes",
+      "archiveStartDate": "2024-10-08",
+      "archiveStartTime": "17:00",
+      "archiveEndDate": "2024-11-05",
+      "archiveEndTime": "23:59",
+      "ticketEndDate": "2024-11-05",
+      "ticketEndTime": "20:59",
+      "startTime": "17:00"
     },
     {
       "artist": "Chage",
@@ -98884,7 +99023,19 @@ window.CA_EVENT_DATA = {
       "date": "2024-10-08",
       "title": "ChageLiveTour 2024 ～ちゃげっていうひと～ アーカイブ配信開始",
       "description": "2024年9月23日のZepp DiverCity（TOKYO）公演「ChageLiveTour 2024 ～ちゃげっていうひと～」のアーカイブ配信開始日。",
-      "note": "PIA LIVE STREAMによる配信。公式告知では2024年9月23日17:00開演予定、当日の視聴期限20:00。アーカイブ配信期間は2024年10月8日17:00～11月5日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。"
+      "note": "PIA LIVE STREAMによる配信。公式告知では2024年9月23日17:00開演予定、当日の視聴期限20:00。アーカイブ配信期間は2024年10月8日17:00～11月5日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。",
+      "streamType": "archive",
+      "streamAccess": "paid",
+      "streamPlatform": "PIA LIVE STREAM",
+      "streamGroupId": "chage-20240923-chage2024-pia-live",
+      "archiveStatus": "yes",
+      "archiveStartDate": "2024-10-08",
+      "archiveStartTime": "17:00",
+      "archiveEndDate": "2024-11-05",
+      "archiveEndTime": "23:59",
+      "ticketEndDate": "2024-11-05",
+      "ticketEndTime": "20:59",
+      "startTime": "17:00"
     },
     {
       "artist": "Chage",
@@ -98910,7 +99061,19 @@ window.CA_EVENT_DATA = {
       "id": "chage-20251114-mrnovember-pia-live",
       "date": "2025-11-14",
       "title": "ChageLiveTour2025 Mr.November 生配信",
-      "description": "2025年11月14日、CLUB CITTA’ 川崎で開催された「ChageLiveTour2025 Mr.November」の生配信日。"
+      "description": "2025年11月14日、CLUB CITTA’ 川崎で開催された「ChageLiveTour2025 Mr.November」の生配信日。",
+      "streamType": "live",
+      "streamAccess": "paid",
+      "streamPlatform": "PIA LIVE STREAM",
+      "streamGroupId": "chage-20251114-mrnovember-pia-live",
+      "archiveStatus": "yes",
+      "archiveStartDate": "2025-11-28",
+      "archiveStartTime": "17:00",
+      "archiveEndDate": "2025-12-19",
+      "archiveEndTime": "23:59",
+      "ticketEndDate": "2025-12-19",
+      "ticketEndTime": "20:59",
+      "startTime": "18:30"
     },
     {
       "artist": "Chage",
@@ -98936,7 +99099,19 @@ window.CA_EVENT_DATA = {
       "id": "chage-20251128-mrnovember-pia-archive",
       "date": "2025-11-28",
       "title": "ChageLiveTour2025 Mr.November アーカイブ配信開始",
-      "description": "2025年11月14日のCLUB CITTA’ 川崎公演「ChageLiveTour2025 Mr.November」のアーカイブ配信開始日。"
+      "description": "2025年11月14日のCLUB CITTA’ 川崎公演「ChageLiveTour2025 Mr.November」のアーカイブ配信開始日。",
+      "streamType": "archive",
+      "streamAccess": "paid",
+      "streamPlatform": "PIA LIVE STREAM",
+      "streamGroupId": "chage-20251114-mrnovember-pia-live",
+      "archiveStatus": "yes",
+      "archiveStartDate": "2025-11-28",
+      "archiveStartTime": "17:00",
+      "archiveEndDate": "2025-12-19",
+      "archiveEndTime": "23:59",
+      "ticketEndDate": "2025-12-19",
+      "ticketEndTime": "20:59",
+      "startTime": "17:00"
     },
     {
       "artist": "Chage",
@@ -98960,13 +99135,29 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式アーカイブ配信開始告知（2022年一覧）",
           "url": "https://chage.jp/information/live/?year=2022"
+        },
+        {
+          "label": "Chage公式配信案内",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7380"
         }
       ],
       "note": "PIA LIVE STREAMによる配信。2022年7月10日二子玉川ライズ公演の2nd公演（16:30開演予定）が対象。当日の視聴期限は18:30。公式告知のアーカイブ配信期間は2022年7月20日17:00～8月2日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。",
       "id": "chage-20220710-hosomichi-pia-live",
       "date": "2022-07-10",
       "title": "Chageのずっと細道 生配信",
-      "description": "2022年7月10日、iTSCOM STUDIO & HALL 二子玉川ライズで開催された「Chageのずっと細道」2nd公演の生配信日。"
+      "description": "2022年7月10日、iTSCOM STUDIO & HALL 二子玉川ライズで開催された「Chageのずっと細道」2nd公演の生配信日。",
+      "streamType": "live",
+      "streamAccess": "paid",
+      "streamPlatform": "PIA LIVE STREAM",
+      "streamGroupId": "chage-20220710-hosomichi-pia-live",
+      "archiveStatus": "yes",
+      "archiveStartDate": "2022-07-20",
+      "archiveStartTime": "17:00",
+      "archiveEndDate": "2022-08-02",
+      "archiveEndTime": "23:59",
+      "ticketEndDate": "2022-08-02",
+      "ticketEndTime": "21:59",
+      "startTime": "16:30"
     },
     {
       "artist": "Chage",
@@ -98990,13 +99181,29 @@ window.CA_EVENT_DATA = {
         {
           "label": "Chage公式アーカイブ配信開始告知（2022年一覧）",
           "url": "https://chage.jp/information/live/?year=2022"
+        },
+        {
+          "label": "Chage公式配信案内",
+          "url": "https://fanclub.chage.jp/sitenews_det.php?id=7380"
         }
       ],
       "note": "PIA LIVE STREAMによる配信。2022年7月10日二子玉川ライズ公演の2nd公演（16:30開演予定）が対象。当日の視聴期限は18:30。公式告知のアーカイブ配信期間は2022年7月20日17:00～8月2日23:59。視聴チケット4,500円（税込）。会場公演・生配信・アーカイブ配信は別記録。",
       "id": "chage-20220720-hosomichi-pia-archive",
       "date": "2022-07-20",
       "title": "Chageのずっと細道 アーカイブ配信開始",
-      "description": "2022年7月10日のiTSCOM STUDIO & HALL 二子玉川ライズ公演「Chageのずっと細道」のアーカイブ配信開始日。"
+      "description": "2022年7月10日のiTSCOM STUDIO & HALL 二子玉川ライズ公演「Chageのずっと細道」のアーカイブ配信開始日。",
+      "streamType": "archive",
+      "streamAccess": "paid",
+      "streamPlatform": "PIA LIVE STREAM",
+      "streamGroupId": "chage-20220710-hosomichi-pia-live",
+      "archiveStatus": "yes",
+      "archiveStartDate": "2022-07-20",
+      "archiveStartTime": "17:00",
+      "archiveEndDate": "2022-08-02",
+      "archiveEndTime": "23:59",
+      "ticketEndDate": "2022-08-02",
+      "ticketEndTime": "21:59",
+      "startTime": "17:00"
     },
     {
       "artist": "Chage",
@@ -99022,7 +99229,8 @@ window.CA_EVENT_DATA = {
           "label": "参考資料（非公式・日付相違）",
           "url": "https://w.atwiki.jp/cavc/pages/359.html"
         }
-      ]
+      ],
+      "streamType": "archive"
     },
     {
       "id": "aska-20250119-kantabile-fujitwo",
@@ -99186,7 +99394,8 @@ window.CA_EVENT_DATA = {
           "url": "https://plaza.rakuten.co.jp/nijinohana2624/diary/ctgylist/?ctgy=8"
         }
       ],
-      "broadcastStation": "Streaming+"
+      "broadcastStation": "Streaming+",
+      "streamType": "recorded_video"
     },
     {
       "id": "aska-20260322-kishidanbanpaku2025-after-special-wowow",
@@ -99246,7 +99455,8 @@ window.CA_EVENT_DATA = {
           "label": "まほろ座公式X（ver.2配信告知）",
           "url": "https://x.com/mahoroza/status/1691030231157743616"
         }
-      ]
+      ],
+      "streamType": "recorded_video"
     },
     {
       "date": "2023-08-18",
@@ -102984,7 +103194,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/release/detail-555.php"
         }
       ],
-      "featured": false
+      "featured": false,
+      "streamType": "subscription"
     },
     {
       "id": "milestone-2026-03-19-say-yes-102nd-theme",
@@ -103931,7 +104142,55 @@ window.CA_EVENT_DATA = {
         }
       ],
       "description": "1988-02-21、CHAGE and ASKAの『恋人はワイン色／あきらめのBlue Day』が8cm CDで再発売された（S10A-0004）。"
+    },
+    {
+      "id": "media-aska-lock-on-radio-1-fellows",
+      "date": "2026-10-10",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "YouTubeラジオ「ASKA Lock-on Radio」Fellows限定版 #1（アフタートーク）",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "「ASKA Lock-on Radio」第1回のFellows会員限定アフタートーク。公式案内では21時から公開。",
+      "note": "公式公開案内に基づく記録。会員限定コンテンツの内容や視聴期限は未確認。",
+      "streamType": "recorded_audio",
+      "streamAccess": "fanclub",
+      "streamPart": "aftertalk",
+      "streamGroupId": "aska-lock-on-radio-1",
+      "streamPlatform": "Fellows公式サイト",
+      "streamUrl": "https://www.fellows.tokyo/movies/list/5/0/",
+      "startTime": "21:00",
+      "sources": [
+        {
+          "label": "ASKA公式配信案内",
+          "url": "https://www.fellows.tokyo/blog/detail/1507/"
+        }
+      ]
+    },
+    {
+      "id": "media-aska-lock-on-radio-2-fellows",
+      "date": "2026-11-12",
+      "artist": "ASKA",
+      "category": "media",
+      "title": "YouTubeラジオ「ASKA Lock-on Radio」Fellows限定版 #2（アフタートーク）",
+      "status": "recorded",
+      "verification": "primary",
+      "description": "「ASKA Lock-on Radio」第2回のFellows会員限定アフタートーク。公式案内では21時から公開。",
+      "note": "公式公開案内に基づく記録。会員限定コンテンツの内容や視聴期限は未確認。",
+      "streamType": "recorded_audio",
+      "streamAccess": "fanclub",
+      "streamPart": "aftertalk",
+      "streamGroupId": "aska-lock-on-radio-2",
+      "streamPlatform": "Fellows公式サイト",
+      "streamUrl": "https://www.fellows.tokyo/movies/detail/128",
+      "startTime": "21:00",
+      "sources": [
+        {
+          "label": "ASKA公式配信案内",
+          "url": "https://www.fellows.tokyo/news/detail/799"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.9.10"
+  "siteVersion": "2.9.11"
 };
