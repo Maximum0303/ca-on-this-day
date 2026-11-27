@@ -34,9 +34,10 @@
 <link rel="stylesheet" href="ca-final-v300.css?v=3.0.0">
 <script defer src="data/events.js?v=2.9.5"></script>
 <script defer src="ca-search-alias-v310.js?v=3.2.0"></script>
-<script defer src="app.js?v=3.1.0"></script>
-<script defer src="ca-ver39.js?v=2.6.3"></script>
-<script defer src="ca-list-return-v338.js?v=3.3.8"></script>
+<script defer src="ca-list-return-v339.js?v=3.3.9"></script>
+<script defer src="ca-app-v339.js?v=3.3.9"></script>
+<script defer src="ca-day-v339.js?v=3.3.9"></script>
+
 <script defer src="ca-weekly-v338.js?v=3.3.8"></script>
 <script defer src="data/review-followup.js?v=2.2.11"></script>
 <script defer src="ca-ver41.js?v=2.4.5"></script>
@@ -47,7 +48,7 @@
 <script defer src="ca-nav-v333.js?v=3.3.3"></script>
 <script defer src="ca-menu-v224.js?v=2.2.5-navfix"></script>
 <script defer src="ca-search-v225.js?v=3.1.0"></script>
-<script defer src="ca-search-share-v226.js?v=3.0.0"></script>
+<script defer src="ca-search-share-v339.js?v=3.3.9"></script>
 <script defer src="ca-section-share-v227.js?v=3.0.0"></script>
 <script defer src="ca-share-unify-v228.js?v=2.2.8"></script>
 <script defer src="ca-month-share-v229.js?v=3.0.0"></script>
@@ -303,7 +304,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
     var version=archive.siteVersion||archive.version||'未設定';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.3.3.8 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.3.3.9 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();
@@ -337,7 +338,7 @@ document.addEventListener('DOMContentLoaded',function(){
  const main=document.querySelector('main');if(!main)return;
  const node=(tag,cls,txt)=>{const x=document.createElement(tag);if(cls)x.className=cls;if(txt!==undefined&&txt!==null)x.textContent=String(txt);return x;};
  const section=node('section');section.id='ca-single-detail';section.setAttribute('aria-label','記録の個別表示');
- const back=node('button','ca-detail-back',/^\d{4}$/.test(String(e.date||''))?'← 年のみの記録一覧に戻る':'← この日の一覧に戻る');back.type='button';
+ const back=node('button','ca-detail-back',/^\d{4}$/.test(String(e.date||''))?'← 年のみの記録一覧に戻る':'この日の全記録を検索一覧で見る ↓');back.type='button';
  back.addEventListener('click',function(){
   document.body.classList.remove('ca-single');section.remove();
   if(/^\d{4}$/.test(String(e.date||''))){const u=new URL(location.href);u.search='';u.searchParams.set('year',String(e.date));if(e.category==='book'){u.searchParams.set('category','book');u.hash='browse';}else if(e.category==='milestone'&&e.featured===true){u.searchParams.set('category','milestone');u.hash='year-only';}else{u.hash='browse';}location.assign(u.href);return;}
