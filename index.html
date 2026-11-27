@@ -63,7 +63,7 @@
 <link rel="stylesheet" href="ca-release-index-v330.css?v=3.3.0">
 <script defer src="ca-release-index-v337.js?v=3.3.7"></script>
 <script defer src="ca-book-index-v340.js?v=3.4.0"></script>
-<script defer src="ca-media-index-v350.js?v=3.5.0"></script>
+<script defer src="ca-media-index-v351.js?v=3.5.1"></script>
 <style id="ca-year-only-v2029-style">
 .ca260-more{grid-column:1/-1}.ca260-more>summary{cursor:pointer;color:#ffe0a2;padding:10px 0}.ca260-more>.year-only-list{margin-top:8px}.year-only-card .year-only-stamp{font-size:1rem}.year-only-card h3{font-size:1.05rem}
 /* YEAR_ONLY_RECORDS_V2029 */
@@ -278,10 +278,10 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
       <div class="section-head"><div><span class="kicker">TV &amp; RADIO ARCHIVE INDEX</span><h2 id="ca350-heading">テレビ・ラジオ出演索引</h2></div></div>
       <details id="ca350-details"><summary>番組名・媒体・放送局・年代から探す</summary><div class="ca350-body">
         <p>テレビ・ラジオに分類された登録記録を、番組名ごとに探せます。配信などの関連記録も含みます。</p>
-        <div class="ca350-filters"><label>名義<select id="ca350-artist"><option value="">すべての名義</option></select></label><label>媒体<select id="ca350-type"><option value="">すべての媒体</option></select></label><label>放送局<select id="ca350-station"><option value="">すべての放送局</option></select></label><label>年代<select id="ca350-decade"><option value="">すべての年代</option></select></label><label>並び順<select id="ca350-order"><option value="asc">古い順</option><option value="desc">新しい順</option><option value="name">番組名順</option></select></label><label class="ca350-query">キーワード<input type="search" id="ca350-query" placeholder="番組名・放送局・出演内容など"></label></div>
+        <div class="ca350-filters"><label>名義<select id="ca350-artist"><option value="">すべての名義</option></select></label><label>媒体<select id="ca350-type"><option value="">すべての媒体</option></select></label><label>放送局<input type="search" id="ca350-station" placeholder="放送局名を入力" autocomplete="off"></label><label>年代<select id="ca350-decade"><option value="">すべての年代</option></select></label><label>並び順<select id="ca350-order"><option value="asc">古い順</option><option value="desc">新しい順</option><option value="name">番組名順</option></select></label><label class="ca350-query">キーワード<input type="search" id="ca350-query" placeholder="番組名・放送局・出演内容など"></label></div>
         <button type="button" class="ca350-action" id="ca350-reset">条件をクリア</button><p id="ca350-count" aria-live="polite">索引を準備中…</p><div id="ca350-groups"></div><button type="button" class="ca350-action" id="ca350-more" hidden>さらに表示</button>
         <h3 id="ca350-selected" tabindex="-1"></h3><ul id="ca350-records"></ul><button type="button" class="ca350-action" id="ca350-record-more" hidden>さらに記録を表示</button>
-        <p>同一の番組名表記を索引上でまとめていますが、同名の別番組の場合もあります。媒体は登録値・タイトル等から判別できる範囲で表示し、不明なものは区別します。日付は登録日であり、放送・収録・再放送・配信の別は記録詳細をご確認ください。</p>
+        <p>番組名・配信タイトル・関連作品名を登録情報から整理しています。放送局欄は入力式検索です。媒体確認待ち・名称確認待ちは、情報が十分でない記録として保持します。日付は登録日であり、放送・収録・再放送・配信の別は記録詳細をご確認ください。</p>
       </div></details>
     </section>
     <section id="browse" class="browse-section">
