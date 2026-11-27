@@ -36,10 +36,11 @@
 <script defer src="ca-search-alias-v310.js?v=3.2.0"></script>
 <script defer src="app.js?v=3.1.0"></script>
 <script defer src="ca-ver39.js?v=2.6.3"></script>
-<script defer src="ca-ver40.js?v=2.6.1"></script>
+<script defer src="ca-list-return-v338.js?v=3.3.8"></script>
+<script defer src="ca-weekly-v338.js?v=3.3.8"></script>
 <script defer src="data/review-followup.js?v=2.2.11"></script>
 <script defer src="ca-ver41.js?v=2.4.5"></script>
-<script defer src="ca-upcoming-v334.js?v=3.3.4"></script>
+<script defer src="ca-upcoming-v338.js?v=3.3.8"></script>
 <script defer src="ca-ver43.js?v=2.6.1"></script>
 <script defer src="ca-ver44.js"></script>
 <script defer src="ca-ver46.js"></script>
@@ -56,7 +57,7 @@
 <script defer src="ca-date-jump-v2215.js?v=2.2.15"></script>
 <script defer src="ca-final-v300.js?v=3.0.0"></script>
 <link rel="stylesheet" href="ca-live-index-v320.css?v=3.2.0">
-<script defer src="ca-index-return-v337.js?v=3.3.7"></script>
+
 <script defer src="ca-live-index-v337.js?v=3.3.7"></script>
 <link rel="stylesheet" href="ca-release-index-v330.css?v=3.3.0">
 <script defer src="ca-release-index-v337.js?v=3.3.7"></script>
@@ -302,7 +303,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
     var version=archive.siteVersion||archive.version||'未設定';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.3.3.7 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.3.3.8 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();
