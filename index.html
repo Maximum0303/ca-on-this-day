@@ -58,7 +58,7 @@
 <link rel="stylesheet" href="ca-live-index-v320.css?v=3.2.0">
 <script defer src="ca-live-index-v320.js?v=3.2.2"></script>
 <link rel="stylesheet" href="ca-release-index-v330.css?v=3.3.0">
-<script defer src="ca-release-index-v331.js?v=3.3.1"></script>
+<script defer src="ca-release-index-v332.js?v=3.3.2"></script>
 <style id="ca-year-only-v2029-style">
 .ca260-more{grid-column:1/-1}.ca260-more>summary{cursor:pointer;color:#ffe0a2;padding:10px 0}.ca260-more>.year-only-list{margin-top:8px}.year-only-card .year-only-stamp{font-size:1rem}.year-only-card h3{font-size:1.05rem}
 /* YEAR_ONLY_RECORDS_V2029 */
@@ -248,7 +248,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
     <section id="ca330-index" aria-labelledby="ca330-heading">
       <div class="section-head"><div><span class="kicker">MUSIC &amp; VIDEO ARCHIVE INDEX</span><h2 id="ca330-heading">音楽・映像作品索引</h2></div></div>
       <details id="ca330-details"><summary>作品名・発売区分・規格から探す</summary><div class="ca330-body">
-        <p>登録された音楽・映像作品の発売履歴を、同じ名義・作品名ごとに表示します。発売区分・規格の絞り込みは共通分類で表示します。個別記録の表記は変更しません。複数の規格・区分に該当する記録はそれぞれから検索できます。その他は共通分類に該当しない登録値、未登録は項目が空の記録です。</p>
+        <p>登録された音楽・映像作品の発売履歴を、同じ名義・作品名ごとに表示します。発売区分は登録されたタイトル・発売区分・規格を照合して分類します。「発売」は初発売を含み、初発売と断定しません。複数分類に該当する記録はそれぞれから検索できます。規格未確定は元の記録で規格が確定していないものです。個別記録の原文は変更しません。</p>
         <div class="ca330-filters"><label>名義<select id="ca330-artist"><option value="">すべて</option></select></label><label>発売区分<select id="ca330-kind"><option value="">すべて</option></select></label><label>規格<select id="ca330-format"><option value="">すべて</option></select></label><label>並び順<select id="ca330-order"><option value="date">登録日の古い順</option><option value="name">作品名順</option><option value="artist">名義順</option></select></label><label class="ca330-query">索引内検索<input id="ca330-query" type="search" placeholder="作品名・規格品番・レーベルなど"></label></div>
         <button id="ca330-reset" class="ca330-action" type="button">条件をクリア</button><p id="ca330-count" role="status"></p><div id="ca330-groups"></div><button type="button" class="ca330-action" id="ca330-group-more" hidden>さらに索引を表示</button>
         <h3 id="ca330-selected" tabindex="-1"></h3><ul id="ca330-records"></ul><button type="button" class="ca330-action" id="ca330-record-more" hidden>さらに発売記録を表示</button>
@@ -300,7 +300,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
     var version=archive.siteVersion||archive.version||'未設定';
     var ver=document.getElementById('ca-footer-version');
     var meta=document.getElementById('ca-footer-data');
-    if(ver)ver.textContent='画面 Ver.3.3.1 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
+    if(ver)ver.textContent='画面 Ver.3.3.2 ／ データ Ver.'+String(version).replace(/^Ver\.?\s*/i,'');
     if(meta)meta.textContent=(total===null?'登録データ 未読込':'登録データ '+total.toLocaleString('ja-JP')+'件')+' ／ データ更新日 '+(archive.lastUpdated||'未設定');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fill,{once:true});else fill();
