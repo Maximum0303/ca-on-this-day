@@ -1,0 +1,6 @@
+/* 画面 Ver.3.7.8: サイト全体の紹介リンク */
+.footer .ca378-site-share {display:flex;align-items:center;flex:0 0 auto;max-width:100%;}
+.footer .ca378-site-share a {display:inline-flex;align-items:center;justify-content:center;gap:.4em;min-height:44px;padding:7px 13px;box-sizing:border-box;border:1px solid rgba(232,188,115,.55);border-radius:8px;color:var(--gold-light,#f8e2ba);background:transparent;text-decoration:none;font-size:13px;line-height:1.5;white-space:normal;}
+.footer .ca378-site-share a:hover {background:rgba(232,188,115,.12);text-decoration:none;}
+.footer .ca378-site-share a:focus-visible {outline:2px solid #f8e2ba;outline-offset:3px;}
+@media(max-width:600px){.footer .ca378-site-share{max-width:100%;}}
