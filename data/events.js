@@ -66573,7 +66573,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "releaseFormat": "デジタル配信（iTunes Store）",
       "description": "2018年4月16日、Chageの「Chageライブ作品のiTunes Store」の配信が開始された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "v13-ch18-fan-day-004",
@@ -67094,7 +67097,10 @@ window.CA_EVENT_DATA = {
         "Black&White"
       ],
       "description": "2018年6月12日、ASKAの『Too many people』の配信が開始された。\n対象作品は『Too many people』、『Black&White』の2作品。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "hires"
+      ]
     },
     {
       "id": "media-v18230-2018-06-20-chage-001",
@@ -67865,7 +67871,10 @@ window.CA_EVENT_DATA = {
         "SCENE II -Remix ver.-"
       ],
       "description": "2018年11月7日、ASKAの『SCENE』の配信が開始された。\n対象作品は『SCENE -Remix ver.-』、『SCENE II -Remix ver.-』の2作品。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "hires"
+      ]
     },
     {
       "id": "v13-media-020",
@@ -85611,6 +85620,10 @@ window.CA_EVENT_DATA = {
         {
           "label": "公式発売・公開案内",
           "url": "https://www.fellows.tokyo/news/list/1/7/"
+        },
+        {
+          "label": "ソニーミュージック公式配信案内",
+          "url": "https://www.sonymusic.co.jp/artist/KojiTamakiASKA/info/586153?id=aep260823"
         }
       ],
       "catalogNumberStatus": "not_applicable",
@@ -85618,7 +85631,10 @@ window.CA_EVENT_DATA = {
       "releaseFormat": "デジタル配信",
       "releaseTitle": "音銀河",
       "description": "2026年9月9日、ASKAの「音銀河」の配信が開始された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "subscription"
+      ]
     },
     {
       "id": "v16-0131",
@@ -87960,7 +87976,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2017年11月1日、CHAGE and ASKAの『CHAGE and ASKA旧作音源（配信対象作品）』が発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-20261119-2024-0825-ca-streaming-first",
@@ -87983,7 +88002,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2024年8月25日、CHAGE and ASKAの『VERY BEST ROLL OVER 20TH』の配信が開始された。",
-      "streamType": "subscription"
+      "streamType": "subscription",
+      "musicDelivery": [
+        "subscription"
+      ]
     },
     {
       "id": "release-audit-20261119-2024-1001-ca-streaming-all",
@@ -88014,7 +88036,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2024年10月1日、CHAGE and ASKAの『CHAGE and ASKA旧作アルバム・シングル（配信対象作品）』の配信が開始された。\n2024年8月25日のベスト盤『VERY BEST ROLL OVER 20TH』の先行配信に続き、10月1日に残りのアルバム・シングルを主要なサブスクリプションサービスで配信開始。",
-      "streamType": "subscription"
+      "streamType": "subscription",
+      "musicDelivery": [
+        "subscription"
+      ]
     },
     {
       "id": "release-audit-20261119-2024-1224-aska-streaming",
@@ -88041,7 +88066,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2024年12月24日、ASKAの『ASKAソロ旧作アルバム・シングル（配信対象作品）』の配信が開始された。\nヤマハおよびユニバーサルミュージックからリリースされたソロ楽曲のサブスク配信開始。本人ブログではアルバム限定の解禁と説明している。全レーベルの作品の解禁を意味しない。",
-      "streamType": "subscription"
+      "streamType": "subscription",
+      "musicDelivery": [
+        "subscription"
+      ]
     },
     {
       "id": "release-audit-ct-20261119-19900829-pcta00060",
@@ -89514,7 +89542,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2011年6月1日、ASKAの『ASKA CONCERT TOUR 10>>11 FACES』の配信が開始された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2039-20111207-pobd22042",
@@ -89604,7 +89635,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、CHAGE and ASKAの『ロケットの樹の下で』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-02",
@@ -89626,7 +89660,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、CHAGE and ASKAの『パラシュートの部屋で』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-03",
@@ -89648,7 +89685,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、CHAGE and ASKAの『C-46』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-04",
@@ -89670,7 +89710,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、CHAGE and ASKAの『夢の飛礫』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-05",
@@ -89692,7 +89735,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、CHAGE and ASKAの『36度線 -1995夏-』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-06",
@@ -89714,7 +89760,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、CHAGE and ASKAの『僕はMusic』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-07",
@@ -89736,7 +89785,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、CHAGE and ASKAの『NOT AT ALL』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-08",
@@ -89758,7 +89810,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、CHAGE and ASKAの『STAMP』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-09",
@@ -89780,7 +89835,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、CHAGE and ASKAの『DOUBLE』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-10",
@@ -89802,7 +89860,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、ASKAの『心に花の咲く方へ』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-11",
@@ -89824,7 +89885,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、ASKAの『UNI-VERSE』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-12",
@@ -89846,7 +89910,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、ASKAの『あなたが泣くことはない』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-13",
@@ -89868,7 +89935,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、ASKAの『SCENE Ⅲ』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-14",
@@ -89890,7 +89960,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、ASKAの『STANDARD』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-15",
@@ -89912,7 +89985,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、ASKAの『12』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-16",
@@ -89934,7 +90010,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、ASKAの『君の知らない君の歌』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-17",
@@ -89956,7 +90035,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、CHAGE and ASKAの『デェラ・シエラ・ム』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-18",
@@ -89978,7 +90060,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、ASKAの『BOOKEND』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-19",
@@ -90000,7 +90085,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、ASKAの『SCRAMBLE』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2040-20190522-20",
@@ -90022,7 +90110,10 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2019年5月22日、MULTI MAXの『CONCERT TOUR 1994 Well,Well,Well』がデジタル配信で発売された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "download"
+      ]
     },
     {
       "id": "release-audit-v2041-20200306-01",
@@ -90048,7 +90139,15 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2020年3月6日、ASKAの『Breath of Bless』の配信が開始された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "hires_download"
+      ],
+      "musicDeliveryServices": {
+        "hires_download": [
+          "e-onkyo music"
+        ]
+      }
     },
     {
       "id": "release-audit-v2041-20201209-02",
@@ -90441,7 +90540,15 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2025年8月28日、ASKAの『Who is ASKA !?』の配信が開始された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "paid_stream"
+      ],
+      "musicDeliveryServices": {
+        "paid_stream": [
+          "Travel TV"
+        ]
+      }
     },
     {
       "id": "release-audit-v2042-20251001-06",
@@ -90485,7 +90592,16 @@ window.CA_EVENT_DATA = {
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
       "description": "2025年10月31日、ASKAの『tiny desk concerts JAPAN』の配信が開始された。",
-      "streamType": "music"
+      "streamType": "music",
+      "musicDelivery": [
+        "subscription"
+      ],
+      "musicDeliveryServices": {
+        "subscription": [
+          "Apple Music",
+          "Spotify"
+        ]
+      }
     },
     {
       "id": "release-audit-v2042-20260128-08",
@@ -90555,7 +90671,11 @@ window.CA_EVENT_DATA = {
       ],
       "catalogNumberStatus": "not_applicable",
       "catalogNumberStatusNote": "配信／ダウンロード／映像公開等。通常の物理商品向け規格品番が付与されない記録。",
-      "description": "2026年9月16日、ASKAの『音銀河』の配信が開始された。"
+      "description": "2026年9月16日、ASKAの『音銀河』の配信が開始された。",
+      "musicDelivery": [
+        "download",
+        "subscription"
+      ]
     },
     {
       "id": "release-audit-v2042-20261030-11",
@@ -103195,7 +103315,10 @@ window.CA_EVENT_DATA = {
         }
       ],
       "featured": false,
-      "streamType": "subscription"
+      "streamType": "subscription",
+      "musicDelivery": [
+        "subscription"
+      ]
     },
     {
       "id": "milestone-2026-03-19-say-yes-102nd-theme",
@@ -104192,5 +104315,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.9.11"
+  "siteVersion": "2.9.12"
 };
