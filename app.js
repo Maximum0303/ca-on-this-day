@@ -96,6 +96,7 @@ function yearOnlyFiltersActive(){
  return $('year-filter').value!=='all'||$('category-filter').value==='milestone';
 }
 function caParseQueryTokens(source) {
+  if(window.CA_SEARCH_ALIASES)return window.CA_SEARCH_ALIASES.parse(source);
   const text = String(source ?? '').normalize('NFKC');
   const tokens = [];
   let word = '', phrase = false, closing = '';
@@ -135,7 +136,7 @@ function getMatches(){
   if(year!=='all'&&String(e.date).slice(0,4)!==year)return false;
   if(kind!=='all'&&normalizedStatus(e)!==kind)return false;
   if(verification!=='all'&&(verification==='unknown'?['primary','secondary'].includes(e.verification):e.verification!==verification))return false;
-  if(terms.length){const hay=searchableText(e);if(terms.some(t=>!hay.includes(t)))return false;}
+  if(terms.length){const hay=searchableText(e);if(terms.some(t=>!(window.CA_SEARCH_ALIASES?window.CA_SEARCH_ALIASES.matches(e,hay,t):hay.includes(t))))return false;}
   if(state.dayOnly){const d=fromDate(e.date);if(md(d.month,d.day)!==state.dayOnly)return false;}
   return true;
  }).sort((a,b)=>{const n=a.date.localeCompare(b.date)||a.id.localeCompare(b.id);return sort==='desc'?-n:n;});

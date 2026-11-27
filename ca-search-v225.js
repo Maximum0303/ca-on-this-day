@@ -95,6 +95,7 @@
 
     let scheduled = false;
     function caParseQueryTokens(source) {
+  if(window.CA_SEARCH_ALIASES)return window.CA_SEARCH_ALIASES.parse(source);
       const text = String(source ?? '').normalize('NFKC');
       const tokens = [];
       let word = '', phrase = false, closing = '';
