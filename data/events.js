@@ -84004,7 +84004,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-770.php"
         }
       ],
-      "description": "2026年1月24日、Chageの「Chageのずっと細道 2026」がCLUB-Gで開催された。"
+      "description": "2026年1月24日、Chageの「Chageのずっと細道 2026」がCLUB-Gで開催された。",
+      "performanceNo": 1
     },
     {
       "id": "v16-0039",
@@ -84025,7 +84026,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-770.php"
         }
       ],
-      "description": "2026年1月25日、Chageの「Chageのずっと細道 2026」が愛知県芸術劇場 小ホールで開催された。"
+      "description": "2026年1月25日、Chageの「Chageのずっと細道 2026」が愛知県芸術劇場 小ホールで開催された。",
+      "performanceNo": 2
     },
     {
       "id": "v16-0040",
@@ -84047,7 +84049,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-770.php"
         }
       ],
-      "description": "2026年1月31日、Chageの「Chageのずっと細道 2026」がEVANS CASTLE HALLで開催された。"
+      "description": "2026年1月31日、Chageの「Chageのずっと細道 2026」がEVANS CASTLE HALLで開催された。",
+      "performanceNo": 3
     },
     {
       "id": "v16-0074",
@@ -84107,7 +84110,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-770.php"
         }
       ],
-      "description": "2026年2月1日、Chageの「Chageのずっと細道 2026」がSHELTERで開催された。"
+      "description": "2026年2月1日、Chageの「Chageのずっと細道 2026」がSHELTERで開催された。",
+      "performanceNo": 4
     },
     {
       "id": "v16-0042",
@@ -84128,7 +84132,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-770.php"
         }
       ],
-      "description": "2026年2月11日、Chageの「Chageのずっと細道 2026」がClub SWINDLEで開催された。"
+      "description": "2026年2月11日、Chageの「Chageのずっと細道 2026」がClub SWINDLEで開催された。",
+      "performanceNo": 5
     },
     {
       "id": "v16-0030",
@@ -84278,7 +84283,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-770.php"
         }
       ],
-      "description": "2026年2月21日、Chageの「Chageのずっと細道 2026」が新横浜NEW SIDE BEACH!!で開催された。"
+      "description": "2026年2月21日、Chageの「Chageのずっと細道 2026」が新横浜NEW SIDE BEACH!!で開催された。",
+      "performanceNo": 6
     },
     {
       "id": "v16-0044",
@@ -84299,7 +84305,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-770.php"
         }
       ],
-      "description": "2026年2月23日、Chageの「Chageのずっと細道 2026」が柏PALOOZAで開催された。"
+      "description": "2026年2月23日、Chageの「Chageのずっと細道 2026」が柏PALOOZAで開催された。",
+      "performanceNo": 7
     },
     {
       "id": "v16-0086",
@@ -84460,7 +84467,8 @@ window.CA_EVENT_DATA = {
           "url": "https://ja.wikipedia.org/wiki/Chage#%E3%83%A9%E3%82%A4%E3%83%96%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88"
         }
       ],
-      "description": "2026年3月22日、Chageの「Chageのずっと細道 2026」が渋谷CLUB QUATTROで開催された。"
+      "description": "2026年3月22日、Chageの「Chageのずっと細道 2026」が渋谷CLUB QUATTROで開催された。",
+      "performanceNo": 8
     },
     {
       "id": "v16-0046",
@@ -84482,7 +84490,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-804.php"
         }
       ],
-      "description": "2026年3月22日、Chageが渋谷CLUB QUATTROで「Chageのずっと細道 2026」のステージに立った。 この日は追加公演として開催された。 同日追加公演・ライブ音源収録予定として告知 1日2公演。 2公演目は追加公演。"
+      "description": "2026年3月22日、Chageが渋谷CLUB QUATTROで「Chageのずっと細道 2026」のステージに立った。 この日は追加公演として開催された。 同日追加公演・ライブ音源収録予定として告知 1日2公演。 2公演目は追加公演。",
+      "performanceNo": 9
     },
     {
       "id": "v16-0075",
@@ -84666,7 +84675,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-795.php"
         }
       ],
-      "description": "2026年4月17日、Chageの「Chageのずっと細道 2026」が仙台 Rensaで開催された。"
+      "description": "2026年4月17日、Chageの「Chageのずっと細道 2026」が仙台 Rensaで開催された。",
+      "performanceNo": 10
     },
     {
       "id": "v16-0048",
@@ -84688,7 +84698,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-795.php"
         }
       ],
-      "description": "2026年4月19日、Chageの「Chageのずっと細道 2026」がミュージック昭和 Sessionで開催された。"
+      "description": "2026年4月19日、Chageの「Chageのずっと細道 2026」がミュージック昭和 Sessionで開催された。",
+      "performanceNo": 11
     },
     {
       "id": "v16-0076",
@@ -84759,7 +84770,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/hosomichi/schedule/archive.php"
         }
       ],
-      "description": "2026年4月29日、Chageの「Chageのずっと細道 2026」が八木橋百貨店8階 カトレアホールで開催された。"
+      "description": "2026年4月29日、Chageの「Chageのずっと細道 2026」が八木橋百貨店8階 カトレアホールで開催された。",
+      "performanceNo": 12
     },
     {
       "id": "v16-0089",
@@ -84868,7 +84880,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-795.php"
         }
       ],
-      "description": "2026年5月22日、Chageの「Chageのずっと細道 2026」がBIGCATで開催された。"
+      "description": "2026年5月22日、Chageの「Chageのずっと細道 2026」がBIGCATで開催された。",
+      "performanceNo": 13
     },
     {
       "id": "v16-0092",
@@ -84911,7 +84924,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-795.php"
         }
       ],
-      "description": "2026年5月24日、Chageの「Chageのずっと細道 2026」が能楽堂ホールtenjin9で開催された。"
+      "description": "2026年5月24日、Chageの「Chageのずっと細道 2026」が能楽堂ホールtenjin9で開催された。",
+      "performanceNo": 14
     },
     {
       "id": "v16-0077",
@@ -85015,7 +85029,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-795.php"
         }
       ],
-      "description": "2026年6月13日、Chageの「Chageのずっと細道 2026」が神戸チキンジョージで開催された。"
+      "description": "2026年6月13日、Chageの「Chageのずっと細道 2026」が神戸チキンジョージで開催された。",
+      "performanceNo": 15
     },
     {
       "id": "v16-0053",
@@ -85041,7 +85056,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-795.php"
         }
       ],
-      "description": "2026年6月14日、Chageの「Chageのずっと細道 2026」が滋賀B-FLATで開催された。"
+      "description": "2026年6月14日、Chageの「Chageのずっと細道 2026」が滋賀B-FLATで開催された。",
+      "performanceNo": 16
     },
     {
       "id": "v16-0065",
@@ -85146,7 +85162,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-795.php"
         }
       ],
-      "description": "2026年7月11日、Chageの「Chageのずっと細道 2026」が水戸club SONIC mitoで開催された。"
+      "description": "2026年7月11日、Chageの「Chageのずっと細道 2026」が水戸club SONIC mitoで開催された。",
+      "performanceNo": 17
     },
     {
       "id": "v16-0066",
@@ -85252,7 +85269,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/hosomichi/schedule/"
         }
       ],
-      "description": "2026年8月2日、Chageの「Chageのずっと細道 2026」が小倉昭和館で開催された。"
+      "description": "2026年8月2日、Chageの「Chageのずっと細道 2026」が小倉昭和館で開催された。",
+      "performanceNo": 18
     },
     {
       "id": "v16-0108",
@@ -86324,7 +86342,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-868.php"
         }
       ],
-      "description": "2026年11月13日、Chageの「Chageのずっと細道 2026」が東京キネマ倶楽部で開催された。"
+      "description": "2026年11月13日、Chageの「Chageのずっと細道 2026」が東京キネマ倶楽部で開催された。",
+      "performanceNo": 19
     },
     {
       "id": "v16-0013",
@@ -86417,7 +86436,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-868.php"
         }
       ],
-      "description": "2026年11月15日、Chageの「Chageのずっと細道 2026」がライブハウスモッズで開催された。"
+      "description": "2026年11月15日、Chageの「Chageのずっと細道 2026」がライブハウスモッズで開催された。",
+      "performanceNo": 20
     },
     {
       "id": "v16-0107",
@@ -86554,7 +86574,8 @@ window.CA_EVENT_DATA = {
           "url": "https://x.com/Chage_jp_staff/status/2124813363897417911"
         }
       ],
-      "description": "2026年11月23日、Chageの「Chageのずっと細道 2026」が山梨県甲府市の桜座で開催された。"
+      "description": "2026年11月23日、Chageの「Chageのずっと細道 2026」が山梨県甲府市の桜座で開催された。",
+      "performanceNo": 21
     },
     {
       "id": "v16-0017",
@@ -104174,5 +104195,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.9.20"
+  "siteVersion": "2.9.21"
 };
