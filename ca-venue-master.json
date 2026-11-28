@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-13",
+  "version": "3.8.4-14",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -5376,9 +5376,12 @@
       "aliases": [
         "高槻市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.takatsuki-bsj.jp/theater/closing/index.html",
+        "https://www.city.takatsuki.osaka.jp/soshiki/93/119890.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：高槻市の市民会館は1964年開館、2022年7月閉館。後継の高槻城公園芸術文化劇場とは別施設。市と運営者の沿革による。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-058",
@@ -6011,9 +6014,11 @@
       "aliases": [
         "鳥取市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.tottori.lg.jp/page/3111.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：鳥取市公式施設案内で1967年開館の鳥取市民会館を確認。施設単位集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-004",
@@ -6448,9 +6453,12 @@
       "aliases": [
         "福山市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.fukuyama.hiroshima.jp/site/kinenshi/404847.html",
+        "https://www.setlist.fm/venue/fukuyama-shimin-kaikan-fukuyama-japan-53d28b95.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：福山市の市史年表で1966年開館を確認。二次資料では1994年閉館。閉館年の一次資料は未照合。後継施設とは別集計。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-046",
@@ -7057,9 +7065,13 @@
       "aliases": [
         "小倉市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.seishunza.com/%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96/%E5%BA%A7%E9%95%B7%E3%81%AE%E3%81%A4%E3%81%B6%E3%82%84%E3%81%8D-1/",
+        "https://jmapps.ne.jp/nhkso/det.html?data_id=8123",
+        "https://kokuracastle-story.com/2022/03/story60/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：北九州市の旧小倉市民会館。利用団体の回顧では1959年10月開館、小倉城の歴史資料では2003年閉館。NHK交響楽団の1964年公演資料に開催地・会場名を確認。北九州芸術劇場とは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-021",
@@ -7532,9 +7544,12 @@
       "aliases": [
         "大分文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://jmapps.ne.jp/nhkso_cat/det.html?data_id=32020",
+        "https://seisakuplus.com/news/?p=8853"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：大分市の旧施設。NHK交響楽団の1966年10月13日落成記念公演資料と2013年閉館報道を照合。1966年開館、2013年10月31日閉館。ホルトホール大分等とは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-064",
@@ -7582,9 +7597,12 @@
       "aliases": [
         "延岡総合文化センター"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0451341.html",
+        "https://www.sun.pref.miyazaki.lg.jp/facilities_view/1151.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：延岡市東浜砂町。全国公立文化施設協会による開館日は1985年11月13日。県の施設情報に大・小ホールを確認。既存の施設単位集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-068",
@@ -7638,9 +7656,12 @@
       "aliases": [
         "都城市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "都城総合文化ホールとは別施設。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.miyakonojo.miyazaki.jp/soshiki/78/2174.html",
+        "https://www.tobunken.go.jp/materials/nenshi/2040671.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：都城市の旧市民会館は1966年竣工、2007年閉館。都城市の資料と東京文化財研究所の記録による。都城総合文化ホールとは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-072",
@@ -7901,9 +7922,13 @@
       "aliases": [
         "沖縄市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0471388.html",
+        "https://www.yamaha-ss.co.jp/facility-introduction-special-site/okinawa-okinawashiminkaikan-b.html",
+        "https://kozainfo.okinawa/spot/s2970661.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：沖縄市八重島。施設協会資料の開館日は1981年1月10日、設備施工関連資料の竣工は1980年10月。2025年4月から休館との案内あり。竣工と開館を区別し、ホール未指定記録は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-095",
