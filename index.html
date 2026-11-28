@@ -175,7 +175,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
 <link rel="stylesheet" href="ca-search-facets-v370.css?v=3.7.0">
 <link rel="stylesheet" href="ca-headings-v372.css?v=3.7.2">
 <link rel="stylesheet" href="ca-site-share-v378.css?v=3.7.8">
-<link rel="stylesheet" href="ca-live-map-v380.css?v=3.8.1">
+<link rel="stylesheet" href="ca-live-map-v380.css?v=3.8.2">
 </head>
 <body>
 <div class="ambient"></div>
@@ -400,11 +400,11 @@ document.addEventListener('DOMContentLoaded',function(){
   if(fromMap&&q.get('map_order')==='desc')map.searchParams.set('order','desc');
   if(fromMap&&/^\d{1,6}$/.test(q.get('map_limit')||''))map.searchParams.set('limit',q.get('map_limit'));
   if(fromMap&&q.get('map_record'))map.searchParams.set('record',q.get('map_record'));
-  if(fromMap)for(const key of ['artist','decade','tour'])if(q.has('map_'+key))map.searchParams.set(key,q.get('map_'+key));
+  if(fromMap)for(const key of ['artist','decade','tour','city','venue','rank'])if(q.has('map_'+key))map.searchParams.set(key,q.get('map_'+key));
   if(pref)map.hash='lm-detail';
   const mapBack=node('a','ca-detail-back ca-map-return','← 公演開催地マップに戻る');mapBack.href=map.href;
   mapBack.style.cssText='display:flex;align-items:center;width:fit-content;max-width:100%;margin:0 0 4px;';section.append(mapBack);
-  if(fromMap){document.addEventListener('click',function(ev){const a=ev.target.closest?.('#ca-single-detail a[href]');if(!a||a===mapBack)return;try{const u=new URL(a.href,location.href);if(u.origin!==location.origin||u.pathname!==location.pathname||!u.searchParams.has('event'))return;for(const key of ['fromMap','map_pref','map_mode','map_order','map_limit','map_record','map_artist','map_decade','map_tour'])if(q.has(key))u.searchParams.set(key,q.get(key));a.href=u.href;}catch(_){}},true);}
+  if(fromMap){document.addEventListener('click',function(ev){const a=ev.target.closest?.('#ca-single-detail a[href]');if(!a||a===mapBack)return;try{const u=new URL(a.href,location.href);if(u.origin!==location.origin||u.pathname!==location.pathname||!u.searchParams.has('event'))return;for(const key of ['fromMap','map_pref','map_mode','map_order','map_limit','map_record','map_artist','map_decade','map_tour','map_city','map_venue','map_rank'])if(q.has(key))u.searchParams.set(key,q.get(key));a.href=u.href;}catch(_){}},true);}
  }
  section.append(back);
  const paper=node('article','ca-detail-paper');const date=String(e.date||'');const m=date.match(/^(\d{4})-(\d{2})-(\d{2})$/);
