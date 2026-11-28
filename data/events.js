@@ -82102,25 +82102,6 @@ window.CA_EVENT_DATA = {
       "description": "2025年8月3日、Chageの「Chageのずっと細道 2025」がHEAVEN'S ROCK UTSUNOMIYA VJ-2で開催された。\nこのツアーの第13公演にあたる。"
     },
     {
-      "id": "v18224-2025-08-03-chage-084",
-      "date": "2025-08-03",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "公式公演記録で確認。各日公演。",
-      "sources": [
-        {
-          "label": "公式・主催者発表",
-          "url": "https://chage.jp/hosomichi/schedule/archive.php"
-        }
-      ],
-      "prefecture": "栃木県",
-      "venue": "HEAVEN'S ROCK 宇都宮 VJ-2",
-      "description": "2025年8月3日、Chageの「Chageのずっと細道」がHEAVEN'S ROCK 宇都宮 VJ-2で開催された。"
-    },
-    {
       "id": "v15-0142",
       "date": "2025-08-06",
       "artist": "ASKA",
@@ -104351,5 +104332,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.9.14"
+  "siteVersion": "2.9.15"
 };
