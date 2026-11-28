@@ -3518,12 +3518,12 @@
       "title": "学園祭ツアー'81",
       "tourId": "school-1981",
       "venue": "跡見女子大",
-      "prefecture": "東京都",
+      "prefecture": "埼玉県",
       "country": "日本",
       "performanceNo": 8,
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "所在地暫定補完：大学公式沿革によると1965年に埼玉県新座市で開学し、文京キャンパスの開設は2008年。1981年の開催校地は新座市が有力。公演当日の会場資料は未確認。",
       "sources": [
         {
           "label": "CHAGE and ASKA公式HISTORY",
@@ -104213,5 +104213,5 @@
       ]
     }
   ],
-  "siteVersion": "2.9.25"
+  "siteVersion": "2.9.26"
 }
