@@ -1,5 +1,5 @@
 {
-  "version": "3.9.7",
+  "version": "3.9.8",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1434,7 +1434,7 @@
       "id": "jp-kanto-mito-old",
       "prefecture": "茨城県",
       "municipality": "水戸市",
-      "name": "水戸市民会館",
+      "name": "水戸市民会館（旧施設）",
       "aliases": [
         "水戸市民会館"
       ],
@@ -1443,28 +1443,30 @@
         "https://member.jp.yamaha.com/topics/myujin/2023/wm-71510"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1972年開館。2011年の東日本大震災で被災し使用中止。2023年7月2日に移転再建された新施設とは別集計。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1972年開館。2011年の東日本大震災で被災し使用中止。2023年7月2日に移転再建された新施設とは別集計。 公演の個別原典確認を意味しない。\n1972年開館。旧施設は現市役所本庁舎の敷地内で旧庁舎に隣接。2011年の震災被害により使用停止。新施設は泉町へ移転再建。"
     },
     {
       "id": "jp-kanto-tsuchiura",
       "prefecture": "茨城県",
       "municipality": "土浦市",
-      "name": "土浦市民会館",
+      "name": "クラフトシビックホール土浦（土浦市民会館）",
       "aliases": [
         "土浦市民会館"
       ],
       "sources": [
         "https://www.zenkoubun.jp/search/hall_0080233.html",
-        "https://www.city.tsuchiura.lg.jp/kanko-bunka-sports/geijutsu-bunka/craftcivichall-tsuchiura/page000748.html"
+        "https://www.city.tsuchiura.lg.jp/kanko-bunka-sports/geijutsu-bunka/craftcivichall-tsuchiura/page000748.html",
+        "https://www.city.tsuchiura.lg.jp/kanko-bunka-sports/rekishi-bunkazai-maizobunkazai/shitei-touroku/news/page019426.html",
+        "https://www.city.tsuchiura.lg.jp/shisei/shisei-jigyo/kokoku-namingrights/page017611.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1969年4月26日開館。現愛称はクラフトシビックホール土浦。施設単位の集計を維持。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1969年4月26日開館。現愛称はクラフトシビックホール土浦。施設単位の集計を維持。 公演の個別原典確認を意味しない。\n1969年4月26日開館。所在地：土浦市東真鍋町2-6。大ホール1,019席（1階593、2階426）、小ホール288席。1969年2月竣工、2018～2020年耐震補強・大規模改修、2020年3月耐震補強工事竣工。2024年3月6日国登録有形文化財に登録、2018～2020年改修。現愛称クラフトシビックホール土浦、契約2026年5月1日～2031年4月30日。"
     },
     {
       "id": "jp-kanto-ibaraki-kenmin",
       "prefecture": "茨城県",
       "municipality": "水戸市",
-      "name": "茨城県立県民文化センター",
+      "name": "ザ・ヒロサワ・シティ会館（茨城県立県民文化センター）",
       "aliases": [
         "茨城県民文化センター",
         "茨城県立県民文化センター",
@@ -1472,10 +1474,15 @@
       ],
       "sources": [
         "https://www.pref.ibaraki.jp/bugai/koho/kenmin/profile/kensei-history/1966-01.html",
-        "https://www.pref.ibaraki.jp/somu/somu/hosei/cont/reiki_int/reiki_honbun/o400RG00000453.html"
+        "https://www.pref.ibaraki.jp/somu/somu/hosei/cont/reiki_int/reiki_honbun/o400RG00000453.html",
+        "https://www.zenkoubun.jp/search/hall_0080230.html",
+        "https://www.ibarakiken-bunkacenter.com/access/",
+        "https://www.ibarakiken-bunkacenter.com/facilities/hall_l.html",
+        "https://www.pref.ibaraki.jp/somu/kanzai/koyu/meimeikettei.html",
+        "https://mapfan.com/spots/SC3AH,J,59"
       ],
       "verification": "confirmed",
-      "note": "登録表記「茨城県文化センター」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。"
+      "note": "登録表記「茨城県文化センター」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。\n1966年4月11日開館。所在地：水戸市千波町東久保697。大ホール1,514席（オーケストラピット76席を含む）。県の2015年更新歴史紹介には大1,764席・小640席との記載。現行値との差の時期・理由は未確認。愛称ザ・ヒロサワ・シティ会館。県契約一覧では2019年4月～2028年3月、2022年・2025年更新。施設代表位置（暫定）：北緯36.3664995、東経140.4652931。"
     },
     {
       "id": "jp-kanto-hitachi",
@@ -1487,10 +1494,11 @@
       ],
       "sources": [
         "https://www.city.hitachi.lg.jp/shisetsu/kanko_bunka/1003914/1003915.html",
-        "https://www.zenkoubun.jp/search/hall_0080231.html"
+        "https://www.zenkoubun.jp/search/hall_0080231.html",
+        "https://www.civic.jp/shiminkaikan/organizer/hitachi-facility-list/hall.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1965年9月15日開館。日立市民会館。多賀市民会館とは区別。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1965年9月15日開館。日立市民会館。多賀市民会館とは区別。 公演の個別原典確認を意味しない。\n1965年9月15日開館。所在地：日立市若葉町1丁目5番8号。大ホール1,309席（1階767、2階542）。"
     },
     {
       "id": "jp-kanto-tsukuba",
@@ -1503,10 +1511,11 @@
       "sources": [
         "https://www.zenkoubun.jp/search/hall_0080244.html",
         "https://www.tcf.or.jp/novahall/facility/about/",
-        "https://www.tcf.or.jp/news/018678/"
+        "https://www.tcf.or.jp/news/018678/",
+        "https://www.city.tsukuba.lg.jp/soshikikarasagasu/shimimbubunkageijutsuka/gyomuannai/2/1002778.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1983年6月1日開館。つくば市立ノバホール。小ホールは2011年開館であり、使用ホールは断定しない。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1983年6月1日開館。つくば市立ノバホール。小ホールは2011年開館であり、使用ホールは断定しない。 公演の個別原典確認を意味しない。\n1983年6月1日開館。所在地：つくば市吾妻1-10-1（つくばセンタービル内）。ホール1,000席、小ホール可動席110人。小ホールは隣接する県施設の移管・改修後2011年開館。"
     },
     {
       "id": "jp-kanto-hitachi-park",
@@ -1517,10 +1526,11 @@
         "国営ひたち海浜公園"
       ],
       "sources": [
-        "https://www.hitachikaihin.jp/spot-guide/overview.html"
+        "https://www.hitachikaihin.jp/spot-guide/overview.html",
+        "https://www.hitachikaihin.jp/access/"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1991年10月5日開園。公園単位の所在地確認であり、特設ステージの位置は未確認。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1991年10月5日開園。公園単位の所在地確認であり、特設ステージの位置は未確認。 公演の個別原典確認を意味しない。\n公園全体は1991年10月5日開園（公演会場単独の開設日ではない）。管理センター所在地：ひたちなか市馬渡字大沼605-4（特設ステージの番地ではない）。"
     },
     {
       "id": "jp-kanto-mito-sonic",
@@ -1536,10 +1546,11 @@
         "https://www.livewalker.com/web/detail/8909",
         "https://note.com/youtang/n/n539a6bb1da97",
         "https://chage.jp/information/live/detail-631.php",
-        "https://arinowa.com/artist/562"
+        "https://arinowa.com/artist/562",
+        "https://lp.p.pia.jp/venue/music/8/362/1090/100939/index.html"
       ],
       "verification": "confirmed",
-      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：公式の所在地は南町3丁目。2003年開業との施設情報あり。開業時の運営者資料が未確認のため保留。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：開業者を名乗るnote記事に2003年の水戸店開業と記載。記事著者と実際の運営者の同一性の独立確認が未了のため暫定維持。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：2024年10月19日のChage公式告知と2026年7月11日の主催者公演案内に水戸club SONIC mito。開業時期の運営者原典未取得。 公演の個別原典確認を意味しない。 ／ 開催地再評価（2026-11-28）：運営者公式所在地、2024年10月19日Chage公式告知、2026年7月11日主催者案内の同名会場を照合。開業日の確定は別課題。 既存資料に基づく登録施設単位の確認。公演開催状態・詳細沿革の確定とは別。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：公式の所在地は南町3丁目。2003年開業との施設情報あり。開業時の運営者資料が未確認のため保留。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：開業者を名乗るnote記事に2003年の水戸店開業と記載。記事著者と実際の運営者の同一性の独立確認が未了のため暫定維持。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：2024年10月19日のChage公式告知と2026年7月11日の主催者公演案内に水戸club SONIC mito。開業時期の運営者原典未取得。 公演の個別原典確認を意味しない。 ／ 開催地再評価（2026-11-28）：運営者公式所在地、2024年10月19日Chage公式告知、2026年7月11日主催者案内の同名会場を照合。開業日の確定は別課題。 既存資料に基づく登録施設単位の確認。公演開催状態・詳細沿革の確定とは別。\n所在地：水戸市南町3-3-43 小林ビル地下1階。運営者の現行案内は立見最大200人・椅子80席。チケットぴあ掲載は立見280人・椅子80席。立見の差の時期・理由は未確認、現行案内は運営者を優先。"
     },
     {
       "id": "jp-kanto-mito-new",
@@ -1551,10 +1562,15 @@
       ],
       "sources": [
         "https://www.mito-hall.jp/information/index.html",
-        "https://www.bunkajoho.pref.ibaraki.jp/hall.html"
+        "https://www.bunkajoho.pref.ibaraki.jp/hall.html",
+        "https://www.city.mito.lg.jp/site/mito-cityciviccenter/54268.html",
+        "https://mapfan.com/spots/SC3AH,J,B5W",
+        "https://www.mito-hall.jp/outline/hall-l.html",
+        "https://www.city.mito.lg.jp/site/mito-cityciviccenter/47324.html",
+        "https://www.city.mito.lg.jp/site/citypromotion/100922.html"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "2023年7月2日開館。所在地：水戸市泉町1丁目7番1号。大ホール2,000席（1階1,293、2階333、3階374）、車いす席最大26席（設置は催事により変動）。大ホール愛称グロービスホール、使用期間2023年4月1日～2033年3月31日。旧市民会館とは別敷地・別建物。施設代表位置（暫定）：北緯36.3792254、東経140.4648013。"
     },
     {
       "id": "jp-kanto-utsunomiya-kyoiku",
