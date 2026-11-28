@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-12",
+  "version": "3.8.4-13",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1470,9 +1470,12 @@
         "高崎芸術劇場 大劇場",
         "高崎芸術劇場 スタジオシアター"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.takasaki-foundation.or.jp/theatre/about.php",
+        "https://www.city.takasaki.gunma.jp/page/3111.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2019年9月20日開館。高崎市。公式資料に大劇場・スタジオシアターが明記される。別ホールであることを明記し、既存の施設単位集計を維持。群馬音楽センターとは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-omiya-old",
@@ -1482,9 +1485,13 @@
       "aliases": [
         "大宮市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "当時は大宮市。新施設とは別扱い 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.city.saitama.lg.jp/archivescenter/001/002/003/p079755.html",
+        "https://omiya.keizai.biz/headline/1596/",
+        "https://omiya.keizai.biz/headline/1610/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1970年開館、2022年3月閉館。さいたま市アーカイブズに旧名称「大宮市民会館」が明記される。当時は大宮市、現在はさいたま市大宮区。新施設とは別集計。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-kumagaya-kaikan",
@@ -1494,9 +1501,12 @@
       "aliases": [
         "熊谷会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www-pref-saitama.public.ilb.jp-east-3.idcfcloud.net/e1601/gikai-gaiyou/r0112/b052.html",
+        "https://www.saf.or.jp/information/detail/8063/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1971年開館、2015年3月末廃止。埼玉県議会の答弁と指定管理者の廃止告知で熊谷市の旧施設を確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-saitama-kaikan",
@@ -1603,9 +1613,13 @@
         "サンシティ越谷市民ホール",
         "サンシティ越谷市民ホール 小ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0110367.html",
+        "https://www.city.koshigaya.saitama.jp/toiawase/shisetsu/siminkaikan/komisen.html",
+        "https://suncityhall.jp/hall2"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1979年8月27日開館（全国公立文化施設協会掲載）。越谷市の越谷コミュニティセンター（サンシティホール）。公式資料に小ホールが明記される。登録名を維持し、ホール未指定は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-misato",
@@ -2235,9 +2249,13 @@
         "東京文化会館",
         "東京文化会館 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.t-bunka.jp/about/venue.html",
+        "https://t-navi.city.taito.lg.jp/spot/1070",
+        "https://www.zenkoubun.jp/search/hall_0130443.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1961年4月開館。台東区の東京文化会館。公式施設概要に大ホール・小ホールの両方が明記される。施設単位集計を維持し、ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-orchard",
@@ -3121,9 +3139,12 @@
       "aliases": [
         "よこすか芸術劇場"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0140541.html",
+        "https://www.yokosuka-arts.or.jp/blog/2025/02/26/ceilingrenovationworkreport1/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1994年2月15日開館。横須賀芸術劇場の大劇場「よこすか芸術劇場」。小劇場ヨコスカ・ベイサイド・ポケットとは区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-otodama",
@@ -5591,9 +5612,12 @@
       "aliases": [
         "アクリエひめじ 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.himeji.lg.jp/kanko/0000006638.html",
+        "https://www.himeji-ccc.jp/organizer/large_hall.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2021年9月開館。姫路市文化コンベンションセンター（アクリエひめじ）の大ホール。旧姫路市文化センターとは別施設として維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-080",
@@ -5649,9 +5673,12 @@
       "aliases": [
         "神戸ワールド記念ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.kobe.lg.jp/a27565/world.html",
+        "https://www.zenkoubun.jp/search/hall_0282213.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1984年10月6日開館。神戸ポートアイランドホール（ワールド記念ホール）。神戸市公式資料と全国公立文化施設協会の施設案内を照合。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-085",
@@ -5941,9 +5968,12 @@
       "aliases": [
         "和歌山市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.wakayama.wakayama.jp/kurashi/douro_kouen_machi/1007741/1060541.html",
+        "https://news.wbs.co.jp/185361"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1979年開館、2021年閉館。和歌山市公式の旧施設活用資料で確認。後継の和歌山城ホールとは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-001",
@@ -6358,9 +6388,13 @@
         "広島サンプラザ",
         "広島サンプラザホール"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.city.hiroshima.lg.jp/facility/kinrou/1031726.html",
+        "https://www.zenkoubun.jp/search/hall_0342258.html",
+        "https://www.hiroshima-sunplaza.or.jp/hall/"
+      ],
       "verification": "provisional-location",
-      "note": "広島サンプラザはホールの略称と暫定判断。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "施設資料照合（2026-11-28）：1985年9月21日開館。広島市西区。広島サンプラザにはホール以外の施設もあるため、登録名「広島サンプラザ」がホールを指すことの個別原典は未確認。既存集計と暫定区分を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-039",
