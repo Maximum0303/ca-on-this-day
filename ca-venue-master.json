@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-32",
+  "version": "3.8.4-35",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -60,10 +60,11 @@
         "札幌市民会館"
       ],
       "sources": [
-        "https://www.city.sapporo.jp/city/mayor/interview/text/2007/20070907/index.html"
+        "https://www.city.sapporo.jp/city/mayor/interview/text/2007/20070907/index.html",
+        "https://sapporowalk.sakura.ne.jp/lost/2007/20071001/"
       ],
       "verification": "confirmed",
-      "note": "2007年閉館・解体。後継の札幌市民ホールとは別施設。"
+      "note": "2007年閉館・解体。後継の札幌市民ホールとは別施設。\n1958年竣工。2007年3月閉館、同年解体。跡地の札幌市民ホールは別建物であり、同一施設として集計しない。"
     },
     {
       "id": "jp-hokkaido-koseinenkin",
@@ -77,10 +78,11 @@
       ],
       "sources": [
         "https://www.city.sapporo.jp/s362/155519.html",
-        "https://www.callcenter.city.sapporo.jp/sapporo/cc/web/category121.html?offset=60"
+        "https://www.callcenter.city.sapporo.jp/sapporo/cc/web/category121.html?offset=60",
+        "https://www.city.sapporo.jp/kikaku/downtown/project/kita1nishi12.html"
       ],
       "verification": "confirmed",
-      "note": "2009年にさっぽろ芸術文化の館、2010年にホール愛称ニトリ文化ホール。hitaruとは別施設。 登録表記「札幌厚生年金会館」はサイト管理者の確認に基づき同一施設として集計（2026-11-28）。"
+      "note": "2009年にさっぽろ芸術文化の館、2010年にホール愛称ニトリ文化ホール。hitaruとは別施設。 登録表記「札幌厚生年金会館」はサイト管理者の確認に基づき同一施設として集計（2026-11-28）。\n旧所在地：札幌市中央区北1条西12丁目街区。1971年から立地。2009年に市が取得し改称、2018年9月閉館。2020年1月〜2022年6月に解体工事を実施。"
     },
     {
       "id": "jp-hokkaido-asahikawa-kokaido",
@@ -91,10 +93,11 @@
         "旭川公会堂"
       ],
       "sources": [
-        "https://www.city.asahikawa.hokkaido.jp/facility00/facility04/d053480.html"
+        "https://www.city.asahikawa.hokkaido.jp/facility00/facility04/d053480.html",
+        "https://www.zenkoubun.jp/search/hall_0011401.html"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：旭川市常磐公園。1958年11月3日開館。旭川市民文化会館とは別施設。"
     },
     {
       "id": "jp-hokkaido-hakodate",
@@ -105,10 +108,12 @@
         "函館市民会館"
       ],
       "sources": [
-        "https://www.city.hakodate.hokkaido.jp/hakosuku-map/info/2025022700224/"
+        "https://www.city.hakodate.hokkaido.jp/hakosuku-map/info/2025022700224/",
+        "https://www.zenkoubun.jp/search/hall_0010004.html",
+        "https://www.city.hakodate.hokkaido.jp/docs/2014010800107/"
       ],
       "verification": "confirmed",
-      "note": "愛称：函館サーモン・まるなまホール。"
+      "note": "愛称：函館サーモン・まるなまホール。\n1970年7月1日開館。耐震等改修のため2017年11月1日から休館し、2020年4月1日再開。"
     },
     {
       "id": "jp-hokkaido-muroran",
@@ -119,10 +124,12 @@
         "室蘭市文化センター"
       ],
       "sources": [
-        "https://www.city.muroran.lg.jp/culture/?content=1481"
+        "https://www.city.muroran.lg.jp/culture/?content=1481",
+        "https://www.zenkoubun.jp/search/hall_0010005.html",
+        "https://www.kujiran.net/culture/info/index.html"
       ],
       "verification": "confirmed",
-      "note": "室ガス文化センター。室蘭市市民会館とは別。"
+      "note": "室ガス文化センター。室蘭市市民会館とは別。\n所在地：室蘭市幸町6番23号。1964年11月3日開館。愛称スワン、室ガス文化センター。"
     },
     {
       "id": "jp-hokkaido-kushiro",
@@ -134,10 +141,11 @@
         "釧路市文化会館"
       ],
       "sources": [
-        "https://www.city.kushiro.lg.jp/bunkasports/shougaigakushuu/1005719/1005720.html"
+        "https://www.city.kushiro.lg.jp/bunkasports/shougaigakushuu/1005719/1005720.html",
+        "https://www.zenkoubun.jp/search/hall_0010025.html"
       ],
       "verification": "confirmed",
-      "note": "愛称：コーチャンフォー釧路文化ホール。 登録表記「釧路市文化会館」はサイト管理者の確認に基づき同一施設として集計（2026-11-28）。"
+      "note": "愛称：コーチャンフォー釧路文化ホール。 登録表記「釧路市文化会館」はサイト管理者の確認に基づき同一施設として集計（2026-11-28）。\n1979年11月3日開館。2018年9月に愛称「コーチャンフォー釧路文化ホール」を導入。"
     },
     {
       "id": "jp-hokkaido-makomanai",
@@ -150,10 +158,11 @@
         "真駒内セキスイハイムアイスアリーナ"
       ],
       "sources": [
-        "https://www.pref.hokkaido.lg.jp/kn/tkn/kgs/homepage/makomanai-namingrights.html"
+        "https://www.pref.hokkaido.lg.jp/kn/tkn/kgs/homepage/makomanai-namingrights.html",
+        "https://cocospo.go.jp/facility/31602"
       ],
       "verification": "confirmed",
-      "note": "屋内競技場。屋外スタジアムとは別。"
+      "note": "屋内競技場。屋外スタジアムとは別。\n北海道真駒内屋内競技場（真駒内セキスイハイムアイスアリーナ）。屋内スケート場としても使用される施設。"
     },
     {
       "id": "jp-hokkaido-obihiro-hall",
@@ -164,10 +173,12 @@
         "帯広市民文化ホール"
       ],
       "sources": [
-        "https://www.city.obihiro.hokkaido.jp/shisei/shisetsu/bunka/1001720.html"
+        "https://www.city.obihiro.hokkaido.jp/shisei/shisetsu/bunka/1001720.html",
+        "https://www.zenkoubun.jp/search/hall_0010036.html",
+        "https://obihiro140.jp/history_heisei_01.php"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "1989年1月10日開館。"
     },
     {
       "id": "jp-hokkaido-asahikawa-hall",
@@ -178,10 +189,12 @@
         "旭川市民文化会館"
       ],
       "sources": [
-        "https://www.city.asahikawa.hokkaido.jp/facility00/facility04/d000000.html"
+        "https://www.city.asahikawa.hokkaido.jp/facility00/facility04/d000000.html",
+        "https://www.zenkoubun.jp/search/hall_0010020.html",
+        "https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/355/d080271.html"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：旭川市7条通9丁目。1975年2月2日開館。市は老朽化に伴う建替えを検討中（2026年11月28日確認）。"
     },
     {
       "id": "jp-hokkaido-rsr",
@@ -208,10 +221,11 @@
         "Zepp札幌"
       ],
       "sources": [
-        "https://www.zepp.co.jp/hall/sapporo/"
+        "https://www.zepp.co.jp/hall/sapporo/",
+        "https://www.zepp.co.jp/news/4586/"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "1998年4月、Zeppの第1号施設として開業。"
     },
     {
       "id": "jp-hokkaido-sapporo-dome",
@@ -222,10 +236,12 @@
         "札幌ドーム"
       ],
       "sources": [
-        "https://www.sapporo-dome.co.jp/access/bus/"
+        "https://www.sapporo-dome.co.jp/access/bus/",
+        "https://www.sapporo-dome.co.jp/dome/",
+        "https://www.sapporo-dome.co.jp/information/2024/07/31/14150/"
       ],
       "verification": "confirmed",
-      "note": "大和ハウス プレミストドーム。"
+      "note": "大和ハウス プレミストドーム。\n2001年6月2日開業。2024年8月1日から愛称「大和ハウス プレミストドーム」。"
     },
     {
       "id": "jp-hokkaido-kitami",
@@ -236,10 +252,12 @@
         "北見市民会館"
       ],
       "sources": [
-        "https://www.kitami-hall.jp/shimin-hall/cityhall/"
+        "https://www.kitami-hall.jp/shimin-hall/cityhall/",
+        "https://kitamikanko.jp/spot/1219/",
+        "https://www.city.kitami.lg.jp/administration/detail.php?content=9219"
       ],
       "verification": "confirmed",
-      "note": "愛称：北ガス市民ホール。"
+      "note": "愛称：北ガス市民ホール。\n1972年開館。北見芸術文化ホールとは別施設。"
     },
     {
       "id": "jp-hokkaido-tsukisamu",
@@ -250,10 +268,11 @@
         "月寒アルファコートドーム"
       ],
       "sources": [
-        "https://www.consadeconsa.com/address/address-tsukisamu-alphacourt-dome/"
+        "https://www.consadeconsa.com/address/address-tsukisamu-alphacourt-dome/",
+        "https://www.consadeconsa.com/address/address-hokusho-kurotech-tsukisamu-dome/"
       ],
       "verification": "secondary",
-      "note": "北海道立産業共進会場。旧施設。"
+      "note": "北海道立産業共進会場。旧施設。\n旧所在地：札幌市豊平区月寒東3条11丁目1-1（二次資料）。月寒グリーンドームなどの旧愛称があり、2016年3月31日閉鎖。現存しない。"
     },
     {
       "id": "jp-hokkaido-crystal",
@@ -264,10 +283,12 @@
         "旭川市大雪クリスタルホール"
       ],
       "sources": [
-        "https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/crystalhall/"
+        "https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/crystalhall/",
+        "https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/crystalhall/about/d082604.html",
+        "https://www.atca.jp/facilities/%E6%97%AD%E5%B7%9D%E5%A4%A7%E9%9B%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%83%9B%E3%83%BC%E3%83%AB/"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：旭川市神楽3条7丁目。1993年9月開館。音楽堂、国際会議場、博物館からなる複合施設。公演記録で室名が不明な場合は断定しない。"
     },
     {
       "id": "jp-hokkaido-mombetsu",
@@ -281,7 +302,7 @@
         "https://mombetsu.jp/education/?content=283"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "1972年建設。中央公民館併設の文化施設。開館の正確な月日は未確認。"
     },
     {
       "id": "jp-hokkaido-tokachi",
@@ -292,10 +313,12 @@
         "帯広とかちプラザ・レインボーホール"
       ],
       "sources": [
-        "https://www.city.obihiro.hokkaido.jp/bunka/tokachi/1005448.html"
+        "https://www.city.obihiro.hokkaido.jp/bunka/tokachi/1005448.html",
+        "https://www.zenkoubun.jp/search/hall_0010055.html",
+        "https://www.city.obihiro.hokkaido.jp/bunka/tokachi/1005453.html"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：帯広市西4条南13丁目1。1995年11月1日開館。レインボーホールは施設内の2階。"
     },
     {
       "id": "jp-hokkaido-otaru",
@@ -306,10 +329,12 @@
         "小樽市民センター・マリンホール"
       ],
       "sources": [
-        "https://www.otarushiminkaikan.jp/center/"
+        "https://www.otarushiminkaikan.jp/center/",
+        "https://www.zenkoubun.jp/search/hall_0010051.html",
+        "https://www.otarushiminkaikan.jp/center/facility/"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "1995年4月28日開館。市民センター内のマリンホール。"
     },
     {
       "id": "jp-hokkaido-kitara",
@@ -321,10 +346,12 @@
         "札幌コンサートホールKitara 大ホール"
       ],
       "sources": [
-        "https://sapporo-caf.org/facility/kitara/"
+        "https://sapporo-caf.org/facility/kitara/",
+        "https://www.kitara-sapporo.or.jp/25th/",
+        "https://kitara-sapporo.or.jp/facility/index.html"
       ],
       "verification": "confirmed",
-      "note": "施設単位の集計。ホール不明記録を大ホールと断定しない。"
+      "note": "施設単位の集計。ホール不明記録を大ホールと断定しない。\n1997年7月4日、中島公園内に開館。"
     },
     {
       "id": "jp-hokkaido-artpark",
@@ -335,10 +362,11 @@
         "札幌芸術の森 野外ステージ"
       ],
       "sources": [
-        "https://artpark.or.jp/shisetsu/yagai/"
+        "https://artpark.or.jp/shisetsu/yagai/",
+        "https://www.mountalive.com/hallguide/"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：札幌市南区芸術の森2丁目75（園内施設の住所）。園内の野外ステージ。施設専用の座標は未確認。"
     },
     {
       "id": "jp-hokkaido-penny",
@@ -350,10 +378,11 @@
         "札幌PENNY LANE24"
       ],
       "sources": [
-        "https://www.pl24.jp/info.html"
+        "https://www.pl24.jp/info.html",
+        "https://t.pia.jp/pia/venue/venue.do?cityCd=107&prefectureCd=01&venueCd=SPPN"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：札幌市西区二十四軒4条5丁目5-21 W’Sビル。開業日・移転履歴は未確認。"
     },
     {
       "id": "jp-hokkaido-nayoro",
@@ -380,10 +409,11 @@
         "札幌文化芸術劇場 hitaru"
       ],
       "sources": [
-        "https://www.city.sapporo.jp/shimin/bunka/fukugou/fukugou.html"
+        "https://www.city.sapporo.jp/shimin/bunka/fukugou/fukugou.html",
+        "https://www.sapporo-community-plaza.jp/event_openingseries.html"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "2018年10月開館。北海道厚生年金会館・旧ニトリ文化ホールとは別施設。"
     },
     {
       "id": "jp-hokkaido-mega",
@@ -397,7 +427,7 @@
         "https://wow-st.jp/megastone/"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "帯広市内のライブハウス。運営者による施設案内あり。開業日・移転履歴は未確認。"
     },
     {
       "id": "jp-hokkaido-cube",
@@ -408,10 +438,11 @@
         "cube garden"
       ],
       "sources": [
-        "https://www.cube-garden.com/access.php"
+        "https://www.cube-garden.com/access.php",
+        "https://cube-garden.com/access.php"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：札幌市中央区北2条東3丁目2-5。開業日は今回確定せず。"
     },
     {
       "id": "jp-hokkaido-rokkatei",
@@ -422,10 +453,11 @@
         "六花亭 きたこぶしホール"
       ],
       "sources": [
-        "https://www.rokkatei.co.jp/facilities/%E6%9C%AD%E5%B9%8C%E6%9C%AC%E5%BA%97-9/"
+        "https://www.rokkatei.co.jp/facilities/%E6%9C%AD%E5%B9%8C%E6%9C%AC%E5%BA%97-9/",
+        "https://www.rokkatei.co.jp/hall/ticket/"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：札幌市中央区北4条西6丁目3-3 六花亭札幌本店10階。6階のふきのとうホールとは別会場。"
     },
     {
       "id": "jp-tohoku-hachinohe",
