@@ -1,5 +1,5 @@
 {
-  "version": "3.9.11",
+  "version": "3.9.12",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -2149,10 +2149,11 @@
       ],
       "sources": [
         "https://www.zenkoubun.jp/search/hall_0120403.html",
-        "https://www.city.chiba.jp/faq/shimin/seikatsubunka/bunka/468.html"
+        "https://www.city.chiba.jp/faq/shimin/seikatsubunka/bunka/468.html",
+        "https://www.city.chiba.jp/sogoseisaku/shichokoshitsu/kohokocho/shiminnokoe/h27/r6-1519.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1973年4月29日開館。千葉市中央区要町。市の案内に大ホールが明記される。施設単位集計を維持し、ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1973年4月29日開館。千葉市中央区要町。市の案内に大ホールが明記される。施設単位集計を維持し、ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1973年4月29日開館。所在地：千葉市中央区要町1-1。大ホール固定996席・車いす5席、計1,001席。小ホール可動316席。市の回答ではJR千葉支社跡地への再整備計画が見直され、供用開始が当初予定より遅れる見通し（回答時点）。"
     },
     {
       "id": "jp-kanto-narashino",
@@ -2165,26 +2166,29 @@
       ],
       "sources": [
         "https://www.city.narashino.lg.jp/soshiki/sogoseisaku/gyomu/shisetu/kominkan/bunkahall.html",
-        "https://www.chage-aska.net/history/"
+        "https://www.chage-aska.net/history/",
+        "https://www.city.narashino.lg.jp/shisetu/kominkan/bunkahall/640120150619145916454.html",
+        "https://www.jcpress.co.jp/wp01/?p=39178"
       ],
       "verification": "provisional-location",
-      "note": "施設資料照合（2026-11-28）：1978年開館。建て替え検討に伴い2023年4月1日から長期休館。公式HISTORYの「習志野文化会館ホール」との歴史的同一性は個別原典未確認のため暫定を維持。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1978年開館。建て替え検討に伴い2023年4月1日から長期休館。公式HISTORYの「習志野文化会館ホール」との歴史的同一性は個別原典未確認のため暫定を維持。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1978年開館。所在地：習志野市谷津1丁目16番1号。2023年4月1日から長期休館。2026年3月18日時点の市資料では再建設一時中断、暫定再開に向けた改修設計着手の方針。再開実績ではない。改修前の客席数1,475席（2026年3月報道）。登録名「習志野文化会館ホール」の当時原典は未確認。暫定区分を維持。"
     },
     {
       "id": "jp-kanto-kashiwa-bunka",
       "prefecture": "千葉県",
       "municipality": "柏市",
-      "name": "柏市文化会館",
+      "name": "柏市民文化会館",
       "aliases": [
         "柏市文化会館"
       ],
       "sources": [
         "https://www.city.kashiwa.lg.jp/facilities/culture/bunkakaikan.html",
         "https://www.zenkoubun.jp/search/hall_0120407.html",
-        "https://kashiwa-symphony.com/?page_id=56"
+        "https://kashiwa-symphony.com/?page_id=56",
+        "https://www.kashiwa-sbk.com/facility/"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：候補施設の正式名称は柏市民文化会館、1972年10月27日開館。市公式ページにも柏市文化会館の表記があるが、1982年の登録名との同一性を示す当時の資料は未確認。暫定区分を維持。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：柏交響楽団の1982年演奏会記録に柏市民文化会館の自主事業と記載。登録名との直接照合には至らず暫定維持。 公演の個別原典確認を意味しない。 ／ 開催地再評価（2026-11-28）：柏市公式施設ページの同一施設案内に「柏市民文化会館」と「柏市文化会館」の両表記。既存公文協の1972年開館、柏交響楽団1982年記録と1982年7月2日登録公演が整合。登録名・IDは維持し、当日の原資料確認は別課題。 登録施設単位の確認。開催状態・詳細沿革の確定とは別。"
+      "note": "施設資料照合（2026-11-28）：候補施設の正式名称は柏市民文化会館、1972年10月27日開館。市公式ページにも柏市文化会館の表記があるが、1982年の登録名との同一性を示す当時の資料は未確認。暫定区分を維持。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：柏交響楽団の1982年演奏会記録に柏市民文化会館の自主事業と記載。登録名との直接照合には至らず暫定維持。 公演の個別原典確認を意味しない。 ／ 開催地再評価（2026-11-28）：柏市公式施設ページの同一施設案内に「柏市民文化会館」と「柏市文化会館」の両表記。既存公文協の1972年開館、柏交響楽団1982年記録と1982年7月2日登録公演が整合。登録名・IDは維持し、当日の原資料確認は別課題。 登録施設単位の確認。開催状態・詳細沿革の確定とは別。\n施設詳細点検（2026-11-28）：1972年10月27日開館。所在地：柏市柏下107番地。運営者の施設名は柏市民文化会館。大ホール1,338席（固定1,288・可動50）、小ホール固定300席。既存の集計用別名は維持し、公演時名称は変更しない。"
     },
     {
       "id": "jp-kanto-chiba-ken",
@@ -2196,10 +2200,12 @@
         "千葉県文化会館 大ホール"
       ],
       "sources": [
-        "https://www.zenkoubun.jp/search/hall_0120400.html"
+        "https://www.zenkoubun.jp/search/hall_0120400.html",
+        "https://www.pref.chiba.lg.jp/bunshin/press/2025/sanbasou-bolero.html",
+        "https://www.cbs.or.jp/chiba/hallguide-2/large_hall"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1967年4月1日開館。千葉市。施設単位の集計を維持し、大ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1967年4月1日開館。千葉市。施設単位の集計を維持し、大ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1967年4月1日開館。所在地：千葉市中央区市場町11-2。2023年4月から改修、2025年7月13日リニューアルオープン。運営者の大ホール現行案内は1,728席（車いす4席含む）。取得した公文協資料は大ホール1,790席、小ホール252席。大ホール値は現行運営者と相違、資料時点の確認が必要。"
     },
     {
       "id": "jp-kanto-yachiyo",
@@ -2215,7 +2221,7 @@
         "https://www.zenkoubun.jp/search/hall_0120402.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1973年8月15日開館。八千代市萱田町。市と指定管理者の施設案内、全国公立文化施設協会の開館情報を照合。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1973年8月15日開館。八千代市萱田町。市と指定管理者の施設案内、全国公立文化施設協会の開館情報を照合。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1973年8月15日開館。所在地：八千代市萱田町728。大ホール一般1,260席・車いす5席、小ホール一般437席・車いす2席。2012年大規模改修（公文協記載）。"
     },
     {
       "id": "jp-kanto-ichikawa",
@@ -2229,10 +2235,12 @@
       "sources": [
         "https://www.zenkoubun.jp/search/hall_0120421.html",
         "https://www.tekona.net/bunkakaikan/facilities/",
-        "https://www.city.ichikawa.lg.jp/page/4949.html"
+        "https://www.city.ichikawa.lg.jp/page/4949.html",
+        "https://www.tekona.net/bunkakaikan/facilities/aboutus/mainhall/",
+        "https://www.tekona.net/bunkakaikan/ticket/smallhall/"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1985年11月3日開館。市川市大和田。施設単位の集計を維持し、大ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1985年11月3日開館。市川市大和田。施設単位の集計を維持し、大ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1985年11月3日開館、1983年3月23日着工、1985年7月31日完成。所在地：市川市大和田1丁目1番5号。2020年10月～2022年3月大規模改修休館、2022年4月再開館。大ホール1,758人（1階1,190席、2階568席、移動席26席を含む。車いす利用時変動）。小ホール413席（固定403・移動10席、車いす対応で変動）。"
     },
     {
       "id": "jp-kanto-togane",
@@ -2245,25 +2253,27 @@
       "sources": [
         "https://www.zenkoubun.jp/search/hall_0120423.html",
         "https://www.city.togane.chiba.jp/reiki/reiki_int/reiki_taikei/r_taikei_07_04.html",
-        "https://www.pref.chiba.lg.jp/kkbunka/bunkakaikan/itiran-sammu.html"
+        "https://www.pref.chiba.lg.jp/kkbunka/bunkakaikan/itiran-sammu.html",
+        "https://www.tobunspo.or.jp/hall_guidance/"
       ],
       "verification": "provisional-location",
-      "note": "施設資料照合（2026-11-28）：候補施設の正式名称は東金文化会館。1987年7月1日開館、東金市八坂台。1987年制定の市条例も東金文化会館と表記。1990年の登録名「東金市文化会館」との個別原典照合は未実施のため暫定区分を維持。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：候補施設の正式名称は東金文化会館。1987年7月1日開館、東金市八坂台。1987年制定の市条例も東金文化会館と表記。1990年の登録名「東金市文化会館」との個別原典照合は未実施のため暫定区分を維持。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：候補施設は1987年7月1日開館。候補施設所在地：東金市八坂台1丁目2107番地3。候補施設の大ホールは固定1,213人・車いす2席、小ホール340人（移動式）。候補施設の情報であり、登録名との同一性は未確定。表示名と確認区分を維持。"
     },
     {
       "id": "jp-kanto-makuhari-event",
       "prefecture": "千葉県",
       "municipality": "千葉市",
-      "name": "幕張メッセイベントホール",
+      "name": "幕張イベントホール（幕張メッセ）",
       "aliases": [
         "幕張メッセイベントホール"
       ],
       "sources": [
         "https://www.m-messe.co.jp/organizers/company/profile",
-        "https://www.city.chiba.jp/faq/keizainosei/keizai/kanko/2262.html"
+        "https://www.city.chiba.jp/faq/keizainosei/keizai/kanko/2262.html",
+        "https://www.m-messe.co.jp/organizers/guide/eventhall/guide_eventhall?hl=ja"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1989年10月9日開業の幕張イベントホール。千葉市美浜区。国際展示場・国際会議場とは区別。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1989年10月9日開業の幕張イベントホール。千葉市美浜区。国際展示場・国際会議場とは区別。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1989年10月9日開業（国際展示場1～8、国際会議場と同時）。幕張メッセの共通所在地：千葉市美浜区中瀬2-1。最大約9,000人。固定3,948席、可動912席、仮設約3,000席（構成別であり実動員ではない）。"
     },
     {
       "id": "jp-kanto-makuhari-9-11",
@@ -2275,10 +2285,11 @@
       ],
       "sources": [
         "https://www.m-messe.co.jp/organizers/company/profile",
-        "https://www.city.chiba.jp/sogoseisaku/miraitoshi/makuhari/makuharishintoshingaiyo.html"
+        "https://www.city.chiba.jp/sogoseisaku/miraitoshi/makuhari/makuharishintoshingaiyo.html",
+        "https://www.m-messe.co.jp/organizers/guide/exhibitionhall/guide_exibition9-11"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1997年10月1日増設オープン。1989年開業の1～8ホール・イベントホールとは区別。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1997年10月1日増設オープン。1989年開業の1～8ホール・イベントホールとは区別。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1997年10月1日新展示場として開業。幕張メッセの共通所在地：千葉市美浜区中瀬2-1。展示面積合計18,000㎡（9ホール9,000㎡、10・11ホール各4,500㎡）。イベントホールとは別施設。展示面積を収容人数に換算しない。"
     },
     {
       "id": "jp-kanto-toso",
@@ -2290,16 +2301,17 @@
       ],
       "sources": [
         "https://www.cbs.or.jp/toso/",
-        "https://www.zenkoubun.jp/search/hall_0120428.html"
+        "https://www.zenkoubun.jp/search/hall_0120428.html",
+        "https://www.cbs.or.jp/toso/hallguide"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1991年6月1日開館。旭市の千葉県東総文化会館。運営者資料に大・小ホールが明記される。使用ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1991年6月1日開館。旭市の千葉県東総文化会館。運営者資料に大・小ホールが明記される。使用ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1991年6月1日開館。所在地：旭市ハの666番地。大ホール900席・小ホール302席。前川國男建築設計事務所の設計。"
     },
     {
       "id": "jp-kanto-gyotoku",
       "prefecture": "千葉県",
       "municipality": "市川市",
-      "name": "行徳文化ホール I&I",
+      "name": "行徳文化ホール I&I（市川市行徳公会堂）",
       "aliases": [
         "行徳文化ホール I&I"
       ],
@@ -2309,13 +2321,13 @@
         "https://www.tekona.net/gyotoku/facilities/"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：2004年10月30日開館。市川市行徳公会堂（行徳文化ホールI&I）。改修を経て2025年10月1日再開館（一般利用は10月6日から）。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：2004年10月30日開館。市川市行徳公会堂（行徳文化ホールI&I）。改修を経て2025年10月1日再開館（一般利用は10月6日から）。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：2004年10月30日開館、2003年9月1日着工、2004年8月31日完成。所在地：市川市末広1丁目1番48号。ホール637席、大会議室180人。第七中学校建替えに伴う複合施設。2024年2月～2025年9月大規模改修休館、2025年10月再開館。"
     },
     {
       "id": "jp-kanto-mori21",
       "prefecture": "千葉県",
       "municipality": "松戸市",
-      "name": "森のホール21",
+      "name": "森のホール21（松戸市文化会館）",
       "aliases": [
         "森のホール21",
         "森のホール21 大ホール"
@@ -2326,7 +2338,7 @@
         "https://www.morinohall21.com/hall21/hall_l.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1993年11月3日開館。松戸市文化会館（森のホール21）。市・運営者資料に大ホールが明記される。施設単位集計を維持しホール未指定は断定しない。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1993年11月3日開館。松戸市文化会館（森のホール21）。市・運営者資料に大ホールが明記される。施設単位集計を維持しホール未指定は断定しない。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1993年11月3日開館。所在地：松戸市千駄堀646番地の4。大ホール1,955席・小ホール516席。正式施設名は松戸市文化会館。"
     },
     {
       "id": "jp-kanto-palooza",
@@ -2340,10 +2352,11 @@
         "https://wefan.jp/crowdfunding/projects/palooza",
         "https://lp.p.pia.jp/venue/music/12/158/520/101078/index.html",
         "https://www.red-hot.ne.jp/venue/detail.php?id=pl442",
-        "https://clubberia.com/ja/venues/1281-PALOOZA/"
+        "https://clubberia.com/ja/venues/1281-PALOOZA/",
+        "https://kashiwa-ginza.com/shop/palooza/"
       ],
       "verification": "confirmed",
-      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：2009年開業。運営側の支援募集文は1月、別資料は2月・春と記載するため月日は保留。柏市柏3丁目の旧映画館を転用したライブハウス。 公演の個別原典確認を意味しない。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：2009年開業。運営側の支援募集文は1月、別資料は2月・春と記載するため月日は保留。柏市柏3丁目の旧映画館を転用したライブハウス。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：2020年の運営側支援募集文では2009年1月開業。clubberiaは2009年2月開業と記載、開業月は資料相違。所在地：柏市柏3-2-22 林ビル2F。商店会案内ではオールスタンディング450人。clubberiaも450人と記載（独立性・現行公式定員は未確認）。"
     },
     {
       "id": "jp-kanto-yubin",
