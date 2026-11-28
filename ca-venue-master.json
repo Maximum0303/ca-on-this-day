@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-22",
+  "version": "3.8.4-23",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1275,9 +1275,11 @@
       "aliases": [
         "宇都宮教育会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.tochigi-rk.jp/outline/"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：栃木県連合教育会の沿革に旧栃木県教育会館の記録あり。登録名の宇都宮教育会館がどの施設・建物を指すか、公演当時の原典で未確認のため暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-tochigi-kaikan",
@@ -1287,9 +1289,12 @@
       "aliases": [
         "栃木会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.pref.tochigi.lg.jp/a01/houdou/251110houshin.html",
+        "https://crd.ndl.go.jp/reference/entry/reference/show?asc=desc&dtltbs=1&fi=2_2+2_3+8_21&id=1000213603&ldtl=1&mcmd=25&page=ref_view&st=update&state=2200000010"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：県公式の跡地整備資料と県立図書館の調査記録で旧施設を確認。旧館・新館の区別、公演時の使用ホール、開閉館の厳密な日付が未確定のため暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-sakushin",
@@ -1371,9 +1376,11 @@
       "aliases": [
         "悠日カフェ"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.tochigiji.or.jp/spot/s6889/"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：県観光情報で大谷石の蔵を利用したカフェ・ライブ会場を確認。開業・営業終了時期の運営者資料は未確認。暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-heavens-vj2",
@@ -1753,9 +1760,12 @@
         "八木橋百貨店8階 カトレアホール",
         "八木橋百貨店 カトレアホール"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.yagihashi.co.jp/shop/facility/hall/cattleya-hall/",
+        "https://www.yagihashi.co.jp/floor/"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：百貨店公式案内で8階の多目的ホールを確認。開設時期・公演当時の施設同一性は未確認。既存別名と集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-chiba-shimin",
@@ -2500,9 +2510,12 @@
       "aliases": [
         "夢の島陸上競技場"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.yumenoshima.jp/athletics-stadium",
+        "https://www.city.koto.lg.jp/104010/shisetsuannai/kokyo/sportsshisetsu/kyogijo/16170.html"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：都立夢の島公園陸上競技場と江東区立夢の島競技場は別施設（公園公式が明記）。公演当日の資料でどちらか特定するまで暫定維持。開場年は転用しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-ginza",
@@ -2759,9 +2772,11 @@
       "aliases": [
         "品川プリンスホテル クラブeX"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.princehotels.co.jp/shinagawa/clubex/about.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：2002年開業（ホテル公式）。港区高輪のアネックスタワー3階。開業の月日は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-garden-theater",
@@ -2798,9 +2813,12 @@
       "aliases": [
         "iTSCOM STUDIO & HALL 二子玉川ライズ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.itscom.co.jp/corporate/nrelease/fy2014/55825.html",
+        "https://www.itscom.co.jp/corporate/nrelease/fy2015/55882.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：2015年4月24日開業（運営会社の開業前・開業後発表）。二子玉川ライズ内の放送スタジオ兼多目的ホール。営業終了・改称の有無は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-opera",
@@ -2959,9 +2977,12 @@
       "aliases": [
         "Rock Bar BAUHAUS"
       ],
-      "sources": [],
+      "sources": [
+        "https://rockbarbauhaus.com/%E3%83%90%E3%82%A6%E3%83%8F%E3%82%A6%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/?lang=ja",
+        "https://rockbarbauhaus.com/savebauhaus/?lang=ja"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1981年創業、移転後2022年5月28日再開（運営者公式）。六本木の旧店舗と現店舗の公演時点の区別が未確認のため暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-quattro",
@@ -3014,9 +3035,12 @@
       "aliases": [
         "町田シバヒロ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.city.machida.tokyo.jp/shisei/koho/koho/kouhoushi/koho_machida/2014/20140411.html",
+        "https://www.city.machida.tokyo.jp/shisei/shityoushitu/hoshin/26nen_shiseihoushin.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：2014年5月3日開設。旧市庁舎跡地の芝生広場（市広報・施政方針）。旧市庁舎自体とは区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-kinema",
@@ -3056,9 +3080,13 @@
       "aliases": [
         "本所地域プラザ BIG SHIP 4階 多目的ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://hcpbs.jp/wp/overview/",
+        "https://hcpbs.jp/wp/facility_introduction/",
+        "https://www.city.sumida.lg.jp/sisetu_info/tamokuteki/plaza/honjyo_chiikiplaza/gaiyo.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：2013年10月開館（運営者公式）。本所1丁目13番4号。4階多目的ホールを運営者の各階案内で確認。具体的な開館日は未確定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-mahorosa",
