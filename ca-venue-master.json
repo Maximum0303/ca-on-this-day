@@ -1,5 +1,5 @@
 {
-  "version": "3.8.3-3-fix1",
+  "version": "3.8.3-3-fix2",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -3179,6 +3179,23 @@
       "sources": [],
       "verification": "provisional-location",
       "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-odaiba-neppu-2004",
+      "prefecture": "東京都",
+      "municipality": "江東区",
+      "name": "お台場野外特設会場",
+      "aliases": [
+        "お台場野外特設会場"
+      ],
+      "sources": [
+        "https://www.chage-aska.net/history/2000.php",
+        "https://mixi.jp/search_community.pl?keyword=CHAGE&page=6&search_mode=title&search_type=topic&sort=last_comment-d",
+        "https://www.s-park.jp/map/910"
+      ],
+      "verification": "provisional-location",
+      "titleContains": "熱風コンサート",
+      "note": "2004年8月28日の熱風コンサート。公式年譜はお台場野外特設会場と記載。ファンの記録では青海第二駐車場とされ、所在地資料では江東区青海1丁目。2004年当時の正確な区画は一次資料未確認のため管理者了承のもと暫定分類。他のお台場公演には適用しない。"
     }
   ]
 }
