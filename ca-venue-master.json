@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-15",
+  "version": "3.8.4-16",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1732,9 +1732,12 @@
         "千葉市民会館",
         "千葉市民会館 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0120403.html",
+        "https://www.city.chiba.jp/faq/shimin/seikatsubunka/bunka/468.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1973年4月29日開館。千葉市中央区要町。市の案内に大ホールが明記される。施設単位集計を維持し、ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-narashino",
@@ -1787,9 +1790,13 @@
       "aliases": [
         "八千代市市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.city.yachiyo.lg.jp/soshiki/79/4802.html",
+        "https://ycp.or.jp/civic_hall/access/",
+        "https://www.zenkoubun.jp/search/hall_0120402.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1973年8月15日開館。八千代市萱田町。市と指定管理者の施設案内、全国公立文化施設協会の開館情報を照合。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-ichikawa",
@@ -1816,9 +1823,13 @@
       "aliases": [
         "東金市文化会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0120423.html",
+        "https://www.city.togane.chiba.jp/reiki/reiki_int/reiki_taikei/r_taikei_07_04.html",
+        "https://www.pref.chiba.lg.jp/kkbunka/bunkakaikan/itiran-sammu.html"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "施設資料照合（2026-11-28）：候補施設の正式名称は東金文化会館。1987年7月1日開館、東金市八坂台。1987年制定の市条例も東金文化会館と表記。1990年の登録名「東金市文化会館」との個別原典照合は未実施のため暫定区分を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-makuhari-event",
@@ -1855,9 +1866,12 @@
       "aliases": [
         "千葉県東総文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.cbs.or.jp/toso/",
+        "https://www.zenkoubun.jp/search/hall_0120428.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1991年6月1日開館。旭市の千葉県東総文化会館。運営者資料に大・小ホールが明記される。使用ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-gyotoku",
@@ -1867,9 +1881,13 @@
       "aliases": [
         "行徳文化ホール I&I"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0122362.html",
+        "https://www.city.ichikawa.lg.jp/page/7472.html",
+        "https://www.tekona.net/gyotoku/facilities/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2004年10月30日開館。市川市行徳公会堂（行徳文化ホールI&I）。改修を経て2025年10月1日再開館（一般利用は10月6日から）。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-mori21",
@@ -1880,9 +1898,13 @@
         "森のホール21",
         "森のホール21 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.city.matsudo.chiba.jp/shisetsu-guide/kaikan_hole/morinohall21.html",
+        "https://www.zenkoubun.jp/search/hall_0120417.html",
+        "https://www.morinohall21.com/hall21/hall_l.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1993年11月3日開館。松戸市文化会館（森のホール21）。市・運営者資料に大ホールが明記される。施設単位集計を維持しホール未指定は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-palooza",
@@ -2947,9 +2969,13 @@
       "aliases": [
         "藤沢市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0140512.html",
+        "https://www.city.fujisawa.kanagawa.jp/c-hall/civichall_closedevents.html",
+        "https://www.city.fujisawa.kanagawa.jp/c-hall/change.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1968年10月1日開館。藤沢市鵠沼東。建て替えのため2026年3月31日をもって休館。将来の新施設と混同しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-sagamihara",
@@ -2959,9 +2985,13 @@
       "aliases": [
         "相模原市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0140516.html",
+        "https://www.city.sagamihara.kanagawa.jp/kurashi/shisetsu/bunka_shakai/hall/1002742.html",
+        "https://digital-sagamihara.jp/kids-museum/book/junior"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1965年11月20日開館。相模原市中央区の相模原市民会館。相模原市文化会館（グリーンホール相模大野）とは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-sagami-women",
@@ -3020,9 +3050,12 @@
       "aliases": [
         "小田原市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.city.odawara.kanagawa.jp/field/lifelong/culture/event/close-archive.html",
+        "https://www.city.odawara.kanagawa.jp/public-i/facilities/siminnkaikan/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1962年開館（大ホール）。2021年7月31日閉館。小田原市の閉館記念アーカイブと施設案内による。後継の市民ホールとは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-atsugi",
@@ -3032,9 +3065,12 @@
       "aliases": [
         "厚木市文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.city.atsugi.kanagawa.jp/shiseijoho/shiyakushoannai/9/5/16170.html",
+        "https://www.zenkoubun.jp/search/hall_0140520.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1978年11月2日開館。厚木市文化会館。市公式施設概要および全国公立文化施設協会の情報による。施設単位集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-kanagawa-hall",
