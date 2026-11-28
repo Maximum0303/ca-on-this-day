@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-37",
+  "version": "3.8.4-38",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -61,10 +61,12 @@
       ],
       "sources": [
         "https://www.city.sapporo.jp/city/mayor/interview/text/2007/20070907/index.html",
-        "https://sapporowalk.sakura.ne.jp/lost/2007/20071001/"
+        "https://sapporowalk.sakura.ne.jp/lost/2007/20071001/",
+        "https://www.city.sapporo.jp/chuo/gaiyo/nenpyo.html",
+        "https://www.sapporo-shiminhall.org/hallguide/"
       ],
       "verification": "confirmed",
-      "note": "2007年閉館・解体。後継の札幌市民ホールとは別施設。\n1958年竣工。2007年3月閉館、同年解体。跡地の札幌市民ホールは別建物であり、同一施設として集計しない。"
+      "note": "2007年閉館・解体。後継の札幌市民ホールとは別施設。\n1958年竣工。2007年3月閉館、同年解体。跡地の札幌市民ホールは別建物であり、同一施設として集計しない。\n旧所在地：札幌市中央区北1条西1丁目。1958年開館。跡地には現在の札幌市民ホール（カナモトホール）が立地するが、別建物として扱う。"
     },
     {
       "id": "jp-hokkaido-koseinenkin",
@@ -170,10 +172,13 @@
         "https://www.city.sapporo.jp/s014/1738.html",
         "https://makomanai-park.jp/icearena/access/",
         "https://www.pref.hokkaido.lg.jp/sm/zsk/fm/namingrights/makomanai.html",
-        "https://makomanai-park.jp/icearena/seats/"
+        "https://makomanai-park.jp/icearena/seats/",
+        "https://www.city.sapporo.jp/minami/ishibumi/nenpyou.html",
+        "https://www.shimz.co.jp/works/jp_lei_197101_makomanai.html",
+        "https://makomanai-park.jp/about/"
       ],
       "verification": "confirmed",
-      "note": "屋内競技場。屋外スタジアムとは別。\n北海道真駒内屋内競技場（真駒内セキスイハイムアイスアリーナ）。屋内スケート場としても使用される施設。\n所在地：札幌市南区真駒内公園1-1。施設案内上の名称は真駒内セキスイハイムアイスアリーナ。北海道の命名権契約案内（2025年4月1日～2028年3月31日）には「真駒内セキスイハイムアリーナ」と表記されるが、屋内競技場の同一施設。\n公式座席案内によるスタンド席6,024席。アリーナ仮設席等を含む公演時の収容人数とは区別する。"
+      "note": "屋内競技場。屋外スタジアムとは別。\n北海道真駒内屋内競技場（真駒内セキスイハイムアイスアリーナ）。屋内スケート場としても使用される施設。\n所在地：札幌市南区真駒内公園1-1。施設案内上の名称は真駒内セキスイハイムアイスアリーナ。北海道の命名権契約案内（2025年4月1日～2028年3月31日）には「真駒内セキスイハイムアリーナ」と表記されるが、屋内競技場の同一施設。\n公式座席案内によるスタンド席6,024席。アリーナ仮設席等を含む公演時の収容人数とは区別する。\n1972年札幌冬季オリンピックに向けて整備された施設。札幌市南区年表は1970年完成、施工会社の実績は1971年竣工と記載。完成・竣工の厳密な日付は保留する。"
     },
     {
       "id": "jp-hokkaido-obihiro-hall",
@@ -254,10 +259,11 @@
         "https://www.sapporo-dome.co.jp/information/2024/07/31/14150/",
         "https://www.sapporo-dome.co.jp/information/2024/07/19/14012/",
         "https://prtimes.jp/main/html/rd/p/000000205.000054373.html",
-        "https://www.sapporo-dome.co.jp/rule/qa/"
+        "https://www.sapporo-dome.co.jp/rule/qa/",
+        "https://www.city.sapporo.jp/sports/sisetsu/institution/stadium/sapporo-dome.html"
       ],
       "verification": "confirmed",
-      "note": "大和ハウス プレミストドーム。\n2001年6月2日開業。2024年8月1日から愛称「大和ハウス プレミストドーム」。\n命名権契約期間：2024年8月1日～2028年7月31日。札幌ドームは正式施設名。\n施設の最大収容人数53,820人。イベントごとに客席配置と収容人数は異なる。"
+      "note": "大和ハウス プレミストドーム。\n2001年6月2日開業。2024年8月1日から愛称「大和ハウス プレミストドーム」。\n命名権契約期間：2024年8月1日～2028年7月31日。札幌ドームは正式施設名。\n施設の最大収容人数53,820人。イベントごとに客席配置と収容人数は異なる。\n所在地：札幌市豊平区羊ケ丘1番地。"
     },
     {
       "id": "jp-hokkaido-kitami",
@@ -289,10 +295,12 @@
         "https://www.consadeconsa.com/address/address-tsukisamu-alphacourt-dome/",
         "https://www.consadeconsa.com/address/address-hokusho-kurotech-tsukisamu-dome/",
         "https://tokukita.jp/naming-rights/hokkaido-naming-rights.html",
-        "https://hre-net.com/keizai/keizaisougou/17487/"
+        "https://hre-net.com/keizai/keizaisougou/17487/",
+        "https://www.itogumi.co.jp/trackrecord/detail.php?eid=00615",
+        "https://www.daiwahouse.com/about/release/group/20191017113122.html"
       ],
       "verification": "secondary",
-      "note": "北海道立産業共進会場。旧施設。\n旧所在地：札幌市豊平区月寒東3条11丁目1-1（二次資料）。月寒グリーンドームなどの旧愛称があり、2016年3月31日閉鎖。現存しない。\n二次資料による最終愛称：ケーズデンキ月寒ドーム（2014年4月21日～2016年3月31日）。北翔クロテック月寒ドームなどの愛称も使用された。正式施設名は北海道立産業共進会場。"
+      "note": "北海道立産業共進会場。旧施設。\n旧所在地：札幌市豊平区月寒東3条11丁目1-1（二次資料）。月寒グリーンドームなどの旧愛称があり、2016年3月31日閉鎖。現存しない。\n二次資料による最終愛称：ケーズデンキ月寒ドーム（2014年4月21日～2016年3月31日）。北翔クロテック月寒ドームなどの愛称も使用された。正式施設名は北海道立産業共進会場。\n解体工事の施工実績は2018年11月竣工。跡地に複合商業施設「ブランチ札幌月寒」が2019年10月23日グランドオープンした。命名権の詳細は従来の二次資料確認区分を維持。"
     },
     {
       "id": "jp-hokkaido-crystal",
@@ -320,10 +328,12 @@
         "紋別市民会館 大ホール"
       ],
       "sources": [
-        "https://mombetsu.jp/education/?content=283"
+        "https://mombetsu.jp/education/?content=283",
+        "https://www.zenkoubun.jp/search/hall_0010029.html",
+        "https://yoyacool.e-harp.jp/mombetsu/FacilityGuides/Index/012190/1003"
       ],
       "verification": "confirmed",
-      "note": "1972年建設。中央公民館併設の文化施設。開館の正確な月日は未確認。\n大ホール収容人員：880席（市の施設案内）。"
+      "note": "1972年建設。中央公民館併設の文化施設。開館の正確な月日は未確認。\n大ホール収容人員：880席（市の施設案内）。\n所在地：紋別市潮見町1丁目4番3号。"
     },
     {
       "id": "jp-hokkaido-tokachi",
@@ -405,10 +415,12 @@
       ],
       "sources": [
         "https://www.pl24.jp/info.html",
-        "https://t.pia.jp/pia/venue/venue.do?cityCd=107&prefectureCd=01&venueCd=SPPN"
+        "https://t.pia.jp/pia/venue/venue.do?cityCd=107&prefectureCd=01&venueCd=SPPN",
+        "https://lp.p.pia.jp/article/news/25884/index.html",
+        "https://jp.yamaha.com/news_events/2022/proaudio/case/pennylane24.html"
       ],
       "verification": "confirmed",
-      "note": "所在地：札幌市西区二十四軒4条5丁目5-21 W’Sビル。開業日・移転履歴は未確認。"
+      "note": "所在地：札幌市西区二十四軒4条5丁目5-21 W’Sビル。1982年にすすきので前身のPENNY LANEが開業。1990年に二十四軒へ移転しPENNY LANE24へ改称（店長インタビュー）。2018年の同記事では収容人数500人と案内。現在の公演ごとの定員は別途確認が必要。"
     },
     {
       "id": "jp-hokkaido-nayoro",
@@ -439,10 +451,12 @@
         "https://www.sapporo-community-plaza.jp/event_openingseries.html",
         "https://www.sapporo-community-plaza.jp/access.html",
         "https://www.sapporo-community-plaza.jp/news.php?num=1748",
-        "https://www.sapporo-community-plaza.jp/facility_theater.html"
+        "https://www.sapporo-community-plaza.jp/facility_theater.html",
+        "https://www.nagata.co.jp/news/news1812.html",
+        "https://www.city.sapporo.jp/city/mayor/interview/text/2018/20180410.html"
       ],
       "verification": "confirmed",
-      "note": "2018年10月開館。ニトリ文化ホール（旧北海道厚生年金会館）とは別施設。\n所在地：札幌市中央区北1条西1丁目（札幌市民交流プラザ）。劇場客席数2,302席。舞台・客席構成により使用可能席数は変動する。"
+      "note": "2018年10月7日、オペラ「アイーダ」のこけら落とし公演で開館。ニトリ文化ホール（旧北海道厚生年金会館）とは別施設。\n所在地：札幌市中央区北1条西1丁目（札幌市民交流プラザ）。劇場客席数2,302席。舞台・客席構成により使用可能席数は変動する。"
     },
     {
       "id": "jp-hokkaido-mega",
@@ -456,7 +470,7 @@
         "https://wow-st.jp/megastone/"
       ],
       "verification": "confirmed",
-      "note": "帯広市内のライブハウス。運営者による施設案内あり。開業日・移転履歴は未確認。\n所在地：帯広市東6条南5丁目14。"
+      "note": "帯広市内のライブハウス。運営者による施設案内あり。開業日・移転履歴は未確認。\n所在地：帯広市東6条南5丁目14。\n運営者の現行施設案内では約350人規模。過去の公演時の収容人数とは区別する。"
     },
     {
       "id": "jp-hokkaido-cube",
@@ -468,10 +482,12 @@
       ],
       "sources": [
         "https://www.cube-garden.com/access.php",
-        "https://cube-garden.com/access.php"
+        "https://cube-garden.com/access.php",
+        "https://www.livewalker.com/web/detail/8645",
+        "https://www.pilotfree.com/shop/shop_other/cube-garden/"
       ],
       "verification": "confirmed",
-      "note": "所在地：札幌市中央区北2条東3丁目2-5。開業日は今回確定せず。"
+      "note": "所在地：札幌市中央区北2条東3丁目2-5。二次資料では2008年10月開業、スタンディング約350人・椅子席218席とされる。正確な開業日と現行定員の公式資料は未確認。"
     },
     {
       "id": "jp-hokkaido-rokkatei",
