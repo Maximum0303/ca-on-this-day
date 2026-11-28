@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-42",
+  "version": "3.8.4-43",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -634,44 +634,67 @@
       "id": "jp-tohoku-iwate-kenmin",
       "prefecture": "岩手県",
       "municipality": "盛岡市",
-      "name": "岩手県民会館（トーサイクラシックホール岩手）",
+      "name": "トーサイクラシックホール岩手（岩手県民会館）",
       "aliases": [
         "岩手県民会館",
         "岩手県民会館・大ホール"
       ],
       "sources": [
-        "https://www.city.morioka.iwate.jp/geijutubunka/facilities/2000513.html"
+        "https://www.city.morioka.iwate.jp/geijutubunka/facilities/2000513.html",
+        "https://www.iwate-kenmin.jp/facility/about/",
+        "https://www.iwate-kenmin.jp/facility/",
+        "https://www.iwate-kenmin.jp/6014/",
+        "https://www.pref.iwate.jp/kensei/kanzai/1011337/1063444.html",
+        "https://naming-rights.org/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%91%BD%E5%90%8D%E6%A8%A9%E5%B0%8E%E5%85%A5%E6%96%BD%E8%A8%AD%E4%B8%80%E8%A6%A7/",
+        "https://www.iwate-kenmin.jp/10872/",
+        "https://www.navitime.co.jp/poi?spot=02301-e00110"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：盛岡市内丸13番1号。1973年3月25日竣工、4月1日開館。大ホール1,991席（1階1,287席、2階400席、3階304席）、中ホール602席。2023年4月1日から愛称「トーサイクラシックホール岩手」。命名権協会の一覧では更新契約2025年4月1日～2028年3月31日（県契約原本は再確認対象）。2026年4月14日付の施設告知で大ホール大規模修繕に伴う貸出停止を案内。地図上の施設代表位置（概略）：北緯39.70360、東経141.15470（NAVITIME掲載座標・検索結果、地図画像未取得）。"
     },
     {
       "id": "jp-tohoku-ichinoseki",
       "prefecture": "岩手県",
       "municipality": "一関市",
-      "name": "一関文化センター",
+      "name": "SWS東日本シビックホール一関（一関文化センター）",
       "aliases": [
         "一関文化センター"
       ],
       "sources": [
-        "https://www.city.ichinoseki.iwate.jp/archive/contents-15992"
+        "https://www.city.ichinoseki.iwate.jp/archive/contents-15992",
+        "https://ichi-bun.com/facility/",
+        "https://ichi-bun.com/facility/data01.html",
+        "https://ichi-bun.com/facility/data02.html",
+        "https://www.zenkoubun.jp/search/hall_0030106.html",
+        "https://www.city.ichinoseki.iwate.jp/archive/p20260420110512",
+        "https://arealog.net/672017/",
+        "https://mapfan.com/spots/SC3AH%2CJ%2CDB"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：一関市大手町2-16。1984年11月開館（全国公立文化施設協会では11月1日）。2026年5月1日から2031年3月31日まで命名権愛称「SWS東日本シビックホール一関」。運営者の現行案内は大ホール1,205席、中ホール470席。全国公立文化施設協会の掲載値は大1,217席・中472席で、座席構成・時点の差は未確認。地図上の施設代表位置（暫定）：北緯38.92827、東経141.13416（AreaNote GO掲載座標）。MapFan掲載の度分秒値からの換算は38.92826、141.13338で差があるため位置再照合対象。"
     },
     {
       "id": "jp-tohoku-morioka-ice",
       "prefecture": "岩手県",
       "municipality": "盛岡市",
-      "name": "盛岡市アイスアリーナ",
+      "name": "盛岡タカヤアリーナ（旧盛岡市アイスアリーナ）",
       "aliases": [
         "盛岡市アイスアリーナ"
       ],
       "sources": [
-        "https://www.city.morioka.iwate.jp/kurashi/sodan/tel_kurashi/1009322.html"
+        "https://www.city.morioka.iwate.jp/kurashi/sodan/tel_kurashi/1009322.html",
+        "https://www.city.morioka.iwate.jp/shisetsu/sports/gym/1006882.html",
+        "https://morioka-sport.or.jp/facility/arena/",
+        "https://www.city.morioka.iwate.jp/shisei/morioka_profile/1009298.html",
+        "https://mice.jnto.go.jp/organizer-support/search/venue-detail/432.html",
+        "https://www.city.morioka.iwate.jp/kanko_sports_bunka/sports/shisaku_keikaku/1003295.html",
+        "https://greater-morioka-sc.jp/facility/arena",
+        "https://hellomorioka.jp/conv/facility/meeting/1280/",
+        "https://newikis.com/ja/%E7%9B%9B%E5%B2%A1%E5%B8%82%E7%B7%8F%E5%90%88%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A",
+        "https://morioka.keizai.biz/headline/2027/"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：盛岡市本宮5丁目4-1。1989年に盛岡市アイスアリーナとして開館。2017年4月、通年フロア施設の盛岡市総合アリーナに改修・再開（日本政府観光局）。同一建物であり、別施設の盛岡市アイスリンクとは区別する。2016年7月から愛称「盛岡タカヤアリーナ」（二次資料）、現契約2024年4月1日～2029年3月31日。運営者案内の観覧席3,098席、盛岡広域スポーツコミッションの収容観客数5,058人。2026年3月更新の観光コンベンション協会案内は2・3階固定3,053席と記載し、各構成・差の理由は未確認。地図上の施設代表位置（概略）：北緯39.69086、東経141.12039（二次資料）。"
     },
     {
       "id": "jp-tohoku-koiwai",
@@ -684,10 +707,11 @@
       "sources": [
         "https://iwatetabi.jp/spots/5705/",
         "https://www.koiwaifarm.com/guide/access/",
-        "https://www.chage-aska.net/history/2000.php"
+        "https://www.chage-aska.net/history/2000.php",
+        "https://www.koiwaifarm.com/guide/"
       ],
       "verification": "provisional-location",
-      "note": "まきば園所在地による暫定分類。2001年の特設ステージ位置は未確認。 ／ 施設資料照合（2026-11-28）：農場運営者公式のまきば園所在地は雫石町丸谷地36-1。C&A公式年譜は2001年の小岩井農場出演を記載するが、農場全体のうち実際に設営された区画は特定できない。 公演の個別原典確認を意味しない。"
+      "note": "まきば園所在地による暫定分類。2001年の特設ステージ位置は未確認。 ／ 施設資料照合（2026-11-28）：農場運営者公式のまきば園所在地は雫石町丸谷地36-1。C&A公式年譜は2001年の小岩井農場出演を記載するが、農場全体のうち実際に設営された区画は特定できない。 公演の個別原典確認を意味しない。\n公式年譜のイベント名は「KOIWAI ROCK FARM2001」。仮設ステージの固定客席数・建物開館日は設定しない。当時の会場区画・収容人数・座標は未確認。現在のまきば園の代表座標を代用しない。"
     },
     {
       "id": "jp-tohoku-morioka-shimin",
@@ -698,10 +722,14 @@
         "盛岡市民文化ホール 大ホール"
       ],
       "sources": [
-        "https://www.mfca.jp/shiminbunka/top/information"
+        "https://www.mfca.jp/shiminbunka/top/information",
+        "https://www.mfca.jp/shiminbunka/guidance",
+        "https://www.city.morioka.iwate.jp/shisetsu/bunka/hall/1006839.html",
+        "https://www.zenkoubun.jp/search/hall_0030121.html",
+        "https://mapcarta.com/N1243376156"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：盛岡市盛岡駅西通2-9-1（盛岡駅西口、マリオス内）。全国公立文化施設協会では1998年4月1日開館。運営者案内の大ホールは固定1,510席、車いす席6席（計1,516席）。小ホールは別室で固定350席、車いす席6席。地図上の施設代表位置（概略）：北緯39.70116、東経141.13360（Mapcarta掲載位置、地図画像未取得）。建物内の客席・入口の厳密な位置ではない。岩手県民会館とは別施設。"
     },
     {
       "id": "jp-tohoku-sendai-shimin",
