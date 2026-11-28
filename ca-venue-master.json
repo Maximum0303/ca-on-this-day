@@ -1,5 +1,5 @@
 {
-  "version": "3.8.3-3",
+  "version": "3.8.3-3-fix1",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1142,26 +1142,15 @@
       "name": "茨城県立県民文化センター",
       "aliases": [
         "茨城県民文化センター",
-        "茨城県立県民文化センター"
+        "茨城県立県民文化センター",
+        "茨城県文化センター"
       ],
       "sources": [
         "https://www.pref.ibaraki.jp/bugai/koho/kenmin/profile/kensei-history/1966-01.html",
         "https://www.pref.ibaraki.jp/somu/somu/hosei/cont/reiki_int/reiki_honbun/o400RG00000453.html"
       ],
       "verification": "confirmed",
-      "note": ""
-    },
-    {
-      "id": "jp-kanto-ibaraki-bunka-short",
-      "prefecture": "茨城県",
-      "municipality": "水戸市",
-      "name": "茨城県文化センター",
-      "aliases": [
-        "茨城県文化センター"
-      ],
-      "sources": [],
-      "verification": "pending-alias",
-      "note": "県民文化センターとの同一性未確認 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "登録表記「茨城県文化センター」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。"
     },
     {
       "id": "jp-kanto-hitachi",
@@ -1270,23 +1259,12 @@
       "name": "宇都宮市文化会館",
       "aliases": [
         "宇都宮市文化会館",
-        "宇都宮市文化会館・大ホール"
-      ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
-    },
-    {
-      "id": "jp-kanto-utsunomiya-short",
-      "prefecture": "栃木県",
-      "municipality": "宇都宮市",
-      "name": "宇都宮文化会館",
-      "aliases": [
+        "宇都宮市文化会館・大ホール",
         "宇都宮文化会館"
       ],
       "sources": [],
-      "verification": "pending-alias",
-      "note": "市文化会館との同一性保留 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 登録表記「宇都宮文化会館」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。"
     },
     {
       "id": "jp-kanto-kuroiso",
@@ -1343,28 +1321,15 @@
       "name": "HEAVEN'S ROCK 宇都宮 VJ-2",
       "aliases": [
         "HEAVEN'S ROCK 宇都宮 VJ-2",
-        "HEAVEN'S ROCK UTSUNOMIYA VJ-2"
-      ],
-      "sources": [
-        "https://www.heavensrock.com/utsunomiya/access/"
-      ],
-      "verification": "confirmed",
-      "note": ""
-    },
-    {
-      "id": "jp-kanto-heavens-unspecified",
-      "prefecture": "栃木県",
-      "municipality": "宇都宮市",
-      "name": "HEAVEN'S ROCK 宇都宮",
-      "aliases": [
+        "HEAVEN'S ROCK UTSUNOMIYA VJ-2",
         "HEAVEN'S ROCK 宇都宮"
       ],
       "sources": [
         "https://www.heavensrock.com/utsunomiya/access/",
         "https://www.heavensrock.com/utsunomiya2/access/"
       ],
-      "verification": "pending-alias",
-      "note": "VJ-2とVJ-4が別施設のため統合保留 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "verification": "confirmed",
+      "note": "登録表記「HEAVEN'S ROCK 宇都宮」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。 VJ-2明記の3記録と同じ会場と推定し、2024-05-12の略記1件をVJ-2に分類。VJ-4は別施設であり、当該公演の原典確認は未実施。"
     },
     {
       "id": "jp-kanto-gunma-kenmin",
@@ -1681,23 +1646,12 @@
       "municipality": "習志野市",
       "name": "習志野文化ホール",
       "aliases": [
-        "習志野文化ホール"
-      ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
-    },
-    {
-      "id": "jp-kanto-narashino-short",
-      "prefecture": "千葉県",
-      "municipality": "習志野市",
-      "name": "習志野文化会館ホール",
-      "aliases": [
+        "習志野文化ホール",
         "習志野文化会館ホール"
       ],
       "sources": [],
-      "verification": "pending-alias",
-      "note": "習志野文化ホールとの同一性保留 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 登録表記「習志野文化会館ホール」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。"
     },
     {
       "id": "jp-kanto-kashiwa-bunka",
@@ -2834,18 +2788,6 @@
       "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
     },
     {
-      "id": "jp-kanto-kawasaki-sangyo",
-      "prefecture": "神奈川県",
-      "municipality": "川崎市",
-      "name": "川崎産業会館",
-      "aliases": [
-        "川崎産業会館"
-      ],
-      "sources": [],
-      "verification": "pending-alias",
-      "note": "川崎産業文化会館との同一性保留 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
-    },
-    {
       "id": "jp-kanto-sagami-women",
       "prefecture": "神奈川県",
       "municipality": "相模原市",
@@ -2858,18 +2800,6 @@
       "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
     },
     {
-      "id": "jp-kanto-kanagawa-short",
-      "prefecture": "神奈川県",
-      "municipality": "横浜市",
-      "name": "神奈川県民会館",
-      "aliases": [
-        "神奈川県民会館"
-      ],
-      "sources": [],
-      "verification": "pending-alias",
-      "note": "県民ホールとの同一性保留 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
-    },
-    {
       "id": "jp-kanto-hiratsuka",
       "prefecture": "神奈川県",
       "municipality": "平塚市",
@@ -2880,18 +2810,6 @@
       "sources": [],
       "verification": "provisional-location",
       "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
-    },
-    {
-      "id": "jp-kanto-kanagawa-short2",
-      "prefecture": "神奈川県",
-      "municipality": "横浜市",
-      "name": "神奈川県民大ホール",
-      "aliases": [
-        "神奈川県民大ホール"
-      ],
-      "sources": [],
-      "verification": "pending-alias",
-      "note": "県民ホールとの同一性保留 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
     },
     {
       "id": "jp-kanto-yokohama-buntai",
@@ -2911,11 +2829,12 @@
       "municipality": "川崎市",
       "name": "川崎産業文化会館",
       "aliases": [
-        "川崎産業文化会館"
+        "川崎産業文化会館",
+        "川崎産業会館"
       ],
       "sources": [],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 登録表記「川崎産業会館」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。"
     },
     {
       "id": "jp-kanto-odawara",
@@ -2949,11 +2868,13 @@
       "aliases": [
         "神奈川県民ホール",
         "神奈川県民ホール 大ホール",
-        "神奈川県立県民ホール・大ホール"
+        "神奈川県立県民ホール・大ホール",
+        "神奈川県民会館",
+        "神奈川県民大ホール"
       ],
       "sources": [],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 登録表記「神奈川県民会館」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。 登録表記「神奈川県民大ホール」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。"
     },
     {
       "id": "jp-kanto-yokohama-stadium",
