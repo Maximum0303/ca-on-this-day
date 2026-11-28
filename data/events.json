@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "notice": "掲載内容は変更される可能性があります。最新情報は公式をご確認ください。2027年の公式発表済み予定を追加。開催予定の記録は日付経過のみで開催済みと断定せず、延期・中止と区別して表示します。既存の記録の確認日・履歴はそのまま保存しています。",
-  "lastUpdated": "2026-11-28",
+  "lastUpdated": "2026-11-29",
   "events": [
     {
       "id": "milestone-1978-popcon15-formation-yearonly",
@@ -86638,7 +86638,7 @@
       "artist": "ASKA",
       "category": "live",
       "title": "ASKA CONCERT TOUR 2026-2027 “Lock-on”",
-      "status": "scheduled",
+      "status": "recorded",
       "verification": "primary",
       "tourId": "aska-lock-on-2026-2027",
       "venue": "アクリエひめじ 大ホール",
@@ -86646,11 +86646,19 @@
       "country": "日本",
       "performanceNo": 18,
       "startTime": "17:00",
-      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演17:00。現時点では開催予定であり、開催済みを意味しない。",
+      "note": "【開催予定・2026年11月17日時点】 【2025〜2026年記録点検】公式発表の2026年日程。開演17:00。現時点では開催予定であり、開催済みを意味しない。\n開催確認（2026-11-29）：ASKA公式ブログ「姫路公演終了」（掲載日2026-11-28）の本人による終了報告に基づく。公演日は公式日程と一致。記事末尾署名は2026/11/26 22:32と相違するため投稿時刻は確定しない。ブログ本文は管理者提供の転記で確認（直接取得不可）。",
       "sources": [
         {
           "label": "ASKA公式：Lock-on特設サイト",
           "url": "https://www.fellows.tokyo/feature/lock_on_2026"
+        },
+        {
+          "label": "ASKA公式ブログ「姫路公演終了」",
+          "url": "https://www.fellows.tokyo/blog/detail/1600/"
+        },
+        {
+          "label": "ASKA公式公演日程",
+          "url": "https://www.fellows.tokyo/schedule/detail/651"
         }
       ],
       "description": "2026年11月28日、ASKAの「ASKA CONCERT TOUR 2026-2027 “Lock-on”」は、アクリエひめじ 大ホールで開催される予定。\nこのツアーの第18公演にあたる。"
