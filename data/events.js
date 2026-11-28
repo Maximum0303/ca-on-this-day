@@ -45533,7 +45533,10 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "description": "2003年12月1日、『ギャラリーチャゲラッチョ』が始まった。\nラジオ番組と連動した写真展示企画で、札幌のUBUSUNA CAFEで写真を展示した。"
+      "description": "2003年12月1日、『ギャラリーチャゲラッチョ』が始まった。\nラジオ番組と連動した写真展示企画で、札幌のUBUSUNA CAFEで写真を展示した。",
+      "venue": "UBUSUNA CAFE",
+      "prefecture": "北海道",
+      "country": "日本"
     },
     {
       "id": "event-v08-004",
@@ -45550,7 +45553,10 @@ window.CA_EVENT_DATA = {
           "url": "https://www.chage-aska.net/history/2000.php"
         }
       ],
-      "description": "2003年12月9日、Chageが取り上げられたラジオ番組『今夜はチャゲラッチョ』が放送された。"
+      "description": "2003年12月9日、札幌のUBUSUNA CAFEでChageのラジオ番組『今夜はチャゲラッチョ』の公開録音が行われた。放送日とは区別する。",
+      "venue": "UBUSUNA CAFE",
+      "prefecture": "北海道",
+      "country": "日本"
     },
     {
       "id": "media-v18213-2003-016",
@@ -104211,7 +104217,37 @@ window.CA_EVENT_DATA = {
           "url": "https://skyfes.net/contents/topics/ticket"
         }
       ]
+    },
+    {
+      "id": "hokkaido-20000708-chage-surround-01",
+      "date": "2000-07-08",
+      "artist": "Chage",
+      "category": "other",
+      "title": "TUG OF C&A PRESENTS 千年夜一夜ライブ 5.1chデジタルサラウンド体感イベント Featuring CHAGE（第1回）",
+      "status": "recorded",
+      "verification": "secondary",
+      "venue": "Zepp Sapporo",
+      "prefecture": "北海道",
+      "country": "日本",
+      "startTime": "16:30",
+      "session": "第1回",
+      "note": "ファンクラブ限定の映像・音響体感イベント。公式HISTORYは企画全体の開催を記録。札幌第1回の日時・会場は参加者記録と公演一覧による確認。第2回以降は個別資料未確認。通常のライブ公演とは別分類。",
+      "sources": [
+        {
+          "label": "CHAGE and ASKA公式サイト｜HISTORY（企画全体）",
+          "url": "https://www.chage-aska.net/history/2000.php"
+        },
+        {
+          "label": "参考資料（非公式・参加記録）",
+          "url": "https://www2u.biglobe.ne.jp/~taropage/ca/zepp/index.html"
+        },
+        {
+          "label": "参考資料（非公式・公演記録）",
+          "url": "https://ja.wikid.org/Chage"
+        }
+      ],
+      "description": "2000年7月8日、Zepp Sapporoでファンクラブ限定のサラウンド体感イベント第1回が行われたとの参加記録がある。開演16:30。"
     }
   ],
-  "siteVersion": "2.9.26"
+  "siteVersion": "2.9.27"
 };
