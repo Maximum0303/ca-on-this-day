@@ -59,7 +59,10 @@
 <script defer src="ca-final-v300.js?v=3.0.0"></script>
 <link rel="stylesheet" href="ca-live-index-v320.css?v=3.2.0">
 
-<script defer src="ca-live-index-v375.js?v=3.7.5"></script>
+<!-- CA_VENUE_ARCHIVE_V385 -->
+<script defer src="ca-venue-archive-v385.js?v=3.8.5"></script>
+<style id="va-bridge-style">.va-inline[hidden],.va-group-links[hidden],#va-map-selected[hidden]{display:none!important}.va-inline{display:block;margin:5px 0}.va-group-links{display:flex;flex-wrap:wrap;gap:8px;margin:9px 0}.va-link{color:var(--gold-light,#f8e2ba);text-decoration:underline;text-underline-offset:3px;font-size:13px;overflow-wrap:anywhere}#va-map-selected{margin:12px 0}</style>
+<script defer src="ca-live-index-v375.js?v=3.8.5"></script>
 <link rel="stylesheet" href="ca-release-index-v330.css?v=3.3.0">
 <script defer src="ca-release-index-v376.js?v=3.7.6"></script>
 <script defer src="ca-book-index-v340.js?v=3.4.0"></script>
@@ -282,7 +285,7 @@ html:not(.ca235-date-ready) :is(#hero-month-en,#hero-day,#hero-date-ja,#hero-wee
       <div class="section-head"><div><span class="kicker">ARCHIVE INDEXES</span><h2 id="ca372-indices-heading">各種索引</h2><p>目的に合わせて記録を探せます。</p></div></div>
     <div class="ca-map-entry"><a href="live-map.html">公演開催地マップ ↗</a><span>日本地図から都道府県別の公演記録を探す</span></div>
     <section id="ca320-index" aria-labelledby="ca320-heading">
-      <div class="section-head"><div><span class="kicker">LIVE ARCHIVE INDEX</span><h3 id="ca320-heading">ライブ索引</h3></div></div>
+      <div class="section-head"><div><span class="kicker">LIVE ARCHIVE INDEX</span><h3 id="ca320-heading">ライブ索引</h3><p><a class="va-link" href="venue-archive.html">公演会場資料一覧 ↗</a></p></div></div>
       <details id="ca320-details"><summary>ツアー・会場・都道府県から探す</summary><div class="ca320-body">
         <p>登録されたライブ記録を集計します。開催予定・延期・中止も含む記録件数であり、実施公演数ではありません。</p>
         <div class="ca320-filters"><label>索引の種類<select id="ca320-mode"><option value="tour">ツアー別</option><option value="venue">会場別</option><option value="pref">都道府県・地域別</option></select></label><label>名義<select id="ca320-artist"><option value="">すべて</option></select></label><label>都道府県・地域<select id="ca320-pref"><option value="">すべて</option></select></label><label class="ca320-query">索引内検索<input id="ca320-query" type="search" placeholder="ツアー名・会場名・地域名など"></label></div>
@@ -417,6 +420,7 @@ document.addEventListener('DOMContentLoaded',function(){
  chips.append(node('span','ca-detail-chip ca-artist-tag '+artistClass,artistName||'名義未設定'));
  chips.append(node('span','ca-detail-chip',cats[e.category]||e.category));paper.append(chips);
  const place=[e.prefecture,e.venue].filter(Boolean).join('・');if(place)paper.append(node('p','ca-detail-place',place));
+ if(e.category==='live'&&window.CA_VENUE_ARCHIVE)paper.append(window.CA_VENUE_ARCHIVE.eventLink(e));
  const part=title=>{const s=node('section','ca-detail-section');s.append(node('h2','',title));paper.append(s);return s;};
  if(e.description)part('この日の出来事').append(node('div','ca-detail-note',e.description));
  if(e.note){const details=node('details','ca23-audit');details.append(node('summary','','調査・確認記録を開く'),node('div','ca-detail-note',e.note));const audit=part('調査・確認記録');audit.classList.add('ca23-audit-section');audit.setAttribute('aria-label','調査・確認記録');audit.querySelector('h2')?.remove();audit.append(details);}
