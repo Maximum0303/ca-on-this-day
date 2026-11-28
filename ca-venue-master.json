@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-10",
+  "version": "3.8.4-11",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1525,10 +1525,11 @@
         "さいたま市文化センター"
       ],
       "sources": [
-        "https://saitama-culture.jp/culturecenter/"
+        "https://saitama-culture.jp/culturecenter/",
+        "https://www.city.saitama.lg.jp/minami/001/003/001/p003649.html"
       ],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1985年6月開館。さいたま市南区。市の沿革に浦和市文化センターとして開館した記録があり、運営者の現施設案内も開館年が一致。旧市名表記を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-kawaguchi-shimin",
@@ -2206,9 +2207,12 @@
         "府中の森芸術劇場 どりーむホール",
         "府中の森芸術劇場"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.city.fuchu.tokyo.jp/shisetu/komyunite/gekijo/mori.html",
+        "https://www.zenkoubun.jp/search/hall_0130476.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1991年6月30日開館。府中市。どりーむ・ウィーン・ふるさとホールを備える。ホール未指定の記録は断定せず施設単位集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-tokyo-bunka",
@@ -2335,9 +2339,13 @@
       "aliases": [
         "ル テアトル銀座 by PARCO"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://stage.parco.jp/blog/detail/1901",
+        "https://kotobank.jp/word/%E9%8A%80%E5%BA%A7%E3%82%BB%E3%82%BE%E3%83%B3%E5%8A%87%E5%A0%B4-705728",
+        "https://kotobank.jp/word/%E3%82%8B%E3%81%A6%E3%81%82%E3%81%A8%E3%82%8B%E9%8A%80%E5%BA%A7byparco-747024"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1987年に銀座セゾン劇場として開業した東京都中央区の旧劇場。2013年5月閉館。パルコの営業終了告知と百科事典の施設沿革を照合。旧名の別グループとの統合は行わない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-mitsui",
@@ -2347,9 +2355,12 @@
       "aliases": [
         "日本橋三井ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://nihonbashi-hall.jp/about/index.html",
+        "https://www.mitsuifudosan.co.jp/corporate/news/2010/0622/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2010年開業。東京都中央区日本橋室町のCOREDO室町（現COREDO室町1）内。運営者の沿革と開発事業者の開業告知を照合。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-hachioji-new",
@@ -2463,9 +2474,12 @@
       "aliases": [
         "昭和女子大学 人見記念講堂"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://hall.swu.ac.jp/about/outline.html",
+        "https://www.swu.ac.jp/news/nid00003160.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1980年4月1日開館。昭和女子大学の世田谷区キャンパス内の人見記念講堂。2022年の改修を経た同施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-imperial",
@@ -2628,9 +2642,12 @@
         "ザ・プリンス パークタワー東京",
         "ザ・プリンス パークタワー東京 ボールルーム"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.princehotels.co.jp/press/250206_01/",
+        "https://www.princehotels.co.jp/parktower/banquet/ballroom/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2005年4月11日開業。東京都港区芝公園。公式案内でボールルームを確認。ホテル単位集計を維持し、宴会場未指定の公演は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-bluenote",
@@ -3189,9 +3206,13 @@
       "aliases": [
         "横浜赤レンガ倉庫1号館3Fホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://akarenga.yafjp.org/",
+        "https://akarenga.yafjp.org/facility/hall/",
+        "https://www.yokohama-akarenga.jp/about/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2002年春に文化施設として開館した横浜赤レンガ倉庫1号館の3階ホール。2号館・屋外広場とは区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-kaat",
@@ -5019,9 +5040,14 @@
       "aliases": [
         "BIGCAT"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.big-step.co.jp/shop/detail/28",
+        "https://bigcat-live.com/",
+        "https://www.walkerplus.com/spot/ar0727s74420/",
+        "https://music-planet.jp/event-report/osaka_bigcat_superlive"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：大阪市心斎橋のBIGSTEP4階のライブハウス。1999年にBIGCATとしてリニューアル開業（情報誌・イベント主催者資料）。旧名称との統合は行わない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-036",
@@ -6818,9 +6844,13 @@
       "aliases": [
         "キャナルシティ劇場"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://fukuokajisho.com/company/history/",
+        "https://www.oricon.co.jp/news/2475731/full/",
+        "https://www.canalcitygekijo.com/news/%E3%82%AD%E3%83%A3%E3%83%8A%E3%83%AB%E3%82%B7%E3%83%86%E3%82%A3%E5%8A%87%E5%A0%B4%E3%80%80%E5%90%8D%E7%A7%B0%E5%A4%89%E6%9B%B4%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：福岡市博多区の劇場。1996年に福岡シティ劇場として開館、2010年にキャナルシティ劇場として再開（開発事業者沿革・報道）。2026年10月1日にクラフティア劇場へ名称変更との運営者告知。既存の名称・別名・集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-008",
@@ -7852,9 +7882,12 @@
       "aliases": [
         "那覇文化芸術劇場なはーと 大劇場"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.naha.okinawa.jp/kankou-bunka/bunkasinkou/1007403/1003541.html",
+        "https://www.zenkoubun.jp/search/hall_0472672.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2021年10月31日開館。那覇市久茂地の那覇文化芸術劇場なはーとの大劇場。旧那覇市民会館・小劇場とは別集計。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-093",
