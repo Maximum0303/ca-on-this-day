@@ -1,5 +1,5 @@
 {
-  "version": "3.8.3-4",
+  "version": "3.8.3-5",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -24,7 +24,14 @@
     "長野県",
     "岐阜県",
     "静岡県",
-    "愛知県"
+    "愛知県",
+    "三重県",
+    "滋賀県",
+    "京都府",
+    "大阪府",
+    "兵庫県",
+    "奈良県",
+    "和歌山県"
   ],
   "entries": [
     {
@@ -4424,6 +4431,1251 @@
       "sources": [],
       "verification": "provisional-location",
       "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kinki-001",
+      "prefecture": "三重県",
+      "municipality": "伊勢市",
+      "name": "ハートプラザみその",
+      "aliases": [
+        "ハートプラザみその"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-002",
+      "prefecture": "三重県",
+      "municipality": "伊勢市",
+      "name": "伊勢観光会館",
+      "aliases": [
+        "伊勢観光会館"
+      ],
+      "sources": [
+        "https://www.ise-kanbun.jp/about/outline/"
+      ],
+      "verification": "provisional-location",
+      "note": "伊勢市の観光文化会館が候補。1982年の表記との同一性未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-003",
+      "prefecture": "三重県",
+      "municipality": "志摩市",
+      "name": "合歓の郷 野外ホール",
+      "aliases": [
+        "合歓の郷 野外ホール"
+      ],
+      "sources": [
+        "https://www.nemuresort.com/?id=18",
+        "https://www.yamaha-mf.or.jp/history/e-history/nemu_sf/nemu_sf9.html"
+      ],
+      "verification": "confirmed",
+      "note": "現自治体は志摩市（旧浜島町）。当該公演のシリーズ所属は別途保留。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-004",
+      "prefecture": "三重県",
+      "municipality": "津市",
+      "name": "三重県文化会館",
+      "aliases": [
+        "三重県文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-005",
+      "prefecture": "三重県",
+      "municipality": "津市",
+      "name": "三重県文化会館・大ホール",
+      "aliases": [
+        "三重県文化会館・大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-006",
+      "prefecture": "三重県",
+      "municipality": "津市",
+      "name": "三重県文化会館中ホール",
+      "aliases": [
+        "三重県文化会館中ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-007",
+      "prefecture": "三重県",
+      "municipality": "四日市市",
+      "name": "四日市市文化会館",
+      "aliases": [
+        "四日市市文化会館"
+      ],
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0240831.html"
+      ],
+      "verification": "confirmed",
+      "note": "1982年8月開館。旧市民会館表記と混同しない。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-008",
+      "prefecture": "三重県",
+      "municipality": "四日市市",
+      "name": "四日市市文化会館 第1ホール",
+      "aliases": [
+        "四日市市文化会館 第1ホール",
+        "四日市市文化会館 第一ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "第1と第一の表記差。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-010",
+      "prefecture": "三重県",
+      "municipality": "四日市市",
+      "name": "四日市市民会館（登録名・施設同一性未確認）",
+      "aliases": [
+        "四日市市民会館"
+      ],
+      "sources": [
+        "https://www2.city.yokkaichi.mie.jp/www/contents/1001000000141/index.html"
+      ],
+      "verification": "provisional-location",
+      "note": "1981年記録は現文化会館の開館前。1987年記録も含め施設同一性保留。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-011",
+      "prefecture": "三重県",
+      "municipality": "四日市市",
+      "name": "四日市市民文化会館",
+      "aliases": [
+        "四日市市民文化会館"
+      ],
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0240831.html"
+      ],
+      "verification": "provisional-location",
+      "note": "現文化会館の別表記候補。未統合。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-012",
+      "prefecture": "三重県",
+      "municipality": "鈴鹿市",
+      "name": "鈴鹿市文化会館 けやきホール",
+      "aliases": [
+        "鈴鹿市文化会館 けやきホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-013",
+      "prefecture": "滋賀県",
+      "municipality": "大津市",
+      "name": "びわ湖ホール",
+      "aliases": [
+        "びわ湖ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-014",
+      "prefecture": "滋賀県",
+      "municipality": "大津市",
+      "name": "びわ湖ホール・大ホール",
+      "aliases": [
+        "びわ湖ホール・大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-015",
+      "prefecture": "滋賀県",
+      "municipality": "近江八幡市",
+      "name": "近江八幡市文化会館",
+      "aliases": [
+        "近江八幡市文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-016",
+      "prefecture": "滋賀県",
+      "municipality": "栗東市",
+      "name": "栗東芸術文化会館さきら大ホール",
+      "aliases": [
+        "栗東芸術文化会館さきら大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-017",
+      "prefecture": "滋賀県",
+      "municipality": "大津市",
+      "name": "滋賀B-FLAT",
+      "aliases": [
+        "滋賀B-FLAT"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-018",
+      "prefecture": "滋賀県",
+      "municipality": "守山市",
+      "name": "守山市民ホール",
+      "aliases": [
+        "守山市民ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-019",
+      "prefecture": "滋賀県",
+      "municipality": "守山市",
+      "name": "守山市民ホール 大ホール",
+      "aliases": [
+        "守山市民ホール 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-020",
+      "prefecture": "滋賀県",
+      "municipality": "大津市",
+      "name": "大津市民会館",
+      "aliases": [
+        "大津市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-021",
+      "prefecture": "滋賀県",
+      "municipality": "長浜市",
+      "name": "長浜市民会館",
+      "aliases": [
+        "長浜市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-022",
+      "prefecture": "滋賀県",
+      "municipality": "大津市",
+      "name": "比叡山延暦寺 大講堂",
+      "aliases": [
+        "比叡山延暦寺 大講堂"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "延暦寺の所在地は大津市。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-023",
+      "prefecture": "京都府",
+      "municipality": "京都市",
+      "name": "ロームシアター京都",
+      "aliases": [
+        "ロームシアター京都"
+      ],
+      "sources": [
+        "https://rohmtheatrekyoto.jp/about/"
+      ],
+      "verification": "confirmed",
+      "note": "2016年再開。ホール指定なし。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-024",
+      "prefecture": "京都府",
+      "municipality": "京都市",
+      "name": "ロームシアター京都 メインホール",
+      "aliases": [
+        "ロームシアター京都 メインホール"
+      ],
+      "sources": [
+        "https://www.city.kyoto.lg.jp/bunshi/page/0000122424.html"
+      ],
+      "verification": "confirmed",
+      "note": "旧第一ホールは建て替え。旧施設とは別集計。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-025",
+      "prefecture": "京都府",
+      "municipality": "京都市",
+      "name": "京都コンサートホール 大ホール",
+      "aliases": [
+        "京都コンサートホール 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-026",
+      "prefecture": "京都府",
+      "municipality": "京都市",
+      "name": "京都会館（旧施設・ホール指定なし）",
+      "aliases": [
+        "京都会館"
+      ],
+      "sources": [
+        "https://rohmtheatrekyoto.jp/about/"
+      ],
+      "verification": "confirmed",
+      "note": "旧施設のホール不明。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-027",
+      "prefecture": "京都府",
+      "municipality": "京都市",
+      "name": "京都会館 第一ホール（旧施設）",
+      "aliases": [
+        "京都会館第一ホール"
+      ],
+      "sources": [
+        "https://www.city.kyoto.lg.jp/bunshi/page/0000122424.html"
+      ],
+      "verification": "confirmed",
+      "note": "建て替え前の第一ホール。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-028",
+      "prefecture": "京都府",
+      "municipality": "京都市",
+      "name": "京都会館 第二ホール（旧名称）",
+      "aliases": [
+        "京都会館第二ホール"
+      ],
+      "sources": [
+        "https://www.city.kyoto.lg.jp/bunshi/page/0000122424.html"
+      ],
+      "verification": "confirmed",
+      "note": "第二ホールは保存・改修。登録時の名称を維持。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-029",
+      "prefecture": "京都府",
+      "municipality": "京都市",
+      "name": "京都磔磔",
+      "aliases": [
+        "京都磔磔"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-030",
+      "prefecture": "京都府",
+      "municipality": "京都市",
+      "name": "同志社女子大",
+      "aliases": [
+        "同志社女子大"
+      ],
+      "sources": [
+        "https://www.dwc.doshisha.ac.jp/about/history/overview",
+        "https://www.150th-dwc.jp/history/"
+      ],
+      "verification": "provisional-location",
+      "note": "1986年田辺キャンパス開設前。今出川が有力。公演校地の原典未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-031",
+      "prefecture": "京都府",
+      "municipality": "京都市",
+      "name": "梅小路公園",
+      "aliases": [
+        "梅小路公園"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-032",
+      "prefecture": "京都府",
+      "municipality": "舞鶴市",
+      "name": "舞鶴市総合文化会館",
+      "aliases": [
+        "舞鶴市総合文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-033",
+      "prefecture": "京都府",
+      "municipality": "京都市",
+      "name": "平安神宮特設ステージ",
+      "aliases": [
+        "平安神宮特設ステージ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-034",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "ATCホール",
+      "aliases": [
+        "ATCホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-035",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "BIGCAT",
+      "aliases": [
+        "BIGCAT"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-036",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "NHK大阪ホール",
+      "aliases": [
+        "NHK大阪ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-037",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "umeda TRAD（旧 umeda AKASO）",
+      "aliases": [
+        "umeda AKASO",
+        "umeda TRAD"
+      ],
+      "sources": [
+        "https://umeda-trad.com/index_php/",
+        "https://umeda.keizai.biz/headline/2459/"
+      ],
+      "verification": "confirmed",
+      "note": "同一店舗の名称変更。2024年閉館。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-039",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "Zepp Namba",
+      "aliases": [
+        "Zepp Namba"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-040",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "Zepp Osaka",
+      "aliases": [
+        "Zepp Osaka"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-041",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "Zepp Osaka Bayside",
+      "aliases": [
+        "Zepp Osaka Bayside"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-042",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "オリックス劇場（旧 大阪厚生年金会館大ホール）",
+      "aliases": [
+        "オリックス劇場",
+        "大阪厚生年金会館・大ホール"
+      ],
+      "sources": [
+        "https://www.orix.co.jp/grp/company/newsroom/newsrelease/110617_ORIXG.html"
+      ],
+      "verification": "confirmed",
+      "note": "旧大ホールを改修し2012年再開。中ホール・ホール指定なしは別グループ。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-043",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "グランキューブ大阪（大阪国際会議場）",
+      "aliases": [
+        "グランキューブ大阪",
+        "グランキューブ大阪（大阪国際会議場）"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "施設名の別表記。ホール明記の記録とは区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-044",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "グランキューブ大阪 メインホール",
+      "aliases": [
+        "グランキューブ大阪 メインホール",
+        "大阪国際会議場（グランキューブ大阪）大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "メインホールと大ホールの表記差と推定。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-046",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "サンケイホールブリーゼ",
+      "aliases": [
+        "サンケイホールブリーゼ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-047",
+      "prefecture": "大阪府",
+      "municipality": "島本町",
+      "name": "サントリー山崎蒸溜所",
+      "aliases": [
+        "サントリー山崎蒸溜所"
+      ],
+      "sources": [
+        "https://www.suntory.co.jp/factory/yamazaki/"
+      ],
+      "verification": "confirmed",
+      "note": "施設公式所在地は島本町。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-048",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "シアターBRAVA!",
+      "aliases": [
+        "シアターBRAVA!"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-049",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "なんばHatch",
+      "aliases": [
+        "なんばHatch"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-050",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "ハイアットリージェンシー大阪",
+      "aliases": [
+        "ハイアットリージェンシー大阪"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-051",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "ビルボードライブ大阪",
+      "aliases": [
+        "ビルボードライブ大阪"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-052",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "フェスティバルホール（2013年開館）",
+      "aliases": [
+        "フェスティバルホール"
+      ],
+      "sources": [
+        "https://www.festivalhall.jp/about/"
+      ],
+      "verification": "confirmed",
+      "note": "2008年閉館後に建て替えた新施設。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-053",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "リーガロイヤルホテル大阪",
+      "aliases": [
+        "リーガロイヤルホテル大阪"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-054",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "リーガロイヤルホテル大阪 光琳の間",
+      "aliases": [
+        "リーガロイヤルホテル大阪 光琳の間"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-055",
+      "prefecture": "大阪府",
+      "municipality": "貝塚市",
+      "name": "貝塚・コスモスシアター 大ホール",
+      "aliases": [
+        "貝塚・コスモスシアター 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-056",
+      "prefecture": "大阪府",
+      "municipality": "岸和田市",
+      "name": "岸和田市立浪切ホール",
+      "aliases": [
+        "岸和田市立浪切ホール 大ホール",
+        "浪切ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "同施設の略称。ホール指定なしを含む。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-057",
+      "prefecture": "大阪府",
+      "municipality": "高槻市",
+      "name": "高槻市民会館",
+      "aliases": [
+        "高槻市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-058",
+      "prefecture": "大阪府",
+      "municipality": "堺市",
+      "name": "堺市民会館",
+      "aliases": [
+        "堺市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-059",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "松下IMPホール",
+      "aliases": [
+        "松下IMPホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-060",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "大阪ウォーホール（難波W’OHOL候補）",
+      "aliases": [
+        "大阪ウォーホール"
+      ],
+      "sources": [
+        "https://eplus.jp/sf/venue/5560020",
+        "https://www.setlist.fm/venue/wohol-osaka-japan-53d2f3d9.html"
+      ],
+      "verification": "provisional-location",
+      "note": "難波W’OHOLが有力。1994年公演との同一性は暫定。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-061",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "大阪サンケイホール（旧施設）",
+      "aliases": [
+        "大阪サンケイホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "サンケイホールブリーゼと区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-062",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "大阪フェスティバルホール（旧施設）",
+      "aliases": [
+        "大阪フェスティバルホール"
+      ],
+      "sources": [
+        "https://www.festivalhall.jp/about/"
+      ],
+      "verification": "confirmed",
+      "note": "1958年開館・2008年閉館。現施設とは別集計。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-063",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "大阪厚生年金会館（ホール指定なし）",
+      "aliases": [
+        "大阪厚生年金会館"
+      ],
+      "sources": [
+        "https://www.belca.or.jp/osakakou.htm"
+      ],
+      "verification": "confirmed",
+      "note": "大・中ホールいずれか未指定。オリックス劇場と自動統合しない。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-065",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "大阪厚生年金会館 中ホール（旧施設）",
+      "aliases": [
+        "大阪厚生年金会館中ホール"
+      ],
+      "sources": [
+        "https://www.belca.or.jp/osakakou.htm"
+      ],
+      "verification": "confirmed",
+      "note": "大ホールとは別施設。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-067",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "大阪市中央体育館（Asueアリーナ大阪）",
+      "aliases": [
+        "大阪市中央体育館"
+      ],
+      "sources": [
+        "https://asue-group.com/jp/topics/337/"
+      ],
+      "verification": "confirmed",
+      "note": "愛称変更。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-068",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "大阪城ホール",
+      "aliases": [
+        "大阪城ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-069",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "大阪城西の丸庭園",
+      "aliases": [
+        "大阪城西の丸庭園"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-070",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "大阪南港WTCオープンエアスタジアム",
+      "aliases": [
+        "大阪南港WTCオープンエアスタジアム"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-071",
+      "prefecture": "大阪府",
+      "municipality": "吹田市",
+      "name": "大阪万博記念競技場",
+      "aliases": [
+        "大阪万博記念競技場"
+      ],
+      "sources": [
+        "https://www.oaaa.jp/about/stadium.html"
+      ],
+      "verification": "confirmed",
+      "note": "吹田市の万博記念競技場。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-072",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "帝国ホテル大阪",
+      "aliases": [
+        "帝国ホテル大阪"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-073",
+      "prefecture": "大阪府",
+      "municipality": "大阪市",
+      "name": "帝国ホテル大阪 孔雀の間",
+      "aliases": [
+        "帝国ホテル大阪 孔雀の間"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-074",
+      "prefecture": "大阪府",
+      "municipality": "八尾市",
+      "name": "八尾市文化会館",
+      "aliases": [
+        "八尾市文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-076",
+      "prefecture": "大阪府",
+      "municipality": "吹田市",
+      "name": "万博記念公園 もみじ川芝生広場",
+      "aliases": [
+        "万博記念公園 もみじ川芝生広場"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-077",
+      "prefecture": "大阪府",
+      "municipality": "箕面市",
+      "name": "箕面市立文化芸能劇場 大ホール",
+      "aliases": [
+        "箕面市立文化芸能劇場 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-079",
+      "prefecture": "兵庫県",
+      "municipality": "姫路市",
+      "name": "アクリエひめじ 大ホール",
+      "aliases": [
+        "アクリエひめじ 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-080",
+      "prefecture": "兵庫県",
+      "municipality": "神戸市",
+      "name": "神戸チキンジョージ",
+      "aliases": [
+        "チキンジョージ",
+        "神戸チキンジョージ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "所在地・同一店舗の暫定分類。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-081",
+      "prefecture": "兵庫県",
+      "municipality": "神戸市",
+      "name": "甲南女子大",
+      "aliases": [
+        "甲南女子大"
+      ],
+      "sources": [
+        "https://www.konan-wu.ac.jp/about/message/history.php",
+        "https://up-j.shigaku.go.jp/school/category08/00000000572101000.html"
+      ],
+      "verification": "provisional-location",
+      "note": "1964年から神戸市の現校地。学内会場未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-082",
+      "prefecture": "兵庫県",
+      "municipality": "神戸市",
+      "name": "松蔭女子大",
+      "aliases": [
+        "松蔭女子大"
+      ],
+      "sources": [
+        "https://www.shoin.ac.jp/guide/outline/history.html"
+      ],
+      "verification": "provisional-location",
+      "note": "1981年六甲統合。旧校地も神戸市。公演当日の具体会場は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-084",
+      "prefecture": "兵庫県",
+      "municipality": "神戸市",
+      "name": "神戸ワールド記念ホール",
+      "aliases": [
+        "神戸ワールド記念ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-085",
+      "prefecture": "兵庫県",
+      "municipality": "神戸市",
+      "name": "神戸国際会館（新旧・ホール指定なし）",
+      "aliases": [
+        "神戸国際会館"
+      ],
+      "sources": [
+        "https://www.kih.co.jp/anniversary/detail/1",
+        "https://www.kih.co.jp/company"
+      ],
+      "verification": "provisional-location",
+      "note": "1995年被災・1999年再建。登録名が新旧にまたがるため同一建物として扱わない。現行マスター仕様では日付別分割不可。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-086",
+      "prefecture": "兵庫県",
+      "municipality": "神戸市",
+      "name": "神戸国際会館 こくさいホール",
+      "aliases": [
+        "神戸国際会館 こくさいホール"
+      ],
+      "sources": [
+        "https://www.kih.co.jp/company"
+      ],
+      "verification": "confirmed",
+      "note": "再建後のこくさいホール。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-087",
+      "prefecture": "兵庫県",
+      "municipality": "神戸市",
+      "name": "神戸朝日ホール",
+      "aliases": [
+        "神戸朝日ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-088",
+      "prefecture": "兵庫県",
+      "municipality": "神戸市",
+      "name": "神戸文化ホール",
+      "aliases": [
+        "神戸文化ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-089",
+      "prefecture": "兵庫県",
+      "municipality": "神戸市",
+      "name": "神戸文化ホール 大ホール",
+      "aliases": [
+        "神戸文化ホール 大ホール",
+        "神戸文化ホール（大）"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "大ホールと（大）の表記差。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-091",
+      "prefecture": "兵庫県",
+      "municipality": "尼崎市",
+      "name": "尼崎アルカイックホール",
+      "aliases": [
+        "尼崎アルカイックホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-092",
+      "prefecture": "兵庫県",
+      "municipality": "姫路市",
+      "name": "姫路市文化センター",
+      "aliases": [
+        "姫路市文化センター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-093",
+      "prefecture": "兵庫県",
+      "municipality": "西宮市",
+      "name": "兵庫県立芸術文化センター KOBELCO大ホール",
+      "aliases": [
+        "兵庫県立芸術文化センター KOBELCO大ホール",
+        "兵庫県立芸術文化センター 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "大ホールの愛称表記差。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-095",
+      "prefecture": "兵庫県",
+      "municipality": "明石市",
+      "name": "明石市立市民会館アワーズホール",
+      "aliases": [
+        "明石市立市民会館アワーズホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-096",
+      "prefecture": "兵庫県",
+      "municipality": "明石市",
+      "name": "明石市立市民会館アワーズホール大ホール",
+      "aliases": [
+        "明石市立市民会館アワーズホール大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-097",
+      "prefecture": "奈良県",
+      "municipality": "奈良市",
+      "name": "EVANS CASTLE HALL",
+      "aliases": [
+        "EVANS CASTLE HALL"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-098",
+      "prefecture": "奈良県",
+      "municipality": "橿原市",
+      "name": "かしはら万葉ホール",
+      "aliases": [
+        "かしはら万葉ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-099",
+      "prefecture": "奈良県",
+      "municipality": "奈良市",
+      "name": "なら100年会館 大ホール",
+      "aliases": [
+        "なら100年会館 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-100",
+      "prefecture": "奈良県",
+      "municipality": "明日香村",
+      "name": "国営飛鳥歴史公園",
+      "aliases": [
+        "国営飛鳥歴史公園"
+      ],
+      "sources": [
+        "https://www.kkr.mlit.go.jp/asuka/initiatives-asuka/about.html"
+      ],
+      "verification": "confirmed",
+      "note": "公園全域は明日香村。開催地区は未確認。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-101",
+      "prefecture": "奈良県",
+      "municipality": "大和高田市",
+      "name": "大和高田さざんかホール大ホール",
+      "aliases": [
+        "大和高田さざんかホール大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-102",
+      "prefecture": "奈良県",
+      "municipality": "奈良市",
+      "name": "奈良県文化会館",
+      "aliases": [
+        "奈良県文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-103",
+      "prefecture": "奈良県",
+      "municipality": "奈良市",
+      "name": "奈良市平城宮跡",
+      "aliases": [
+        "奈良市平城宮跡"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-104",
+      "prefecture": "和歌山県",
+      "municipality": "和歌山市",
+      "name": "SHELTER",
+      "aliases": [
+        "SHELTER"
+      ],
+      "sources": [
+        "https://www.wakayama-shelter.com/price.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設公式所在地は和歌山市。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kinki-105",
+      "prefecture": "和歌山県",
+      "municipality": "田辺市",
+      "name": "紀南文化会館 大ホール",
+      "aliases": [
+        "紀南文化会館 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-106",
+      "prefecture": "和歌山県",
+      "municipality": "和歌山市",
+      "name": "和歌山県民文化会館",
+      "aliases": [
+        "和歌山県民文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-107",
+      "prefecture": "和歌山県",
+      "municipality": "和歌山市",
+      "name": "和歌山県民文化会館 大ホール",
+      "aliases": [
+        "和歌山県民文化会館 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kinki-108",
+      "prefecture": "和歌山県",
+      "municipality": "和歌山市",
+      "name": "和歌山市民会館",
+      "aliases": [
+        "和歌山市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
     }
   ]
 }
