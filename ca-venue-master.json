@@ -1,5 +1,5 @@
 {
-  "version": "3.8.3-2-fix1",
+  "version": "3.8.3-3",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -8,7 +8,14 @@
     "宮城県",
     "秋田県",
     "山形県",
-    "福島県"
+    "福島県",
+    "茨城県",
+    "栃木県",
+    "群馬県",
+    "埼玉県",
+    "千葉県",
+    "東京都",
+    "神奈川県"
   ],
   "entries": [
     {
@@ -1103,6 +1110,2154 @@
       ],
       "verification": "confirmed",
       "note": ""
+    },
+    {
+      "id": "jp-kanto-mito-old",
+      "prefecture": "茨城県",
+      "municipality": "水戸市",
+      "name": "水戸市民会館",
+      "aliases": [
+        "水戸市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-tsuchiura",
+      "prefecture": "茨城県",
+      "municipality": "土浦市",
+      "name": "土浦市民会館",
+      "aliases": [
+        "土浦市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-ibaraki-kenmin",
+      "prefecture": "茨城県",
+      "municipality": "水戸市",
+      "name": "茨城県立県民文化センター",
+      "aliases": [
+        "茨城県民文化センター",
+        "茨城県立県民文化センター"
+      ],
+      "sources": [
+        "https://www.pref.ibaraki.jp/bugai/koho/kenmin/profile/kensei-history/1966-01.html",
+        "https://www.pref.ibaraki.jp/somu/somu/hosei/cont/reiki_int/reiki_honbun/o400RG00000453.html"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-kanto-ibaraki-bunka-short",
+      "prefecture": "茨城県",
+      "municipality": "水戸市",
+      "name": "茨城県文化センター",
+      "aliases": [
+        "茨城県文化センター"
+      ],
+      "sources": [],
+      "verification": "pending-alias",
+      "note": "県民文化センターとの同一性未確認 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-hitachi",
+      "prefecture": "茨城県",
+      "municipality": "日立市",
+      "name": "日立市民会館",
+      "aliases": [
+        "日立市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-tsukuba",
+      "prefecture": "茨城県",
+      "municipality": "つくば市",
+      "name": "つくばノバホール",
+      "aliases": [
+        "つくばノバホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-hitachi-park",
+      "prefecture": "茨城県",
+      "municipality": "ひたちなか市",
+      "name": "国営ひたち海浜公園",
+      "aliases": [
+        "国営ひたち海浜公園"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-mito-sonic",
+      "prefecture": "茨城県",
+      "municipality": "水戸市",
+      "name": "club SONIC mito",
+      "aliases": [
+        "club SONIC mito",
+        "水戸club SONIC mito"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-mito-new",
+      "prefecture": "茨城県",
+      "municipality": "水戸市",
+      "name": "水戸市民会館 グロービスホール",
+      "aliases": [
+        "水戸市民会館 グロービスホール"
+      ],
+      "sources": [
+        "https://www.mito-hall.jp/information/index.html",
+        "https://www.bunkajoho.pref.ibaraki.jp/hall.html"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-kanto-utsunomiya-kyoiku",
+      "prefecture": "栃木県",
+      "municipality": "宇都宮市",
+      "name": "宇都宮教育会館",
+      "aliases": [
+        "宇都宮教育会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-tochigi-kaikan",
+      "prefecture": "栃木県",
+      "municipality": "宇都宮市",
+      "name": "栃木会館",
+      "aliases": [
+        "栃木会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-sakushin",
+      "prefecture": "栃木県",
+      "municipality": "宇都宮市",
+      "name": "作新学院女子短大",
+      "aliases": [
+        "作新学院女子短大"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "当時の校地の詳細未照合 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-utsunomiya-bunka",
+      "prefecture": "栃木県",
+      "municipality": "宇都宮市",
+      "name": "宇都宮市文化会館",
+      "aliases": [
+        "宇都宮市文化会館",
+        "宇都宮市文化会館・大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-utsunomiya-short",
+      "prefecture": "栃木県",
+      "municipality": "宇都宮市",
+      "name": "宇都宮文化会館",
+      "aliases": [
+        "宇都宮文化会館"
+      ],
+      "sources": [],
+      "verification": "pending-alias",
+      "note": "市文化会館との同一性保留 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kuroiso",
+      "prefecture": "栃木県",
+      "municipality": "那須塩原市",
+      "name": "黒磯市文化会館",
+      "aliases": [
+        "黒磯市文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "当時は黒磯市。現自治体で分類 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kirifuri",
+      "prefecture": "栃木県",
+      "municipality": "日光市",
+      "name": "日光霧降高原",
+      "aliases": [
+        "日光霧降高原"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "具体的な公演場所未確認 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-tochigi-sogo",
+      "prefecture": "栃木県",
+      "municipality": "宇都宮市",
+      "name": "栃木県総合文化センター メインホール",
+      "aliases": [
+        "栃木県総合文化センター メインホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-ujitsu",
+      "prefecture": "栃木県",
+      "municipality": "宇都宮市",
+      "name": "悠日カフェ",
+      "aliases": [
+        "悠日カフェ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-heavens-vj2",
+      "prefecture": "栃木県",
+      "municipality": "宇都宮市",
+      "name": "HEAVEN'S ROCK 宇都宮 VJ-2",
+      "aliases": [
+        "HEAVEN'S ROCK 宇都宮 VJ-2",
+        "HEAVEN'S ROCK UTSUNOMIYA VJ-2"
+      ],
+      "sources": [
+        "https://www.heavensrock.com/utsunomiya/access/"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-kanto-heavens-unspecified",
+      "prefecture": "栃木県",
+      "municipality": "宇都宮市",
+      "name": "HEAVEN'S ROCK 宇都宮",
+      "aliases": [
+        "HEAVEN'S ROCK 宇都宮"
+      ],
+      "sources": [
+        "https://www.heavensrock.com/utsunomiya/access/",
+        "https://www.heavensrock.com/utsunomiya2/access/"
+      ],
+      "verification": "pending-alias",
+      "note": "VJ-2とVJ-4が別施設のため統合保留 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-gunma-kenmin",
+      "prefecture": "群馬県",
+      "municipality": "前橋市",
+      "name": "群馬県民会館",
+      "aliases": [
+        "群馬県民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-shibukawa",
+      "prefecture": "群馬県",
+      "municipality": "渋川市",
+      "name": "渋川市民会館",
+      "aliases": [
+        "渋川市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-gunma-ongaku",
+      "prefecture": "群馬県",
+      "municipality": "高崎市",
+      "name": "群馬音楽センター",
+      "aliases": [
+        "群馬音楽センター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-isesaki",
+      "prefecture": "群馬県",
+      "municipality": "伊勢崎市",
+      "name": "伊勢崎市民文化会館",
+      "aliases": [
+        "伊勢崎市民文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kiryu",
+      "prefecture": "群馬県",
+      "municipality": "桐生市",
+      "name": "桐生市市民文化会館",
+      "aliases": [
+        "桐生市市民文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-takasaki-bunka",
+      "prefecture": "群馬県",
+      "municipality": "高崎市",
+      "name": "高崎市文化会館",
+      "aliases": [
+        "高崎市文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-maebashi",
+      "prefecture": "群馬県",
+      "municipality": "前橋市",
+      "name": "前橋市民文化会館 小ホール",
+      "aliases": [
+        "前橋市民文化会館 小ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-takasaki-geijutsu",
+      "prefecture": "群馬県",
+      "municipality": "高崎市",
+      "name": "高崎芸術劇場（施設単位）",
+      "aliases": [
+        "高崎芸術劇場 大劇場",
+        "高崎芸術劇場 スタジオシアター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-omiya-old",
+      "prefecture": "埼玉県",
+      "municipality": "さいたま市",
+      "name": "大宮市民会館",
+      "aliases": [
+        "大宮市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "当時は大宮市。新施設とは別扱い 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kumagaya-kaikan",
+      "prefecture": "埼玉県",
+      "municipality": "熊谷市",
+      "name": "熊谷会館",
+      "aliases": [
+        "熊谷会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-saitama-kaikan",
+      "prefecture": "埼玉県",
+      "municipality": "さいたま市",
+      "name": "埼玉会館",
+      "aliases": [
+        "埼玉会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kumagaya-shimin",
+      "prefecture": "埼玉県",
+      "municipality": "熊谷市",
+      "name": "熊谷市民会館",
+      "aliases": [
+        "熊谷市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-saitama-bunka",
+      "prefecture": "埼玉県",
+      "municipality": "さいたま市",
+      "name": "さいたま市文化センター",
+      "aliases": [
+        "浦和市文化センター",
+        "さいたま市文化センター"
+      ],
+      "sources": [
+        "https://saitama-culture.jp/culturecenter/"
+      ],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kawaguchi-shimin",
+      "prefecture": "埼玉県",
+      "municipality": "川口市",
+      "name": "川口市民会館",
+      "aliases": [
+        "川口市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-omiya-sonic",
+      "prefecture": "埼玉県",
+      "municipality": "さいたま市",
+      "name": "大宮ソニックシティ",
+      "aliases": [
+        "大宮ソニックシティ",
+        "大宮ソニックシティ 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-toda",
+      "prefecture": "埼玉県",
+      "municipality": "戸田市",
+      "name": "戸田市文化会館",
+      "aliases": [
+        "戸田市文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-lilia",
+      "prefecture": "埼玉県",
+      "municipality": "川口市",
+      "name": "川口総合文化センター リリアホール",
+      "aliases": [
+        "川口総合文化センター リリアホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-koshigaya",
+      "prefecture": "埼玉県",
+      "municipality": "越谷市",
+      "name": "サンシティ越谷市民ホール（施設単位）",
+      "aliases": [
+        "サンシティ越谷市民ホール",
+        "サンシティ越谷市民ホール 小ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-misato",
+      "prefecture": "埼玉県",
+      "municipality": "三郷市",
+      "name": "三郷市文化会館",
+      "aliases": [
+        "三郷市文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-shiki",
+      "prefecture": "埼玉県",
+      "municipality": "志木市",
+      "name": "志木市民会館パルシティ",
+      "aliases": [
+        "志木市民会館パルシティ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-sakurameito",
+      "prefecture": "埼玉県",
+      "municipality": "熊谷市",
+      "name": "熊谷文化創造館（さくらめいと）太陽のホール",
+      "aliases": [
+        "熊谷文化創造館（さくらめいと）太陽のホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-okegawa",
+      "prefecture": "埼玉県",
+      "municipality": "桶川市",
+      "name": "響の森 桶川市民ホール",
+      "aliases": [
+        "響の森 桶川市民ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-tokorozawa",
+      "prefecture": "埼玉県",
+      "municipality": "所沢市",
+      "name": "所沢市民文化センター ミューズ",
+      "aliases": [
+        "所沢市民文化センター ミューズ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-yagihashi",
+      "prefecture": "埼玉県",
+      "municipality": "熊谷市",
+      "name": "八木橋百貨店 カトレアホール",
+      "aliases": [
+        "熊谷 八木橋百貨店 カトレアホール",
+        "八木橋百貨店8階 カトレアホール",
+        "八木橋百貨店 カトレアホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-chiba-shimin",
+      "prefecture": "千葉県",
+      "municipality": "千葉市",
+      "name": "千葉市民会館",
+      "aliases": [
+        "千葉市民会館",
+        "千葉市民会館 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-narashino",
+      "prefecture": "千葉県",
+      "municipality": "習志野市",
+      "name": "習志野文化ホール",
+      "aliases": [
+        "習志野文化ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-narashino-short",
+      "prefecture": "千葉県",
+      "municipality": "習志野市",
+      "name": "習志野文化会館ホール",
+      "aliases": [
+        "習志野文化会館ホール"
+      ],
+      "sources": [],
+      "verification": "pending-alias",
+      "note": "習志野文化ホールとの同一性保留 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kashiwa-bunka",
+      "prefecture": "千葉県",
+      "municipality": "柏市",
+      "name": "柏市文化会館",
+      "aliases": [
+        "柏市文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-chiba-ken",
+      "prefecture": "千葉県",
+      "municipality": "千葉市",
+      "name": "千葉県文化会館",
+      "aliases": [
+        "千葉県文化会館",
+        "千葉県文化会館 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-yachiyo",
+      "prefecture": "千葉県",
+      "municipality": "八千代市",
+      "name": "八千代市市民会館",
+      "aliases": [
+        "八千代市市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-ichikawa",
+      "prefecture": "千葉県",
+      "municipality": "市川市",
+      "name": "市川市文化会館",
+      "aliases": [
+        "市川市文化会館",
+        "市川市文化会館 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-togane",
+      "prefecture": "千葉県",
+      "municipality": "東金市",
+      "name": "東金市文化会館",
+      "aliases": [
+        "東金市文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-makuhari-event",
+      "prefecture": "千葉県",
+      "municipality": "千葉市",
+      "name": "幕張メッセイベントホール",
+      "aliases": [
+        "幕張メッセイベントホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-makuhari-9-11",
+      "prefecture": "千葉県",
+      "municipality": "千葉市",
+      "name": "幕張メッセ 国際展示場9～11ホール",
+      "aliases": [
+        "幕張メッセ 国際展示場9～11ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "イベントホールとは別会場 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-toso",
+      "prefecture": "千葉県",
+      "municipality": "旭市",
+      "name": "千葉県東総文化会館",
+      "aliases": [
+        "千葉県東総文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-gyotoku",
+      "prefecture": "千葉県",
+      "municipality": "市川市",
+      "name": "行徳文化ホール I&I",
+      "aliases": [
+        "行徳文化ホール I&I"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-mori21",
+      "prefecture": "千葉県",
+      "municipality": "松戸市",
+      "name": "森のホール21",
+      "aliases": [
+        "森のホール21",
+        "森のホール21 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-palooza",
+      "prefecture": "千葉県",
+      "municipality": "柏市",
+      "name": "柏PALOOZA",
+      "aliases": [
+        "柏PALOOZA"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-yubin",
+      "prefecture": "東京都",
+      "municipality": "港区",
+      "name": "東京郵便貯金ホール",
+      "aliases": [
+        "東京郵便貯金ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-otsuma",
+      "prefecture": "東京都",
+      "municipality": "千代田区",
+      "name": "大妻女子大",
+      "aliases": [
+        "大妻女子大"
+      ],
+      "sources": [
+        "https://www.otsuma.ac.jp/about/basic/founder/"
+      ],
+      "verification": "provisional-location",
+      "note": "1988年多摩校開設より前。学園祭の会場原典は未確認 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kyoritsu",
+      "prefecture": "東京都",
+      "municipality": "港区",
+      "name": "共立薬科大",
+      "aliases": [
+        "共立薬科大"
+      ],
+      "sources": [
+        "https://www.keio.ac.jp/ja/pha/about/relationship-with-kyoritsu-university-of-pharmacy/"
+      ],
+      "verification": "provisional-location",
+      "note": "当時の開催校地未照合 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-shibuya-old",
+      "prefecture": "東京都",
+      "municipality": "渋谷区",
+      "name": "渋谷公会堂（旧施設）",
+      "aliases": [
+        "渋谷公会堂",
+        "渋谷C.C.Lemonホール"
+      ],
+      "sources": [
+        "https://www.shibukei.com/headline/7957/",
+        "https://www.city.shibuya.tokyo.jp/shisetsu/bunka-shisetsu/hall/kokaido.html"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-kanto-colosseum",
+      "prefecture": "東京都",
+      "municipality": "大田区",
+      "name": "田園コロシアム",
+      "aliases": [
+        "田園コロシアム"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-gakushuin",
+      "prefecture": "東京都",
+      "municipality": "新宿区",
+      "name": "学習院女子短大",
+      "aliases": [
+        "学習院女子短大"
+      ],
+      "sources": [
+        "https://www.univ.gakushuin.ac.jp/fis/history/history_02/"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-kanto-shirayuri",
+      "prefecture": "東京都",
+      "municipality": "調布市",
+      "name": "白百合女子大",
+      "aliases": [
+        "白百合女子大"
+      ],
+      "sources": [
+        "https://www.shirayuri.ac.jp/guide/history/"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-kanto-hoshi",
+      "prefecture": "東京都",
+      "municipality": "品川区",
+      "name": "星薬科大",
+      "aliases": [
+        "星薬科大"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-koseinenkin",
+      "prefecture": "東京都",
+      "municipality": "新宿区",
+      "name": "東京厚生年金会館",
+      "aliases": [
+        "新宿厚生年金会館",
+        "東京厚生年金会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-koma",
+      "prefecture": "東京都",
+      "municipality": "新宿区",
+      "name": "新宿コマ劇場",
+      "aliases": [
+        "新宿コマ劇場"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-nhk",
+      "prefecture": "東京都",
+      "municipality": "渋谷区",
+      "name": "NHKホール",
+      "aliases": [
+        "NHKホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-hachioji-old",
+      "prefecture": "東京都",
+      "municipality": "八王子市",
+      "name": "八王子市民会館",
+      "aliases": [
+        "八王子市民会館"
+      ],
+      "sources": [
+        "https://www.kotobuki-seating.co.jp/projects/list/detail.html?pdid1=00022"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-kanto-yoyogi1",
+      "prefecture": "東京都",
+      "municipality": "渋谷区",
+      "name": "国立代々木競技場第一体育館",
+      "aliases": [
+        "国立代々木競技場第一体育館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-budokan",
+      "prefecture": "東京都",
+      "municipality": "千代田区",
+      "name": "日本武道館",
+      "aliases": [
+        "日本武道館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-chofu",
+      "prefecture": "東京都",
+      "municipality": "調布市",
+      "name": "調布グリーンホール",
+      "aliases": [
+        "調布グリーンホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-akishima",
+      "prefecture": "東京都",
+      "municipality": "昭島市",
+      "name": "昭島市民会館",
+      "aliases": [
+        "昭島市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-powerstation",
+      "prefecture": "東京都",
+      "municipality": "新宿区",
+      "name": "新宿パワーステーション",
+      "aliases": [
+        "新宿パワーステーション"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-akasaka-old",
+      "prefecture": "東京都",
+      "municipality": "港区",
+      "name": "赤坂BLITZ（旧施設）",
+      "aliases": [
+        "赤坂BLITZ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-forum-unspecified",
+      "prefecture": "東京都",
+      "municipality": "千代田区",
+      "name": "東京国際フォーラム（ホール未特定）",
+      "aliases": [
+        "東京国際フォーラム"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-forum-a",
+      "prefecture": "東京都",
+      "municipality": "千代田区",
+      "name": "東京国際フォーラム ホールA",
+      "aliases": [
+        "東京国際フォーラム ホールA"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-forum-c",
+      "prefecture": "東京都",
+      "municipality": "千代田区",
+      "name": "東京国際フォーラム ホールC",
+      "aliases": [
+        "東京国際フォーラム ホールC"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-garden-hall",
+      "prefecture": "東京都",
+      "municipality": "目黒区",
+      "name": "恵比寿ガーデンホール",
+      "aliases": [
+        "恵比寿ガーデンホール"
+      ],
+      "sources": [
+        "https://gardenplace.jp/hall/"
+      ],
+      "verification": "confirmed",
+      "note": "施設は渋谷区・目黒区にまたがる。ホール所在地は目黒区三田"
+    },
+    {
+      "id": "jp-kanto-garden-room",
+      "prefecture": "東京都",
+      "municipality": "目黒区",
+      "name": "恵比寿The Garden Room",
+      "aliases": [
+        "恵比寿The Garden Room"
+      ],
+      "sources": [
+        "https://gardenplace.jp/hall/"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-kanto-aoyama",
+      "prefecture": "東京都",
+      "municipality": "渋谷区",
+      "name": "青山学院記念館",
+      "aliases": [
+        "青山学院記念館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-ax",
+      "prefecture": "東京都",
+      "municipality": "渋谷区",
+      "name": "SHIBUYA-AX",
+      "aliases": [
+        "SHIBUYA-AX"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-zepp-tokyo",
+      "prefecture": "東京都",
+      "municipality": "江東区",
+      "name": "Zepp Tokyo",
+      "aliases": [
+        "Zepp Tokyo"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-fuchu",
+      "prefecture": "東京都",
+      "municipality": "府中市",
+      "name": "府中の森芸術劇場（施設単位）",
+      "aliases": [
+        "府中の森芸術劇場 どりーむホール",
+        "府中の森芸術劇場"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-tokyo-bunka",
+      "prefecture": "東京都",
+      "municipality": "台東区",
+      "name": "東京文化会館（施設単位）",
+      "aliases": [
+        "東京文化会館・小ホール",
+        "東京文化会館",
+        "東京文化会館 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-orchard",
+      "prefecture": "東京都",
+      "municipality": "渋谷区",
+      "name": "Bunkamura オーチャードホール",
+      "aliases": [
+        "Bunkamura オーチャードホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-midtown",
+      "prefecture": "東京都",
+      "municipality": "港区",
+      "name": "東京ミッドタウン",
+      "aliases": [
+        "東京ミッドタウン"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-sogetsu",
+      "prefecture": "東京都",
+      "municipality": "港区",
+      "name": "草月ホール",
+      "aliases": [
+        "草月ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-musashimurayama",
+      "prefecture": "東京都",
+      "municipality": "武蔵村山市",
+      "name": "武蔵村山市民会館さくらホール",
+      "aliases": [
+        "武蔵村山市民会館さくらホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-yuupouto",
+      "prefecture": "東京都",
+      "municipality": "品川区",
+      "name": "ゆうぽうと",
+      "aliases": [
+        "ゆうぽうと"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-pleasure",
+      "prefecture": "東京都",
+      "municipality": "渋谷区",
+      "name": "SHIBUYA PLEASURE PLEASURE",
+      "aliases": [
+        "SHIBUYA ENTERTAINMENT THEATER PLEASURE PLEASURE",
+        "SHIBUYA PLEASURE PLEASURE"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-icho",
+      "prefecture": "東京都",
+      "municipality": "八王子市",
+      "name": "八王子市芸術文化会館いちょうホール",
+      "aliases": [
+        "八王子市芸術文化会館いちょうホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-yumenoshima",
+      "prefecture": "東京都",
+      "municipality": "江東区",
+      "name": "夢の島陸上競技場",
+      "aliases": [
+        "夢の島陸上競技場"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-ginza",
+      "prefecture": "東京都",
+      "municipality": "中央区",
+      "name": "ル テアトル銀座 by PARCO",
+      "aliases": [
+        "ル テアトル銀座 by PARCO"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-mitsui",
+      "prefecture": "東京都",
+      "municipality": "中央区",
+      "name": "日本橋三井ホール",
+      "aliases": [
+        "日本橋三井ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-hachioji-new",
+      "prefecture": "東京都",
+      "municipality": "八王子市",
+      "name": "J:COMホール八王子",
+      "aliases": [
+        "オリンパスホール八王子",
+        "J:COMホール八王子"
+      ],
+      "sources": [
+        "https://www.hachiojibunka.or.jp/eventinfo/",
+        "https://www.city.hachioji.tokyo.jp/shisetsu/003/p000029.html"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-kanto-zepp-diver",
+      "prefecture": "東京都",
+      "municipality": "江東区",
+      "name": "Zepp DiverCity TOKYO",
+      "aliases": [
+        "Zepp DiverCity",
+        "Zepp DiverCity TOKYO"
+      ],
+      "sources": [
+        "https://www.zepp.co.jp/hall/divercity/"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-kanto-ex",
+      "prefecture": "東京都",
+      "municipality": "港区",
+      "name": "EX THEATER ROPPONGI",
+      "aliases": [
+        "EX THEATER ROPPONGI"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-prince-takanawa",
+      "prefecture": "東京都",
+      "municipality": "港区",
+      "name": "グランドプリンスホテル新高輪（施設単位）",
+      "aliases": [
+        "グランドプリンスホテル新高輪 国際館パミール 大宴会場 北辰",
+        "グランドプリンスホテル新高輪 大宴会場 飛天",
+        "グランドプリンスホテル新高輪"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-toyosu",
+      "prefecture": "東京都",
+      "municipality": "江東区",
+      "name": "豊洲PIT",
+      "aliases": [
+        "豊洲PIT"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-cocoon",
+      "prefecture": "東京都",
+      "municipality": "渋谷区",
+      "name": "Bunkamura シアターコクーン",
+      "aliases": [
+        "Bunkamura シアターコクーン"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-intercity",
+      "prefecture": "東京都",
+      "municipality": "港区",
+      "name": "品川インターシティホール",
+      "aliases": [
+        "品川インターシティホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-hitomi",
+      "prefecture": "東京都",
+      "municipality": "世田谷区",
+      "name": "昭和女子大学 人見記念講堂",
+      "aliases": [
+        "昭和女子大学 人見記念講堂"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-imperial",
+      "prefecture": "東京都",
+      "municipality": "千代田区",
+      "name": "帝国ホテル東京",
+      "aliases": [
+        "帝国ホテル東京"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-jzbrat",
+      "prefecture": "東京都",
+      "municipality": "渋谷区",
+      "name": "JZ Brat SOUND OF TOKYO",
+      "aliases": [
+        "JZ Brat SOUND OF TOKYO"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-suntory",
+      "prefecture": "東京都",
+      "municipality": "港区",
+      "name": "サントリーホール ブルーローズ",
+      "aliases": [
+        "サントリーホール ブルーローズ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-linecube",
+      "prefecture": "東京都",
+      "municipality": "渋谷区",
+      "name": "LINE CUBE SHIBUYA",
+      "aliases": [
+        "LINE CUBE SHIBUYA"
+      ],
+      "sources": [
+        "https://www.city.shibuya.tokyo.jp/shisetsu/bunka-shisetsu/hall/kokaido.html"
+      ],
+      "verification": "confirmed",
+      "note": "旧渋谷公会堂とは別施設"
+    },
+    {
+      "id": "jp-kanto-duo",
+      "prefecture": "東京都",
+      "municipality": "渋谷区",
+      "name": "duo MUSIC EXCHANGE",
+      "aliases": [
+        "duo MUSIC EXCHANGE"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-billboard",
+      "prefecture": "東京都",
+      "municipality": "港区",
+      "name": "ビルボードライブ東京",
+      "aliases": [
+        "ビルボードライブ東京"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-clubex",
+      "prefecture": "東京都",
+      "municipality": "港区",
+      "name": "品川プリンスホテル クラブeX",
+      "aliases": [
+        "品川プリンスホテル クラブeX"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-garden-theater",
+      "prefecture": "東京都",
+      "municipality": "江東区",
+      "name": "東京ガーデンシアター",
+      "aliases": [
+        "東京ガーデンシアター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-meiji",
+      "prefecture": "東京都",
+      "municipality": "渋谷区",
+      "name": "明治神宮",
+      "aliases": [
+        "明治神宮"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-itscom",
+      "prefecture": "東京都",
+      "municipality": "世田谷区",
+      "name": "iTSCOM STUDIO & HALL 二子玉川ライズ",
+      "aliases": [
+        "iTSCOM STUDIO & HALL 二子玉川ライズ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-opera",
+      "prefecture": "東京都",
+      "municipality": "新宿区",
+      "name": "東京オペラシティ コンサートホール",
+      "aliases": [
+        "東京オペラシティ コンサートホール"
+      ],
+      "sources": [
+        "https://www.operacity.jp/concert/index.php"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-kanto-geigeki",
+      "prefecture": "東京都",
+      "municipality": "豊島区",
+      "name": "東京芸術劇場 大ホール",
+      "aliases": [
+        "東京芸術劇場 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-park-tower",
+      "prefecture": "東京都",
+      "municipality": "港区",
+      "name": "ザ・プリンス パークタワー東京（施設単位）",
+      "aliases": [
+        "ザ・プリンス パークタワー東京",
+        "ザ・プリンス パークタワー東京 ボールルーム"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-bluenote",
+      "prefecture": "東京都",
+      "municipality": "港区",
+      "name": "BLUE NOTE TOKYO",
+      "aliases": [
+        "ブルーノート東京",
+        "BLUE NOTE TOKYO"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-yoyogi2",
+      "prefecture": "東京都",
+      "municipality": "渋谷区",
+      "name": "国立代々木競技場 第二体育館",
+      "aliases": [
+        "国立代々木競技場 第二体育館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-machida-shimin",
+      "prefecture": "東京都",
+      "municipality": "町田市",
+      "name": "町田市民ホール",
+      "aliases": [
+        "町田市民ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-zepp-haneda",
+      "prefecture": "東京都",
+      "municipality": "大田区",
+      "name": "Zepp Haneda",
+      "aliases": [
+        "Zepp Haneda"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-starpine",
+      "prefecture": "東京都",
+      "municipality": "武蔵野市",
+      "name": "吉祥寺 Star Pine’s Café",
+      "aliases": [
+        "吉祥寺Star Pine's Cafe",
+        "吉祥寺 Star Pine’s Café"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-shangri",
+      "prefecture": "東京都",
+      "municipality": "世田谷区",
+      "name": "下北沢シャングリラ",
+      "aliases": [
+        "下北沢シャングリラ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-seibi",
+      "prefecture": "東京都",
+      "municipality": "東久留米市",
+      "name": "成美教育文化会館 成美グリーンホール",
+      "aliases": [
+        "成美教育文化会館 成美グリーンホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-bauhaus",
+      "prefecture": "東京都",
+      "municipality": "港区",
+      "name": "Rock Bar BAUHAUS",
+      "aliases": [
+        "Rock Bar BAUHAUS"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-quattro",
+      "prefecture": "東京都",
+      "municipality": "渋谷区",
+      "name": "渋谷CLUB QUATTRO",
+      "aliases": [
+        "渋谷CLUB QUATTRO"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-reny",
+      "prefecture": "東京都",
+      "municipality": "新宿区",
+      "name": "新宿ReNY",
+      "aliases": [
+        "新宿ReNY"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-ueno",
+      "prefecture": "東京都",
+      "municipality": "台東区",
+      "name": "上野水上野外音楽堂",
+      "aliases": [
+        "上野水上野外音楽堂"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-shibahiro",
+      "prefecture": "東京都",
+      "municipality": "町田市",
+      "name": "町田シバヒロ",
+      "aliases": [
+        "町田シバヒロ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kinema",
+      "prefecture": "東京都",
+      "municipality": "台東区",
+      "name": "東京キネマ倶楽部",
+      "aliases": [
+        "東京キネマ倶楽部"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-ariake",
+      "prefecture": "東京都",
+      "municipality": "江東区",
+      "name": "有明アリーナ",
+      "aliases": [
+        "有明アリーナ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-bigship",
+      "prefecture": "東京都",
+      "municipality": "墨田区",
+      "name": "本所地域プラザ BIG SHIP 4階 多目的ホール",
+      "aliases": [
+        "本所地域プラザ BIG SHIP 4階 多目的ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-mahorosa",
+      "prefecture": "東京都",
+      "municipality": "町田市",
+      "name": "まほろ座 MACHIDA",
+      "aliases": [
+        "まほろ座 MACHIDA"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-bluesalley",
+      "prefecture": "東京都",
+      "municipality": "目黒区",
+      "name": "BLUES ALLEY JAPAN",
+      "aliases": [
+        "BLUES ALLEY JAPAN"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-sophia",
+      "prefecture": "神奈川県",
+      "municipality": "秦野市",
+      "name": "上智短期大",
+      "aliases": [
+        "上智短期大"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-seishonen",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "神奈川県立青少年センター",
+      "aliases": [
+        "神奈川県立青少年センター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-fujisawa",
+      "prefecture": "神奈川県",
+      "municipality": "藤沢市",
+      "name": "藤沢市民会館",
+      "aliases": [
+        "藤沢市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-sagamihara",
+      "prefecture": "神奈川県",
+      "municipality": "相模原市",
+      "name": "相模原市民会館",
+      "aliases": [
+        "相模原市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kawasaki-sangyo",
+      "prefecture": "神奈川県",
+      "municipality": "川崎市",
+      "name": "川崎産業会館",
+      "aliases": [
+        "川崎産業会館"
+      ],
+      "sources": [],
+      "verification": "pending-alias",
+      "note": "川崎産業文化会館との同一性保留 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-sagami-women",
+      "prefecture": "神奈川県",
+      "municipality": "相模原市",
+      "name": "相模女子大",
+      "aliases": [
+        "相模女子大"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kanagawa-short",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "神奈川県民会館",
+      "aliases": [
+        "神奈川県民会館"
+      ],
+      "sources": [],
+      "verification": "pending-alias",
+      "note": "県民ホールとの同一性保留 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-hiratsuka",
+      "prefecture": "神奈川県",
+      "municipality": "平塚市",
+      "name": "平塚市民センター",
+      "aliases": [
+        "平塚市民センター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kanagawa-short2",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "神奈川県民大ホール",
+      "aliases": [
+        "神奈川県民大ホール"
+      ],
+      "sources": [],
+      "verification": "pending-alias",
+      "note": "県民ホールとの同一性保留 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-yokohama-buntai",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "横浜文化体育館",
+      "aliases": [
+        "横浜文化体育館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kawasaki-sangyobunka",
+      "prefecture": "神奈川県",
+      "municipality": "川崎市",
+      "name": "川崎産業文化会館",
+      "aliases": [
+        "川崎産業文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-odawara",
+      "prefecture": "神奈川県",
+      "municipality": "小田原市",
+      "name": "小田原市民会館",
+      "aliases": [
+        "小田原市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-atsugi",
+      "prefecture": "神奈川県",
+      "municipality": "厚木市",
+      "name": "厚木市文化会館",
+      "aliases": [
+        "厚木市文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kanagawa-hall",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "神奈川県民ホール",
+      "aliases": [
+        "神奈川県民ホール",
+        "神奈川県民ホール 大ホール",
+        "神奈川県立県民ホール・大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-yokohama-stadium",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "横浜スタジアム",
+      "aliases": [
+        "横浜スタジアム"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-isehara",
+      "prefecture": "神奈川県",
+      "municipality": "伊勢原市",
+      "name": "伊勢原市民文化会館",
+      "aliases": [
+        "伊勢原市民文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-green",
+      "prefecture": "神奈川県",
+      "municipality": "相模原市",
+      "name": "グリーンホール相模大野",
+      "aliases": [
+        "グリーンホール相模大野"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-yokohama-arena",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "横浜アリーナ",
+      "aliases": [
+        "横浜アリーナ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-citta",
+      "prefecture": "神奈川県",
+      "municipality": "川崎市",
+      "name": "CLUB CITTA’ 川崎",
+      "aliases": [
+        "クラブチッタ川崎",
+        "CLUB CITTA’ 川崎"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-zama",
+      "prefecture": "神奈川県",
+      "municipality": "座間市",
+      "name": "ハーモニーホール座間",
+      "aliases": [
+        "ハーモニーホール座間"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-keio",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "慶應義塾大学 日吉キャンパス 日吉記念館",
+      "aliases": [
+        "慶應義塾大学 日吉キャンパス 日吉記念館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-oiso",
+      "prefecture": "神奈川県",
+      "municipality": "大磯町",
+      "name": "大磯港内県営駐車場 特設ステージ",
+      "aliases": [
+        "大磯港内県営駐車場 特設ステージ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-yokosuka",
+      "prefecture": "神奈川県",
+      "municipality": "横須賀市",
+      "name": "よこすか芸術劇場",
+      "aliases": [
+        "よこすか芸術劇場"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-otodama",
+      "prefecture": "神奈川県",
+      "municipality": "逗子市",
+      "name": "音霊 OTODAMA SEA STUDIO（逗子時代）",
+      "aliases": [
+        "音霊 OTODAMA SEA STUDIO"
+      ],
+      "sources": [
+        "https://www.cdjournal.com/news/kimaguren/25563",
+        "https://www.sonymusic.co.jp/artist/miwa/info/347000"
+      ],
+      "verification": "secondary",
+      "note": "2009〜2010年の登録記録のみ対象。移転後の会場は別扱い"
+    },
+    {
+      "id": "jp-kanto-kannai",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "関内ホール 大ホール",
+      "aliases": [
+        "関内ホール 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kamakura",
+      "prefecture": "神奈川県",
+      "municipality": "鎌倉市",
+      "name": "鎌倉芸術館 小ホール",
+      "aliases": [
+        "鎌倉芸術館 小ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-ongakudo",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "神奈川県立音楽堂",
+      "aliases": [
+        "神奈川県立音楽堂"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-tsurugaoka",
+      "prefecture": "神奈川県",
+      "municipality": "鎌倉市",
+      "name": "鶴岡八幡宮",
+      "aliases": [
+        "鶴岡八幡宮"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-yokohama-blitz",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "横浜BLITZ",
+      "aliases": [
+        "横浜BLITZ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-hamayu",
+      "prefecture": "神奈川県",
+      "municipality": "横須賀市",
+      "name": "横須賀市はまゆう会館",
+      "aliases": [
+        "横須賀市はまゆう会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-akarenga",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "横浜赤レンガ倉庫1号館3Fホール",
+      "aliases": [
+        "横浜赤レンガ倉庫1号館3Fホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-kaat",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "KAAT神奈川芸術劇場",
+      "aliases": [
+        "KAAT神奈川芸術劇場"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-shin-prince",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "新横浜プリンスホテル",
+      "aliases": [
+        "新横浜プリンスホテル"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-pacifico",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "パシフィコ横浜 国立大ホール",
+      "aliases": [
+        "パシフィコ横浜 国立大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-billboard-y",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "ビルボードライブ横浜",
+      "aliases": [
+        "ビルボードライブ横浜"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-pia",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "ぴあアリーナMM",
+      "aliases": [
+        "ぴあアリーナMM"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-mint",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "Yokohama mint hall",
+      "aliases": [
+        "Yokohama mint hall"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-newside",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "新横浜NEW SIDE BEACH!!",
+      "aliases": [
+        "新横浜NEW SIDE BEACH!!"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-kanto-ktzepp",
+      "prefecture": "神奈川県",
+      "municipality": "横浜市",
+      "name": "KT Zepp Yokohama",
+      "aliases": [
+        "KT Zepp Yokohama"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
     }
   ]
 }
