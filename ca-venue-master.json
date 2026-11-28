@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-17",
+  "version": "3.8.4-18",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1214,9 +1214,13 @@
       "aliases": [
         "つくばノバホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0080244.html",
+        "https://www.tcf.or.jp/novahall/facility/about/",
+        "https://www.tcf.or.jp/news/018678/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1983年6月1日開館。つくば市立ノバホール。小ホールは2011年開館であり、使用ホールは断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-hitachi-park",
@@ -1226,9 +1230,11 @@
       "aliases": [
         "国営ひたち海浜公園"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.hitachikaihin.jp/spot-guide/overview.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1991年10月5日開園。公園単位の所在地確認であり、特設ステージの位置は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-mito-sonic",
@@ -1421,9 +1427,13 @@
       "aliases": [
         "群馬音楽センター"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0100302.html",
+        "https://www.takasaki-foundation.or.jp/culture/m-center/",
+        "https://www.city.takasaki.gunma.jp/site/sightseeing/2614.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1961年7月18日開館。高崎市高松町。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-isesaki",
@@ -1479,9 +1489,12 @@
       "aliases": [
         "前橋市民文化会館 小ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0100306.html",
+        "https://maebashishibun.maebashi-cc.or.jp/shall"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1982年11月3日開館。現愛称は昌賢学園まえばしホール。小ホールを運営者資料で確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-takasaki-geijutsu",
@@ -1538,9 +1551,13 @@
       "aliases": [
         "埼玉会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.saf.or.jp/saitama/about/",
+        "https://www.saf.or.jp/information/detail/106795/",
+        "https://www.zenkoubun.jp/search/hall_0110334.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：旧館は1926年11月6日開館、現建物は1966年5月27日開館。対象公演は建て替え後。使用ホール未指定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-kumagaya-shimin",
@@ -1622,9 +1639,13 @@
       "aliases": [
         "川口総合文化センター リリアホール"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0110351.html",
+        "https://lilia.or.jp/info/572",
+        "https://www.city.kawaguchi.lg.jp/soshiki/01060/035/oshirase/47045.html"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "施設資料照合（2026-11-28）：1990年7月1日開館。改修後2026年4月1日プレオープン、7月1日グランドオープン。2026年4月から各ホールに新愛称。登録名「リリアホール」がメインホール・音楽ホールのどちらか特定できないため暫定を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-koshigaya",
@@ -1666,9 +1687,13 @@
       "aliases": [
         "志木市民会館パルシティ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.city.shiki.lg.jp/uploaded/attachment/5630.pdf",
+        "https://www.city.shiki.lg.jp/soshiki/12/2314.html",
+        "https://www.city.shiki.lg.jp/site/hisyo/10144.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：ホール棟は1978年開設、2023年3月31日閉館。志木市の再整備資料による。仮設会議室とは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-sakurameito",
@@ -1678,9 +1703,12 @@
       "aliases": [
         "熊谷文化創造館（さくらめいと）太陽のホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0110393.html",
+        "https://www.city.kumagaya.lg.jp/shisei/shisetsu/1003465/1003504.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1998年1月10日開館。太陽のホールを市公式で確認。月のホールとは区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-okegawa",
@@ -1690,9 +1718,12 @@
       "aliases": [
         "響の森 桶川市民ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0110390.html",
+        "https://www.okegawa-hall.jp/about/outline/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1997年11月22日開館。さいたま文学館との複合施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-tokorozawa",
@@ -1748,9 +1779,12 @@
         "習志野文化ホール",
         "習志野文化会館ホール"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.city.narashino.lg.jp/soshiki/sogoseisaku/gyomu/shisetu/kominkan/bunkahall.html",
+        "https://www.chage-aska.net/history/"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 登録表記「習志野文化会館ホール」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。"
+      "note": "施設資料照合（2026-11-28）：1978年開館。建て替え検討に伴い2023年4月1日から長期休館。公式HISTORYの「習志野文化会館ホール」との歴史的同一性は個別原典未確認のため暫定を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-kashiwa-bunka",
@@ -1854,9 +1888,12 @@
       "aliases": [
         "幕張メッセ 国際展示場9～11ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "イベントホールとは別会場 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.m-messe.co.jp/organizers/company/profile",
+        "https://www.city.chiba.jp/sogoseisaku/miraitoshi/makuhari/makuharishintoshingaiyo.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1997年10月1日増設オープン。1989年開業の1～8ホール・イベントホールとは区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-toso",
@@ -2122,9 +2159,11 @@
       "aliases": [
         "調布グリーンホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0130478.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1977年8月25日開館。正式名称は調布市グリーンホール。使用ホールは未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-akishima",
@@ -2134,9 +2173,12 @@
       "aliases": [
         "昭島市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0130477.html",
+        "https://www.city.akishima.lg.jp/shisei/shisetsu/1008430/1007674.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1982年7月1日開館。現愛称FOSTERホール。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-powerstation",
@@ -2174,9 +2216,12 @@
       "aliases": [
         "東京国際フォーラム"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.t-i-forum.co.jp/about/?tab=3",
+        "https://www.t-i-forum.co.jp/organizer/promotion/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1997年1月10日開館。施設の所在地のみ確認。ホールA・C等への振り分けは行わない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-forum-a",
@@ -2202,9 +2247,12 @@
       "aliases": [
         "東京国際フォーラム ホールC"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.t-i-forum.co.jp/about/?tab=3",
+        "https://www.t-i-forum.co.jp/visitors/facilities/c/?tab=0"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：施設は1997年1月10日開館。ホールCは運営者の施設案内で確認。ホールA等とは区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-garden-hall",
@@ -2318,9 +2366,13 @@
       "aliases": [
         "Bunkamura オーチャードホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.bunkamura.co.jp/stagefloorproducts/",
+        "https://www.tobunken.go.jp/materials/nenshi/7315.html",
+        "https://www.bunkamura.co.jp/topics/6988.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1989年9月3日開業・こけら落とし。2023年4月10日からのBunkamura長期休館ではオーチャードホールは除外（当時の発表）。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-midtown",
@@ -2357,9 +2409,12 @@
       "aliases": [
         "武蔵村山市民会館さくらホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0130483.html",
+        "https://www.musashimurayama-sakurahall.jp/about/outline/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1983年11月3日開館。武蔵村山市民会館（さくらホール）。使用ホール未指定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-yuupouto",
@@ -2397,9 +2452,11 @@
       "aliases": [
         "八王子市芸術文化会館いちょうホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0130493.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1994年10月1日開館。八王子市芸術文化会館（いちょうホール）。使用ホール未指定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-yumenoshima",
@@ -2483,9 +2540,12 @@
       "aliases": [
         "EX THEATER ROPPONGI"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.ex-theater.com/etr10/",
+        "https://www.ex-entertainment.co.jp/facility/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2013年11月30日開業。運営会社および10周年特設ページで確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-prince-takanawa",
@@ -2529,9 +2589,13 @@
       "aliases": [
         "Bunkamura シアターコクーン"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.bunkamura.co.jp/stagefloorproducts/",
+        "https://www.tobunken.go.jp/materials/nenshi/7315.html",
+        "https://www.bunkamura.co.jp/topics/6988.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1989年9月3日開業・こけら落とし。2023年4月10日から長期休館。オーチャードホールとは別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-intercity",
@@ -2595,9 +2659,12 @@
       "aliases": [
         "サントリーホール ブルーローズ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.suntory.co.jp/suntoryhall/history/",
+        "https://www.suntory.co.jp/suntoryhall/archive/det.html?data_id=6"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1986年10月12日開館。同日の小ホール公演を公式公演アーカイブで確認。大ホールとは別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-linecube",
@@ -2711,9 +2778,12 @@
       "aliases": [
         "東京芸術劇場 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0130457.html",
+        "https://www.geigeki.jp/about/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1990年10月30日開館。大ホールはコンサートホール。2012年に大規模改修後リニューアル。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-park-tower",
@@ -2740,9 +2810,12 @@
         "ブルーノート東京",
         "BLUE NOTE TOKYO"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.bluenote.co.jp/jp/member/",
+        "https://www.bluenote.co.jp/jp/news/features/9233/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1988年11月28日南青山に開店、1998年11月に現所在地へ移転。対象記録は移転後。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-yoyogi2",
@@ -2764,9 +2837,11 @@
       "aliases": [
         "町田市民ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0130479.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1978年10月8日開館。町田市民ホール。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-zepp-haneda",
@@ -2776,9 +2851,12 @@
       "aliases": [
         "Zepp Haneda"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zepp.co.jp/news/4586/",
+        "https://www.zepp.co.jp/news/2938/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2020年7月開業。正式表記Zepp Haneda (TOKYO)。Zepp Tokyoとは別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-starpine",
@@ -2957,9 +3035,13 @@
       "aliases": [
         "神奈川県立青少年センター"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.pref.kanagawa.jp/docs/ch3/youthcenter.html",
+        "https://www.zenkoubun.jp/search/hall_0140498.html",
+        "https://www.bunka.go.jp/kindai/kenzoubutsu/research/kanagawa/012/index.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1962年11月1日開館。横浜市西区紅葉ケ丘。2005年大規模修繕。使用ホール未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-fujisawa",
@@ -3025,9 +3107,13 @@
       "aliases": [
         "横浜文化体育館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.city.yokohama.lg.jp/naka/shokai/gaiyo/nenpyo.html",
+        "https://www.city.yokohama.lg.jp/business/kyoso/public-facility/kaku-katsuyou/bunka/sposhikan/3shisetu/donyu_3rd.html",
+        "https://www.city.yokohama.lg.jp/city-info/koho-kocho/koho/insatsubutsu/koyoko/shiban/kohoyokohamaplus/2024/202405.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1962年5月開館、2020年9月6日閉館。再整備された横浜BUNTAI・横浜武道館とは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-kawasaki-sangyobunka",
@@ -3099,9 +3185,13 @@
       "aliases": [
         "横浜スタジアム"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.yokohama-stadium.co.jp/about/history/",
+        "https://www.yokohama-stadium.co.jp/news/171/",
+        "https://www.baystars.co.jp/cbp/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1978年4月開業。4月4日公式戦こけら落とし。前身の横浜公園球場とは別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-isehara",
@@ -3365,9 +3455,12 @@
       "aliases": [
         "新横浜プリンスホテル"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.princehotels.co.jp/press/220317_01/",
+        "https://www.princehotels.co.jp/company/history/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1992年3月20日開業。横浜市港北区新横浜。宴会場等の個別会場は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-pacifico",
