@@ -1053,5 +1053,27 @@ if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',
 })();
 </script>
 <!-- CA240_ARTIST_UI_END -->
+<style id="ca-related-grid-ui4">
+/* 関連記録一覧の各行：名義バッジを含む3要素の配置を固定 */
+#ca39-related-dialog #ca39-dialog-items .ca39-modal-item {
+  display: grid;
+  grid-template-columns: minmax(0, 112px) minmax(0, 1fr);
+  grid-template-rows: auto 1fr;
+  grid-template-areas: "date content" "artist content";
+  column-gap: 16px;
+  row-gap: 6px;
+  align-items: start;
+  min-width: 0;
+  padding-left: 12px;
+  padding-right: 8px;
+  text-align: left;
+}
+#ca39-related-dialog #ca39-dialog-items .ca39-modal-item > time {grid-area: date; white-space: nowrap;}
+#ca39-related-dialog #ca39-dialog-items .ca39-modal-item > :is(.ca240-artist-tag,.ca-artist-tag) {grid-area: artist; justify-self: start; align-self: start; max-width: 100%; box-sizing: border-box;}
+#ca39-related-dialog #ca39-dialog-items .ca39-modal-item > div {grid-area: content; min-width: 0; overflow-wrap: anywhere;}
+@media(max-width:700px) {
+  #ca39-related-dialog #ca39-dialog-items .ca39-modal-item {grid-template-columns:minmax(0,1fr);grid-template-rows:auto auto auto;grid-template-areas:"date" "artist" "content";row-gap:4px;padding-left:10px;}
+}
+</style>
 </body>
 </html>
