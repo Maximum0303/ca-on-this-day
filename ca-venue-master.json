@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-41",
+  "version": "3.8.4-42",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -538,15 +538,23 @@
       "id": "jp-tohoku-hachinohe",
       "prefecture": "青森県",
       "municipality": "八戸市",
-      "name": "八戸市公会堂",
+      "name": "SG GROUP ホールはちのへ（八戸市公会堂）",
       "aliases": [
         "八戸市公会堂"
       ],
       "sources": [
-        "https://www.city.hachinohe.aomori.jp/material/files/group/92/bosyuyoukousai.pdf"
+        "https://www.city.hachinohe.aomori.jp/material/files/group/92/bosyuyoukousai.pdf",
+        "https://www.city.hachinohe.aomori.jp/soshikikarasagasu/bunka/oshirase_event/14666.html",
+        "https://hachi-kokaido.com/facilities/overview.html",
+        "https://www.zenkoubun.jp/search/hall_0020079.html",
+        "https://www.city.hachinohe.aomori.jp/material/files/group/92/20210929_shiryo4.pdf",
+        "https://hachinohe.keizai.biz/headline/1489/",
+        "https://www.bosai-map.com/shelters/aomori/hachinohe/5586b22457",
+        "https://opendata.pref.aomori.lg.jp/dataset/aoi-mori-2/resource/98/content.html",
+        "https://mapfan.com/spots/SC3AH%2CJ%2C4G"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：八戸市内丸1丁目1-1。1975年開館（全国公立文化施設協会は5月1日、八戸市2021年資料の公開テキストでは4月と記載。原本画像は取得できず、日付は保留）。2019年8月から耐震改修、2021年1月再開。大ホール1,542席（固定1,532席、車いす10席）、中ホール992席（大ホール1階使用）。八戸市公民館507席は別ホール。命名権愛称は2024年10月1日～2029年9月30日、両施設共通のSG GROUP ホールはちのへ。地図上の施設代表位置（概略）：北緯40.51343、東経141.48813（防災地図）。県公開データは40.515388, 141.488586と異なるため、地図資料の位置は暫定。"
     },
     {
       "id": "jp-tohoku-aomori-shimin",
@@ -558,10 +566,13 @@
       ],
       "sources": [
         "https://www.chage-aska.net/history/",
-        "https://www.slideshare.net/slideshow/match34/121117796"
+        "https://www.slideshare.net/slideshow/match34/121117796",
+        "https://ameblo.jp/aomori-kyodokan-blog/entry-12764109545.html",
+        "https://www4.hp-ez.com/hp/hokubumap/page90",
+        "https://crd.ndl.go.jp/reference/entry/index.php?id=1000375354&page=ref_view"
       ],
       "verification": "secondary",
-      "note": "旧青森市民会館。現在の青森市文化会館とは別扱い。"
+      "note": "旧青森市民会館。現在の青森市文化会館とは別扱い。県立郷土館の職員による資料紹介では、1982年まで当時の青森市役所と日本銀行の間に存在し、現在の青森市文化会館の前身となる建物。市史を参照した二次資料の年表では1960年2月竣工、同年5月開館。旧施設の番地、客席数、正確な閉館・解体日、跡地、座標は未確認。現在の青森市民ホールとも区別する。"
     },
     {
       "id": "jp-tohoku-hirosaki",
@@ -572,16 +583,19 @@
         "弘前市民会館"
       ],
       "sources": [
-        "https://www.hirosaki-kaikan.jp/about/outline/"
+        "https://www.hirosaki-kaikan.jp/about/outline/",
+        "https://www.city.hirosaki.aomori.jp/gaiyou/shisetsu/shiminkaikan.html",
+        "https://www.zenkoubun.jp/search/hall_0020078.html",
+        "https://mapfan.com/spots/SC3AH%2CJ%2C9A"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：弘前市大字下白銀町1番地6（弘前公園内）。前川國男設計。施設案内では1964年4月竣工、全国公立文化施設協会は1964年5月1日開館と記載。2014年1月に改修後リニューアルオープン。大ホール総客席1,343席。地図上の施設代表位置（概略）：北緯40.60485、東経140.46224（MapFan）。入口・客席の厳密な位置ではない。弘前文化会館とは別施設。"
     },
     {
       "id": "jp-tohoku-aomori-bunka",
       "prefecture": "青森県",
       "municipality": "青森市",
-      "name": "青森市文化会館（リンクステーションホール青森）",
+      "name": "リンクステーションホール青森（青森市文化会館）",
       "aliases": [
         "青森市文化会館",
         "青森市文化会館 大ホール",
@@ -590,10 +604,14 @@
         "青森文化会館"
       ],
       "sources": [
-        "https://aobun-sogei.com/facility/linkstationhall/"
+        "https://aobun-sogei.com/facility/linkstationhall/",
+        "https://www.city.aomori.aomori.jp/shisetsu/1005639/1005642.html",
+        "https://www.zenkoubun.jp/search/hall_0020077.html",
+        "https://aobunkanko.com/namingrights-bunkakaikan/",
+        "https://www.bosai-map.com/shelters/aomori/aomori-city/09114ceff0"
       ],
       "verification": "confirmed",
-      "note": "登録表記「青森文化会館」はサイト管理者の判断に基づき同一施設として集計（2026-11-28）。別表記の一次資料による同一性確認は未実施。"
+      "note": "登録表記「青森文化会館」はサイト管理者の判断に基づき同一施設として集計（2026-11-28）。別表記の一次資料による同一性確認は未実施。\n所在地：青森市堤町1丁目4番1号。1982年11月2日開館（全国公立文化施設協会）。大ホール2,031席（1階1,095席、2階936席、移動席160席を含む）。2012年命名権導入、現契約は2023年4月1日～2029年3月31日、リンクステーションホール青森。旧青森市民会館とは別建物。地図上の施設代表位置（概略）：北緯40.82439、東経140.75689（防災地図の二次資料）。入口・客席の厳密な位置ではない。"
     },
     {
       "id": "jp-tohoku-quarter",
@@ -604,10 +622,13 @@
         "青森Quarter"
       ],
       "sources": [
-        "https://aomoriquarter.com/access"
+        "https://aomoriquarter.com/access",
+        "https://camp-fire.jp/projects/364749/view?list=prefecture_aomori_projects_density",
+        "https://www.navitabi.jp/article/9970",
+        "https://www.livewalker.com/web/detail/7475"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：青森市安方2丁目11-3。運営者の沿革によると1985年に古川でFREE LIVE SPACE 1/3を開店、2000年に現住所へ移転し1階にLIVEHOUSE Quarterを開店。旧店舗の公演とは位置を区別する。二次資料（LiveWalker、2023年更新）の定員は350人。現行公式定員と正確な開業日は未確認。地図上の施設代表位置（概略）：北緯40.82862、東経140.74265（LiveWalker掲載地図リンクの座標、地図画像未取得）。入口・客席の厳密な位置ではない。"
     },
     {
       "id": "jp-tohoku-iwate-kenmin",
