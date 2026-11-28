@@ -70176,7 +70176,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
-      "performanceNo": 1,
+      "performanceNo": 5,
       "tourId": "aska-higher-ground-2019-2020",
       "country": "日本",
       "prefecture": "福岡県",
@@ -70219,7 +70219,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
-      "performanceNo": 1,
+      "performanceNo": null,
       "tourId": "aska-higher-ground-2019-2020",
       "country": "日本",
       "prefecture": "大阪府",
@@ -70306,7 +70306,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
-      "performanceNo": 2,
+      "performanceNo": 6,
       "tourId": "aska-higher-ground-2019-2020",
       "country": "日本",
       "prefecture": "東京都",
@@ -70349,7 +70349,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
-      "performanceNo": 3,
+      "performanceNo": 7,
       "tourId": "aska-higher-ground-2019-2020",
       "country": "日本",
       "prefecture": "北海道",
@@ -70375,7 +70375,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
-      "performanceNo": 4,
+      "performanceNo": 8,
       "tourId": "aska-higher-ground-2019-2020",
       "country": "日本",
       "prefecture": "東京都",
@@ -70401,7 +70401,7 @@ window.CA_EVENT_DATA = {
           "url": "https://billboard-cc.com/aska2019"
         }
       ],
-      "performanceNo": 5,
+      "performanceNo": 9,
       "tourId": "aska-higher-ground-2019-2020",
       "country": "日本",
       "prefecture": "新潟県",
@@ -70427,7 +70427,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
-      "performanceNo": 6,
+      "performanceNo": 10,
       "tourId": "aska-higher-ground-2019-2020",
       "country": "日本",
       "prefecture": "群馬県",
@@ -70473,7 +70473,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
-      "performanceNo": 7,
+      "performanceNo": 11,
       "tourId": "aska-higher-ground-2019-2020",
       "country": "日本",
       "prefecture": "神奈川県",
@@ -70499,7 +70499,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
-      "performanceNo": 8,
+      "performanceNo": 12,
       "tourId": "aska-higher-ground-2019-2020",
       "country": "日本",
       "prefecture": "東京都",
@@ -70573,7 +70573,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
-      "performanceNo": 2,
+      "performanceNo": null,
       "tourId": "aska-higher-ground-2019-2020",
       "country": "日本",
       "prefecture": "大阪府",
@@ -70599,7 +70599,7 @@ window.CA_EVENT_DATA = {
           "url": "https://w.atwiki.jp/canda/pages/263.html"
         }
       ],
-      "performanceNo": 3,
+      "performanceNo": null,
       "tourId": "aska-higher-ground-2019-2020",
       "country": "日本",
       "prefecture": "熊本県",
@@ -72261,7 +72261,7 @@ window.CA_EVENT_DATA = {
           "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
         }
       ],
-      "performanceNo": 1,
+      "performanceNo": null,
       "tourId": "aska-higher-encore-2021-2022",
       "country": "日本",
       "prefecture": "東京都",
@@ -72307,7 +72307,7 @@ window.CA_EVENT_DATA = {
           "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
         }
       ],
-      "performanceNo": 2,
+      "performanceNo": null,
       "tourId": "aska-higher-encore-2021-2022",
       "country": "日本",
       "prefecture": "熊本県",
@@ -72404,7 +72404,7 @@ window.CA_EVENT_DATA = {
           "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
         }
       ],
-      "performanceNo": 3,
+      "performanceNo": null,
       "tourId": "aska-higher-encore-2021-2022",
       "country": "日本",
       "prefecture": "広島県",
@@ -72559,7 +72559,7 @@ window.CA_EVENT_DATA = {
           "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
         }
       ],
-      "performanceNo": 4,
+      "performanceNo": null,
       "tourId": "aska-higher-encore-2021-2022",
       "country": "日本",
       "prefecture": "東京都",
@@ -72649,7 +72649,7 @@ window.CA_EVENT_DATA = {
           "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
         }
       ],
-      "performanceNo": 5,
+      "performanceNo": null,
       "tourId": "aska-higher-encore-2021-2022",
       "country": "日本",
       "prefecture": "大阪府",
@@ -72885,7 +72885,7 @@ window.CA_EVENT_DATA = {
           "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
         }
       ],
-      "performanceNo": 6,
+      "performanceNo": null,
       "tourId": "aska-higher-encore-2021-2022",
       "country": "日本",
       "prefecture": "京都府",
@@ -73106,7 +73106,7 @@ window.CA_EVENT_DATA = {
           "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
         }
       ],
-      "performanceNo": 7,
+      "performanceNo": null,
       "tourId": "aska-higher-encore-2021-2022",
       "country": "日本",
       "prefecture": "宮城県",
@@ -73402,7 +73402,7 @@ window.CA_EVENT_DATA = {
           "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
         }
       ],
-      "performanceNo": 8,
+      "performanceNo": null,
       "tourId": "aska-higher-encore-2021-2022",
       "country": "日本",
       "prefecture": "愛知県",
@@ -73740,7 +73740,7 @@ window.CA_EVENT_DATA = {
           "url": "https://classics-festival.com/rc/performance/aska-premium-concert-tour-higher-ground-%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E5%85%AC%E6%BC%94/"
         }
       ],
-      "performanceNo": 9,
+      "performanceNo": null,
       "tourId": "aska-higher-encore-2021-2022",
       "country": "日本",
       "prefecture": "福岡県",
@@ -75483,7 +75483,7 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都",
       "venue": "ビルボードライブ東京",
       "tourId": "chage-billboard-64-65",
-      "performanceNo": 1,
+      "performanceNo": 5,
       "description": "2023年1月6日、Chageの「Chage Billboard Live “64 to 65”」がビルボードライブ東京で開催された。\n東京公演の第1ステージ。2022年末から続く公演である。"
     },
     {
@@ -75509,7 +75509,7 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都",
       "venue": "ビルボードライブ東京",
       "tourId": "chage-billboard-64-65",
-      "performanceNo": 2,
+      "performanceNo": 6,
       "description": "2023年1月6日、Chageの「Chage Billboard Live “64 to 65”」がビルボードライブ東京で開催された。\n東京公演の第2ステージ。2022年末から続く公演である。"
     },
     {
@@ -104166,5 +104166,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.9.17"
+  "siteVersion": "2.9.18"
 };
