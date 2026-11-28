@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-20",
+  "version": "3.8.4-21",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -6415,9 +6415,12 @@
       "aliases": [
         "米子市文化ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0311055.html",
+        "https://www.city.yonago.lg.jp/16905.htm"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1991年10月1日開館。米子市末広町。使用ホール未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-007",
@@ -6439,9 +6442,11 @@
       "aliases": [
         "出雲市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0321065.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1981年11月3日開館。出雲市塩冶有原町。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-009",
@@ -6505,9 +6510,12 @@
       "aliases": [
         "岡山市総合文化体育館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0331091.html",
+        "https://www.city.okayama.jp/life/0000041562.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1982年11月21日開館。浦安総合公園内の施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-015",
@@ -6532,9 +6540,11 @@
       "aliases": [
         "岡山市民文化ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.okayama-kanko.jp/okatabi/1230/page"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：正式名称は岡山市立市民文化ホール。県観光公式サイトの記事によると1976年開館、2024年3月31日閉館予定と当時告知。実際の閉館日について事後資料は未照合。岡山市民会館とは別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-017",
@@ -6544,9 +6554,12 @@
       "aliases": [
         "倉敷市芸文館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0331096.html",
+        "https://arsk.jp/geibun/"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1993年10月1日開館。大小ホールあり、使用ホールは未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-018",
@@ -6639,9 +6652,12 @@
       "aliases": [
         "はつかいち文化ホールさくらぴあ 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0341131.html",
+        "https://www.city.hatsukaichi.hiroshima.jp/site/kohohatsukaichi/39286.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1997年4月25日開館。2019年4月からウッドワンさくらぴあの愛称（市広報）。大ホール区分。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-025",
@@ -6651,9 +6667,12 @@
       "aliases": [
         "ふくやまリーデンローズ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "大ホール明記の記録と区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0341128.html",
+        "https://www.city.fukuyama.hiroshima.jp/site/miryoku2023/288974.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】大ホール明記の記録と区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1994年11月2日開館。ふくやま芸術文化ホール（リーデンローズ）。使用ホール未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-026",
@@ -6663,9 +6682,12 @@
       "aliases": [
         "ふくやま芸術文化ホール リーデンローズ 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0341128.html",
+        "https://www.city.fukuyama.hiroshima.jp/site/miryoku2023/288974.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1994年11月2日開館。ふくやま芸術文化ホール（リーデンローズ）。大ホールは小ホールと別。2027年の記録は開催予定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-027",
@@ -6689,9 +6711,11 @@
       "aliases": [
         "リーガロイヤルホテル広島"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.rihga.co.jp/hiroshima/company"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1994年4月25日開業（運営者公式）。宴会場は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-029",
@@ -6701,9 +6725,12 @@
       "aliases": [
         "リーガロイヤルホテル広島 ロイヤルホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.rihga.co.jp/hiroshima/company",
+        "https://www.rihga.co.jp/hiroshima/party/venue/93"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：ホテルは1994年4月25日開業。4階ロイヤルホールを運営者案内で確認。宴会場独自の開設日は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-031",
@@ -6725,9 +6752,12 @@
       "aliases": [
         "広島アステールプラザ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "大ホール明記と区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0341109.html",
+        "https://www.city.hiroshima.lg.jp/shisei/zaisei/1027452/1027454/1019026.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】大ホール明記と区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1991年1月26日開館。現在の呼称はJMSアステールプラザ（市の命名権一覧）。初回愛称開始日は未確認。使用ホール未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-034",
@@ -6737,9 +6767,12 @@
       "aliases": [
         "広島アステールプラザ（大）"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "（大）は大ホールの略記と推定。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0341109.html",
+        "https://www.city.hiroshima.lg.jp/shisei/zaisei/1027452/1027454/1019026.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】（大）は大ホールの略記と推定。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1991年1月26日開館。現在の呼称はJMSアステールプラザ（市の命名権一覧）。初回愛称開始日は未確認。文化創造センターの大ホール。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-036",
@@ -6852,9 +6885,12 @@
       "aliases": [
         "スターピアくだまつ大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0351152.html",
+        "https://www.starpiaa.or.jp/guide/"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1993年11月1日開館。下松市文化会館（スターピアくだまつ）。大ホールを運営者案内で確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-048",
@@ -6864,9 +6900,11 @@
       "aliases": [
         "下関市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0351144.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1977年5月8日開館。大・中ホールあり、使用ホールは未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-049",
@@ -6876,9 +6914,11 @@
       "aliases": [
         "山口市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0351143.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1971年8月25日開館。大・小ホールあり、使用ホール未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-050",
@@ -6920,9 +6960,12 @@
       "aliases": [
         "周南市文化会館 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0351142.html",
+        "https://s-bunka.jp/bunka/shisetsu.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1982年11月2日開館。運営者の施設概要で大ホールを確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-055",
@@ -6932,9 +6975,12 @@
       "aliases": [
         "萩市民会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0351145.html",
+        "https://www.city.hagi.lg.jp/soshiki/19/1621.html"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：候補施設の正式名称は萩市民館。1968年10月5日開館。登録表記「萩市民会館」と当時の同一性は未確認のため保留。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-056",
@@ -6944,9 +6990,13 @@
       "aliases": [
         "防府市公会堂"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0351146.html",
+        "https://www.city.hofu.yamaguchi.jp/soshiki/40/koukaidoune-minnguraitu.html",
+        "https://yama.minato-yamaguchi.co.jp/e-yama/articles/38138"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1960年10月15日開館。三友サルビアホールの愛称（2022年4月からとの当時報道、市公式で継続確認）。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-057",
@@ -7044,9 +7094,12 @@
       "aliases": [
         "サンポートホール高松"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0371175.html",
+        "https://www.city.takamatsu.kagawa.jp/kurashi/kurashi/shisetsu/art/sunport.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：2004年5月20日開館（公文協、市は2004年5月と記載）。正式名称は高松市文化芸術ホール。使用ホール未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-066",
@@ -7056,9 +7109,12 @@
       "aliases": [
         "サンポートホール高松 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0371175.html",
+        "https://www.city.takamatsu.kagawa.jp/kurashi/kurashi/shisetsu/art/sunport.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：2004年5月20日開館（公文協、市は2004年5月と記載）。正式名称は高松市文化芸術ホール。大ホールは第1・第2小ホールと区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-071",
@@ -7152,9 +7208,11 @@
       "aliases": [
         "松山市民会館 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0381187.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1965年7月10日開館。大ホールは中・小ホールと区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-080",
@@ -7334,9 +7392,11 @@
       "aliases": [
         "サザンクス筑後"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0401246.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1995年3月1日開館。使用ホール未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-011",
@@ -7346,9 +7406,11 @@
       "aliases": [
         "サザンクス筑後 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0401246.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1995年3月1日開館。大ホールは小ホール・イベントホールと区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-012",
@@ -7358,9 +7420,11 @@
       "aliases": [
         "なかまハーモニーホール 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0401247.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1996年11月1日開館。大・小ホール別区分。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-013",
@@ -7398,9 +7462,11 @@
       "aliases": [
         "ミリカローデン那珂川"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "2009年当時は那珂川町。現在の自治体名で分類。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0401248.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】2009年当時は那珂川町。現在の自治体名で分類。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1994年4月1日開館。2021年度からの改修計画を公文協資料で確認、完了の実績日は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-016",
@@ -7453,9 +7519,13 @@
       "aliases": [
         "小倉昭和館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.ushio.co.jp/jp/news/1005/2023-2023/501164.html",
+        "https://www.daieisangyo.co.jp/news/2184",
+        "https://www.xebex.co.jp/media/case/kokura-showakan"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1939年開業、2022年8月の火災で旧館焼失。2023年12月再建・営業再開。再建関係者資料で確認。対象3件は新館。再開日の表記差は未確定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-022",
@@ -7489,9 +7559,11 @@
       "aliases": [
         "大牟田文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0401230.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1986年7月1日開館。使用ホールは未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-025",
@@ -7502,9 +7574,12 @@
         "田川市文化センター",
         "田川文化センター"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0402001.html",
+        "https://www.joho.tagawa.fukuoka.jp/dynamic/info/pub/detail.aspx?c_id=13&id=53"
+      ],
       "verification": "provisional-location",
-      "note": "市の有無の表記差と暫定分類。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市の有無の表記差と暫定分類。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：候補は田川文化センター・田川青少年文化ホール。公文協は1974年11月30日開館と記載。登録表記と当時のホール区分の確認が未了のため保留。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-027",
@@ -7616,9 +7691,12 @@
       "aliases": [
         "福岡市民会館 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "ホール指定なしとは区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.fhs.co.jp/civichall/",
+        "https://tenjin.keizai.biz/headline/8002/"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】ホール指定なしとは区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1963年10月開館（当時報道）。2025年3月23日閉館（運営者告知）。後継の福岡市民ホールとは別施設。開館日は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-038",
@@ -7684,9 +7762,12 @@
       "aliases": [
         "佐賀城本丸歴史館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://saga-museum.jp/sagajou/about/history.html",
+        "https://saga-museum.jp/sagajou/information/"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：2004年開館（館公式年表）。正式名称は佐賀県立佐賀城本丸歴史館。開館月日、具体的な公演場所は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-043",
@@ -7752,9 +7833,12 @@
       "aliases": [
         "大村市民会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.city.omura.nagasaki.jp/gikaichousa/shise/shigikai/koho/myu-ka/hokokusho/15-28-02.html",
+        "https://kaiten-heiten.com/omurashiminkaikan/"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：市議会資料では2016年3月末閉館予定、二次資料では3月31日閉館。開館年月日と当時の施設同一性の追加確認待ち。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-049",
@@ -7780,9 +7864,11 @@
       "aliases": [
         "長崎市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0421265.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1974年3月7日開館。文化ホールの存在を確認、原記録の使用区分は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-051",
@@ -7806,9 +7892,11 @@
       "aliases": [
         "島原文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0421270.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1974年9月15日開館。大・中ホールあり、使用ホール未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-053",
@@ -7818,9 +7906,11 @@
       "aliases": [
         "福江文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "2009年当時の自治体は五島市。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0421273.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】2009年当時の自治体は五島市。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1985年6月1日開館。現名称は五島市福江文化会館。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-054",
@@ -7876,9 +7966,11 @@
       "aliases": [
         "人吉カルチャーパレス"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0431297.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1984年10月4日開館。正式名称は人吉市カルチャーパレス。大・小ホールあり、使用ホール未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-059",
@@ -8043,9 +8135,12 @@
       "aliases": [
         "都城総合文化ホール大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0452283.html",
+        "https://www.city.miyakonojo.miyazaki.jp/soshiki/20/3982.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：2006年10月22日開館。正式名称は都城市総合文化ホール（MJ）。大ホール（きりしま）を確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-073",
@@ -8282,9 +8377,14 @@
       "aliases": [
         "沖縄コンベンション劇場"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "劇場棟と暫定分類。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0471396.html",
+        "https://www.pref.okinawa.jp/machizukuri/kenchiku/1013505/1013507/1020563.html",
+        "https://www.pref.okinawa.jp/bunkakoryu/sport/1009750/1039097.html",
+        "https://www.nagata.co.jp/news/news9008.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】劇場棟と暫定分類。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：センターは1987年供用開始、劇場棟は1990年完成。公文協の開館日は1990年8月2日。劇場棟と展示棟を区別。県は2029年度に劇場棟等の改修休館を計画。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-094",
@@ -8310,9 +8410,11 @@
       "aliases": [
         "宜野湾市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0471391.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1983年1月14日開館。大ホールの存在を確認、原記録ではホール指定なし。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-096",
