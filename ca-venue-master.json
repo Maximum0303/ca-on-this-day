@@ -1,5 +1,5 @@
 {
-  "version": "3.9.6",
+  "version": "3.9.7",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1270,25 +1270,30 @@
         "郡山市民会館"
       ],
       "sources": [
-        "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000283127"
+        "https://crd.ndl.go.jp/reference/entry/reference/show?id=1000283127",
+        "https://www.city.koriyama.lg.jp/soshiki/23/3390.html"
       ],
       "verification": "confirmed",
-      "note": "市民文化センターとは別施設。1987年の公演も旧施設表記を維持。"
+      "note": "市民文化センターとは別施設。1987年の公演も旧施設表記を維持。\n1958年落成（開館日未確認）。"
     },
     {
       "id": "jp-tohoku-fukushima-ken",
       "prefecture": "福島県",
       "municipality": "福島市",
-      "name": "福島県文化センター（とうほう・みんなの文化センター）",
+      "name": "とうほう・みんなの文化センター（福島県文化センター）",
       "aliases": [
         "福島県文化センター",
         "福島文化センター"
       ],
       "sources": [
-        "https://www.fcp.or.jp/culture/"
+        "https://www.fcp.or.jp/culture/",
+        "https://www.fcp.or.jp/culture/greeting/",
+        "https://www.fcp.or.jp/culture/facility/",
+        "https://www.pref.fukushima.lg.jp/sec/11055a/namebunkacentre.html",
+        "https://www.navitime.co.jp/poi?spot=00004-07104900013"
       ],
       "verification": "confirmed",
-      "note": "登録表記「福島文化センター」はサイト管理者の判断に基づき同一施設として集計（2026-11-28）。別表記の一次資料による同一性確認は未実施。"
+      "note": "登録表記「福島文化センター」はサイト管理者の判断に基づき同一施設として集計（2026-11-28）。別表記の一次資料による同一性確認は未実施。\n1970年開館。所在地：福島市春日町5-54。大ホール1,752席（1階1,086席、2階666席、別途車いす6席との表記）。東邦銀行との命名権契約2024年4月1日～2029年3月31日、愛称とうほう・みんなの文化センター。2024年7月から地震被害復旧・空調改修工事。2025年7月時点で2026年7月以降の再開予定と案内。施設代表位置（暫定）：北緯37.768086、東経140.473133（商用地図、測地系・地図画像未照合）。"
     },
     {
       "id": "jp-tohoku-aizu-old",
@@ -1300,16 +1305,18 @@
       ],
       "sources": [
         "https://www.city.aizuwakamatsu.fukushima.jp/docs/2007081500946/",
-        "https://www.965.jp/docs/2009020200023/"
+        "https://www.965.jp/docs/2009020200023/",
+        "https://www.city.aizuwakamatsu.fukushima.jp/docs/2009020200023/",
+        "https://adeac.jp/city-aizuwakamatsu/catalog/mp600015-100070"
       ],
       "verification": "confirmed",
-      "note": "會津風雅堂とは別施設。"
+      "note": "會津風雅堂とは別施設。\n1959年12月20日落成（開館日未確認）。市立会津図書館の写真目録解説では旧公会堂の解体後、1959年12月に市民会館・中央公民館を建設。"
     },
     {
       "id": "jp-tohoku-koriyama-bunka",
       "prefecture": "福島県",
       "municipality": "郡山市",
-      "name": "郡山市民文化センター（けんしん郡山文化センター）",
+      "name": "けんしん郡山文化センター（郡山市民文化センター）",
       "aliases": [
         "郡山市民文化センター",
         "郡山市民文化センター 大ホール",
@@ -1318,10 +1325,13 @@
       ],
       "sources": [
         "https://www.bunka-manabi.or.jp/kc-center/institution/",
-        "https://www.chage-aska.net/history/1990.php"
+        "https://www.chage-aska.net/history/1990.php",
+        "https://www.city.koriyama.lg.jp/soshiki/43/6962.html",
+        "https://www.bunka-manabi.or.jp/kc-center/top/naming.html",
+        "https://www.navitime.co.jp/poi?spot=00004-07104900011"
       ],
       "verification": "confirmed",
-      "note": "登録表記「郡山市文化センター」はサイト管理者の判断に基づき同一施設として集計（2026-11-28）。別表記の一次資料による同一性確認は未実施。"
+      "note": "登録表記「郡山市文化センター」はサイト管理者の判断に基づき同一施設として集計（2026-11-28）。別表記の一次資料による同一性確認は未実施。\n所在地：郡山市堤下町1番2号。1984年11月10日開館。大ホール2,004席、中ホール806席（市施設案内）。2018年4月1日から愛称けんしん郡山文化センター。施設代表位置（暫定）：北緯37.392754、東経140.378152（商用地図、測地系・地図画像未照合）。"
     },
     {
       "id": "jp-tohoku-iwaki-old",
@@ -1332,24 +1342,27 @@
         "いわき市平市民会館"
       ],
       "sources": [
-        "https://iwaki-alios.jp/summary"
+        "https://iwaki-alios.jp/summary",
+        "https://www.city.iwaki.lg.jp/www/contents/1475578924917/index.html"
       ],
       "verification": "confirmed",
-      "note": "アリオス本館の旧施設。統合しない。"
+      "note": "アリオス本館の旧施設。統合しない。\n1966年4月落成（開館日未確認）。旧県立平商業高校の校庭に建設。旧平市民会館跡にアリオス本館が整備され、2008年4月に第一次オープン。"
     },
     {
       "id": "jp-tohoku-koriyama-gym",
       "prefecture": "福島県",
       "municipality": "郡山市",
-      "name": "郡山市総合体育館",
+      "name": "宝来屋 ボンズアリーナ（郡山総合体育館）",
       "aliases": [
         "郡山市総合体育館"
       ],
       "sources": [
-        "https://www.city.koriyama.lg.jp/soshiki/44/45347.html"
+        "https://www.city.koriyama.lg.jp/soshiki/44/45347.html",
+        "https://www.city.koriyama.lg.jp/soshiki/44/1662.html",
+        "https://www.e-horaiya.com/news_list/?p=787"
       ],
       "verification": "confirmed",
-      "note": "郡山総合体育館。"
+      "note": "郡山総合体育館。\n所在地：郡山市豊田町3番10号。大体育館最大5,013席（移動観覧席を含む、改修後案内）。2018年度から宝来屋本店が命名権スポンサー。2025年度から宝来屋郡山総合体育館を宝来屋ボンズアリーナに変更すると発表（市の現行案内でも新愛称を確認）。"
     },
     {
       "id": "jp-tohoku-aizu-fugado",
@@ -1362,10 +1375,13 @@
       ],
       "sources": [
         "https://www.zenkoubun.jp/search/hall_0070220.html",
-        "https://www.city.aizuwakamatsu.fukushima.jp/j/reiki_int/reiki_honbun/c503RG00000308.html"
+        "https://www.city.aizuwakamatsu.fukushima.jp/j/reiki_int/reiki_honbun/c503RG00000308.html",
+        "https://aizu-bunka.jp/fugado/",
+        "https://www.city.aizuwakamatsu.fukushima.jp/docs/2009020200023/",
+        "https://aizu-bunka.jp/fugado/about"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：会津若松市城東町12-1。1994年6月27日開館。総1,758席（1階1,158席、うち車いす用6席、2階600席）。"
     },
     {
       "id": "jp-tohoku-hipshot",
@@ -1376,25 +1392,28 @@
         "郡山Hip Shot Japan"
       ],
       "sources": [
-        "https://hip-shot.com/access/"
+        "https://hip-shot.com/access/",
+        "https://hip-shot.com/spec/"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：郡山市清水台1-6-16。運営者はSmall・Regularの収容平面図を掲載。定員数の本文確認はできず、構成別数値は保留。"
     },
     {
       "id": "jp-tohoku-alios",
       "prefecture": "福島県",
       "municipality": "いわき市",
-      "name": "いわき芸術文化交流館アリオス 大ホール",
+      "name": "いわき芸術文化交流館アリオス アルパイン大ホール",
       "aliases": [
         "いわき芸術文化交流館アリオス 大ホール",
         "いわき芸術文化交流館アリオス アルパイン大ホール"
       ],
       "sources": [
-        "https://iwaki-alios.jp/summary"
+        "https://iwaki-alios.jp/summary",
+        "https://iwaki-alios.jp/facilities/main-hall",
+        "https://mapfan.com/spots/SC3AH,J,M"
       ],
       "verification": "confirmed",
-      "note": "大ホールの愛称差。"
+      "note": "大ホールの愛称差。\n所在地：いわき市平字三崎1番地の6。2008年4月8日第一次オープン、2009年5月2日グランドオープン。通常1,705席、1・2階使用時1,122席、オーケストラピット使用時1,516席（車いす席8席を含む）。大ホール愛称アルパイン大ホール、命名権パートナーはアルプスアルパイン。建物代表位置（暫定）：北緯37.0497808、東経140.8896256（商用地図、測地系・地図画像未照合）。"
     },
     {
       "id": "jp-tohoku-hawaiians",
@@ -1405,10 +1424,11 @@
         "スパリゾートハワイアンズ ビーチシアター"
       ],
       "sources": [
-        "https://www.hawaiians.co.jp/reserve/show/"
+        "https://www.hawaiians.co.jp/reserve/show/",
+        "https://blog.hawaiians.co.jp/archives/51106094.html"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "施設全体所在地：いわき市常磐藤原町蕨平50（シアター単独番地ではない）。ウォーターパーク内のビーチシアターで昼・夜のショーを開催する施設。スプリングパーク・プラザとは別会場。運営者の旧ブログに有料指定席新設・座席増加の記録あり。現行総定員は未確認。"
     },
     {
       "id": "jp-kanto-mito-old",
