@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-5",
+  "version": "3.8.4-6",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -4209,9 +4209,13 @@
         "ダイアモンドホール",
         "名古屋ダイアモンドホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "地域名の有無による表記差として暫定集計。"
+      "sources": [
+        "https://diamond.sflag.co.jp/access/",
+        "https://chage.jp/biography/2014.php",
+        "https://chage.jp/staffmemo/%E3%80%8Echagelivetour2014-equal-%E3%80%8F%E5%90%8D%E5%8F%A4%E5%B1%8B%E3%83%BB%E5%A4%A7%E9%98%AA%E7%B5%82%E4%BA%86%EF%BC%81%E6%98%8E%E6%97%A5%E3%81%AF%E7%A6%8F%E5%B2%A1%EF%BC%81/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：名古屋市中区新栄のDIAMOND HALL。2014年9月23日公演についてChage公式スタッフ記事で名古屋ダイアモンドホールの表記を確認。開業年・旧名の厳密な変遷は未確定のため記載しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-089",
@@ -5549,9 +5553,12 @@
       "aliases": [
         "神戸文化ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.kobe-bunka.jp/hall/50th/history/",
+        "https://www.kobe-bunka.jp/hall/about_hall/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1973年10月1日開館、神戸市大倉山の施設。ホール未指定の11記録は施設単位とし、大・中ホールは断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-089",
@@ -5562,9 +5569,12 @@
         "神戸文化ホール 大ホール",
         "神戸文化ホール（大）"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "大ホールと（大）の表記差。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.kobe-bunka.jp/hall/about_hall/",
+        "https://www.zenkoubun.jp/search/hall_0280957.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1973年10月1日開館の神戸文化ホール内大ホール。神戸市。大ホールと（大）の表記差を維持し、ホール未指定とは別集計。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-091",
@@ -5586,9 +5596,13 @@
       "aliases": [
         "姫路市文化センター"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.himeji.lg.jp/shisei/0000007248.html",
+        "https://www.bunkacenter.himeji-culture.jp/history.html",
+        "https://bunkacenter.himeji-culture.jp/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1972年開館、2021年12月28日閉館。姫路市。後継のアクリエひめじとは別施設。閉館告知の西暦1973年は昭和47年及び市公式年表と矛盾するため1972年を採用。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-093",
@@ -6028,9 +6042,12 @@
         "広島CLUB QUATTRO",
         "広島クラブクアトロ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "日本語・英語・カナの表記差。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://hiroshima.parco.jp/shop/detail/?cd=001048",
+        "https://www.club-quattro.com/hiroshima/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2001年12月1日開業。広島PARCO本館のライブハウス。日本語・英語・カナ表記を同一施設として維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-023",
@@ -6163,9 +6180,12 @@
       "aliases": [
         "広島グリーンアリーナ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://h-jigyoudan.or.jp/sports-center/center-overview/",
+        "https://cocospo.go.jp/facility/17161"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1994年開館の広島県立総合体育館の大アリーナ。広島市。旧体育館・小アリーナとは区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-037",
@@ -6985,9 +7005,13 @@
       "aliases": [
         "福岡市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "後継施設とは区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.fukuoka.lg.jp/shisei/profile/04.html",
+        "https://www.fhs.co.jp/civichall/",
+        "https://www.city.fukuoka.lg.jp/d1w_reiki/reiki_honbun/q003RG00000148.html?id=j15_k1"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1963年開館、2025年3月23日閉館。福岡市中央区天神。後継の福岡市民ホールとは別。ホール未指定は施設単位。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-037",
@@ -7214,9 +7238,12 @@
       "aliases": [
         "熊本市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "熊本城ホールとは別施設。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0431289.html",
+        "https://www.city.kumamoto.jp/dynamic/info/pub/detail.aspx?c_id=59&id=271"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1968年1月6日開館。熊本市民会館（市民会館シアーズホーム夢ホール）。熊本城ホールとは別施設。ホール未指定は施設単位。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-056",
@@ -7596,9 +7623,13 @@
       "aliases": [
         "沖縄コンベンションセンター"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "展示棟・劇場棟と区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.pref.okinawa.lg.jp/bunkakoryu/sport/1009750/1039097.html",
+        "https://www.bunka.go.jp/kindai/kenzoubutsu/research/okinawa/024/index.html",
+        "https://www.zenkoubun.jp/search/hall_0471396.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1987年供用開始、劇場は1990年開館。宜野湾市真志喜。棟指定なしの12記録は施設単位とし、展示棟・劇場棟を断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-091",
@@ -7608,9 +7639,12 @@
       "aliases": [
         "沖縄コンベンションセンター 展示棟"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.bunka.go.jp/kindai/kenzoubutsu/research/okinawa/024/index.html",
+        "https://www.oki-conven.jp/institution/tenji/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1987年竣工の展示棟。宜野湾市真志喜。劇場棟及び棟指定なしの記録とは別集計。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-092",
