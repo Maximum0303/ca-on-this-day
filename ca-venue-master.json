@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-8",
+  "version": "3.8.4-9",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -3490,9 +3490,12 @@
       "aliases": [
         "富山県民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0160666.html",
+        "https://www.bunka-toyama.jp/kenminkaikan/facilityguide/index.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1964年開館。富山市新総曲輪。富山市公会堂とは別施設。ホール未指定は施設単位。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-022",
@@ -3819,9 +3822,13 @@
       "aliases": [
         "岐阜市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0210731.html",
+        "https://www.sakakura.co.jp/works/1961-1970/1116/",
+        "https://www.city.gifu.lg.jp/info/shisetsu/1009631/1009633.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1967年2月1日開館。岐阜市。設計者の資料でも1967年竣工を確認。旧公会堂とは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-054",
@@ -3844,9 +3851,13 @@
         "長良川国際会議場",
         "長良川国際会議場 メインホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "同一施設の表記差として暫定集計。メインホール明記の原記録は維持。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0210752.html",
+        "https://www.city.gifu.lg.jp/info/shisetsu/1009631/1005143.html",
+        "https://www.g-ncc.jp/facilities/main-hall/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1995年9月1日開館。岐阜市。メインホール（さらさ～ら）を備える施設。ホール未指定の公演は特定せず、既存の施設単位集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-057",
@@ -4321,9 +4332,12 @@
       "aliases": [
         "愛知県芸術劇場 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0230759.html",
+        "https://www.pref.aichi.jp/soshiki/bunka/bunka20220325.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1992年10月30日開館の愛知芸術文化センター愛知県芸術劇場内の大ホール。名古屋市東区。コンサートホール・小ホールとは区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-096",
@@ -4597,9 +4611,12 @@
       "aliases": [
         "三重県文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.pref.mie.lg.jp/BUNKA/HP/m0054400142.htm",
+        "https://www.center-mie.or.jp/access/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1994年開館の三重県総合文化センター内文化会館。津市。ホール未指定の記録は施設単位とし、大・中ホール指定のグループとは別集計。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-005",
@@ -4609,9 +4626,13 @@
       "aliases": [
         "三重県文化会館・大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.pref.mie.lg.jp/BUNKA/HP/m0054400142.htm",
+        "https://www.center-mie.or.jp/guide/bunka/detail/hall01.html",
+        "https://www.center-mie.or.jp/access/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1994年開館の三重県総合文化センター内文化会館の大ホール。津市。ホール未指定・中ホールとは別集計。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-006",
@@ -4700,9 +4721,12 @@
       "aliases": [
         "びわ湖ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.biwako-hall.or.jp/about",
+        "https://www.zenkoubun.jp/search/hall_0250851.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1998年9月5日開館。大津市打出浜。大・中・小ホールを備え、登録名にホール指定のない公演は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-014",
@@ -5646,9 +5670,13 @@
         "兵庫県立芸術文化センター KOBELCO大ホール",
         "兵庫県立芸術文化センター 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "大ホールの愛称表記差。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www1.gcenter-hyogo.jp/about/center.html",
+        "https://www1.gcenter-hyogo.jp/facilities/kobelco.html",
+        "https://www1.gcenter-hyogo.jp/news/2024/08/0829_omoidepost.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2005年10月開館。西宮市高松町。運営者の施設案内でKOBELCO大ホールを確認。大ホールの別表記は同じホールとして維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-095",
@@ -5744,9 +5772,12 @@
       "aliases": [
         "奈良県文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0291011.html",
+        "https://www.pref.nara.lg.jp/n042/22928.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1968年6月1日開館。奈良市登大路町。奈良県橿原文化会館とは別施設。ホール未指定の記録は施設単位。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-103",
@@ -7447,9 +7478,12 @@
       "aliases": [
         "宮崎市民文化ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0451349.html",
+        "https://www.miyazakibunkahall.jp/visitor-info"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1996年10月2日開館。宮崎市花山手東。旧宮崎市民会館とは別施設。ホール未指定は施設単位。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-070",
