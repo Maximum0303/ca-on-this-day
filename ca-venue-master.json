@@ -1,5 +1,5 @@
 {
-  "version": "3.8.3-6",
+  "version": "3.8.3-7",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -40,7 +40,15 @@
     "徳島県",
     "香川県",
     "愛媛県",
-    "高知県"
+    "高知県",
+    "福岡県",
+    "佐賀県",
+    "長崎県",
+    "熊本県",
+    "大分県",
+    "宮崎県",
+    "鹿児島県",
+    "沖縄県"
   ],
   "entries": [
     {
@@ -6515,6 +6523,1069 @@
       ],
       "verification": "confirmed",
       "note": "新愛称。オレンジホール指定を維持。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-002",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "DRUM LOGOS",
+      "aliases": [
+        "DRUM LOGOS"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-003",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "Gate’s7",
+      "aliases": [
+        "Gate’s7"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-004",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "Zepp Fukuoka（新旧施設・市町村共通）",
+      "aliases": [
+        "Zepp Fukuoka"
+      ],
+      "sources": [
+        "https://www.zepp.co.jp/news/2696/",
+        "https://www.zepp.co.jp/news/2079/"
+      ],
+      "verification": "provisional-location",
+      "note": "2016年5月閉館、2018年12月再出店。登録名が新旧にまたがるため同一建物として扱わない。現行仕様では日付別分割不可。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-005",
+      "prefecture": "福岡県",
+      "municipality": "北九州市",
+      "name": "北九州ソレイユホール（旧 九州厚生年金会館）",
+      "aliases": [
+        "アルモニーサンク北九州 ソレイユホール",
+        "九州厚生年金会館",
+        "小倉九州厚生年金会館"
+      ],
+      "sources": [
+        "https://www.city.kitakyushu.lg.jp/contents/02100115.html"
+      ],
+      "verification": "confirmed",
+      "note": "旧名称・地名付き表記を統合。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-006",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "イムズホール（旧施設）",
+      "aliases": [
+        "イムズホール",
+        "福岡 イムズホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "地名付き表記を統合。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-007",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "キャナルシティ劇場",
+      "aliases": [
+        "キャナルシティ劇場"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-008",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "グランド ハイアット福岡 ザ・グランド・ボールルーム",
+      "aliases": [
+        "グランド ハイアット福岡 ザ・グランド・ボールルーム"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "ボールルーム明記。ホテル名のみの記録とは区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-009",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "グランドハイアット福岡",
+      "aliases": [
+        "グランドハイアット福岡"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "宴会場指定なし。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-010",
+      "prefecture": "福岡県",
+      "municipality": "筑後市",
+      "name": "サザンクス筑後",
+      "aliases": [
+        "サザンクス筑後"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-011",
+      "prefecture": "福岡県",
+      "municipality": "筑後市",
+      "name": "サザンクス筑後 大ホール",
+      "aliases": [
+        "サザンクス筑後 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-012",
+      "prefecture": "福岡県",
+      "municipality": "中間市",
+      "name": "なかまハーモニーホール 大ホール",
+      "aliases": [
+        "なかまハーモニーホール 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-013",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "ホテルニューオータニ博多",
+      "aliases": [
+        "ホテルニューオータニ博多"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-014",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "マリンメッセ福岡（旧名称・棟指定なし）",
+      "aliases": [
+        "マリンメッセ福岡"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "当時の施設名を維持。A館・B館の区別を後から断定しない。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-015",
+      "prefecture": "福岡県",
+      "municipality": "那珂川市",
+      "name": "ミリカローデン那珂川",
+      "aliases": [
+        "ミリカローデン那珂川"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "2009年当時は那珂川町。現在の自治体名で分類。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-016",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "海の中道海浜公園 大芝生広場",
+      "aliases": [
+        "海の中道海浜公園 大芝生広場"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-018",
+      "prefecture": "福岡県",
+      "municipality": "北九州市",
+      "name": "九州女子大学",
+      "aliases": [
+        "九州女子大"
+      ],
+      "sources": [
+        "https://www.kwuc.ac.jp/introduction/history/",
+        "https://up-j.shigaku.go.jp/school/category08/00000000674201000.html"
+      ],
+      "verification": "provisional-location",
+      "note": "学内の具体会場は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-020",
+      "prefecture": "福岡県",
+      "municipality": "北九州市",
+      "name": "小倉市民会館",
+      "aliases": [
+        "小倉市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-021",
+      "prefecture": "福岡県",
+      "municipality": "北九州市",
+      "name": "小倉昭和館",
+      "aliases": [
+        "小倉昭和館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-022",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "照葉シアター",
+      "aliases": [
+        "照葉シアター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-023",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "西南コミュニティーセンター",
+      "aliases": [
+        "西南コミュニティーセンター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-024",
+      "prefecture": "福岡県",
+      "municipality": "大牟田市",
+      "name": "大牟田文化会館",
+      "aliases": [
+        "大牟田文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-025",
+      "prefecture": "福岡県",
+      "municipality": "田川市",
+      "name": "田川市文化センター",
+      "aliases": [
+        "田川市文化センター",
+        "田川文化センター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市の有無の表記差と暫定分類。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-027",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "電気ビル みらいホール",
+      "aliases": [
+        "電気ビル みらいホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-029",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "みずほPayPayドーム福岡（旧 福岡ドーム・ヤフオク!ドーム）",
+      "aliases": [
+        "福岡 ヤフオク!ドーム",
+        "福岡ドーム"
+      ],
+      "sources": [
+        "https://www.softbankhawks.co.jp/news/detail/9418.html",
+        "https://www.softbankhawks.co.jp/news/detail/202400533067.html"
+      ],
+      "verification": "confirmed",
+      "note": "命名権による名称変更。同一球場。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-030",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "福岡サンパレス ホテル＆ホール",
+      "aliases": [
+        "福岡サンパレス",
+        "福岡サンパレス ホテル＆ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "施設名の表記差。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-033",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "福岡工業大学",
+      "aliases": [
+        "福岡工業大"
+      ],
+      "sources": [
+        "https://fit.ac.jp/daigaku/syokai/enkaku",
+        "https://up-j.shigaku.go.jp/school/category08/00000000674001000.html"
+      ],
+      "verification": "provisional-location",
+      "note": "学内の具体会場は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-034",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "福岡国際センター",
+      "aliases": [
+        "福岡国際センター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-035",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "福岡市西区小戸公園",
+      "aliases": [
+        "福岡市西区小戸公園"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-036",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "福岡市民会館（旧施設・ホール指定なし）",
+      "aliases": [
+        "福岡市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "後継施設とは区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-037",
+      "prefecture": "福岡県",
+      "municipality": "福岡市",
+      "name": "福岡市民会館 大ホール（旧施設）",
+      "aliases": [
+        "福岡市民会館 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "ホール指定なしとは区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-038",
+      "prefecture": "佐賀県",
+      "municipality": "佐賀市",
+      "name": "ミズ ウェルビーホール（佐賀市文化会館）",
+      "aliases": [
+        "ミズ ウェルビーホール（佐賀市文化会館）"
+      ],
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0411254.html"
+      ],
+      "verification": "confirmed",
+      "note": "1986年の旧登録名と同一施設とは断定しない。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-039",
+      "prefecture": "佐賀県",
+      "municipality": "佐賀市",
+      "name": "佐賀県体育館",
+      "aliases": [
+        "佐賀県体育館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "旧施設の正式名称・同一性未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-040",
+      "prefecture": "佐賀県",
+      "municipality": "佐賀市",
+      "name": "佐賀市文化会館（登録名・年代不一致あり）",
+      "aliases": [
+        "佐賀市文化会館"
+      ],
+      "sources": [
+        "https://www.city.saga.lg.jp/bunka-sports/bunka-geijutsu/3/3171.html"
+      ],
+      "verification": "provisional-location",
+      "note": "1986年6月20日が開館年（1988〜1989年と資料に差がある）以前。市町村のみ暫定、現施設との統合保留。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-041",
+      "prefecture": "佐賀県",
+      "municipality": "佐賀市",
+      "name": "佐賀市民会館（旧施設）",
+      "aliases": [
+        "佐賀市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "佐賀市文化会館とは別施設。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-042",
+      "prefecture": "佐賀県",
+      "municipality": "佐賀市",
+      "name": "佐賀城本丸歴史館",
+      "aliases": [
+        "佐賀城本丸歴史館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-043",
+      "prefecture": "佐賀県",
+      "municipality": "唐津市",
+      "name": "唐津市文化会館",
+      "aliases": [
+        "唐津市文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-044",
+      "prefecture": "長崎県",
+      "municipality": "長崎市",
+      "name": "ベネックス長崎ブリックホール",
+      "aliases": [
+        "ベネックス長崎ブリックホール",
+        "長崎ブリックホール"
+      ],
+      "sources": [
+        "https://www.brickhall.jp/",
+        "https://www.japan-benex.co.jp/information/namingrightsfor-nagasakicity-facilities/"
+      ],
+      "verification": "confirmed",
+      "note": "命名権による改称。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-045",
+      "prefecture": "長崎県",
+      "municipality": "佐世保市",
+      "name": "佐世保市民会館（旧施設）",
+      "aliases": [
+        "佐世保市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "佐世保市民文化ホールとは区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-046",
+      "prefecture": "長崎県",
+      "municipality": "佐世保市",
+      "name": "佐世保市民文化ホール 凱旋記念ホール",
+      "aliases": [
+        "佐世保市民文化ホール 凱旋記念ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-047",
+      "prefecture": "長崎県",
+      "municipality": "大村市",
+      "name": "大村市民会館",
+      "aliases": [
+        "大村市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-049",
+      "prefecture": "長崎県",
+      "municipality": "長崎市",
+      "name": "長崎市公会堂",
+      "aliases": [
+        "長崎市公会堂"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-050",
+      "prefecture": "長崎県",
+      "municipality": "長崎市",
+      "name": "長崎市民会館",
+      "aliases": [
+        "長崎市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-051",
+      "prefecture": "長崎県",
+      "municipality": "長崎市",
+      "name": "長崎総合科学大学（登録名：長崎総化学大）",
+      "aliases": [
+        "長崎総化学大"
+      ],
+      "sources": [
+        "https://www.nias.ac.jp/administration/publicinfo/outline"
+      ],
+      "verification": "provisional-location",
+      "note": "登録名はそのまま維持。1962年長崎市網場町に移転。具体会場未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-052",
+      "prefecture": "長崎県",
+      "municipality": "島原市",
+      "name": "島原文化会館",
+      "aliases": [
+        "島原文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-053",
+      "prefecture": "長崎県",
+      "municipality": "五島市",
+      "name": "福江文化会館",
+      "aliases": [
+        "福江文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "2009年当時の自治体は五島市。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-054",
+      "prefecture": "熊本県",
+      "municipality": "八代市",
+      "name": "キャバレーニュー白馬（八代）",
+      "aliases": [
+        "キャバレーニュー白馬",
+        "熊本八代キャバレーニュー白馬"
+      ],
+      "sources": [
+        "https://l-tike.com/search/?keyword=chage"
+      ],
+      "verification": "provisional-location",
+      "note": "地名の有無の表記差。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-055",
+      "prefecture": "熊本県",
+      "municipality": "熊本市",
+      "name": "熊本市民会館（ホール指定なし）",
+      "aliases": [
+        "熊本市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "熊本城ホールとは別施設。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-056",
+      "prefecture": "熊本県",
+      "municipality": "熊本市",
+      "name": "熊本城ホール メインホール",
+      "aliases": [
+        "熊本城ホール メインホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-058",
+      "prefecture": "熊本県",
+      "municipality": "人吉市",
+      "name": "人吉カルチャーパレス",
+      "aliases": [
+        "人吉カルチャーパレス"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-059",
+      "prefecture": "大分県",
+      "municipality": "大分市",
+      "name": "iichikoグランシアタ",
+      "aliases": [
+        "iichikoグランシアタ",
+        "大分グランシアタ",
+        "大分グランシアター"
+      ],
+      "sources": [
+        "https://emo.or.jp/facilities/grand-theater/"
+      ],
+      "verification": "provisional-location",
+      "note": "旧称・末尾の表記差。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-062",
+      "prefecture": "大分県",
+      "municipality": "大分市",
+      "name": "大分県立芸術会館",
+      "aliases": [
+        "大分県立芸術会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-063",
+      "prefecture": "大分県",
+      "municipality": "大分市",
+      "name": "大分文化会館",
+      "aliases": [
+        "大分文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-064",
+      "prefecture": "大分県",
+      "municipality": "中津市",
+      "name": "中津市文化会館",
+      "aliases": [
+        "中津市文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "中津文化会館との同一性は未確認のため別グループ。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-065",
+      "prefecture": "大分県",
+      "municipality": "中津市",
+      "name": "中津市民会館",
+      "aliases": [
+        "中津市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "中津文化会館との同一性は未確認のため別グループ。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-066",
+      "prefecture": "大分県",
+      "municipality": "中津市",
+      "name": "中津文化会館",
+      "aliases": [
+        "中津文化会館"
+      ],
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0441321.html"
+      ],
+      "verification": "confirmed",
+      "note": "1979年開館。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-067",
+      "prefecture": "宮崎県",
+      "municipality": "延岡市",
+      "name": "延岡総合文化センター",
+      "aliases": [
+        "延岡総合文化センター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-068",
+      "prefecture": "宮崎県",
+      "municipality": "宮崎市",
+      "name": "宮崎市民会館（旧施設）",
+      "aliases": [
+        "宮崎市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "宮崎市民文化ホールとは別施設。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-069",
+      "prefecture": "宮崎県",
+      "municipality": "宮崎市",
+      "name": "宮崎市民文化ホール",
+      "aliases": [
+        "宮崎市民文化ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-070",
+      "prefecture": "宮崎県",
+      "municipality": "都城市",
+      "name": "都城市高城観音池公園野外ステージ",
+      "aliases": [
+        "都城市高城観音池公園野外ステージ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-071",
+      "prefecture": "宮崎県",
+      "municipality": "都城市",
+      "name": "都城市民会館（旧施設）",
+      "aliases": [
+        "都城市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "都城総合文化ホールとは別施設。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-072",
+      "prefecture": "宮崎県",
+      "municipality": "都城市",
+      "name": "都城総合文化ホール大ホール",
+      "aliases": [
+        "都城総合文化ホール大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-073",
+      "prefecture": "鹿児島県",
+      "municipality": "鹿児島市",
+      "name": "鹿児島CAPARVO HALL",
+      "aliases": [
+        "鹿児島CAPARVO HALL"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-074",
+      "prefecture": "鹿児島県",
+      "municipality": "鹿児島市",
+      "name": "鹿児島アリーナ",
+      "aliases": [
+        "鹿児島アリーナ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-075",
+      "prefecture": "鹿児島県",
+      "municipality": "鹿児島市",
+      "name": "鹿児島経済大学（旧名称）",
+      "aliases": [
+        "鹿児島経済大"
+      ],
+      "sources": [
+        "https://www.iuk.ac.jp/gaiyou/history/"
+      ],
+      "verification": "provisional-location",
+      "note": "現 鹿児島国際大学。具体会場未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-076",
+      "prefecture": "鹿児島県",
+      "municipality": "鹿児島市",
+      "name": "宝山ホール（旧 鹿児島県文化センター）",
+      "aliases": [
+        "鹿児島県文化センター"
+      ],
+      "sources": [
+        "https://www.pref.kagoshima.jp/shisetsu/kyouiku/002.html"
+      ],
+      "verification": "confirmed",
+      "note": "県文化センターの愛称。略称の鹿児島文化センターは同一性未確認のため別。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-077",
+      "prefecture": "鹿児島県",
+      "municipality": "鹿児島市",
+      "name": "鹿児島市民文化センター（登録名・同一性保留）",
+      "aliases": [
+        "鹿児島市民文化センター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市民文化ホール等との同一性未確認。市町村のみ暫定。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-078",
+      "prefecture": "鹿児島県",
+      "municipality": "鹿児島市",
+      "name": "川商ホール（鹿児島市民文化ホール・ホール指定なし）",
+      "aliases": [
+        "鹿児島市民文化ホール"
+      ],
+      "sources": [
+        "https://www.city.kagoshima.lg.jp/shimin/shiminbunka/bunkashinko/shisetsu/bunka/002.html"
+      ],
+      "verification": "confirmed",
+      "note": "ホール指定なしは第一・第二と区別。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-079",
+      "prefecture": "鹿児島県",
+      "municipality": "鹿児島市",
+      "name": "川商ホール 第2ホール（旧 鹿児島市民文化ホール）",
+      "aliases": [
+        "鹿児島市民文化ホール第2ホール"
+      ],
+      "sources": [
+        "https://www.city.kagoshima.lg.jp/shimin/shiminbunka/bunkashinko/shisetsu/bunka/002.html"
+      ],
+      "verification": "confirmed",
+      "note": "第2ホール指定。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-080",
+      "prefecture": "鹿児島県",
+      "municipality": "鹿児島市",
+      "name": "川商ホール 第一ホール（鹿児島市民文化ホール）",
+      "aliases": [
+        "鹿児島市民文化ホール第一",
+        "鹿児島市民文化第一ホール",
+        "川商ホール（鹿児島市民文化ホール）第一"
+      ],
+      "sources": [
+        "https://www.city.kagoshima.lg.jp/shimin/shiminbunka/bunkashinko/shisetsu/bunka/002.html"
+      ],
+      "verification": "confirmed",
+      "note": "第一ホールの表記差。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-082",
+      "prefecture": "鹿児島県",
+      "municipality": "鹿児島市",
+      "name": "鹿児島文化センター（登録名・同一性保留）",
+      "aliases": [
+        "鹿児島文化センター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "鹿児島県文化センターの略称候補。市町村のみ暫定。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-084",
+      "prefecture": "鹿児島県",
+      "municipality": "薩摩川内市",
+      "name": "川内市民会館",
+      "aliases": [
+        "川内市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "現在の自治体名（薩摩川内市）で分類。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-085",
+      "prefecture": "鹿児島県",
+      "municipality": "曽於市",
+      "name": "大隈町文化会館（登録名・大隅文化会館候補）",
+      "aliases": [
+        "大隈町文化会館"
+      ],
+      "sources": [
+        "https://www.pref.kagoshima.jp/ba07/kyoiku-bunka/shogai/shogai/syogaigaku/sisetu.html"
+      ],
+      "verification": "provisional-location",
+      "note": "登録名を維持。現在の曽於市大隅文化会館の候補。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-086",
+      "prefecture": "鹿児島県",
+      "municipality": "枕崎市",
+      "name": "枕崎市民会館",
+      "aliases": [
+        "枕崎市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-087",
+      "prefecture": "沖縄県",
+      "municipality": "那覇市",
+      "name": "Top Note",
+      "aliases": [
+        "Top Note"
+      ],
+      "sources": [
+        "https://topnote.jimdofree.com/"
+      ],
+      "verification": "confirmed",
+      "note": "施設公式の所在地。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-088",
+      "prefecture": "沖縄県",
+      "municipality": "南城市",
+      "name": "ガンガラーの谷",
+      "aliases": [
+        "ガンガラーの谷"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-089",
+      "prefecture": "沖縄県",
+      "municipality": "北谷町",
+      "name": "ライブハウスモッズ",
+      "aliases": [
+        "ライブハウスモッズ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-090",
+      "prefecture": "沖縄県",
+      "municipality": "宜野湾市",
+      "name": "沖縄コンベンションセンター（棟指定なし）",
+      "aliases": [
+        "沖縄コンベンションセンター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "展示棟・劇場棟と区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-091",
+      "prefecture": "沖縄県",
+      "municipality": "宜野湾市",
+      "name": "沖縄コンベンションセンター 展示棟",
+      "aliases": [
+        "沖縄コンベンションセンター 展示棟"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-092",
+      "prefecture": "沖縄県",
+      "municipality": "宜野湾市",
+      "name": "沖縄コンベンションセンター 劇場棟（登録名：沖縄コンベンション劇場）",
+      "aliases": [
+        "沖縄コンベンション劇場"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "劇場棟と暫定分類。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-094",
+      "prefecture": "沖縄県",
+      "municipality": "沖縄市",
+      "name": "沖縄市民会館",
+      "aliases": [
+        "沖縄市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-095",
+      "prefecture": "沖縄県",
+      "municipality": "宜野湾市",
+      "name": "宜野湾市民会館",
+      "aliases": [
+        "宜野湾市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-096",
+      "prefecture": "沖縄県",
+      "municipality": "那覇市",
+      "name": "那覇市民会館（旧施設）",
+      "aliases": [
+        "那覇市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "なはーととは別施設。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-097",
+      "prefecture": "沖縄県",
+      "municipality": "那覇市",
+      "name": "那覇市労働福祉会館",
+      "aliases": [
+        "那覇市労働福祉会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-098",
+      "prefecture": "沖縄県",
+      "municipality": "那覇市",
+      "name": "那覇文化芸術劇場なはーと 大劇場",
+      "aliases": [
+        "那覇文化芸術劇場なはーと 大劇場"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
     }
   ]
 }
