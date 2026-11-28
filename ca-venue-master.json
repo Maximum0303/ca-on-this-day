@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-2",
+  "version": "3.8.4-3",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1988,9 +1988,12 @@
       "aliases": [
         "国立代々木競技場第一体育館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.jpnsport.go.jp/yoyogi/index.html",
+        "https://kunishitei.bunka.go.jp/bsys/maindetails/102/00005355"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1964年建設。第一体育館は渋谷区。第二体育館とは別集計。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-budokan",
@@ -2000,9 +2003,12 @@
       "aliases": [
         "日本武道館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.nipponbudokan.or.jp/about",
+        "https://www.2020games.metro.tokyo.lg.jp/taikaijyunbi/taikai/kaijyou/kaijyou_04/index.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1964年完成。千代田区北の丸公園。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-chofu",
@@ -2072,9 +2078,13 @@
       "aliases": [
         "東京国際フォーラム ホールA"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.t-i-forum.co.jp/about/?tab=3",
+        "https://www.t-i-forum.co.jp/organizer/facilities/a/",
+        "https://www.tobunken.go.jp/materials/nenshi/7755.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1997年1月10日開館。千代田区丸の内。ホールAを別施設内ホールとして扱う。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-forum-c",
@@ -2953,9 +2963,12 @@
       "aliases": [
         "横浜アリーナ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.yokohama-arena.co.jp/company/aboutus/",
+        "https://business.yokohamajapan.com/mice/ja/sustainable/sustainable-supplier/yokohamaarena/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1989年4月1日開業。横浜市港北区。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-citta",
@@ -3302,9 +3315,12 @@
         "新潟県民会館",
         "新潟県民会館 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "施設単位の暫定集計。大ホール明記の原記録は維持。"
+      "sources": [
+        "https://www.niigata-kenminkaikan.jp/information/about/",
+        "https://www.zenkoubun.jp/search/hall_0150556.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1967年開館。新潟市。施設単位の集計を維持し、大ホール明記のない記録のホールは断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-009",
@@ -3963,9 +3979,12 @@
         "静岡市民文化会館",
         "静岡市民文化会館 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "施設単位の暫定集計。中ホール明記の記録は別集計。静岡市文化会館との同一性は保留。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0220629.html",
+        "https://www.city.shizuoka.lg.jp/s9635/s012509.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1978年11月3日開館。静岡市。2025年4月から改修休館。施設単位の集計を維持し、ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-074",
@@ -4383,9 +4402,13 @@
         "名古屋センチュリーホール",
         "名古屋国際会議場 センチュリーホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "表記差として暫定集計。"
+      "sources": [
+        "https://nagoya-congress-center.jp/about_us/",
+        "https://nagoya-congress-center.jp/facility/",
+        "https://nagoya-congress-center.jp/facility/century_hall/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1990年4月28日設置。名古屋市熱田区。センチュリーホールを施設内の同一ホールとして扱う。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-110",
@@ -5251,9 +5274,12 @@
       "aliases": [
         "大阪城ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.osaka-johall.com/40th/",
+        "https://www.osaka-johall.com/organizer/arena/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1983年10月1日開館。大阪市中央区。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-069",
@@ -5906,9 +5932,12 @@
       "aliases": [
         "倉敷市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.kurashiki-tabi.jp/rm_see/rm-see157/",
+        "https://www.zenkoubun.jp/search/hall_0331082.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1972年開館。倉敷市。改修歴あり。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-020",
@@ -6837,9 +6866,12 @@
         "福岡サンパレス",
         "福岡サンパレス ホテル＆ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "施設名の表記差。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://gikai.city.fukuoka.lg.jp/wp-content/uploads/2026/01/R07.12.11.htm",
+        "https://www.f-sunpalace.com/info/company/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1981年5月開館。福岡市博多区。施設名の表記差として扱う。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-033",
