@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-18",
+  "version": "3.8.4-19",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -3573,9 +3573,13 @@
         "GOLDEN PIGS RED STAGE",
         "新潟GOLDEN PIGS RED STAGE"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.jonagold.jp/post/2022522",
+        "https://025.teny.co.jp/odekake/event/furumachi-kaze-no-rhythm-2023",
+        "https://www.livewalker.com/web/detail/7745"
+      ],
       "verification": "provisional-location",
-      "note": "表記差のみとして暫定集計。所在地の原典照合は今後実施。"
+      "note": "施設資料照合（2026-11-28）：出演者公式公演案内と地元放送局の2023年記事でRED STAGEを確認。旧CLUB JUNK BOXから2010年に転換との二次資料はあるが、運営者の沿革未照合。BLACK STAGEとは区別。日付下限は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-002",
@@ -3585,9 +3589,12 @@
       "aliases": [
         "りゅーとぴあ 新潟市民芸術文化会館 コンサートホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0150583.html",
+        "https://www.ryutopia.or.jp/information/introduction/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1998年10月22日開館。コンサートホールは劇場・能楽堂と別区分。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-003",
@@ -3597,9 +3604,12 @@
       "aliases": [
         "りゅーとぴあ新潟市民芸術文化会館 劇場"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0150583.html",
+        "https://www.ryutopia.or.jp/information/introduction/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1998年10月22日開館。劇場はコンサートホール・能楽堂と別区分。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-004",
@@ -3609,9 +3619,12 @@
       "aliases": [
         "加山キャプテンコーストスキー場"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.town.yuzawa.lg.jp/kurashinojoho/machinitsuiteshiritai/10/2/3028.html",
+        "https://www.snowjapanhistory.com/niigata-yuzawa-kayama-captain-coast"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：町公式年表では1990年12月28日開業。2011年営業終了とする二次資料あり、正式な廃止日は未確認。特設ステージの位置は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-005",
@@ -3651,9 +3664,12 @@
       "aliases": [
         "新潟産業振興センター"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://sansin.or.jp/manager/",
+        "https://www.city.niigata.lg.jp/kosodate/manabishogaku/syogaigakusyunituite/syogaigakusyurekishi/rekishi1980.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：正式名称は新潟市産業振興センター。1987年4月開館、2020年8月大規模改修。日までは未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-010",
@@ -3663,9 +3679,12 @@
       "aliases": [
         "村上市民ふれあいセンター"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0150576.html",
+        "https://www.city.murakami.lg.jp/site/kanko/furesen.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1996年4月1日開館。愛称ふれあい201むらかみ。使用ホールは未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-011",
@@ -3675,9 +3694,12 @@
       "aliases": [
         "長岡市立劇場"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0150557.html",
+        "https://www.city.nagaoka.niigata.jp/shisetsu/bunka/gekijyou.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1973年10月24日開館。使用ホールは未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-012",
@@ -3687,9 +3709,13 @@
       "aliases": [
         "東山ファミリーランド"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.city.nagaoka.niigata.jp/elibrary/ayumi/nagaoka05/s56.html",
+        "https://www.city.nagaoka.niigata.jp/elibrary/ayumi/nagaoka05/s59.html",
+        "https://www.city.nagaoka.niigata.jp/shisetsu/sports/higasiyamafamilyland.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：市の年表では1981年に市営長岡東山ファミリーランドがオープン、1984年自然観察林開園。施設単位の確認で、特設ステージ位置は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-013",
@@ -3715,9 +3741,12 @@
       "aliases": [
         "MAIRO"
       ],
-      "sources": [],
+      "sources": [
+        "https://mairo.com/",
+        "https://mairo.com/schedule/archives/date/2026/9"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "note": "施設資料照合（2026-11-28）：運営サイトの2026年9月公演案内に2022年移転オープンの記載あり。旧所在地、開業年月日、移転先の歴史的同一性は追加確認待ち。日付下限は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-017",
@@ -3788,9 +3817,12 @@
       "aliases": [
         "金沢GOLD CREEK"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.gold-creek.live/aboutUs",
+        "https://www.gold-creek.live/"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "note": "施設資料照合（2026-11-28）：運営者公式案内で金沢市片町の施設を確認。開業年月日と旧名称・移転の有無は未確認のため暫定維持。日付下限は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-024",
@@ -3831,9 +3863,13 @@
       "aliases": [
         "北國新聞赤羽ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.geibunkyo.or.jp/about/organiz/%E4%B8%80%E8%88%AC%E8%B2%A1%E5%9B%A3%E6%B3%95%E4%BA%BA-%E5%8C%97%E5%9C%8B%E8%8A%B8%E8%A1%93%E6%8C%AF%E8%88%88%E8%B2%A1%E5%9B%A3/",
+        "https://www.nagata.co.jp/news/news0811.html",
+        "https://www.nihonsekkei.co.jp/projects/3534/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2008年8月開館。設計者資料では2008年7月竣工。1957～1988年の北國講堂とは区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-030",
@@ -4025,9 +4061,13 @@
       "aliases": [
         "松本市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.city.matsumoto.nagano.jp/uploaded/attachment/108222.pdf",
+        "https://www.jafra.or.jp/library/letter/backnumber/2004/115/3/8.html",
+        "https://www.mpac.jp/about/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：旧館は1958～1959年頃に整備・開館（市資料の西暦と和暦に不整合があり開館年月日は保留）。2001年7月閉館。跡地のまつもと市民芸術館は2004年開館の別建物。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-047",
@@ -4067,9 +4107,12 @@
       "aliases": [
         "穂高ビューホテル"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "旧穂高町を現在の安曇野市に分類。"
+      "sources": [
+        "https://www.ricoh.co.jp/magazines/smb/casestudy/004285/",
+        "https://www.wave-nakano.co.jp/works/139"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1990年開業。取材記事および施工会社資料を照合。開業月日、宴会場等の個別会場は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-052",
@@ -4140,9 +4183,12 @@
       "aliases": [
         "土岐市文化プラザ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0210741.html",
+        "https://www.city.toki.lg.jp/kanko/bunkazai/1006472/1004528.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1982年4月25日開館。使用ホール未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-058",
@@ -4166,9 +4212,13 @@
       "aliases": [
         "Live House 浜松窓枠"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://hamamatsu.keizai.biz/headline/100/",
+        "https://hamamatsu.keizai.biz/headline/1204/",
+        "https://eplus.jp/sf/venue/4300170"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2004年9月開店、2010年3月19日現施設へ移転（当時の報道）。対象記録は移転後。別フロアのカフェとは区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-060",
@@ -4178,9 +4228,13 @@
       "aliases": [
         "LIVE ROXY SHIZUOKA"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.asty-shizuoka.co.jp/jsk/ur_blog/ur_blog-526/",
+        "https://news.joysound.com/article/273408",
+        "https://live-roxy.com/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：開発会社によれば2018年4月26日開業・開業式典。4月28日とする音楽報道もあり、開業と公演開始の扱いは区別。2026年1月にステージ拡張を運営者が告知。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-061",
@@ -4190,9 +4244,12 @@
       "aliases": [
         "SOUND SHOWER ark"
       ],
-      "sources": [],
+      "sources": [
+        "https://ark-soundshower.jp/",
+        "https://ark-soundshower.jp/about/"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "note": "施設資料照合（2026-11-28）：公式資料で清水区エスパルスドリームプラザのライブイベントホールと確認。開業年月日・移転歴は未確認。日付下限は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-062",
@@ -4218,9 +4275,12 @@
       "aliases": [
         "グランシップ 大ホール・海"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0220628.html",
+        "https://granship.or.jp/visitors/guide/ocean.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1999年3月13日開館。静岡県コンベンションアーツセンター。大ホール・海は中ホール等とは別区分。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-065",
@@ -4298,9 +4358,13 @@
       "aliases": [
         "静岡市清水文化会館マリナート ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0222442.html",
+        "https://www.marinart.jp/spec/",
+        "https://www.marinart.jp/hall/index.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2012年8月1日開館。静岡市清水文化会館（マリナート）。大・小ホールいずれかは記録から特定しない。旧清水市民文化会館と区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-071",
@@ -4310,9 +4374,12 @@
       "aliases": [
         "静岡市文化会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0220629.html",
+        "https://www.city.shizuoka.lg.jp/s9635/s012509.html"
+      ],
       "verification": "provisional-location",
-      "note": "静岡市民文化会館との同一性は保留。"
+      "note": "施設資料照合（2026-11-28）：候補施設の正式名称は静岡市民文化会館。1978年11月3日開館、2025年4月から改修休館。登録表記と当時の施設の同一性が未確認のため暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-072",
@@ -4338,9 +4405,12 @@
       "aliases": [
         "静岡市民文化会館中ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0220629.html",
+        "https://www.city.shizuoka.lg.jp/s9635/s012509.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1978年11月3日開館。中ホールを全国公立文化施設協会の施設情報で確認。2025年4月から改修のため全館休館（閉館とは区別）。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-075",
@@ -4401,9 +4471,12 @@
       "aliases": [
         "浜松市勤労会館Uホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.workn.or.jp/u_hall/news/2025/05/post_5.php",
+        "https://www.city.hamamatsu.shizuoka.jp/sangyosomu/shiteikanri/r7hyoka/uhall.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1984年4月9日開館、2026年3月31日閉館。勤労青少年ホームへの機能統合。館長告知と市の事後評価による。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-080",
