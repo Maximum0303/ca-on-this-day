@@ -45887,21 +45887,26 @@
       "id": "live-v18213-2004-0226-mf2000",
       "date": "2004-02-26",
       "artist": "CHAGE and ASKA",
-      "category": "live",
+      "category": "media",
       "title": "MUSIC FAIR 2000回記念 公開収録（CHAGE and ASKA出演）",
       "status": "recorded",
       "verification": "secondary",
-      "note": "東京国際フォーラムで行われた公開収録への出演。観覧者の当日レポートにより日時・会場・出演を確認。一般ツアーとは別のテレビ番組公開収録であり、3月6日放送分と重複しない。公式の当日収録記録は未確認。",
+      "note": "東京国際フォーラムで行われた公開収録への出演。観覧者の当日レポートにより日時・会場・出演を確認。一般ツアーとは別のテレビ番組公開収録であり、3月6日放送分と重複しない。公式の当日収録記録は未確認。 ／ テレビ番組の公開収録として分類変更（2026-11-28）。放送ライブラリーは後日の放送内容を確認する資料で、収録日自体の一次資料ではない。",
       "sources": [
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://song2.sakura.ne.jp/liverepo/liverepo_20040226_musicfair.html"
+        },
+        {
+          "label": "放送ライブラリー｜2000回記念第一夜（放送記録）",
+          "url": "https://www.bpcj.or.jp/program/detail/013712/"
         }
       ],
       "venue": "東京国際フォーラム",
       "prefecture": "東京都",
       "country": "日本",
-      "description": "2004年2月26日、CHAGE and ASKAの「MUSIC FAIR 2000回記念 公開収録（CHAGE and ASKA出演）」が東京国際フォーラムで開催された。"
+      "description": "2004年2月26日、東京国際フォーラムでの「MUSIC FAIR 2000回記念」公開収録にCHAGE and ASKAが出演した。3月6日以降の放送記録とは別の収録日。",
+      "broadcastStation": "フジテレビ"
     },
     {
       "id": "media-v18213-2004-002",
@@ -59895,11 +59900,11 @@
       "artist": "Chage",
       "category": "media",
       "title": "ラジオ「KIRIN BEER GoodLuck LIVE」公開生放送出演",
-      "venue": "",
-      "prefecture": "",
+      "venue": "TOKYO FM",
+      "prefecture": "東京都",
       "status": "recorded",
       "verification": "primary",
-      "note": "放送局・配信媒体：JFN系 / TOKYO FM。出演形態：公開生放送出演。公式年譜には公開生放送と明記。ライブイベントの実施日と、放送記録を区別する。",
+      "note": "放送局・配信媒体：JFN系 / TOKYO FM。公開生放送出演。イベント・公開生演奏。TOKYO FM局内の抽選招待者約20名の前で、Chageが茶会メンバーと計7曲を披露。公開生放送。 同一日のライブ分類記録を統合（2026-11-28）。",
       "sources": [
         {
           "label": "公式資料",
@@ -59907,27 +59912,8 @@
         }
       ],
       "broadcastStation": "JFN系 / TOKYO FM",
-      "description": "2012年9月8日、Chageが出演したラジオ番組「KIRIN BEER GoodLuck LIVE」がJFN系 / TOKYO FMで放送された。"
-    },
-    {
-      "id": "v11-goodluck-2012",
-      "date": "2012-09-08",
-      "artist": "Chage",
-      "category": "live",
-      "title": "KIRIN BEER GoodLuck LIVE ラジオ公開生放送出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "イベント・公開生演奏。TOKYO FM局内の抽選招待者約20名の前で、Chageが茶会メンバーと計7曲を披露。公開生放送。",
-      "sources": [
-        {
-          "label": "Chage公式Biography",
-          "url": "https://chage.jp/biography/2012.php"
-        }
-      ],
-      "venue": "TOKYO FM",
-      "prefecture": "東京都",
-      "country": "日本",
-      "description": "2012年9月8日、Chageの「KIRIN BEER GoodLuck LIVE ラジオ公開生放送出演」がTOKYO FMで開催された。"
+      "description": "2012年9月8日、Chageが出演したラジオ番組「KIRIN BEER GoodLuck LIVE」がJFN系 / TOKYO FMで放送された。 TOKYO FM内のブースで抽選招待の約20名を前に、茶会メンバーと7曲を生演奏した。",
+      "country": "日本"
     },
     {
       "id": "v11-other-006",
@@ -64032,39 +64018,24 @@
       "artist": "Chage",
       "category": "media",
       "title": "ラジオ「大感謝祭 2016 〜NEW LIFESTYLE〜」公開生放送出演",
-      "venue": "",
-      "prefecture": "",
+      "venue": "オアシス21 銀河の広場",
+      "prefecture": "愛知県",
       "status": "recorded",
       "verification": "primary",
-      "note": "放送局・配信媒体：東海ラジオ。出演形態：公開生放送出演。会場は名古屋栄オアシス21。開催日と放送日が同日との年譜記載。",
+      "note": "放送局・配信媒体：東海ラジオ。出演形態：公開生放送出演。会場は名古屋栄オアシス21。開催日と放送日が同日との年譜記載。 ／ 公式年譜では公開生放送ゲスト出演。独立したコンサートとしての記録は確認できないため、同一日のライブ分類記録を統合（2026-11-28）。",
       "sources": [
         {
           "label": "公式資料",
           "url": "https://chage.jp/biography/2016.php"
+        },
+        {
+          "label": "東海ラジオ放送・公式発表",
+          "url": "https://www.atpress.ne.jp/news/111493"
         }
       ],
       "broadcastStation": "東海ラジオ",
-      "description": "2016年9月21日、Chageが出演したラジオ番組「大感謝祭 2016 〜NEW LIFESTYLE〜」が東海ラジオで放送された。"
-    },
-    {
-      "id": "v12-tokairadio16",
-      "date": "2016-09-21",
-      "artist": "Chage",
-      "category": "live",
-      "title": "東海ラジオ大感謝祭 2016 公開生放送ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "",
-      "sources": [
-        {
-          "label": "Chage公式Biography",
-          "url": "https://chage.jp/biography/2016.php"
-        }
-      ],
-      "venue": "オアシス21 銀河の広場",
-      "country": "日本",
-      "prefecture": "愛知県",
-      "description": "2016年9月21日、Chageの「東海ラジオ大感謝祭 2016 公開生放送ゲスト出演」がオアシス21 銀河の広場で開催された。"
+      "description": "2016年9月21日、Chageが出演したラジオ番組「大感謝祭 2016 〜NEW LIFESTYLE〜」が東海ラジオで放送された。 会場は名古屋栄・オアシス21 銀河の広場。",
+      "country": "日本"
     },
     {
       "id": "v12-rakuen16",
@@ -74178,11 +74149,11 @@
       "id": "v14-chage2022-torch",
       "date": "2022-03-27",
       "artist": "Chage",
-      "category": "live",
+      "category": "media",
       "title": "オリンピック聖火リレー点火セレモニー記念スペシャル in 門司港",
       "status": "recorded",
       "verification": "primary",
-      "note": "ゲスト出演。FM FUKUOKAの公開収録イベント。ミニライブは当日の観覧記録による確認。放送日は別途確認。",
+      "note": "ゲスト出演。FM FUKUOKAの公開収録イベント。ミニライブは当日の観覧記録による確認。放送日は別途確認。 ／ 公開収録への出演として分類変更（2026-11-28）。14:00は現地イベントの時刻であり、放送時刻ではない。",
       "sources": [
         {
           "label": "Chage公式Biography",
@@ -74196,8 +74167,9 @@
       "venue": "旧大連航路上屋 2Fホール",
       "prefecture": "福岡県",
       "country": "日本",
-      "description": "2022年3月27日、門司港の旧大連航路上屋2Fホールで開催された「オリンピック聖火リレー点火セレモニー記念スペシャル in 門司港」にChageがゲスト出演した。当日の観覧記録にはミニライブも記載されている。",
-      "startTime": "14:00"
+      "description": "2022年3月27日、門司港の旧大連航路上屋2Fホールで行われたFM FUKUOKAの公開収録イベント「オリンピック聖火リレー点火セレモニー記念スペシャル in 門司港」にChageがゲスト出演した。観覧記録にはミニライブも記載されている。放送日は未確認。",
+      "startTime": "14:00",
+      "broadcastStation": "FM FUKUOKA"
     },
     {
       "id": "v14-aska-2022-encore-013",
@@ -104332,5 +104304,5 @@
       ]
     }
   ],
-  "siteVersion": "2.9.15"
+  "siteVersion": "2.9.16"
 }
