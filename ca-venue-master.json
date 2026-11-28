@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-14",
+  "version": "3.8.4-15",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1152,9 +1152,12 @@
       "aliases": [
         "水戸市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.city.mito.lg.jp/site/citypromotion/100922.html",
+        "https://member.jp.yamaha.com/topics/myujin/2023/wm-71510"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1972年開館。2011年の東日本大震災で被災し使用中止。2023年7月2日に移転再建された新施設とは別集計。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-tsuchiura",
@@ -1164,9 +1167,12 @@
       "aliases": [
         "土浦市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0080233.html",
+        "https://www.city.tsuchiura.lg.jp/kanko-bunka-sports/geijutsu-bunka/craftcivichall-tsuchiura/page000748.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1969年4月26日開館。現愛称はクラフトシビックホール土浦。施設単位の集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-ibaraki-kenmin",
@@ -1193,9 +1199,12 @@
       "aliases": [
         "日立市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.city.hitachi.lg.jp/shisetsu/kanko_bunka/1003914/1003915.html",
+        "https://www.zenkoubun.jp/search/hall_0080231.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1965年9月15日開館。日立市民会館。多賀市民会館とは区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-tsukuba",
@@ -1310,9 +1319,13 @@
       "aliases": [
         "黒磯市文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "当時は黒磯市。現自治体で分類 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/kikakuseisakuka/shiprofile/1/3261.html",
+        "https://www.zenkoubun.jp/search/hall_0090282.html",
+        "https://www.city.nasushiobara.tochigi.jp/shisetsuannai_shisetsuyoyaku/kominkan_bunka_shogaigakushushisetsu/bunkakaikan/7173.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1982年6月17日開館。市公式沿革に黒磯市文化会館落成の記載あり。現自治体は那須塩原市、現施設名は黒磯文化会館（大正堂くろいそみるひぃホール）。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-kirifuri",
@@ -1334,9 +1347,12 @@
       "aliases": [
         "栃木県総合文化センター メインホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.pref.tochigi.lg.jp/c10/education/bunka/bunkashisetu/1282024560219.html",
+        "https://www.sobun-tochigi.jp/mainhall.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1991年10月開館。宇都宮市の栃木県総合文化センター内メインホール。サブホールとは区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-ujitsu",
@@ -1390,9 +1406,12 @@
       "aliases": [
         "渋川市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://shibukawa-civichall.com/facilities.html",
+        "https://www.zenkoubun.jp/search/hall_0100305.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1976年6月4日開館。渋川市。施設単位の集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-gunma-ongaku",
@@ -1445,9 +1464,12 @@
       "aliases": [
         "高崎市文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0100311.html",
+        "https://www.takasaki-foundation.or.jp/culture/b-kaikan/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1984年7月7日開館。高崎市文化会館。高崎芸術劇場とは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-maebashi",
@@ -1629,9 +1651,12 @@
       "aliases": [
         "三郷市文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.misato-hall.com/1147.htm",
+        "https://www.zenkoubun.jp/search/hall_0110375.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1984年7月28日開館。大・小ホールを備える三郷市文化会館。使用ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-shiki",
@@ -1677,9 +1702,12 @@
       "aliases": [
         "所沢市民文化センター ミューズ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.muse-tokorozawa.or.jp/facility/",
+        "https://www.city.tokorozawa.saitama.jp/shisetu/bunka/shiminbunkacentermuse.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1993年11月1日開館。所沢市民文化センター ミューズ。2020年4月改修後再開。施設単位の集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-yagihashi",
@@ -1729,9 +1757,12 @@
       "aliases": [
         "柏市文化会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.city.kashiwa.lg.jp/facilities/culture/bunkakaikan.html",
+        "https://www.zenkoubun.jp/search/hall_0120407.html"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "施設資料照合（2026-11-28）：候補施設の正式名称は柏市民文化会館、1972年10月27日開館。市公式ページにも柏市文化会館の表記があるが、1982年の登録名との同一性を示す当時の資料は未確認。暫定区分を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-chiba-ken",
