@@ -1,0 +1,411 @@
+{
+  "version": "3.8.3-1",
+  "updated": "2026-11-28",
+  "coverage": [
+    "北海道"
+  ],
+  "entries": [
+    {
+      "id": "jp-hokkaido-sapporo-shimin-old",
+      "prefecture": "北海道",
+      "municipality": "札幌市",
+      "name": "札幌市民会館（旧施設）",
+      "aliases": [
+        "札幌市民会館"
+      ],
+      "sources": [
+        "https://www.city.sapporo.jp/city/mayor/interview/text/2007/20070907/index.html"
+      ],
+      "verification": "confirmed",
+      "note": "2007年閉館・解体。後継の札幌市民ホールとは別施設。"
+    },
+    {
+      "id": "jp-hokkaido-koseinenkin",
+      "prefecture": "北海道",
+      "municipality": "札幌市",
+      "name": "北海道厚生年金会館（旧ニトリ文化ホール）",
+      "aliases": [
+        "北海道厚生年金会館",
+        "ニトリ文化ホール"
+      ],
+      "sources": [
+        "https://www.city.sapporo.jp/s362/155519.html",
+        "https://www.callcenter.city.sapporo.jp/sapporo/cc/web/category121.html?offset=60"
+      ],
+      "verification": "confirmed",
+      "note": "2009年にさっぽろ芸術文化の館、2010年にホール愛称ニトリ文化ホール。hitaruとは別施設。"
+    },
+    {
+      "id": "jp-hokkaido-koseinenkin-pending",
+      "prefecture": "北海道",
+      "municipality": "札幌市",
+      "name": "札幌厚生年金会館（同一性確認待ち）",
+      "aliases": [
+        "札幌厚生年金会館"
+      ],
+      "sources": [
+        "https://www.city.sapporo.jp/s362/155519.html"
+      ],
+      "verification": "pending-alias",
+      "note": "北海道厚生年金会館と同一と考えられるが、登録表記そのものの裏付けが不足。所在地のみ採用し統合保留。"
+    },
+    {
+      "id": "jp-hokkaido-asahikawa-kokaido",
+      "prefecture": "北海道",
+      "municipality": "旭川市",
+      "name": "旭川市公会堂",
+      "aliases": [
+        "旭川公会堂"
+      ],
+      "sources": [
+        "https://www.city.asahikawa.hokkaido.jp/facility00/facility04/d053480.html"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-hokkaido-hakodate",
+      "prefecture": "北海道",
+      "municipality": "函館市",
+      "name": "函館市民会館",
+      "aliases": [
+        "函館市民会館"
+      ],
+      "sources": [
+        "https://www.city.hakodate.hokkaido.jp/hakosuku-map/info/2025022700224/"
+      ],
+      "verification": "confirmed",
+      "note": "愛称：函館サーモン・まるなまホール。"
+    },
+    {
+      "id": "jp-hokkaido-muroran",
+      "prefecture": "北海道",
+      "municipality": "室蘭市",
+      "name": "室蘭市文化センター",
+      "aliases": [
+        "室蘭市文化センター"
+      ],
+      "sources": [
+        "https://www.city.muroran.lg.jp/culture/?content=1481"
+      ],
+      "verification": "confirmed",
+      "note": "室ガス文化センター。室蘭市市民会館とは別。"
+    },
+    {
+      "id": "jp-hokkaido-kushiro",
+      "prefecture": "北海道",
+      "municipality": "釧路市",
+      "name": "釧路市民文化会館",
+      "aliases": [
+        "釧路市民文化会館"
+      ],
+      "sources": [
+        "https://www.city.kushiro.lg.jp/bunkasports/shougaigakushuu/1005719/1005720.html"
+      ],
+      "verification": "confirmed",
+      "note": "愛称：コーチャンフォー釧路文化ホール。"
+    },
+    {
+      "id": "jp-hokkaido-kushiro-pending",
+      "prefecture": "北海道",
+      "municipality": "釧路市",
+      "name": "釧路市文化会館（同一性確認待ち）",
+      "aliases": [
+        "釧路市文化会館"
+      ],
+      "sources": [
+        "https://www.city.kushiro.lg.jp/bunkasports/shougaigakushuu/1005719/1005720.html"
+      ],
+      "verification": "pending-alias",
+      "note": "釧路市民文化会館と同一の可能性。登録表記の原典未確認のため統合保留。"
+    },
+    {
+      "id": "jp-hokkaido-makomanai",
+      "prefecture": "北海道",
+      "municipality": "札幌市",
+      "name": "真駒内アイスアリーナ",
+      "aliases": [
+        "真駒内屋内競技場",
+        "真駒内アイスアリーナ",
+        "真駒内セキスイハイムアイスアリーナ"
+      ],
+      "sources": [
+        "https://www.pref.hokkaido.lg.jp/kn/tkn/kgs/homepage/makomanai-namingrights.html"
+      ],
+      "verification": "confirmed",
+      "note": "屋内競技場。屋外スタジアムとは別。"
+    },
+    {
+      "id": "jp-hokkaido-obihiro-hall",
+      "prefecture": "北海道",
+      "municipality": "帯広市",
+      "name": "帯広市民文化ホール",
+      "aliases": [
+        "帯広市民文化ホール"
+      ],
+      "sources": [
+        "https://www.city.obihiro.hokkaido.jp/shisei/shisetsu/bunka/1001720.html"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-hokkaido-asahikawa-hall",
+      "prefecture": "北海道",
+      "municipality": "旭川市",
+      "name": "旭川市民文化会館",
+      "aliases": [
+        "旭川市民文化会館"
+      ],
+      "sources": [
+        "https://www.city.asahikawa.hokkaido.jp/facility00/facility04/d000000.html"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-hokkaido-rsr",
+      "prefecture": "北海道",
+      "municipality": "石狩市・小樽市（境界地域）",
+      "name": "石狩湾新港 樽川ふ頭横野外特設ステージ",
+      "aliases": [
+        "石狩湾新港 樽川ふ頭横野外特設ステージ"
+      ],
+      "sources": [
+        "https://rsr.wess.co.jp/2026/about/general/",
+        "https://rsr.wess.co.jp/2019/guideline/history/"
+      ],
+      "verification": "multi-municipality",
+      "note": "主催者は両市を会場所在地として案内。2003年会場は主催者の沿革で現会場へ戻ったと確認。個別ステージの市境は未特定。複合地域1件として集計。"
+    },
+    {
+      "id": "jp-hokkaido-zepp",
+      "prefecture": "北海道",
+      "municipality": "札幌市",
+      "name": "Zepp Sapporo",
+      "aliases": [
+        "Zepp Sapporo",
+        "Zepp札幌"
+      ],
+      "sources": [
+        "https://www.zepp.co.jp/hall/sapporo/"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-hokkaido-sapporo-dome",
+      "prefecture": "北海道",
+      "municipality": "札幌市",
+      "name": "札幌ドーム",
+      "aliases": [
+        "札幌ドーム"
+      ],
+      "sources": [
+        "https://www.sapporo-dome.co.jp/access/bus/"
+      ],
+      "verification": "confirmed",
+      "note": "大和ハウス プレミストドーム。"
+    },
+    {
+      "id": "jp-hokkaido-kitami",
+      "prefecture": "北海道",
+      "municipality": "北見市",
+      "name": "北見市民会館",
+      "aliases": [
+        "北見市民会館"
+      ],
+      "sources": [
+        "https://www.kitami-hall.jp/shimin-hall/cityhall/"
+      ],
+      "verification": "confirmed",
+      "note": "愛称：北ガス市民ホール。"
+    },
+    {
+      "id": "jp-hokkaido-tsukisamu",
+      "prefecture": "北海道",
+      "municipality": "札幌市",
+      "name": "月寒アルファコートドーム（旧月寒ドーム）",
+      "aliases": [
+        "月寒アルファコートドーム"
+      ],
+      "sources": [
+        "https://www.consadeconsa.com/address/address-tsukisamu-alphacourt-dome/"
+      ],
+      "verification": "secondary",
+      "note": "北海道立産業共進会場。旧施設。"
+    },
+    {
+      "id": "jp-hokkaido-crystal",
+      "prefecture": "北海道",
+      "municipality": "旭川市",
+      "name": "旭川市大雪クリスタルホール",
+      "aliases": [
+        "旭川市大雪クリスタルホール"
+      ],
+      "sources": [
+        "https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/crystalhall/"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-hokkaido-mombetsu",
+      "prefecture": "北海道",
+      "municipality": "紋別市",
+      "name": "紋別市民会館 大ホール",
+      "aliases": [
+        "紋別市民会館 大ホール"
+      ],
+      "sources": [
+        "https://mombetsu.jp/education/?content=283"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-hokkaido-tokachi",
+      "prefecture": "北海道",
+      "municipality": "帯広市",
+      "name": "とかちプラザ レインボーホール",
+      "aliases": [
+        "帯広とかちプラザ・レインボーホール"
+      ],
+      "sources": [
+        "https://www.city.obihiro.hokkaido.jp/bunka/tokachi/1005448.html"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-hokkaido-otaru",
+      "prefecture": "北海道",
+      "municipality": "小樽市",
+      "name": "小樽市民センター マリンホール",
+      "aliases": [
+        "小樽市民センター・マリンホール"
+      ],
+      "sources": [
+        "https://www.otarushiminkaikan.jp/center/"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-hokkaido-kitara",
+      "prefecture": "北海道",
+      "municipality": "札幌市",
+      "name": "札幌コンサートホールKitara（施設単位）",
+      "aliases": [
+        "札幌コンサートホールKitara",
+        "札幌コンサートホールKitara 大ホール"
+      ],
+      "sources": [
+        "https://sapporo-caf.org/facility/kitara/"
+      ],
+      "verification": "confirmed",
+      "note": "施設単位の集計。ホール不明記録を大ホールと断定しない。"
+    },
+    {
+      "id": "jp-hokkaido-artpark",
+      "prefecture": "北海道",
+      "municipality": "札幌市",
+      "name": "札幌芸術の森 野外ステージ",
+      "aliases": [
+        "札幌芸術の森 野外ステージ"
+      ],
+      "sources": [
+        "https://artpark.or.jp/shisetsu/yagai/"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-hokkaido-penny",
+      "prefecture": "北海道",
+      "municipality": "札幌市",
+      "name": "PENNY LANE 24",
+      "aliases": [
+        "PENNY LANE 24",
+        "札幌PENNY LANE24"
+      ],
+      "sources": [
+        "https://www.pl24.jp/info.html"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-hokkaido-nayoro",
+      "prefecture": "北海道",
+      "municipality": "名寄市",
+      "name": "天塩川河川敷特設会場（てっし名寄まつり）",
+      "aliases": [
+        "天塩川河川敷特設会場"
+      ],
+      "sources": [
+        "https://nayoro-kankou.com/top/event/tesshi-festival/",
+        "https://www.gutabi.jp/event/detail/1238"
+      ],
+      "verification": "confirmed",
+      "note": "てっし名寄まつりの記録に限定して照合。別の河川敷イベントには適用しない。",
+      "titleContains": "てっし名寄まつり"
+    },
+    {
+      "id": "jp-hokkaido-hitaru",
+      "prefecture": "北海道",
+      "municipality": "札幌市",
+      "name": "札幌文化芸術劇場 hitaru",
+      "aliases": [
+        "札幌文化芸術劇場 hitaru"
+      ],
+      "sources": [
+        "https://www.city.sapporo.jp/shimin/bunka/fukugou/fukugou.html"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-hokkaido-mega",
+      "prefecture": "北海道",
+      "municipality": "帯広市",
+      "name": "帯広MEGA STONE",
+      "aliases": [
+        "帯広MEGA STONE"
+      ],
+      "sources": [
+        "https://wow-st.jp/megastone/"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-hokkaido-cube",
+      "prefecture": "北海道",
+      "municipality": "札幌市",
+      "name": "cube garden",
+      "aliases": [
+        "cube garden"
+      ],
+      "sources": [
+        "https://www.cube-garden.com/access.php"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    },
+    {
+      "id": "jp-hokkaido-rokkatei",
+      "prefecture": "北海道",
+      "municipality": "札幌市",
+      "name": "六花亭 きたこぶしホール",
+      "aliases": [
+        "六花亭 きたこぶしホール"
+      ],
+      "sources": [
+        "https://www.rokkatei.co.jp/facilities/%E6%9C%AD%E5%B9%8C%E6%9C%AC%E5%BA%97-9/"
+      ],
+      "verification": "confirmed",
+      "note": ""
+    }
+  ]
+}
