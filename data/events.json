@@ -45591,7 +45591,8 @@
       "country": "日本",
       "prefecture": "山形県",
       "venue": "山形県県民会館",
-      "description": "2003年12月15日、CHAGE and ASKAの「ドコモ東北 Thanks Festa」が山形県県民会館で開催された。"
+      "description": "2003年12月15日、CHAGE and ASKAの「ドコモ東北 Thanks Festa」が山形県県民会館で開催された。",
+      "tourId": "ca-thanks-festa-2003"
     },
     {
       "id": "live-extra-2003-12-16-01",
@@ -45611,7 +45612,8 @@
       "country": "日本",
       "prefecture": "福島県",
       "venue": "郡山市民文化センター",
-      "description": "2003年12月16日、CHAGE and ASKAの「ドコモ東北 Thanks Festa」が郡山市民文化センターで開催された。"
+      "description": "2003年12月16日、CHAGE and ASKAの「ドコモ東北 Thanks Festa」が郡山市民文化センターで開催された。",
+      "tourId": "ca-thanks-festa-2003"
     },
     {
       "id": "release-v08-006",
@@ -45651,7 +45653,8 @@
       "country": "日本",
       "prefecture": "岩手県",
       "venue": "岩手県民会館",
-      "description": "2003年12月18日、CHAGE and ASKAの「ドコモ東北 Thanks Festa」が岩手県民会館で開催された。"
+      "description": "2003年12月18日、CHAGE and ASKAの「ドコモ東北 Thanks Festa」が岩手県民会館で開催された。",
+      "tourId": "ca-thanks-festa-2003"
     },
     {
       "id": "live-extra-2003-12-19-01",
@@ -45671,7 +45674,8 @@
       "country": "日本",
       "prefecture": "秋田県",
       "venue": "秋田県民会館",
-      "description": "2003年12月19日、CHAGE and ASKAの「ドコモ東北 Thanks Festa」が秋田県民会館で開催された。"
+      "description": "2003年12月19日、CHAGE and ASKAの「ドコモ東北 Thanks Festa」が秋田県民会館で開催された。",
+      "tourId": "ca-thanks-festa-2003"
     },
     {
       "id": "live-extra-2003-12-22-01",
@@ -45691,7 +45695,8 @@
       "country": "日本",
       "prefecture": "宮城県",
       "venue": "仙台イズミティ21 大ホール",
-      "description": "2003年12月22日、CHAGE and ASKAの「ドコモ東北 Thanks Festa」が仙台イズミティ21 大ホールで開催された。"
+      "description": "2003年12月22日、CHAGE and ASKAの「ドコモ東北 Thanks Festa」が仙台イズミティ21 大ホールで開催された。",
+      "tourId": "ca-thanks-festa-2003"
     },
     {
       "id": "live-extra-2003-12-24-01",
@@ -45711,7 +45716,8 @@
       "country": "日本",
       "prefecture": "青森県",
       "venue": "青森市文化会館",
-      "description": "2003年12月24日、CHAGE and ASKAの「ドコモ東北 Thanks Festa」が青森市文化会館で開催された。\nツアーの最終公演として記録されている。"
+      "description": "2003年12月24日、CHAGE and ASKAの「ドコモ東北 Thanks Festa」が青森市文化会館で開催された。\nツアーの最終公演として記録されている。",
+      "tourId": "ca-thanks-festa-2003"
     },
     {
       "id": "release-v08-007",
@@ -70791,7 +70797,8 @@
       ],
       "venue": "フェスティバルホール",
       "prefecture": "大阪府",
-      "description": "2020年4月22日は、大阪・フェスティバルホールでの「billboard classics ASKA premium ensemble concert -higher ground-」の振替予定日だった。1月6日の当初公演は急性咽頭炎により延期され、3月13日、4月22日、6月19日へと振替が予定されたが、感染症拡大の影響でいずれも実施されず、最終的に中止となった。"
+      "description": "2020年4月22日は、大阪・フェスティバルホールでの「billboard classics ASKA premium ensemble concert -higher ground-」の振替予定日だった。1月6日の当初公演は急性咽頭炎により延期され、3月13日、4月22日、6月19日へと振替が予定されたが、感染症拡大の影響でいずれも実施されず、最終的に中止となった。",
+      "tourId": "aska-higher-ground-2019-2020"
     },
     {
       "id": "v14-ca-youtube-02",
@@ -70871,7 +70878,8 @@
       ],
       "venue": "熊本城ホール メインホール",
       "prefecture": "熊本県",
-      "description": "2020年4月27日は、熊本城ホール メインホールでの「billboard classics ASKA premium ensemble concert -higher ground-」特別公演の振替予定日だった。3月20日の当初予定から4月27日、6月23日へと延期されたが、感染症拡大の影響で実施されず、最終的に中止となった。"
+      "description": "2020年4月27日は、熊本城ホール メインホールでの「billboard classics ASKA premium ensemble concert -higher ground-」特別公演の振替予定日だった。3月20日の当初予定から4月27日、6月23日へと延期されたが、感染症拡大の影響で実施されず、最終的に中止となった。",
+      "tourId": "aska-higher-ground-2019-2020"
     },
     {
       "id": "v14-ca-youtube-03",
@@ -70991,7 +70999,8 @@
       ],
       "venue": "フェスティバルホール",
       "prefecture": "大阪府",
-      "description": "2020年6月19日は、大阪・フェスティバルホールでの「billboard classics ASKA premium ensemble concert -higher ground-」の振替予定日だった。1月6日の当初公演は急性咽頭炎により延期され、3月13日、4月22日、6月19日へと振替が予定されたが、感染症拡大の影響でいずれも実施されず、最終的に中止となった。"
+      "description": "2020年6月19日は、大阪・フェスティバルホールでの「billboard classics ASKA premium ensemble concert -higher ground-」の振替予定日だった。1月6日の当初公演は急性咽頭炎により延期され、3月13日、4月22日、6月19日へと振替が予定されたが、感染症拡大の影響でいずれも実施されず、最終的に中止となった。",
+      "tourId": "aska-higher-ground-2019-2020"
     },
     {
       "id": "v18221-2020-06-23-aska-038",
@@ -71010,7 +71019,8 @@
       ],
       "venue": "熊本城ホール メインホール",
       "prefecture": "熊本県",
-      "description": "2020年6月23日は、熊本城ホール メインホールでの「billboard classics ASKA premium ensemble concert -higher ground-」特別公演の振替予定日だった。3月20日の当初予定から4月27日、6月23日へと延期されたが、感染症拡大の影響で実施されず、最終的に中止となった。"
+      "description": "2020年6月23日は、熊本城ホール メインホールでの「billboard classics ASKA premium ensemble concert -higher ground-」特別公演の振替予定日だった。3月20日の当初予定から4月27日、6月23日へと延期されたが、感染症拡大の影響で実施されず、最終的に中止となった。",
+      "tourId": "aska-higher-ground-2019-2020"
     },
     {
       "id": "v14-chage2020-keiji07",
@@ -75148,7 +75158,8 @@
       ],
       "venue": "グランドハイアット福岡",
       "prefecture": "福岡県",
-      "description": "2022年12月5日、ASKAの「ASKA Premium Dinner Show 2022（1st公演）」がグランドハイアット福岡で開催された。"
+      "description": "2022年12月5日、ASKAの「ASKA Premium Dinner Show 2022（1st公演）」がグランドハイアット福岡で開催された。",
+      "tourId": "aska-dinner-2022"
     },
     {
       "id": "v18222-2022-12-05-aska-069",
@@ -75167,7 +75178,8 @@
       ],
       "venue": "グランドハイアット福岡",
       "prefecture": "福岡県",
-      "description": "2022年12月5日、ASKAの「ASKA Premium Dinner Show 2022（2nd公演）」がグランドハイアット福岡で開催された。"
+      "description": "2022年12月5日、ASKAの「ASKA Premium Dinner Show 2022（2nd公演）」がグランドハイアット福岡で開催された。",
+      "tourId": "aska-dinner-2022"
     },
     {
       "id": "v18222-2022-12-10-aska-065",
@@ -75300,7 +75312,8 @@
       ],
       "venue": "ザ・プリンス パークタワー東京",
       "prefecture": "東京都",
-      "description": "2022年12月20日、ASKAの「ASKA Premium Dinner Show 2022（1st公演）」がザ・プリンス パークタワー東京で開催された。"
+      "description": "2022年12月20日、ASKAの「ASKA Premium Dinner Show 2022（1st公演）」がザ・プリンス パークタワー東京で開催された。",
+      "tourId": "aska-dinner-2022"
     },
     {
       "id": "v18222-2022-12-20-aska-071",
@@ -75319,7 +75332,8 @@
       ],
       "venue": "ザ・プリンス パークタワー東京",
       "prefecture": "東京都",
-      "description": "2022年12月20日、ASKAの「ASKA Premium Dinner Show 2022（2nd公演）」がザ・プリンス パークタワー東京で開催された。"
+      "description": "2022年12月20日、ASKAの「ASKA Premium Dinner Show 2022（2nd公演）」がザ・プリンス パークタワー東京で開催された。",
+      "tourId": "aska-dinner-2022"
     },
     {
       "id": "v14-chage-2022-billboard-003",
@@ -75384,7 +75398,8 @@
       ],
       "venue": "リーガロイヤルホテル広島",
       "prefecture": "広島県",
-      "description": "2022年12月22日、ASKAの「ASKA Premium Dinner Show 2022（1st公演）」がリーガロイヤルホテル広島で開催された。"
+      "description": "2022年12月22日、ASKAの「ASKA Premium Dinner Show 2022（1st公演）」がリーガロイヤルホテル広島で開催された。",
+      "tourId": "aska-dinner-2022"
     },
     {
       "id": "v18222-2022-12-22-aska-073",
@@ -75403,7 +75418,8 @@
       ],
       "venue": "リーガロイヤルホテル広島",
       "prefecture": "広島県",
-      "description": "2022年12月22日、ASKAの「ASKA Premium Dinner Show 2022（2nd公演）」がリーガロイヤルホテル広島で開催された。"
+      "description": "2022年12月22日、ASKAの「ASKA Premium Dinner Show 2022（2nd公演）」がリーガロイヤルホテル広島で開催された。",
+      "tourId": "aska-dinner-2022"
     },
     {
       "id": "v18222-2022-12-25-aska-095",
@@ -75439,7 +75455,8 @@
       ],
       "venue": "リーガロイヤルホテル大阪",
       "prefecture": "大阪府",
-      "description": "2022年12月26日、ASKAの「ASKA Premium Dinner Show 2022（1st公演）」がリーガロイヤルホテル大阪で開催された。"
+      "description": "2022年12月26日、ASKAの「ASKA Premium Dinner Show 2022（1st公演）」がリーガロイヤルホテル大阪で開催された。",
+      "tourId": "aska-dinner-2022"
     },
     {
       "id": "v18222-2022-12-26-aska-075",
@@ -75458,7 +75475,8 @@
       ],
       "venue": "リーガロイヤルホテル大阪",
       "prefecture": "大阪府",
-      "description": "2022年12月26日、ASKAの「ASKA Premium Dinner Show 2022（2nd公演）」がリーガロイヤルホテル大阪で開催された。"
+      "description": "2022年12月26日、ASKAの「ASKA Premium Dinner Show 2022（2nd公演）」がリーガロイヤルホテル大阪で開催された。",
+      "tourId": "aska-dinner-2022"
     },
     {
       "id": "v15-0052",
@@ -104195,5 +104213,5 @@
       ]
     }
   ],
-  "siteVersion": "2.9.21"
+  "siteVersion": "2.9.25"
 }
