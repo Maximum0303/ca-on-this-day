@@ -69391,29 +69391,12 @@ window.CA_EVENT_DATA = {
       "title": "ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- TAIPEI",
       "status": "recorded",
       "verification": "secondary",
-      "note": "台湾公演（国内17公演には含まない）",
+      "note": "台湾公演（国内17公演には含まない） ／ 同日・同一公演の重複記録を統合（2026-11-28）。別登録の会場名：国立台湾大学総合体育館。国内本編17公演とは別のアジアツアー。",
       "sources": [
         {
           "label": "参考資料（非公式・公演記録）",
           "url": "https://w.atwiki.jp/canda/pages/267.html"
-        }
-      ],
-      "venue": "台大體育館",
-      "country": "台湾",
-      "tourId": "aska-made-in-asia-2019",
-      "performanceNo": 1,
-      "description": "2019年6月9日、ASKAの「ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- TAIPEI」が台大體育館で開催された。\nこのツアーの第1公演にあたる。"
-    },
-    {
-      "id": "v18221-2019-06-09-aska-018",
-      "date": "2019-06-09",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- 台北公演",
-      "status": "recorded",
-      "verification": "secondary",
-      "note": "国内本編17公演とは別のアジアツアー。",
-      "sources": [
+        },
         {
           "label": "公演発表資料",
           "url": "https://www.mirrormedia.mg/story/20190308ent004"
@@ -69431,9 +69414,11 @@ window.CA_EVENT_DATA = {
           "url": "https://n.yam.com/Article/20190610454927"
         }
       ],
-      "venue": "国立台湾大学総合体育館",
-      "prefecture": "台湾",
-      "description": "2019年6月9日、ASKAの「ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- 台北公演」が国立台湾大学総合体育館で開催された。\n約10年ぶりの海外公演で、アジアツアーの初日となった。"
+      "venue": "台大體育館",
+      "country": "台湾",
+      "tourId": "aska-made-in-asia-2019",
+      "performanceNo": 1,
+      "description": "2019年6月9日、ASKAの「ASKA CONCERT TOUR 2019 Made in ASKA -ASIA TOUR- TAIPEI」が台大體育館で開催された。\nこのツアーの第1公演にあたる。\n約10年ぶりの海外公演で、アジアツアーの初日となった。"
     },
     {
       "id": "v13-aska19-asia-hongkong",
@@ -75643,11 +75628,15 @@ window.CA_EVENT_DATA = {
       "title": "ASKA＆DAVID FOSTER PREMIUM CONCERT 2023",
       "status": "recorded",
       "verification": "primary",
-      "note": "特別公演（公式Biographyに日付記載）",
+      "note": "特別公演（公式Biographyに日付記載） ／ 同日・同一公演の重複記録を統合（2026-11-28）。別登録の会場名：BLUE NOTE TOKYO。共演公演。 ／ 会場公式案内：開場18:30、開演19:30、1日1公演。",
       "sources": [
         {
           "label": "ASKA公式Biography",
           "url": "https://www.fellows.tokyo/feature/biography"
+        },
+        {
+          "label": "主催・アーティスト公式資料",
+          "url": "https://www.bluenote.co.jp/jp/artists/aska-david-foster/"
         }
       ],
       "country": "日本",
@@ -75655,26 +75644,8 @@ window.CA_EVENT_DATA = {
       "venue": "ブルーノート東京",
       "tourId": "aska-david-foster-2023",
       "performanceNo": 2,
-      "description": "2023年3月17日、ASKAがブルーノート東京で「ASKA＆DAVID FOSTER PREMIUM CONCERT 2023」のステージに立った。 このツアーの2公演目にあたる。 特別公演（公式Biographyに日付記載）。"
-    },
-    {
-      "id": "v18223-2023-03-17-aska-020",
-      "date": "2023-03-17",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA featuring DAVID FOSTER PREMIUM CONCERT 2023",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "共演公演。",
-      "sources": [
-        {
-          "label": "主催・アーティスト公式資料",
-          "url": "https://www.bluenote.co.jp/jp/artists/aska-david-foster/"
-        }
-      ],
-      "prefecture": "東京都",
-      "venue": "BLUE NOTE TOKYO",
-      "description": "2023年3月17日、ASKAの「ASKA featuring DAVID FOSTER PREMIUM CONCERT 2023」がBLUE NOTE TOKYOで開催された。"
+      "description": "2023年3月17日、ASKAがブルーノート東京で「ASKA＆DAVID FOSTER PREMIUM CONCERT 2023」のステージに立った。 このツアーの2公演目にあたる。 特別公演（公式Biographyに日付記載）。",
+      "startTime": "19:30"
     },
     {
       "id": "v15-0020",
@@ -76932,7 +76903,7 @@ window.CA_EVENT_DATA = {
       "title": "AUBADE ACOUSTIC WAVE（ASKA出演）",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "同日・同一公演の重複記録を統合（2026-11-28）。別登録の会場名：オーバード・ホール。出演。 ／ 会場公式案内：開場16:30、開演17:00。",
       "sources": [
         {
           "label": "ASKA公式Biography",
@@ -76946,26 +76917,8 @@ window.CA_EVENT_DATA = {
       "country": "日本",
       "prefecture": "富山県",
       "venue": "オーバード・ホール 中ホール",
-      "description": "2023年9月2日、ASKAの「AUBADE ACOUSTIC WAVE（ASKA出演）」がオーバード・ホール 中ホールで開催された。"
-    },
-    {
-      "id": "v18223-2023-09-02-aska-025",
-      "date": "2023-09-02",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "AUBADE ACOUSTIC WAVE 出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "出演。",
-      "sources": [
-        {
-          "label": "主催・アーティスト公式資料",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        }
-      ],
-      "prefecture": "富山県",
-      "venue": "オーバード・ホール",
-      "description": "2023年9月2日、ASKAの「AUBADE ACOUSTIC WAVE 出演」がオーバード・ホールで開催された。"
+      "description": "2023年9月2日、ASKAの「AUBADE ACOUSTIC WAVE（ASKA出演）」がオーバード・ホール 中ホールで開催された。",
+      "startTime": "17:00"
     },
     {
       "id": "v15-0048",
@@ -77212,7 +77165,7 @@ window.CA_EVENT_DATA = {
       "title": "ジョナサン・リー「有歌之年」来日公演（ASKAゲスト出演）",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "同日・同一公演の重複記録を統合（2026-11-28）。別登録の会場名：日本武道館。ゲスト出演。 ／ 地域補完：東京都。同じ会場名の登録済み公演の地域と照合（52件）。 ／ ジョナサン・リー初来日公演へのゲスト出演。",
       "sources": [
         {
           "label": "ASKA公式Biography",
@@ -77227,29 +77180,6 @@ window.CA_EVENT_DATA = {
       "prefecture": "東京都",
       "venue": "日本武道館",
       "description": "2023年10月3日、ASKAの「ジョナサン・リー「有歌之年」来日公演（ASKAゲスト出演）」が日本武道館で開催された。"
-    },
-    {
-      "id": "v18223-2023-10-03-aska-026",
-      "date": "2023-10-03",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ジョナサン・リー初来日公演「有歌之年」ゲスト出演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "ゲスト出演。 ／ 地域補完：東京都。同じ会場名の登録済み公演の地域と照合（52件）。",
-      "sources": [
-        {
-          "label": "主催・アーティスト公式資料",
-          "url": "https://www.fellows.tokyo/feature/biography"
-        },
-        {
-          "label": "確認資料（修正根拠）",
-          "url": "https://www.nipponbudokan.or.jp/"
-        }
-      ],
-      "venue": "日本武道館",
-      "description": "2023年10月3日、ASKAの「ジョナサン・リー初来日公演「有歌之年」ゲスト出演」が日本武道館で開催された。",
-      "prefecture": "東京都"
     },
     {
       "id": "v15-0041",
@@ -77896,7 +77826,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "同日・同一公演の重複記録を統合（2026-11-28）。別登録の会場名：広島クラブクアトロ。Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -77909,25 +77839,6 @@ window.CA_EVENT_DATA = {
       "tourId": "chage-hosomichi-2024",
       "performanceNo": 1,
       "description": "2024年1月26日、Chageの「Chageのずっと細道 2024」が広島CLUB QUATTROで開催された。\nこのツアーの第1公演にあたる。"
-    },
-    {
-      "id": "v18223-2024-01-26-chage-091",
-      "date": "2024-01-26",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "Chage公式年譜で開催日・会場を照合。",
-      "sources": [
-        {
-          "label": "主催・アーティスト公式資料",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ],
-      "prefecture": "広島県",
-      "venue": "広島クラブクアトロ",
-      "description": "2024年1月26日、Chageの「Chageのずっと細道」が広島クラブクアトロで開催された。"
     },
     {
       "id": "v15-0086",
@@ -78051,7 +77962,7 @@ window.CA_EVENT_DATA = {
       "title": "Chageのずっと細道 2024",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "同日・同一公演の重複記録を統合（2026-11-28）。別登録の会場名：吉祥寺 Star Pine’s Café。Chage公式年譜で開催日・会場を照合。",
       "sources": [
         {
           "label": "Chage公式Biography（2024）",
@@ -78064,25 +77975,6 @@ window.CA_EVENT_DATA = {
       "tourId": "chage-hosomichi-2024",
       "performanceNo": 7,
       "description": "2024年3月5日、Chageの「Chageのずっと細道 2024」が吉祥寺Star Pine's Cafeで開催された。\nこのツアーの第7公演にあたる。"
-    },
-    {
-      "id": "v18223-2024-03-05-chage-095",
-      "date": "2024-03-05",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "Chage公式年譜で開催日・会場を照合。",
-      "sources": [
-        {
-          "label": "主催・アーティスト公式資料",
-          "url": "https://chage.jp/biography/2024.php"
-        }
-      ],
-      "prefecture": "東京都",
-      "venue": "吉祥寺 Star Pine’s Café",
-      "description": "2024年3月5日、Chageの「Chageのずっと細道」が吉祥寺 Star Pine’s Caféで開催された。"
     },
     {
       "id": "v15-0092",
@@ -79843,23 +79735,34 @@ window.CA_EVENT_DATA = {
       "date": "2024-10-06",
       "artist": "ASKA",
       "category": "live",
-      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-（当初開催予定日・延期）",
-      "status": "postponed",
+      "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
+      "status": "recorded",
       "verification": "primary",
-      "note": "【当日開催なし】2025年1月5日に同会場で振替公演。公演総数に算入しない",
+      "note": "2024年10月6日に開催済み。本人の希望により2025年1月5日に同会場で再公演。旧記録の延期・未開催扱いを公式発表に基づき訂正（2026-11-28）。既存のツアー公演番号は維持するため、この記録の番号は未設定。",
       "sources": [
         {
           "label": "BEA主催者：鹿児島再公演・振替",
           "url": "https://www.bea-net.com/information/aska6.html"
+        },
+        {
+          "label": "ASKA公式｜2024年10月6日開催・再公演告知",
+          "url": "https://www.fellows.tokyo/news/detail/286"
+        },
+        {
+          "label": "ASKA公式ブログ｜鹿児島公演終了",
+          "url": "https://www.fellows.tokyo/blog/detail/262/"
+        },
+        {
+          "label": "ASKA公式ブログ｜ツアー終了報告",
+          "url": "https://www.fellows.tokyo/blog/detail/747/"
         }
       ],
       "country": "日本",
       "prefecture": "鹿児島県",
       "venue": "川商ホール（鹿児島市民文化ホール）第一",
       "startTime": "17:30",
-      "tourId": "aska-who-postponed",
-      "performanceNo": 1,
-      "description": "2024年10月6日に川商ホール（鹿児島市民文化ホール）第一で予定されていたASKAの「Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-」は延期となった。\n振替公演は2025年1月5日に開催された。"
+      "tourId": "aska-who-2024-2025",
+      "description": "2024年10月6日、ASKAの「Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-」が川商ホール（鹿児島市民文化ホール）第一で開催された。本人の希望により2025年1月5日に同会場で再公演が行われた。"
     },
     {
       "id": "v18223-2024-10-06-chage-108",
@@ -80655,11 +80558,19 @@ window.CA_EVENT_DATA = {
       "title": "Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-",
       "status": "recorded",
       "verification": "primary",
-      "note": "2024年10月6日の振替公演",
+      "note": "2024年10月6日鹿児島公演は開催済み。本人の希望により同会場で2025年1月5日に再公演を実施。延期による振替ではない。同日重複記録を統合（2026-11-28）。",
       "sources": [
         {
           "label": "ASKA公式Who is ASKA !?公演日程",
           "url": "https://www.fellows.tokyo/feature/who_is_aska"
+        },
+        {
+          "label": "ASKA公式｜2024年10月6日開催・再公演告知",
+          "url": "https://www.fellows.tokyo/news/detail/286"
+        },
+        {
+          "label": "主催者｜鹿児島再公演日程",
+          "url": "https://www.bea-net.com/information/aska6.html"
         }
       ],
       "country": "日本",
@@ -80668,7 +80579,7 @@ window.CA_EVENT_DATA = {
       "startTime": "17:30",
       "tourId": "aska-who-2024-2025",
       "performanceNo": 23,
-      "description": "2025年1月5日、ASKAの「Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-」が川商ホール（鹿児島市民文化ホール）第一で開催された。\nこのツアーの第23公演にあたる。\n2024年10月6日に予定されていた公演・イベントの振替開催である。"
+      "description": "2025年1月5日、ASKAの「Travel TV presents ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?-」の鹿児島再公演が川商ホール（鹿児島市民文化ホール）第一で開催された。\n2024年10月6日の公演も開催されており、本人の希望により再公演となった。既存のツアー公演番号は第23公演。"
     },
     {
       "id": "v15-0198",
@@ -80719,25 +80630,6 @@ window.CA_EVENT_DATA = {
       "tourId": "chage-billboard-66-67",
       "performanceNo": 8,
       "description": "2025年1月5日、Chageの「Chage Billboard Live 66 to 67：Echoes of Friendship with Yuko Ishikawa」がビルボードライブ東京で開催された。\nこのツアーの第8公演にあたる。"
-    },
-    {
-      "id": "v18224-2025-01-05-aska-001",
-      "date": "2025-01-05",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 鹿児島再公演",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "2024年10月6日鹿児島公演も開催済み。今回は別日程の再公演であり、2024年公演を中止・延期へ変更しない。",
-      "sources": [
-        {
-          "label": "公式・主催者発表",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "prefecture": "鹿児島県",
-      "venue": "川商ホール 第一",
-      "description": "2025年1月5日、ASKAが川商ホール 第一で「ASKA CONCERT TOUR 2024≫2025 -Who is ASKA !?- 鹿児島再公演」のステージに立った。 今回は別日程の再公演であり、2024年公演を中止・延期へ変更しない。"
     },
     {
       "id": "v15-0124",
@@ -81135,11 +81027,15 @@ window.CA_EVENT_DATA = {
       "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- in Taipei",
       "status": "recorded",
       "verification": "primary",
-      "note": "",
+      "note": "同日・同一公演の重複記録を統合（2026-11-28）。別登録の会場名：TAIPEI TICC。開場18:30／開演19:30。海外公演。",
       "sources": [
         {
           "label": "ASKA公式：海外ツアー日程",
           "url": "https://www.fellows.tokyo/news/detail/320"
+        },
+        {
+          "label": "公式・主催者発表",
+          "url": "https://www.fellows.tokyo/feature/who_is_aska"
         }
       ],
       "country": "台湾",
@@ -81148,25 +81044,6 @@ window.CA_EVENT_DATA = {
       "tourId": "aska-who-asia-2025",
       "performanceNo": 2,
       "description": "2025年3月1日、ASKAの「ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?- in Taipei」が台北国際会議センター（TICC）で開催された。\nこのツアーの第2公演にあたる。"
-    },
-    {
-      "id": "v18224-2025-03-01-aska-005",
-      "date": "2025-03-01",
-      "artist": "ASKA",
-      "category": "live",
-      "title": "ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?-",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "開場18:30／開演19:30。海外公演。",
-      "sources": [
-        {
-          "label": "公式・主催者発表",
-          "url": "https://www.fellows.tokyo/feature/who_is_aska"
-        }
-      ],
-      "prefecture": "台湾",
-      "venue": "TAIPEI TICC",
-      "description": "2025年3月1日、ASKAの「ASKA ASIA CONCERT TOUR 2025 -Who is ASKA !?-」がTAIPEI TICCで開催された。"
     },
     {
       "id": "v15-0217",
@@ -84867,33 +84744,18 @@ window.CA_EVENT_DATA = {
       "prefecture": "埼玉県",
       "country": "日本",
       "startTime": "16:00",
-      "note": "",
+      "note": "同日・同一公演の重複記録を統合（2026-11-28）。別登録の会場名：八木橋百貨店 カトレアホール。公式日程で開催日・会場確認。開催日経過。",
       "sources": [
         {
           "label": "Chage公式／公演会場公式",
           "url": "https://chage.jp/information/live/detail-804.php"
-        }
-      ],
-      "description": "2026年4月29日、Chageの「Chageのずっと細道 2026」が八木橋百貨店8階 カトレアホールで開催された。"
-    },
-    {
-      "id": "v18224-2026-04-29-chage-134",
-      "date": "2026-04-29",
-      "artist": "Chage",
-      "category": "live",
-      "title": "Chageのずっと細道",
-      "status": "recorded",
-      "verification": "primary",
-      "note": "公式日程で開催日・会場確認。開催日経過。",
-      "sources": [
+        },
         {
           "label": "公式・主催者発表",
           "url": "https://chage.jp/hosomichi/schedule/archive.php"
         }
       ],
-      "prefecture": "埼玉県",
-      "venue": "八木橋百貨店 カトレアホール",
-      "description": "2026年4月29日、Chageの「Chageのずっと細道」が八木橋百貨店 カトレアホールで開催された。"
+      "description": "2026年4月29日、Chageの「Chageのずっと細道 2026」が八木橋百貨店8階 カトレアホールで開催された。"
     },
     {
       "id": "v16-0089",
@@ -104304,5 +104166,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.9.16"
+  "siteVersion": "2.9.17"
 };
