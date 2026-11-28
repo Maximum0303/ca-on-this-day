@@ -1,5 +1,5 @@
 {
-  "version": "3.9.9",
+  "version": "3.9.10",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1731,16 +1731,19 @@
       "id": "jp-kanto-gunma-kenmin",
       "prefecture": "群馬県",
       "municipality": "前橋市",
-      "name": "群馬県民会館",
+      "name": "群馬県民会館（旧ベイシア文化ホール）",
       "aliases": [
         "群馬県民会館"
       ],
       "sources": [
         "https://www.bunka.go.jp/kindai/kenzoubutsu/research/gunma/006/index.html",
-        "https://www.pref.gunma.jp/page/750128.html"
+        "https://www.pref.gunma.jp/page/750128.html",
+        "https://www.nikoukei.co.jp/news/detail/523173",
+        "https://www.nikoukei.co.jp/news/detail/530351",
+        "https://www.nikoukei.co.jp/news/detail/127697"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1971年9月竣工。前橋市。旧愛称ベイシア文化ホール。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1971年9月竣工。前橋市。旧愛称ベイシア文化ホール。 公演の個別原典確認を意味しない。\n1971年10月開館。1971年10月29日開館（報道2記事で一致、同一新聞社のため独立資料とはみなさない）。所在地：前橋市日吉町1-10-1（報道、県報告書テキストとも一致するが原本画像未取得）。1971年9月竣工。群馬大学教育学部移転跡地に建設。岡田新一設計、鹿島建設施工。1999年から2年間大規模改修、2010年バリアフリー工事。2025年6月20日廃止（条例廃止）。2025年4月から利用停止の方針が示されていた。新文化拠点整備方針あり、解体完了・新施設完成は未確認。旧愛称ベイシア文化ホール。2008年12月報道では2009年4月から5年間の初回契約。最終契約終了日は未確認。"
     },
     {
       "id": "jp-kanto-shibukawa",
@@ -1752,10 +1755,11 @@
       ],
       "sources": [
         "https://shibukawa-civichall.com/facilities.html",
-        "https://www.zenkoubun.jp/search/hall_0100305.html"
+        "https://www.zenkoubun.jp/search/hall_0100305.html",
+        "https://shibukawa-civichall.com/facilities/greathall.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1976年6月4日開館。渋川市。施設単位の集計を維持。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1976年6月4日開館。渋川市。施設単位の集計を維持。 公演の個別原典確認を意味しない。\n1976年6月4日開館。所在地：渋川市渋川2795番地（上郷地内）。1974年10月23日着工、1976年5月15日竣工。大ホール定員1,259人（固定1,111席、うち親子3席、車いす用12席、立見136人）。"
     },
     {
       "id": "jp-kanto-gunma-ongaku",
@@ -1771,7 +1775,7 @@
         "https://www.city.takasaki.gunma.jp/site/sightseeing/2614.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1961年7月18日開館。高崎市高松町。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1961年7月18日開館。高崎市高松町。 公演の個別原典確認を意味しない。\n1961年7月18日開館（公文協、月日の原典再照合対象）。所在地：高崎市高松町28番地2。1961年完成、アントニン・レーモンド設計、市民寄付を建設費の一部に充当。運営者案内は固定1,932席、車いす席3席。公文協掲載は2,205席。構成・時点の相違理由未確認。"
     },
     {
       "id": "jp-kanto-isesaki",
@@ -1783,26 +1787,29 @@
       ],
       "sources": [
         "https://www.zenkoubun.jp/search/hall_0100310.html",
-        "https://www.city.isesaki.lg.jp/soshiki/keizai/bunka/9862.html"
+        "https://www.city.isesaki.lg.jp/soshiki/keizai/bunka/9862.html",
+        "https://www.city.isesaki.lg.jp/gyoseijoho/gyozaisei/namingrights/18338.html",
+        "https://isesaki-bunka.com/shisetsu/lhall/"
       ],
       "verification": "provisional-location",
-      "note": "施設資料照合（2026-11-28）：伊勢崎市文化会館は1981年4月1日開館。現愛称はメガネのイタガキ文化ホール伊勢崎。登録名「伊勢崎市民文化会館」との同一性を示す当時の資料は未確認。候補資料として追加し暫定区分と既存集計を維持。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：伊勢崎市文化会館は1981年4月1日開館。現愛称はメガネのイタガキ文化ホール伊勢崎。登録名「伊勢崎市民文化会館」との同一性を示す当時の資料は未確認。候補資料として追加し暫定区分と既存集計を維持。 公演の個別原典確認を意味しない。\n同定候補の正式名称は伊勢崎市文化会館、現愛称メガネのイタガキ文化ホール伊勢崎。登録名との同一性未確認。候補施設：1981年4月1日開館。候補施設所在地：伊勢崎市昭和町3918番地。候補施設大ホール定員1,530人（固定1,440席、車いす6、親子8、立見76）。候補施設の愛称使用期間2022年10月1日～2027年9月30日、株式会社板垣。候補施設の情報であり、登録会場の確定値ではない。表示名・確認区分を維持する。"
     },
     {
       "id": "jp-kanto-kiryu",
       "prefecture": "群馬県",
       "municipality": "桐生市",
-      "name": "桐生市市民文化会館",
+      "name": "美喜仁桐生文化会館（桐生市市民文化会館）",
       "aliases": [
         "桐生市市民文化会館"
       ],
       "sources": [
         "https://www.zenkoubun.jp/search/hall_0100320.html",
         "https://www.city.kiryu.lg.jp/shisei/profile/1002964.html",
-        "https://www.kiryu-piif.jp/"
+        "https://www.kiryu-piif.jp/",
+        "https://www.city.kiryu.lg.jp/sangyou/1018165/1007007/1017191/1017508.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1997年5月11日開館。桐生市。現愛称は美喜仁桐生文化会館。登録名を維持。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1997年5月11日開館。桐生市。現愛称は美喜仁桐生文化会館。登録名を維持。 公演の個別原典確認を意味しない。\n1997年5月11日開館（公文協）。所在地：桐生市織姫町2番5号。シルクホール最大1,517席、小ホール最大310席。愛称美喜仁桐生文化会館、正式名称桐生市市民文化会館。2021年2月1日契約開始、更新契約2024年2月1日～2027年1月31日。"
     },
     {
       "id": "jp-kanto-takasaki-bunka",
@@ -1817,22 +1824,24 @@
         "https://www.takasaki-foundation.or.jp/culture/b-kaikan/"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1984年7月7日開館。高崎市文化会館。高崎芸術劇場とは別施設。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1984年7月7日開館。高崎市文化会館。高崎芸術劇場とは別施設。 公演の個別原典確認を意味しない。\n1984年7月7日開館（公文協）。所在地：高崎市末広町23番地1。大ホール701席、車いす4席、立見55人、最大760人。小ホール定員100人。1984年、市制80周年記念事業として建設。少年科学館を併設。"
     },
     {
       "id": "jp-kanto-maebashi",
       "prefecture": "群馬県",
       "municipality": "前橋市",
-      "name": "前橋市民文化会館 小ホール",
+      "name": "昌賢学園まえばしホール（前橋市民文化会館） 小ホール",
       "aliases": [
         "前橋市民文化会館 小ホール"
       ],
       "sources": [
         "https://www.zenkoubun.jp/search/hall_0100306.html",
-        "https://maebashishibun.maebashi-cc.or.jp/shall"
+        "https://maebashishibun.maebashi-cc.or.jp/shall",
+        "https://maebashishibun.maebashi-cc.or.jp/gaiyo",
+        "https://www.city.maebashi.gunma.jp/soshiki/zaimu/zaisei/gyomu/3/19374.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1982年11月3日開館。現愛称は昌賢学園まえばしホール。小ホールを運営者資料で確認。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1982年11月3日開館。現愛称は昌賢学園まえばしホール。小ホールを運営者資料で確認。 公演の個別原典確認を意味しない。\n1982年11月3日開館。所在地：前橋市南町3丁目62番地1。小ホール定員693人（固定600席、立見93人）。固定席32席を外すと車いすスペース20席確保。愛称昌賢学園まえばしホール。市の契約一覧は2022～2026年度の5年間、学校法人昌賢学園。"
     },
     {
       "id": "jp-kanto-takasaki-geijutsu",
@@ -1845,10 +1854,14 @@
       ],
       "sources": [
         "https://www.takasaki-foundation.or.jp/theatre/about.php",
-        "https://www.city.takasaki.gunma.jp/page/3111.html"
+        "https://www.city.takasaki.gunma.jp/page/3111.html",
+        "https://www.city.takasaki.gunma.jp/page/3115.html",
+        "https://www.takasaki-foundation.or.jp/theatre/st.php",
+        "https://www.takasaki-foundation.or.jp/theatre/gt.php",
+        "https://www.navitime.co.jp/poi?spot=02301-r072542"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：2019年9月20日開館。高崎市。公式資料に大劇場・スタジオシアターが明記される。別ホールであることを明記し、既存の施設単位集計を維持。群馬音楽センターとは別施設。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：2019年9月20日開館。高崎市。公式資料に大劇場・スタジオシアターが明記される。別ホールであることを明記し、既存の施設単位集計を維持。群馬音楽センターとは別施設。 公演の個別原典確認を意味しない。\n2019年9月20日開館、同日に開館記念演奏会。所在地：高崎市栄町9-1。大劇場2,027席（車いす5席を含む）。スタジオシアター：3間舞台568席、5間466席、7間389席（各車いす1席含む）。平土間の例は立見約1,000人＋2階98席。建物代表位置（暫定）：北緯36.321546、東経139.018475。大劇場とスタジオシアターは別ホール。既存の施設単位集計を維持。"
     },
     {
       "id": "jp-kanto-omiya-old",
