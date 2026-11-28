@@ -1,5 +1,5 @@
 {
-  "version": "3.8.3-2",
+  "version": "3.8.3-2-fix1",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -439,27 +439,14 @@
         "青森市文化会館",
         "青森市文化会館 大ホール",
         "リンクステーションホール青森",
-        "リンクステーションホール青森（青森市文化会館）"
-      ],
-      "sources": [
-        "https://aobun-sogei.com/facility/linkstationhall/"
-      ],
-      "verification": "confirmed",
-      "note": ""
-    },
-    {
-      "id": "jp-tohoku-aomori-bunka-short",
-      "prefecture": "青森県",
-      "municipality": "青森市",
-      "name": "青森文化会館（同一性確認待ち）",
-      "aliases": [
+        "リンクステーションホール青森（青森市文化会館）",
         "青森文化会館"
       ],
       "sources": [
         "https://aobun-sogei.com/facility/linkstationhall/"
       ],
-      "verification": "pending-alias",
-      "note": "青森市文化会館の略記の可能性。所在地のみ採用し、統合保留。"
+      "verification": "confirmed",
+      "note": "登録表記「青森文化会館」はサイト管理者の判断に基づき同一施設として集計（2026-11-28）。別表記の一次資料による同一性確認は未実施。"
     },
     {
       "id": "jp-tohoku-quarter",
@@ -758,13 +745,14 @@
       "municipality": "秋田市",
       "name": "秋田県民会館（旧施設）",
       "aliases": [
-        "秋田県民会館"
+        "秋田県民会館",
+        "秋田県民文化会館"
       ],
       "sources": [
         "https://www.pref.akita.lg.jp/pages/archive/83189"
       ],
       "verification": "confirmed",
-      "note": "ミルハスとは別施設。"
+      "note": "ミルハスとは別施設。 登録表記「秋田県民文化会館」はサイト管理者の判断に基づき同一施設として集計（2026-11-28）。別表記の一次資料による同一性確認は未実施。"
     },
     {
       "id": "jp-tohoku-yuzawa",
@@ -779,20 +767,6 @@
       ],
       "verification": "confirmed",
       "note": ""
-    },
-    {
-      "id": "jp-tohoku-akita-kenmin-pending",
-      "prefecture": "秋田県",
-      "municipality": "秋田市",
-      "name": "秋田県民文化会館（同一性確認待ち）",
-      "aliases": [
-        "秋田県民文化会館"
-      ],
-      "sources": [
-        "https://www.pref.akita.lg.jp/pages/archive/83189"
-      ],
-      "verification": "pending-alias",
-      "note": "秋田県民会館との同一性保留。"
     },
     {
       "id": "jp-tohoku-noshiro",
@@ -1001,13 +975,14 @@
       "municipality": "福島市",
       "name": "福島県文化センター（とうほう・みんなの文化センター）",
       "aliases": [
-        "福島県文化センター"
+        "福島県文化センター",
+        "福島文化センター"
       ],
       "sources": [
         "https://www.fcp.or.jp/culture/"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "登録表記「福島文化センター」はサイト管理者の判断に基づき同一施設として集計（2026-11-28）。別表記の一次資料による同一性確認は未実施。"
     },
     {
       "id": "jp-tohoku-aizu-old",
@@ -1025,20 +1000,6 @@
       "note": "會津風雅堂とは別施設。"
     },
     {
-      "id": "jp-tohoku-fukushima-pending",
-      "prefecture": "福島県",
-      "municipality": "福島市",
-      "name": "福島文化センター（同一性確認待ち）",
-      "aliases": [
-        "福島文化センター"
-      ],
-      "sources": [
-        "https://www.fcp.or.jp/culture/"
-      ],
-      "verification": "pending-alias",
-      "note": "福島県文化センターの略記の可能性。統合保留。"
-    },
-    {
       "id": "jp-tohoku-koriyama-bunka",
       "prefecture": "福島県",
       "municipality": "郡山市",
@@ -1046,13 +1007,15 @@
       "aliases": [
         "郡山市民文化センター",
         "郡山市民文化センター 大ホール",
-        "けんしん郡山文化センター 大ホール"
+        "けんしん郡山文化センター 大ホール",
+        "郡山市文化センター"
       ],
       "sources": [
-        "https://www.bunka-manabi.or.jp/kc-center/institution/"
+        "https://www.bunka-manabi.or.jp/kc-center/institution/",
+        "https://www.chage-aska.net/history/1990.php"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "登録表記「郡山市文化センター」はサイト管理者の判断に基づき同一施設として集計（2026-11-28）。別表記の一次資料による同一性確認は未実施。"
     },
     {
       "id": "jp-tohoku-iwaki-old",
@@ -1067,21 +1030,6 @@
       ],
       "verification": "confirmed",
       "note": "アリオス本館の旧施設。統合しない。"
-    },
-    {
-      "id": "jp-tohoku-koriyama-bunka-short",
-      "prefecture": "福島県",
-      "municipality": "郡山市",
-      "name": "郡山市文化センター（同一性確認待ち）",
-      "aliases": [
-        "郡山市文化センター"
-      ],
-      "sources": [
-        "https://www.chage-aska.net/history/1990.php",
-        "https://www.bunka-manabi.or.jp/kc-center/institution/"
-      ],
-      "verification": "pending-alias",
-      "note": "公式公演年譜の登録表記。市民文化センターとの同一性は保留。"
     },
     {
       "id": "jp-tohoku-koriyama-gym",
