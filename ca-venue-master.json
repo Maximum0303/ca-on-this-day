@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-3",
+  "version": "3.8.4-4",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1295,9 +1295,12 @@
         "宇都宮市文化会館・大ホール",
         "宇都宮文化会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0090272.html",
+        "https://www.utsunomiya-cvb.org/spot/detail_30155.html"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 登録表記「宇都宮文化会館」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。"
+      "note": "施設資料照合（2026-11-28）：1980年4月7日開館。宇都宮市。宇都宮文化会館の別表記の原典確認は未実施のため暫定区分を維持。 公演の個別原典確認を意味しない。 既存備考：市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 登録表記「宇都宮文化会館」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。"
     },
     {
       "id": "jp-kanto-kuroiso",
@@ -1372,9 +1375,12 @@
       "aliases": [
         "群馬県民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.bunka.go.jp/kindai/kenzoubutsu/research/gunma/006/index.html",
+        "https://www.pref.gunma.jp/page/750128.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1971年9月竣工。前橋市。旧愛称ベイシア文化ホール。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-shibukawa",
@@ -1545,9 +1551,12 @@
         "大宮ソニックシティ",
         "大宮ソニックシティ 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0110340.html",
+        "https://www.fujita.co.jp/works/1611/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1988年4月8日開館。現在のさいたま市大宮区。大ホール明記のない公演はホールを断定せず施設単位の集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-toda",
@@ -1938,9 +1947,13 @@
         "新宿厚生年金会館",
         "東京厚生年金会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://report.jbaudit.go.jp/org/h09/YOUSEI1/1997-h09-3129-0.htm",
+        "https://www.chage-aska.net/history/2010.php",
+        "https://www.radiomic.org/activity/backnumber_2/No140/no140p08.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1961年4月開館、2010年3月末閉館。新宿区。元職員の回顧に新宿厚生年金会館の通称を確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-koma",
@@ -1962,9 +1975,12 @@
       "aliases": [
         "NHKホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.nhkso.or.jp/HistoricalOverview_19591973.html",
+        "https://www.nikkenren.com/kenchiku/bcs/detail.html?ci=173"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1973年6月20日開場。渋谷区神南。内幸町の旧NHKホールとは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-hachioji-old",
@@ -2258,9 +2274,12 @@
         "SHIBUYA ENTERTAINMENT THEATER PLEASURE PLEASURE",
         "SHIBUYA PLEASURE PLEASURE"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://pleasure-pleasure.jp/about/",
+        "https://www.shibukei.com/headline/6942/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2010年3月4日誕生。渋谷区道玄坂。開業時の名称及び同年6月の命名権による改称を確認。登録別名は維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-icho",
@@ -2375,9 +2394,12 @@
       "aliases": [
         "豊洲PIT"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://corporate.pia.jp/business/hall/index.html",
+        "https://ticket-news.pia.jp/pia/news.do?newsCd=201406060014"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2014年10月17日開業。江東区豊洲。1988年のP･I･Tとは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-cocoon",
@@ -2399,9 +2421,12 @@
       "aliases": [
         "品川インターシティホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.sicity.co.jp/news_event/news_event-2329/",
+        "https://sic-hall.com/access/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1998年12月開業の複合施設のホール棟。港区港南。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-hitomi",
@@ -2485,9 +2510,13 @@
       "aliases": [
         "ビルボードライブ東京"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.billboard-japan.com/special/detail/2926",
+        "https://api.billboard-live.com/access/t_index.html",
+        "https://roppongi.keizai.biz/headline/1093/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2007年8月18日開業。港区赤坂・東京ミッドタウン。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-clubex",
@@ -2915,9 +2944,12 @@
         "神奈川県民会館",
         "神奈川県民大ホール"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.kanagawa-kenminhall.com/about",
+        "https://www.pref.kanagawa.jp/docs/yi4/cnt/f500091/index.html"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 登録表記「神奈川県民会館」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。 登録表記「神奈川県民大ホール」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。"
+      "note": "施設資料照合（2026-11-28）：1975年1月17日開館、2025年3月末休館。横浜市。神奈川県民会館・神奈川県民大ホールの個別原典確認は未実施のため暫定区分を維持。 公演の個別原典確認を意味しない。 既存備考：市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 登録表記「神奈川県民会館」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。 登録表記「神奈川県民大ホール」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。"
     },
     {
       "id": "jp-kanto-yokohama-stadium",
