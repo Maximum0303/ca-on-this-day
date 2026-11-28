@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-4",
+  "version": "3.8.4-5",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1716,9 +1716,11 @@
         "千葉県文化会館",
         "千葉県文化会館 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0120400.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1967年4月1日開館。千葉市。施設単位の集計を維持し、大ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-yachiyo",
@@ -1741,9 +1743,13 @@
         "市川市文化会館",
         "市川市文化会館 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0120421.html",
+        "https://www.tekona.net/bunkakaikan/facilities/",
+        "https://www.city.ichikawa.lg.jp/page/4949.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1985年11月3日開館。市川市大和田。施設単位の集計を維持し、大ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-togane",
@@ -2237,9 +2243,12 @@
       "aliases": [
         "草月ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.sogetsu.or.jp/about/hq-building/",
+        "https://www.sogetsu.or.jp/about/hq-building/hall/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：旧草月会館のホールは1958年開場、現草月会館は1977年竣工。港区赤坂。登録期間は現施設の時代。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-musashimurayama",
@@ -3206,9 +3215,12 @@
       "aliases": [
         "ビルボードライブ横浜"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://business.yokohamajapan.com/mice/ja/news/detail/?id=1267",
+        "https://www.billboard-japan.com/d_news/detail/76318/2"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2020年7月20日開業。横浜市中区北仲通。東京・大阪とは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-pia",
@@ -3894,9 +3906,12 @@
         "アクトシティ浜松",
         "アクトシティ浜松 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "施設単位の暫定集計。大ホール明記の原記録は維持。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0220656.html",
+        "https://www.city.hamamatsu.shizuoka.jp/koho2/100ayumi/1994-3.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1994年10月7日開館。浜松市。大ホール・中ホールを備える施設。大ホール未指定の記録のホールは断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-064",
@@ -4153,9 +4168,13 @@
         "Zepp Nagoya",
         "Zepp名古屋"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "英字・日本語の表記差として暫定集計。"
+      "sources": [
+        "https://www.sme.co.jp/pressrelease/news/detail/NEWS000317.html",
+        "https://www.zepp.co.jp/zepp-nagoya-20th-anniversary/",
+        "https://www.zepp.co.jp/hall/nagoya/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2005年3月11日開業。名古屋市中村区。英字・日本語の表記差として集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-086",
@@ -5112,9 +5131,13 @@
       "aliases": [
         "ビルボードライブ大阪"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.billboard-japan.com/d_news/detail/2958/2",
+        "https://umeda.keizai.biz/headline/13/",
+        "https://hcl-c.com/our_work/music/m_bl.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2007年8月26日開業。大阪市北区梅田。大阪ブルーノートからリニューアルした施設だが、旧名義の記録との統合は今回行わない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-052",
@@ -6515,9 +6538,12 @@
       "aliases": [
         "松山市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.matsuyama.ehime.jp/shisetsu/bunka/simin.html",
+        "https://www.zenkoubun.jp/search/hall_0381187.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1965年7月10日開館。松山市。ホール指定なしの記録は施設単位の集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-079",
@@ -6745,9 +6771,13 @@
       "aliases": [
         "マリンメッセ福岡"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "当時の施設名を維持。A館・B館の区別を後から断定しない。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.crossroadfukuoka.jp/spot/12264",
+        "https://www.nihonsekkei.co.jp/projects/2542/",
+        "https://www.welcome-fukuoka.or.jp/blog/archives/1215"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1995年開館。福岡市博多区。従来のマリンメッセ福岡は2019年にA館へ改称、B館は2021年開業。対象22記録は1996～2008年のため旧名称の施設として集計維持。登録名・棟指定は変更しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-015",
@@ -6928,9 +6958,12 @@
       "aliases": [
         "福岡国際センター"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://yokanavi.com/spots/71278?q%5Bareas_id_in%5D%5B%5D=3",
+        "https://www.kankyou-seibi.co.jp/public/conventioncenter.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1981年開館。福岡市博多区築港本町。福岡国際会議場・福岡サンパレスとは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-035",
