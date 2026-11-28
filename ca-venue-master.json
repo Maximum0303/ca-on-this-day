@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-16",
+  "version": "3.8.4-17",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -3126,9 +3126,13 @@
       "aliases": [
         "グリーンホール相模大野"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0140536.html",
+        "https://hall-net.or.jp/01greenhall/news/3208/",
+        "https://www.city.sagamihara.kanagawa.jp/kurashi/shisetsu/bunka_shakai/hall/1002739.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1990年1月8日開館。相模原市文化会館。2013年4月1日から相模女子大学グリーンホールの愛称。相模原市民会館とは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-yokohama-arena",
@@ -3170,9 +3174,13 @@
       "aliases": [
         "ハーモニーホール座間"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0140538.html",
+        "https://www.city.zama.kanagawa.jp/event/kyoiku/1001626/1013375.html",
+        "https://harmony.zamashi.jp/facilities/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1995年8月26日開館。座間市立市民文化会館。市は2026年11月1日の改修後再開館を案内。使用ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-keio",
@@ -3236,9 +3244,12 @@
       "aliases": [
         "関内ホール 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0140534.html",
+        "https://www.kannaihall.jp/access/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1986年10月1日開館。横浜市市民文化会館 関内ホール。大ホールの存在を確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-kamakura",
@@ -3248,9 +3259,12 @@
       "aliases": [
         "鎌倉芸術館 小ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0140511.html",
+        "https://kamakura-kpac.jp/facilities/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1993年10月1日開館。鎌倉市大船。小ホールの存在を施設案内で確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-ongakudo",
@@ -3260,9 +3274,13 @@
       "aliases": [
         "神奈川県立音楽堂"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0140495.html",
+        "https://www.kanagawa-ongakudo.com/about",
+        "https://www.pref.kanagawa.jp/docs/yi4/cnt/f500097/index.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1954年11月4日開館。県立音楽専用ホール。神奈川県民ホールとは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-tsurugaoka",
@@ -3300,9 +3318,12 @@
       "aliases": [
         "横須賀市はまゆう会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0140550.html",
+        "https://hamayu.yokosuka-bunka.info/facility_info/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1983年10月1日開館。横須賀市はまゆう会館。横須賀市文化会館とは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-akarenga",
@@ -3328,9 +3349,13 @@
       "aliases": [
         "KAAT神奈川芸術劇場"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.kaat.jp/about/facilities/",
+        "https://www.kaat.jp/d/openkt",
+        "https://www.zenkoubun.jp/search/hall_0142424.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2011年1月11日開館。神奈川県立県民ホール神奈川芸術劇場。本館とは別施設。使用ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-shin-prince",
@@ -3352,9 +3377,13 @@
       "aliases": [
         "パシフィコ横浜 国立大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://plan.pacifico.co.jp/national-convention-hall",
+        "https://business.yokohamajapan.com/mice/ja/plan/venues/detail/?venue_id=612",
+        "https://prtimes.jp/main/html/rd/p/000000025.000013600.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：国立大ホールは1994年4月開業。正式名称は国立横浜国際会議場。展示ホール・会議センターと区別する。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-billboard-y",
@@ -3379,9 +3408,12 @@
       "aliases": [
         "ぴあアリーナMM"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://pia-arena-mm.jp/about/",
+        "https://corporate.pia.jp/business/hall/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2020年7月10日開業。横浜みなとみらい地区。運営会社資料で確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-mint",
@@ -3415,9 +3447,12 @@
       "aliases": [
         "KT Zepp Yokohama"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.sme.co.jp/pressrelease/news/detail/NEWS001095.html",
+        "https://ymm21.jp/database/kt/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2020年3月7日開業。横浜みなとみらい地区のKTビル内。運営会社の発表と地区施設案内を照合。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-odaiba-neppu-2004",
