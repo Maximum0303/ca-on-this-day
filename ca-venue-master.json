@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-7",
+  "version": "3.8.4-8",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -3502,9 +3502,11 @@
       "aliases": [
         "富山市公会堂"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.city.toyama.lg.jp/_res/projects/default_project/_page_/001/002/949/a1.pdf"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：富山市の写真資料で1954年の富山産業大博覧会の会場として建設、1997年閉館と確認。富山市芸術文化ホール（オーバード・ホール）とは別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-023",
@@ -3778,9 +3780,12 @@
       "aliases": [
         "長野市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://crd.ndl.go.jp/reference/entry/index.php?id=1000351444&page=ref_view",
+        "https://www.nagano-arts.or.jp/events/562.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1961年開館、2011年閉館。長野市立図書館の調査記録と後継施設の資料を照合。長野市芸術館とは別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-051",
@@ -4125,10 +4130,12 @@
         "浜松市民会館"
       ],
       "sources": [
-        "https://adeac.jp/hamamatsu-city/texthtml/d100050/mp010050-100050/ht002570"
+        "https://adeac.jp/hamamatsu-city/texthtml/d100050/mp010050-100050/ht002570",
+        "https://adeac.jp/hamamatsu-city/texthtml/d100040/mp010040-100040/ht203710",
+        "https://gikyokutosyokan.com/venues/hamamatsu-shimin"
       ],
-      "verification": "provisional-location",
-      "note": "旧浜松市民会館。アクトシティ浜松と別集計。"
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：浜松市史で1961年の市民会館整備を確認。後の教育文化会館（はまホール、2015年閉館）に関する劇場資料も照合。アクトシティ浜松とは別集計。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-081",
@@ -5980,9 +5987,12 @@
       "aliases": [
         "岡山市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "岡山芸術創造劇場ハレノワとは別施設。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.okayama.jp/shisei/0000002571.html",
+        "https://www.city.okayama.jp/shisei/0000059439.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1963年開館、2024年3月31日閉館。岡山芸術創造劇場ハレノワとは別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-016",
@@ -6533,9 +6543,12 @@
       "aliases": [
         "高松市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "香川県県民ホールとは別施設。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.takamatsu.kagawa.jp/kurashi/kosodate/bunka/suisogakudan/suisogakudan/kiroku/teirei/11_20.html",
+        "https://tbb-web.webu.jp/archives/arc3/rc26.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：高松市役所吹奏楽団の公式演奏記録に1982・1983年の会場名を確認。高松高校吹奏楽部の資料では1961年建設、2004年3月閉館。香川県県民ホール・サンポートホールとは別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-073",
@@ -7107,9 +7120,13 @@
       "aliases": [
         "佐賀市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "佐賀市文化会館とは別施設。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.saga.lg.jp/bunka-sports/bunka-geijutsu/3/3171.html",
+        "https://fukupedia18.blog.fc2.com/blog-entry-272.html",
+        "https://tontonzizii.livedoor.blog/archives/20801334.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：佐賀市公式資料で旧佐賀市民会館と1989年開館の佐賀市文化会館が別施設であることを確認。開館1966年4月・閉館2016年3月は二次資料による。佐賀市文化会館の開館前記録は別途保留。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-042",
@@ -7159,9 +7176,13 @@
       "aliases": [
         "佐世保市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "佐世保市民文化ホールとは区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.sasebo.lg.jp/bunspo/bunkak/documents/0zentaiban.pdf",
+        "https://culture-nippon.kokosil.net/ja/spots/00001c00000000000002000008001886",
+        "https://www.youtube.com/watch?v=kOQC8nCeoWU"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1962年開館、2017年3月31日閉館。佐世保市花園町。市民文化ホール・アルカスSASEBOとは別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-046",
@@ -7195,9 +7216,13 @@
       "aliases": [
         "長崎市公会堂"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.nagasaki.lg.jp/nagazine/smart/t201402.html",
+        "https://www.brickhall.jp/user_guide/",
+        "https://docomomojapan.com/structure/70/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1962年完成、2015年3月末閉館。長崎市公会堂と長崎市民会館・長崎ブリックホールは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-050",
@@ -7405,9 +7430,14 @@
       "aliases": [
         "宮崎市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "宮崎市民文化ホールとは別施設。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.miyazaki.miyazaki.jp/fs/8/2/0/2/6/3/_/820263.pdf",
+        "https://photoarchive.city.miyazaki.miyazaki.jp/photo/0546_30.html",
+        "https://www.operamiyazaki.com/history",
+        "https://www.jafra.or.jp/library/letter/backnumber/1996/18/3/8.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：宮崎市の年表で1965年完成、1983年のオペラ公演資料で施設名を確認。1996年開館の宮崎市民文化ホールとは別施設。正確な閉館日は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-069",
@@ -7728,9 +7758,12 @@
       "aliases": [
         "那覇市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "なはーととは別施設。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.info.city.naha.okinawa.jp/kenko/008146.html",
+        "https://www.nahart.jp/overview/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1970年11月開館、2016年10月閉館。那覇文化芸術劇場なはーととは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-097",
