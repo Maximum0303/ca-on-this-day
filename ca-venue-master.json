@@ -1,5 +1,5 @@
 {
-  "version": "3.8.3-7",
+  "version": "3.8.4-1",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -7586,6 +7586,24 @@
       "sources": [],
       "verification": "provisional-location",
       "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-kyushu-okinawa-093",
+      "prefecture": "沖縄県",
+      "municipality": "沖縄市",
+      "name": "沖縄県総合運動公園 多目的広場",
+      "aliases": [
+        "沖縄県総合運動公園 多目的広場"
+      ],
+      "sources": [
+        "https://hy-road.net/contents/889593",
+        "https://trf.avexnet.or.jp/schedule/detail.php?id=1115308",
+        "https://www.okinawastory.jp/event/600019814",
+        "https://www.churatoku.net/info/0002712.aspx",
+        "https://www.pref.okinawa.lg.jp/machizukuri/park/1012805.html"
+      ],
+      "verification": "provisional-location",
+      "note": "HY SKY Fesの主催アーティスト公式案内・出演者公式案内・沖縄観光情報の会場住所は沖縄市比屋根5丁目3-1。2027年の会場案内も同住所。公園は複数自治体にまたがるため、イベントの案内上の所在地として沖縄市に分類。広場の厳密な自治体境界は未照合。開催予定の状態は変更しない。"
     }
   ]
 }
