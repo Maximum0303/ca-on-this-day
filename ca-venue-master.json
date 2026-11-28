@@ -1,5 +1,5 @@
 {
-  "version": "3.8.3-5",
+  "version": "3.8.3-6",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -31,7 +31,16 @@
     "大阪府",
     "兵庫県",
     "奈良県",
-    "和歌山県"
+    "和歌山県",
+    "鳥取県",
+    "島根県",
+    "岡山県",
+    "広島県",
+    "山口県",
+    "徳島県",
+    "香川県",
+    "愛媛県",
+    "高知県"
   ],
   "entries": [
     {
@@ -5676,6 +5685,836 @@
       "sources": [],
       "verification": "provisional-location",
       "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-001",
+      "prefecture": "鳥取県",
+      "municipality": "鳥取市",
+      "name": "とりぎん文化会館 梨花ホール",
+      "aliases": [
+        "とりぎん文化会館 梨花ホール"
+      ],
+      "sources": [
+        "https://www.tottori-caf.or.jp/kenbun/facility/about/"
+      ],
+      "verification": "confirmed",
+      "note": "施設名と梨花ホールを確認。旧名称のホール指定なしとは区別。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-002",
+      "prefecture": "鳥取県",
+      "municipality": "鳥取市",
+      "name": "鳥取県立県民文化会館（とりぎん文化会館・ホール指定なし）",
+      "aliases": [
+        "鳥取県立県民文化会館"
+      ],
+      "sources": [
+        "https://db.pref.tottori.jp/PublicFacilityDBkoukai.nsf/61ed198a2e91aeb049257d01002bc9eb/78cd17b74efdb30849258cb9000157bb"
+      ],
+      "verification": "confirmed",
+      "note": "同施設の正式名称。梨花ホールと断定しない。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-003",
+      "prefecture": "鳥取県",
+      "municipality": "鳥取市",
+      "name": "鳥取市民会館",
+      "aliases": [
+        "鳥取市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-004",
+      "prefecture": "鳥取県",
+      "municipality": "米子市",
+      "name": "米子コンベンションセンター（BiG SHiP）",
+      "aliases": [
+        "米子コンベンションセンター BIG SHIP",
+        "米子コンベンションセンター（BiG SHiP）"
+      ],
+      "sources": [
+        "https://www.bigship.or.jp/bigship/organizer/n262/"
+      ],
+      "verification": "confirmed",
+      "note": "愛称の表記揺れ。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-006",
+      "prefecture": "鳥取県",
+      "municipality": "米子市",
+      "name": "米子市文化ホール",
+      "aliases": [
+        "米子市文化ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-007",
+      "prefecture": "島根県",
+      "municipality": "出雲市",
+      "name": "出雲APOLLO",
+      "aliases": [
+        "出雲APOLLO"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-008",
+      "prefecture": "島根県",
+      "municipality": "出雲市",
+      "name": "出雲市民会館",
+      "aliases": [
+        "出雲市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-009",
+      "prefecture": "島根県",
+      "municipality": "益田市",
+      "name": "島根県芸術文化センター グラントワ 大ホール",
+      "aliases": [
+        "島根県芸術文化センター グラントワ 大ホール",
+        "島根県芸術文化センター「グラントワ」大ホール"
+      ],
+      "sources": [
+        "https://www.matsue-cvb.jp/grandtoit/"
+      ],
+      "verification": "confirmed",
+      "note": "括弧の表記差。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-011",
+      "prefecture": "島根県",
+      "municipality": "松江市",
+      "name": "島根県民会館",
+      "aliases": [
+        "島根県民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-012",
+      "prefecture": "島根県",
+      "municipality": "浜田市",
+      "name": "浜田市民会館",
+      "aliases": [
+        "浜田市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-013",
+      "prefecture": "岡山県",
+      "municipality": "岡山市",
+      "name": "CRAZYMAMA KINGDOM",
+      "aliases": [
+        "CRAZYMAMA KINGDOM"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-014",
+      "prefecture": "岡山県",
+      "municipality": "岡山市",
+      "name": "岡山市総合文化体育館",
+      "aliases": [
+        "岡山市総合文化体育館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-015",
+      "prefecture": "岡山県",
+      "municipality": "岡山市",
+      "name": "岡山市民会館（旧施設）",
+      "aliases": [
+        "岡山市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "岡山芸術創造劇場ハレノワとは別施設。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-016",
+      "prefecture": "岡山県",
+      "municipality": "岡山市",
+      "name": "岡山市民文化ホール",
+      "aliases": [
+        "岡山市民文化ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-017",
+      "prefecture": "岡山県",
+      "municipality": "倉敷市",
+      "name": "倉敷市芸文館",
+      "aliases": [
+        "倉敷市芸文館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-018",
+      "prefecture": "岡山県",
+      "municipality": "倉敷市",
+      "name": "川崎医療短期大学（旧・倉敷市松島校地）",
+      "aliases": [
+        "倉敷市川崎医療短大"
+      ],
+      "sources": [
+        "https://j.kawasaki-m.ac.jp/guide/002.html"
+      ],
+      "verification": "confirmed",
+      "note": "1973年倉敷市で開学。2022年岡山市へ移転。1981年の学内会場詳細は未確認。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-019",
+      "prefecture": "岡山県",
+      "municipality": "倉敷市",
+      "name": "倉敷市民会館",
+      "aliases": [
+        "倉敷市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-020",
+      "prefecture": "岡山県",
+      "municipality": "岡山市",
+      "name": "能楽堂ホールtenjin9",
+      "aliases": [
+        "能楽堂ホールtenjin9"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-021",
+      "prefecture": "広島県",
+      "municipality": "広島市",
+      "name": "BLUE LIVE HIROSHIMA",
+      "aliases": [
+        "BLUE LIVE HIROSHIMA"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-022",
+      "prefecture": "広島県",
+      "municipality": "広島市",
+      "name": "広島CLUB QUATTRO",
+      "aliases": [
+        "HIROSHIMA CLUB QUATTRO",
+        "広島CLUB QUATTRO",
+        "広島クラブクアトロ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "日本語・英語・カナの表記差。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-023",
+      "prefecture": "広島県",
+      "municipality": "広島市",
+      "name": "NTTクレドホール",
+      "aliases": [
+        "NTTクレドホール",
+        "広島・NTTクレドホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "地名の有無のみ。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-024",
+      "prefecture": "広島県",
+      "municipality": "廿日市市",
+      "name": "はつかいち文化ホールさくらぴあ 大ホール",
+      "aliases": [
+        "はつかいち文化ホールさくらぴあ 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-025",
+      "prefecture": "広島県",
+      "municipality": "福山市",
+      "name": "ふくやまリーデンローズ（ホール指定なし）",
+      "aliases": [
+        "ふくやまリーデンローズ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "大ホール明記の記録と区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-026",
+      "prefecture": "広島県",
+      "municipality": "福山市",
+      "name": "ふくやま芸術文化ホール リーデンローズ 大ホール",
+      "aliases": [
+        "ふくやま芸術文化ホール リーデンローズ 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-027",
+      "prefecture": "広島県",
+      "municipality": "広島市",
+      "name": "メルパルクホール広島（登録名・同一性保留）",
+      "aliases": [
+        "メルパルクホール広島"
+      ],
+      "sources": [
+        "https://www.rcchall.jp/hall/facilities/history.html"
+      ],
+      "verification": "provisional-location",
+      "note": "登録年1990〜1991と施設公式の1993年メルパルク改称が不一致。郵便貯金ホールとの統合を保留。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-028",
+      "prefecture": "広島県",
+      "municipality": "広島市",
+      "name": "リーガロイヤルホテル広島",
+      "aliases": [
+        "リーガロイヤルホテル広島"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-029",
+      "prefecture": "広島県",
+      "municipality": "広島市",
+      "name": "リーガロイヤルホテル広島 ロイヤルホール",
+      "aliases": [
+        "リーガロイヤルホテル広島 ロイヤルホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-031",
+      "prefecture": "広島県",
+      "municipality": "広島市",
+      "name": "広島・観音マリーナ",
+      "aliases": [
+        "広島・観音マリーナ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-033",
+      "prefecture": "広島県",
+      "municipality": "広島市",
+      "name": "広島アステールプラザ（ホール指定なし）",
+      "aliases": [
+        "広島アステールプラザ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "大ホール明記と区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-034",
+      "prefecture": "広島県",
+      "municipality": "広島市",
+      "name": "広島アステールプラザ 大ホール",
+      "aliases": [
+        "広島アステールプラザ（大）"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "（大）は大ホールの略記と推定。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-036",
+      "prefecture": "広島県",
+      "municipality": "広島市",
+      "name": "広島グリーンアリーナ",
+      "aliases": [
+        "広島グリーンアリーナ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-037",
+      "prefecture": "広島県",
+      "municipality": "広島市",
+      "name": "広島サンプラザホール",
+      "aliases": [
+        "広島サンプラザ",
+        "広島サンプラザホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "広島サンプラザはホールの略称と暫定判断。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-039",
+      "prefecture": "広島県",
+      "municipality": "広島市",
+      "name": "広島文化学園HBGホール（旧 広島厚生年金会館）",
+      "aliases": [
+        "広島厚生年金会館",
+        "広島市文化交流会館",
+        "広島文化学園HBGホール"
+      ],
+      "sources": [
+        "https://www.tangeweb.com/works/works_no-74/",
+        "https://www.hbg.ac.jp/info/news/naming_rights.html"
+      ],
+      "verification": "confirmed",
+      "note": "旧広島厚生年金会館、広島市文化交流会館ホール、HBGホールの名称変遷。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-042",
+      "prefecture": "広島県",
+      "municipality": "広島市",
+      "name": "広島文化女子短期大学（旧名称）",
+      "aliases": [
+        "広島文化女子短大"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "広島市の旧短大校地と暫定分類。公演校地は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-043",
+      "prefecture": "広島県",
+      "municipality": "広島市",
+      "name": "上野学園ホール（旧 広島郵便貯金会館・ホール）",
+      "aliases": [
+        "広島郵便貯金ホール",
+        "広島郵便貯金会館"
+      ],
+      "sources": [
+        "https://www.rcchall.jp/hall/facilities/history.html"
+      ],
+      "verification": "confirmed",
+      "note": "旧会館のホール機能を存続・改装した施設。メルパルク表記の年代不一致記録とは区別。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-045",
+      "prefecture": "広島県",
+      "municipality": "福山市",
+      "name": "福山市民会館",
+      "aliases": [
+        "福山市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-046",
+      "prefecture": "山口県",
+      "municipality": "山口市",
+      "name": "KDDI維新ホール",
+      "aliases": [
+        "KDDI維新ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-047",
+      "prefecture": "山口県",
+      "municipality": "下松市",
+      "name": "スターピアくだまつ大ホール",
+      "aliases": [
+        "スターピアくだまつ大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-048",
+      "prefecture": "山口県",
+      "municipality": "下関市",
+      "name": "下関市民会館",
+      "aliases": [
+        "下関市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-049",
+      "prefecture": "山口県",
+      "municipality": "山口市",
+      "name": "山口市民会館",
+      "aliases": [
+        "山口市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-050",
+      "prefecture": "山口県",
+      "municipality": "山口市",
+      "name": "山口女子大学（旧名称）",
+      "aliases": [
+        "山口女子大"
+      ],
+      "sources": [
+        "https://www.yamaguchi-pu.ac.jp/au/about/",
+        "https://www.yamaguchi-pu.ac.jp/au/ua/enkaku/"
+      ],
+      "verification": "provisional-location",
+      "note": "山口市の旧校地。公演場所詳細は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-051",
+      "prefecture": "山口県",
+      "municipality": "周南市",
+      "name": "周南市文化会館（旧 徳山市文化会館・ホール指定なし）",
+      "aliases": [
+        "周南市文化会館",
+        "徳山市文化会館",
+        "徳山文化会館"
+      ],
+      "sources": [
+        "https://s-bunka.jp/bunka/shisetsu.html",
+        "https://www.city.shunan.lg.jp/site/sengo80/130733.html"
+      ],
+      "verification": "provisional-location",
+      "note": "旧徳山市の表記を含む。大ホール指定は別集計。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-052",
+      "prefecture": "山口県",
+      "municipality": "周南市",
+      "name": "周南市文化会館 大ホール",
+      "aliases": [
+        "周南市文化会館 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-055",
+      "prefecture": "山口県",
+      "municipality": "萩市",
+      "name": "萩市民会館",
+      "aliases": [
+        "萩市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-056",
+      "prefecture": "山口県",
+      "municipality": "防府市",
+      "name": "防府市公会堂",
+      "aliases": [
+        "防府市公会堂"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-057",
+      "prefecture": "徳島県",
+      "municipality": "徳島市",
+      "name": "徳島市立文化センター（旧施設）",
+      "aliases": [
+        "徳島市文化センター",
+        "徳島市立文化センター",
+        "徳島文化センター"
+      ],
+      "sources": [
+        "https://www.city.tokushima.tokushima.jp/smph/shisei/tokushima_shi/ayumi.html"
+      ],
+      "verification": "provisional-location",
+      "note": "1963年開館の旧施設。登録表記3種を暫定統合。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-060",
+      "prefecture": "香川県",
+      "municipality": "高松市",
+      "name": "DIME",
+      "aliases": [
+        "DIME"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-061",
+      "prefecture": "香川県",
+      "municipality": "高松市",
+      "name": "香川県県民ホール（レクザムホール・ホール指定なし）",
+      "aliases": [
+        "アルファあなぶきホール",
+        "香川県県民ホール",
+        "香川県民ホール"
+      ],
+      "sources": [
+        "https://www.pref.kagawa.lg.jp/yosan/koukoku/nr_hall2.html",
+        "https://www.anabuki.ne.jp/news/detail/135"
+      ],
+      "verification": "confirmed",
+      "note": "旧愛称アルファあなぶきホールを含む。大・小ホール明記とは区別。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-062",
+      "prefecture": "香川県",
+      "municipality": "高松市",
+      "name": "レクザムホール 大ホール（旧 グランドホール）",
+      "aliases": [
+        "アルファあなぶきホール・大ホール",
+        "レクザムホール 大ホール",
+        "香川県県民ホールグランドホール"
+      ],
+      "sources": [
+        "https://www.pref.kagawa.lg.jp/yosan/koukoku/nr_hall2.html",
+        "https://www.anabuki.ne.jp/news/detail/135"
+      ],
+      "verification": "provisional-location",
+      "note": "旧グランドホール表記は大ホールと暫定統合。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-063",
+      "prefecture": "香川県",
+      "municipality": "高松市",
+      "name": "香川県県民ホール 小ホール（旧 アルファあなぶきホール）",
+      "aliases": [
+        "アルファあなぶきホール小ホール"
+      ],
+      "sources": [
+        "https://www.pref.kagawa.lg.jp/yosan/koukoku/nr_hall2.html"
+      ],
+      "verification": "confirmed",
+      "note": "小ホール指定を維持。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-064",
+      "prefecture": "香川県",
+      "municipality": "さぬき市",
+      "name": "さぬき市野外音楽広場テアトロン",
+      "aliases": [
+        "さぬき市野外音楽広場テアトロン"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-065",
+      "prefecture": "香川県",
+      "municipality": "高松市",
+      "name": "サンポートホール高松",
+      "aliases": [
+        "サンポートホール高松"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-066",
+      "prefecture": "香川県",
+      "municipality": "高松市",
+      "name": "サンポートホール高松 大ホール",
+      "aliases": [
+        "サンポートホール高松 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-071",
+      "prefecture": "香川県",
+      "municipality": "高松市",
+      "name": "高松MONSTER",
+      "aliases": [
+        "高松MONSTER"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-072",
+      "prefecture": "香川県",
+      "municipality": "高松市",
+      "name": "高松市民会館（旧施設）",
+      "aliases": [
+        "高松市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "香川県県民ホールとは別施設。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-073",
+      "prefecture": "愛媛県",
+      "municipality": "松山市",
+      "name": "WStudioRED",
+      "aliases": [
+        "WstudioRED",
+        "松山WStudioRED"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "大文字小文字・地名表記差を暫定統合。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-074",
+      "prefecture": "愛媛県",
+      "municipality": "松山市",
+      "name": "愛媛県県民文化会館（ホール指定なし）",
+      "aliases": [
+        "愛媛県県民文化会館",
+        "愛媛県民文化会館"
+      ],
+      "sources": [
+        "https://www.kenbun.jp/"
+      ],
+      "verification": "confirmed",
+      "note": "県名表記差。メインホール明記とは区別。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-075",
+      "prefecture": "愛媛県",
+      "municipality": "松山市",
+      "name": "愛媛県県民文化会館 メインホール",
+      "aliases": [
+        "愛媛県県民文化会館メインホール"
+      ],
+      "sources": [
+        "https://www.kenbun.jp/"
+      ],
+      "verification": "confirmed",
+      "note": "メインホール指定を維持。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-078",
+      "prefecture": "愛媛県",
+      "municipality": "松山市",
+      "name": "松山市民会館",
+      "aliases": [
+        "松山市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-079",
+      "prefecture": "愛媛県",
+      "municipality": "松山市",
+      "name": "松山市民会館 大ホール",
+      "aliases": [
+        "松山市民会館 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-080",
+      "prefecture": "愛媛県",
+      "municipality": "松山市",
+      "name": "松山商科大学（旧名称）",
+      "aliases": [
+        "松山商科大"
+      ],
+      "sources": [
+        "https://www.matsuyama-u.ac.jp/guide/history/enkaku/"
+      ],
+      "verification": "provisional-location",
+      "note": "現松山大学。1980年の具体会場は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-081",
+      "prefecture": "高知県",
+      "municipality": "高知市",
+      "name": "CARAVAN SARY",
+      "aliases": [
+        "CARAVAN SARY"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-082",
+      "prefecture": "高知県",
+      "municipality": "高知市",
+      "name": "高知県立県民文化ホール（ホール指定なし）",
+      "aliases": [
+        "高知県民文化ホール"
+      ],
+      "sources": [
+        "https://www.kkb-hall.jp/"
+      ],
+      "verification": "confirmed",
+      "note": "オレンジホール明記の記録とは区別。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
+    },
+    {
+      "id": "jp-chugoku-shikoku-084",
+      "prefecture": "高知県",
+      "municipality": "高知市",
+      "name": "新来島高知重工ホール（高知県立県民文化ホール）オレンジホール",
+      "aliases": [
+        "新来島高知重工ホール（高知県立県民文化ホール）オレンジホール"
+      ],
+      "sources": [
+        "https://www.kkb-hall.jp/"
+      ],
+      "verification": "confirmed",
+      "note": "新愛称。オレンジホール指定を維持。 施設資料照合済み。個別公演の実施・ホール指定の確定を意味しない。"
     }
   ]
 }
