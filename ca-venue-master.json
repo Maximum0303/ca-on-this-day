@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-9",
+  "version": "3.8.4-10",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -2079,9 +2079,13 @@
       "aliases": [
         "赤坂BLITZ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.tbssw.co.jp/history/",
+        "https://www.oricon.co.jp/news/2161406/full/",
+        "https://akasaka.keizai.biz/headline/3358/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1996年開業、2003年までの初代赤坂BLITZ。港区赤坂。対象4記録は1997～1999年であり2008年再開の施設と区別。開閉館年は運営者の告知を引用した報道による。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-forum-unspecified",
@@ -2171,9 +2175,12 @@
       "aliases": [
         "SHIBUYA-AX"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.shibuya-ax.com/info.html",
+        "https://www.shibuya-ax.com/info/map.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2000年12月16日開業、2014年5月31日営業終了。東京都渋谷区神南。運営者の閉館告知と所在地案内を照合。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-zepp-tokyo",
@@ -2183,9 +2190,12 @@
       "aliases": [
         "Zepp Tokyo"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zepp.co.jp/news/4586/",
+        "https://eplus.jp/sf/venue/1350040"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1999年3月開業、2022年1月1日営業終了。東京都江東区青海。Zepp DiverCityとは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-fuchu",
@@ -3151,9 +3161,13 @@
       "aliases": [
         "横浜BLITZ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.cinra.net/index.php/news/2013-07-04-120921-php",
+        "https://news.mynavi.jp/article/20130711-a020/",
+        "https://tower.jp/article/news/2013/07/03/n12"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2004年11月開業、2013年10月14日営業終了。横浜市西区みなとみらい。赤坂BLITZとは別施設。運営者発表を報じた資料を照合。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-hamayu",
@@ -4546,9 +4560,13 @@
       "aliases": [
         "名鉄ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://kotobank.jp/word/%E5%90%8D%E9%89%84%E3%81%BB%E3%83%BC%E3%82%8B-3191039",
+        "https://www.nikkansports.com/entertainment/news/f-et-tp0-20150127-1427109.html",
+        "https://www.nagoyatv.com/news/?id=033010"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1957年7月開館、2015年3月閉館。名古屋市中村区の名鉄百貨店10階の旧劇場。開閉館・所在地は百科事典および運営者発表を報じた報道による。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-117",
@@ -5041,9 +5059,12 @@
       "aliases": [
         "Zepp Namba"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.osaka.lg.jp/toshikeikaku/page/0000390675.html",
+        "https://www.zepp.co.jp/hall/namba/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2012年開業。大阪市浪速区。旧Zepp Osakaから移転した別建物。Zepp Osaka Baysideとも別集計。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-040",
@@ -5053,9 +5074,11 @@
       "aliases": [
         "Zepp Osaka"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.osaka.lg.jp/toshikeikaku/page/0000390675.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1998年開業、2012年に浪速区へ移転しZepp Nambaとなった旧住之江区の施設。新施設とは別集計。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-041",
@@ -5097,9 +5120,12 @@
         "グランキューブ大阪",
         "グランキューブ大阪（大阪国際会議場）"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "施設名の別表記。ホール明記の記録とは区別。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.gco.co.jp/feature/",
+        "https://www.zenkoubun.jp/search/hall_0271828.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2000年4月1日開館。大阪市中之島の大阪府立国際会議場（グランキューブ大阪）。ホール未指定は施設単位としメインホール指定とは別集計。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-044",
@@ -5110,9 +5136,12 @@
         "グランキューブ大阪 メインホール",
         "大阪国際会議場（グランキューブ大阪）大ホール"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.gco.co.jp/feature/",
+        "https://www.zenkoubun.jp/search/hall_0271828.html"
+      ],
       "verification": "provisional-location",
-      "note": "メインホールと大ホールの表記差と推定。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "施設資料照合（2026-11-28）：2000年4月1日開館の大阪国際会議場内メインホール。施設資料にはメインホールの分割大ホールも記載されるため、登録名「大阪国際会議場（グランキューブ大阪）大ホール」とメインホールの厳密な同一性は未確認。既存集計と暫定区分を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-046",
@@ -5164,9 +5193,13 @@
       "aliases": [
         "なんばHatch"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.oud.co.jp/riverplace/about/",
+        "https://www.osaka-city-callcenter.jp/faq/detail.aspx?id=1198",
+        "https://spice.eplus.jp/articles/301580"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2002年開業。大阪市浪速区湊町の湊町リバープレイス内。屋外広場とは区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-050",
