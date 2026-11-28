@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-11",
+  "version": "3.8.4-12",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1414,9 +1414,12 @@
       "aliases": [
         "伊勢崎市民文化会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0100310.html",
+        "https://www.city.isesaki.lg.jp/soshiki/keizai/bunka/9862.html"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "施設資料照合（2026-11-28）：伊勢崎市文化会館は1981年4月1日開館。現愛称はメガネのイタガキ文化ホール伊勢崎。登録名「伊勢崎市民文化会館」との同一性を示す当時の資料は未確認。候補資料として追加し暫定区分と既存集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-kiryu",
@@ -1426,9 +1429,13 @@
       "aliases": [
         "桐生市市民文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0100320.html",
+        "https://www.city.kiryu.lg.jp/shisei/profile/1002964.html",
+        "https://www.kiryu-piif.jp/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1997年5月11日開館。桐生市。現愛称は美喜仁桐生文化会館。登録名を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-takasaki-bunka",
@@ -1567,9 +1574,13 @@
       "aliases": [
         "戸田市文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0110369.html",
+        "https://toda-zaidan.org/bunkakaikan/shisetsu_bk/",
+        "https://www.city.toda.saitama.jp/soshiki/194/bunka-sport-access-kaikan.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1981年1月14日開館。戸田市。施設単位の集計を維持しホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-lilia",
@@ -3015,9 +3026,12 @@
       "aliases": [
         "伊勢原市民文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0140522.html",
+        "https://www.city.isehara.kanagawa.jp/bunkakaikan/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1980年3月1日開館。伊勢原市。ホール未指定の記録は施設単位。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-green",
@@ -3055,9 +3069,13 @@
         "クラブチッタ川崎",
         "CLUB CITTA’ 川崎"
       ],
-      "sources": [],
+      "sources": [
+        "https://clubcitta.co.jp/index.php/institution",
+        "https://citta-ent.com/club_citta",
+        "https://kawasaki-city.art/art-spot/256/"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "施設資料照合（2026-11-28）：運営者資料では1988年開業、2002年1月リニューアルオープン。対象は1994年と2025年の記録で新旧施設にまたがる。単一建物として確定せず、川崎市の集計と暫定区分を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-zama",
@@ -3873,9 +3891,13 @@
       "aliases": [
         "高山市民文化会館 小ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.takayama-bunka.org/kaikan/shisetsu/",
+        "https://www.takayama-bunka.org/kaikan/goriyou/shiyoryokin/",
+        "https://www.city.takayama.lg.jp/shisetsu/1004141/1004142/1004265.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1982年11月1日開館。高山市民文化会館の小ホール。運営者の概要・設備案内で小ホールを確認。大ホールとは区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-055",
@@ -4847,9 +4869,13 @@
       "aliases": [
         "大津市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0250853.html",
+        "https://www.city.otsu.lg.jp/i/f/a/naka/kyoiku/1389176271529.html",
+        "https://www.otsu-kaikan.jp/faq/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1975年4月3日開館。大津市島の関。大・小ホールを備える施設として集計し、使用ホールは断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-021",
@@ -4965,9 +4991,12 @@
       "aliases": [
         "京都磔磔"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://takutaku.jp/",
+        "https://www.kyoto-artbox.jp/facilities/14912/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1974年開店。京都市下京区のライブハウス。公式サイトと京都の文化芸術情報サイトで施設名・所在地・創業年を照合。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-030",
@@ -5575,9 +5604,13 @@
         "チキンジョージ",
         "神戸チキンジョージ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "所在地・同一店舗の暫定分類。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.chicken-george.co.jp/1980/09/11/1/",
+        "https://www.fm-moov.com/shoukai/chicken_geroge.html",
+        "https://jocr.jp/raditopi/2022/03/26/418143/?detail-page=2"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1980年9月11日開店。震災等を経て2008年に現店舗で営業再開。対象4記録は2014年以降。神戸市中央区。旧店舗を同一建物とは扱わない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-081",
@@ -6771,9 +6804,12 @@
       "aliases": [
         "DRUM LOGOS"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.live-drum.com/sp/list.php?detail=logos",
+        "https://www.live-drum.com/kizai_logos.shtml"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：運営者公式の施設案内で福岡市中央区舞鶴1-8-25のDRUM LOGOSを確認。開業年・開催当時の個別資料は未確認。系列のDRUM Be-1等とは別集計。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-003",
