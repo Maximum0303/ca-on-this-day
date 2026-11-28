@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-38",
+  "version": "3.8.4-39",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -63,10 +63,11 @@
         "https://www.city.sapporo.jp/city/mayor/interview/text/2007/20070907/index.html",
         "https://sapporowalk.sakura.ne.jp/lost/2007/20071001/",
         "https://www.city.sapporo.jp/chuo/gaiyo/nenpyo.html",
-        "https://www.sapporo-shiminhall.org/hallguide/"
+        "https://www.sapporo-shiminhall.org/hallguide/",
+        "https://adeac.jp/sapporo-lib/texthtml/d100050/mp000050-100050/ht016020"
       ],
       "verification": "confirmed",
-      "note": "2007年閉館・解体。後継の札幌市民ホールとは別施設。\n1958年竣工。2007年3月閉館、同年解体。跡地の札幌市民ホールは別建物であり、同一施設として集計しない。\n旧所在地：札幌市中央区北1条西1丁目。1958年開館。跡地には現在の札幌市民ホール（カナモトホール）が立地するが、別建物として扱う。"
+      "note": "2007年閉館・解体。後継の札幌市民ホールとは別施設。\n1958年竣工。2007年3月閉館、同年解体。跡地の札幌市民ホールは別建物であり、同一施設として集計しない。\n旧所在地：札幌市中央区北1条西1丁目。1958年開館。跡地には現在の札幌市民ホール（カナモトホール）が立地するが、別建物として扱う。\n新札幌市史によると1958年7月開館、開館当時の客席1,592席。後継施設の客席数とは区別する。"
     },
     {
       "id": "jp-hokkaido-koseinenkin",
@@ -82,10 +83,12 @@
         "https://www.city.sapporo.jp/s362/155519.html",
         "https://www.callcenter.city.sapporo.jp/sapporo/cc/web/category121.html?offset=60",
         "https://www.city.sapporo.jp/kikaku/downtown/project/kita1nishi12.html",
-        "https://www.city.sapporo.jp/shimin/bunka/gaiyo/documents/r4bunkagyousei3.pdf"
+        "https://www.city.sapporo.jp/shimin/bunka/gaiyo/documents/r4bunkagyousei3.pdf",
+        "https://report.jbaudit.go.jp/org/h09/YOUSEI1/1997-h09-3129-0.htm",
+        "https://www.mhlw.go.jp/churoi/meirei_db/mei/pdf/m01776.pdf"
       ],
       "verification": "confirmed",
-      "note": "旧所在地：札幌市中央区北1条西12丁目街区。1971年から立地。2009年12月1日に施設全体を「さっぽろ芸術文化の館」に改称。2010年4月1日からホール部分の愛称は「ニトリ文化ホール」（閉館時の最終愛称）。客席2,300席。2018年9月末閉館、2020年1月から2022年6月まで解体工事。現存しない。札幌文化芸術劇場 hitaruとは別施設。登録表記「札幌厚生年金会館」はサイト管理者の確認に基づき同一施設として集計（2026-11-28）。\n跡地について札幌市は定期借地権による土地利用の公募プロポーザルを案内している。新施設の完成・開業は今回未確認。"
+      "note": "旧所在地：札幌市中央区北1条西12丁目街区。1971年から立地。2009年12月1日に施設全体を「さっぽろ芸術文化の館」に改称。2010年4月1日からホール部分の愛称は「ニトリ文化ホール」（閉館時の最終愛称）。客席2,300席。2018年9月末閉館、2020年1月から2022年6月まで解体工事。現存しない。札幌文化芸術劇場 hitaruとは別施設。登録表記「札幌厚生年金会館」はサイト管理者の確認に基づき同一施設として集計（2026-11-28）。\n跡地について札幌市は定期借地権による土地利用の公募プロポーザルを案内している。新施設の完成・開業は今回未確認。\n1971年9月開業（会計検査院の施設一覧）。北海道地方労働委員会命令書の公開テキストには1971年9月18日の開業と記載されるが、原本画像の再照合は保留。"
     },
     {
       "id": "jp-hokkaido-asahikawa-kokaido",
@@ -240,10 +243,11 @@
       ],
       "sources": [
         "https://www.zepp.co.jp/hall/sapporo/",
-        "https://www.zepp.co.jp/news/4586/"
+        "https://www.zepp.co.jp/news/4586/",
+        "https://www.zepp.co.jp/news/2565/"
       ],
       "verification": "confirmed",
-      "note": "1998年4月、Zeppの第1号施設として開業。\n収容人数：スタンディング時2,009人、椅子使用時723人（施設案内の標準構成。公演時の実際の収容人数とは別）。\n所在地：札幌市中央区南9条西4-4。"
+      "note": "1998年4月、Zeppの第1号施設として開業。\n収容人数：スタンディング時2,009人、椅子使用時723人（施設案内の標準構成。公演時の実際の収容人数とは別）。\n所在地：札幌市中央区南9条西4-4。\n運営者が2018年4月12日を開業20周年当日と案内していることから、開業日は1998年4月12日。"
     },
     {
       "id": "jp-hokkaido-sapporo-dome",
@@ -300,7 +304,7 @@
         "https://www.daiwahouse.com/about/release/group/20191017113122.html"
       ],
       "verification": "secondary",
-      "note": "北海道立産業共進会場。旧施設。\n旧所在地：札幌市豊平区月寒東3条11丁目1-1（二次資料）。月寒グリーンドームなどの旧愛称があり、2016年3月31日閉鎖。現存しない。\n二次資料による最終愛称：ケーズデンキ月寒ドーム（2014年4月21日～2016年3月31日）。北翔クロテック月寒ドームなどの愛称も使用された。正式施設名は北海道立産業共進会場。\n解体工事の施工実績は2018年11月竣工。跡地に複合商業施設「ブランチ札幌月寒」が2019年10月23日グランドオープンした。命名権の詳細は従来の二次資料確認区分を維持。"
+      "note": "北海道立産業共進会場。旧施設。\n旧所在地：札幌市豊平区月寒東3条11丁目1-1（二次資料）。月寒グリーンドームなどの旧愛称があり、2016年3月31日閉鎖。現存しない。\n二次資料による最終愛称：ケーズデンキ月寒ドーム（2014年4月21日～2016年3月31日）。北翔クロテック月寒ドームなどの愛称も使用された。正式施設名は北海道立産業共進会場。\n解体工事の施工実績は2018年11月竣工。跡地に複合商業施設「ブランチ札幌月寒」が2019年10月23日グランドオープンした。命名権の詳細は従来の二次資料確認区分を維持。\n2016年1月の報道資料によると、1972年7月に建物が設置され、2階固定席3,331人・1階仮設席2,500人。公演ごとの実収容人数ではない。施設の開業日・座席数は一次資料による確認待ち。"
     },
     {
       "id": "jp-hokkaido-crystal",
@@ -432,10 +436,12 @@
       ],
       "sources": [
         "https://nayoro-kankou.com/top/event/tesshi-festival/",
-        "https://www.gutabi.jp/event/detail/1238"
+        "https://www.gutabi.jp/event/detail/1238",
+        "https://chage.jp/information/live/detail-330.php",
+        "https://www.nayoro-kankou.com/nayorokankou_event_news/index.php/view/13"
       ],
       "verification": "confirmed",
-      "note": "てっし名寄まつりの記録に限定して照合。別の河川敷イベントには適用しない。",
+      "note": "てっし名寄まつりの記録に限定して照合。別の河川敷イベントには適用しない。\n2019年7月28日のChage公式告知および地元観光団体の当年告知では、名寄曙橋の下流側河川敷が会場。仮設会場のため固定席数・建物開館日を設定しない。ステージの座標は未確認。",
       "titleContains": "てっし名寄まつり"
     },
     {
