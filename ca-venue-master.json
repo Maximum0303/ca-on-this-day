@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-19",
+  "version": "3.8.4-20",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -4530,9 +4530,12 @@
       "aliases": [
         "IGアリーナ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.ig-arena.jp/news/2019/",
+        "https://www.ig-arena.jp/news/201/"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：2025年7月13日グランドオープン。旧愛知県体育館とは別施設。対象2件は開催予定であり開催済みとはしない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-084",
@@ -4559,9 +4562,11 @@
       "aliases": [
         "アートピアホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0230807.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1996年12月1日開館。名古屋市青少年文化センターのホール（愛称アートピア・ホール）。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-087",
@@ -4616,9 +4621,11 @@
       "aliases": [
         "メニコンシアターAoi"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://meniconart.or.jp/aoi/floorguide/"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：2023年4月開館、同年7月グランドオープン。名古屋市中区葵。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-091",
@@ -4642,9 +4649,12 @@
       "aliases": [
         "愛知勤労会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.kit.daas.jp/search_site/detailInfo.php?a_id=3518",
+        "https://kotobank.jp/word/%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%8B%A4%E5%8A%B4%E4%BC%9A%E9%A4%A8-691005"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：候補は愛知県勤労会館（名古屋市昭和区）。建築資料では1970年3月まで施工、二次資料では2010年3月閉館。開館日および登録名との同一性は追加確認待ち。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-093",
@@ -4654,9 +4664,12 @@
       "aliases": [
         "愛知県芸術劇場 コンサートホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0230759.html",
+        "https://www.zenkoubun.jp/support/renovation_qa/ans_40000.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1992年10月30日開館。コンサートホールは大・小ホールと別区分。2016年度から段階的改修。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-094",
@@ -4666,9 +4679,12 @@
       "aliases": [
         "愛知県芸術劇場 小ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0230759.html",
+        "https://www.zenkoubun.jp/support/renovation_qa/ans_40000.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1992年10月30日開館。小ホールは大ホール・コンサートホールと別区分。2016年度から段階的改修。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-095",
@@ -4693,9 +4709,12 @@
       "aliases": [
         "愛知県体育館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.pref.aichi.jp/press-release/aichikentaiikukan.html",
+        "https://www.pref.aichi.jp/press-release/taikukan-heikan.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1964年10月開場。2025年6月一般利用終了後も用途を限定して利用継続。2026年12月まで大会練習等に活用との県発表。一般利用終了と閉館を区別し、最終閉館日は未確定。IGアリーナとは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-097",
@@ -4705,9 +4724,11 @@
       "aliases": [
         "一宮市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0230769.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1974年5月1日開館。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-098",
@@ -4718,9 +4739,12 @@
         "刈谷市総合文化センター",
         "刈谷市総合文化センター 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "施設単位の暫定集計。大ホール明記の原記録は維持。"
+      "sources": [
+        "https://www.kariya-bunka.jp/about/outline/",
+        "https://www.kariya-bunka.jp/about/facilities/"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】施設単位の暫定集計。大ホール明記の原記録は維持。 ／ 施設資料照合（2026-11-28）：2010年4月開館。旧刈谷市民会館の愛称アイリスを継承した別施設。ホール未指定記録と大ホール指定記録の既存集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-100",
@@ -4801,9 +4825,11 @@
       "aliases": [
         "半田市福祉文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0230789.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1988年1月8日開館。愛称雁宿ホール。使用ホールは未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-106",
@@ -4854,9 +4880,12 @@
       "aliases": [
         "名古屋ブルーノート"
       ],
-      "sources": [],
+      "sources": [
+        "https://amass.jp/137000/",
+        "https://www.cinra.net/news/20200720-nagoyabluenote"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：2002年11月開業、2020年8月15日廃業との当時報道（店の告知を引用）。営業終了前の休業と廃業を区別。運営者原典未取得につき暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-114",
@@ -4992,9 +5021,12 @@
       "aliases": [
         "三重県文化会館中ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0240825.html",
+        "https://www.center-mie.or.jp/guide/bunka/detail/hall02.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：三重県総合文化センターは1994年10月7日開館。文化会館棟の中ホールを公式施設案内で確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-007",
@@ -5019,9 +5051,12 @@
         "四日市市文化会館 第1ホール",
         "四日市市文化会館 第一ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "第1と第一の表記差。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0240831.html",
+        "https://yonbun.com/facilities/overview/1st-hall/"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】第1と第一の表記差。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1982年8月1日開館。第1ホールを施設公式案内で確認。第一ホールは数字表記差。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-010",
@@ -5059,9 +5094,12 @@
       "aliases": [
         "鈴鹿市文化会館 けやきホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0240837.html",
+        "https://www.city.suzuka.lg.jp/shisei/shisetsu/1004346/1010343.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1988年4月24日開館。けやきホールを確認。現愛称ハヤシユナイテッド文化ホール鈴鹿。鈴鹿市民会館とは別。愛称開始日は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-013",
@@ -5086,9 +5124,12 @@
       "aliases": [
         "びわ湖ホール・大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0250851.html",
+        "https://www.biwako-hall.or.jp/news/renovation"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1998年9月5日開館。大ホールは中・小ホールと別区分。2026年7月1日から全館改修休館、2028年2月末まで予定（閉館ではない）。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-015",
@@ -5098,9 +5139,11 @@
       "aliases": [
         "近江八幡市文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0250856.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1979年5月21日開館。使用ホールは未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-016",
@@ -5110,9 +5153,12 @@
       "aliases": [
         "栗東芸術文化会館さきら大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0250878.html",
+        "https://www.sakira-ritto.net/about/hall_big/"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1999年10月1日開館。大ホールは中・小ホールと別区分。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-017",
@@ -5134,9 +5180,11 @@
       "aliases": [
         "守山市民ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0250862.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1986年11月23日開館。守山市市民文化会館。使用ホールは未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-019",
@@ -5146,9 +5194,11 @@
       "aliases": [
         "守山市民ホール 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0250862.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1986年11月23日開館。大ホールは小ホールと別区分。対象記録は開催予定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-020",
@@ -5226,9 +5276,11 @@
       "aliases": [
         "京都コンサートホール 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0260910.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1995年10月15日開館。大ホールはアンサンブルホールムラタと別区分。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-026",
@@ -5322,9 +5374,11 @@
       "aliases": [
         "舞鶴市総合文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0260892.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1983年11月1日開館。使用ホールは未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-033",
@@ -5375,9 +5429,13 @@
       "aliases": [
         "NHK大阪ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.nhk-osakahall.jp/",
+        "https://www.nihonsekkei.co.jp/projects/2028/",
+        "https://kotobank.jp/word/nhk%E5%A4%A7%E9%98%AA%E3%83%9B%E3%83%BC%E3%83%AB-697598"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：2001年開館（設計者資料・二次資料）。具体的開館日は未確定。NHK大阪放送会館・大阪歴史博物館との複合施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-037",
@@ -5525,9 +5583,13 @@
       "aliases": [
         "シアターBRAVA!"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.mbs.jp/brava/",
+        "https://www.mbs.jp/brava/10th/",
+        "https://mantan-web.jp/article/20160530dog00m200000000c.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1999年大阪MBS劇場として開館（当時報道）、2005年5月にシアターBRAVA!として再開。2016年5月29日同地で営業終了（MBS公式）。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-049",
@@ -5553,9 +5615,13 @@
       "aliases": [
         "ハイアットリージェンシー大阪"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://osakabay.keizai.biz/headline/1050/",
+        "https://ryukyushimpo.jp/kyodo/entry-1756987.html",
+        "https://www.princehotels.co.jp/press/230607_01/"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1994年6月開業（報道）。2023年6月に旧名称での営業終了、7月1日にグランドプリンスホテル大阪ベイとして開業（新運営者公式）。宴会場は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-051",
@@ -5619,9 +5685,11 @@
       "aliases": [
         "貝塚・コスモスシアター 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0270946.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1993年5月1日開館。貝塚市民文化会館（コスモスシアター）の大ホール。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-056",
@@ -5632,9 +5700,11 @@
         "岸和田市立浪切ホール 大ホール",
         "浪切ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "同施設の略称。ホール指定なしを含む。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0272108.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】同施設の略称。ホール指定なしを含む。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：2002年4月4日開館。大ホールの存在を確認。ホール未指定記録は断定せず既存集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-057",
@@ -5659,9 +5729,11 @@
       "aliases": [
         "堺市民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.sakai.lg.jp/kanko/bunka/bunka_kanren/geibunhall/koremadekeika/heikan.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1965年開館、2014年3月31日閉館（堺市公式）。建て替え後の施設とは区別。開館月日は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-059",
@@ -5823,9 +5895,12 @@
       "aliases": [
         "帝国ホテル大阪"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.imperialhotel.co.jp/about/history",
+        "https://www.imperialhotel.co.jp/osaka/message"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1996年3月15日開業。帝国ホテル東京とは別施設。宴会場は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-073",
@@ -5835,9 +5910,12 @@
       "aliases": [
         "帝国ホテル大阪 孔雀の間"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.imperialhotel.co.jp/about/history",
+        "https://www.imperialhotel.co.jp/osaka/banquet/room/kujaku"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：ホテルは1996年3月15日開業。孔雀の間を公式宴会場案内で確認。宴会場自体の開設日は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-074",
@@ -5847,9 +5925,11 @@
       "aliases": [
         "八尾市文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0270919.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1988年11月10日開館。愛称プリズムホール。使用ホールは未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-076",
@@ -5871,9 +5951,12 @@
       "aliases": [
         "箕面市立文化芸能劇場 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.minoh.lg.jp/katudou/openingivent.html",
+        "https://www.city.minoh.lg.jp/shisetsu/halltanto/bunka-geino.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：2021年8月1日開館。2025年5月1日から愛称東京建物 Brillia HALL 箕面。大ホールを確認。旧市民会館グリーンホールとは別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-079",
@@ -5988,9 +6071,12 @@
       "aliases": [
         "神戸朝日ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://asahibuilding.co.jp/hall.html",
+        "https://www.kobe-np.co.jp/news/society/202309/0016764867.shtml"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1994年開館（報道、運営会社資料の検索表示も参照）。開館月日は原文未取得のため未確定。映画館転用を経て2023年9月にホールとして再開（報道）。休館期間の正確な日付は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-088",
@@ -6031,9 +6117,11 @@
       "aliases": [
         "尼崎アルカイックホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0280959.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1982年7月10日開館。尼崎市総合文化センターのアルカイックホール。中ホールは1993年11月10日開館で別区分。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-092",
@@ -6076,9 +6164,11 @@
       "aliases": [
         "明石市立市民会館アワーズホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0280960.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1971年9月12日開館。愛称アワーズホール。使用ホールは未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-096",
@@ -6088,9 +6178,11 @@
       "aliases": [
         "明石市立市民会館アワーズホール大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0280960.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1971年9月12日開館。アワーズホールの大ホールは中ホールと別区分。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-097",
@@ -6112,9 +6204,11 @@
       "aliases": [
         "かしはら万葉ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0291029.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1996年7月1日開館。橿原市文化ホール（かしはら万葉ホール）。使用ホールは未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-099",
@@ -6124,9 +6218,11 @@
       "aliases": [
         "なら100年会館 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0291036.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1999年2月1日開館。大ホールは中ホールと別区分。2026年11月29日の記録は開催予定として維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-100",
@@ -6150,9 +6246,11 @@
       "aliases": [
         "大和高田さざんかホール大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0291031.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1996年9月6日開館。大和高田市文化会館（大和高田さざんかホール）。大ホール区分。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-102",
@@ -6203,9 +6301,11 @@
       "aliases": [
         "紀南文化会館 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0301042.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1984年6月18日開館。大ホールは小ホールと別区分。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-106",
@@ -6215,9 +6315,11 @@
       "aliases": [
         "和歌山県民文化会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0301040.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1970年11月2日開館。使用ホールは未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-107",
@@ -6227,9 +6329,11 @@
       "aliases": [
         "和歌山県民文化会館 大ホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0301040.html"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1970年11月2日開館。大ホールは小ホールと別区分。対象記録は開催予定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-108",
