@@ -1,5 +1,5 @@
 {
-  "version": "3.9.5",
+  "version": "3.9.6",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1141,25 +1141,34 @@
         "酒田市民会館"
       ],
       "sources": [
-        "https://kibou-hall.sakata.yamagata.jp/about/overview/"
+        "https://kibou-hall.sakata.yamagata.jp/about/overview/",
+        "https://www.nagata.co.jp/news/news0408.html"
       ],
       "verification": "confirmed",
-      "note": "対象は1984〜1989年。2004年開館の希望ホールとは別。"
+      "note": "対象は1984〜1989年。2004年開館の希望ホールとは別。\n運営者の建設経過によれば1962年5月12日から2004年2月29日までの旧施設で、2004年5月に解体工事完了。新会館の音響設計担当者による報告では旧会館1,100席。新会館は別敷地に建設され、2004年7月3日に希望ホールとして開館。旧施設の番地・座標・跡地利用は未確認。"
     },
     {
       "id": "jp-tohoku-yamagata-kenmin",
       "prefecture": "山形県",
       "municipality": "山形市",
-      "name": "山形県民会館（旧やまぎんホール）",
+      "name": "やまぎんホール（旧山形県県民会館）",
       "aliases": [
         "山形県民会館",
         "山形県県民会館"
       ],
       "sources": [
-        "https://kotobank.jp/word/%E5%B1%B1%E5%BD%A2%E7%9C%8C%E7%9C%8C%E6%B0%91%E4%BC%9A%E9%A4%A8-2627973"
+        "https://kotobank.jp/word/%E5%B1%B1%E5%BD%A2%E7%9C%8C%E7%9C%8C%E6%B0%91%E4%BC%9A%E9%A4%A8-2627973",
+        "https://www.pref.yamagata.jp/020077/bunkyo/bunka/shisetsu/kyuukenmin.html",
+        "https://cherry.yum-archives.net/yamagata-archive/nanoka/000-001-05185/",
+        "https://www.t-bunkyo.ac.jp/topics/event/2013/04/25_2/",
+        "https://www.pref.yamagata.jp/documents/19573/r5-kyukenminkaikan.pdf",
+        "https://www.city.yamagata-yamagata.lg.jp/bunkasports/geijyutsu/1006706/1011324/1013213.html",
+        "https://www.fnn.jp/articles/-/1108208",
+        "https://www.livehis.com/house/house_hall.html",
+        "https://dokokari.com/yamagata/%E5%B1%B1%E5%BD%A2%E7%9C%8C%E7%9C%8C%E6%B0%91%E4%BC%9A%E9%A4%A8/"
       ],
       "verification": "secondary",
-      "note": "旧施設。2019年閉館。やまぎん県民ホールとは別。"
+      "note": "旧施設。2019年閉館。やまぎん県民ホールとは別。\n旧所在地：山形市七日町3丁目1-23（二次資料）。県の沿革では1962年開館、山形アーカイブでは2019年11月末閉館。二次資料の大ホール定員は1,500席または1,503人で構成差は未確認。2013年4月1日に愛称「やまぎんホール」へ変更（当時の大学告知）。県の完成工事資料の公開テキストでは解体工期2022年6月～2023年10月。跡地には新山形市民会館を整備する計画（2026年9月の報道では2030年12月完成予定）。現在のやまぎん県民ホールとは別建物。旧建物の正確な代表位置は保留。"
     },
     {
       "id": "jp-tohoku-tsuruoka-old",
@@ -1170,10 +1179,15 @@
         "鶴岡市文化会館"
       ],
       "sources": [
-        "https://www.city.tsuruoka.yamagata.jp/bunka/bunka/bunkakaikan/bunkaseibikihonkeika/seibikihonsakutei.html"
+        "https://www.city.tsuruoka.yamagata.jp/bunka/bunka/bunkakaikan/bunkaseibikihonkeika/seibikihonsakutei.html",
+        "https://www.city.tsuruoka.yamagata.jp/bunka/bunka/bunkakaikan/bunkakihonzitusisetu/jisshisekkei-setsume.html",
+        "https://www.city.tsuruoka.lg.jp/bunka/bunka/bunkakaikan/bunkakanriuneizitusi/jisshikeikakusakutei.files/jisshikeikaku.pdf",
+        "https://www.city.tsuruoka.yamagata.jp/bunka/bunka/bunkakaikan/bunkakaitaikaitikuko/kaitaikouji.html",
+        "https://www.zenkoubun.jp/search/hall_0060183.html",
+        "https://tact-tsuruoka.jp/information"
       ],
       "verification": "confirmed",
-      "note": "1971年開館の旧施設。建て替え後とは別扱い。"
+      "note": "1971年開館の旧施設。建て替え後とは別扱い。\n旧所在地：鶴岡市馬場町11-60（市の改築設計説明会案内）。市の管理運営実施計画の公開テキストでは1971年5月開館、1,247席。2014年6月末までの予定で旧文化会館等を解体すると市が案内。新施設は旧会館等の敷地に整備され、全国公立文化施設協会では2018年3月18日開館。現在の荘銀タクト鶴岡とは別建物。旧施設の閉館日、解体実績の正確な完了日、旧建物代表位置は未確認。"
     },
     {
       "id": "jp-tohoku-yamagata-shimin",
@@ -1184,10 +1198,14 @@
         "山形市民会館"
       ],
       "sources": [
-        "https://www.city.yamagata-yamagata.lg.jp/shisetsu/bunkasports/1008032/1005882.html"
+        "https://www.city.yamagata-yamagata.lg.jp/shisetsu/bunkasports/1008032/1005882.html",
+        "https://www.zenkoubun.jp/search/hall_0060187.html",
+        "https://www.city.yamagata-yamagata.lg.jp/bunkasports/geijyutsu/1006706/1011324/1013213.html",
+        "https://www.fnn.jp/articles/-/1108208",
+        "https://www.bosai-map.com/shelters/yamagata/yamagata-city/30df59ccaa"
       ],
       "verification": "confirmed",
-      "note": "1973年開館。"
+      "note": "1973年開館。\n所在地：山形市香澄町2-9-45。1973年7月25日開館（全国公立文化施設協会）。大ホール1,202席、小ホール300人（移動席、市施設案内）。旧山形県県民会館跡地への移転建て替え事業を市が進めており、2026年9月の報道では新施設は2030年12月完成予定。新旧建物は別扱い。現施設の閉館日は未確認。代表位置（概略）：北緯38.24868、東経140.33291（指定避難所の二次地図資料、地図画像未照合）。"
     },
     {
       "id": "jp-tohoku-tendo",
@@ -1198,10 +1216,11 @@
         "天童市わくわくランド野外ステージ"
       ],
       "sources": [
-        "https://kosodate.pref.yamagata.jp/odekake/wakuwakuland"
+        "https://kosodate.pref.yamagata.jp/odekake/wakuwakuland",
+        "https://bussan-tendo.gr.jp/morina/"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：天童市鍬ノ町2丁目3番1号（わくわくランド全体の所在地、県子育て情報）。天童市観光物産協会によると道の駅天童温泉に隣接する広場内に野外ステージがある。広場の開設日・利用期間とステージの開設年月日は区別する。野外ステージ単独の開設日、収容人数、改修履歴、座標は未確認。道の駅や公園の代表座標は代用しない。"
     },
     {
       "id": "jp-tohoku-yamagata-new",
@@ -1214,10 +1233,16 @@
       ],
       "sources": [
         "https://www.gip-web.co.jp/hall",
-        "https://eplus.jp/sf/area/hokkaido-tohoku/yamagata"
+        "https://eplus.jp/sf/area/hokkaido-tohoku/yamagata",
+        "https://yamagata-bunka.jp/facility/",
+        "https://yamagata-bunka.jp/facility/hall.html",
+        "https://yamagata-bunka.jp/access/",
+        "https://www400.pref.yamagata.jp/020077/r6soubungeimeimeikoushin.html",
+        "https://www.pref.yamagata.jp/documents/44667/soubungeimeimeipuresu.pdf",
+        "https://mapfan.com/spots/SC3AH%2CJ%2CUM0"
       ],
       "verification": "confirmed",
-      "note": "旧県民会館とは別施設。"
+      "note": "旧県民会館とは別施設。\n所在地：山形市双葉町1-2-38。2020年5月開館（運営者施設ガイド）。大ホール2,001席（1階1,286席、2階329席、3階386席）。県の発表による現命名権契約は2025年4月1日～2030年3月31日。旧県民会館の愛称「やまぎんホール」とは区別する。施設代表位置（概略）：北緯38.248161、東経140.3252703（MapFan掲載座標、地図画像未照合）。"
     },
     {
       "id": "jp-tohoku-session",
@@ -1229,10 +1254,12 @@
       ],
       "sources": [
         "https://eplus.jp/sf/venue/9900060",
-        "https://mut.rip/venues/1252/"
+        "https://mut.rip/venues/1252/",
+        "https://www.tokyo-dancelife.com/club/yamagata/post_87.html",
+        "https://www.gip-web.co.jp/hall/detail/46"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：山形市東原町4-19-10（イープラス）。イープラス掲載定員250人、別の二次資料は立見200～250人。現行の運営者公式定員は未確認。ライブハウス単独の開業年月日・店舗の沿革・施設代表座標は未確認。音楽店の創業日をライブ会場の開業日と混同しない。"
     },
     {
       "id": "jp-tohoku-koriyama-old",
