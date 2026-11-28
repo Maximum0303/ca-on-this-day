@@ -1,5 +1,5 @@
 {
-  "version": "3.8.3-1",
+  "version": "3.8.3-1-fix1",
   "updated": "2026-11-28",
   "coverage": [
     "北海道"
@@ -26,28 +26,15 @@
       "name": "北海道厚生年金会館（旧ニトリ文化ホール）",
       "aliases": [
         "北海道厚生年金会館",
-        "ニトリ文化ホール"
+        "ニトリ文化ホール",
+        "札幌厚生年金会館"
       ],
       "sources": [
         "https://www.city.sapporo.jp/s362/155519.html",
         "https://www.callcenter.city.sapporo.jp/sapporo/cc/web/category121.html?offset=60"
       ],
       "verification": "confirmed",
-      "note": "2009年にさっぽろ芸術文化の館、2010年にホール愛称ニトリ文化ホール。hitaruとは別施設。"
-    },
-    {
-      "id": "jp-hokkaido-koseinenkin-pending",
-      "prefecture": "北海道",
-      "municipality": "札幌市",
-      "name": "札幌厚生年金会館（同一性確認待ち）",
-      "aliases": [
-        "札幌厚生年金会館"
-      ],
-      "sources": [
-        "https://www.city.sapporo.jp/s362/155519.html"
-      ],
-      "verification": "pending-alias",
-      "note": "北海道厚生年金会館と同一と考えられるが、登録表記そのものの裏付けが不足。所在地のみ採用し統合保留。"
+      "note": "2009年にさっぽろ芸術文化の館、2010年にホール愛称ニトリ文化ホール。hitaruとは別施設。 登録表記「札幌厚生年金会館」はサイト管理者の確認に基づき同一施設として集計（2026-11-28）。"
     },
     {
       "id": "jp-hokkaido-asahikawa-kokaido",
@@ -97,27 +84,14 @@
       "municipality": "釧路市",
       "name": "釧路市民文化会館",
       "aliases": [
-        "釧路市民文化会館"
-      ],
-      "sources": [
-        "https://www.city.kushiro.lg.jp/bunkasports/shougaigakushuu/1005719/1005720.html"
-      ],
-      "verification": "confirmed",
-      "note": "愛称：コーチャンフォー釧路文化ホール。"
-    },
-    {
-      "id": "jp-hokkaido-kushiro-pending",
-      "prefecture": "北海道",
-      "municipality": "釧路市",
-      "name": "釧路市文化会館（同一性確認待ち）",
-      "aliases": [
+        "釧路市民文化会館",
         "釧路市文化会館"
       ],
       "sources": [
         "https://www.city.kushiro.lg.jp/bunkasports/shougaigakushuu/1005719/1005720.html"
       ],
-      "verification": "pending-alias",
-      "note": "釧路市民文化会館と同一の可能性。登録表記の原典未確認のため統合保留。"
+      "verification": "confirmed",
+      "note": "愛称：コーチャンフォー釧路文化ホール。 登録表記「釧路市文化会館」はサイト管理者の確認に基づき同一施設として集計（2026-11-28）。"
     },
     {
       "id": "jp-hokkaido-makomanai",
