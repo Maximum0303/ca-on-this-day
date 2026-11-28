@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-35",
+  "version": "3.8.4-36",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -70,7 +70,7 @@
       "id": "jp-hokkaido-koseinenkin",
       "prefecture": "北海道",
       "municipality": "札幌市",
-      "name": "北海道厚生年金会館（旧ニトリ文化ホール）",
+      "name": "ニトリ文化ホール（旧北海道厚生年金会館）",
       "aliases": [
         "北海道厚生年金会館",
         "ニトリ文化ホール",
@@ -79,10 +79,11 @@
       "sources": [
         "https://www.city.sapporo.jp/s362/155519.html",
         "https://www.callcenter.city.sapporo.jp/sapporo/cc/web/category121.html?offset=60",
-        "https://www.city.sapporo.jp/kikaku/downtown/project/kita1nishi12.html"
+        "https://www.city.sapporo.jp/kikaku/downtown/project/kita1nishi12.html",
+        "https://www.city.sapporo.jp/shimin/bunka/gaiyo/documents/r4bunkagyousei3.pdf"
       ],
       "verification": "confirmed",
-      "note": "2009年にさっぽろ芸術文化の館、2010年にホール愛称ニトリ文化ホール。hitaruとは別施設。 登録表記「札幌厚生年金会館」はサイト管理者の確認に基づき同一施設として集計（2026-11-28）。\n旧所在地：札幌市中央区北1条西12丁目街区。1971年から立地。2009年に市が取得し改称、2018年9月閉館。2020年1月〜2022年6月に解体工事を実施。"
+      "note": "旧所在地：札幌市中央区北1条西12丁目街区。1971年から立地。2009年12月1日に施設全体を「さっぽろ芸術文化の館」に改称。2010年4月1日からホール部分の愛称は「ニトリ文化ホール」（閉館時の最終愛称）。客席2,300席。2018年9月末閉館、2020年1月から2022年6月まで解体工事。現存しない。札幌文化芸術劇場 hitaruとは別施設。登録表記「札幌厚生年金会館」はサイト管理者の確認に基づき同一施設として集計（2026-11-28）。"
     },
     {
       "id": "jp-hokkaido-asahikawa-kokaido",
@@ -103,55 +104,60 @@
       "id": "jp-hokkaido-hakodate",
       "prefecture": "北海道",
       "municipality": "函館市",
-      "name": "函館市民会館",
+      "name": "函館サーモン・まるなまホール（函館市民会館）",
       "aliases": [
         "函館市民会館"
       ],
       "sources": [
         "https://www.city.hakodate.hokkaido.jp/hakosuku-map/info/2025022700224/",
         "https://www.zenkoubun.jp/search/hall_0010004.html",
-        "https://www.city.hakodate.hokkaido.jp/docs/2014010800107/"
+        "https://www.city.hakodate.hokkaido.jp/docs/2014010800107/",
+        "https://www.city.hakodate.hokkaido.jp/docs/2025080800058/",
+        "https://www.city.hakodate.hokkaido.jp/docs/2026010500031/file_contents/0123-02.pdf"
       ],
       "verification": "confirmed",
-      "note": "愛称：函館サーモン・まるなまホール。\n1970年7月1日開館。耐震等改修のため2017年11月1日から休館し、2020年4月1日再開。"
+      "note": "愛称：函館サーモン・まるなまホール。\n1970年7月1日開館。耐震等改修のため2017年11月1日から休館し、2020年4月1日再開。\n所在地：函館市湯川町1丁目32番1号。大ホール固定席1,370席（車いす席12席を含む）。愛称契約期間：2026年2月1日～2030年3月31日。"
     },
     {
       "id": "jp-hokkaido-muroran",
       "prefecture": "北海道",
       "municipality": "室蘭市",
-      "name": "室蘭市文化センター",
+      "name": "室ガス文化センター（室蘭市文化センター）",
       "aliases": [
         "室蘭市文化センター"
       ],
       "sources": [
         "https://www.city.muroran.lg.jp/culture/?content=1481",
         "https://www.zenkoubun.jp/search/hall_0010005.html",
-        "https://www.kujiran.net/culture/info/index.html"
+        "https://www.kujiran.net/culture/info/index.html",
+        "https://www.city.muroran.lg.jp/culture/?content=2004"
       ],
       "verification": "confirmed",
-      "note": "室ガス文化センター。室蘭市市民会館とは別。\n所在地：室蘭市幸町6番23号。1964年11月3日開館。愛称スワン、室ガス文化センター。"
+      "note": "室ガス文化センター。室蘭市市民会館とは別。\n所在地：室蘭市幸町6番23号。1964年11月3日開館。愛称スワン、室ガス文化センター。\n現命名権契約期間：2023年4月1日～2027年3月31日。"
     },
     {
       "id": "jp-hokkaido-kushiro",
       "prefecture": "北海道",
       "municipality": "釧路市",
-      "name": "釧路市民文化会館",
+      "name": "コーチャンフォー釧路文化ホール（釧路市民文化会館）",
       "aliases": [
         "釧路市民文化会館",
         "釧路市文化会館"
       ],
       "sources": [
         "https://www.city.kushiro.lg.jp/bunkasports/shougaigakushuu/1005719/1005720.html",
-        "https://www.zenkoubun.jp/search/hall_0010025.html"
+        "https://www.zenkoubun.jp/search/hall_0010025.html",
+        "https://kushiro-bunka.or.jp/hall/overview.html",
+        "https://www.city.kushiro.lg.jp/sangyou/koukoku/1006778.html"
       ],
       "verification": "confirmed",
-      "note": "愛称：コーチャンフォー釧路文化ホール。 登録表記「釧路市文化会館」はサイト管理者の確認に基づき同一施設として集計（2026-11-28）。\n1979年11月3日開館。2018年9月に愛称「コーチャンフォー釧路文化ホール」を導入。"
+      "note": "愛称：コーチャンフォー釧路文化ホール。 登録表記「釧路市文化会館」はサイト管理者の確認に基づき同一施設として集計（2026-11-28）。\n1979年11月3日開館。2018年9月に愛称「コーチャンフォー釧路文化ホール」を導入。\n所在地：釧路市治水町12番10号。大ホール1,524席、小ホール372席。現愛称使用期間：2022年4月1日～2027年3月31日。"
     },
     {
       "id": "jp-hokkaido-makomanai",
       "prefecture": "北海道",
       "municipality": "札幌市",
-      "name": "真駒内アイスアリーナ",
+      "name": "真駒内セキスイハイムアイスアリーナ",
       "aliases": [
         "真駒内屋内競技場",
         "真駒内アイスアリーナ",
@@ -159,10 +165,13 @@
       ],
       "sources": [
         "https://www.pref.hokkaido.lg.jp/kn/tkn/kgs/homepage/makomanai-namingrights.html",
-        "https://cocospo.go.jp/facility/31602"
+        "https://cocospo.go.jp/facility/31602",
+        "https://www.city.sapporo.jp/s014/1738.html",
+        "https://makomanai-park.jp/icearena/access/",
+        "https://www.pref.hokkaido.lg.jp/sm/zsk/fm/namingrights/makomanai.html"
       ],
       "verification": "confirmed",
-      "note": "屋内競技場。屋外スタジアムとは別。\n北海道真駒内屋内競技場（真駒内セキスイハイムアイスアリーナ）。屋内スケート場としても使用される施設。"
+      "note": "屋内競技場。屋外スタジアムとは別。\n北海道真駒内屋内競技場（真駒内セキスイハイムアイスアリーナ）。屋内スケート場としても使用される施設。\n所在地：札幌市南区真駒内公園1-1。施設案内上の名称は真駒内セキスイハイムアイスアリーナ。北海道の命名権契約案内（2025年4月1日～2028年3月31日）には「真駒内セキスイハイムアリーナ」と表記されるが、屋内競技場の同一施設。"
     },
     {
       "id": "jp-hokkaido-obihiro-hall",
@@ -175,10 +184,12 @@
       "sources": [
         "https://www.city.obihiro.hokkaido.jp/shisei/shisetsu/bunka/1001720.html",
         "https://www.zenkoubun.jp/search/hall_0010036.html",
-        "https://obihiro140.jp/history_heisei_01.php"
+        "https://obihiro140.jp/history_heisei_01.php",
+        "https://www.obihiro-foundation.jp/shisetsu/bunkahall/",
+        "https://www.city.obihiro.hokkaido.jp/sangyo/jigyosha/boshu/1005776.html"
       ],
       "verification": "confirmed",
-      "note": "1989年1月10日開館。"
+      "note": "1989年1月10日開館。\n所在地：帯広市西5条南11丁目48番地2。大ホール1,540席、小ホール512席。"
     },
     {
       "id": "jp-hokkaido-asahikawa-hall",
@@ -194,7 +205,7 @@
         "https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/355/d080271.html"
       ],
       "verification": "confirmed",
-      "note": "所在地：旭川市7条通9丁目。1975年2月2日開館。市は老朽化に伴う建替えを検討中（2026年11月28日確認）。"
+      "note": "所在地：旭川市7条通9丁目。1975年2月2日開館。市は老朽化に伴う建替えを検討中（2026年11月28日確認）。\n大ホール1,546席・車いす席2席。"
     },
     {
       "id": "jp-hokkaido-rsr",
@@ -225,54 +236,59 @@
         "https://www.zepp.co.jp/news/4586/"
       ],
       "verification": "confirmed",
-      "note": "1998年4月、Zeppの第1号施設として開業。"
+      "note": "1998年4月、Zeppの第1号施設として開業。\n収容人数：スタンディング時2,009人、椅子使用時723人（施設案内の標準構成。公演時の実際の収容人数とは別）。"
     },
     {
       "id": "jp-hokkaido-sapporo-dome",
       "prefecture": "北海道",
       "municipality": "札幌市",
-      "name": "札幌ドーム",
+      "name": "大和ハウス プレミストドーム（札幌ドーム）",
       "aliases": [
         "札幌ドーム"
       ],
       "sources": [
         "https://www.sapporo-dome.co.jp/access/bus/",
         "https://www.sapporo-dome.co.jp/dome/",
-        "https://www.sapporo-dome.co.jp/information/2024/07/31/14150/"
+        "https://www.sapporo-dome.co.jp/information/2024/07/31/14150/",
+        "https://www.sapporo-dome.co.jp/information/2024/07/19/14012/",
+        "https://prtimes.jp/main/html/rd/p/000000205.000054373.html"
       ],
       "verification": "confirmed",
-      "note": "大和ハウス プレミストドーム。\n2001年6月2日開業。2024年8月1日から愛称「大和ハウス プレミストドーム」。"
+      "note": "大和ハウス プレミストドーム。\n2001年6月2日開業。2024年8月1日から愛称「大和ハウス プレミストドーム」。\n命名権契約期間：2024年8月1日～2028年7月31日。札幌ドームは正式施設名。"
     },
     {
       "id": "jp-hokkaido-kitami",
       "prefecture": "北海道",
       "municipality": "北見市",
-      "name": "北見市民会館",
+      "name": "北ガス市民ホール（北見市民会館）",
       "aliases": [
         "北見市民会館"
       ],
       "sources": [
         "https://www.kitami-hall.jp/shimin-hall/cityhall/",
         "https://kitamikanko.jp/spot/1219/",
-        "https://www.city.kitami.lg.jp/administration/detail.php?content=9219"
+        "https://www.city.kitami.lg.jp/administration/detail.php?content=9219",
+        "https://www.hokkaido-gas.co.jp/news/20250523"
       ],
       "verification": "confirmed",
-      "note": "愛称：北ガス市民ホール。\n1972年開館。北見芸術文化ホールとは別施設。"
+      "note": "愛称：北ガス市民ホール。\n1972年開館。北見芸術文化ホールとは別施設。\n所在地：北見市常盤町2丁目1-10。命名権契約期間：2025年6月1日～2031年3月31日。"
     },
     {
       "id": "jp-hokkaido-tsukisamu",
       "prefecture": "北海道",
       "municipality": "札幌市",
-      "name": "月寒アルファコートドーム（旧月寒ドーム）",
+      "name": "ケーズデンキ月寒ドーム（旧月寒アルファコートドーム）",
       "aliases": [
         "月寒アルファコートドーム"
       ],
       "sources": [
         "https://www.consadeconsa.com/address/address-tsukisamu-alphacourt-dome/",
-        "https://www.consadeconsa.com/address/address-hokusho-kurotech-tsukisamu-dome/"
+        "https://www.consadeconsa.com/address/address-hokusho-kurotech-tsukisamu-dome/",
+        "https://tokukita.jp/naming-rights/hokkaido-naming-rights.html",
+        "https://hre-net.com/keizai/keizaisougou/17487/"
       ],
       "verification": "secondary",
-      "note": "北海道立産業共進会場。旧施設。\n旧所在地：札幌市豊平区月寒東3条11丁目1-1（二次資料）。月寒グリーンドームなどの旧愛称があり、2016年3月31日閉鎖。現存しない。"
+      "note": "北海道立産業共進会場。旧施設。\n旧所在地：札幌市豊平区月寒東3条11丁目1-1（二次資料）。月寒グリーンドームなどの旧愛称があり、2016年3月31日閉鎖。現存しない。\n二次資料による最終愛称：ケーズデンキ月寒ドーム（2014年4月21日～2016年3月31日）。北翔クロテック月寒ドームなどの愛称も使用された。正式施設名は北海道立産業共進会場。"
     },
     {
       "id": "jp-hokkaido-crystal",
@@ -413,7 +429,7 @@
         "https://www.sapporo-community-plaza.jp/event_openingseries.html"
       ],
       "verification": "confirmed",
-      "note": "2018年10月開館。北海道厚生年金会館・旧ニトリ文化ホールとは別施設。"
+      "note": "2018年10月開館。ニトリ文化ホール（旧北海道厚生年金会館）とは別施設。"
     },
     {
       "id": "jp-hokkaido-mega",
