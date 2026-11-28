@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-23",
+  "version": "3.8.4-24",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1304,9 +1304,13 @@
       "aliases": [
         "作新学院女子短大"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.sakushin.ac.jp/",
+        "https://www.sakushin.ac.jp/about/history/",
+        "https://www.sakudai-obog.com/shimotsuki/"
+      ],
       "verification": "provisional-location",
-      "note": "当時の校地の詳細未照合 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】当時の校地の詳細未照合 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1967年一の沢に開学、1999年改称、2000年清原キャンパスへ移転（学院・同窓会公式）。学内公演の場所は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-utsunomiya-bunka",
@@ -1349,9 +1353,11 @@
       "aliases": [
         "日光霧降高原"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.nikko-kankou.org/spot/8"
+      ],
       "verification": "provisional-location",
-      "note": "具体的な公演場所未確認 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】具体的な公演場所未確認 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：日光市の観光公式で高原の所在地を確認。公演時の具体的な敷地・特設舞台は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-tochigi-sogo",
@@ -1577,9 +1583,13 @@
       "aliases": [
         "熊谷市民会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.city.kumagaya.lg.jp/shisei/shisetsu/1003465/1003501.html",
+        "https://www.city.kumagaya.lg.jp/shisetsu/bunka/sisetuannai.html",
+        "https://www.saf.or.jp/about/history/"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：市民ホール、文化センター文化会館、旧熊谷会館の資料あり。登録名との同一性を確認できず保留。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-saitama-bunka",
@@ -1605,9 +1615,12 @@
       "aliases": [
         "川口市民会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://k-shimin-onkyo.pecori.jp/ayumi.html",
+        "https://www.city.kawaguchi.lg.jp/material/files/group/184/dainishou.pdf"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：市の資料で閉館済みと確認。地元音楽協会は1964年開館と記載するが、開閉館時期の原典は未確定。リリアと区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-omiya-sonic",
@@ -2086,9 +2099,12 @@
       "aliases": [
         "星薬科大"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.hoshi.ac.jp/gaiyou/enkaku/",
+        "https://search.keinet.ne.jp/2280"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：大学公式沿革と現在の荏原の所在地資料を確認。公演時の校地・使用施設は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-koseinenkin",
@@ -2801,9 +2817,11 @@
       "aliases": [
         "明治神宮"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.meijijingu.or.jp/about/"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1920年創建、渋谷区代々木（神宮公式）。境内の具体的な公演場所は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-itscom",
@@ -2965,9 +2983,11 @@
       "aliases": [
         "成美教育文化会館 成美グリーンホール"
       ],
-      "sources": [],
+      "sources": [
+        "https://syuurenkai.or.jp/s-seibi/u_view.php"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：運営者の予約案内に成美グリーンホールを確認。開館時期と公演時点の施設資料は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-bauhaus",
@@ -3023,9 +3043,12 @@
       "aliases": [
         "上野水上野外音楽堂"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.kensetsu.metro.tokyo.lg.jp/jimusho/toubuk/ueno/sisetu",
+        "https://t-navi.city.taito.lg.jp/spot/1025"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：東京都・台東区観光案内で上野恩賜公園野外ステージ（水上音楽堂）を確認。登録名の表記と旧施設の開場・改築時期は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-shibahiro",
@@ -3127,9 +3150,12 @@
       "aliases": [
         "上智短期大"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.sophia.ac.jp/static/archives/jrc/",
+        "https://www.sophia.ac.jp/jpn/article/news/topics/tankidaigakubu260919/"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1973年秦野市で開学（大学公式アーカイブ）。2026年9月19日閉学式を実施。学内の使用会場は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-seishonen",
@@ -3187,9 +3213,11 @@
       "aliases": [
         "相模女子大"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.sagami-wu.ac.jp/university/outline/"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1946年に相模原の現校地に移転（大学公式）。学内公演の使用施設は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-hiratsuka",
@@ -3199,9 +3227,12 @@
       "aliases": [
         "平塚市民センター"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.city.hiratsuka.kanagawa.jp/common/000038725.pdf",
+        "https://www.city.hiratsuka.kanagawa.jp/shisetu/page-c_00219.html"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1962年7月開館、2018年12月閉館（市施設白書・市公式）。2022年開館のひらしん平塚文化芸術ホールとは別施設。月内の日付は未確認。 市資料のテキスト取得済み、原ページ画像未取得のため暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-yokohama-buntai",
@@ -3228,9 +3259,12 @@
         "川崎産業文化会館",
         "川崎産業会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.city.kawasaki.jp/880/cmsfiles/contents/0000097/97156/300320gian82.pdf",
+        "https://www.jstage.jst.go.jp/article/jssace/58/0/58_33/_article/-char/ja/"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 登録表記「川崎産業会館」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 登録表記「川崎産業会館」は管理者判断により同一施設として集計（2026-11-28）。別表記の原典確認は未実施。 ／ 施設資料照合（2026-11-28）：市資料で1967年4月産業文化会館開館、1990年教育文化会館に改称、2018年3月大ホール閉鎖。登録別名「川崎産業会館」との公演当時の同一性は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-odawara",
@@ -3384,9 +3418,12 @@
       "aliases": [
         "慶應義塾大学 日吉キャンパス 日吉記念館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.keio.ac.jp/ja/keiotimes/index-150/",
+        "https://www.keio.ac.jp/ja/about/public-relations/mita-hyoron/new-encyclopedia/202106-1/"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：旧記念館は1958年建設、新記念館は2020年3月竣工（大学公式）。開催時の建物の区別を要確認。集計は維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-oiso",
@@ -3396,9 +3433,11 @@
       "aliases": [
         "大磯港内県営駐車場 特設ステージ"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.town.oiso.kanagawa.jp/sangyo/doro/1359443393477.html"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：町公式で大磯港と現在の町営駐車場を確認。開催時の県営駐車場と特設舞台の同一性は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-yokosuka",
@@ -3484,9 +3523,12 @@
       "aliases": [
         "鶴岡八幡宮"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.city.kamakura.kanagawa.jp/keikan/100sen/rekisi/40.html",
+        "https://www.hachimangu.or.jp/knowledge/"
+      ],
       "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：鎌倉市資料で1180年の現在地への移転を確認。公演時の境内使用区分は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-yokohama-blitz",
@@ -4072,9 +4114,13 @@
       "aliases": [
         "桜座"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.sakuraza.jp/old.htm",
+        "https://www.sakuraza.jp/past.htm",
+        "https://www.livewalker.com/web/detail/18157"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：現施設は2005年開館（施設資料・公式公演アーカイブ）。旧櫻座は1930年に劇場としての営業終了。旧施設とは別。開館月日は未確定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-038",
@@ -4232,9 +4278,12 @@
       "aliases": [
         "CLUB-G"
       ],
-      "sources": [],
+      "sources": [
+        "https://eplus.jp/sf/venue/5000080",
+        "https://plaza.rakuten.co.jp/noriben/diary/200606170000/"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：販売元の施設案内および2006年の公演記録で確認。開業時期の運営者資料は未取得。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-053",
@@ -4456,9 +4505,12 @@
       "aliases": [
         "三島市公会堂"
       ],
-      "sources": [],
+      "sources": [
+        "https://openphoto.app/photo/2628",
+        "https://openphoto.app/photo/2663"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：市の写真資料由来の産業物産館（公会堂）を確認したが、登録公演当時の建物・開閉館時期を特定できず保留。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-070",
@@ -4542,9 +4594,12 @@
       "aliases": [
         "窓枠Cafe AOZORA"
       ],
-      "sources": [],
+      "sources": [
+        "https://hamamatsu.keizai.biz/headline/257/",
+        "https://www.livewalker.com/web/detail/7783"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：2010年11月1日開業とみられる当時の報道があり、窓枠2階のカフェを確認。運営者資料で開業年を再確認するまで暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-077",
@@ -4554,9 +4609,12 @@
       "aliases": [
         "島田工業高校（島田市民会館）"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.city.shimada.shizuoka.jp/gyosei-docs/shiminkaikan_ppp_research.html",
+        "https://www.city.shimada.shizuoka.jp/gyosei-docs/shiyakusyosyuuhenseibi_kihonkousou_sakutei.html"
+      ],
       "verification": "provisional-location",
-      "note": "括弧内の会場所在地で分類。"
+      "note": "【従前の備考】括弧内の会場所在地で分類。 ／ 施設資料照合（2026-11-28）：市公式で旧島田市民会館は2016年度に解体と確認。高校主催公演の使用施設・開閉館年月日の追加照合が必要。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-078",
@@ -4686,9 +4744,13 @@
       "aliases": [
         "ウェスティンナゴヤキャッスル"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.castle.co.jp/pdf/20170518_castle.pdf",
+        "https://www.traicy.com/posts/20200915180513/",
+        "https://meieki.keizai.biz/headline/438/"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：旧ホテルは1969年10月5日開業、2018年2月1日ホテルナゴヤキャッスルに改称（運営者発表）、2020年9月30日営業終了と当時報道。ウェスティン名の開始時期は資料に相違があり、建物の営業期間のみ検査。宴会場未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-088",
@@ -4949,9 +5011,12 @@
       "aliases": [
         "豊橋勤労会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.city.toyohashi.lg.jp/17350.htm",
+        "https://www.pref.aichi.jp/soshiki/somubu-somu/0000047801.html"
+      ],
       "verification": "provisional-location",
-      "note": "豊橋勤労福祉会館との同一性は保留。"
+      "note": "【従前の備考】豊橋勤労福祉会館との同一性は保留。 ／ 施設資料照合（2026-11-28）：市・県の資料で豊橋勤労福祉会館を確認したが、登録名「豊橋勤労会館」と同一施設か未確認。別IDを維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-107",
@@ -4961,9 +5026,13 @@
       "aliases": [
         "豊橋勤労福祉会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "豊橋勤労会館との同一性は保留。"
+      "sources": [
+        "https://www.city.toyohashi.lg.jp/17350.htm",
+        "https://www.pref.aichi.jp/soshiki/somubu-somu/0000047801.html",
+        "https://www.axona-aichi.com/projects/archives/382"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】豊橋勤労会館との同一性は保留。 ／ 施設資料照合（2026-11-28）：1976年7月開館（市の歴史）、県施設として2012年4月1日廃止、改修後2013年4月アイプラザ豊橋開館（設備会社資料）。旧名称の使用終了日と閉館期間は未確定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-108",
@@ -5019,9 +5088,11 @@
       "aliases": [
         "名古屋城深井丸"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.nagoyajo.city.nagoya.jp/learn/construction/ofukemaru/"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：名古屋城公式の御深井丸を確認。登録名の表記と公演場所の原典は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-116",
@@ -5047,9 +5118,11 @@
       "aliases": [
         "矢場公園"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.kaigo-wel.city.nagoya.jp/view/wel/barrierfree/426/"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "note": "【従前の備考】市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：名古屋市の施設案内で栄三丁目の所在地を確認。開園時期と公演時の具体的な場所は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-001",
@@ -5059,9 +5132,12 @@
       "aliases": [
         "ハートプラザみその"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.city.ise.mie.jp/shisei/information/shisetsu/kenko_shisetsu/1002737.html",
+        "https://ise-shakyo.jp/service/misono.html"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：市・社会福祉協議会公式で御薗町長屋の施設と多目的ホールを確認。開館時期・公演時のホール区分は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-002",
@@ -5278,9 +5354,11 @@
       "aliases": [
         "滋賀B-FLAT"
       ],
-      "sources": [],
+      "sources": [
+        "https://eplus.jp/sf/venue/5200120"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：販売元の会場案内で施設を確認。開業・移転時期の運営者資料は未取得。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-018",
@@ -5334,9 +5412,11 @@
       "aliases": [
         "長浜市民会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.city.nagahama.lg.jp/cmsfiles/contents/0000011/11253/art-vision.pdf"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：市の文化芸術ビジョンに1965年建設、2008年老朽化により閉館と記載。長浜文化芸術会館とは別施設。開館日・閉館日は未確定。 市資料のテキスト取得済み、原ページ画像未取得のため暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-022",
@@ -5346,9 +5426,12 @@
       "aliases": [
         "比叡山延暦寺 大講堂"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "延暦寺の所在地は大津市。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.hieizan.or.jp/grounds/toudou.html",
+        "https://tabi.jtb.or.jp/res/250029-/"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】延暦寺の所在地は大津市。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：現大講堂は1964年に山麓坂本の讃仏堂を移築（寺院公式）。旧大講堂は1956年焼失との資料。移築月日は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-023",
@@ -5472,9 +5555,12 @@
       "aliases": [
         "梅小路公園"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://ja.kyoto.travel/tourism/single01.php?category_id=2&tourism_id=1170",
+        "https://www.kyoto-ga.jp/umekouji/introduction/"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：1995年4月開園（京都市公式観光案内・管理者公式）。公園内の公演区画は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-032",
@@ -5498,9 +5584,11 @@
       "aliases": [
         "平安神宮特設ステージ"
       ],
-      "sources": [],
+      "sources": [
+        "https://motherbase.co.jp/event/heian_chevon/"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：神宮での奉納公演案内を確認したが、登録公演当時の特設舞台の場所・設営期間は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-034",
@@ -5510,9 +5598,13 @@
       "aliases": [
         "ATCホール"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.atc-co.com/office/facilities/",
+        "https://prtimes.jp/main/html/rd/p/000000052.000068158.html",
+        "https://www.pref.osaka.lg.jp/documents/11152/ref220present.pdf"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：運営者発表では1994年開業、府資料ではホール開業年1995年。複合施設全体は1994年4月開業。年の差異が解消するまで暫定維持。2024年改修の発表あり。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-035",
@@ -5977,9 +6069,12 @@
       "aliases": [
         "大阪城西の丸庭園"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.osakacastlepark.jp/articles/detail.html?id=3",
+        "https://www.osaka-city-callcenter.jp/faq/detail.aspx?id=684"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：大阪城公園の公式案内で西の丸庭園を確認。庭園の開園時期・公演時の区画は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-070",
@@ -5989,9 +6084,12 @@
       "aliases": [
         "大阪南港WTCオープンエアスタジアム"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.glay.co.jp/news/list/7/60/",
+        "https://www.kansai-totsu.com/then/index.html"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：他出演者の公式年譜と映像制作会社の沿革に施設名を確認。設営・廃止時期、登録公演当時の詳細は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-071",
@@ -6059,9 +6157,12 @@
       "aliases": [
         "万博記念公園 もみじ川芝生広場"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.expo70-park.jp/info/72497/",
+        "https://www.expo70-park.jp/facility/reserve/nature-10/"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：公園管理者の公式案内で広場を確認。広場の供用開始時期、公演時の区画は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-077",
@@ -6312,9 +6413,11 @@
       "aliases": [
         "EVANS CASTLE HALL"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://evans-kingdom.com/hall/about/"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：2019年8月31日開業、同年8月竣工（運営者公式）。奈良市三条町553番地。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-098",
@@ -6395,9 +6498,13 @@
       "aliases": [
         "奈良市平城宮跡"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.pref.nara.lg.jp/n153/27838.html",
+        "https://www.pref.nara.lg.jp/n153/25286.html",
+        "https://www.kkr.mlit.go.jp/asuka/about.html"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：国・県公式で特別史跡と公園整備を確認。2018年3月24日の一部公園開園を史跡全体の開場日とはしない。公演区画未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-104",
@@ -6550,9 +6657,12 @@
       "aliases": [
         "出雲APOLLO"
       ],
-      "sources": [],
+      "sources": [
+        "https://eplus.jp/sf/venue/6930000",
+        "https://spot.ragnet.co.jp/chugoku-shikoku-music-studio/2"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：販売元の施設案内と2005年開業とする二次資料を確認。運営者による開業資料は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-008",
@@ -6618,9 +6728,12 @@
       "aliases": [
         "CRAZYMAMA KINGDOM"
       ],
-      "sources": [],
+      "sources": [
+        "https://banquetunion.com/kingdom/schedule",
+        "https://livehouseguide.hatenablog.com/entry/20130308/1362726063"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：運営者公式スケジュールを確認。2007年4月開業との二次資料はあるが運営者の開業資料は未取得。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-014",
@@ -6718,9 +6831,12 @@
       "aliases": [
         "能楽堂ホールtenjin9"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://tenjin9rsk.jp/",
+        "https://tenjin9rsk.jp/about_use"
+      ],
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：2020年10月開業（運営者公式）。放送事業開始の2021年6月6日とは区別。開業日は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-021",
@@ -6730,9 +6846,13 @@
       "aliases": [
         "BLUE LIVE HIROSHIMA"
       ],
-      "sources": [],
+      "sources": [
+        "https://archive.hfm.jp/blog/live_tribe/2011/08/blue_live_2/",
+        "https://www.livewalker.com/web/detail/12399",
+        "https://tabelog.com/hiroshima/A3401/A340102/34023595/"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：2011年8月29日に開業前の地元放送局取材、2011年9月5日開業との施設資料あり。運営者による正確な開閉業日は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-022",
@@ -6760,9 +6880,12 @@
         "NTTクレドホール",
         "広島・NTTクレドホール"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.hiroshimacvb.jp/venues-accomodation/36.html",
+        "https://dive-hiroshima.com/explore/3404/"
+      ],
       "verification": "provisional-location",
-      "note": "地名の有無のみ。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】地名の有無のみ。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：広島観光コンベンションビューローと観光公式で基町クレド・パセーラ11階の施設を確認。ホール開館時期は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-024",
@@ -6860,9 +6983,11 @@
       "aliases": [
         "広島・観音マリーナ"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.kanon-marina.co.jp/"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：運営者公式の施設を確認。公演当時の特設会場と供用開始時期の詳細は未確定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-033",
@@ -6951,9 +7076,12 @@
       "aliases": [
         "広島文化女子短大"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.hbg.ac.jp/info/foundation.html",
+        "https://www.hbg.ac.jp/docs/students/hhoc_2026/pageindices/index6.html"
+      ],
       "verification": "provisional-location",
-      "note": "広島市の旧短大校地と暫定分類。公演校地は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】広島市の旧短大校地と暫定分類。公演校地は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：大学公式沿革に設置と1999年の広島文化短期大学への改称を確認。公演当時の校地・会場は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-043",
@@ -7145,9 +7273,12 @@
       "aliases": [
         "DIME"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.dime-dime.com/index-pc.html",
+        "https://takamatsu.keizai.biz/headline/456/"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：2022年3月26日移転（運営者公式）、旧店舗は同年3月21日までとの当時報道。公演時点の新旧店舗を区別する必要があるため保留。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-061",
@@ -7205,9 +7336,12 @@
       "aliases": [
         "さぬき市野外音楽広場テアトロン"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.city.sanuki.lg.jp/soshiki/hishokoho/gyomu/2/6/2287.html",
+        "https://www.city.sanuki.lg.jp/soshiki/shokokanko/gyomu/3/6/2175.html"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：市公式で多目的野外劇場と施設名を確認。開場年月日の資料は未取得。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-065",
