@@ -104323,7 +104323,33 @@
           "url": "https://www.fellows.tokyo/news/detail/799"
         }
       ]
+    },
+    {
+      "id": "aska-20270320-hy-sky-fes-2027",
+      "date": "2027-03-20",
+      "artist": "ASKA",
+      "category": "live",
+      "title": "HY SKY Fes 2027",
+      "prefecture": "沖縄県",
+      "venue": "沖縄県総合運動公園 多目的広場",
+      "status": "scheduled",
+      "verification": "primary",
+      "note": "2026年11月28日公式発表。3月19日は前夜祭、20日はDay1、21日はDay2。ASKAは3月20日（Day1）のみ出演予定。発表時点でチケット先行販売中。",
+      "sources": [
+        {
+          "label": "ASKA公式サイト",
+          "url": "https://www.fellows.tokyo/news/detail/812"
+        },
+        {
+          "label": "イベント公式サイト",
+          "url": "https://skyfes.net/"
+        },
+        {
+          "label": "イベント公式チケット情報",
+          "url": "https://skyfes.net/contents/topics/ticket"
+        }
+      ]
     }
   ],
-  "siteVersion": "2.9.13"
+  "siteVersion": "2.9.14"
 }
