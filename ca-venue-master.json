@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-43",
+  "version": "3.9.4",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -735,76 +735,99 @@
       "id": "jp-tohoku-sendai-shimin",
       "prefecture": "宮城県",
       "municipality": "仙台市",
-      "name": "仙台市民会館（トークネットホール仙台）",
+      "name": "トークネットホール仙台（仙台市民会館）",
       "aliases": [
         "仙台市民会館",
         "トークネットホール仙台 大ホール"
       ],
       "sources": [
-        "https://www.tohoku-kyoritz.co.jp/shimin/index1.html"
+        "https://www.tohoku-kyoritz.co.jp/shimin/index1.html",
+        "https://www.zenkoubun.jp/search/hall_0040127.html",
+        "https://www.tohoku-kyoritz.co.jp/shimin/gaiyou/hall/dai_hall.htm",
+        "https://www.city.sendai.jp/zaise-kokyo/jigyosha/keyaku/jigyosha/documents/r80401_nrlist.pdf",
+        "https://www.city.sendai.jp/aobayamaeria/hukugoushisetsu/seibi/faq.html",
+        "https://mapfan.com/spots/S54IA%2CJ%2CKPTID0"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：仙台市青葉区桜ケ岡公園4-1。全国公立文化施設協会による開館日：1973年11月3日。大ホール1,265席（1階967席、2階298席）。2017年4月1日から命名権愛称を運用。市の2026年4月1日現在の資料による現契約期間は2026年4月～2029年3月。市の音楽ホール整備方針では新施設開館後は当施設の更新を行わない方針。代表位置（概略）：北緯38.26508、東経140.86291（MapFan掲載度分秒を換算、測地系・地図画像は未照合）。"
     },
     {
       "id": "jp-tohoku-miyagi-kenmin",
       "prefecture": "宮城県",
       "municipality": "仙台市",
-      "name": "宮城県民会館（東京エレクトロンホール宮城）",
+      "name": "東京エレクトロンホール宮城（宮城県民会館）",
       "aliases": [
         "宮城県民会館",
         "東京エレクトロンホール宮城 大ホール"
       ],
       "sources": [
         "https://www.pref.miyagi.jp/soshiki/syoubun/hall-rights.html",
-        "https://miyagi-hall.jp/"
+        "https://miyagi-hall.jp/",
+        "https://www.zenkoubun.jp/search/hall_0040126.html",
+        "https://photo-sendai.com/search/decisions/kensaku/itemname/page%3A6/sort%3Areference/direction%3Aasc",
+        "https://www.khb-tv.co.jp/news/16513007",
+        "https://miyagi-hall.jp/facility/"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：仙台市青葉区国分町3-3-7。1964年開館（公文協は9月1日、市史参照年表は8月27日落成開館と記載。区別は未確認）。大ホールは報道資料で1,590席、公文協の掲載は1,670席で座席構成差は未確認。2008年度から命名権導入、現契約2023年4月1日～2028年3月31日。宮城県立劇場の2029年3月完成予定に伴う機能移転が報じられている。新施設とは別建物として扱う。現施設の閉館日・座標は未確認。"
     },
     {
       "id": "jp-tohoku-izumity",
       "prefecture": "宮城県",
       "municipality": "仙台市",
-      "name": "仙台イズミティ21",
+      "name": "仙台銀行ホール イズミティ21（仙台市泉文化創造センター）",
       "aliases": [
         "仙台イズミティ21",
         "仙台イズミティー21",
         "仙台イズミティ21 大ホール"
       ],
       "sources": [
-        "https://miyagi-hall.jp/foundation/list"
+        "https://miyagi-hall.jp/foundation/list",
+        "https://izumity21.jp/about/namingrights/",
+        "https://izumity21.jp/about/hall/",
+        "https://www.zenkoubun.jp/search/hall_0040134.html",
+        "https://mag.ssbj.jp/inter/16884/",
+        "https://izumity21.jp/news/4047/",
+        "https://www.city.sendai.jp/zaise-kokyo/jigyosha/keyaku/jigyosha/documents/r80401_nrlist.pdf",
+        "https://www.event-tenki.com/izumichuo-miyagi/"
       ],
       "verification": "confirmed",
-      "note": "表記差・大ホールの記載差。施設単位。"
+      "note": "表記差・大ホールの記載差。施設単位。\n所在地：仙台市泉区泉中央2-18-1。1987年11月1日開館（公文協）。2022年4月1日～2024年3月31日改修休館、2024年4月1日再開館。大ホール客席1,450席・車いすスペース6席、オーケストラピット使用時146席減。2017年4月1日から命名権愛称、現契約2026年4月～2029年3月。代表位置（暫定）：北緯38.325668、東経140.879642（イベント会場お天気ナビ、二次資料、地図未照合）。"
     },
     {
       "id": "jp-tohoku-sendai-gym",
       "prefecture": "宮城県",
       "municipality": "仙台市",
-      "name": "仙台市体育館（カメイアリーナ仙台）",
+      "name": "カメイアリーナ仙台（仙台市体育館）",
       "aliases": [
         "仙台市体育館"
       ],
       "sources": [
-        "https://www.spf-sendai.jp/sisetsu/gym/shi-gym/"
+        "https://www.spf-sendai.jp/sisetsu/gym/shi-gym/",
+        "https://www.sendaicity-gym.com/",
+        "https://www.city.sendai.jp/zaise-kokyo/jigyosha/keyaku/jigyosha/documents/r80401_nrlist.pdf",
+        "https://favoritemarker.com/location_view.php?spot=5967-7b54-c7fa-82fa"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：仙台市太白区富沢1丁目4番1号。1984年9月1日開設。第1競技場の観覧席は固定4,681人、ロールバックスタンド1,024人（公演時の実定員とは別）。2016年7月30日から命名権愛称、最新契約は2025年7月～2028年7月（市公表の月単位）。2025年5月21日～2027年3月15日の大規模改修休館予定。代表位置（暫定）：北緯38.217926、東経140.869180（二次資料、地図未照合）。"
     },
     {
       "id": "jp-tohoku-grandy",
       "prefecture": "宮城県",
       "municipality": "利府町",
-      "name": "宮城県総合運動公園 総合体育館",
+      "name": "セキスイハイムスーパーアリーナ（宮城県総合運動公園総合体育館）",
       "aliases": [
         "宮城総合運動公園体育館"
       ],
       "sources": [
-        "https://www.pref.miyagi.jp/soshiki/tosikan/sougoup-gaiyou.html"
+        "https://www.pref.miyagi.jp/soshiki/tosikan/sougoup-gaiyou.html",
+        "https://www.mspf.jp/grande21/index.php?action=sisetu_shoukai_arena",
+        "https://www.pref.miyagi.jp/soshiki/sports/naming.html",
+        "https://www.navitime.co.jp/poi?spot=02022-1005646",
+        "https://www.jcpress.co.jp/wp01/?p=39095"
       ],
       "verification": "confirmed",
-      "note": "登録名の県・総合の表記差。グランディ21。"
+      "note": "登録名の県・総合の表記差。グランディ21。\n所在地：宮城郡利府町菅谷字舘40-1（地図案内）。1997年4月開設。メインアリーナ固定5,011席、可動2,052席。現命名権契約2024年4月1日～2027年3月31日。宮城スタジアムとは別施設。2026年度から2カ年の改修計画が報じられている。代表位置（概略）：北緯38.337589、東経140.953451（NAVITIME掲載、測地系・地図未照合）。"
     },
     {
       "id": "jp-tohoku-sunplaza",
@@ -816,10 +839,11 @@
         "仙台サンプラザホール"
       ],
       "sources": [
-        "https://www.sendai-sunplaza.com/hall/abouthall/"
+        "https://www.sendai-sunplaza.com/hall/abouthall/",
+        "https://mapcarta.com/N10016805504"
       ],
       "verification": "confirmed",
-      "note": "コンサートホールとして集計。"
+      "note": "コンサートホールとして集計。\n所在地：仙台市宮城野区榴岡5-11-1。1991年3月竣工（運営者資料、開館月日未確認）。コンサート形式2,054席（見切れを除かない場合2,372席）、講演会形式2,710席。ホテル・宴会場を含む複合施設内のホール。代表位置（概略）：北緯38.25772、東経140.89407（Mapcarta、OSM由来、地図未照合）。"
     },
     {
       "id": "jp-tohoku-zepp",
@@ -831,24 +855,29 @@
         "Zepp仙台"
       ],
       "sources": [
-        "https://sendai.keizai.biz/headline/1192/"
+        "https://sendai.keizai.biz/headline/1192/",
+        "https://megalodon.jp/ref/2012-0708-1252-09/www.kahoku.co.jp/news/2012/07/20120702t15013.htm"
       ],
       "verification": "secondary",
-      "note": "2012年閉館。表記差。"
+      "note": "2012年閉館。表記差。\n旧所在地：仙台市宮城野区榴岡1丁目、仙台駅東口。2000年8月開業、2012年7月1日営業終了。JR東日本の定期借地契約終了・東口再開発に伴う取り壊し予定が当時報じられた。閉館時の新聞報道では最大約1,500人。旧番地・開業日・解体完了日・旧建物の座標・跡地の正確な区画は未確認。現存施設の座標で代用しない。"
     },
     {
       "id": "jp-tohoku-denryoku",
       "prefecture": "宮城県",
       "municipality": "仙台市",
-      "name": "仙台電力ホール",
+      "name": "電力ホール（仙台）",
       "aliases": [
         "仙台電力ホール"
       ],
       "sources": [
-        "https://miyagi-hall.jp/foundation/list"
+        "https://miyagi-hall.jp/foundation/list",
+        "https://hall.d-biru.com/",
+        "https://www.hnk-i.co.jp/service/hall_common.html",
+        "https://d-biru.com/access/",
+        "https://newikis.com/ja/%E9%9B%BB%E5%8A%9B%E3%83%93%E3%83%AB"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：仙台市青葉区一番町3丁目7-1、電力ビル内。1960年開業（東日本興業）。固定1,000席。耐震補強・照明LED化を実施（時期未確認）。運営会社は再開発に伴い2030年度頃まで現状の施設を維持する方針を案内している。正式な閉館日は未確認。建物代表位置（概略）：北緯38.261750、東経140.873417（二次資料の電力ビル座標、ホール単独座標ではない）。"
     },
     {
       "id": "jp-tohoku-kotodai",
@@ -859,10 +888,13 @@
         "仙台市勾当台公園 野外音楽堂"
       ],
       "sources": [
-        "https://www.city.sendai.jp/ryokuchihozen/reiwa100sen/ichiran/02.html"
+        "https://www.city.sendai.jp/ryokuchihozen/reiwa100sen/ichiran/02.html",
+        "https://toraticket-search.pia.jp/venue/venue_access_map.do?cityCd=101&prefectureCd=04&venueCd=KTYG",
+        "https://www.city.sendai.jp/koen-kikaku/koutoudaikouensaiseibi.html",
+        "https://www.city.sendai.jp/koen-rikatu/yuryo.html"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：仙台市青葉区本町3丁目、勾当台公園いこいの広場（チケットぴあの会場案内）。公園全体は1955年開園、1989年度全面改修。市は公園全体の再整備を進めている。音楽堂単独の開設日、固定席・収容人数、ステージ代表座標、再整備による音楽堂の変更時期は未確認。公園の代表座標は代用しない。"
     },
     {
       "id": "jp-tohoku-rensa",
@@ -875,10 +907,13 @@
         "仙台 Rensa"
       ],
       "sources": [
-        "https://eplus.jp/sf/venue/9800470"
+        "https://eplus.jp/sf/venue/9800470",
+        "https://www.livewalker.com/web/detail/9523",
+        "https://jp.yamaha.com/news_events/2010/201308_026.jsp.html",
+        "https://newikis.com/ja/Rensa"
       ],
       "verification": "confirmed",
-      "note": "表記差。"
+      "note": "表記差。\n所在地：仙台市青葉区一番町4丁目9-18 TICビル7階。2011年4月開業（二次資料）。LiveWalkerは最大700人・250席、ヤマハの導入事例はオールスタンディング750人と記載。現行の公式定員は未確認。旧東一連鎖街の名称を引き継ぐ（ヤマハ）。代表位置（暫定）：北緯38.264944、東経140.870139（二次資料、地図未照合）。"
     },
     {
       "id": "jp-tohoku-retro",
@@ -889,25 +924,29 @@
         "retro BackPage（仙台）"
       ],
       "sources": [
-        "https://retro-backpage.com/contact"
+        "https://retro-backpage.com/contact",
+        "https://retro-backpage.com/about",
+        "https://www.event-tenki.com/kokubun-miyagi5/"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：仙台市青葉区国分町3-3-1 定禅寺ヒルズ8階。運営者によれば1983年創業。ダイニングバーで貸切・ライブ利用に対応。店舗の創業日、現建物への移転履歴、ライブ時定員は未確認。建物代表位置（暫定）：北緯38.265928、東経140.868597（イベント会場お天気ナビ、二次資料、地図未照合）。"
     },
     {
       "id": "jp-tohoku-pit",
       "prefecture": "宮城県",
       "municipality": "仙台市",
-      "name": "Sendai PIT",
+      "name": "仙台PIT（Sendai PIT）",
       "aliases": [
         "Sendai PIT",
         "仙台PIT"
       ],
       "sources": [
-        "https://sendai.pia-pit.jp/about/index.html"
+        "https://sendai.pia-pit.jp/about/index.html",
+        "https://sendai.keizai.biz/headline/2068/",
+        "https://corporate.pia.jp/csr/team-smile/"
       ],
       "verification": "confirmed",
-      "note": ""
+      "note": "所在地：仙台市太白区あすと長町2丁目2番地50号。2016年3月11日開業（当時の報道）。東日本大震災復興支援のチームスマイル事業として整備され、PRINCESS PRINCESSの再結成活動による義援金が建設に寄付された。運営者案内：立見1,451人、着席536人、混合963人。開業当時の報道の立見約1,200人とは時点・構成を区別する。施設代表座標は未確認。"
     },
     {
       "id": "jp-tohoku-yokote",
