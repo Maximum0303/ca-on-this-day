@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-6",
+  "version": "3.8.4-7",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1771,9 +1771,12 @@
       "aliases": [
         "幕張メッセイベントホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.m-messe.co.jp/organizers/company/profile",
+        "https://www.city.chiba.jp/faq/keizainosei/keizai/kanko/2262.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1989年10月9日開業の幕張イベントホール。千葉市美浜区。国際展示場・国際会議場とは区別。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-makuhari-9-11",
@@ -2391,9 +2394,14 @@
         "グランドプリンスホテル新高輪 大宴会場 飛天",
         "グランドプリンスホテル新高輪"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "sources": [
+        "https://www.princehotels.co.jp/shintakanawa/informations/40thanniversary/",
+        "https://mice.princehotels.co.jp/hotel/shintakanawa/",
+        "https://www.princehotels.co.jp/takanawa-area/banquet/halls/hiten.html",
+        "https://www.princehotels.co.jp/takanawa-area/banquet/halls/hokushin.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1982年4月25日開業、2007年改称。港区高輪。飛天と国際館パミール北辰は別宴会場だが、既存のホテル施設単位集計を維持し、宴会場未指定の公演は断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-toyosu",
@@ -4089,9 +4097,12 @@
       "aliases": [
         "浜松アリーナ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+      "sources": [
+        "https://www.city.hamamatsu.shizuoka.jp/koho2/100ayumi/1990-3.html",
+        "https://hamamatsu-sports.or.jp/facilities/hamamatsu-arena"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1990年開館。浜松市。浜松市民会館・アクトシティ浜松とは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-079",
@@ -4226,9 +4237,12 @@
         "ボトムライン",
         "名古屋ボトムライン"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "地域名の有無による表記差として暫定集計。"
+      "sources": [
+        "https://bottomline.co.jp/about/",
+        "https://www.bottomline.co.jp/access/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1989年6月17日開業。名古屋市千種区今池。運営者資料でボトムライン名古屋・ボトムライン表記を確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-090",
@@ -5020,9 +5034,13 @@
       "aliases": [
         "Zepp Osaka Bayside"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zepp.co.jp/hall/osakabayside/",
+        "https://www.jaled.or.jp/p_994/",
+        "https://www.lmaga.jp/news/2017/02/20272/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2017年2月17日開業。大阪市此花区。Zepp Namba・旧Zepp Osakaとは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-042",
@@ -5073,9 +5091,13 @@
       "aliases": [
         "サンケイホールブリーゼ"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.sankeibldg.co.jp/company/history.html",
+        "https://www.fujimediahd.co.jp/corporate/insidestory_006.html",
+        "https://www.kajima.co.jp/news/digest/nov_2008/tokushu/toku01.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2008年開場。大阪市北区西梅田。旧サンケイホール（1952～2005年）とは別施設として維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-047",
@@ -5238,9 +5260,13 @@
       "aliases": [
         "松下IMPホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://obp.gr.jp/buildings/matsushitaimp",
+        "https://www.kanden-kaijyou.jp/event_hole/imp/",
+        "https://mice.osaka-info.jp/venue_search/matsushita-imp-hall/"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：松下IMPビルは1990年3月竣工。大阪市中央区城見のイベントホール。ホール単独の開館日は未確認。運営者の施設案内を確認し、閉館とは記載しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-060",
@@ -5903,9 +5929,12 @@
       "aliases": [
         "島根県民会館"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0321063.html",
+        "https://kunishitei.bunka.go.jp/bsys/maindetails/101/00013886"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：1968年9月25日開館。松江市。ホール指定なしの登録は施設単位の集計を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-012",
@@ -6695,9 +6724,14 @@
         "イムズホール",
         "福岡 イムズホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "地名付き表記を統合。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.mec.co.jp/company/history/",
+        "https://career.mec.co.jp/project/02/",
+        "https://tenjin.keizai.biz/headline/7218/",
+        "https://chage.jp/biography/2014.php"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：福岡市中央区天神のイムズは1989年開業、2021年8月31日閉館。9階のイムズホール。Chage公式記録の福岡／イムズホール表記を確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-007",
@@ -7253,9 +7287,13 @@
       "aliases": [
         "熊本城ホール メインホール"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.city.kumamoto.jp/kiji0035599/",
+        "https://www.zenkoubun.jp/search/hall_0432655.html",
+        "https://www.kumamoto-jo-hall.jp/facility/main_hall.html"
+      ],
+      "verification": "confirmed",
+      "note": "施設資料照合（2026-11-28）：2019年12月1日メインホール開業。熊本市。熊本市民会館とは別施設。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-058",
