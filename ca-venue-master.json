@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-25",
+  "version": "3.8.4-26",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -554,10 +554,12 @@
         "小岩井農場"
       ],
       "sources": [
-        "https://iwatetabi.jp/spots/5705/"
+        "https://iwatetabi.jp/spots/5705/",
+        "https://www.koiwaifarm.com/guide/access/",
+        "https://www.chage-aska.net/history/2000.php"
       ],
       "verification": "provisional-location",
-      "note": "まきば園所在地による暫定分類。2001年の特設ステージ位置は未確認。"
+      "note": "まきば園所在地による暫定分類。2001年の特設ステージ位置は未確認。 ／ 施設資料照合（2026-11-28）：農場運営者公式のまきば園所在地は雫石町丸谷地36-1。C&A公式年譜は2001年の小岩井農場出演を記載するが、農場全体のうち実際に設営された区画は特定できない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-tohoku-morioka-shimin",
@@ -1247,10 +1249,11 @@
       ],
       "sources": [
         "https://mito-sonic.com/hall/",
-        "https://www.livewalker.com/web/detail/8909"
+        "https://www.livewalker.com/web/detail/8909",
+        "https://note.com/youtang/n/n539a6bb1da97"
       ],
       "verification": "provisional-location",
-      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：公式の所在地は南町3丁目。2003年開業との施設情報あり。開業時の運営者資料が未確認のため保留。 公演の個別原典確認を意味しない。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：公式の所在地は南町3丁目。2003年開業との施設情報あり。開業時の運営者資料が未確認のため保留。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：開業者を名乗るnote記事に2003年の水戸店開業と記載。記事著者と実際の運営者の同一性の独立確認が未了のため暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-mito-new",
@@ -2015,7 +2018,7 @@
         "https://www.otsuma.ac.jp/about/basic/founder/"
       ],
       "verification": "provisional-location",
-      "note": "1988年多摩校開設より前。学園祭の会場原典は未確認 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "1988年多摩校開設より前。学園祭の会場原典は未確認 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：大学公式沿革で1949年大妻女子大学設置、1988年多摩校開設を確認。公演会場の建物・校地の直接資料は未取得。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-kyoritsu",
@@ -2029,7 +2032,7 @@
         "https://www.keio.ac.jp/ja/pha/about/relationship-with-kyoritsu-university-of-pharmacy/"
       ],
       "verification": "provisional-location",
-      "note": "当時の開催校地未照合 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。"
+      "note": "当時の開催校地未照合 市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：慶應義塾大学薬学部公式に旧共立薬科大学芝校舎（現芝共立キャンパス）と2008年合併の記述。1980年の学内会場を特定できない。別途保留中の11月24日公演には変更を加えない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-shibuya-old",
@@ -2528,10 +2531,12 @@
       ],
       "sources": [
         "https://www.yumenoshima.jp/athletics-stadium",
-        "https://www.city.koto.lg.jp/104010/shisetsuannai/kokyo/sportsshisetsu/kyogijo/16170.html"
+        "https://www.city.koto.lg.jp/104010/shisetsuannai/kokyo/sportsshisetsu/kyogijo/16170.html",
+        "https://dreamusic.co.jp/artist/norimasa-fujisawa/7185.html",
+        "https://ticket-news.pia.jp/pia/news.do?newsCd=201008100002"
       ],
       "verification": "provisional-location",
-      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：都立夢の島公園陸上競技場と江東区立夢の島競技場は別施設（公園公式が明記）。公演当日の資料でどちらか特定するまで暫定維持。開場年は転用しない。 公演の個別原典確認を意味しない。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：都立夢の島公園陸上競技場と江東区立夢の島競技場は別施設（公園公式が明記）。公演当日の資料でどちらか特定するまで暫定維持。開場年は転用しない。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：2010年8月7日情熱大陸フェスについて出演者レーベル公式の当時の告知は夢の島公園陸上競技場、ぴあ当時報道は夢の島陸上競技場と表記。都立側が強く支持されるが開場時期の確認が未了のため暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-ginza",
@@ -2999,10 +3004,12 @@
       ],
       "sources": [
         "https://rockbarbauhaus.com/%E3%83%90%E3%82%A6%E3%83%8F%E3%82%A6%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6/?lang=ja",
-        "https://rockbarbauhaus.com/savebauhaus/?lang=ja"
+        "https://rockbarbauhaus.com/savebauhaus/?lang=ja",
+        "https://www.musiclifeclub.com/news/20250509_04.html",
+        "https://www.musiclifeclub.com/news/20250822S_01.html"
       ],
-      "verification": "provisional-location",
-      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1981年創業、移転後2022年5月28日再開（運営者公式）。六本木の旧店舗と現店舗の公演時点の区別が未確認のため暫定維持。 公演の個別原典確認を意味しない。"
+      "verification": "confirmed",
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1981年創業、移転後2022年5月28日再開（運営者公式）。六本木の旧店舗と現店舗の公演時点の区別が未確認のため暫定維持。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：既存運営者資料の2022年5月28日移転後再開に加え、2025年6月29日のイベント告知と開催後報告を確認。現店舗の期間内であることを日付検査する。旧店舗の履歴は備考に保持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-quattro",
@@ -3075,10 +3082,11 @@
       ],
       "sources": [
         "https://kinema.tokyo/",
-        "https://www.livewalker.com/web/detail/15207"
+        "https://www.livewalker.com/web/detail/15207",
+        "https://www.tv-tokyo.co.jp/adomachi/smp/backnumber/20160514/124494.html"
       ],
       "verification": "provisional-location",
-      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：公式案内は鶯谷の旧グランドキャバレー転用を記載。2000年開業との二次資料あり。運営者の開業年資料は未取得につき保留。 公演の個別原典確認を意味しない。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：公式案内は鶯谷の旧グランドキャバレー転用を記載。2000年開業との二次資料あり。運営者の開業年資料は未取得につき保留。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：テレビ東京の2016年施設紹介に旧キャバレーから2000年イベントスペースへリニューアルと記載。運営者の開業原典未確認のため暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-ariake",
@@ -3229,10 +3237,12 @@
       ],
       "sources": [
         "https://www.city.hiratsuka.kanagawa.jp/common/000038725.pdf",
-        "https://www.city.hiratsuka.kanagawa.jp/shisetu/page-c_00219.html"
+        "https://www.city.hiratsuka.kanagawa.jp/shisetu/page-c_00219.html",
+        "https://www.city.hiratsuka.kanagawa.jp/shokai/page-c_00020.html",
+        "https://shonan-journal.com/2015/04/10/post-0-2-932/"
       ],
       "verification": "provisional-location",
-      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1962年7月開館、2018年12月閉館（市施設白書・市公式）。2022年開館のひらしん平塚文化芸術ホールとは別施設。月内の日付は未確認。 市資料のテキスト取得済み、原ページ画像未取得のため暫定維持。 公演の個別原典確認を意味しない。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：1962年7月開館、2018年12月閉館（市施設白書・市公式）。2022年開館のひらしん平塚文化芸術ホールとは別施設。月内の日付は未確認。 市資料のテキスト取得済み、原ページ画像未取得のため暫定維持。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：市公式通史に1962年完成、地元報道に旧ホールの沿革。前回の市施設白書では1962年7月開館、2018年12月閉館としたが原ページ画像未取得のため今回も暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-yokohama-buntai",
@@ -3679,10 +3689,11 @@
       ],
       "sources": [
         "https://ns-beach.com/",
-        "https://www.livewalker.com/web/detail/9250"
+        "https://www.livewalker.com/web/detail/9250",
+        "https://www.visunavi.com/2026-03-31/47282/"
       ],
       "verification": "provisional-location",
-      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：横浜アリーナ1階のライブハウス。旧サンフォニックスホールから2013年リニューアルとの二次資料。運営者による改称時期の原典は未取得、暫定維持。 公演の個別原典確認を意味しない。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：横浜アリーナ1階のライブハウス。旧サンフォニックスホールから2013年リニューアルとの二次資料。運営者による改称時期の原典は未取得、暫定維持。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：2026年ライブハウス紹介企画に2013年オープンと記載。旧名サンフォニックスホールからの正確な改称日は運営者の原典未取得。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-ktzepp",
@@ -3710,11 +3721,12 @@
       "sources": [
         "https://www.chage-aska.net/history/2000.php",
         "https://mixi.jp/search_community.pl?keyword=CHAGE&page=6&search_mode=title&search_type=topic&sort=last_comment-d",
-        "https://www.s-park.jp/map/910"
+        "https://www.s-park.jp/map/910",
+        "https://song2.sakura.ne.jp/liverepo/liverepo_20040828_neppulive.html"
       ],
       "verification": "provisional-location",
       "titleContains": "熱風コンサート",
-      "note": "2004年8月28日の熱風コンサート。公式年譜はお台場野外特設会場と記載。ファンの記録では青海第二駐車場とされ、所在地資料では江東区青海1丁目。2004年当時の正確な区画は一次資料未確認のため管理者了承のもと暫定分類。他のお台場公演には適用しない。"
+      "note": "2004年8月28日の熱風コンサート。公式年譜はお台場野外特設会場と記載。ファンの記録では青海第二駐車場とされ、所在地資料では江東区青海1丁目。2004年当時の正確な区画は一次資料未確認のため管理者了承のもと暫定分類。他のお台場公演には適用しない。 ／ 施設資料照合（2026-11-28）：2004年8月28日の当時の参加者記録にお台場野外特設会場とある。正確な区画・所在地の一次資料は未確認。既存の管理者判断を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-001",
@@ -4078,10 +4090,12 @@
       "sources": [
         "https://www.livewalker.com/web/detail/21642",
         "https://www.city.fukui.lg.jp/fukuisi/prezen/ayumi/history.html",
-        "https://crd.ndl.go.jp/reference/entry/reference/show?asc=desc&dtltbs=1&fi=4_%E9%83%B7%E5%9C%9F+5_%E7%A4%BE%E4%BC%9A%E4%BA%BA+2_2&id=1000336011&ldtl=1&mcmd=25&page=ref_view&pg=2&st=update&tcd=2110037&tcd_lk=1&tt=2110037&tt_lk=1"
+        "https://crd.ndl.go.jp/reference/entry/reference/show?asc=desc&dtltbs=1&fi=4_%E9%83%B7%E5%9C%9F+5_%E7%A4%BE%E4%BC%9A%E4%BA%BA+2_2&id=1000336011&ldtl=1&mcmd=25&page=ref_view&pg=2&st=update&tcd=2110037&tcd_lk=1&tt=2110037&tt_lk=1",
+        "https://www.library-archives.pref.fukui.lg.jp/fukui/07/nenpyo/rekishi/chrn53.html",
+        "https://fukui.keizai.biz/headline/860/"
       ],
-      "verification": "provisional-location",
-      "note": "【従前の備考】福井市内。福井市民会館表記との同一性は保留。 ／ 施設資料照合（2026-11-28）：市年表で1968年開館、図書館調査で1968年5月完成。閉館日および登録公演の時期との照合を要する。 公演の個別原典確認を意味しない。"
+      "verification": "confirmed",
+      "note": "【従前の備考】福井市内。福井市民会館表記との同一性は保留。 ／ 施設資料照合（2026-11-28）：市年表で1968年開館、図書館調査で1968年5月完成。閉館日および登録公演の時期との照合を要する。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：県立図書館・文書館の県史年表に1968年5月1日完成、2021年3月の地元報道に1968年開館と2021年3月末閉館の記述。開館の月日は未確定。福井市民会館の別IDは維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-035",
@@ -4091,9 +4105,11 @@
       "aliases": [
         "福井市民会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://nippon.zaidan.info/seikabutsu/2003/00724/contents/0002.htm"
+      ],
       "verification": "provisional-location",
-      "note": "福井市文化会館との同一性は保留。"
+      "note": "福井市文化会館との同一性は保留。 ／ 施設資料照合（2026-11-28）：2003年の吟剣詩舞誌掲載記事は同じ催事について福井市文化会館と福井市民会館の両表記を使用。別名の可能性を示す資料だがC&A公演時の同一性は未確定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-036",
@@ -4362,10 +4378,13 @@
         "南濃町文化会館"
       ],
       "sources": [
-        "https://www.city.kaizu.lg.jp/shisei/0000000129.html"
+        "https://www.city.kaizu.lg.jp/shisei/0000000129.html",
+        "https://www.jassc.com/mt/hole/hole_06.html",
+        "https://core.jaled.or.jp/html/library/hall.php?pref=21",
+        "https://www.city.kaizu.lg.jp/kurashi/0000003642.html"
       ],
       "verification": "provisional-location",
-      "note": "旧南濃町を現在の海津市に分類。施設の詳細は未照合。"
+      "note": "旧南濃町を現在の海津市に分類。施設の詳細は未照合。 ／ 施設資料照合（2026-11-28）：旧町名での舞台施設一覧と現在の海津市文化会館の施設一覧に同じ所在地・電話番号。海津市公式は2025年3月末の支所移転に伴う施設利用停止を案内。開館日は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-059",
@@ -4501,10 +4520,11 @@
         "伊豆稲取高原スポーツパーク野外特設会場"
       ],
       "sources": [
-        "https://www.chage-aska.net/history/"
+        "https://www.chage-aska.net/history/",
+        "https://ca.ladomi.net/live_ca"
       ],
       "verification": "provisional-location",
-      "note": "伊豆稲取の地名から東伊豆町に暫定分類。特設会場の正確な地点は未確認。"
+      "note": "伊豆稲取の地名から東伊豆町に暫定分類。特設会場の正確な地点は未確認。 ／ 施設資料照合（2026-11-28）：C&A公式年譜で1988年7月2日の会場名を再確認。細野高原とする公演一覧はあるが当時の特設舞台の位置の一次資料なし。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-069",
@@ -4591,9 +4611,12 @@
       "aliases": [
         "静岡女子大（清水市民文化会館）"
       ],
-      "sources": [],
+      "sources": [
+        "https://jmapps.ne.jp/nhkso/list.html?f9=%E6%B8%85%E6%B0%B4%E5%B8%82%E6%B0%91%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8",
+        "https://www.city.shizuoka.lg.jp/s2934/s005760.html"
+      ],
       "verification": "provisional-location",
-      "note": "括弧内の旧清水市会場を現在の静岡市に分類。"
+      "note": "括弧内の旧清水市会場を現在の静岡市に分類。 ／ 施設資料照合（2026-11-28）：NHK交響楽団の公演アーカイブおよび静岡市公式統計書に旧清水市民文化会館の表記あり。現マリナートとは区別し、学園祭当日の使用ホールおよび旧施設の開閉館日は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-076",
@@ -4940,10 +4963,11 @@
         "中京女子大"
       ],
       "sources": [
-        "https://www.sgk.ac.jp/dousoukai/about/history.html"
+        "https://www.sgk.ac.jp/dousoukai/about/history.html",
+        "https://www.sgk.ac.jp/about/history/"
       ],
       "verification": "provisional-location",
-      "note": "1963年大府市に開学。1980年学園祭の具体的校地は未確認。"
+      "note": "1963年大府市に開学。1980年学園祭の具体的校地は未確認。 ／ 施設資料照合（2026-11-28）：大学公式および同窓会公式で1963年大府市に中京女子大学開設、2010年至学館大学へ改称を確認。学内公演会場の特定は未了。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chubu-101",
@@ -5267,10 +5291,11 @@
         "四日市市民会館"
       ],
       "sources": [
-        "https://www2.city.yokkaichi.mie.jp/www/contents/1001000000141/index.html"
+        "https://www2.city.yokkaichi.mie.jp/www/contents/1001000000141/index.html",
+        "https://www5.city.yokkaichi.mie.jp/www/contents/1001000000141/index.html"
       ],
       "verification": "provisional-location",
-      "note": "1981年記録は現文化会館の開館前。1987年記録も含め施設同一性保留。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "1981年記録は現文化会館の開館前。1987年記録も含め施設同一性保留。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：市公式年表の文化会館開館は1982年8月。既存の1981年公演と矛盾するため現在の文化会館への統合を行わない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-011",
@@ -5427,10 +5452,11 @@
         "長浜市民会館"
       ],
       "sources": [
-        "https://www.city.nagahama.lg.jp/cmsfiles/contents/0000011/11253/art-vision.pdf"
+        "https://www.city.nagahama.lg.jp/cmsfiles/contents/0000011/11253/art-vision.pdf",
+        "https://marukado.blog75.fc2.com/blog-entry-3146.html"
       ],
       "verification": "provisional-location",
-      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：市の文化芸術ビジョンに1965年建設、2008年老朽化により閉館と記載。長浜文化芸術会館とは別施設。開館日・閉館日は未確定。 市資料のテキスト取得済み、原ページ画像未取得のため暫定維持。 公演の個別原典確認を意味しない。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：市の文化芸術ビジョンに1965年建設、2008年老朽化により閉館と記載。長浜文化芸術会館とは別施設。開館日・閉館日は未確定。 市資料のテキスト取得済み、原ページ画像未取得のため暫定維持。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：1965〜2008年の旧市民会館の所在地に言及する地域史記事を確認。前回の市資料原ページ画像の確認は未了であり暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-022",
@@ -5556,10 +5582,11 @@
       ],
       "sources": [
         "https://www.dwc.doshisha.ac.jp/about/history/overview",
-        "https://www.150th-dwc.jp/history/"
+        "https://www.150th-dwc.jp/history/",
+        "https://www.dwc.doshisha.ac.jp/about/publicity/publication/125_years/chapter6_1"
       ],
       "verification": "provisional-location",
-      "note": "1986年田辺キャンパス開設前。今出川が有力。公演校地の原典未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "1986年田辺キャンパス開設前。今出川が有力。公演校地の原典未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：大学公式記念史で1986年3月27日田辺校地竣工式。田辺学舎はそれ以前から修養会・合宿等に使用されており、1986年以前というだけで今出川の公演と断定しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-031",
@@ -5599,10 +5626,13 @@
         "平安神宮特設ステージ"
       ],
       "sources": [
-        "https://motherbase.co.jp/event/heian_chevon/"
+        "https://motherbase.co.jp/event/heian_chevon/",
+        "https://www.chage-aska.net/history/2010.php",
+        "https://www.sonymusic.co.jp/artist/JUJU/info/348822",
+        "https://barks.jp/news/648256/"
       ],
-      "verification": "provisional-location",
-      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：神宮での奉納公演案内を確認したが、登録公演当時の特設舞台の場所・設営期間は未特定。 公演の個別原典確認を意味しない。"
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：神宮での奉納公演案内を確認したが、登録公演当時の特設舞台の場所・設営期間は未特定。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：C&A公式年譜・JUJUレーベル公式告知で2010年10月2〜3日の平安神宮月夜の宴の特設ステージと確認。当時報道は10月2日ASKA出演を記録。常設ホールとして扱わず、このイベントの期間に限定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-034",
@@ -5756,10 +5786,11 @@
       ],
       "sources": [
         "https://www.gco.co.jp/feature/",
-        "https://www.zenkoubun.jp/search/hall_0271828.html"
+        "https://www.zenkoubun.jp/search/hall_0271828.html",
+        "https://www.gco.co.jp/topics/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%912024%E5%B9%B44%E6%9C%881%E6%97%A5%E3%80%80%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96%E5%A4%A7/"
       ],
       "verification": "provisional-location",
-      "note": "施設資料照合（2026-11-28）：2000年4月1日開館の大阪国際会議場内メインホール。施設資料にはメインホールの分割大ホールも記載されるため、登録名「大阪国際会議場（グランキューブ大阪）大ホール」とメインホールの厳密な同一性は未確認。既存集計と暫定区分を維持。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：2000年4月1日開館の大阪国際会議場内メインホール。施設資料にはメインホールの分割大ホールも記載されるため、登録名「大阪国際会議場（グランキューブ大阪）大ホール」とメインホールの厳密な同一性は未確認。既存集計と暫定区分を維持。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：運営者公式で2000年4月1日開館、2024年4月1日大規模修繕後の再開を確認。分割大ホール表記との厳密な同一性は未確認のため暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-046",
@@ -5984,10 +6015,11 @@
       ],
       "sources": [
         "https://eplus.jp/sf/venue/5560020",
-        "https://www.setlist.fm/venue/wohol-osaka-japan-53d2f3d9.html"
+        "https://www.setlist.fm/venue/wohol-osaka-japan-53d2f3d9.html",
+        "https://www.livefans.jp/search/artist/24059/page%3A2?sort=e1&year=before"
       ],
       "verification": "provisional-location",
-      "note": "難波W’OHOLが有力。1994年公演との同一性は暫定。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "難波W’OHOLが有力。1994年公演との同一性は暫定。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：公演データベースのMULTI MAX 1994年公演一覧に難波W’OHOLと記載。運営者・主催者の当時の資料および開閉館日は未取得。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-061",
@@ -6085,10 +6117,12 @@
       ],
       "sources": [
         "https://www.osakacastlepark.jp/articles/detail.html?id=3",
-        "https://www.osaka-city-callcenter.jp/faq/detail.aspx?id=684"
+        "https://www.osaka-city-callcenter.jp/faq/detail.aspx?id=684",
+        "https://www.city.osaka.lg.jp/seisakukikakushitsu/page/0000010544.html",
+        "https://osaka-info.jp/spot/osaka-castle-nishinomaru-garden/"
       ],
-      "verification": "provisional-location",
-      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：大阪城公園の公式案内で西の丸庭園を確認。庭園の開園時期・公演時の区画は未確認。 公演の個別原典確認を意味しない。"
+      "verification": "confirmed",
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：大阪城公園の公式案内で西の丸庭園を確認。庭園の開園時期・公演時の区画は未確認。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：大阪市市政だよりアーカイブに1965年5月開園と明記。公式観光案内も同年開園の芝生庭園を記載。公演区画の詳細は未特定だが登録施設そのものの所在地・開園時期を確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-070",
@@ -6235,10 +6269,11 @@
       ],
       "sources": [
         "https://www.konan-wu.ac.jp/about/message/history.php",
-        "https://up-j.shigaku.go.jp/school/category08/00000000572101000.html"
+        "https://up-j.shigaku.go.jp/school/category08/00000000572101000.html",
+        "https://ftp.konan-wu.ac.jp/about/message/history.php"
       ],
       "verification": "provisional-location",
-      "note": "1964年から神戸市の現校地。学内会場未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "1964年から神戸市の現校地。学内会場未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：大学公式沿革で1964年開学を再確認。学園祭当日の会場は不明。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-082",
@@ -6249,10 +6284,11 @@
         "松蔭女子大"
       ],
       "sources": [
-        "https://www.shoin.ac.jp/guide/outline/history.html"
+        "https://www.shoin.ac.jp/guide/outline/history.html",
+        "https://www.shoin.jp/130th/history/"
       ],
       "verification": "provisional-location",
-      "note": "1981年六甲統合。旧校地も神戸市。公演当日の具体会場は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "1981年六甲統合。旧校地も神戸市。公演当日の具体会場は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：大学・学校法人公式に、1966年垂水区に大学設立、1981年六甲へ統合と記載。旧校地と現校地を区別し、学内公演会場は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kinki-084",
@@ -6730,9 +6766,12 @@
       "aliases": [
         "浜田市民会館"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.city.hamada.shimane.jp/www/contents/1001000000665/index.html",
+        "https://www.hamarou.ed.jp/about/13"
+      ],
       "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：浜田市公式地域協議会記録に市役所隣の旧浜田市民会館跡地、島根県立浜田ろう学校の沿革に同会館大ホール使用記録。旧施設の実在と位置を支持するが開閉館日は未確定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-013",
@@ -6955,10 +6994,11 @@
         "メルパルクホール広島"
       ],
       "sources": [
-        "https://www.rcchall.jp/hall/facilities/history.html"
+        "https://www.rcchall.jp/hall/facilities/history.html",
+        "https://dreamscometrue.com/contents/live?event_year=1990"
       ],
       "verification": "provisional-location",
-      "note": "登録年1990〜1991と施設公式の1993年メルパルク改称が不一致。郵便貯金ホールとの統合を保留。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "登録年1990〜1991と施設公式の1993年メルパルク改称が不一致。郵便貯金ホールとの統合を保留。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：現上野学園ホール公式沿革の1993年メルパルクホール新装開業に対し、DREAMS COME TRUE公式年譜には1990年4月7日に同名称が登場。後年の名称による記載の可能性もあるため年代差を維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-028",
@@ -7195,10 +7235,11 @@
       ],
       "sources": [
         "https://www.yamaguchi-pu.ac.jp/au/about/",
-        "https://www.yamaguchi-pu.ac.jp/au/ua/enkaku/"
+        "https://www.yamaguchi-pu.ac.jp/au/ua/enkaku/",
+        "https://id.ndl.go.jp/auth/ndlna/00308814"
       ],
       "verification": "provisional-location",
-      "note": "山口市の旧校地。公演場所詳細は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "山口市の旧校地。公演場所詳細は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：国立国会図書館典拠で1975年からの山口女子大学、1996年名称変更を確認。開催時の校地・会場は未確定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-051",
@@ -7327,10 +7368,14 @@
       ],
       "sources": [
         "https://www.pref.kagawa.lg.jp/yosan/koukoku/nr_hall2.html",
-        "https://www.anabuki.ne.jp/news/detail/135"
+        "https://www.anabuki.ne.jp/news/detail/135",
+        "https://www.kagawa-mice.jp/facility.html",
+        "https://www.city.takamatsu.kagawa.jp/smph/kurashi/kosodate/bunka/suisogakudan/suisogakudan/kiroku/teirei/21_30.html",
+        "https://kenminhall.com/organizer/covid_ditail/?id=11663",
+        "https://www.zenkoubun.jp/search/hall_0371173.html"
       ],
-      "verification": "provisional-location",
-      "note": "旧グランドホール表記は大ホールと暫定統合。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "verification": "confirmed",
+      "note": "旧グランドホール表記は大ホールと暫定統合。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：県のMICE公式施設案内がグランドホールと大ホールを同じ2001席で記載。高松市役所吹奏楽団の記録にも旧名があり、現運営者は大ホール棟1988年9月開館と明記。改称の正確な日付は別途確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-063",
@@ -7356,10 +7401,11 @@
       ],
       "sources": [
         "https://www.city.sanuki.lg.jp/soshiki/hishokoho/gyomu/2/6/2287.html",
-        "https://www.city.sanuki.lg.jp/soshiki/shokokanko/gyomu/3/6/2175.html"
+        "https://www.city.sanuki.lg.jp/soshiki/shokokanko/gyomu/3/6/2175.html",
+        "https://jfn-pods.com/program/55848/article/52w6TnH2VT"
       ],
       "verification": "provisional-location",
-      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：市公式で多目的野外劇場と施設名を確認。開場年月日の資料は未取得。 公演の個別原典確認を意味しない。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：市公式で多目的野外劇場と施設名を確認。開場年月日の資料は未取得。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：自治体情報を扱うラジオ番組記事に1991年の設計と会場案内。供用開始日を明記した管理者原典は未確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-065",
@@ -7504,10 +7550,11 @@
         "松山商科大"
       ],
       "sources": [
-        "https://www.matsuyama-u.ac.jp/guide/history/enkaku/"
+        "https://www.matsuyama-u.ac.jp/guide/history/enkaku/",
+        "https://www.matsuyama-u.ac.jp/guide/about/rinen/"
       ],
       "verification": "provisional-location",
-      "note": "現松山大学。1980年の具体会場は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "現松山大学。1980年の具体会場は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：大学公式教育理念・沿革で1949年松山商科大学、1989年松山大学に改称を確認。学内公演会場未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-chugoku-shikoku-081",
@@ -7791,7 +7838,7 @@
         "https://up-j.shigaku.go.jp/school/category08/00000000674201000.html"
       ],
       "verification": "provisional-location",
-      "note": "学内の具体会場は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "学内の具体会場は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：大学公式沿革と大学紹介資料を確認。学内の具体的な公演会場に結び付く原典は未取得。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-020",
@@ -7833,9 +7880,14 @@
       "aliases": [
         "照葉シアター"
       ],
-      "sources": [],
-      "verification": "provisional-location",
-      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "sources": [
+        "https://www.the358.com/recruit/history/",
+        "https://www.theater-soratoumi.com/",
+        "https://www.bea-net.com/liveinformation/archive/2025/2508islandcity20thpre.html",
+        "https://fanclub.chage.jp/sitenews_det.php?id=17931"
+      ],
+      "verification": "confirmed",
+      "note": "市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：運営会社公式で旧歌劇ザレビューシアターを2024年4月1日譲受・そらとうみ運営開始。Chage公式FC・主催者の2025年公演告知は照葉シアターそらとうみ、施設公式で福岡市東区香椎照葉6-6-6を確認。旧劇場の初開場日は別途確認。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-023",
@@ -7939,10 +7991,12 @@
       ],
       "sources": [
         "https://fit.ac.jp/daigaku/syokai/enkaku",
-        "https://up-j.shigaku.go.jp/school/category08/00000000674001000.html"
+        "https://up-j.shigaku.go.jp/school/category08/00000000674001000.html",
+        "https://www.fit.ac.jp/daigaku/syokai/enkaku",
+        "https://search.keinet.ne.jp/2713"
       ],
       "verification": "provisional-location",
-      "note": "学内の具体会場は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "学内の具体会場は未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：大学公式沿革で1966年4月福岡工業大学に改称。現在の所在地は福岡市東区和白東。学園祭当日の使用施設は未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-034",
@@ -8044,10 +8098,11 @@
         "佐賀市文化会館"
       ],
       "sources": [
-        "https://www.city.saga.lg.jp/bunka-sports/bunka-geijutsu/3/3171.html"
+        "https://www.city.saga.lg.jp/bunka-sports/bunka-geijutsu/3/3171.html",
+        "https://www.zenkoubun.jp/search/hall_0411254.html"
       ],
       "verification": "provisional-location",
-      "note": "1986年6月20日が開館年（1988〜1989年と資料に差がある）以前。市町村のみ暫定、現施設との統合保留。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "1986年6月20日が開館年（1988〜1989年と資料に差がある）以前。市町村のみ暫定、現施設との統合保留。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：全国公立文化施設協会・市公式の開館日は1989年10月1日。登録済み1986年6月20日公演より後であるため同一性を認定しない。市の建設年表PDFは原ページ画像を取得できなかったためその詳細は確定根拠に使用しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-041",
@@ -8090,10 +8145,11 @@
       ],
       "sources": [
         "https://www.city.karatsu.lg.jp/uploaded/attachment/5191.pdf",
-        "https://www.city.karatsu.lg.jp/site/shiminkaikan/53229.html"
+        "https://www.city.karatsu.lg.jp/site/shiminkaikan/53229.html",
+        "https://ndlsearch.ndl.go.jp/books/R000000004-I273940"
       ],
       "verification": "provisional-location",
-      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：市の管理運営計画本文に1970年開館、1988年唐津市民会館へ改称と記載。原ページ画像は取得失敗。新会館と区別し暫定維持。 公演の個別原典確認を意味しない。"
+      "note": "【従前の備考】市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：市の管理運営計画本文に1970年開館、1988年唐津市民会館へ改称と記載。原ページ画像は取得失敗。新会館と区別し暫定維持。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：国立国会図書館に1971年3月刊行の建築文化「唐津市文化会館」の記事書誌があり旧施設の実在を裏付ける。開館・改称年の前回市資料は画像未取得のため暫定維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-044",
@@ -8196,10 +8252,11 @@
         "長崎総化学大"
       ],
       "sources": [
-        "https://www.nias.ac.jp/administration/publicinfo/outline"
+        "https://www.nias.ac.jp/administration/publicinfo/outline",
+        "https://www.nicjp.niad.ac.jp/institute/daigaku000755.html"
       ],
       "verification": "provisional-location",
-      "note": "登録名はそのまま維持。1962年長崎市網場町に移転。具体会場未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "登録名はそのまま維持。1962年長崎市網場町に移転。具体会場未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：大学公式法人沿革で1962年3月網場町へ移転、1978年7月5日長崎総合科学大学へ改称。高等教育資格承認情報センターにも同改称日。公演会場未特定のため登録名は維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-052",
@@ -8239,10 +8296,13 @@
         "熊本八代キャバレーニュー白馬"
       ],
       "sources": [
-        "https://l-tike.com/search/?keyword=chage"
+        "https://l-tike.com/search/?keyword=chage",
+        "https://kumamotosyakou.com/guide/shop/%E3%82%AD%E3%83%A3%E3%83%90%E3%83%AC%E3%83%BC%E7%99%BD%E9%A6%AC/",
+        "https://www.nikkansports.com/m/general/news/amp/202609210000645.html",
+        "https://eplus.jp/sf/detail/0216410001"
       ],
       "verification": "provisional-location",
-      "note": "地名の有無の表記差。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "地名の有無の表記差。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：熊本社交組合ガイドに八代のキャバレー白馬、報道に1958年開業と記載。正規販売元に2027年1月30日公演予定がある。運営者の開業原典・営業休止期間は未確定。予定記録の状態は変更しない。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-055",
@@ -8514,7 +8574,7 @@
         "https://www.iuk.ac.jp/gaiyou/history/"
       ],
       "verification": "provisional-location",
-      "note": "現 鹿児島国際大学。具体会場未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "現 鹿児島国際大学。具体会場未確認。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：大学公式で1960年4月鹿児島経済大学に改称、1966年9月市内永吉町から下福元町へ移転、2000年4月鹿児島国際大学に改称。学内の使用施設未特定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-076",
@@ -8596,9 +8656,13 @@
       "aliases": [
         "鹿児島文化センター"
       ],
-      "sources": [],
+      "sources": [
+        "https://www.zenkoubun.jp/search/hall_0461353.html",
+        "https://www.houzanhall.com/question/",
+        "https://www.pref.kagoshima.jp/shisetsu/kyouiku/002.html"
+      ],
       "verification": "provisional-location",
-      "note": "鹿児島県文化センターの略称候補。市町村のみ暫定。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "鹿児島県文化センターの略称候補。市町村のみ暫定。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：候補の鹿児島県文化センターは1966年11月15日開館（全国公立文化施設協会）、愛称は宝山ホール（運営者公式）。登録名との同一性は公演当時資料未取得。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-084",
@@ -8610,10 +8674,11 @@
       ],
       "sources": [
         "https://www.city.satsumasendai.lg.jp/soshiki/1043/1/1/15521.html",
-        "https://www.city.satsumasendai.lg.jp/soshiki/1008/4/2/2/95.html"
+        "https://www.city.satsumasendai.lg.jp/soshiki/1008/4/2/2/95.html",
+        "https://www.city.satsumasendai.lg.jp/material/files/group/55/20210909soumubunkyou.pdf"
       ],
       "verification": "provisional-location",
-      "note": "【従前の備考】現在の自治体名（薩摩川内市）で分類。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：市公式で旧川内市民会館1966年6月開館。川内文化ホールの2021年4月1日廃止方針も確認。改称・閉館日の連続性を再確認するまで暫定維持。 公演の個別原典確認を意味しない。"
+      "note": "【従前の備考】現在の自治体名（薩摩川内市）で分類。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：市公式で旧川内市民会館1966年6月開館。川内文化ホールの2021年4月1日廃止方針も確認。改称・閉館日の連続性を再確認するまで暫定維持。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：薩摩川内市公式の緞帳保存記事で1966年6月の旧川内市民会館開館と54年余の大ホールでの使用を確認。2021年市議会委員会記録にも川内文化ホールの緞帳について記述があるが原ページ画像取得に失敗。改称・閉館日の確定は引き続き保留。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-085",
@@ -8624,10 +8689,12 @@
         "大隈町文化会館"
       ],
       "sources": [
-        "https://www.pref.kagoshima.jp/ba07/kyoiku-bunka/shogai/shogai/syogaigaku/sisetu.html"
+        "https://www.pref.kagoshima.jp/ba07/kyoiku-bunka/shogai/shogai/syogaigaku/sisetu.html",
+        "https://www.city.soo.kagoshima.jp/kurashi/koukyousisetu/bunnkasihisetu/oosumibunnka.html",
+        "https://www.pref.kagoshima.jp/suisuinavi/5543.html"
       ],
       "verification": "provisional-location",
-      "note": "登録名を維持。現在の曽於市大隅文化会館の候補。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。"
+      "note": "登録名を維持。現在の曽於市大隅文化会館の候補。 市町村の暫定分類。個別原典・施設同一性の追加確認が必要。 ／ 施設資料照合（2026-11-28）：曽於市公式の大隅文化会館は大隅町中之内9146番地。登録名の大隈町との表記差と開催時施設を確認するまで暫定。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kyushu-okinawa-086",
@@ -8822,10 +8889,12 @@
         "https://trf.avexnet.or.jp/schedule/detail.php?id=1115308",
         "https://www.okinawastory.jp/event/600019814",
         "https://www.churatoku.net/info/0002712.aspx",
-        "https://www.pref.okinawa.lg.jp/machizukuri/park/1012805.html"
+        "https://www.pref.okinawa.lg.jp/machizukuri/park/1012805.html",
+        "https://okinawa-kenso.com/?page_id=57892",
+        "https://www.pref.okinawa.jp/machizukuri/park/1012805.html"
       ],
       "verification": "provisional-location",
-      "note": "HY SKY Fesの主催アーティスト公式案内・出演者公式案内・沖縄観光情報の会場住所は沖縄市比屋根5丁目3-1。2027年の会場案内も同住所。公園は複数自治体にまたがるため、イベントの案内上の所在地として沖縄市に分類。広場の厳密な自治体境界は未照合。開催予定の状態は変更しない。"
+      "note": "HY SKY Fesの主催アーティスト公式案内・出演者公式案内・沖縄観光情報の会場住所は沖縄市比屋根5丁目3-1。2027年の会場案内も同住所。公園は複数自治体にまたがるため、イベントの案内上の所在地として沖縄市に分類。広場の厳密な自治体境界は未照合。開催予定の状態は変更しない。 ／ 施設資料照合（2026-11-28）：県公式と公園管理者の施設案内に多目的広場を確認。公園は1987年の海邦国体主会場。公園全体の開設時期を広場個別の供用開始とみなさず、自治体境界・開催予定の分類は維持。 公演の個別原典確認を意味しない。"
     },
     {
       "id": "jp-kanto-atomi-1981",
