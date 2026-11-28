@@ -1,5 +1,5 @@
 {
-  "version": "3.9.10",
+  "version": "3.9.11",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -1867,32 +1867,34 @@
       "id": "jp-kanto-omiya-old",
       "prefecture": "埼玉県",
       "municipality": "さいたま市",
-      "name": "大宮市民会館",
+      "name": "市民会館おおみや（旧大宮市民会館）",
       "aliases": [
         "大宮市民会館"
       ],
       "sources": [
         "https://www.city.saitama.lg.jp/archivescenter/001/002/003/p079755.html",
         "https://omiya.keizai.biz/headline/1596/",
-        "https://omiya.keizai.biz/headline/1610/"
+        "https://omiya.keizai.biz/headline/1610/",
+        "https://www.city.saitama.lg.jp/005/001/017/001/p125953.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1970年開館、2022年3月閉館。さいたま市アーカイブズに旧名称「大宮市民会館」が明記される。当時は大宮市、現在はさいたま市大宮区。新施設とは別集計。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1970年開館、2022年3月閉館。さいたま市アーカイブズに旧名称「大宮市民会館」が明記される。当時は大宮市、現在はさいたま市大宮区。新施設とは別集計。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：市アーカイブ写真の説明に旧称大宮市民会館（1971年当時）、1969年12月の完成建物写真あり。1970年開館、2022年3月末閉館、後継のレイボックホールは大門町の別建物で2022年4月1日開館。市の旧会館用地駐車場貸付公告では下町3丁目47番8外1筆、2026年3月4日契約。貸付範囲は旧会館建物そのものとは区別。"
     },
     {
       "id": "jp-kanto-kumagaya-kaikan",
       "prefecture": "埼玉県",
       "municipality": "熊谷市",
-      "name": "熊谷会館",
+      "name": "熊谷会館（旧施設）",
       "aliases": [
         "熊谷会館"
       ],
       "sources": [
         "https://www-pref-saitama.public.ilb.jp-east-3.idcfcloud.net/e1601/gikai-gaiyou/r0112/b052.html",
-        "https://www.saf.or.jp/information/detail/8063/"
+        "https://www.saf.or.jp/information/detail/8063/",
+        "https://www.pref.saitama.lg.jp/e1601/gikai-gaiyou/r0112/b052.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1971年開館、2015年3月末廃止。埼玉県議会の答弁と指定管理者の廃止告知で熊谷市の旧施設を確認。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1971年開館、2015年3月末廃止。埼玉県議会の答弁と指定管理者の廃止告知で熊谷市の旧施設を確認。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1971年開館。議員質問では1,500席（当時の詳細座席表は未確認）。2015年3月末廃止、4月1日以降利用不可。県議会答弁では隣接する熊谷地方庁舎の来庁者用駐車場として2019年2月に利用開始（当時の状況）。"
     },
     {
       "id": "jp-kanto-saitama-kaikan",
@@ -1905,10 +1907,12 @@
       "sources": [
         "https://www.saf.or.jp/saitama/about/",
         "https://www.saf.or.jp/information/detail/106795/",
-        "https://www.zenkoubun.jp/search/hall_0110334.html"
+        "https://www.zenkoubun.jp/search/hall_0110334.html",
+        "https://www.saf.or.jp/saitama/facilities/main_hall/",
+        "https://www.saf.or.jp/saitama/facilities/small_hall/"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：旧館は1926年11月6日開館、現建物は1966年5月27日開館。対象公演は建て替え後。使用ホール未指定。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：旧館は1926年11月6日開館、現建物は1966年5月27日開館。対象公演は建て替え後。使用ホール未指定。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：現建物1966年5月27日開館、同年4月18日竣工。旧館の建替えで前川國男設計。所在地：さいたま市浦和区高砂3-1-4。大ホール1,315席、オーケストラピット使用時1,200席、車いす席6席。小ホール504席、車いす席は最後列を取り外し対応。"
     },
     {
       "id": "jp-kanto-kumagaya-shimin",
@@ -1924,7 +1928,7 @@
         "https://www.saf.or.jp/about/history/"
       ],
       "verification": "provisional-location",
-      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：市民ホール、文化センター文化会館、旧熊谷会館の資料あり。登録名との同一性を確認できず保留。 公演の個別原典確認を意味しない。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：市民ホール、文化センター文化会館、旧熊谷会館の資料あり。登録名との同一性を確認できず保留。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：同定候補の熊谷市立文化センター文化会館は桜木町2丁目33番地2。登録名との同一性未確認のため所在地・定員を転用しない。"
     },
     {
       "id": "jp-kanto-saitama-bunka",
@@ -1937,25 +1941,28 @@
       ],
       "sources": [
         "https://saitama-culture.jp/culturecenter/",
-        "https://www.city.saitama.lg.jp/minami/001/003/001/p003649.html"
+        "https://www.city.saitama.lg.jp/minami/001/003/001/p003649.html",
+        "https://www.zenkoubun.jp/search/hall_0110353.html",
+        "https://www.city.saitama.lg.jp/008/003/001/bunkasenta.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1985年6月開館。さいたま市南区。市の沿革に浦和市文化センターとして開館した記録があり、運営者の現施設案内も開館年が一致。旧市名表記を維持。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1985年6月開館。さいたま市南区。市の沿革に浦和市文化センターとして開館した記録があり、運営者の現施設案内も開館年が一致。旧市名表記を維持。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：運営者は1985年6月開館と記載。公文協は1985年8月1日開館と記載。差の理由は未確認。1985年に浦和市文化センターとして開館、南浦和図書館併設。所在地：さいたま市南区根岸1-7-1。大ホール2,006席（車いす8含む）、小ホール340席（車いす4含む）。2027年6月1日から約2年間の中規模修繕休館予定（期間変更可能性あり）。"
     },
     {
       "id": "jp-kanto-kawaguchi-shimin",
       "prefecture": "埼玉県",
       "municipality": "川口市",
-      "name": "川口市民会館",
+      "name": "川口市民会館（旧施設）",
       "aliases": [
         "川口市民会館"
       ],
       "sources": [
         "https://k-shimin-onkyo.pecori.jp/ayumi.html",
-        "https://www.city.kawaguchi.lg.jp/material/files/group/184/dainishou.pdf"
+        "https://www.city.kawaguchi.lg.jp/material/files/group/184/dainishou.pdf",
+        "https://www.city.kawaguchi.lg.jp/soshiki/01050/020/4/2_1/19604.html"
       ],
       "verification": "provisional-location",
-      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：市の資料で閉館済みと確認。地元音楽協会は1964年開館と記載するが、開閉館時期の原典は未確定。リリアと区別。 公演の個別原典確認を意味しない。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：市の資料で閉館済みと確認。地元音楽協会は1964年開館と記載するが、開閉館時期の原典は未確定。リリアと区別。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：2018年1月11日、旧市民会館跡地（工事場所：幸町1丁目383番1）で新庁舎1期棟起工式。旧建物の住居表示と区別。"
     },
     {
       "id": "jp-kanto-omiya-sonic",
@@ -1968,10 +1975,12 @@
       ],
       "sources": [
         "https://www.zenkoubun.jp/search/hall_0110340.html",
-        "https://www.fujita.co.jp/works/1611/"
+        "https://www.fujita.co.jp/works/1611/",
+        "https://www.sonic-city.or.jp/organizer/hall.html",
+        "https://www.sonic-city.or.jp/organizer/smallhall.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1988年4月8日開館。現在のさいたま市大宮区。大ホール明記のない公演はホールを断定せず施設単位の集計を維持。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1988年4月8日開館。現在のさいたま市大宮区。大ホール明記のない公演はホールを断定せず施設単位の集計を維持。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1988年4月8日開館。所在地：さいたま市大宮区桜木町1-7-2。大ホール2,505席（車いす10席含む）。小ホール496席（車いす4席含む）。"
     },
     {
       "id": "jp-kanto-toda",
@@ -1984,10 +1993,12 @@
       "sources": [
         "https://www.zenkoubun.jp/search/hall_0110369.html",
         "https://toda-zaidan.org/bunkakaikan/shisetsu_bk/",
-        "https://www.city.toda.saitama.jp/soshiki/194/bunka-sport-access-kaikan.html"
+        "https://www.city.toda.saitama.jp/soshiki/194/bunka-sport-access-kaikan.html",
+        "https://www.city.toda.saitama.jp/soshiki/271/bunkakaikan-2.html",
+        "https://toda-zaidan.org/bunkakaikan/shisetsu_bk/hall/"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1981年1月14日開館。戸田市。施設単位の集計を維持しホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1981年1月14日開館。戸田市。施設単位の集計を維持しホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1981年1月14日開館。所在地：戸田市上戸田4-8-1。大ホール1,210席（固定1,204席・車いす6席）。"
     },
     {
       "id": "jp-kanto-lilia",
@@ -2000,10 +2011,11 @@
       "sources": [
         "https://www.zenkoubun.jp/search/hall_0110351.html",
         "https://lilia.or.jp/info/572",
-        "https://www.city.kawaguchi.lg.jp/soshiki/01060/035/oshirase/47045.html"
+        "https://www.city.kawaguchi.lg.jp/soshiki/01060/035/oshirase/47045.html",
+        "https://www.lilia.or.jp/sponsors/institutions"
       ],
       "verification": "provisional-location",
-      "note": "施設資料照合（2026-11-28）：1990年7月1日開館。改修後2026年4月1日プレオープン、7月1日グランドオープン。2026年4月から各ホールに新愛称。登録名「リリアホール」がメインホール・音楽ホールのどちらか特定できないため暫定を維持。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1990年7月1日開館。改修後2026年4月1日プレオープン、7月1日グランドオープン。2026年4月から各ホールに新愛称。登録名「リリアホール」がメインホール・音楽ホールのどちらか特定できないため暫定を維持。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1990年7月1日開館。所在地：川口市川口3-1-1。運営者告知では2026年4月1日プレオープン、7月1日グランドオープン。メインホールはフカガワみらいホール、音楽ホールは山伸サステインホール、催し広場はKAWAIリラホール。メインホール改修前2,002席から最大1,943席へ変更（エプロン1,619、オケピット1,740席）。音楽ホール改修前600席から550席へ変更。催し広場136席、予備椅子込み150席まで。 登録名リリアホールの個別ホールは未特定。表示名・確認区分は維持。"
     },
     {
       "id": "jp-kanto-koshigaya",
@@ -2017,10 +2029,12 @@
       "sources": [
         "https://www.zenkoubun.jp/search/hall_0110367.html",
         "https://www.city.koshigaya.saitama.jp/toiawase/shisetsu/siminkaikan/komisen.html",
-        "https://suncityhall.jp/hall2"
+        "https://suncityhall.jp/hall2",
+        "https://suncityhall.jp/hall1",
+        "https://www.city.koshigaya.saitama.jp/kurashi_shisei/shisei/keikaku/kakushukeikaku/shisei/nankoshisyuhen/suncityseibiuneikikan.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1979年8月27日開館（全国公立文化施設協会掲載）。越谷市の越谷コミュニティセンター（サンシティホール）。公式資料に小ホールが明記される。登録名を維持し、ホール未指定は断定しない。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1979年8月27日開館（全国公立文化施設協会掲載）。越谷市の越谷コミュニティセンター（サンシティホール）。公式資料に小ホールが明記される。登録名を維持し、ホール未指定は断定しない。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：所在地：越谷市南越谷1-2876-1。大ホール1,675席（車いす8含む）。小ホール490席（車いすスペース6含む）。市は2027年度まで既存施設の運営継続を案内（2025年11月時点の方針）。 既存の1979年8月27日開館記載は維持（今回原典再照合なし）。"
     },
     {
       "id": "jp-kanto-misato",
@@ -2035,23 +2049,25 @@
         "https://www.zenkoubun.jp/search/hall_0110375.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1984年7月28日開館。大・小ホールを備える三郷市文化会館。使用ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1984年7月28日開館。大・小ホールを備える三郷市文化会館。使用ホール未指定の記録は断定しない。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1984年7月28日開館。所在地：三郷市早稲田5-4-1。1983年2月1日起工、1984年5月31日竣工。大ホール1,292席、小ホール390席（公文協掲載値）。"
     },
     {
       "id": "jp-kanto-shiki",
       "prefecture": "埼玉県",
       "municipality": "志木市",
-      "name": "志木市民会館パルシティ",
+      "name": "志木市民会館パルシティ（旧施設）",
       "aliases": [
         "志木市民会館パルシティ"
       ],
       "sources": [
         "https://www.city.shiki.lg.jp/uploaded/attachment/5630.pdf",
         "https://www.city.shiki.lg.jp/soshiki/12/2314.html",
-        "https://www.city.shiki.lg.jp/site/hisyo/10144.html"
+        "https://www.city.shiki.lg.jp/site/hisyo/10144.html",
+        "https://www.saitama-np.co.jp/articles/26608/postDetail",
+        "https://www.city.shiki.lg.jp/soshiki/60/24756.html"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：ホール棟は1978年開設、2023年3月31日閉館。志木市の再整備資料による。仮設会議室とは別施設。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：ホール棟は1978年開設、2023年3月31日閉館。志木市の再整備資料による。仮設会議室とは別施設。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1978年ホール棟開設、1980年管理棟開設（報道）。2023年3月31日閉館。2023年5月からマルイ8階に仮設会議室設置を予定。市の説明では旧会館は解体済み、同じ用地に市民体育館と新複合施設を整備予定。建設・完成実績とは区別。"
     },
     {
       "id": "jp-kanto-sakurameito",
@@ -2063,10 +2079,11 @@
       ],
       "sources": [
         "https://www.zenkoubun.jp/search/hall_0110393.html",
-        "https://www.city.kumagaya.lg.jp/shisei/shisetsu/1003465/1003504.html"
+        "https://www.city.kumagaya.lg.jp/shisei/shisetsu/1003465/1003504.html",
+        "https://www.sakuramate.jp/facility/"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1998年1月10日開館。太陽のホールを市公式で確認。月のホールとは区別。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1998年1月10日開館。太陽のホールを市公式で確認。月のホールとは区別。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1998年1月10日開館。所在地：熊谷市拾六間111-1。太陽のホール1,000席（グランド803、バルコニー197）、オケピット使用時849席、別途車いすスペース4台分。公文協掲載は1,004席。公式の1,000席と車いすスペースを区別。"
     },
     {
       "id": "jp-kanto-okegawa",
@@ -2081,7 +2098,7 @@
         "https://www.okegawa-hall.jp/about/outline/"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1997年11月22日開館。さいたま文学館との複合施設。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1997年11月22日開館。さいたま文学館との複合施設。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1997年11月22日開館。所在地：桶川市若宮1-5-9。さいたま文学館と一体運営の複合施設。ホール700席、プチホール150席（公文協掲載値）。"
     },
     {
       "id": "jp-kanto-tokorozawa",
@@ -2093,10 +2110,13 @@
       ],
       "sources": [
         "https://www.muse-tokorozawa.or.jp/facility/",
-        "https://www.city.tokorozawa.saitama.jp/shisetu/bunka/shiminbunkacentermuse.html"
+        "https://www.city.tokorozawa.saitama.jp/shisetu/bunka/shiminbunkacentermuse.html",
+        "https://www.muse-tokorozawa.or.jp/facility/ark.php",
+        "https://www.muse-tokorozawa.or.jp/facility/marquee.php",
+        "https://www.muse-tokorozawa.or.jp/facility/cube.php"
       ],
       "verification": "confirmed",
-      "note": "施設資料照合（2026-11-28）：1993年11月1日開館。所沢市民文化センター ミューズ。2020年4月改修後再開。施設単位の集計を維持。 公演の個別原典確認を意味しない。"
+      "note": "施設資料照合（2026-11-28）：1993年11月1日開館。所沢市民文化センター ミューズ。2020年4月改修後再開。施設単位の集計を維持。 公演の個別原典確認を意味しない。\n施設詳細点検（2026-11-28）：1993年11月1日開館。所在地：所沢市並木1丁目9番地の1。1991年3月22日起工、1993年6月30日竣工。アークホール2,002席。マーキーホール798席、オケピット使用時710席。キューブホール318席、ステージ迫り未使用時342席。2018年12月～2020年3月改修休館、2020年4月再開。"
     },
     {
       "id": "jp-kanto-yagihashi",
@@ -2116,7 +2136,7 @@
         "https://chage.jp/information/live/detail-804.php"
       ],
       "verification": "confirmed",
-      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：百貨店公式案内で8階の多目的ホールを確認。開設時期・公演当時の施設同一性は未確認。既存別名と集計を維持。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：Chage公式公演アーカイブの百貨店8階カトレアホール表記と、百貨店公式施設案内の8階を照合。開設時期と全登録日付の厳密な対応未確定。 公演の個別原典確認を意味しない。 ／ 開催地再評価（2026-11-28）：百貨店公式の8階カトレアホール案内、主催者DISK GARAGEの2025年4月27日公演記録とChage公式の2026年4月29日告知を照合。開設年月日未確定。 登録施設単位の確認。開催状態・詳細沿革の確定とは別。"
+      "note": "【従前の備考】市区町村は暫定分類。個別の所在地・同一性の原典照合は今後実施。 ／ 施設資料照合（2026-11-28）：百貨店公式案内で8階の多目的ホールを確認。開設時期・公演当時の施設同一性は未確認。既存別名と集計を維持。 公演の個別原典確認を意味しない。 ／ 施設資料照合（2026-11-28）：Chage公式公演アーカイブの百貨店8階カトレアホール表記と、百貨店公式施設案内の8階を照合。開設時期と全登録日付の厳密な対応未確定。 公演の個別原典確認を意味しない。 ／ 開催地再評価（2026-11-28）：百貨店公式の8階カトレアホール案内、主催者DISK GARAGEの2025年4月27日公演記録とChage公式の2026年4月29日告知を照合。開設年月日未確定。 登録施設単位の確認。開催状態・詳細沿革の確定とは別。\n施設詳細点検（2026-11-28）：所在地：熊谷市仲町74、八木橋百貨店8階。芸術・文化等の催事に使用する総合多目的ホール。"
     },
     {
       "id": "jp-kanto-chiba-shimin",
@@ -9386,10 +9406,11 @@
       "sources": [
         "https://www.atomi.ac.jp/univ/about/philosophy/",
         "https://www.atomi.ac.jp/progress/history/002.html",
-        "https://www.chage-aska.net/history/"
+        "https://www.chage-aska.net/history/",
+        "https://www.atomi.ac.jp/univ/about/campus/access/"
       ],
       "verification": "provisional-location",
-      "note": "所在地暫定補完：大学公式沿革によると1965年に埼玉県新座市で開学し、文京キャンパスの開設は2008年。1981年の開催校地は新座市が有力。公演当日の会場資料は未確認。"
+      "note": "所在地暫定補完：大学公式沿革によると1965年に埼玉県新座市で開学し、文京キャンパスの開設は2008年。1981年の開催校地は新座市が有力。公演当日の会場資料は未確認。\n施設詳細点検（2026-11-28）：1963年に新座町大字大和田（現新座市中野）の大学校地を取得、1965年大学開学。公演使用施設の開館日ではない。現新座キャンパスの住所は新座市中野1-9-6。1981年の実際の公演地点は未確認。"
     }
   ]
 }
