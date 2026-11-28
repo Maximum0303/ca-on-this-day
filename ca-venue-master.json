@@ -1,5 +1,5 @@
 {
-  "version": "3.8.4-36",
+  "version": "3.8.4-37",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -83,7 +83,7 @@
         "https://www.city.sapporo.jp/shimin/bunka/gaiyo/documents/r4bunkagyousei3.pdf"
       ],
       "verification": "confirmed",
-      "note": "旧所在地：札幌市中央区北1条西12丁目街区。1971年から立地。2009年12月1日に施設全体を「さっぽろ芸術文化の館」に改称。2010年4月1日からホール部分の愛称は「ニトリ文化ホール」（閉館時の最終愛称）。客席2,300席。2018年9月末閉館、2020年1月から2022年6月まで解体工事。現存しない。札幌文化芸術劇場 hitaruとは別施設。登録表記「札幌厚生年金会館」はサイト管理者の確認に基づき同一施設として集計（2026-11-28）。"
+      "note": "旧所在地：札幌市中央区北1条西12丁目街区。1971年から立地。2009年12月1日に施設全体を「さっぽろ芸術文化の館」に改称。2010年4月1日からホール部分の愛称は「ニトリ文化ホール」（閉館時の最終愛称）。客席2,300席。2018年9月末閉館、2020年1月から2022年6月まで解体工事。現存しない。札幌文化芸術劇場 hitaruとは別施設。登録表記「札幌厚生年金会館」はサイト管理者の確認に基づき同一施設として集計（2026-11-28）。\n跡地について札幌市は定期借地権による土地利用の公募プロポーザルを案内している。新施設の完成・開業は今回未確認。"
     },
     {
       "id": "jp-hokkaido-asahikawa-kokaido",
@@ -98,7 +98,7 @@
         "https://www.zenkoubun.jp/search/hall_0011401.html"
       ],
       "verification": "confirmed",
-      "note": "所在地：旭川市常磐公園。1958年11月3日開館。旭川市民文化会館とは別施設。"
+      "note": "所在地：旭川市常磐公園。1958年11月3日開館。旭川市民文化会館とは別施設。\n客席：一般717席・車いす席5席。車いす席を使用しない場合は最大725席（旭川市の施設案内）。"
     },
     {
       "id": "jp-hokkaido-hakodate",
@@ -130,10 +130,11 @@
         "https://www.city.muroran.lg.jp/culture/?content=1481",
         "https://www.zenkoubun.jp/search/hall_0010005.html",
         "https://www.kujiran.net/culture/info/index.html",
-        "https://www.city.muroran.lg.jp/culture/?content=2004"
+        "https://www.city.muroran.lg.jp/culture/?content=2004",
+        "https://www.kujiran.net/culture/info/shisetsu01.html"
       ],
       "verification": "confirmed",
-      "note": "室ガス文化センター。室蘭市市民会館とは別。\n所在地：室蘭市幸町6番23号。1964年11月3日開館。愛称スワン、室ガス文化センター。\n現命名権契約期間：2023年4月1日～2027年3月31日。"
+      "note": "室ガス文化センター。室蘭市市民会館とは別。\n所在地：室蘭市幸町6番23号。1964年11月3日開館。愛称スワン、室ガス文化センター。\n現命名権契約期間：2023年4月1日～2027年3月31日。\n大ホール客席数1,307席（移動席11席を含む）。"
     },
     {
       "id": "jp-hokkaido-kushiro",
@@ -168,10 +169,11 @@
         "https://cocospo.go.jp/facility/31602",
         "https://www.city.sapporo.jp/s014/1738.html",
         "https://makomanai-park.jp/icearena/access/",
-        "https://www.pref.hokkaido.lg.jp/sm/zsk/fm/namingrights/makomanai.html"
+        "https://www.pref.hokkaido.lg.jp/sm/zsk/fm/namingrights/makomanai.html",
+        "https://makomanai-park.jp/icearena/seats/"
       ],
       "verification": "confirmed",
-      "note": "屋内競技場。屋外スタジアムとは別。\n北海道真駒内屋内競技場（真駒内セキスイハイムアイスアリーナ）。屋内スケート場としても使用される施設。\n所在地：札幌市南区真駒内公園1-1。施設案内上の名称は真駒内セキスイハイムアイスアリーナ。北海道の命名権契約案内（2025年4月1日～2028年3月31日）には「真駒内セキスイハイムアリーナ」と表記されるが、屋内競技場の同一施設。"
+      "note": "屋内競技場。屋外スタジアムとは別。\n北海道真駒内屋内競技場（真駒内セキスイハイムアイスアリーナ）。屋内スケート場としても使用される施設。\n所在地：札幌市南区真駒内公園1-1。施設案内上の名称は真駒内セキスイハイムアイスアリーナ。北海道の命名権契約案内（2025年4月1日～2028年3月31日）には「真駒内セキスイハイムアリーナ」と表記されるが、屋内競技場の同一施設。\n公式座席案内によるスタンド席6,024席。アリーナ仮設席等を含む公演時の収容人数とは区別する。"
     },
     {
       "id": "jp-hokkaido-obihiro-hall",
@@ -236,7 +238,7 @@
         "https://www.zepp.co.jp/news/4586/"
       ],
       "verification": "confirmed",
-      "note": "1998年4月、Zeppの第1号施設として開業。\n収容人数：スタンディング時2,009人、椅子使用時723人（施設案内の標準構成。公演時の実際の収容人数とは別）。"
+      "note": "1998年4月、Zeppの第1号施設として開業。\n収容人数：スタンディング時2,009人、椅子使用時723人（施設案内の標準構成。公演時の実際の収容人数とは別）。\n所在地：札幌市中央区南9条西4-4。"
     },
     {
       "id": "jp-hokkaido-sapporo-dome",
@@ -251,10 +253,11 @@
         "https://www.sapporo-dome.co.jp/dome/",
         "https://www.sapporo-dome.co.jp/information/2024/07/31/14150/",
         "https://www.sapporo-dome.co.jp/information/2024/07/19/14012/",
-        "https://prtimes.jp/main/html/rd/p/000000205.000054373.html"
+        "https://prtimes.jp/main/html/rd/p/000000205.000054373.html",
+        "https://www.sapporo-dome.co.jp/rule/qa/"
       ],
       "verification": "confirmed",
-      "note": "大和ハウス プレミストドーム。\n2001年6月2日開業。2024年8月1日から愛称「大和ハウス プレミストドーム」。\n命名権契約期間：2024年8月1日～2028年7月31日。札幌ドームは正式施設名。"
+      "note": "大和ハウス プレミストドーム。\n2001年6月2日開業。2024年8月1日から愛称「大和ハウス プレミストドーム」。\n命名権契約期間：2024年8月1日～2028年7月31日。札幌ドームは正式施設名。\n施設の最大収容人数53,820人。イベントごとに客席配置と収容人数は異なる。"
     },
     {
       "id": "jp-hokkaido-kitami",
@@ -268,10 +271,11 @@
         "https://www.kitami-hall.jp/shimin-hall/cityhall/",
         "https://kitamikanko.jp/spot/1219/",
         "https://www.city.kitami.lg.jp/administration/detail.php?content=9219",
-        "https://www.hokkaido-gas.co.jp/news/20250523"
+        "https://www.hokkaido-gas.co.jp/news/20250523",
+        "https://www.kitami-hall.jp/shimin-hall/cityhall/s_info/"
       ],
       "verification": "confirmed",
-      "note": "愛称：北ガス市民ホール。\n1972年開館。北見芸術文化ホールとは別施設。\n所在地：北見市常盤町2丁目1-10。命名権契約期間：2025年6月1日～2031年3月31日。"
+      "note": "愛称：北ガス市民ホール。\n1972年開館。北見芸術文化ホールとは別施設。\n所在地：北見市常盤町2丁目1-10。命名権契約期間：2025年6月1日～2031年3月31日。\n大ホール固定1,323席、立見127人、定員1,450人。"
     },
     {
       "id": "jp-hokkaido-tsukisamu",
@@ -301,10 +305,11 @@
       "sources": [
         "https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/crystalhall/",
         "https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/crystalhall/about/d082604.html",
-        "https://www.atca.jp/facilities/%E6%97%AD%E5%B7%9D%E5%A4%A7%E9%9B%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%83%9B%E3%83%BC%E3%83%AB/"
+        "https://www.atca.jp/facilities/%E6%97%AD%E5%B7%9D%E5%A4%A7%E9%9B%AA%E3%82%AF%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%AB%E3%83%9B%E3%83%BC%E3%83%AB/",
+        "https://www.city.asahikawa.hokkaido.jp/kurashi/329/348/crystalhall/questions/d083214.html"
       ],
       "verification": "confirmed",
-      "note": "所在地：旭川市神楽3条7丁目。1993年9月開館。音楽堂、国際会議場、博物館からなる複合施設。公演記録で室名が不明な場合は断定しない。"
+      "note": "所在地：旭川市神楽3条7丁目。1993年9月開館。音楽堂、国際会議場、博物館からなる複合施設。公演記録で室名が不明な場合は断定しない。\n音楽堂コンサート室：597席。"
     },
     {
       "id": "jp-hokkaido-mombetsu",
@@ -318,7 +323,7 @@
         "https://mombetsu.jp/education/?content=283"
       ],
       "verification": "confirmed",
-      "note": "1972年建設。中央公民館併設の文化施設。開館の正確な月日は未確認。"
+      "note": "1972年建設。中央公民館併設の文化施設。開館の正確な月日は未確認。\n大ホール収容人員：880席（市の施設案内）。"
     },
     {
       "id": "jp-hokkaido-tokachi",
@@ -331,10 +336,11 @@
       "sources": [
         "https://www.city.obihiro.hokkaido.jp/bunka/tokachi/1005448.html",
         "https://www.zenkoubun.jp/search/hall_0010055.html",
-        "https://www.city.obihiro.hokkaido.jp/bunka/tokachi/1005453.html"
+        "https://www.city.obihiro.hokkaido.jp/bunka/tokachi/1005453.html",
+        "https://okamotopbc.jp/tokachi-plaza/floor/2-rainbowhall/"
       ],
       "verification": "confirmed",
-      "note": "所在地：帯広市西4条南13丁目1。1995年11月1日開館。レインボーホールは施設内の2階。"
+      "note": "所在地：帯広市西4条南13丁目1。1995年11月1日開館。レインボーホールは施設内の2階。\nレインボーホール：350席。"
     },
     {
       "id": "jp-hokkaido-otaru",
@@ -347,10 +353,11 @@
       "sources": [
         "https://www.otarushiminkaikan.jp/center/",
         "https://www.zenkoubun.jp/search/hall_0010051.html",
-        "https://www.otarushiminkaikan.jp/center/facility/"
+        "https://www.otarushiminkaikan.jp/center/facility/",
+        "https://www.city.otaru.lg.jp/docs/2020111400412/"
       ],
       "verification": "confirmed",
-      "note": "1995年4月28日開館。市民センター内のマリンホール。"
+      "note": "1995年4月28日開館。市民センター内のマリンホール。\n所在地：小樽市色内2丁目13番5号。マリンホール：453席。"
     },
     {
       "id": "jp-hokkaido-kitara",
@@ -364,10 +371,13 @@
       "sources": [
         "https://sapporo-caf.org/facility/kitara/",
         "https://www.kitara-sapporo.or.jp/25th/",
-        "https://kitara-sapporo.or.jp/facility/index.html"
+        "https://kitara-sapporo.or.jp/facility/index.html",
+        "https://www.kitara-sapporo.or.jp/access/",
+        "https://www.kitara-sapporo.or.jp/facility/mainhall.html",
+        "https://www.kitara-sapporo.or.jp/rental/promoter_structure_smallhall.html"
       ],
       "verification": "confirmed",
-      "note": "施設単位の集計。ホール不明記録を大ホールと断定しない。\n1997年7月4日、中島公園内に開館。"
+      "note": "施設単位の集計。ホール不明記録を大ホールと断定しない。\n1997年7月4日、中島公園内に開館。\n所在地：札幌市中央区中島公園1番15号。大ホール2,008席、小ホール固定453席。"
     },
     {
       "id": "jp-hokkaido-artpark",
@@ -382,7 +392,7 @@
         "https://www.mountalive.com/hallguide/"
       ],
       "verification": "confirmed",
-      "note": "所在地：札幌市南区芸術の森2丁目75（園内施設の住所）。園内の野外ステージ。施設専用の座標は未確認。"
+      "note": "所在地：札幌市南区芸術の森2丁目75（園内施設の住所）。園内の野外ステージ。施設専用の座標は未確認。\n野外ステージの最大収容人数：5,000人。芝生客席を含む施設の最大値。"
     },
     {
       "id": "jp-hokkaido-penny",
@@ -426,10 +436,13 @@
       ],
       "sources": [
         "https://www.city.sapporo.jp/shimin/bunka/fukugou/fukugou.html",
-        "https://www.sapporo-community-plaza.jp/event_openingseries.html"
+        "https://www.sapporo-community-plaza.jp/event_openingseries.html",
+        "https://www.sapporo-community-plaza.jp/access.html",
+        "https://www.sapporo-community-plaza.jp/news.php?num=1748",
+        "https://www.sapporo-community-plaza.jp/facility_theater.html"
       ],
       "verification": "confirmed",
-      "note": "2018年10月開館。ニトリ文化ホール（旧北海道厚生年金会館）とは別施設。"
+      "note": "2018年10月開館。ニトリ文化ホール（旧北海道厚生年金会館）とは別施設。\n所在地：札幌市中央区北1条西1丁目（札幌市民交流プラザ）。劇場客席数2,302席。舞台・客席構成により使用可能席数は変動する。"
     },
     {
       "id": "jp-hokkaido-mega",
@@ -443,7 +456,7 @@
         "https://wow-st.jp/megastone/"
       ],
       "verification": "confirmed",
-      "note": "帯広市内のライブハウス。運営者による施設案内あり。開業日・移転履歴は未確認。"
+      "note": "帯広市内のライブハウス。運営者による施設案内あり。開業日・移転履歴は未確認。\n所在地：帯広市東6条南5丁目14。"
     },
     {
       "id": "jp-hokkaido-cube",
@@ -473,7 +486,7 @@
         "https://www.rokkatei.co.jp/hall/ticket/"
       ],
       "verification": "confirmed",
-      "note": "所在地：札幌市中央区北4条西6丁目3-3 六花亭札幌本店10階。6階のふきのとうホールとは別会場。"
+      "note": "所在地：札幌市中央区北4条西6丁目3-3 六花亭札幌本店10階。6階のふきのとうホールとは別会場。\nきたこぶしホール120席。"
     },
     {
       "id": "jp-tohoku-hachinohe",
