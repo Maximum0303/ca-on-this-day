@@ -1,5 +1,5 @@
 {
-  "version": "3.8.3-3-fix2",
+  "version": "3.8.3-4",
   "updated": "2026-11-28",
   "coverage": [
     "北海道",
@@ -15,7 +15,16 @@
     "埼玉県",
     "千葉県",
     "東京都",
-    "神奈川県"
+    "神奈川県",
+    "新潟県",
+    "富山県",
+    "石川県",
+    "福井県",
+    "山梨県",
+    "長野県",
+    "岐阜県",
+    "静岡県",
+    "愛知県"
   ],
   "entries": [
     {
@@ -3196,6 +3205,1225 @@
       "verification": "provisional-location",
       "titleContains": "熱風コンサート",
       "note": "2004年8月28日の熱風コンサート。公式年譜はお台場野外特設会場と記載。ファンの記録では青海第二駐車場とされ、所在地資料では江東区青海1丁目。2004年当時の正確な区画は一次資料未確認のため管理者了承のもと暫定分類。他のお台場公演には適用しない。"
+    },
+    {
+      "id": "jp-chubu-001",
+      "prefecture": "新潟県",
+      "municipality": "新潟市",
+      "name": "GOLDEN PIGS RED STAGE",
+      "aliases": [
+        "GOLDEN PIGS RED STAGE",
+        "新潟GOLDEN PIGS RED STAGE"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "表記差のみとして暫定集計。所在地の原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-002",
+      "prefecture": "新潟県",
+      "municipality": "新潟市",
+      "name": "りゅーとぴあ 新潟市民芸術文化会館 コンサートホール",
+      "aliases": [
+        "りゅーとぴあ 新潟市民芸術文化会館 コンサートホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-003",
+      "prefecture": "新潟県",
+      "municipality": "新潟市",
+      "name": "りゅーとぴあ新潟市民芸術文化会館 劇場",
+      "aliases": [
+        "りゅーとぴあ新潟市民芸術文化会館 劇場"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-004",
+      "prefecture": "新潟県",
+      "municipality": "湯沢町",
+      "name": "加山キャプテンコーストスキー場",
+      "aliases": [
+        "加山キャプテンコーストスキー場"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-005",
+      "prefecture": "新潟県",
+      "municipality": "妙高市",
+      "name": "新井市民会館（旧施設）",
+      "aliases": [
+        "新井市民会館"
+      ],
+      "sources": [
+        "https://www.city.myoko.niigata.jp/docs/801.html"
+      ],
+      "verification": "provisional-location",
+      "note": "旧新井市を現在の妙高市に分類。施設の詳細は未照合。"
+    },
+    {
+      "id": "jp-chubu-007",
+      "prefecture": "新潟県",
+      "municipality": "新潟市",
+      "name": "新潟県民会館",
+      "aliases": [
+        "新潟県民会館",
+        "新潟県民会館 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "施設単位の暫定集計。大ホール明記の原記録は維持。"
+    },
+    {
+      "id": "jp-chubu-009",
+      "prefecture": "新潟県",
+      "municipality": "新潟市",
+      "name": "新潟産業振興センター",
+      "aliases": [
+        "新潟産業振興センター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-010",
+      "prefecture": "新潟県",
+      "municipality": "村上市",
+      "name": "村上市民ふれあいセンター",
+      "aliases": [
+        "村上市民ふれあいセンター"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-011",
+      "prefecture": "新潟県",
+      "municipality": "長岡市",
+      "name": "長岡市立劇場",
+      "aliases": [
+        "長岡市立劇場"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-012",
+      "prefecture": "新潟県",
+      "municipality": "長岡市",
+      "name": "東山ファミリーランド",
+      "aliases": [
+        "東山ファミリーランド"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-013",
+      "prefecture": "新潟県",
+      "municipality": "柏崎市",
+      "name": "柏崎市民会館（旧施設）",
+      "aliases": [
+        "柏崎市市民会館",
+        "柏崎市民会館",
+        "柏崎市民会館ホール"
+      ],
+      "sources": [
+        "https://www.city.kashiwazaki.lg.jp/shisetsuannai_shisetsuyoyaku/shisetsuannai/kyoiku_bunka_sangyo/11032.html"
+      ],
+      "verification": "provisional-location",
+      "note": "旧市民会館の表記揺れとして暫定統合。2012年開館のアルフォーレとは別施設。"
+    },
+    {
+      "id": "jp-chubu-016",
+      "prefecture": "富山県",
+      "municipality": "富山市",
+      "name": "MAIRO",
+      "aliases": [
+        "MAIRO"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-017",
+      "prefecture": "富山県",
+      "municipality": "富山市",
+      "name": "オーバード・ホール（大ホール）",
+      "aliases": [
+        "オーバード・ホール",
+        "オーバード・ホール 大ホール",
+        "富山オーバードホール"
+      ],
+      "sources": [
+        "https://www.aubade.or.jp/access/",
+        "https://www.aubade.or.jp/about/"
+      ],
+      "verification": "confirmed",
+      "note": "中ホール開館前の公演を含む大ホール系統。中ホールは別集計。"
+    },
+    {
+      "id": "jp-chubu-019",
+      "prefecture": "富山県",
+      "municipality": "富山市",
+      "name": "オーバード・ホール 中ホール",
+      "aliases": [
+        "オーバード・ホール 中ホール"
+      ],
+      "sources": [
+        "https://www.aubade.or.jp/access/",
+        "https://www.aubade.or.jp/about/"
+      ],
+      "verification": "confirmed",
+      "note": "所在地・施設の同一性を資料で確認。"
+    },
+    {
+      "id": "jp-chubu-021",
+      "prefecture": "富山県",
+      "municipality": "富山市",
+      "name": "富山県民会館",
+      "aliases": [
+        "富山県民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-022",
+      "prefecture": "富山県",
+      "municipality": "富山市",
+      "name": "富山市公会堂",
+      "aliases": [
+        "富山市公会堂"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-023",
+      "prefecture": "石川県",
+      "municipality": "金沢市",
+      "name": "金沢GOLD CREEK",
+      "aliases": [
+        "金沢GOLD CREEK"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-024",
+      "prefecture": "石川県",
+      "municipality": "金沢市",
+      "name": "金沢歌劇座（旧 金沢市観光会館）",
+      "aliases": [
+        "金沢観光会館",
+        "金沢市観光会館"
+      ],
+      "sources": [
+        "https://www4.city.kanazawa.lg.jp/bunka_sports_kanko/bunka_geijutsu/17272.html"
+      ],
+      "verification": "confirmed",
+      "note": "2007年改称。旧名称の表記揺れを統合。"
+    },
+    {
+      "id": "jp-chubu-026",
+      "prefecture": "石川県",
+      "municipality": "金沢市",
+      "name": "本多の森北電ホール（旧 石川厚生年金会館）",
+      "aliases": [
+        "石川厚生年金会館",
+        "本多の森 北電ホール",
+        "本多の森ホール"
+      ],
+      "sources": [
+        "https://www.rikuden.co.jp/esg_community/hondanomori.html"
+      ],
+      "verification": "confirmed",
+      "note": "2009年に本多の森ホール、2023年に本多の森北電ホールへ改称。"
+    },
+    {
+      "id": "jp-chubu-027",
+      "prefecture": "石川県",
+      "municipality": "金沢市",
+      "name": "北國新聞赤羽ホール",
+      "aliases": [
+        "北國新聞赤羽ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-030",
+      "prefecture": "福井県",
+      "municipality": "越前市",
+      "name": "武生市民会館",
+      "aliases": [
+        "武生市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "旧武生市を現在の越前市に分類。施設の詳細は未照合。"
+    },
+    {
+      "id": "jp-chubu-031",
+      "prefecture": "福井県",
+      "municipality": "福井市",
+      "name": "福井フェニックス・プラザ",
+      "aliases": [
+        "福井フェニックス・プラザ エルピス 大ホール",
+        "福井フェニックスプラザ"
+      ],
+      "sources": [
+        "https://www.city.fukui.lg.jp/sisei/plan/reform/p026525.html",
+        "https://fukui-phoenixplaza.jp/hall/bighall/"
+      ],
+      "verification": "confirmed",
+      "note": "施設単位。2024年から大ホール愛称エルピス。ホール明記の原記録は維持。"
+    },
+    {
+      "id": "jp-chubu-033",
+      "prefecture": "福井県",
+      "municipality": "福井市",
+      "name": "福井フェニックスホール",
+      "aliases": [
+        "福井フェニックスホール"
+      ],
+      "sources": [
+        "https://fukui-phoenixplaza.jp/hall/bighall/"
+      ],
+      "verification": "provisional-location",
+      "note": "フェニックス・プラザとの同一性は未確定のため別集計。"
+    },
+    {
+      "id": "jp-chubu-034",
+      "prefecture": "福井県",
+      "municipality": "福井市",
+      "name": "福井市文化会館",
+      "aliases": [
+        "福井市文化会館"
+      ],
+      "sources": [
+        "https://www.livewalker.com/web/detail/21642"
+      ],
+      "verification": "provisional-location",
+      "note": "福井市内。福井市民会館表記との同一性は保留。"
+    },
+    {
+      "id": "jp-chubu-035",
+      "prefecture": "福井県",
+      "municipality": "福井市",
+      "name": "福井市民会館",
+      "aliases": [
+        "福井市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "福井市文化会館との同一性は保留。"
+    },
+    {
+      "id": "jp-chubu-036",
+      "prefecture": "山梨県",
+      "municipality": "甲府市",
+      "name": "YCC県民文化ホール（山梨県立県民文化ホール）",
+      "aliases": [
+        "YCC県民文化ホール 大ホール（山梨県立県民文化ホール）",
+        "山梨県民文化ホール"
+      ],
+      "sources": [
+        "https://www.yamanashi-kbh.jp/about/outline/"
+      ],
+      "verification": "confirmed",
+      "note": "施設単位。旧県民会館は別施設。小ホール明記の記録も別集計。"
+    },
+    {
+      "id": "jp-chubu-037",
+      "prefecture": "山梨県",
+      "municipality": "甲府市",
+      "name": "桜座",
+      "aliases": [
+        "桜座"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-038",
+      "prefecture": "山梨県",
+      "municipality": "甲府市",
+      "name": "山梨県民会館（旧施設）",
+      "aliases": [
+        "山梨県民会館"
+      ],
+      "sources": [
+        "https://www.pref.yamanashi.jp/ebook/fureai/vol24_2/pageindices/index23.html"
+      ],
+      "verification": "provisional-location",
+      "note": "県民文化ホールとは別施設。1983年公演の具体的会場は未照合。"
+    },
+    {
+      "id": "jp-chubu-040",
+      "prefecture": "山梨県",
+      "municipality": "甲府市",
+      "name": "山梨県立県民文化ホール 小ホール",
+      "aliases": [
+        "山梨県立県民文化ホール 小ホール"
+      ],
+      "sources": [
+        "https://www.yamanashi-kbh.jp/about/outline/"
+      ],
+      "verification": "confirmed",
+      "note": "所在地・施設の同一性を資料で確認。"
+    },
+    {
+      "id": "jp-chubu-041",
+      "prefecture": "山梨県",
+      "municipality": "富士吉田市",
+      "name": "富士急ハイランド コニファーフォレスト",
+      "aliases": [
+        "富士急ハイランド コニファーフォレスト"
+      ],
+      "sources": [
+        "https://www.red-hot.ne.jp/venue/detail.php?id=pl152"
+      ],
+      "verification": "confirmed",
+      "note": "主催者案内の所在地で分類。"
+    },
+    {
+      "id": "jp-chubu-042",
+      "prefecture": "長野県",
+      "municipality": "長野市",
+      "name": "長野CLUB JUNK BOX（移転後）",
+      "aliases": [
+        "CLUB JUNK BOX"
+      ],
+      "sources": [
+        "https://www.fobkikaku.co.jp/hall.php?hid=114"
+      ],
+      "verification": "confirmed",
+      "note": "2021年移転後の2024年公演。"
+    },
+    {
+      "id": "jp-chubu-043",
+      "prefecture": "長野県",
+      "municipality": "松本市",
+      "name": "LIVE HOUSE 箱船",
+      "aliases": [
+        "LIVE HOUSE 箱船"
+      ],
+      "sources": [
+        "https://hakobune.space/access/"
+      ],
+      "verification": "confirmed",
+      "note": "会場公式で所在地確認。"
+    },
+    {
+      "id": "jp-chubu-044",
+      "prefecture": "長野県",
+      "municipality": "長野市",
+      "name": "ホクト文化ホール（長野県県民文化会館）",
+      "aliases": [
+        "ホクト文化ホール",
+        "ホクト文化ホール 大ホール",
+        "長野県県民文化会館",
+        "長野県県民文化会館大ホール"
+      ],
+      "sources": [
+        "https://naganobunka.or.jp/facility_01/"
+      ],
+      "verification": "confirmed",
+      "note": "2009年愛称変更。施設単位で集計し原記録のホール表記を維持。"
+    },
+    {
+      "id": "jp-chubu-046",
+      "prefecture": "長野県",
+      "municipality": "松本市",
+      "name": "松本市民会館",
+      "aliases": [
+        "松本市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-047",
+      "prefecture": "長野県",
+      "municipality": "長野市",
+      "name": "長野CLUB JUNK BOX（移転前）",
+      "aliases": [
+        "長野CLUB JUNK BOX"
+      ],
+      "sources": [
+        "https://www.fobkikaku.co.jp/hall.php?hid=114",
+        "https://works-zero.jp/article/_nagano_club_junk_box_again_10open/"
+      ],
+      "verification": "confirmed",
+      "note": "2014年公演。2021年移転前の店舗。"
+    },
+    {
+      "id": "jp-chubu-050",
+      "prefecture": "長野県",
+      "municipality": "長野市",
+      "name": "長野市民会館",
+      "aliases": [
+        "長野市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-051",
+      "prefecture": "長野県",
+      "municipality": "安曇野市",
+      "name": "穂高ビューホテル",
+      "aliases": [
+        "穂高ビューホテル"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "旧穂高町を現在の安曇野市に分類。"
+    },
+    {
+      "id": "jp-chubu-052",
+      "prefecture": "岐阜県",
+      "municipality": "岐阜市",
+      "name": "CLUB-G",
+      "aliases": [
+        "CLUB-G"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-053",
+      "prefecture": "岐阜県",
+      "municipality": "岐阜市",
+      "name": "岐阜市民会館",
+      "aliases": [
+        "岐阜市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-054",
+      "prefecture": "岐阜県",
+      "municipality": "高山市",
+      "name": "高山市民文化会館 小ホール",
+      "aliases": [
+        "高山市民文化会館 小ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-055",
+      "prefecture": "岐阜県",
+      "municipality": "岐阜市",
+      "name": "長良川国際会議場",
+      "aliases": [
+        "長良川国際会議場",
+        "長良川国際会議場 メインホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "同一施設の表記差として暫定集計。メインホール明記の原記録は維持。"
+    },
+    {
+      "id": "jp-chubu-057",
+      "prefecture": "岐阜県",
+      "municipality": "土岐市",
+      "name": "土岐市文化プラザ",
+      "aliases": [
+        "土岐市文化プラザ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-058",
+      "prefecture": "岐阜県",
+      "municipality": "海津市",
+      "name": "南濃町文化会館",
+      "aliases": [
+        "南濃町文化会館"
+      ],
+      "sources": [
+        "https://www.city.kaizu.lg.jp/shisei/0000000129.html"
+      ],
+      "verification": "provisional-location",
+      "note": "旧南濃町を現在の海津市に分類。施設の詳細は未照合。"
+    },
+    {
+      "id": "jp-chubu-059",
+      "prefecture": "静岡県",
+      "municipality": "浜松市",
+      "name": "Live House 浜松窓枠",
+      "aliases": [
+        "Live House 浜松窓枠"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-060",
+      "prefecture": "静岡県",
+      "municipality": "静岡市",
+      "name": "LIVE ROXY SHIZUOKA",
+      "aliases": [
+        "LIVE ROXY SHIZUOKA"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-061",
+      "prefecture": "静岡県",
+      "municipality": "静岡市",
+      "name": "SOUND SHOWER ark",
+      "aliases": [
+        "SOUND SHOWER ark"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-062",
+      "prefecture": "静岡県",
+      "municipality": "浜松市",
+      "name": "アクトシティ浜松",
+      "aliases": [
+        "アクトシティ浜松",
+        "アクトシティ浜松 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "施設単位の暫定集計。大ホール明記の原記録は維持。"
+    },
+    {
+      "id": "jp-chubu-064",
+      "prefecture": "静岡県",
+      "municipality": "静岡市",
+      "name": "グランシップ 大ホール・海",
+      "aliases": [
+        "グランシップ 大ホール・海"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-065",
+      "prefecture": "静岡県",
+      "municipality": "掛川市",
+      "name": "つま恋",
+      "aliases": [
+        "つま恋"
+      ],
+      "sources": [
+        "https://www.hmihotelgroup.com/sainosato/outline/index.html"
+      ],
+      "verification": "provisional-location",
+      "note": "施設代表所在地で分類。具体的な開催区画は未確認。"
+    },
+    {
+      "id": "jp-chubu-066",
+      "prefecture": "静岡県",
+      "municipality": "掛川市",
+      "name": "つま恋エキシビジョンホール",
+      "aliases": [
+        "つま恋エキシビジョンホール"
+      ],
+      "sources": [
+        "https://www.hmihotelgroup.com/sainosato/outline/index.html"
+      ],
+      "verification": "provisional-location",
+      "note": "施設代表所在地で分類。開催当時のホール所在地の詳細は未確認。"
+    },
+    {
+      "id": "jp-chubu-067",
+      "prefecture": "静岡県",
+      "municipality": "掛川市",
+      "name": "つま恋多目的広場",
+      "aliases": [
+        "つま恋多目的広場"
+      ],
+      "sources": [
+        "https://eplus.jp/sf/venue/4360011"
+      ],
+      "verification": "provisional-location",
+      "note": "多目的広場の所在地案内。"
+    },
+    {
+      "id": "jp-chubu-068",
+      "prefecture": "静岡県",
+      "municipality": "東伊豆町",
+      "name": "伊豆稲取高原スポーツパーク野外特設会場",
+      "aliases": [
+        "伊豆稲取高原スポーツパーク野外特設会場"
+      ],
+      "sources": [
+        "https://www.chage-aska.net/history/"
+      ],
+      "verification": "provisional-location",
+      "note": "伊豆稲取の地名から東伊豆町に暫定分類。特設会場の正確な地点は未確認。"
+    },
+    {
+      "id": "jp-chubu-069",
+      "prefecture": "静岡県",
+      "municipality": "三島市",
+      "name": "三島市公会堂",
+      "aliases": [
+        "三島市公会堂"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-070",
+      "prefecture": "静岡県",
+      "municipality": "静岡市",
+      "name": "静岡市清水文化会館マリナート ホール",
+      "aliases": [
+        "静岡市清水文化会館マリナート ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-071",
+      "prefecture": "静岡県",
+      "municipality": "静岡市",
+      "name": "静岡市文化会館",
+      "aliases": [
+        "静岡市文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "静岡市民文化会館との同一性は保留。"
+    },
+    {
+      "id": "jp-chubu-072",
+      "prefecture": "静岡県",
+      "municipality": "静岡市",
+      "name": "静岡市民文化会館",
+      "aliases": [
+        "静岡市民文化会館",
+        "静岡市民文化会館 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "施設単位の暫定集計。中ホール明記の記録は別集計。静岡市文化会館との同一性は保留。"
+    },
+    {
+      "id": "jp-chubu-074",
+      "prefecture": "静岡県",
+      "municipality": "静岡市",
+      "name": "静岡市民文化会館中ホール",
+      "aliases": [
+        "静岡市民文化会館中ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-075",
+      "prefecture": "静岡県",
+      "municipality": "静岡市",
+      "name": "静岡女子大（清水市民文化会館）",
+      "aliases": [
+        "静岡女子大（清水市民文化会館）"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "括弧内の旧清水市会場を現在の静岡市に分類。"
+    },
+    {
+      "id": "jp-chubu-076",
+      "prefecture": "静岡県",
+      "municipality": "浜松市",
+      "name": "窓枠Cafe AOZORA",
+      "aliases": [
+        "窓枠Cafe AOZORA"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-077",
+      "prefecture": "静岡県",
+      "municipality": "島田市",
+      "name": "島田工業高校（島田市民会館）",
+      "aliases": [
+        "島田工業高校（島田市民会館）"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "括弧内の会場所在地で分類。"
+    },
+    {
+      "id": "jp-chubu-078",
+      "prefecture": "静岡県",
+      "municipality": "浜松市",
+      "name": "浜松アリーナ",
+      "aliases": [
+        "浜松アリーナ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-079",
+      "prefecture": "静岡県",
+      "municipality": "浜松市",
+      "name": "浜松市勤労会館Uホール",
+      "aliases": [
+        "浜松市勤労会館Uホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-080",
+      "prefecture": "静岡県",
+      "municipality": "浜松市",
+      "name": "浜松市民会館",
+      "aliases": [
+        "浜松市民会館"
+      ],
+      "sources": [
+        "https://adeac.jp/hamamatsu-city/texthtml/d100050/mp010050-100050/ht002570"
+      ],
+      "verification": "provisional-location",
+      "note": "旧浜松市民会館。アクトシティ浜松と別集計。"
+    },
+    {
+      "id": "jp-chubu-081",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "COMTEC PORTBASE",
+      "aliases": [
+        "COMTEC PORTBASE"
+      ],
+      "sources": [
+        "https://portbase.co.jp/facility/"
+      ],
+      "verification": "confirmed",
+      "note": "会場公式で所在地確認。"
+    },
+    {
+      "id": "jp-chubu-082",
+      "prefecture": "愛知県",
+      "municipality": "長久手市",
+      "name": "EXPOドーム",
+      "aliases": [
+        "EXPOドーム"
+      ],
+      "sources": [
+        "https://www.eic.or.jp/news/?act=view&serial=9849"
+      ],
+      "verification": "provisional-location",
+      "note": "2005年長久手町のEXPOドーム。現在の長久手市に暫定分類。"
+    },
+    {
+      "id": "jp-chubu-083",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "IGアリーナ",
+      "aliases": [
+        "IGアリーナ"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-084",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "Zepp Nagoya",
+      "aliases": [
+        "Zepp Nagoya",
+        "Zepp名古屋"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "英字・日本語の表記差として暫定集計。"
+    },
+    {
+      "id": "jp-chubu-086",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "アートピアホール",
+      "aliases": [
+        "アートピアホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-087",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "ウェスティンナゴヤキャッスル",
+      "aliases": [
+        "ウェスティンナゴヤキャッスル"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-088",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "名古屋ダイアモンドホール",
+      "aliases": [
+        "ダイアモンドホール",
+        "名古屋ダイアモンドホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "地域名の有無による表記差として暫定集計。"
+    },
+    {
+      "id": "jp-chubu-089",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "名古屋ボトムライン",
+      "aliases": [
+        "ボトムライン",
+        "名古屋ボトムライン"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "地域名の有無による表記差として暫定集計。"
+    },
+    {
+      "id": "jp-chubu-090",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "メニコンシアターAoi",
+      "aliases": [
+        "メニコンシアターAoi"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-091",
+      "prefecture": "愛知県",
+      "municipality": "長久手市",
+      "name": "愛・地球博記念公園",
+      "aliases": [
+        "愛・地球博記念公園"
+      ],
+      "sources": [
+        "https://www.pref.aichi.jp/soshiki/owari-kensetsu/0000043697.html"
+      ],
+      "verification": "provisional-location",
+      "note": "公園所在地。具体的な会場区画は未確認。"
+    },
+    {
+      "id": "jp-chubu-092",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "愛知勤労会館",
+      "aliases": [
+        "愛知勤労会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-093",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "愛知県芸術劇場 コンサートホール",
+      "aliases": [
+        "愛知県芸術劇場 コンサートホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-094",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "愛知県芸術劇場 小ホール",
+      "aliases": [
+        "愛知県芸術劇場 小ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-095",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "愛知県芸術劇場 大ホール",
+      "aliases": [
+        "愛知県芸術劇場 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-096",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "愛知県体育館",
+      "aliases": [
+        "愛知県体育館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-097",
+      "prefecture": "愛知県",
+      "municipality": "一宮市",
+      "name": "一宮市民会館",
+      "aliases": [
+        "一宮市民会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-098",
+      "prefecture": "愛知県",
+      "municipality": "刈谷市",
+      "name": "刈谷市総合文化センター",
+      "aliases": [
+        "刈谷市総合文化センター",
+        "刈谷市総合文化センター 大ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "施設単位の暫定集計。大ホール明記の原記録は維持。"
+    },
+    {
+      "id": "jp-chubu-100",
+      "prefecture": "愛知県",
+      "municipality": "大府市",
+      "name": "中京女子大学（現 至学館大学）",
+      "aliases": [
+        "中京女子大"
+      ],
+      "sources": [
+        "https://www.sgk.ac.jp/dousoukai/about/history.html"
+      ],
+      "verification": "provisional-location",
+      "note": "1963年大府市に開学。1980年学園祭の具体的校地は未確認。"
+    },
+    {
+      "id": "jp-chubu-101",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "中京大学文化市民会館プルニエホール",
+      "aliases": [
+        "中京大学文化市民会館プルニエホール"
+      ],
+      "sources": [
+        "https://www.sundayfolk.com/info/sundy/105/"
+      ],
+      "verification": "confirmed",
+      "note": "名古屋市民会館 中ホール（現ビレッジホール）。大ホールやホール不明とは別集計。"
+    },
+    {
+      "id": "jp-chubu-102",
+      "prefecture": "愛知県",
+      "municipality": "みよし市",
+      "name": "東海学園三好キャンパス",
+      "aliases": [
+        "東海学園三好キャンパス"
+      ],
+      "sources": [
+        "https://www.tokaigakuen-u.ac.jp/about_us/access/"
+      ],
+      "verification": "confirmed",
+      "note": "旧三好町を現在のみよし市に分類。"
+    },
+    {
+      "id": "jp-chubu-103",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "クロコくんホール（旧 レインボーホール／日本ガイシホール）",
+      "aliases": [
+        "日本ガイシホール",
+        "名古屋市総合体育館 レインボーホール"
+      ],
+      "sources": [
+        "https://www.city.nagoya.jp/houdou/pressr7/3002888/3003605.html"
+      ],
+      "verification": "confirmed",
+      "note": "名古屋市総合体育館の同一ホール。2026年の愛称変更を含む。"
+    },
+    {
+      "id": "jp-chubu-104",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "日本特殊陶業市民会館 フォレストホール",
+      "aliases": [
+        "日本特殊陶業市民会館 フォレストホール"
+      ],
+      "sources": [
+        "https://www.city.nagoya.jp/kankou/bunka/1034457/1016004/1016032.html"
+      ],
+      "verification": "confirmed",
+      "note": "名古屋市民会館 大ホール。中ホール・ホール不明とは別集計。"
+    },
+    {
+      "id": "jp-chubu-105",
+      "prefecture": "愛知県",
+      "municipality": "半田市",
+      "name": "半田市福祉文化会館",
+      "aliases": [
+        "半田市福祉文化会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-106",
+      "prefecture": "愛知県",
+      "municipality": "豊橋市",
+      "name": "豊橋勤労会館",
+      "aliases": [
+        "豊橋勤労会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "豊橋勤労福祉会館との同一性は保留。"
+    },
+    {
+      "id": "jp-chubu-107",
+      "prefecture": "愛知県",
+      "municipality": "豊橋市",
+      "name": "豊橋勤労福祉会館",
+      "aliases": [
+        "豊橋勤労福祉会館"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "豊橋勤労会館との同一性は保留。"
+    },
+    {
+      "id": "jp-chubu-108",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "名古屋国際会議場 センチュリーホール",
+      "aliases": [
+        "名古屋センチュリーホール",
+        "名古屋国際会議場 センチュリーホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "表記差として暫定集計。"
+    },
+    {
+      "id": "jp-chubu-110",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "名古屋ブルーノート",
+      "aliases": [
+        "名古屋ブルーノート"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-114",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "名古屋市民会館",
+      "aliases": [
+        "名古屋市民会館"
+      ],
+      "sources": [
+        "https://www.city.nagoya.jp/kankou/bunka/1034457/1016004/1016032.html"
+      ],
+      "verification": "confirmed",
+      "note": "名古屋市民会館。ホール未特定の記録として集計。"
+    },
+    {
+      "id": "jp-chubu-115",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "名古屋城深井丸",
+      "aliases": [
+        "名古屋城深井丸"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-116",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "名鉄ホール",
+      "aliases": [
+        "名鉄ホール"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
+    },
+    {
+      "id": "jp-chubu-117",
+      "prefecture": "愛知県",
+      "municipality": "名古屋市",
+      "name": "矢場公園",
+      "aliases": [
+        "矢場公園"
+      ],
+      "sources": [],
+      "verification": "provisional-location",
+      "note": "市町村の暫定分類。開催当時の所在地・施設同一性の個別原典照合は今後実施。"
     }
   ]
 }
