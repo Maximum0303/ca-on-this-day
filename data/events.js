@@ -83810,7 +83810,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Billboard Live 67 to 68",
       "status": "recorded",
       "verification": "primary",
-      "tourId": "chage-billboard-67-68-2026",
+      "tourId": "chage-billboard-67-68",
       "venue": "ビルボードライブ大阪",
       "prefecture": "大阪府",
       "country": "日本",
@@ -83826,7 +83826,8 @@ window.CA_EVENT_DATA = {
           "url": "https://www.billboard-live.com/osaka/show?event_id=ev-20848"
         }
       ],
-      "description": "2026年1月9日、Chageの「Chage Billboard Live 67 to 68」がビルボードライブ大阪で開催された。"
+      "description": "2026年1月9日、Chageの「Chage Billboard Live 67 to 68」がビルボードライブ大阪で開催された。",
+      "performanceNo": 5
     },
     {
       "id": "v16-0035",
@@ -83836,7 +83837,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Billboard Live 67 to 68",
       "status": "recorded",
       "verification": "primary",
-      "tourId": "chage-billboard-67-68-2026",
+      "tourId": "chage-billboard-67-68",
       "venue": "ビルボードライブ大阪",
       "prefecture": "大阪府",
       "country": "日本",
@@ -83852,7 +83853,8 @@ window.CA_EVENT_DATA = {
           "url": "https://www.billboard-live.com/osaka/show?event_id=ev-20848"
         }
       ],
-      "description": "2026年1月9日、Chageの「Chage Billboard Live 67 to 68」がビルボードライブ大阪で開催された。"
+      "description": "2026年1月9日、Chageの「Chage Billboard Live 67 to 68」がビルボードライブ大阪で開催された。",
+      "performanceNo": 6
     },
     {
       "id": "v16-0036",
@@ -83862,7 +83864,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Billboard Live 67 to 68",
       "status": "recorded",
       "verification": "primary",
-      "tourId": "chage-billboard-67-68-2026",
+      "tourId": "chage-billboard-67-68",
       "venue": "ビルボードライブ東京",
       "prefecture": "東京都",
       "country": "日本",
@@ -83878,7 +83880,8 @@ window.CA_EVENT_DATA = {
           "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-20849"
         }
       ],
-      "description": "2026年1月11日、Chageの「Chage Billboard Live 67 to 68」がビルボードライブ東京で開催された。"
+      "description": "2026年1月11日、Chageの「Chage Billboard Live 67 to 68」がビルボードライブ東京で開催された。",
+      "performanceNo": 7
     },
     {
       "id": "v16-0037",
@@ -83888,7 +83891,7 @@ window.CA_EVENT_DATA = {
       "title": "Chage Billboard Live 67 to 68",
       "status": "recorded",
       "verification": "primary",
-      "tourId": "chage-billboard-67-68-2026",
+      "tourId": "chage-billboard-67-68",
       "venue": "ビルボードライブ東京",
       "prefecture": "東京都",
       "country": "日本",
@@ -83904,7 +83907,8 @@ window.CA_EVENT_DATA = {
           "url": "https://www.billboard-live.com/tokyo/show?event_id=ev-20849"
         }
       ],
-      "description": "2026年1月11日、Chageの「Chage Billboard Live 67 to 68」がビルボードライブ東京で開催された。"
+      "description": "2026年1月11日、Chageの「Chage Billboard Live 67 to 68」がビルボードライブ東京で開催された。",
+      "performanceNo": 8
     },
     {
       "id": "v16-0115",
@@ -85591,7 +85595,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-817.php"
         }
       ],
-      "description": "2026年9月21日、Chageの「ChageLiveTour2026 One Love」がZepp Nagoyaで開催された。"
+      "description": "2026年9月21日、Chageの「ChageLiveTour2026 One Love」がZepp Nagoyaで開催された。",
+      "performanceNo": 1
     },
     {
       "id": "v16-0095",
@@ -85630,7 +85635,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-817.php"
         }
       ],
-      "description": "2026年9月22日、Chageの「ChageLiveTour2026 One Love」がZepp Nambaで開催された。"
+      "description": "2026年9月22日、Chageの「ChageLiveTour2026 One Love」がZepp Nambaで開催された。",
+      "performanceNo": 2
     },
     {
       "id": "v16-0082",
@@ -85773,7 +85779,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-817.php"
         }
       ],
-      "description": "2026年10月4日、Chageの「ChageLiveTour2026 One Love」がZepp DiverCity TOKYOで開催された。"
+      "description": "2026年10月4日、Chageの「ChageLiveTour2026 One Love」がZepp DiverCity TOKYOで開催された。",
+      "performanceNo": 3
     },
     {
       "id": "v16-0099",
@@ -85951,7 +85958,8 @@ window.CA_EVENT_DATA = {
           "url": "https://chage.jp/information/live/detail-817.php"
         }
       ],
-      "description": "2026年10月12日、Chageの「ChageLiveTour2026 One Love」が電気ビル みらいホールで開催された。"
+      "description": "2026年10月12日、Chageの「ChageLiveTour2026 One Love」が電気ビル みらいホールで開催された。",
+      "performanceNo": 4
     },
     {
       "id": "v16-0101",
@@ -104166,5 +104174,5 @@ window.CA_EVENT_DATA = {
       ]
     }
   ],
-  "siteVersion": "2.9.18"
+  "siteVersion": "2.9.20"
 };
